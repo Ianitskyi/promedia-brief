@@ -15,7 +15,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 
 <section id="home" class="screen active">
 <div class="hero"><h1>Все важливе.<br>За 10 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у персональному аудіовипуску.</p></div>
-<div class="audio"><div class="eyebrow" style="color:#aaa">Сьогодні • демо</div><h2 style="margin-top:8px">Ранковий бриф</h2><div class="audio-row"><button class="play" onclick="toggleSpeech()" id="playBtn">▶</button><div><b>10 історій</b><div class="tiny" style="color:#aaa">орієнтовно 9:48</div></div></div><div class="bar"><div class="prog"></div></div></div>
+<div class="audio"><div class="eyebrow" style="color:#aaa">Сьогодні • аудіо</div><h2 style="margin-top:8px">Ранковий бриф</h2><div class="audio-row"><button class="play" onclick="toggleBriefAudio()" id="playBtn">▶</button><div><b>10 історій</b><div class="tiny" style="color:#aaa" id="audioStatus">готуємо нову озвучку</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div><audio id="briefAudio" preload="metadata"></audio></div>
 <div class="card"><div class="split"><div><div class="eyebrow">Ваші теми</div><h2 style="margin-top:6px">Економіка, медіа, AI</h2></div><span class="status">3 активні</span></div><button class="secondary" onclick="go('topics')">Налаштувати інтереси</button></div>
 <div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Він створює коротке аудіорезюме, називає джерело і веде слухача до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">На старті беремо тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа. Paywall і ліцензійні моделі — пізніше.</div>
 </section>
@@ -26,7 +26,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </section>
 
 <section id="brief" class="screen">
-<div class="eyebrow">Персональний випуск</div><h1 style="font-size:34px">Ваш бриф</h1><div class="audio"><div class="audio-row"><button class="play" onclick="toggleSpeech()" id="playBtn2">▶</button><div><b>Ранковий випуск</b><div class="tiny" style="color:#aaa">демонстраційні історії • не реальні новини</div></div></div></div>
+<div class="eyebrow">Персональний випуск</div><h1 style="font-size:34px">Ваш бриф</h1><div class="audio"><div class="audio-row"><button class="play" onclick="toggleBriefAudio()" id="playBtn2">▶</button><div><b>Ранковий випуск</b><div class="tiny" style="color:#aaa">нова нейромережева озвучка буде тут</div></div></div></div>
 <div class="card" id="stories"></div>
 <div class="card"><div class="eyebrow">Ask the news</div><h2 style="margin-top:6px">Запитайте про бриф</h2><div class="ask"><input id="question" placeholder="Що це означає для бізнесу?"/><button onclick="fakeAsk()">↑</button></div><div id="answer" class="answer"></div></div>
 </section>
@@ -60,8 +60,35 @@ const demoStories=[
 document.getElementById('stories').innerHTML=demoStories.map((s,i)=>`<article class="story"><div class="story-num">0${i+1} • ДЕМО</div><h3>${s.title}</h3><div class="muted">${s.text}</div><div class="sources">${s.src.map(x=>`<span class="tag">${x}</span>`).join('')}</div></article>`).join('');
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
 function saveTopics(){localStorage.setItem('brief-topics',JSON.stringify([...selected]));go('brief')}
-let speaking=false;function toggleSpeech(){if(!('speechSynthesis' in window)){alert('Ваш браузер не підтримує озвучення.');return}if(speaking){speechSynthesis.cancel();speaking=false;updatePlay();return}const text='Доброго ранку. Це BRIEF by ProMedia — демонстраційний персональний аудіобриф. У реальному продукті тут будуть актуальні новини лише з перевірених українських медіа. Перша історія. Урядове рішення: що змінюється для економіки. Друга історія. Українські медіа тестують нові інструменти штучного інтелекту. Третя історія. Що сьогодні варто прочитати повністю.';const u=new SpeechSynthesisUtterance(text);u.lang='uk-UA';u.rate=.96;u.onend=()=>{speaking=false;updatePlay()};speaking=true;updatePlay();speechSynthesis.speak(u)}
-function updatePlay(){['playBtn','playBtn2'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=speaking?'■':'▶'})}
+const audio=document.getElementById('briefAudio');
+const audioStatus=document.getElementById('audioStatus');
+const audioProgress=document.getElementById('audioProgress');
+let audioReady=false;
+
+// Production audio will be rendered server-side and stored as an MP3.
+// Until the first ElevenLabs render is connected, the player stays non-destructive.
+audio.addEventListener('loadedmetadata',()=>{audioReady=true;audioStatus.textContent=formatTime(audio.duration);});
+audio.addEventListener('timeupdate',()=>{if(audio.duration) audioProgress.style.width=((audio.currentTime/audio.duration)*100)+'%';});
+audio.addEventListener('play',updatePlay);
+audio.addEventListener('pause',updatePlay);
+audio.addEventListener('ended',()=>{audio.currentTime=0;updatePlay();});
+
+function toggleBriefAudio(){
+  if(!audioReady || !audio.src){
+    audioStatus.textContent='нова озвучка готується';
+    return;
+  }
+  audio.paused ? audio.play() : audio.pause();
+}
+function updatePlay(){
+  const playing=audioReady && !audio.paused;
+  ['playBtn','playBtn2'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=playing?'■':'▶'});
+}
+function formatTime(sec){
+  if(!Number.isFinite(sec)) return '';
+  const m=Math.floor(sec/60), s=Math.floor(sec%60).toString().padStart(2,'0');
+  return m+':'+s;
+}
 function fakeAsk(){const q=document.getElementById('question').value.trim();const a=document.getElementById('answer');a.classList.add('show');a.innerHTML=q?`<b>Демо-відповідь:</b> у робочій версії відповідь на «${q.replaceAll('<','&lt;')}» генеруватиметься лише з матеріалів поточного news corpus і покаже конкретні джерела для кожного ключового твердження.`:'Введіть запитання про сьогоднішній бриф.'}
 </script>
 </body></html>
