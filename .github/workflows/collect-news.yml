@@ -2,6 +2,12 @@ name: Collect BRIEF source pool
 
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - "config/sources.json"
+      - "scripts/collect.py"
+      - ".github/workflows/collect-news.yml"
   schedule:
     - cron: "17 * * * *"
 
