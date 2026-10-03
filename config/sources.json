@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "eligibility": {
+    "national": "IMI White List, H1 2026",
+    "regional": "Recommended Media Map, IMI + Detector Media, H1 2026"
+  },
+  "national_sources": [
+    {
+      "name": "Українська правда",
+      "homepage": "https://www.pravda.com.ua/",
+      "feed": "https://www.pravda.com.ua/rss/view_mainnews/",
+      "status": "active"
+    },
+    {
+      "name": "LB.ua",
+      "homepage": "https://lb.ua/",
+      "feed": "https://lb.ua/rss",
+      "status": "active"
+    },
+    {
+      "name": "Радіо Свобода",
+      "homepage": "https://www.radiosvoboda.org/",
+      "feed_page": "https://www.radiosvoboda.org/rssfeeds/",
+      "feed": null,
+      "status": "feed-selection-pending"
+    },
+    {
+      "name": "Суспільне Новини",
+      "homepage": "https://suspilne.media/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "Еспресо",
+      "homepage": "https://espreso.tv/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "Бабель",
+      "homepage": "https://babel.ua/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "hromadske",
+      "homepage": "https://hromadske.ua/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "NV",
+      "homepage": "https://nv.ua/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "Тексти",
+      "homepage": "https://texty.org.ua/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    },
+    {
+      "name": "Укрінформ",
+      "homepage": "https://www.ukrinform.ua/",
+      "feed": null,
+      "status": "feed-verification-pending"
+    }
+  ]
+}
