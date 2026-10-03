@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>BRIEF by ProMedia — головне з українських медіа в аудіо</title>
+<style>
+:root{--bg:#f4f2ec;--card:#fff;--ink:#171717;--muted:#6c6c67;--line:#dedbd2;--accent:#111;--soft:#ece9df;--radius:22px}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;background:var(--bg);padding:18px 18px 92px}.top{display:flex;align-items:center;justify-content:space-between;margin-bottom:22px}.brand{font-weight:850;letter-spacing:-.04em;font-size:25px}.pill{border:1px solid var(--line);background:rgba(255,255,255,.7);border-radius:999px;padding:8px 11px;font-size:12px}.hero{padding:18px 0 8px}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.12em;font-weight:800;color:var(--muted)}h1{font-size:38px;line-height:1.02;letter-spacing:-.055em;margin:10px 0 12px}h2{font-size:25px;line-height:1.1;letter-spacing:-.035em;margin:0 0 12px}p{line-height:1.5}.muted{color:var(--muted)}.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;margin:14px 0;box-shadow:0 8px 24px rgba(0,0,0,.025)}.primary{width:100%;border:0;border-radius:16px;background:var(--accent);color:#fff;padding:15px 16px;font-weight:800;cursor:pointer}.secondary{width:100%;border:1px solid var(--line);border-radius:16px;background:#fff;color:var(--ink);padding:14px 16px;font-weight:750;cursor:pointer}.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}.topic{border:1px solid var(--line);background:#fff;border-radius:16px;padding:14px;text-align:left;cursor:pointer}.topic.active{background:#111;color:#fff;border-color:#111}.topic b{display:block;margin-bottom:5px}.stars{font-size:12px;opacity:.7}.audio{background:#111;color:#fff;border-radius:26px;padding:22px;margin:14px 0}.audio-row{display:flex;align-items:center;gap:14px}.play{width:52px;height:52px;border-radius:50%;border:0;background:#fff;color:#111;font-size:20px;cursor:pointer}.bar{height:6px;background:#3b3b3b;border-radius:99px;overflow:hidden;margin-top:14px}.prog{height:100%;width:28%;background:#fff}.story{padding:16px 0;border-bottom:1px solid var(--line)}.story:last-child{border:0}.story-num{font-size:12px;color:var(--muted);font-weight:800}.story h3{font-size:19px;line-height:1.18;letter-spacing:-.02em;margin:5px 0 7px}.sources{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.tag{font-size:11px;background:var(--soft);border-radius:999px;padding:7px 9px}.status{font-size:11px;font-weight:800;padding:7px 9px;border:1px solid var(--line);border-radius:999px}.source-row{display:flex;align-items:center;justify-content:space-between;padding:13px 0;border-bottom:1px solid var(--line)}.source-row:last-child{border:0}.source-name{font-weight:800}.tiny{font-size:11px;color:var(--muted)}.money{font-size:38px;font-weight:900;letter-spacing:-.05em}.split{display:flex;justify-content:space-between;align-items:center;gap:14px}.meter{height:10px;background:var(--soft);border-radius:99px;overflow:hidden}.meter span{display:block;height:100%;background:#111}.nav{position:fixed;left:50%;transform:translateX(-50%);bottom:12px;width:min(444px,calc(100% - 24px));background:rgba(255,255,255,.94);backdrop-filter:blur(15px);border:1px solid var(--line);border-radius:22px;padding:8px;display:grid;grid-template-columns:repeat(5,1fr);z-index:10}.nav button{border:0;background:transparent;padding:8px 2px;font-size:10px;color:var(--muted);cursor:pointer}.nav button.active{color:#111;font-weight:900}.nav .ico{display:block;font-size:18px;margin-bottom:3px}.screen{display:none}.screen.active{display:block}.notice{font-size:12px;border-left:3px solid #111;padding:9px 12px;background:#ebe8de;border-radius:0 12px 12px 0}.ask{display:flex;gap:8px;margin-top:12px}.ask input{flex:1;border:1px solid var(--line);background:#fff;border-radius:14px;padding:13px}.ask button{border:0;background:#111;color:#fff;border-radius:14px;padding:0 15px;font-weight:800}.answer{display:none;margin-top:10px;padding:12px;background:#f2f0e9;border-radius:14px;font-size:13px}.answer.show{display:block}
+</style>
+</head>
+<body><main class="app">
+<header class="top"><div class="brand">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></div><div class="pill">AUDIO MVP 0.1</div></header>
+
+<section id="home" class="screen active">
+<div class="hero"><div class="eyebrow">Українська журналістика</div><h1>Ваш день.<br>За 10 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у персональному аудіовипуску. Слухайте дорогою, за кермом або під час прогулянки; зацікавилися — переходьте до оригіналу.</p></div>
+<div class="audio"><div class="eyebrow" style="color:#aaa">Сьогодні • демо</div><h2 style="margin-top:8px">Ранковий бриф</h2><div class="audio-row"><button class="play" onclick="toggleSpeech()" id="playBtn">▶</button><div><b>10 історій</b><div class="tiny" style="color:#aaa">орієнтовно 9:48</div></div></div><div class="bar"><div class="prog"></div></div></div>
+<div class="card"><div class="split"><div><div class="eyebrow">Ваші теми</div><h2 style="margin-top:6px">Економіка, медіа, AI</h2></div><span class="status">3 активні</span></div><button class="secondary" onclick="go('topics')">Налаштувати інтереси</button></div>
+<div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Він створює коротке аудіорезюме, називає джерело і веде слухача до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">На старті беремо тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа. Paywall і ліцензійні моделі — пізніше.</div>
+</section>
+
+<section id="topics" class="screen">
+<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Оберіть теми. У реальному продукті вага тем визначатиме порядок історій і тривалість блоку.</p>
+<div class="grid" id="topicGrid"></div><div style="height:14px"></div><button class="primary" onclick="saveTopics()">Зберегти й створити бриф</button>
+</section>
+
+<section id="brief" class="screen">
+<div class="eyebrow">Персональний випуск</div><h1 style="font-size:34px">Ваш бриф</h1><div class="audio"><div class="audio-row"><button class="play" onclick="toggleSpeech()" id="playBtn2">▶</button><div><b>Ранковий випуск</b><div class="tiny" style="color:#aaa">демонстраційні історії • не реальні новини</div></div></div></div>
+<div class="card" id="stories"></div>
+<div class="card"><div class="eyebrow">Ask the news</div><h2 style="margin-top:6px">Запитайте про бриф</h2><div class="ask"><input id="question" placeholder="Що це означає для бізнесу?"/><button onclick="fakeAsk()">↑</button></div><div id="answer" class="answer"></div></div>
+</section>
+
+<section id="sources" class="screen">
+<div class="eyebrow">Довіра до джерел</div><h1 style="font-size:34px">Хто потрапляє в Brief</h1><p class="muted">Національне ядро — тільки актуальний Білий список ІМІ. Регіональні джерела — тільки Мапа рекомендованих медіа ІМІ та «Детектора медіа».</p>
+<div class="card"><div class="split"><div><div class="eyebrow">Національні</div><h2 style="margin-top:6px">18 медіа</h2></div><span class="status">White List</span></div><div id="whitelist"></div></div>
+<div class="card"><div class="split"><div><div class="eyebrow">Регіональні</div><h2 style="margin-top:6px">305 редакцій</h2></div><span class="status">Recommended</span></div><p class="muted">У MVP підключаються поступово за регіоном користувача та доступністю структурованих фідів.</p></div>
+</section>
+
+<section id="support" class="screen">
+<div class="eyebrow">Доступ</div><h1 style="font-size:34px">Спочатку — безкоштовно</h1>
+<div class="card"><div class="money">0 грн</div><div class="muted">на етапі пілоту</div><hr style="border:0;border-top:1px solid var(--line);margin:18px 0"><p>Перший MVP перевіряє не willingness to pay, а щоденну звичку: чи хочуть люди регулярно слухати якісні українські новини.</p><div class="source-row"><div>Аудіобриф</div><b>щодня</b></div><div class="source-row"><div>Джерела</div><b>відкриті</b></div><div class="source-row"><div>Повні тексти</div><b>на сайтах медіа</b></div></div>
+<div class="card"><div class="eyebrow">Наступний етап</div><h2 style="margin-top:6px">Cost recovery</h2><p class="muted">Якщо витрати на TTS, LLM, сервери та зберігання стануть відчутними, можна запровадити символічну оплату, що лише компенсує інфраструктуру. Комерційна модель і revenue sharing — окрема фаза після валідації продукту.</p></div>
+<button class="primary" onclick="go('brief')">Слухати демо</button>
+</section>
+
+<nav class="nav">
+<button class="active" data-screen="home" onclick="go('home')"><span class="ico">⌂</span>Головна</button>
+<button data-screen="topics" onclick="go('topics')"><span class="ico">◎</span>Теми</button>
+<button data-screen="brief" onclick="go('brief')"><span class="ico">▶</span>Бриф</button>
+<button data-screen="sources" onclick="go('sources')"><span class="ico">✓</span>Джерела</button>
+<button data-screen="support" onclick="go('support')"><span class="ico">○</span>Доступ</button>
+</nav>
+</main>
+<script>
+const whitelist=['Суспільне Новини','Еспресо','Бабель','Радіо Свобода','hromadske','Українська правда','NV','Тексти','LB.ua','Укрінформ','Ґрати','Громадське радіо','Український тиждень','ZN,UA','Рубрика','Слово і Діло','Новинарня','Frontliner'];
+const topics=['Україна','Війна та безпека','Політика','Економіка','Бізнес','Міжнародне','Технології та AI','Медіа','Культура','Спорт'];
+let selected=new Set(JSON.parse(localStorage.getItem('brief-topics')||'["Економіка","Технології та AI","Медіа"]'));
+const topicGrid=document.getElementById('topicGrid');
+function renderTopics(){topicGrid.innerHTML='';topics.forEach(t=>{const b=document.createElement('button');b.className='topic '+(selected.has(t)?'active':'');b.innerHTML=`<b>${t}</b><span class="stars">${selected.has(t)?'★★★★★':'○ обрати'}</span>`;b.onclick=()=>{selected.has(t)?selected.delete(t):selected.add(t);renderTopics()};topicGrid.appendChild(b)})}
+renderTopics();
+document.getElementById('whitelist').innerHTML=whitelist.map((s,i)=>`<div class="source-row"><div class="source-name">${s}</div><span class="tiny">#${i+1}</span></div>`).join('');
+const demoStories=[
+{title:'Урядове рішення: що змінюється для економіки',text:'Коротке AI-резюме демонструє формат: факт, контекст і різниця між повідомленням та аналізом. У реальному продукті кожне твердження матиме прив’язку до source ID.',src:['Суспільне Новини','Українська правда']},
+{title:'Українські медіа тестують нові AI-інструменти',text:'Brief показує не всі публікації підряд, а групує матеріали про одну подію та підсвічує оригінальну журналістську додану вартість.',src:['Тексти','hromadske','Детектор: лише якщо у рекомендованих']},
+{title:'Що варто прочитати повністю',text:'Після короткого аудіопояснення користувач переходить до оригінального матеріалу. Мета MVP — економити час і приводити слухача до якісної журналістики.',src:['NV','Бабель']}
+];
+document.getElementById('stories').innerHTML=demoStories.map((s,i)=>`<article class="story"><div class="story-num">0${i+1} • ДЕМО</div><h3>${s.title}</h3><div class="muted">${s.text}</div><div class="sources">${s.src.map(x=>`<span class="tag">${x}</span>`).join('')}</div></article>`).join('');
+function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
+function saveTopics(){localStorage.setItem('brief-topics',JSON.stringify([...selected]));go('brief')}
+let speaking=false;function toggleSpeech(){if(!('speechSynthesis' in window)){alert('Ваш браузер не підтримує озвучення.');return}if(speaking){speechSynthesis.cancel();speaking=false;updatePlay();return}const text='Доброго ранку. Це BRIEF by ProMedia — демонстраційний персональний аудіобриф. У реальному продукті тут будуть актуальні новини лише з перевірених українських медіа. Перша історія. Урядове рішення: що змінюється для економіки. Друга історія. Українські медіа тестують нові інструменти штучного інтелекту. Третя історія. Що сьогодні варто прочитати повністю.';const u=new SpeechSynthesisUtterance(text);u.lang='uk-UA';u.rate=.96;u.onend=()=>{speaking=false;updatePlay()};speaking=true;updatePlay();speechSynthesis.speak(u)}
+function updatePlay(){['playBtn','playBtn2'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=speaking?'■':'▶'})}
+function fakeAsk(){const q=document.getElementById('question').value.trim();const a=document.getElementById('answer');a.classList.add('show');a.innerHTML=q?`<b>Демо-відповідь:</b> у робочій версії відповідь на «${q.replaceAll('<','&lt;')}» генеруватиметься лише з матеріалів поточного news corpus і покаже конкретні джерела для кожного ключового твердження.`:'Введіть запитання про сьогоднішній бриф.'}
+</script>
+</body></html>
