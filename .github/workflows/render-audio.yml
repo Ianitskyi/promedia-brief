@@ -1,0 +1,52 @@
+name: Render BRIEF audio
+
+on:
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "Script path"
+        required: false
+        default: "scripts/2026-10-03.md"
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install google-cloud-texttospeech
+
+      - name: Configure Google credentials
+        env:
+          GOOGLE_TTS_CREDENTIALS: ${{ secrets.GOOGLE_TTS_CREDENTIALS }}
+        run: |
+          test -n "$GOOGLE_TTS_CREDENTIALS" || (echo "Missing GOOGLE_TTS_CREDENTIALS secret" && exit 1)
+          printf '%s' "$GOOGLE_TTS_CREDENTIALS" > "$RUNNER_TEMP/google-tts.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/google-tts.json" >> "$GITHUB_ENV"
+
+      - name: Render daily audio
+        env:
+          BRIEF_SCRIPT: ${{ inputs.script }}
+          BRIEF_FEMALE_VOICE: uk-UA-Chirp3-HD-Kore
+          BRIEF_MALE_VOICE: uk-UA-Chirp3-HD-Orus
+          BRIEF_SPEAKING_RATE: "1.08"
+        run: python scripts/render_audio.py
+
+      - name: Commit audio
+        run: |
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add audio/daily.mp3
+          git diff --cached --quiet || git commit -m "Render BRIEF daily audio"
+          git push
