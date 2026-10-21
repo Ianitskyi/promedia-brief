@@ -11,30 +11,34 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </style>
 </head>
 <body><main class="app">
-<header class="top"><div class="brand">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></div><div class="pill">AUDIO MVP 0.1</div></header>
+<header class="top"><div class="brand">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></div><div class="pill">AUDIO MVP 0.2</div></header>
 
 <section id="home" class="screen active">
 <div class="hero"><h1>Все важливе.<br>За 10 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у персональному аудіовипуску.</p></div>
-<div class="audio"><div class="eyebrow" style="color:#aaa">3 жовтня • вечірній випуск</div><h2 style="margin-top:8px">Ранковий бриф</h2><div class="audio-row"><button class="play" onclick="toggleBriefAudio()" id="playBtn">▶</button><div><b id="storyCount">10 історій</b><div class="tiny" style="color:#aaa" id="audioStatus">сценарій готовий • озвучка готується</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div><audio id="briefAudio" preload="metadata" src="audio/daily.mp3"></audio></div>
-<div class="card"><div class="split"><div><div class="eyebrow">Ваші теми</div><h2 style="margin-top:6px">Економіка, медіа, AI</h2></div><span class="status">3 активні</span></div><button class="secondary" onclick="go('topics')">Налаштувати інтереси</button></div>
-<div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Він створює коротке аудіорезюме, називає джерело і веде слухача до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">На старті беремо тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа. Paywall і ліцензійні моделі — пізніше.</div>
+<div class="audio"><div class="eyebrow" style="color:#aaa" id="editionDate">завантаження…</div><h2 style="margin-top:8px" id="nowTitle">Випуск BRIEF</h2><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn" aria-label="Відтворити або призупинити">▶</button><div><b id="storyCount">—</b><div class="tiny" style="color:#aaa" id="audioStatus">—</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div>
+<div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
+<audio id="player" preload="none"></audio></div>
+<div class="card"><div class="split"><div><div class="eyebrow">Ваші теми і регіон</div><h2 style="margin-top:6px" id="prefsSummary">—</h2></div><span class="status" id="topicCount">—</span></div><button class="secondary" onclick="go('topics')">Налаштувати</button></div>
+<div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Кожна новина має джерело, а посилання ведуть до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">Тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа ІМІ і «Детектора медіа». Кожен випуск затверджує редактор.</div>
 </section>
 
 <section id="topics" class="screen">
-<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Оберіть теми. У реальному продукті вага тем визначатиме порядок історій і тривалість блоку.</p>
-<div class="grid" id="topicGrid"></div><div style="height:14px"></div><button class="primary" onclick="saveTopics()">Зберегти й створити бриф</button>
+<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Ваші теми звучать раніше. Найважливіші новини дня звучать завжди, незалежно від вибору.</p>
+<div class="grid" id="topicGrid"></div>
+<div class="card"><div class="eyebrow">Ваш регіон</div><select id="regionSelect" style="width:100%;margin-top:10px;padding:12px;border-radius:12px;border:1px solid var(--line);font:inherit"></select><p class="tiny" id="regionNote" style="margin-bottom:0"></p></div>
+<label class="tiny" style="display:block;margin:8px 0 14px"><input type="checkbox" id="shortMode"> Коротший випуск: лише мої теми + обов'язкові новини</label>
+<button class="primary" onclick="savePrefs()">Зберегти й слухати</button>
 </section>
 
 <section id="brief" class="screen">
-<div class="eyebrow">Персональний випуск</div><h1 style="font-size:34px">Ваш бриф</h1><div class="audio"><div class="audio-row"><button class="play" onclick="toggleBriefAudio()" id="playBtn2">▶</button><div><b>Ранковий випуск</b><div class="tiny" style="color:#aaa">реальний випуск • 3 жовтня 2026</div></div></div></div>
+<div class="eyebrow">Персональний випуск</div><h1 style="font-size:34px">Ваш бриф</h1><div class="audio"><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn2" aria-label="Відтворити або призупинити">▶</button><div><b id="nowTitle2">Випуск BRIEF</b><div class="tiny" style="color:#aaa" id="editionDate2">—</div></div></div></div>
 <div class="card" id="stories"></div>
-<div class="card"><div class="eyebrow">Ask the news</div><h2 style="margin-top:6px">Запитайте про бриф</h2><div class="ask"><input id="question" placeholder="Що це означає для бізнесу?"/><button onclick="fakeAsk()">↑</button></div><div id="answer" class="answer"></div></div>
 </section>
 
 <section id="sources" class="screen">
-<div class="eyebrow">Довіра до джерел</div><h1 style="font-size:34px">Хто потрапляє в Brief</h1><p class="muted">Національне ядро — тільки актуальний Білий список ІМІ. Регіональні джерела — тільки Мапа рекомендованих медіа ІМІ та «Детектора медіа».</p>
-<div class="card"><div class="split"><div><div class="eyebrow">Національні</div><h2 style="margin-top:6px">18 медіа</h2></div><span class="status">White List</span></div><div id="whitelist"></div></div>
-<div class="card"><div class="split"><div><div class="eyebrow">Регіональні</div><h2 style="margin-top:6px">305 редакцій</h2></div><span class="status">Recommended</span></div><p class="muted">У MVP підключаються поступово за регіоном користувача та доступністю структурованих фідів.</p></div>
+<div class="eyebrow">Довіра до джерел</div><h1 style="font-size:34px">Хто потрапляє в Brief</h1><p class="muted">Національне ядро — тільки чинний Білий список ІМІ. Регіональні джерела — тільки Мапа рекомендованих медіа ІМІ та «Детектора медіа».</p>
+<div class="card"><div class="split"><div><div class="eyebrow">Національні</div><h2 style="margin-top:6px" id="natCount">—</h2></div><span class="status">White List</span></div><p class="tiny muted" id="natMeta"></p><div id="whitelist"></div></div>
+<div class="card"><div class="split"><div><div class="eyebrow">Регіональні</div><h2 style="margin-top:6px" id="mapCount">—</h2></div><span class="status">Recommended</span></div><p class="muted" id="mapMeta"></p></div>
 </section>
 
 <nav class="nav">
@@ -45,80 +49,133 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </nav>
 </main>
 <script>
-const whitelist=['Суспільне Новини','Еспресо','Бабель','Радіо Свобода','hromadske','Українська правда','NV','Тексти','LB.ua','Укрінформ','Ґрати','Громадське радіо','Український тиждень','ZN,UA','Рубрика','Слово і Діло','Новинарня','Frontliner'];
-const topics=['Україна','Війна та безпека','Політика','Економіка','Бізнес','Міжнародне','Технології та AI','Медіа','Культура','Спорт'];
-let selected=new Set(JSON.parse(localStorage.getItem('brief-topics')||'["Економіка","Технології та AI","Медіа"]'));
-const topicGrid=document.getElementById('topicGrid');
-function renderTopics(){topicGrid.innerHTML='';topics.forEach(t=>{const b=document.createElement('button');b.className='topic '+(selected.has(t)?'active':'');b.innerHTML=`<b>${t}</b><span class="stars">${selected.has(t)?'★★★★★':'○ обрати'}</span>`;b.onclick=()=>{selected.has(t)?selected.delete(t):selected.add(t);renderTopics()};topicGrid.appendChild(b)})}
-renderTopics();
-document.getElementById('whitelist').innerHTML=whitelist.map((s,i)=>`<div class="source-row"><div class="source-name">${s}</div><span class="tiny">#${i+1}</span></div>`).join('');
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
+const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const TOPICS=['Війна та безпека','Політика','Економіка','Бізнес','Міжнародне','Суспільство','Технології та AI','Медіа','Культура','Спорт'];
+const MONTHS=['січня','лютого','березня','квітня','травня','червня','липня','серпня','вересня','жовтня','листопада','грудня'];
+let selected=new Set(store.get('brief-topics',['Економіка','Технології та AI','Медіа']));
+let region=store.get('brief-region','');
+let shortMode=store.get('brief-short',false);
+let edition=null, legacy=false, playlist=[], idx=0;
+const player=document.getElementById('player');
 
-const sonic={
-  intro:'audio/intro.mp3',
-  bumper:'audio/bumper.mp3',
-  outro:'audio/outro.mp3'
-};
+function fmtDate(d){const [y,m,dd]=d.split('-').map(Number);return `${dd} ${MONTHS[m-1]} ${y}`}
+function fmtTime(sec){if(!Number.isFinite(sec))return '';const m=Math.floor(sec/60),s=Math.floor(sec%60).toString().padStart(2,'0');return m+':'+s}
+
+function renderTopics(){
+  const g=document.getElementById('topicGrid');g.innerHTML='';
+  TOPICS.forEach(t=>{const b=document.createElement('button');b.className='topic '+(selected.has(t)?'active':'');b.innerHTML=`<b>${esc(t)}</b><span class="stars">${selected.has(t)?'★ обрано':'○ обрати'}</span>`;b.onclick=()=>{selected.has(t)?selected.delete(t):selected.add(t);renderTopics()};g.appendChild(b)});
+  document.getElementById('shortMode').checked=shortMode;
+}
+function renderRegions(){
+  const sel=document.getElementById('regionSelect');
+  const regs=(edition&&edition.regions)||[];
+  sel.innerHTML=`<option value="">Огляд регіонів (вся Україна)</option>`+regs.map(r=>`<option value="${esc(r.id)}" ${r.id===region?'selected':''}>${esc(r.name)}</option>`).join('');
+  document.getElementById('regionNote').textContent=regs.length?'Пілотні регіони з окремим блоком новин. Інші регіони звучать в огляді.':'Регіональні блоки з’являться в наступних випусках.';
+}
+function summary(){
+  const regs=(edition&&edition.regions)||[];const r=regs.find(x=>x.id===region);
+  document.getElementById('prefsSummary').textContent=[[...selected].slice(0,3).join(', ')||'Усі теми', r?r.name:'Огляд регіонів'].join(' · ');
+  document.getElementById('topicCount').textContent=selected.size+' тем';
+}
+function savePrefs(){
+  region=document.getElementById('regionSelect').value; shortMode=document.getElementById('shortMode').checked;
+  store.set('brief-topics',[...selected]); store.set('brief-region',region); store.set('brief-short',shortMode);
+  buildPlaylist(); renderStories(); summary(); go('brief');
+}
+
+// Personalisation without per-user TTS: one rendered edition, segments re-ordered per listener.
+function buildPlaylist(){
+  playlist=[];idx=0;
+  if(!edition||legacy) return;
+  const segs=edition.segments, S=x=>({...x,src:x.audio});
+  const sonic=edition.sonic||{};
+  const matches=s=>(s.topics||[]).some(t=>selected.has(t));
+  const nat=segs.filter(s=>s.kind==='story'&&s.block==='national');
+  const must=nat.filter(s=>s.must_include), mine=nat.filter(s=>!s.must_include&&matches(s)), rest=nat.filter(s=>!s.must_include&&!matches(s));
+  const local=segs.filter(s=>s.block==='local:'+region);
+  const regional=local.length?local:segs.filter(s=>s.block==='regional');
+  if(sonic.intro) playlist.push({src:sonic.intro,title:'BRIEF',kind:'sound'});
+  segs.filter(s=>s.block==='intro'||(s.kind==='heading'&&s.block==='national')).forEach(s=>playlist.push(S(s)));
+  [...must,...mine,...(shortMode?[]:rest)].forEach(s=>playlist.push(S(s)));
+  if(sonic.bumper) playlist.push({src:sonic.bumper,title:'BRIEF',kind:'sound'});
+  regional.forEach(s=>playlist.push(S(s)));
+  segs.filter(s=>s.block==='outro').forEach(s=>playlist.push(S(s)));
+  if(sonic.outro) playlist.push({src:sonic.outro,title:'BRIEF',kind:'sound'});
+  playlist=playlist.filter(p=>p.src);
+  const stories=playlist.filter(p=>p.kind==='story').length;
+  const dur=playlist.reduce((a,p)=>a+(p.duration_sec||0),0);
+  document.getElementById('storyCount').textContent=stories+' новин';
+  document.getElementById('audioStatus').textContent='≈ '+fmtTime(dur+8);
+}
+function load(i){idx=Math.max(0,Math.min(i,playlist.length-1));const p=playlist[idx];player.src=p.src;setNow(p)}
+function setNow(p){const t=p.kind==='story'?p.title:(p.kind==='sound'?'BRIEF':(p.text||[''])[0]);['nowTitle','nowTitle2'].forEach(id=>document.getElementById(id).textContent=t||'BRIEF');
+  document.querySelectorAll('.story').forEach(e=>e.style.background=e.dataset.id===p.id?'#f2f0e9':'')}
+function togglePlay(){
+  if(legacy){legacyToggle();return}
+  if(!playlist.length){document.getElementById('audioStatus').textContent='аудіовипуск ще не опубліковано';return}
+  if(!player.src) load(0);
+  player.paused?player.play():player.pause();
+}
+function step(d){if(!playlist.length)return;const playing=!player.paused;load(idx+d);if(playing)player.play()}
+player.addEventListener('ended',()=>{if(idx<playlist.length-1){load(idx+1);player.play()}else{idx=0;updatePlay()}});
+player.addEventListener('play',updatePlay);player.addEventListener('pause',updatePlay);
+player.addEventListener('timeupdate',()=>{if(!playlist.length)return;const total=playlist.length;const frac=player.duration?player.currentTime/player.duration:0;document.getElementById('audioProgress').style.width=(((idx+frac)/total)*100)+'%'});
+player.addEventListener('error',()=>{document.getElementById('audioStatus').textContent='не вдалося відтворити фрагмент — пропускаємо';if(idx<playlist.length-1){load(idx+1);player.play()}});
+function updatePlay(){const on=!player.paused;['playBtn','playBtn2'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=on?'❚❚':'▶'})}
+
+function storyHtml(s,i){
+  const links=(s.sources||[]).map(src=>`<a class="tag" href="${esc(safeUrl(src.url))}" target="_blank" rel="noopener">${esc(src.name)} ↗</a>`).join('');
+  const text=Array.isArray(s.text)?s.text.join(' '):s.summary;
+  return `<article class="story" data-id="${esc(s.id)}"><div class="story-num">${String(i+1).padStart(2,'0')}${s.must_include?' · головне':''}</div><h3>${esc(s.title)}</h3><div class="muted">${esc(text)}</div><div class="sources">${(s.topics||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}${links}</div></article>`;
+}
+function renderStories(){
+  const box=document.getElementById('stories');
+  if(!edition){box.innerHTML='<p class="muted">Випуск ще не опубліковано.</p>';return}
+  if(legacy){box.innerHTML=edition.sections.map(sec=>`<div class="eyebrow" style="margin-top:6px">${esc(sec.title)}</div>`+sec.stories.map(storyHtml).join('')).join('');return}
+  const inList=new Set(playlist.map(p=>p.id));
+  const nat=edition.segments.filter(s=>s.kind==='story'&&s.block==='national'&&inList.has(s.id));
+  const reg=edition.segments.filter(s=>s.kind==='story'&&s.block!=='national'&&inList.has(s.id));
+  const regName=((edition.regions||[]).find(r=>r.id===region)||{}).name||'Регіони';
+  box.innerHTML=`<div class="eyebrow">Україна</div>${nat.map(storyHtml).join('')}<div class="eyebrow" style="margin-top:14px">${esc(regName)}</div>${reg.map(storyHtml).join('')}`;
+}
+
+// Fallback: the hand-made demo edition of 3 Oct 2026 (before the pipeline existed).
+const legacyAudio=new Audio('audio/intro.mp3');
+function legacyToggle(){document.getElementById('audioStatus').textContent='аудіовипуск готується • це заставка BRIEF';legacyAudio.currentTime=0;legacyAudio.play()}
 
 async function loadEdition(){
-  const container=document.getElementById('stories');
   try{
-    const r=await fetch('data/2026-10-03.json',{cache:'no-store'});
-    if(!r.ok) throw new Error('edition unavailable');
-    const edition=await r.json();
-    const all=edition.sections.flatMap(s=>s.stories);
-    document.getElementById('storyCount').textContent=all.length+' історій';
-    container.innerHTML=edition.sections.map(section=>{
-      return `<div class="eyebrow" style="margin-top:6px">${section.title}</div>`+
-      section.stories.map((s,i)=>{
-        const region=s.region?`<span class="tag">${s.region}</span>`:'';
-        const links=(s.sources||[]).map(src=>`<a class="tag" href="${src.url}" target="_blank" rel="noopener">${src.name} ↗</a>`).join('');
-        return `<article class="story"><div class="story-num">${String(i+1).padStart(2,'0')}</div><h3>${s.title}</h3><div class="muted">${s.summary}</div><div class="sources">${region}${links}</div></article>`;
-      }).join('');
-    }).join('');
-  }catch(e){
-    container.innerHTML='<p class="muted">Не вдалося завантажити сьогоднішній випуск.</p>';
+    const r=await fetch('editions/latest.json',{cache:'no-store'});
+    if(!r.ok) throw new Error('no latest');
+    const latest=await r.json();
+    const e=await fetch(latest.edition,{cache:'no-store'});
+    if(!e.ok) throw new Error('edition unavailable');
+    edition=await e.json();
+    document.getElementById('editionDate').textContent=fmtDate(edition.date)+' • затверджено редакцією';
+    document.getElementById('editionDate2').textContent='випуск за '+fmtDate(edition.date);
+  }catch(err){
+    try{const r=await fetch('data/2026-10-03.json',{cache:'no-store'});edition=await r.json();legacy=true;
+      document.getElementById('editionDate').textContent='3 жовтня • тестовий випуск';document.getElementById('storyCount').textContent=edition.sections.flatMap(s=>s.stories).length+' історій';document.getElementById('audioStatus').textContent='аудіовипуск ще не опубліковано';
+    }catch(e2){document.getElementById('editionDate').textContent='випуск недоступний'}
   }
+  renderRegions(); buildPlaylist(); renderStories(); summary();
 }
-loadEdition();
-
-const introAudio=new Audio(sonic.intro);
-const bumperAudio=new Audio(sonic.bumper);
-const outroAudio=new Audio(sonic.outro);
-
+async function loadSources(){
+  try{
+    const cfg=await (await fetch('config/sources.json',{cache:'no-store'})).json();
+    const nat=cfg.national_sources, wl=cfg.lists.imi_white_list, mp=cfg.lists.media_map;
+    document.getElementById('natCount').textContent=nat.length+' медіа';
+    document.getElementById('natMeta').innerHTML=`${esc(wl.title)}, ${esc(wl.edition)} · <a href="${esc(safeUrl(wl.url))}" target="_blank" rel="noopener">джерело</a> · перевірено ${esc(wl.verified_on)}`;
+    const st={active:'RSS підключено','not-found':'немає публічного RSS',blocked:'доступ обмежено сайтом'};
+    document.getElementById('whitelist').innerHTML=nat.map(s=>`<div class="source-row"><div><a class="source-name" href="${esc(safeUrl(s.homepage))}" target="_blank" rel="noopener">${esc(s.name)}</a></div><span class="tiny">${esc(st[s.feed_status]||s.feed_status)}</span></div>`).join('');
+    document.getElementById('mapCount').textContent=mp.count+' редакцій';
+    let active='';try{const m=await (await fetch('config/media_map.json',{cache:'no-store'})).json();active=` Публічний RSS є у ${m.media.filter(x=>x.feed_status==='active').length} з них — саме вони зараз підключені.`}catch(e){}
+    document.getElementById('mapMeta').innerHTML=`${esc(mp.title)}, ${esc(mp.edition)} · <a href="${esc(safeUrl(mp.url))}" target="_blank" rel="noopener">мапа</a>.${esc(active)}`;
+  }catch(e){}
+}
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
-function saveTopics(){localStorage.setItem('brief-topics',JSON.stringify([...selected]));go('brief')}
-const audio=document.getElementById('briefAudio');
-audio.addEventListener('error',()=>{audioReady=false;audioStatus.textContent='аудіовипуск ще не згенеровано';});
-const audioStatus=document.getElementById('audioStatus');
-const audioProgress=document.getElementById('audioProgress');
-let audioReady=false;
-
-// Production audio will be rendered server-side and stored as an MP3.
-// Until the first ElevenLabs render is connected, the player stays non-destructive.
-audio.addEventListener('loadedmetadata',()=>{audioReady=true;audioStatus.textContent=formatTime(audio.duration);});
-audio.addEventListener('timeupdate',()=>{if(audio.duration) audioProgress.style.width=((audio.currentTime/audio.duration)*100)+'%';});
-audio.addEventListener('play',updatePlay);
-audio.addEventListener('pause',updatePlay);
-audio.addEventListener('ended',()=>{audio.currentTime=0;updatePlay();});
-
-function toggleBriefAudio(){
-  if(!audioReady || !audio.src){
-    audioStatus.textContent='аудіовипуск готується • це заставка BRIEF';
-    introAudio.currentTime=0;
-    introAudio.play();
-    return;
-  }
-  audio.paused ? audio.play() : audio.pause();
-}
-function updatePlay(){
-  const playing=audioReady && !audio.paused;
-  ['playBtn','playBtn2'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=playing?'■':'▶'});
-}
-function formatTime(sec){
-  if(!Number.isFinite(sec)) return '';
-  const m=Math.floor(sec/60), s=Math.floor(sec%60).toString().padStart(2,'0');
-  return m+':'+s;
-}
-function fakeAsk(){const q=document.getElementById('question').value.trim();const a=document.getElementById('answer');a.classList.add('show');a.innerHTML=q?`<b>Демо-відповідь:</b> у робочій версії відповідь на «${q.replaceAll('<','&lt;')}» генеруватиметься лише з матеріалів поточного news corpus і покаже конкретні джерела для кожного ключового твердження.`:'Введіть запитання про сьогоднішній бриф.'}
+renderTopics(); loadEdition(); loadSources();
 </script>
 </body></html>

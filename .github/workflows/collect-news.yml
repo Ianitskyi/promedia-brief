@@ -6,7 +6,8 @@ on:
     branches: ["main"]
     paths:
       - "config/sources.json"
-      - "scripts/collect.py"
+      - "config/media_map.json"
+      - "brief/collect.py"
       - ".github/workflows/collect-news.yml"
   schedule:
     - cron: "17 * * * *"
@@ -14,22 +15,30 @@ on:
 permissions:
   contents: write
 
+# All workflows that commit to main share one queue, so their pushes never race.
+concurrency:
+  group: brief-repo-write
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install feed parser
-        run: pip install feedparser
-      - name: Collect RSS items
-        run: python scripts/collect.py
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Collect RSS items (merged into today's pool)
+        run: python -m brief collect
       - name: Commit refreshed pool
         run: |
           git config user.name "BRIEF Bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/raw
-          git diff --cached --quiet || git commit -m "Update BRIEF raw news pool"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Update BRIEF raw news pool"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          exit 1

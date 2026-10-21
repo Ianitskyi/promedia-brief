@@ -1,0 +1,97 @@
+name: Approve and render BRIEF edition
+
+# Manual only. Can be run only by people with write access to the repository; the
+# approving editor is recorded as github.actor. Refuses to approve while any sentence is
+# unsupported or an editor confirmation is missing, or if the script hash differs.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Edition date (YYYY-MM-DD)"
+        required: true
+      expected_hash:
+        description: "sha256 shown on review.html (first 12+ characters)"
+        required: true
+      provider:
+        description: "TTS provider"
+        type: choice
+        options: [piper, google, azure, openai, elevenlabs]
+        default: piper
+      confirm_paid:
+        description: "I have budget approval for a paid TTS run (needed for google/azure/openai/elevenlabs)"
+        type: boolean
+        default: false
+      asr_check:
+        description: "Transcribe the audio and compare with the script (slower)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief-repo-write
+  cancel-in-progress: false
+
+jobs:
+  approve-render-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt
+          case "${{ inputs.provider }}" in
+            piper) pip install piper-tts==1.8.0 ;;
+            google) pip install google-cloud-texttospeech ;;
+          esac
+          if [ "${{ inputs.asr_check }}" = "true" ]; then pip install faster-whisper==1.2.1; fi
+      - name: Piper voice
+        if: inputs.provider == 'piper'
+        run: |
+          mkdir -p "$RUNNER_TEMP/voices"
+          base=https://huggingface.co/rhasspy/piper-voices/resolve/main/uk/uk_UA/ukrainian_tts/medium
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx" "$base/uk_UA-ukrainian_tts-medium.onnx"
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx.json" "$base/uk_UA-ukrainian_tts-medium.onnx.json"
+          echo "BRIEF_PIPER_MODEL=$RUNNER_TEMP/voices/uk.onnx" >> "$GITHUB_ENV"
+      - name: Google credentials
+        if: inputs.provider == 'google'
+        env:
+          GOOGLE_TTS_CREDENTIALS: ${{ secrets.GOOGLE_TTS_CREDENTIALS }}
+        run: |
+          test -n "$GOOGLE_TTS_CREDENTIALS" || (echo "Missing GOOGLE_TTS_CREDENTIALS secret" && exit 1)
+          printf '%s' "$GOOGLE_TTS_CREDENTIALS" > "$RUNNER_TEMP/google-tts.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/google-tts.json" >> "$GITHUB_ENV"
+      - name: Approve (re-runs all checks)
+        run: python -m brief approve --date "${{ inputs.date }}" --reviewer "${{ github.actor }}" --expected-hash "${{ inputs.expected_hash }}"
+      - name: Render audio
+        env:
+          BRIEF_ALLOW_PAID_TTS: ${{ inputs.confirm_paid && '1' || '0' }}
+          BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '1.00' }}
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+        run: python -m brief render --date "${{ inputs.date }}" --provider "${{ inputs.provider }}"
+      - name: ASR check
+        if: inputs.asr_check
+        run: python -m brief verify-audio --date "${{ inputs.date }}"
+      - name: Publish (fails closed)
+        run: python -m brief publish --date "${{ inputs.date }}"
+      - name: Delete editions older than 7 days
+        run: python -m brief prune --keep-days 7
+      - name: Commit edition
+        run: |
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A editions audio/daily.mp3
+          git commit -m "Publish BRIEF edition ${{ inputs.date }} (approved by ${{ github.actor }})"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          exit 1

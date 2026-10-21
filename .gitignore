@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# TTS chunk cache: local/CI only, rebuilt on demand
+editions/*/.tts-cache/
+.tmp-*

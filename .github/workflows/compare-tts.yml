@@ -1,0 +1,82 @@
+name: Compare TTS voices
+
+# Renders docs/tts/test-script.txt with each selected provider, measures reading accuracy
+# (ASR round-trip CER), time and cost, and uploads the mp3 files for a blind listening test.
+# Commits nothing. Paid providers run only when confirm_paid is ticked.
+on:
+  workflow_dispatch:
+    inputs:
+      providers:
+        description: "Providers, space-separated (piper google azure openai elevenlabs)"
+        required: true
+        default: "piper google azure"
+      confirm_paid:
+        description: "I approve spending ≈ $0.15 on paid TTS for this comparison"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt piper-tts==1.8.0 faster-whisper==1.2.1
+          if [[ " ${{ inputs.providers }} " == *" google "* ]]; then pip install google-cloud-texttospeech; fi
+      - name: Piper voice
+        run: |
+          mkdir -p "$RUNNER_TEMP/voices"
+          base=https://huggingface.co/rhasspy/piper-voices/resolve/main/uk/uk_UA/ukrainian_tts/medium
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx" "$base/uk_UA-ukrainian_tts-medium.onnx"
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx.json" "$base/uk_UA-ukrainian_tts-medium.onnx.json"
+          echo "BRIEF_PIPER_MODEL=$RUNNER_TEMP/voices/uk.onnx" >> "$GITHUB_ENV"
+      - name: Google credentials (if configured)
+        env:
+          GOOGLE_TTS_CREDENTIALS: ${{ secrets.GOOGLE_TTS_CREDENTIALS }}
+        run: |
+          if [ -n "$GOOGLE_TTS_CREDENTIALS" ]; then
+            printf '%s' "$GOOGLE_TTS_CREDENTIALS" > "$RUNNER_TEMP/google-tts.json"
+            echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/google-tts.json" >> "$GITHUB_ENV"
+          fi
+      - name: Render and measure
+        env:
+          BRIEF_ALLOW_PAID_TTS: ${{ inputs.confirm_paid && '1' || '0' }}
+          BRIEF_MAX_TTS_USD: "0.50"
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+        run: python scripts/tts_compare.py --providers ${{ inputs.providers }} --out tts-compare
+      - name: Summary
+        if: always()
+        run: |
+          python - >> "$GITHUB_STEP_SUMMARY" <<'EOF'
+          import json, pathlib
+          p = pathlib.Path("tts-compare/results.json")
+          rows = json.loads(p.read_text()) if p.exists() else []
+          print("| Провайдер | Голос | CER (ASR) | Тривалість, с | Рендер, с | Вартість, $ | Помилка |")
+          print("|---|---|---|---|---|---|---|")
+          for r in rows:
+              print(f"| {r['provider']} | {r.get('voice') or ''} | {r.get('asr_cer', '')} | {r.get('duration_sec', '')} | "
+                    f"{r.get('render_sec', '')} | {r.get('estimated_cost_usd', '')} | {r.get('error', '')[:120]} |")
+          print("\nMP3 для прослуховування — в артефакті **tts-compare** нижче.")
+          EOF
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: tts-compare
+          path: |
+            tts-compare/*.mp3
+            tts-compare/results.json
+          retention-days: 30

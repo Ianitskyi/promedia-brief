@@ -1,70 +1,346 @@
 {
-  "version": 1,
-  "eligibility": {
-    "national": "IMI White List, H1 2026",
-    "regional": "Recommended Media Map, IMI + Detector Media, H1 2026"
+  "version": 2,
+  "policy": "Лише медіа з чинного Білого списку ІМІ (національні) та Мапи рекомендованих медіа ІМІ + «Детектор медіа» (регіональні). Лише відкриті матеріали без paywall. Зберігаємо заголовок, коротку анотацію та посилання — не повні тексти. Нові джерела додаються тільки після появи в офіційному списку.",
+  "lists": {
+    "imi_white_list": {
+      "title": "Білий список ІМІ",
+      "edition": "H1 2026",
+      "published": "2026-06-19",
+      "url": "https://imi.org.ua/monitorings/bilyj-spysok-imi-za-pershe-pivrichchya-2026-roku-uvijshly-18-media",
+      "verified_on": "2026-10-20",
+      "count": 18,
+      "next_update": "двічі на рік; наступний випуск очікується після завершення II півріччя 2026"
+    },
+    "media_map": {
+      "title": "Мапа рекомендованих медіа ІМІ та «Детектор медіа»",
+      "edition": "H1 2026",
+      "published": "2026-06-22",
+      "url": "https://map.detector.media/",
+      "announcement": "https://imi.org.ua/monitorings/305-redaktsij-uvijshly-do-mapy-rekomendovanyh-media-u-pershomu-pivrichchi-2026-roku",
+      "verified_on": "2026-10-20",
+      "count": 305,
+      "registry_file": "config/media_map.json"
+    }
   },
   "national_sources": [
     {
-      "name": "Українська правда",
-      "homepage": "https://www.pravda.com.ua/",
-      "feed": "https://www.pravda.com.ua/rss/view_mainnews/",
-      "status": "active"
-    },
-    {
-      "name": "LB.ua",
-      "homepage": "https://lb.ua/",
-      "feed": "https://lb.ua/rss/ukr/news.xml",
-      "status": "active"
-    },
-    {
-      "name": "Радіо Свобода",
-      "homepage": "https://www.radiosvoboda.org/",
-      "feed_page": "https://www.radiosvoboda.org/rssfeeds/",
-      "feed": "https://www.radiosvoboda.org/api/zrqitl-vomx-tpeoumq",
-      "status": "active"
-    },
-    {
+      "id": "suspilne",
       "name": "Суспільне Новини",
       "homepage": "https://suspilne.media/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "suspilne.media"
+      ],
+      "feeds": [],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-20",
+      "notes": "Сайт за Cloudflare повертає 403 для серверних запитів (перевірено з хмарної мережі 2026-10-20). Обхід не застосовуємо: потрібен офіційний фід/дозвіл від редакції."
     },
     {
+      "id": "espreso",
       "name": "Еспресо",
       "homepage": "https://espreso.tv/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "espreso.tv"
+      ],
+      "feeds": [
+        "https://espreso.tv/rss"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
     },
     {
+      "id": "babel",
       "name": "Бабель",
       "homepage": "https://babel.ua/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "babel.ua"
+      ],
+      "feeds": [
+        "https://babel.ua/rss.xml"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
     },
     {
+      "id": "radiosvoboda",
+      "name": "Радіо Свобода",
+      "homepage": "https://www.radiosvoboda.org/",
+      "domains": [
+        "radiosvoboda.org"
+      ],
+      "feeds": [
+        "https://www.radiosvoboda.org/api/zrqitl-vomx-tpeoumq"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": "Фід з каталогу https://www.radiosvoboda.org/rssfeeds/"
+    },
+    {
+      "id": "hromadske",
       "name": "hromadske",
       "homepage": "https://hromadske.ua/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "hromadske.ua"
+      ],
+      "feeds": [],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-20",
+      "notes": "На сайті не знайдено публічного RSS (перевірено /rss, /feed, <link rel=alternate>)."
     },
     {
+      "id": "pravda",
+      "name": "Українська правда",
+      "homepage": "https://www.pravda.com.ua/",
+      "domains": [
+        "pravda.com.ua"
+      ],
+      "feeds": [
+        "https://www.pravda.com.ua/rss/view_mainnews/"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": "Фід головних новин"
+    },
+    {
+      "id": "nv",
       "name": "NV",
-      "homepage": "https://nv.ua/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "homepage": "https://nv.ua/ukr/",
+      "domains": [
+        "nv.ua"
+      ],
+      "feeds": [
+        "https://nv.ua/ukr/rss/all.xml"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
     },
     {
+      "id": "texty",
       "name": "Тексти",
       "homepage": "https://texty.org.ua/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "texty.org.ua"
+      ],
+      "feeds": [
+        "https://texty.org.ua/fragments/feed.xml",
+        "https://texty.org.ua/articles/feed.xml"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
     },
     {
+      "id": "lb",
+      "name": "LB.ua",
+      "homepage": "https://lb.ua/",
+      "domains": [
+        "lb.ua"
+      ],
+      "feeds": [
+        "https://lb.ua/rss/ukr/news.xml"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "ukrinform",
       "name": "Укрінформ",
       "homepage": "https://www.ukrinform.ua/",
-      "feed": null,
-      "status": "feed-verification-pending"
+      "domains": [
+        "ukrinform.ua"
+      ],
+      "feeds": [
+        "https://www.ukrinform.ua/rss/block-lastnews"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "graty",
+      "name": "Ґрати",
+      "homepage": "https://graty.me/",
+      "domains": [
+        "graty.me"
+      ],
+      "feeds": [
+        "https://graty.me/rss/news"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "hromadske-radio",
+      "name": "Громадське радіо",
+      "homepage": "https://hromadske.radio/",
+      "domains": [
+        "hromadske.radio"
+      ],
+      "feeds": [
+        "https://hromadske.radio/feed"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "tyzhden",
+      "name": "Український тиждень",
+      "homepage": "https://tyzhden.ua/",
+      "domains": [
+        "tyzhden.ua"
+      ],
+      "feeds": [
+        "https://tyzhden.ua/feed"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "zn",
+      "name": "ZN.UA",
+      "homepage": "https://zn.ua/ukr/",
+      "domains": [
+        "zn.ua"
+      ],
+      "feeds": [
+        "https://zn.ua/ukr/rss/full/"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": "Фід містить повні тексти — BRIEF зберігає лише анотацію (до 600 символів)."
+    },
+    {
+      "id": "rubryka",
+      "name": "Рубрика",
+      "homepage": "https://rubryka.com/",
+      "domains": [
+        "rubryka.com"
+      ],
+      "feeds": [
+        "https://rubryka.com/feed"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "slovoidilo",
+      "name": "Слово і Діло",
+      "homepage": "https://www.slovoidilo.ua/",
+      "domains": [
+        "slovoidilo.ua"
+      ],
+      "feeds": [
+        "https://www.slovoidilo.ua/rss.xml"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "novynarnia",
+      "name": "Новинарня",
+      "homepage": "https://novynarnia.com/",
+      "domains": [
+        "novynarnia.com"
+      ],
+      "feeds": [
+        "https://novynarnia.com/feed"
+      ],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-20",
+      "notes": ""
+    },
+    {
+      "id": "frontliner",
+      "name": "Frontliner",
+      "homepage": "https://frontliner.ua/",
+      "domains": [
+        "frontliner.ua"
+      ],
+      "feeds": [],
+      "geography": "national",
+      "list": "imi_white_list",
+      "list_edition": "H1 2026",
+      "list_verified_on": "2026-10-20",
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-20",
+      "notes": "/rss переадресовує на головну; публічного RSS не знайдено."
     }
   ]
 }

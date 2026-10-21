@@ -1,0 +1,2 @@
+# Runtime dependencies of the BRIEF pipeline (stdlib covers the rest).
+feedparser==6.0.14
