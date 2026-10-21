@@ -11,7 +11,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </style>
 </head>
 <body><main class="app">
-<header class="top"><div class="brand">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></div><div class="pill">AUDIO MVP 0.2</div></header>
+<header class="top"><a class="brand" href="./" onclick="go('home');return false" aria-label="BRIEF — на головну" style="color:inherit;text-decoration:none">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a><div class="pill">AUDIO MVP 0.2</div></header>
 
 <section id="home" class="screen active">
 <div class="hero"><h1>Все важливе.<br>За 10 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у персональному аудіовипуску.</p></div>
@@ -23,10 +23,10 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </section>
 
 <section id="topics" class="screen">
-<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Ваші теми звучать раніше. Найважливіші новини дня звучать завжди, незалежно від вибору.</p>
+<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Натискайте на тему, щоб змінити її вагу: ★ — цікаво, ★★ — важливо, ★★★ — найважливіше. Що більше зірок, то раніше звучить тема. Найважливіші новини дня звучать завжди, незалежно від вибору.</p>
 <div class="grid" id="topicGrid"></div>
 <div class="card"><div class="eyebrow">Ваш регіон</div><select id="regionSelect" style="width:100%;margin-top:10px;padding:12px;border-radius:12px;border:1px solid var(--line);font:inherit"></select><p class="tiny" id="regionNote" style="margin-bottom:0"></p></div>
-<label class="tiny" style="display:block;margin:8px 0 14px"><input type="checkbox" id="shortMode"> Коротший випуск: лише мої теми + обов'язкові новини</label>
+<label class="tiny" style="display:block;margin:8px 0 14px"><input type="checkbox" id="shortMode"> Коротший випуск: лише теми із зірками + обов'язкові новини</label>
 <button class="primary" onclick="savePrefs()">Зберегти й слухати</button>
 </section>
 
@@ -54,7 +54,11 @@ const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
 const store={get(k,d){try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 const TOPICS=['Війна та безпека','Політика','Економіка','Бізнес','Міжнародне','Суспільство','Технології та AI','Медіа','Культура','Спорт'];
 const MONTHS=['січня','лютого','березня','квітня','травня','червня','липня','серпня','вересня','жовтня','листопада','грудня'];
-let selected=new Set(store.get('brief-topics',['Економіка','Технології та AI','Медіа']));
+// Topic weight 0–3 ("гучність"). Older versions stored a plain list of chosen topics: those become ★★.
+const legacyTopics=store.get('brief-topics',['Економіка','Технології та AI','Медіа']);
+let weights=store.get('brief-topic-weights',Object.fromEntries(legacyTopics.map(t=>[t,2])));
+const weightOf=t=>Math.max(0,Math.min(3,weights[t]||0));
+const LEVELS=['○ не обрано','★ цікаво','★★ важливо','★★★ найважливіше'];
 let region=store.get('brief-region','');
 let shortMode=store.get('brief-short',false);
 let edition=null, legacy=false, playlist=[], idx=0;
@@ -65,7 +69,7 @@ function fmtTime(sec){if(!Number.isFinite(sec))return '';const m=Math.floor(sec/
 
 function renderTopics(){
   const g=document.getElementById('topicGrid');g.innerHTML='';
-  TOPICS.forEach(t=>{const b=document.createElement('button');b.className='topic '+(selected.has(t)?'active':'');b.innerHTML=`<b>${esc(t)}</b><span class="stars">${selected.has(t)?'★ обрано':'○ обрати'}</span>`;b.onclick=()=>{selected.has(t)?selected.delete(t):selected.add(t);renderTopics()};g.appendChild(b)});
+  TOPICS.forEach(t=>{const w=weightOf(t);const b=document.createElement('button');b.className='topic '+(w?'active':'');b.style.opacity=w?String(0.55+0.15*w):'';b.setAttribute('aria-label',`${t}: ${LEVELS[w]}`);b.innerHTML=`<b>${esc(t)}</b><span class="stars">${LEVELS[w]}</span>`;b.onclick=()=>{weights[t]=(w+1)%4;renderTopics()};g.appendChild(b)});
   document.getElementById('shortMode').checked=shortMode;
 }
 function renderRegions(){
@@ -76,12 +80,13 @@ function renderRegions(){
 }
 function summary(){
   const regs=(edition&&edition.regions)||[];const r=regs.find(x=>x.id===region);
-  document.getElementById('prefsSummary').textContent=[[...selected].slice(0,3).join(', ')||'Усі теми', r?r.name:'Огляд регіонів'].join(' · ');
-  document.getElementById('topicCount').textContent=selected.size+' тем';
+  const top=TOPICS.filter(t=>weightOf(t)).sort((a,b)=>weightOf(b)-weightOf(a));
+  document.getElementById('prefsSummary').textContent=[top.slice(0,3).join(', ')||'Усі теми', r?r.name:'Огляд регіонів'].join(' · ');
+  document.getElementById('topicCount').textContent=top.length+' тем';
 }
 function savePrefs(){
   region=document.getElementById('regionSelect').value; shortMode=document.getElementById('shortMode').checked;
-  store.set('brief-topics',[...selected]); store.set('brief-region',region); store.set('brief-short',shortMode);
+  store.set('brief-topic-weights',weights); store.set('brief-region',region); store.set('brief-short',shortMode);
   buildPlaylist(); renderStories(); summary(); go('brief');
 }
 
@@ -91,9 +96,12 @@ function buildPlaylist(){
   if(!edition||legacy) return;
   const segs=edition.segments, S=x=>({...x,src:x.audio});
   const sonic=edition.sonic||{};
-  const matches=s=>(s.topics||[]).some(t=>selected.has(t));
+  // story weight = its highest-weighted topic; ties keep the editorial order (sort is stable)
+  const storyWeight=s=>Math.max(0,...(s.topics||[]).map(weightOf));
+  const byWeight=list=>[...list].sort((a,b)=>storyWeight(b)-storyWeight(a));
   const nat=segs.filter(s=>s.kind==='story'&&s.block==='national');
-  const must=nat.filter(s=>s.must_include), mine=nat.filter(s=>!s.must_include&&matches(s)), rest=nat.filter(s=>!s.must_include&&!matches(s));
+  const must=nat.filter(s=>s.must_include), others=byWeight(nat.filter(s=>!s.must_include));
+  const mine=others.filter(s=>storyWeight(s)>0), rest=others.filter(s=>storyWeight(s)===0);
   const local=segs.filter(s=>s.block==='local:'+region);
   const regional=local.length?local:segs.filter(s=>s.block==='regional');
   if(sonic.intro) playlist.push({src:sonic.intro,title:'BRIEF',kind:'sound'});
