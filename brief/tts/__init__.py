@@ -19,7 +19,7 @@ def register(cls):
 
 
 def get(name, **kwargs) -> Provider:
-    from . import azure, elevenlabs, google, mock, openai, piper  # noqa: F401  (registration)
+    from . import azure, elevenlabs, google, mock, openai, piper, styletts2  # noqa: F401  (registration)
 
     if name not in PROVIDERS:
         raise TTSError(f"unknown TTS provider {name!r}; available: {', '.join(sorted(PROVIDERS))}")

@@ -2,7 +2,8 @@ name: Draft BRIEF edition
 
 # Daily edition. Always: collect + draft with fact checks.
 # approval_mode "auto" (config/editorial.json): stories that would need an editor (⚠) are
-# left out at drafting time, then the edition is approved automatically, voiced (Piper),
+# left out at drafting time, then the edition is approved automatically, voiced
+# (edition.tts_provider, StyleTTS2 since 2026-10-21),
 # checked by ASR and published. Any failed check stops the run before publishing.
 # approval_mode "editor": stops after the draft; an editor runs "Approve and render".
 on:
@@ -38,28 +39,44 @@ jobs:
           D="${{ inputs.date }}"
           [ -n "$D" ] || D=$(TZ=Europe/Kyiv date +%F)
           echo "date=$D" >> "$GITHUB_OUTPUT"
-          echo "mode=$(python -c 'import json;print(json.load(open("config/editorial.json"))["edition"].get("approval_mode","editor"))')" >> "$GITHUB_OUTPUT"
+          ed() { python -c "import json;print(json.load(open('config/editorial.json'))['edition'].get('$1','$2'))"; }
+          echo "mode=$(ed approval_mode editor)" >> "$GITHUB_OUTPUT"
+          echo "tts=$(ed tts_provider piper)" >> "$GITHUB_OUTPUT"
+          echo "voice=$(ed tts_voice '')" >> "$GITHUB_OUTPUT"
       - name: Collect latest items
         run: python -m brief collect
       - name: Build draft and fact checks
         run: python -m brief draft --date "${{ steps.cfg.outputs.date }}"
 
+      - name: Cache voice models
+        if: steps.cfg.outputs.mode == 'auto' && steps.cfg.outputs.tts == 'styletts2'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: styletts2-${{ hashFiles('brief/tts/styletts2.py', 'requirements-styletts2.txt') }}
       - name: Install audio tools
         if: steps.cfg.outputs.mode == 'auto'
         run: |
           sudo apt-get update && sudo apt-get install -y ffmpeg
-          pip install piper-tts==1.8.0 faster-whisper==1.2.1
-          mkdir -p "$RUNNER_TEMP/voices"
-          base=https://huggingface.co/rhasspy/piper-voices/resolve/main/uk/uk_UA/ukrainian_tts/medium
-          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx" "$base/uk_UA-ukrainian_tts-medium.onnx"
-          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx.json" "$base/uk_UA-ukrainian_tts-medium.onnx.json"
-          echo "BRIEF_PIPER_MODEL=$RUNNER_TEMP/voices/uk.onnx" >> "$GITHUB_ENV"
+          pip install faster-whisper==1.2.1
+          case "${{ steps.cfg.outputs.tts }}" in
+            styletts2) pip install -r requirements-styletts2.txt ;;
+            piper)
+              pip install piper-tts==1.8.0
+              mkdir -p "$RUNNER_TEMP/voices"
+              base=https://huggingface.co/rhasspy/piper-voices/resolve/main/uk/uk_UA/ukrainian_tts/medium
+              curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx" "$base/uk_UA-ukrainian_tts-medium.onnx"
+              curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx.json" "$base/uk_UA-ukrainian_tts-medium.onnx.json"
+              echo "BRIEF_PIPER_MODEL=$RUNNER_TEMP/voices/uk.onnx" >> "$GITHUB_ENV" ;;
+          esac
       - name: Approve automatically (same checks as for an editor)
         if: steps.cfg.outputs.mode == 'auto'
         run: python -m brief approve --date "${{ steps.cfg.outputs.date }}" --auto
       - name: Render audio
         if: steps.cfg.outputs.mode == 'auto'
-        run: python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider piper
+        run: |
+          V="${{ steps.cfg.outputs.voice }}"
+          python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider "${{ steps.cfg.outputs.tts }}" ${V:+--voice "$V"}
       - name: ASR check (audio matches the text)
         if: steps.cfg.outputs.mode == 'auto'
         run: python -m brief verify-audio --date "${{ steps.cfg.outputs.date }}"

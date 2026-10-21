@@ -46,7 +46,7 @@ python -m brief draft --date 2026-10-20      # editions/<date>/draft.json + draf
 python -m http.server 8080                   # open /review.html and /index.html
 python -m brief check --date 2026-10-20      # re-check an edited draft
 python -m brief approve --date 2026-10-20 --reviewer NAME --expected-hash SHA
-BRIEF_PIPER_MODEL=/path/uk_UA-ukrainian_tts-medium.onnx python -m brief render --date 2026-10-20 --provider piper
+pip install -r requirements-styletts2.txt && python -m brief render --date 2026-10-20 --provider styletts2   # або --provider piper з BRIEF_PIPER_MODEL=…
 python -m brief verify-audio --date 2026-10-20   # optional, needs faster-whisper
 python -m brief publish --date 2026-10-20
 python -m brief prune --keep-days 7          # delete editions older than a week

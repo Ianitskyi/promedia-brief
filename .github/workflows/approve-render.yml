@@ -15,8 +15,8 @@ on:
       provider:
         description: "TTS provider"
         type: choice
-        options: [piper, google, azure, openai, elevenlabs]
-        default: piper
+        options: [styletts2, piper, google, azure, openai, elevenlabs]
+        default: styletts2
       confirm_paid:
         description: "I have budget approval for a paid TTS run (needed for google/azure/openai/elevenlabs)"
         type: boolean
@@ -43,11 +43,18 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: Cache voice models
+        if: inputs.provider == 'styletts2'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: styletts2-${{ hashFiles('brief/tts/styletts2.py', 'requirements-styletts2.txt') }}
       - name: Install dependencies
         run: |
           sudo apt-get update && sudo apt-get install -y ffmpeg
           pip install -r requirements.txt
           case "${{ inputs.provider }}" in
+            styletts2) pip install -r requirements-styletts2.txt ;;
             piper) pip install piper-tts==1.8.0 ;;
             google) pip install google-cloud-texttospeech ;;
           esac

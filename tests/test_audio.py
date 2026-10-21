@@ -182,3 +182,17 @@ def test_prune_removes_editions_older_than_a_week(tmp_root):
     assert json.loads((ed / "index.json").read_text())["editions"] == ["2026-10-13", "2026-10-20"]
     assert json.loads((ed / "drafts.json").read_text())["drafts"] == ["2026-10-13", "2026-10-20"]
     assert not (ed / "latest.json").exists()
+
+
+def test_styletts2_provider_text_rules():
+    from brief.tts import styletts2
+
+    p = tts.get("styletts2")
+    assert not p.paid and p.voice == "male_2" and p.spell_digits and not p.lowercase and p.transliterate_latin
+    assert tts.guard_cost(p, 10**6) == 0
+    assert styletts2.prepare("Київ повертається до графіків — ДТЕК") == "Київ повертається до графіків: ДТЕК."
+    assert styletts2.prepare("Уряд - про ціни") == "Уряд: про ціни."
+    assert styletts2.parts("Лідером є Золочівська. Які громади зазнали ударів?") == [
+        "Лідером є Золочівська.", "Які громади зазнали ударів?"]
+    with pytest.raises(tts.TTSError, match="unknown voice"):
+        styletts2._style({"styles": {}}, "nobody")
