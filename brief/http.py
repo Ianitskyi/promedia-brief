@@ -3,7 +3,7 @@ import time
 import urllib.error
 import urllib.request
 
-USER_AGENT = "Mozilla/5.0 (compatible; BRIEF-by-ProMedia/0.2; +https://ianitskyi.github.io/promedia-brief/)"
+USER_AGENT = "Mozilla/5.0 (compatible; BRIEF-by-ProMedia/0.2; +https://brief.promedia.report/)"
 RETRY_STATUS = {429, 500, 502, 503, 504}
 
 

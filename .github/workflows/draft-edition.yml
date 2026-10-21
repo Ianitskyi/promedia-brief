@@ -47,5 +47,5 @@ jobs:
       - name: Summary
         run: |
           D=$(ls -1d editions/20*/ | tail -1)
-          echo "Draft ready for review: https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}/review.html" >> "$GITHUB_STEP_SUMMARY"
+          echo "Draft ready for review: https://brief.promedia.report/review.html" >> "$GITHUB_STEP_SUMMARY"
           python -m brief check --date "$(basename "$D")" >> "$GITHUB_STEP_SUMMARY" || true
