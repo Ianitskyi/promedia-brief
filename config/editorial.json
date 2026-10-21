@@ -12,7 +12,7 @@
     "must_include_national": 3,
     "max_sentences_per_story": 2,
     "max_words_per_story": 60,
-    "spoken_attribution": true,
+    "spoken_attribution": "end",
     "spoken_coverage": false,
     "required_disclosure": ["сайті BRIEF"],
     "structure": ["intro", "national", "transition", "regional", "outro"]
@@ -31,6 +31,7 @@
       "Посилання на першоджерела — на сайті BRIEF."
     ],
     "attribution": ["За даними {source}, ", "{source} повідомляє: ", "Як пише {source}, "],
+    "attribution_end": ", повідомляє {source}.",
     "also_reported": "Також повідомляють: {sources}.",
     "spoken_names": {
       "Перший канал Суспільного Мовлення": "Суспільне",

@@ -1,7 +1,7 @@
 """Stage 5: build the edition draft (exact script + fact trace) for editorial review.
 
 The script is *extractive*: every story sentence is the lead sentence(s) of a source
-publication's own annotation, prefixed by an explicit attribution. Nothing is
+publication's own annotation, with an explicit attribution (", повідомляє ..."). Nothing is
 paraphrased or generated, so the script cannot contain words the sources did not
 publish. Editors may shorten or rewrite sentences on the review page; the edited
 text is re-checked against the same evidence before approval.
@@ -50,11 +50,21 @@ def _source_order():
     return {s["id"]: i for i, s in enumerate(cfg["national_sources"])}
 
 
-def attribution(source_name, templates):
-    t = templates["attribution"][1]  # "{source} повідомляє: " — keeps the lead's own capitalisation
+def attribution(source_name, templates, position="end"):
+    """Spoken attribution. At the end ("..., повідомляє Новинарня.") the news itself opens the
+    story; at the start ("Новинарня повідомляє: ...") it reads like a press review."""
+    t = templates["attribution_end"] if position == "end" else templates["attribution"][1]
     if source_name in PLURAL_SOURCES:
         t = t.replace("повідомляє", "повідомляють")
     return t.format(source=spoken_name(source_name, templates))
+
+
+def attach_attribution(lead, attr, position):
+    if not attr:
+        return lead
+    if position == "end":
+        return lead.rstrip().rstrip(".!…") + attr
+    return attr + lead
 
 
 def spoken_name(name, templates):
@@ -95,6 +105,9 @@ def headline_sentence(title):
     """
     t = re.sub(r"\s*\((оновлено|онлайн|фото|відео|фото, відео|інфографіка)\)\s*$", "", title.replace("\u200b", ""), flags=re.I).strip()
     if len(t.split()) < 4 or t.endswith("?"):
+        return None
+    # teaser headlines announce an explainer rather than state the news
+    if re.search(r"[:—–-]\s*(що відомо|що треба знати|що слід знати|деталі|подробиці|головне|фото|відео|онлайн)\.?$", t, re.I):
         return None
     if ":" in t:
         label = t.split(":", 1)[0].split()
@@ -162,14 +175,18 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
     sentences = []
     for i, lead in enumerate(leads):
-        prefix = attribution(rep["source"], templates) if i == 0 and ed_cfg.get("spoken_attribution", True) else ""
+        position = ed_cfg.get("spoken_attribution", "end")
+        if position is True:
+            position = "end"
+        attr = attribution(rep["source"], templates, position) if i == 0 and position else ""
         trace = check_sentence(lead, evidence, cl["independent_sources"], sensitive_cfg, year)
-        text = prefix + lead
+        text = attach_attribution(lead, attr, position)
         sentences.append({
             "id": f"{cl['id']}-s{i + 1}",
             "kind": "fact",
-            "attribution": rep["source"] if prefix else None,
-            "attribution_text": prefix,
+            "attribution": rep["source"] if attr else None,
+            "attribution_text": attr,
+            "attribution_position": position if attr else None,
             "body": lead,
             "text": text,
             "original_text": text,

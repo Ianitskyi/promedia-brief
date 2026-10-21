@@ -51,6 +51,7 @@ def test_extract_claims_types():
     ("Reuters: Віткофф поїде до Норвегії", False),        # label-style
     ("Що відомо про удар по Києву?", False),               # question
     ("Головне за день", False),                            # too short
+    ("Атаки РФ на Запоріжжя та область 21 жовтня: що відомо", False),  # teaser
     ("Росіяни атакували «Епіцентр» у Первомайську (оновлено)", True),
 ])
 def test_headline_sentence(title, ok):
@@ -122,7 +123,8 @@ def test_draft_structure_attribution_and_disclosure(drafted):
     stories = [s for s in d["segments"] if s["kind"] == "story"]
     nat = [s for s in stories if s["block"] == "national"]
     assert len(nat) == 1  # two outlets, one event
-    assert nat[0]["sentences"][0]["text"].startswith("Українська правда повідомляє: ")
+    first = nat[0]["sentences"][0]["text"]
+    assert first == "Кабмін ухвалив постанову про компенсації за зруйноване житло, повідомляє Українська правда."
     assert {x["name"] for x in nat[0]["sources"]} == {"Українська правда", "LB.ua"}
     assert any(s["block"] == "local:volyn" for s in stories)
     for seg in stories:  # every sentence traces back to sources

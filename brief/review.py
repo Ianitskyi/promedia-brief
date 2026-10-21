@@ -25,10 +25,15 @@ def _recheck_sentence(s, seg, evidence, ed, lexicon, year):
     s["speech_text"] = speech_text(s["text"], lexicon)
     s["speech_warnings"] = speech_warnings(s["speech_text"])
     if s["kind"] == "fact":
-        prefix = s.get("attribution_text") or ""
-        body = s["text"][len(prefix):] if prefix and s["text"].startswith(prefix) else s["text"]
-        if prefix and not s["text"].startswith(prefix):
-            s["attribution"] = None  # editor removed/changed the attribution; claims still need sources
+        attr = s.get("attribution_text") or ""
+        at_end = s.get("attribution_position") == "end"
+        present = s["text"].endswith(attr) if at_end else s["text"].startswith(attr)
+        if attr and present:
+            body = s["text"][: -len(attr)] if at_end else s["text"][len(attr):]
+        else:
+            body = s["text"]
+            if attr:
+                s["attribution"] = None  # editor removed/changed the attribution; claims still need sources
         story_ev = {src["item_id"]: evidence[src["item_id"]] for src in seg["sources"] if src["item_id"] in evidence}
         trace = check_sentence(body, story_ev, seg.get("independent_sources", 1), ed["sensitive"], year)
         s["body"] = body
