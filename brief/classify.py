@@ -19,6 +19,12 @@ def _compile_gazetteer(items):
     return exact, tuple(prefixes)
 
 
+# "бульвар Хмельницького", "вулиця Київська", "імені Шевченка": names of streets and the
+# like are not places in their own right.
+NAMED_AFTER = ("вулиц", "вул", "бульвар", "просп", "провул", "площ", "набережн", "узвіз", "шосе", "імені", "ім",
+               "парк", "сквер", "станці", "метро")
+
+
 def detect_places(text, gazetteer):
     """Region ids mentioned in the text. Only capitalised words count (proper names)."""
     exact, prefixes = _compile_gazetteer(tuple((k, tuple(v)) for k, v in sorted(gazetteer.items())))
@@ -26,6 +32,8 @@ def detect_places(text, gazetteer):
     words = [(m.group(0), m.start()) for m in WORD.finditer(text or "")]
     for i, (w, _) in enumerate(words):
         if not w[:1].isupper():
+            continue
+        if i > 0 and norm_word(words[i - 1][0]).startswith(NAMED_AFTER):
             continue
         low = norm_word(w)
         if low in exact:
