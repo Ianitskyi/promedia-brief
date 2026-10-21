@@ -6,6 +6,7 @@ keeps the ones collected earlier that day, so the pool survives feed truncation
 """
 import concurrent.futures as cf
 import datetime as dt
+import xml.etree.ElementTree as ET
 
 import feedparser
 
@@ -23,7 +24,9 @@ def eligible_sources(cfg=None, include_regional=True):
     cfg = cfg or config("sources.json")
     out = [s for s in cfg["national_sources"] if s.get("feed_status") == "active" and s.get("feeds")]
     if include_regional:
-        out += regional_sources()
+        # a feed already collected as a national source is not collected again via the map
+        national_feeds = {f for s in out for f in s["feeds"]}
+        out += [s for s in regional_sources() if not set(s["feeds"]) & national_feeds]
     return out
 
 
@@ -89,11 +92,39 @@ def parse_feed(body, source, fetched_at):
     return rows, skipped
 
 
+NEWS_NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9", "news": "http://www.google.com/schemas/sitemap-news/0.9"}
+
+
+def parse_news_sitemap(body, source, fetched_at):
+    """Google News sitemap (<news:news>): headline, date and URL only, no annotation.
+
+    Used for outlets that publish no RSS but expose a news sitemap allowed by robots.txt.
+    """
+    root = ET.fromstring(body)
+    rows, skipped = [], {}
+    for url in root.findall("sm:url", NEWS_NS):
+        entry = {
+            "link": (url.findtext("sm:loc", "", NEWS_NS) or "").strip(),
+            "title": url.findtext("news:news/news:title", "", NEWS_NS),
+            "published": url.findtext("news:news/news:publication_date", "", NEWS_NS) or None,
+        }
+        row, why = normalize_entry(entry, source, fetched_at)
+        if row:
+            rows.append(row)
+        else:
+            skipped[why] = skipped.get(why, 0) + 1
+    return rows, skipped
+
+
+PARSERS = {"rss": parse_feed, "news-sitemap": parse_news_sitemap}
+
+
 def collect_source(source, fetched_at, fetch=http.fetch):
     rows, errors, skipped = [], [], {}
+    parse = PARSERS[source.get("feed_format", "rss")]
     for url in source["feeds"]:
         try:
-            r, s = parse_feed(fetch(url), source, fetched_at)
+            r, s = parse(fetch(url), source, fetched_at)
             rows += r
             for k, v in s.items():
                 skipped[k] = skipped.get(k, 0) + v

@@ -118,6 +118,7 @@ def test_configured_national_sources_match_white_list():
         assert s["list"] == "imi_white_list" and s["list_verified_on"] and s["feed_checked_on"]
         assert s["feed_status"] in ("active", "not-found", "blocked")
         assert (s["feed_status"] == "active") == bool(s["feeds"])
+        assert s.get("feed_format", "rss") in collect.PARSERS
 
 
 def test_legacy_pool_items_are_upgraded():
@@ -170,3 +171,23 @@ def test_clean_text_and_sentences():
     assert clean_text("Валерія Рубаняк вт, 20/10/2026 - 17:47 Під час боїв загинув воїн.") == "Під час боїв загинув воїн."
     assert split_sentences("Президент В. Зеленський прибув у м. Осло. Там він зустрівся з прем'єром. «Це важливо», — сказав він.") == [
         "Президент В. Зеленський прибув у м. Осло.", "Там він зустрівся з прем'єром.", "«Це важливо», — сказав він."]
+
+
+def test_news_sitemap_source():
+    src = dict(SOURCE, id="hromadske", name="hromadske", domains=["hromadske.ua"], feed_format="news-sitemap",
+               feeds=["https://hromadske.ua/sitemap/news.xml"])
+    body = (FIXTURES / "news_sitemap.xml").read_bytes()
+    rows, errors, skipped = collect.collect_source(src, NOW, fetch=lambda url, **k: body)
+    assert errors == [] and skipped == {"link outside source domain": 1}
+    assert len(rows) == 1
+    r = rows[0]
+    assert r["title"] == "Перед отриманням мільярдного підряду компанія змінила власника"
+    assert r["published_at"] == "2026-10-21T11:58:00+00:00" and r["description"] == ""
+    assert r["source_id"] == "hromadske" and r["url"] == "https://hromadske.ua/ukrayina/1-pered-otrymanniam-pidriadu"
+
+
+def test_feed_shared_by_national_and_map_source_is_collected_once():
+    ids = [s["id"] for s in collect.eligible_sources()]
+    feeds = [f for s in collect.eligible_sources() for f in s["feeds"]]
+    assert "suspilne" in ids
+    assert len(feeds) == len(set(feeds))

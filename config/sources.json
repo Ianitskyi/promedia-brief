@@ -30,14 +30,16 @@
       "domains": [
         "suspilne.media"
       ],
-      "feeds": [],
+      "feeds": [
+        "https://suspilne.media/rss/all.rss"
+      ],
       "geography": "national",
       "list": "imi_white_list",
       "list_edition": "H1 2026",
       "list_verified_on": "2026-10-20",
-      "feed_status": "blocked",
-      "feed_checked_on": "2026-10-20",
-      "notes": "Сайт за Cloudflare повертає 403 для серверних запитів (перевірено з хмарної мережі 2026-10-20). Обхід не застосовуємо: потрібен офіційний фід/дозвіл від редакції."
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "Офіційний фід, на який посилається tv.suspilne.media; 2026-10-20 віддавав валідний RSS. Cloudflare періодично повертає 403 для серверних запитів — такі запуски лише логуються, обхід не застосовуємо."
     },
     {
       "id": "espreso",
@@ -100,14 +102,17 @@
       "domains": [
         "hromadske.ua"
       ],
-      "feeds": [],
+      "feeds": [
+        "https://hromadske.ua/sitemap/news.xml"
+      ],
       "geography": "national",
       "list": "imi_white_list",
       "list_edition": "H1 2026",
       "list_verified_on": "2026-10-20",
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-20",
-      "notes": "На сайті не знайдено публічного RSS (перевірено /rss, /feed, <link rel=alternate>)."
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "RSS немає; використовується Google News sitemap (дозволений robots.txt): заголовок, дата, посилання, без анотацій.",
+      "feed_format": "news-sitemap"
     },
     {
       "id": "pravda",
@@ -339,8 +344,8 @@
       "list_edition": "H1 2026",
       "list_verified_on": "2026-10-20",
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-20",
-      "notes": "/rss переадресовує на головну; публічного RSS не знайдено."
+      "feed_checked_on": "2026-10-21",
+      "notes": "Публічного RSS немає; robots.txt забороняє */feed/. Sitemap містить лише URL без заголовків — не підключено."
     }
   ]
 }
