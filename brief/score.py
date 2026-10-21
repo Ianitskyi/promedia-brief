@@ -5,6 +5,7 @@ The breakdown is stored next to each story so editors can see *why* it ranked wh
 Popularity signals (views, clicks, shares) are deliberately not used.
 """
 import math
+import re
 
 from .textmatch import has_marker
 from .util import from_iso
@@ -16,6 +17,40 @@ def _tiered(text, tiers):
         if any(has_marker(text, m) for m in markers):
             best = max(best, float(level))
     return best
+
+
+NUM_WORDS = {"один": 1, "одна": 1, "одного": 1, "одну": 1, "двоє": 2, "два": 2, "дві": 2, "двох": 2, "троє": 3,
+             "три": 3, "трьох": 3, "четверо": 4, "чотири": 4, "чотирьох": 4, "п'ятеро": 5, "п'ять": 5, "шестеро": 6,
+             "шість": 6, "семеро": 7, "сім": 7, "восьмеро": 8, "вісім": 8, "дев'ятеро": 9, "дев'ять": 9,
+             "десятеро": 10, "десять": 10, "десятки": 20, "десятків": 20, "сотні": 100, "сотень": 100}
+_N = r"(\d+|" + "|".join(sorted(map(re.escape, NUM_WORDS), key=len, reverse=True)) + r")"
+KILLED = r"(?:загиб|загин|вбит|вбил|жертв|смертельн)"
+INJURED = r"(?:поранен|постражд|травмован|госпіталізован)"
+
+
+def _num(tok):
+    tok = tok.replace("’", "'").replace("ʼ", "'")
+    return int(tok) if tok.isdigit() else NUM_WORDS.get(tok, 0)
+
+
+def casualties(text):
+    """(killed, injured) reported in the text: the largest numbers next to the keywords.
+
+    "загинули троє", "21 людина постраждала", "є загиблі" (= at least 1). A rough reading:
+    it ranks stories, it never writes anything into the script.
+    """
+    low = text.lower().replace("’", "'").replace("ʼ", "'")
+    result = []
+    for kw in (KILLED, INJURED):
+        best = 0
+        for m in re.finditer(_N + r"\s+(?:[\w'–—-]+\s+){0,2}?" + kw, low):
+            best = max(best, _num(m.group(1)))
+        for m in re.finditer(kw + r"[\w'-]*\s+(?:[\w'-]+\s+){0,1}?" + _N + r"(?![\w-])", low):
+            best = max(best, _num(m.group(1)))
+        if not best and re.search(r"(?:є|наявні)\s+" + kw, low):
+            best = 1
+        result.append(min(best, 10000))
+    return tuple(result)
 
 
 def factors(cluster, items_by_id, now, scoring, target_region=None, previous_titles=()):
@@ -49,10 +84,15 @@ def factors(cluster, items_by_id, now, scoring, target_region=None, previous_tit
                 novelty = 0.3
                 break
 
+    killed, injured = casualties(text)
+    severity = killed * scoring.get("casualty_killed_weight", 3) + injured
+    casualty = min(1.0, math.log1p(severity) / math.log1p(scoring.get("casualty_saturation", 60)))
+
     return {
+        "casualties": round(casualty, 3),
         "confirmations": round(confirmations, 3),
         "public_significance": _tiered(text, scoring["public_significance_markers"]),
-        "scale": _tiered(text, scoring["scale_markers"]),
+        "reach": _tiered(text, scoring["reach_markers"]),
         "recency": round(recency, 3),
         "geographic_relevance": geo,
         "novelty": novelty,

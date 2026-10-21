@@ -112,9 +112,27 @@ class ApprovalError(RuntimeError):
     pass
 
 
-def approve(date, reviewer, expected_hash=None, now=None):
+AUTO_REVIEWER = "BRIEF auto (без редактора)"
+
+
+def approve(date, reviewer, expected_hash=None, now=None, auto=False):
+    """Record approval. auto=True: no human reviewer; ⚠ sentences are confirmed automatically
+    (marked confirmed_by="auto"), ✗ sentences still block approval."""
+    if auto:
+        reviewer = AUTO_REVIEWER
     if not reviewer or not reviewer.strip():
         raise ApprovalError("reviewer is required")
+    if auto:
+        # Owner's decision (2026-10-21): sensitive claims (casualties, strikes) from a single
+        # outlet are published without a human check. Claims missing from the sources (✗)
+        # still block publication. Auto-confirmed sentences are marked in the record.
+        draft = load_draft(date)
+        for seg in draft["segments"]:
+            for s in seg["sentences"]:
+                if s.get("status") == "needs_review" and not s.get("editor_confirmed"):
+                    s["editor_confirmed"] = True
+                    s["confirmed_by"] = "auto"
+        write_json(EDITIONS / date / "draft.json", draft)
     result = check_draft(date)
     if result["problems"]:
         raise ApprovalError("draft has unresolved problems:\n- " + "\n- ".join(result["problems"]))
@@ -127,6 +145,7 @@ def approve(date, reviewer, expected_hash=None, now=None):
         "date": date,
         "status": "approved",
         "approved_by": reviewer.strip(),
+        "mode": "auto" if auto else "editor",
         "approved_at": iso(now or now_utc()),
         "script_sha256": digest,
         "script_text": script_text(draft),

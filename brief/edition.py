@@ -301,6 +301,7 @@ def build(date, now=None):
             if any(s["status"] == "unsupported" for s in story["sentences"]):
                 skipped.append({"cluster": c["id"], "block": block, "reason": "unsupported claims"})
                 continue
+
             counts[key] = counts.get(key, 0) + 1
             picked.append((c, story))
         return picked
@@ -361,6 +362,7 @@ def build(date, now=None):
         "generated_at": iso(now),
         "window_end": iso(end),
         "config_status": ed["status"],
+        "approval_mode": ed_cfg.get("approval_mode", "editor"),
         "pipeline": "brief 0.2 extractive",
         "segments": segs,
         "evidence": evidence,

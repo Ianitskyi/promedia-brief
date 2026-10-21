@@ -1,6 +1,10 @@
 name: Draft BRIEF edition
 
-# Builds the script draft for editorial review. No TTS, no publishing.
+# Daily edition. Always: collect + draft with fact checks.
+# approval_mode "auto" (config/editorial.json): stories that would need an editor (⚠) are
+# left out at drafting time, then the edition is approved automatically, voiced (Piper),
+# checked by ASR and published. Any failed check stops the run before publishing.
+# approval_mode "editor": stops after the draft; an editor runs "Approve and render".
 on:
   workflow_dispatch:
     inputs:
@@ -18,9 +22,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  draft:
+  edition:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,24 +32,56 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Edition date and approval mode
+        id: cfg
+        run: |
+          D="${{ inputs.date }}"
+          [ -n "$D" ] || D=$(TZ=Europe/Kyiv date +%F)
+          echo "date=$D" >> "$GITHUB_OUTPUT"
+          echo "mode=$(python -c 'import json;print(json.load(open("config/editorial.json"))["edition"].get("approval_mode","editor"))')" >> "$GITHUB_OUTPUT"
       - name: Collect latest items
         run: python -m brief collect
       - name: Build draft and fact checks
+        run: python -m brief draft --date "${{ steps.cfg.outputs.date }}"
+
+      - name: Install audio tools
+        if: steps.cfg.outputs.mode == 'auto'
         run: |
-          if [ -n "${{ inputs.date }}" ]; then python -m brief draft --date "${{ inputs.date }}"; else python -m brief draft; fi
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install piper-tts==1.8.0 faster-whisper==1.2.1
+          mkdir -p "$RUNNER_TEMP/voices"
+          base=https://huggingface.co/rhasspy/piper-voices/resolve/main/uk/uk_UA/ukrainian_tts/medium
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx" "$base/uk_UA-ukrainian_tts-medium.onnx"
+          curl -sSfL -o "$RUNNER_TEMP/voices/uk.onnx.json" "$base/uk_UA-ukrainian_tts-medium.onnx.json"
+          echo "BRIEF_PIPER_MODEL=$RUNNER_TEMP/voices/uk.onnx" >> "$GITHUB_ENV"
+      - name: Approve automatically (same checks as for an editor)
+        if: steps.cfg.outputs.mode == 'auto'
+        run: python -m brief approve --date "${{ steps.cfg.outputs.date }}" --auto
+      - name: Render audio
+        if: steps.cfg.outputs.mode == 'auto'
+        run: python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider piper
+      - name: ASR check (audio matches the text)
+        if: steps.cfg.outputs.mode == 'auto'
+        run: python -m brief verify-audio --date "${{ steps.cfg.outputs.date }}"
+      - name: Publish (fails closed)
+        if: steps.cfg.outputs.mode == 'auto'
+        run: python -m brief publish --date "${{ steps.cfg.outputs.date }}"
+
       - name: Delete editions older than 7 days
         run: python -m brief prune --keep-days 7
-      - name: Commit draft
+      - name: Commit
         run: |
           git config user.name "BRIEF Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A data/raw editions
+          git add -A data/raw editions audio/daily.mp3
           git diff --cached --quiet && exit 0
-          git commit -m "Draft BRIEF edition for review"
+          if [ "${{ steps.cfg.outputs.mode }}" = "auto" ]; then MSG="Publish BRIEF edition ${{ steps.cfg.outputs.date }} (auto)"; else MSG="Draft BRIEF edition for review"; fi
+          git commit -m "$MSG"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
           exit 1
       - name: Summary
+        if: always()
         run: |
-          D=$(ls -1d editions/20*/ | tail -1)
-          echo "Draft ready for review: https://brief.promedia.report/review.html" >> "$GITHUB_STEP_SUMMARY"
-          python -m brief check --date "$(basename "$D")" >> "$GITHUB_STEP_SUMMARY" || true
+          echo "Edition ${{ steps.cfg.outputs.date }} — mode: ${{ steps.cfg.outputs.mode }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Site: https://brief.promedia.report/ · review: https://brief.promedia.report/review.html" >> "$GITHUB_STEP_SUMMARY"
+          python -m brief check --date "${{ steps.cfg.outputs.date }}" >> "$GITHUB_STEP_SUMMARY" 2>&1 || true

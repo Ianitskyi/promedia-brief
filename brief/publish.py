@@ -67,6 +67,7 @@ def public_edition(approved, render):
         "title": f"BRIEF — {approved['date']}",
         "published_at": iso(now_utc()),
         "approved": True,  # the reviewer's identity stays in approved.json, not in the public file
+        "approval": approved.get("mode", "editor"),  # "auto": published without a human editor
         "script_sha256": approved["script_sha256"],
         "voice": {"provider": render["provider"], "voice": render["voice"]},
         "sonic": {"intro": "audio/intro.mp3", "bumper": "audio/bumper.mp3", "outro": "audio/outro.mp3"},

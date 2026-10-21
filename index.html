@@ -19,7 +19,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 <div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
 <audio id="player" preload="none"></audio></div>
 <div class="card"><div class="split"><div><div class="eyebrow">Ваші теми і регіон</div><h2 style="margin-top:6px" id="prefsSummary">—</h2></div><span class="status" id="topicCount">—</span></div><button class="secondary" onclick="go('topics')">Налаштувати</button></div>
-<div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Кожна новина має джерело, а посилання ведуть до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">Тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа ІМІ і «Детектора медіа». Кожен випуск затверджує редактор.</div>
+<div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Кожна новина має джерело, а посилання ведуть до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">Тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа ІМІ і «Детектора медіа». Кожне число, ім'я та цитату у випуску автоматично звірено з першоджерелом.</div>
 </section>
 
 <section id="topics" class="screen">
@@ -161,7 +161,7 @@ async function loadEdition(){
     const e=await fetch(latest.edition,{cache:'no-store'});
     if(!e.ok) throw new Error('edition unavailable');
     edition=await e.json();
-    document.getElementById('editionDate').textContent=fmtDate(edition.date)+' • затверджено редакцією';
+    document.getElementById('editionDate').textContent=fmtDate(edition.date)+(edition.approval==='auto'?' • автоматичний випуск':' • затверджено редакцією');
     document.getElementById('editionDate2').textContent='випуск за '+fmtDate(edition.date);
   }catch(err){
     try{const r=await fetch('data/2026-10-03.json',{cache:'no-store'});edition=await r.json();legacy=true;

@@ -169,3 +169,21 @@ def test_must_include_story_cannot_be_dropped_silently(drafted, cli):
     _save(drafted, d)
     r = cli(drafted, "check", "--date", "2026-10-20", check=False)
     assert r.returncode == 1 and "обов'язковий сюжет виключено" in r.stdout
+
+
+def test_auto_approval_confirms_sensitive_but_never_unsupported(drafted, cli):
+    d = _draft(drafted)
+    flagged = [s["id"] for seg in d["segments"] for s in seg["sentences"] if s["status"] == "needs_review"]
+    cli(drafted, "approve", "--date", "2026-10-20", "--auto")
+    a = json.loads((drafted / "editions" / "2026-10-20" / "approved.json").read_text())
+    assert a["mode"] == "auto" and a["approved_by"].startswith("BRIEF auto")
+    confirmed = {s["id"]: s for seg in a["segments"] for s in seg["sentences"]}
+    assert all(confirmed[i]["confirmed_by"] == "auto" for i in flagged if i in confirmed)
+
+    # an invented number still blocks automatic approval
+    d = _draft(drafted)
+    story = next(s for s in d["segments"] if s["kind"] == "story" and s["block"] == "national")
+    story["sentences"][1]["text"] = "Уряд виділив 7 млрд гривень на компенсації."
+    _save(drafted, d)
+    r = cli(drafted, "approve", "--date", "2026-10-20", "--auto", check=False)
+    assert r.returncode != 0 and "непідтверджено" in r.stderr

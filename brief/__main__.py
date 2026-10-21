@@ -51,7 +51,9 @@ def cmd_check(a):
 def cmd_approve(a):
     from . import review
 
-    approved = review.approve(a.date, a.reviewer, expected_hash=a.expected_hash)
+    if not a.auto and not a.reviewer:
+        sys.exit("--reviewer is required (or --auto)")
+    approved = review.approve(a.date, a.reviewer, expected_hash=a.expected_hash, auto=a.auto)
     print(f"approved by {approved['approved_by']}; script sha256 {approved['script_sha256']}")
 
 
@@ -107,7 +109,8 @@ def main(argv=None):
 
     ap = sub.add_parser("approve", help="record editorial approval of the draft")
     ap.add_argument("--date", required=True)
-    ap.add_argument("--reviewer", required=True)
+    ap.add_argument("--reviewer")
+    ap.add_argument("--auto", action="store_true", help="no human reviewer; refuses if anything needs one")
     ap.add_argument("--expected-hash", help="sha256 shown on the review page; guards against approving a changed text")
     ap.set_defaults(fn=cmd_approve)
 
