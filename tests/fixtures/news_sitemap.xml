@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url>
+    <loc>https://hromadske.ua/ukrayina/1-pered-otrymanniam-pidriadu</loc>
+    <lastmod>2026-10-21T14:58:21+03:00</lastmod>
+    <news:news>
+      <news:publication><news:name>Hromadske</news:name><news:language>uk</news:language></news:publication>
+      <news:publication_date>2026-10-21T14:58:00+03:00</news:publication_date>
+      <news:title>Перед отриманням мільярдного підряду компанія змінила власника</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://other.example/not-ours</loc>
+    <news:news><news:publication_date>2026-10-21T10:00:00+03:00</news:publication_date><news:title>Чужий домен</news:title></news:news>
+  </url>
+</urlset>
