@@ -1,0 +1,32 @@
+name: Refresh regional source registry
+
+# Snapshot of the official Recommended Media Map + feed discovery.
+# Opens no PR automatically: the diff is committed to a branch for editorial review.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "11 6 1 * *"  # monthly
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m brief registry
+      - name: Push to review branch
+        run: |
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout -b "registry/$(date +%Y-%m-%d)"
+          git add config/media_map.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh Recommended Media Map snapshot"
+          git push origin HEAD

@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="robots" content="noindex,nofollow" />
+<title>BRIEF — редакційна перевірка</title>
+<style>
+:root{--bg:#f4f2ec;--card:#fff;--ink:#171717;--muted:#6c6c67;--line:#dedbd2;--soft:#ece9df;--ok:#1d6b3a;--warn:#8a5a00;--bad:#a1221b}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+main{max-width:980px;margin:auto;padding:18px 16px 80px}h1{font-size:28px;letter-spacing:-.03em;margin:6px 0}h2{font-size:18px;margin:22px 0 8px}
+.banner{background:#111;color:#fff;border-radius:14px;padding:12px 14px;font-size:13px;margin:10px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px;margin:12px 0}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.muted{color:var(--muted)}.tiny{font-size:12px}
+.badge{font-size:11px;font-weight:800;padding:4px 8px;border-radius:999px;border:1px solid var(--line);white-space:nowrap}
+.verified{color:var(--ok);border-color:#b8d8c3}.needs_review{color:var(--warn);border-color:#e6cf9c}.unsupported{color:var(--bad);border-color:#e7b4b0}.edited{color:#3b4bd8;border-color:#b9c0f0}
+textarea{width:100%;font:inherit;font-size:15px;line-height:1.45;border:1px solid var(--line);border-radius:10px;padding:8px;resize:vertical;background:#fffef9}
+.sent{border-top:1px dashed var(--line);padding:10px 0}.sent:first-child{border-top:0}
+.claims{font-size:12px;margin-top:6px}.claims span{display:inline-block;background:var(--soft);border-radius:8px;padding:2px 6px;margin:2px}
+.claims .miss{background:#f6dcda}.reason{font-size:12px;color:var(--warn);margin-top:4px}.reason.bad{color:var(--bad)}
+a{color:inherit}.src{font-size:13px;margin:3px 0}.excluded{opacity:.45}
+table{border-collapse:collapse;font-size:12px}td{padding:2px 8px 2px 0}
+button{font:inherit;border:0;border-radius:12px;background:#111;color:#fff;padding:10px 14px;font-weight:800;cursor:pointer}
+button.secondary{background:#fff;color:#111;border:1px solid var(--line)}
+code{background:var(--soft);padding:2px 5px;border-radius:6px;font-size:12px;word-break:break-all}
+.sticky{position:sticky;top:0;z-index:5;background:var(--bg);padding:8px 0;border-bottom:1px solid var(--line)}
+details summary{cursor:pointer;font-weight:700}
+</style>
+</head>
+<body><main>
+<div class="eyebrow tiny muted">BRIEF by ProMedia · редакційна перевірка</div>
+<h1 id="title">Чернетка випуску</h1>
+<div class="banner">ЧЕРНЕТКА — не для поширення. Автоматичні перевірки шукають у джерелах кожне число, ім'я, цитату й дату, але не гарантують достовірність. Відповідальність за випуск — на редакторі.</div>
+<div class="row"><label>Дата: <select id="date"></select></label><span id="stats" class="tiny muted"></span></div>
+
+<div class="sticky row">
+  <span>sha256 сценарію: <code id="hash">—</code></span>
+  <span id="blockers" class="badge">—</span>
+  <button onclick="download()">Завантажити змінений draft.json</button>
+  <button class="secondary" onclick="document.getElementById('how').open=true;document.getElementById('how').scrollIntoView()">Як затвердити</button>
+</div>
+
+<div id="segments"></div>
+
+<details class="card" id="how"><summary>Як затвердити випуск</summary>
+<ol class="tiny">
+<li>Відредагуйте речення, вимкніть зайві сюжети, підтвердіть позначені «⚠» речення (лише після перевірки за посиланнями).</li>
+<li>Натисніть «Завантажити змінений draft.json» і завантажте файл у репозиторій як <code id="pathhint">editions/DATE/draft.json</code> (GitHub → Add file → Upload files → Commit).</li>
+<li>Запустіть GitHub Actions → <b>Approve and render BRIEF edition</b> з датою та sha256, показаним угорі. Затвердження повторно перевіряє текст; якщо він змінився або є непідтверджені речення — нічого не буде озвучено.</li>
+</ol>
+<p class="tiny muted">Змінені речення позначаються «змінено»: їх буде перевірено повторно під час затвердження. Будь-яке нове число, ім'я чи цитата, яких немає в джерелах сюжету, заблокує затвердження.</p>
+</details>
+
+<details class="card"><summary>Журнал відбору</summary><div id="log" class="tiny"></div></details>
+</main>
+<script>
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const STATUS={verified:'✓ підтверджено',needs_review:'⚠ потребує підтвердження',unsupported:'✗ не підтверджено'};
+let draft=null, date=null;
+
+async function init(){
+  const params=new URLSearchParams(location.search);
+  let list=[];
+  try{const r=await fetch('editions/drafts.json',{cache:'no-store'}); if(r.ok) list=(await r.json()).drafts||[];}catch(e){}
+  date=params.get('date')||list[0];
+  const sel=document.getElementById('date');
+  sel.innerHTML=(list.includes(date)?list:[date,...list]).filter(Boolean).map(d=>`<option ${d===date?'selected':''}>${esc(d)}</option>`).join('');
+  sel.onchange=()=>{location.search='?date='+encodeURIComponent(sel.value)};
+  if(!date){document.getElementById('segments').innerHTML='<p>Чернеток ще немає.</p>';return}
+  const r=await fetch(`editions/${encodeURIComponent(date)}/draft.json`,{cache:'no-store'});
+  if(!r.ok){document.getElementById('segments').innerHTML='<p>Не вдалося завантажити чернетку.</p>';return}
+  draft=await r.json();
+  document.getElementById('title').textContent='Чернетка випуску за '+draft.date;
+  document.getElementById('pathhint').textContent=`editions/${draft.date}/draft.json`;
+  document.getElementById('stats').textContent=`згенеровано ${draft.generated_at} · сюжетів ${draft.stats.stories} · символів ${draft.stats.characters} · статус: ${draft.status}`;
+  render(); renderLog(); refresh();
+}
+
+function sourceLinks(seg,ids){
+  const by=Object.fromEntries((seg.sources||[]).map(s=>[s.item_id,s]));
+  return ids.map(i=>by[i]?`<a href="${esc(by[i].url)}" target="_blank" rel="noopener">${esc(by[i].name)}</a>`:esc(i)).join(', ');
+}
+
+function render(){
+  const box=document.getElementById('segments');
+  box.innerHTML=draft.segments.map((seg,si)=>{
+    if(seg.kind==='transition') return `<div class="card muted tiny">[ЗВУКОВИЙ ПЕРЕХІД]</div>`;
+    const head=seg.kind==='story'
+      ? `<div class="row"><b>${esc(seg.block)} · #${seg.rank}</b><span class="badge">score ${seg.score}</span>${seg.must_include?'<span class="badge">обов\'язковий</span>':''}<span class="tiny muted">${esc((seg.topics||[]).join(', '))} · незалежних джерел: ${seg.independent_sources}</span>
+         <label class="tiny"><input type="checkbox" ${seg.include!==false?'checked':''} onchange="toggle(${si},this.checked)"> включити</label></div>
+         <details class="tiny"><summary>Чому цей сюжет</summary><table>${Object.entries(seg.score_breakdown||{}).map(([k,v])=>`<tr><td>${esc(k)}</td><td>${v}</td></tr>`).join('')}</table></details>`
+      : `<div class="row"><b>${esc(seg.kind)}</b><span class="tiny muted">${esc(seg.block)}</span></div>`;
+    const sents=seg.sentences.map((s,ji)=>{
+      const claims=(s.claims||[]).map(c=>`<span class="${c.found_in&&c.found_in.length?'':'miss'}" title="${esc(c.type)}">${esc(c.value)} → ${c.found_in&&c.found_in.length?sourceLinks(seg,c.found_in):'не знайдено'}</span>`).join('');
+      const reasons=(s.reasons||[]).map(r=>`<div class="reason ${s.status==='unsupported'?'bad':''}">${esc(r)}</div>`).join('');
+      const warn=(s.speech_warnings||[]).map(r=>`<div class="reason">🔊 ${esc(r)}</div>`).join('');
+      const confirm=s.status==='needs_review'?`<label class="tiny"><input type="checkbox" ${s.editor_confirmed?'checked':''} onchange="confirmS(${si},${ji},this.checked)"> перевірено за першоджерелом</label>`:'';
+      return `<div class="sent"><div class="row"><span class="badge ${esc(s.status)}" id="b-${si}-${ji}">${STATUS[s.status]||esc(s.status)}</span><span class="tiny muted">${esc(s.kind)}</span>${confirm}</div>
+        <textarea rows="2" oninput="edit(${si},${ji},this.value)">${esc(s.text)}</textarea>
+        ${claims?`<div class="claims">${claims}</div>`:''}${reasons}${warn}</div>`;
+    }).join('');
+    const src=seg.kind==='story'?`<details class="tiny"><summary>Джерела (${seg.sources.length})</summary>${seg.sources.map(x=>`<div class="src"><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a> — ${esc(x.title)} <span class="muted">${esc(x.published_at||'')}</span></div>`).join('')}</details>`:'';
+    return `<div class="card ${seg.include===false?'excluded':''}" id="seg-${si}">${head}${sents}${src}</div>`;
+  }).join('');
+}
+
+function edit(si,ji,v){const s=draft.segments[si].sentences[ji]; s.text=v; const b=document.getElementById(`b-${si}-${ji}`); if(v!==s.original_text){b.className='badge edited';b.textContent='змінено — буде перевірено'} refresh()}
+function toggle(si,on){draft.segments[si].include=on; document.getElementById('seg-'+si).classList.toggle('excluded',!on); refresh()}
+function confirmS(si,ji,on){draft.segments[si].sentences[ji].editor_confirmed=on; refresh()}
+
+function scriptText(){
+  const lines=[];
+  for(const seg of draft.segments){
+    if(seg.kind==='story'&&seg.include===false) continue;
+    if(seg.kind==='transition') lines.push('[ЗВУКОВИЙ ПЕРЕХІД]');
+    for(const s of seg.sentences) lines.push(s.text);
+  }
+  return lines.join('\n');
+}
+async function sha256(t){const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(t));return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('')}
+async function refresh(){
+  let blockers=0;
+  for(const seg of draft.segments){ if(seg.kind==='story'&&seg.include===false) continue;
+    for(const s of seg.sentences){ if(s.status==='unsupported'||(s.status==='needs_review'&&!s.editor_confirmed)) blockers++; } }
+  const b=document.getElementById('blockers'); b.textContent=blockers?`блокує затвердження: ${blockers}`:'перевірки пройдено (до повторної перевірки змін)'; b.className='badge '+(blockers?'needs_review':'verified');
+  document.getElementById('hash').textContent=await sha256(scriptText());
+}
+function download(){
+  const blob=new Blob([JSON.stringify(draft,null,2)+'\n'],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download='draft.json'; a.click(); URL.revokeObjectURL(a.href);
+}
+function renderLog(){
+  const l=draft.log||{};
+  const sk=(l.skipped||[]).map(x=>`<li>${esc(x.block)}: ${esc(x.cluster)} — ${esc(x.reason)}</li>`).join('');
+  const ex=(l.excluded||[]).map(x=>`<li>${esc(x.title)} — ${esc(x.reason)}</li>`).join('');
+  const cand=(l.candidates||[]).map(x=>`<li>${x.score} · ${esc(x.title)} <span class="muted">(${esc((x.sources||[]).join(', '))})</span></li>`).join('');
+  document.getElementById('log').innerHTML=`<p>Матеріалів у вікні: ${l.items_in_window} · кластерів: ${l.clusters} · з кількома джерелами: ${l.multi_source_clusters}</p>
+   <h2>Пропущені кластери</h2><ul>${sk}</ul><h2>Виключені матеріали</h2><ul>${ex}</ul><h2>Найвищі за оцінкою кандидати</h2><ol>${cand}</ol>`;
+}
+init();
+</script>
+</body></html>

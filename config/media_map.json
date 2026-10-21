@@ -1,0 +1,4932 @@
+{
+  "version": 1,
+  "source": "https://map.detector.media/",
+  "edition": "H1 2026",
+  "snapshot_on": "2026-10-21",
+  "count": 305,
+  "note": "Знімок офіційної Мапи рекомендованих медіа. Не редагувати вручну: оновлюється `python -m brief registry`.",
+  "media": [
+    {
+      "map_id": 302,
+      "name": "18000",
+      "type": "Інтернет-видання",
+      "url": "https://18000.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Черкаська обл.",
+      "region": "cherkasy",
+      "feeds": [
+        "https://18000.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1179,
+      "name": "ЗMI.ck.ua",
+      "type": "Інтернет-видання",
+      "url": "https://zmi.ck.ua/",
+      "scope": "Регіональний",
+      "map_region": "Черкаська обл.",
+      "region": "cherkasy",
+      "feeds": [
+        "https://zmi.ck.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 748,
+      "name": "Суспільне Черкаси",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/cherkasy-region/",
+      "scope": "Регіональний",
+      "map_region": "Черкаська обл.",
+      "region": "cherkasy",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 467,
+      "name": "Телеканал \"Суспільне Черкаси\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/cherkasy-region/",
+      "scope": "Регіональний",
+      "map_region": "Черкаська обл.",
+      "region": "cherkasy",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 276,
+      "name": "УР. Черкаси",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_ch",
+      "scope": "Регіональний",
+      "map_region": "Черкаська обл.",
+      "region": "cherkasy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 379,
+      "name": "0462",
+      "type": "Інтернет-видання",
+      "url": "https://www.0462.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.0462.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 590,
+      "name": "Mynizhyn",
+      "type": "Інтернет-видання",
+      "url": "https://mynizhyn.com/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
+    },
+    {
+      "map_id": 995,
+      "name": "Вість",
+      "type": "Інтернет-видання",
+      "url": "https://vestgazeta.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [
+        "https://vestgazeta.com.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 873,
+      "name": "Менщина",
+      "type": "Інтернет-видання",
+      "url": "https://mena.org.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [
+        "https://mena.org.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 747,
+      "name": "Суспільне Чернігів",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/chernihiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 424,
+      "name": "Суспільне Чернігів",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/chernihiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 1184,
+      "name": "Сусіди.City",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 280,
+      "name": "УР. Чернігів",
+      "type": "Радіо",
+      "url": "https://www.youtube.com/@uachernihivradio ",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [
+        "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 875,
+      "name": "Час Чернігівський",
+      "type": "Інтернет-видання",
+      "url": "https://cntime.cn.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернігівська обл.",
+      "region": "chernihiv",
+      "feeds": [
+        "https://cntime.cn.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 573,
+      "name": "А.С.С.",
+      "type": "Інтернет-видання",
+      "url": "https://acc.cv.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [
+        "https://acc.cv.ua/news/feed.rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 696,
+      "name": "Молодий буковинець",
+      "type": "Інтернет-видання",
+      "url": "https://molbuk.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [
+        "https://molbuk.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1089,
+      "name": "Радіо 10",
+      "type": "Радіо",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 694,
+      "name": "С4",
+      "type": "Інтернет-видання",
+      "url": "https://c4.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [
+        "https://c4.com.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 982,
+      "name": "Сайт міста Чернівці 0372",
+      "type": "Інтернет-видання",
+      "url": "https://www.0372.ua/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.0372.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 752,
+      "name": "Суспільне Чернівці",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/chernivtsi-region/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 468,
+      "name": "Телеканал \"Суспільне Чернівці\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/chernivtsi-region/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 1095,
+      "name": "Телерадіокомпанія ТВА",
+      "type": "Телебачення",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 278,
+      "name": "УР.  Чернівці",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_che",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 988,
+      "name": "Шпальта",
+      "type": "Інтернет-видання",
+      "url": "https://shpalta.media/",
+      "scope": "Регіональний",
+      "map_region": "Чернівецька обл.",
+      "region": "chernivtsi",
+      "feeds": [
+        "https://shpalta.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1001,
+      "name": "Qirim Media",
+      "type": "Інтернет-видання",
+      "url": "https://qirim.news/",
+      "scope": "Регіональний",
+      "map_region": "АР Крим",
+      "region": "crimea",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 900,
+      "name": "Голос Криму",
+      "type": "Інтернет-видання",
+      "url": "https://www.voicecrimea.com.ua/uk/",
+      "scope": "Регіональний",
+      "map_region": "АР Крим",
+      "region": "crimea",
+      "feeds": [
+        "https://www.voicecrimea.com.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 359,
+      "name": "Крим.Реалії",
+      "type": "Інтернет-видання",
+      "url": "https://ua.krymr.com/",
+      "scope": "Регіональний",
+      "map_region": "АР Крим",
+      "region": "crimea",
+      "feeds": [
+        "https://ua.krymr.com/api/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 731,
+      "name": "Суспільне Крим",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/crimea/",
+      "scope": "Регіональний",
+      "map_region": "АР Крим",
+      "region": "crimea",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 615,
+      "name": "Телеканал \"Суспільне Крим\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/crimea/",
+      "scope": "Регіональний",
+      "map_region": "АР Крим",
+      "region": "crimea",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 336,
+      "name": "1kr.ua",
+      "type": "Інтернет-видання",
+      "url": "https://1kr.ua",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [
+        "https://1kr.ua/rss/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1030,
+      "name": "Dnipro.media",
+      "type": "Інтернет-видання",
+      "url": "https://www.dnipro.media/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [
+        "https://www.dnipro.media/feed/?post_type=novyny_dnipro"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1023,
+      "name": "Вільногірськ IN.UA",
+      "type": "Інтернет-видання",
+      "url": "https://vilnohirsk.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [
+        "https://vilnohirsk.in.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 628,
+      "name": "Жовті Води. City",
+      "type": "Інтернет-видання",
+      "url": "https://zhovtivody.city/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 890,
+      "name": "Місто і річка",
+      "type": "Інтернет-видання",
+      "url": "https://mistorichka.media/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [
+        "https://mistorichka.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 896,
+      "name": "Прихист",
+      "type": "Інтернет-видання",
+      "url": "https://www.prikhist.com/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [
+        "https://www.prikhist.com/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 740,
+      "name": "Суспільне Дніпро",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/dnipropetrovsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 427,
+      "name": "Телеканал \"Суспільне Дніпро\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/dnipropetrovsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 234,
+      "name": "УР. Дніпро",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_d",
+      "scope": "Регіональний",
+      "map_region": "Дніпропетровська обл.",
+      "region": "dnipropetrovsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 508,
+      "name": "0629.com.ua",
+      "type": "Інтернет-видання",
+      "url": "https://www.0629.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.0629.com.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1138,
+      "name": "62.ua",
+      "type": "Інтернет-видання",
+      "url": "https://www.62.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.62.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 634,
+      "name": "6262",
+      "type": "Інтернет-видання",
+      "url": "https://www.6262.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.6262.com.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 314,
+      "name": "Kramatorsk Post",
+      "type": "Інтернет-видання",
+      "url": "https://www.kramatorskpost.com/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.kramatorskpost.com/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1202,
+      "name": "Антикризовий медіа-центр",
+      "type": "Інтернет-видання",
+      "url": "https://acmc.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://acmc.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 506,
+      "name": "Бахмут IN.UA",
+      "type": "Інтернет-видання",
+      "url": "https://bahmut.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://bahmut.in.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 595,
+      "name": "Вчасно",
+      "type": "Інтернет-видання",
+      "url": "https://vchasnoua.com/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://vchasnoua.com/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1206,
+      "name": "Вчасні Новини",
+      "type": "Інтернет-видання",
+      "url": "https://vchasno.news/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://vchasno.news/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 612,
+      "name": "Вільне радіо",
+      "type": "Інтернет-видання",
+      "url": "https://freeradio.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://freeradio.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 719,
+      "name": "Карачун",
+      "type": "Інтернет-видання",
+      "url": "https://karachun.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 93,
+      "name": "Новини Донбасу",
+      "type": "Інтернет-видання",
+      "url": "https://novosti.dn.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://novosti.dn.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
+    },
+    {
+      "map_id": 1200,
+      "name": "ОстроВ",
+      "type": "Інтернет-видання",
+      "url": "https://www.ostro.org/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://www.ostro.org/rssfeed/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 736,
+      "name": "Суспільне Донбас (Донецьк)",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/donetsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 397,
+      "name": "Східний Варіант",
+      "type": "Інтернет-видання",
+      "url": "https://v-variant.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [
+        "https://v-variant.com.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 428,
+      "name": "Телеканал \"Суспільне Донбас\" (Донецьк)",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/donetsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Донецька обл.",
+      "region": "donetsk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 1114,
+      "name": "Інформатор Коломия",
+      "type": "Інтернет-видання",
+      "url": "https://kl.informator.ua/uk",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://kl.informator.ua/uk/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 549,
+      "name": "Галичина",
+      "type": "Телебачення",
+      "url": "https://galtv.if.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 191,
+      "name": "Галка",
+      "type": "Інтернет-видання",
+      "url": "https://galka.if.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://galka.if.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 664,
+      "name": "Курс",
+      "type": "Інтернет-видання",
+      "url": "https://kurs.if.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://kurs.if.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1147,
+      "name": "ПІК",
+      "type": "Інтернет-видання",
+      "url": "https://pik.net.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://pik.net.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 486,
+      "name": "РАІ",
+      "type": "Телебачення",
+      "url": "https://rai.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://rai.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1176,
+      "name": "Репортер",
+      "type": "Інтернет-видання",
+      "url": "https://report.if.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [
+        "https://report.if.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 758,
+      "name": "Суспільне Івано-Франківськ",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/ivano-frankivsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 437,
+      "name": "Телеканал \"Суспільне Івано-Франківськ\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/ivano-frankivsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 244,
+      "name": "УР.  Івано-Франківськ",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_i",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 567,
+      "name": "Фіртка",
+      "type": "Інтернет-видання",
+      "url": "https://firtka.if.ua/",
+      "scope": "Регіональний",
+      "map_region": "Івано-Франківська обл.",
+      "region": "ivano-frankivsk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 545,
+      "name": "KHARKIV Today",
+      "type": "Інтернет-видання",
+      "url": "https://2day.kh.ua/ua",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://2day.kh.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 912,
+      "name": "MediaPort",
+      "type": "Інтернет-видання",
+      "url": "https://mediaport.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://mediaport.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 340,
+      "name": "Гвара Медіа",
+      "type": "Інтернет-видання",
+      "url": "https://gwaramedia.com/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://gwaramedia.com/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 899,
+      "name": "Громада. Груп",
+      "type": "Інтернет-видання",
+      "url": "https://gromada.group/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://api.gromada.group/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 328,
+      "name": "Куп'янськ.City",
+      "type": "Інтернет-видання",
+      "url": "https://kupiansk.city/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 678,
+      "name": "Люк",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 588,
+      "name": "Накипіло",
+      "type": "Інтернет-видання",
+      "url": "https://nakypilo.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://nakypilo.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 685,
+      "name": "Об'єктив Новини",
+      "type": "Інтернет-видання",
+      "url": "https://www.objectiv.tv/uk/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://www.objectiv.tv/uk/feed/gn"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1074,
+      "name": "Обрії Ізюмщини",
+      "type": "Інтернет-видання",
+      "url": "https://obrii.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://obrii.com.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 925,
+      "name": "Радіо «Накипіло»",
+      "type": "Інтернет-видання",
+      "url": "https://radio.nakypilo.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://radio.nakypilo.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 953,
+      "name": "Сайт міста Харкова 057.ua",
+      "type": "Інтернет-видання",
+      "url": "https://www.057.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.057.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 332,
+      "name": "Слобідський край",
+      "type": "Інтернет-видання",
+      "url": "https://www.slk.kh.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://www.slk.kh.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1150,
+      "name": "Статус-кво",
+      "type": "Інтернет-видання",
+      "url": "https://www.sq.com.ua/ukr",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 739,
+      "name": "Суспільне Харків",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/kharkiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 462,
+      "name": "Телеканал \"Суспільне Харків\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/kharkiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 272,
+      "name": "УР. Харків",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur-kh",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 683,
+      "name": "Харків Times",
+      "type": "Інтернет-видання",
+      "url": "https://times.kharkiv.ua/",
+      "scope": "Регіональний",
+      "map_region": "Харківська обл.",
+      "region": "kharkiv",
+      "feeds": [
+        "https://times.kharkiv.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1154,
+      "name": "Bilozerka.info",
+      "type": "Інтернет-видання",
+      "url": "https://bilozerka.info/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [
+        "https://bilozerka.info/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 973,
+      "name": "IPC-Південь",
+      "type": "Інтернет-видання",
+      "url": "https://ipc.org.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [
+        "https://ipc.org.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 586,
+      "name": "Вгору",
+      "type": "Інтернет-видання",
+      "url": "https://vgoru.org/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [
+        "https://vgoru.org/rss-google.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 687,
+      "name": "Гривна",
+      "type": "Інтернет-видання",
+      "url": "https://grivna.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [
+        "https://grivna.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 535,
+      "name": "МОСТ",
+      "type": "Інтернет-видання",
+      "url": "https://most.ks.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [
+        "https://most.ks.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1163,
+      "name": "Район.Берислав",
+      "type": "Інтернет-видання",
+      "url": "https://beryslav.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 969,
+      "name": "Район.Генічеськ",
+      "type": "Інтернет-видання",
+      "url": "https://henichesk.rayon.in.ua/rayon.henichesk",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://henichesk.rayon.in.ua/rayon.henichesk: HTTP 404",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1172,
+      "name": "Район.Каховка",
+      "type": "Інтернет-видання",
+      "url": "https://kakhovka.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1175,
+      "name": "Район.Скадовськ",
+      "type": "Інтернет-видання",
+      "url": "https://skadovsk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1156,
+      "name": "Район.Херсон",
+      "type": "Інтернет-видання",
+      "url": "https://kherson.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 734,
+      "name": "Суспільне Херсон",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 463,
+      "name": "Телеканал \"Суспільне Херсон\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/kherson-region/",
+      "scope": "Регіональний",
+      "map_region": "Херсонська обл.",
+      "region": "kherson",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 593,
+      "name": "Є",
+      "type": "Інтернет-видання",
+      "url": "https://ye.ua/",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [
+        "https://ye.ua/rss/news.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 689,
+      "name": "Городок.City",
+      "type": "Інтернет-видання",
+      "url": "https://horodok.city/",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1006,
+      "name": "ЖАР.INFO",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://zhar.org.ua/",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [
+        "https://zhar.org.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 751,
+      "name": "Суспільне Хмельницький",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/khmelnytsky-region/",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 466,
+      "name": "Телеканал \"Суспільне Хмельницький\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/khmelnytsky-region/",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 274,
+      "name": "УР. Хмельницький",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_khm",
+      "scope": "Регіональний",
+      "map_region": "Хмельницька обл.",
+      "region": "khmelnytskyi",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 645,
+      "name": "CBN",
+      "type": "Інтернет-видання",
+      "url": "https://cbn.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [
+        "https://cbn.com.ua/ukr-net-feed-rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1222,
+      "name": "Без Купюр",
+      "type": "Інтернет-видання",
+      "url": "https://www.kypur.net/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [
+        "https://www.kypur.net/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1049,
+      "name": "Вісник Кіровоградщини",
+      "type": "Інтернет-видання",
+      "url": "https://vk.kr.ua/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 293,
+      "name": "Гречка",
+      "type": "Інтернет-видання",
+      "url": "https://gre4ka.info/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://gre4ka.info/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 349,
+      "name": "Доступ Медіа (DOSTUP Media)",
+      "type": "Інтернет-видання",
+      "url": "https://dostyp.com.ua",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1055,
+      "name": "Знам'янка.City",
+      "type": "Інтернет-видання",
+      "url": "https://znamyanka.city/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1220,
+      "name": "Перша електронна газета",
+      "type": "Інтернет-видання",
+      "url": "https://persha.kr.ua/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [
+        "https://persha.kr.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 837,
+      "name": "Район.Олександрівка",
+      "type": "Інтернет-видання",
+      "url": "https://oleksandrivka.rayon.in.ua/rayon.oleksandrivka",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://oleksandrivka.rayon.in.ua/rayon.oleksandrivka: HTTP 404",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 744,
+      "name": "Суспільне Кропивницький",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/kirovohrad-region/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 439,
+      "name": "Телеканал \"Суспільне Кропивницький\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/kirovohrad-region/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 246,
+      "name": "УР.  Кропивницький",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_k",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1218,
+      "name": "Формат",
+      "type": "Інтернет-видання",
+      "url": "https://format.kr.ua/",
+      "scope": "Регіональний",
+      "map_region": "Кіровоградська обл.",
+      "region": "kirovohrad",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://format.kr.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 984,
+      "name": "#ШОТАМ",
+      "type": "Інтернет-видання",
+      "url": "https://shotam.info/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://shotam.info/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 709,
+      "name": "AIN.UA",
+      "type": "Інтернет-видання",
+      "url": "https://ain.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://ain.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 711,
+      "name": "Finance.ua",
+      "type": "Інтернет-видання",
+      "url": "https://finance.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 829,
+      "name": "Frontliner",
+      "type": "Інтернет-видання",
+      "url": "https://frontliner.com.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1182,
+      "name": "Kyiv.News",
+      "type": "Інтернет-видання",
+      "url": "https://tykyiv.com/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 915,
+      "name": "LB.ua",
+      "type": "Інтернет-видання",
+      "url": "https://lb.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 971,
+      "name": "Militarnyi",
+      "type": "Інтернет-видання",
+      "url": "https://militarnyi.com/uk/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://militarnyi.com/uk/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 833,
+      "name": "Mind.ua",
+      "type": "Інтернет-видання",
+      "url": "https://mind.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://s.mind.ua/rss/ua/all.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1212,
+      "name": "Mistosite",
+      "type": "Інтернет-видання",
+      "url": "https://mistosite.org.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://mistosite.org.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 373,
+      "name": "NV",
+      "type": "Інтернет-видання",
+      "url": "https://nv.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://nv.ua/ukr/rss/all.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1029,
+      "name": "Neformat",
+      "type": "Інтернет-видання",
+      "url": "https://www.neformat.com.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 960,
+      "name": "SPEKA",
+      "type": "Інтернет-видання",
+      "url": "https://speka.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://speka.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 707,
+      "name": "Thebuchacity",
+      "type": "Інтернет-видання",
+      "url": "https://thebuchacity.com/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://thebuchacity.com/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 894,
+      "name": "Інтерфакс-Україна",
+      "type": "Інтернет-видання",
+      "url": "https://interfax.com.ua/press-center.html",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://interfax.com.ua/news/last.rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 940,
+      "name": "Букви",
+      "type": "Інтернет-видання",
+      "url": "https://bukvy.org/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://bukvy.org/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 976,
+      "name": "Вечірній Київ",
+      "type": "Інтернет-видання",
+      "url": "https://vechirniy.kyiv.ua/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://vechirniy.kyiv.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1039,
+      "name": "Вчися.Медіа",
+      "type": "Інтернет-видання",
+      "url": "https://vchysia.media/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://vchysia.media/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 705,
+      "name": "Громадське радіо",
+      "type": "Інтернет-видання",
+      "url": "https://www.facebook.com/hromadske.radio/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 831,
+      "name": "Еспресо: Біла Церква",
+      "type": "Інтернет-видання",
+      "url": "https://bc.espreso.tv/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://bc.espreso.tv/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 933,
+      "name": "КРВ.медіа",
+      "type": "Інтернет-видання",
+      "url": "https://krv.media/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://krv.media/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 840,
+      "name": "НЗЛ",
+      "type": "Інтернет-видання",
+      "url": "https://nzl.theukrainians.org/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://nzl.theukrainians.org/: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)",
+      "content_signals": {}
+    },
+    {
+      "map_id": 827,
+      "name": "НУШ",
+      "type": "Інтернет-видання",
+      "url": "https://nus.org.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://nus.org.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 699,
+      "name": "Новинарня",
+      "type": "Інтернет-видання",
+      "url": "https://novynarnia.com/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://novynarnia.com/feed/rss/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1216,
+      "name": "Переяслав.City",
+      "type": "Інтернет-видання",
+      "url": "https://pereiaslav.city/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 608,
+      "name": "Перший канал Суспільного Мовлення",
+      "type": "Телебачення",
+      "url": "https://tv.suspilne.media/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://suspilne.media/rss/all.rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 258,
+      "name": "Радіо Свобода Україна",
+      "type": "Інтернет-видання",
+      "url": "https://www.radiosvoboda.org/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://www.radiosvoboda.org/api/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 835,
+      "name": "Рубрика",
+      "type": "Інтернет-видання",
+      "url": "https://rubryka.com/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://rubryka.com/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 370,
+      "name": "Суспільне Новини",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://suspilne.media/rss/all.rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 701,
+      "name": "Тексти",
+      "type": "Інтернет-видання",
+      "url": "https://texty.org.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://texty.org.ua/articles/feed.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1210,
+      "name": "ТиКиїв",
+      "type": "Інтернет-видання",
+      "url": "https://tykyiv.com/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 557,
+      "name": "Українське радіо",
+      "type": "Радіо",
+      "url": "https://ukr.radio/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 599,
+      "name": "Український тиждень",
+      "type": "Інтернет-видання",
+      "url": "https://tyzhden.ua/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://tyzhden.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1214,
+      "name": "ФастівNews.City",
+      "type": "Інтернет-видання",
+      "url": "https://fastivnews.city/",
+      "scope": "Регіональний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1164,
+      "name": "ҐРУНТ",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 825,
+      "name": "Ґрати",
+      "type": "Інтернет-видання",
+      "url": "https://graty.me/",
+      "scope": "Національний",
+      "map_region": "Київська обл.",
+      "region": "kyiv",
+      "feeds": [
+        "https://graty.me/rss/all"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 844,
+      "name": "Ірта-fax",
+      "type": "Інтернет-видання",
+      "url": "https://irtafax.com/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [
+        "https://irtafax.com/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 298,
+      "name": "Реальна газета",
+      "type": "Інтернет-видання",
+      "url": "https://realgazeta.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [
+        "https://realgazeta.com.ua/news-archive/rss/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 738,
+      "name": "Суспільне Донбас (Луганськ)",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/donetsk-region/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 581,
+      "name": "Сєвєродонецьк online",
+      "type": "Інтернет-видання",
+      "url": "https://sd.ua/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://sd.ua/: HTTP 429",
+      "content_signals": {}
+    },
+    {
+      "map_id": 421,
+      "name": "ТЕЛЕгазета",
+      "type": "Інтернет-видання",
+      "url": "https://telegazeta.com.ua/forms/news.php",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 435,
+      "name": "Телеканал \"Суспільне Донбас\" (Луганськ)",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/luhansk-region/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [
+        "https://suspilne.media/rss/all.rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 1048,
+      "name": "Точка Сходу",
+      "type": "Інтернет-видання",
+      "url": "https://cxid.media/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [
+        "https://cxid.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 579,
+      "name": "Трибун",
+      "type": "Інтернет-видання",
+      "url": "https://tribun.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 842,
+      "name": "Фарватер.Схід",
+      "type": "Інтернет-видання",
+      "url": "https://farvatermedia.com/",
+      "scope": "Регіональний",
+      "map_region": "Луганська обл.",
+      "region": "luhansk",
+      "feeds": [
+        "https://farvatermedia.com/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
+    },
+    {
+      "map_id": 1014,
+      "name": "NGL.media",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://ngl.media/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://ngl.media/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1058,
+      "name": "ZAXID.NET",
+      "type": "Інтернет-видання",
+      "url": "https://zaxid.net/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://zaxid.net/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 99,
+      "name": "Дивись.info",
+      "type": "Інтернет-видання",
+      "url": "https://dyvys.info/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://dyvys.info/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1124,
+      "name": "Дрогобич.City",
+      "type": "Інтернет-видання",
+      "url": "https://drohobych.city/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1170,
+      "name": "Львівська пошта",
+      "type": "Інтернет-видання",
+      "url": "https://www.lvivpost.net/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1116,
+      "name": "Львівський портал",
+      "type": "Інтернет-видання",
+      "url": "https://portal.lviv.ua/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://portal.lviv.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1098,
+      "name": "Перший Західний",
+      "type": "Телебачення",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1161,
+      "name": "Район.Буськ",
+      "type": "Інтернет-видання",
+      "url": "https://busk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1144,
+      "name": "Район.Моршин",
+      "type": "Інтернет-видання",
+      "url": "https://morshyn.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1152,
+      "name": "Район.Шептицький",
+      "type": "Інтернет-видання",
+      "url": "https://sheptytskyi.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1060,
+      "name": "Сихів.Медіа",
+      "type": "Інтернет-видання",
+      "url": "https://sykhiv.media/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://sykhiv.media/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 757,
+      "name": "Суспільне Львів",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/lviv-region/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 365,
+      "name": "Твоє місто",
+      "type": "Інтернет-видання",
+      "url": "https://tvoemisto.tv/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [
+        "https://tvoemisto.tv/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 441,
+      "name": "Телеканал \"Суспільне Львів\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/lviv-region/",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 248,
+      "name": "УР.  Львів",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_lv",
+      "scope": "Регіональний",
+      "map_region": "Львівська обл.",
+      "region": "lviv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 647,
+      "name": "0512",
+      "type": "Інтернет-видання",
+      "url": "https://www.0512.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.0512.com.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 715,
+      "name": "Nikcenter",
+      "type": "Центр журналістських розслідувань",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 649,
+      "name": "Гард.City",
+      "type": "Інтернет-видання",
+      "url": "https://thegard.city/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 289,
+      "name": "МикВісті",
+      "type": "Інтернет-видання",
+      "url": "https://nikvesti.com/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [
+        "https://nikvesti.com/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 401,
+      "name": "Преступности НЕТ",
+      "type": "Інтернет-видання",
+      "url": "https://news.pn/uk/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
+    },
+    {
+      "map_id": 1243,
+      "name": "Район.Баштанка",
+      "type": "Інтернет-видання",
+      "url": "https://bashtanka.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 742,
+      "name": "Суспільне Миколаїв",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/mykolaiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 454,
+      "name": "Телеканал \"Суспільне Миколаїв\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/mykolaiv-region/",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 250,
+      "name": "УР.  Миколаїв",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_m",
+      "scope": "Регіональний",
+      "map_region": "Миколаївська обл.",
+      "region": "mykolaiv",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 418,
+      "name": "Informer.od.ua",
+      "type": "Інтернет-видання",
+      "url": "https://informer.od.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://informer.od.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 577,
+      "name": "Odesa.Online",
+      "type": "Інтернет-видання",
+      "url": "https://odessa.online/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://odessa.online/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 367,
+      "name": "Інтент",
+      "type": "Інтернет-видання",
+      "url": "https://intent.press/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://intent.press/rss/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 721,
+      "name": "Антикорупційний вимір",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://anticorruption-vymir.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://anticorruption-vymir.com.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 656,
+      "name": "Біляївка.City",
+      "type": "Інтернет-видання",
+      "url": "https://bilyayivka.city/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 654,
+      "name": "Махала",
+      "type": "Інтернет-видання",
+      "url": "https://mahala.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://mahala.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1033,
+      "name": "Море людей",
+      "type": "Інтернет-видання",
+      "url": "https://moreliudei.media/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://moreliudei.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 902,
+      "name": "Одеське життя",
+      "type": "Інтернет-видання",
+      "url": "https://odessa-life.od.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://odessa-life.od.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 922,
+      "name": "Район.Ізмаїл",
+      "type": "Інтернет-видання",
+      "url": "https://izmail.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1190,
+      "name": "Район.Березівка",
+      "type": "Інтернет-видання",
+      "url": "https://berezivka.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1025,
+      "name": "Район.Болград",
+      "type": "Інтернет-видання",
+      "url": "https://bolgrad.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1192,
+      "name": "Район.Білгород",
+      "type": "Інтернет-видання",
+      "url": "https://bilhorod.rayon.in.ua/about-us",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1247,
+      "name": "Район.Одеса",
+      "type": "Інтернет-видання",
+      "url": "https://odesa.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1194,
+      "name": "Район.Подільськ",
+      "type": "Інтернет-видання",
+      "url": "https://podilsk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1245,
+      "name": "Район.Роздільна",
+      "type": "Інтернет-видання",
+      "url": "https://rozdilna.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 743,
+      "name": "Суспільне Одеса",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/odesa-region/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 455,
+      "name": "Телеканал \"Суспільне Одеса\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/odesa-region/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 252,
+      "name": "УР.  Одеса",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_o",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 999,
+      "name": "Центр публічних розслідувань",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://cpi.org.ua/",
+      "scope": "Регіональний",
+      "map_region": "Одеська обл.",
+      "region": "odesa",
+      "feeds": [
+        "https://cpi.org.ua/rss/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 529,
+      "name": "ЗМІСТ",
+      "type": "Інтернет-видання",
+      "url": "https://zmist.pl.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1251,
+      "name": "Кременчуцька газета",
+      "type": "Інтернет-видання",
+      "url": "https://kg.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://kg.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 660,
+      "name": "Кременчуцький Телеграф",
+      "type": "Інтернет-видання",
+      "url": "https://www.telegraf.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [
+        "https://www.telegraf.in.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 726,
+      "name": "Медіа Доказ",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://mediadokaz.pl.ua/#",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [
+        "https://mediadokaz.pl.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 662,
+      "name": "Полтавська думка",
+      "type": "Інтернет-видання",
+      "url": "https://www.dumka.poltava.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [
+        "https://www.dumka.poltava.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 413,
+      "name": "Полтавська хвиля",
+      "type": "Інтернет-видання",
+      "url": "https://poltavawave.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [
+        "https://poltavawave.com.ua/news-archive/rss/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1045,
+      "name": "Район.Миргород",
+      "type": "Інтернет-видання",
+      "url": "https://myrgorod.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 745,
+      "name": "Суспільне Полтава",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/poltava-region/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 456,
+      "name": "Телеканал \"Суспільне Полтава\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/poltava-region/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1249,
+      "name": "У Полтаві",
+      "type": "Інтернет-видання",
+      "url": "https://www.upoltavi.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [
+        "https://www.upoltavi.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 262,
+      "name": "УР. Полтава",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_p",
+      "scope": "Регіональний",
+      "map_region": "Полтавська обл.",
+      "region": "poltava",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 584,
+      "name": "Horyn.info",
+      "type": "Інтернет-видання",
+      "url": "https://horyn.info/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [
+        "https://horyn.info/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1253,
+      "name": "Полісся News",
+      "type": "Інтернет-видання",
+      "url": "https://polissia.news/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [
+        "https://polissia.news/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 848,
+      "name": "Район.Вараш",
+      "type": "Інтернет-видання",
+      "url": "https://varash.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 850,
+      "name": "Район.Гоща",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 858,
+      "name": "Район.Демидівка",
+      "type": "Інтернет-видання",
+      "url": "https://demydivka.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 860,
+      "name": "Район.Дубно",
+      "type": "Інтернет-видання",
+      "url": "https://dubno.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 863,
+      "name": "Район.Корець",
+      "type": "Інтернет-видання",
+      "url": "https://korets.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 866,
+      "name": "Район.Острог",
+      "type": "Інтернет-видання",
+      "url": "https://ostrog.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 869,
+      "name": "Район.Рівне",
+      "type": "Інтернет-видання",
+      "url": "https://rivne.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 853,
+      "name": "Район.Сарни",
+      "type": "Інтернет-видання",
+      "url": "https://sarny.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 755,
+      "name": "Суспільне Рівне",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/rivne-region/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 457,
+      "name": "Телеканал \"Суспільне Рівне\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/rivne-region/",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 266,
+      "name": "УР. Рівне",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_r",
+      "scope": "Регіональний",
+      "map_region": "Рівненська обл.",
+      "region": "rivne",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1123,
+      "name": "MEDIA-КОЛО СУМСЬКИЙ ПРЕС-КЛУБ",
+      "type": "Інтернет-видання",
+      "url": "https://mediakolo.sumy.ua/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1068,
+      "name": "MistoSumy.com",
+      "type": "Інтернет-видання",
+      "url": "https://mistosumy.com/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
+    },
+    {
+      "map_id": 1119,
+      "name": "Ворскла",
+      "type": "Інтернет-видання",
+      "url": "https://vorskla1930.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://vorskla1930.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 667,
+      "name": "Глухів.City",
+      "type": "Інтернет-видання",
+      "url": "https://hlukhiv.city/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1070,
+      "name": "Кордон.Медіа",
+      "type": "Інтернет-видання",
+      "url": "https://kordon.media/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://kordon.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 879,
+      "name": "На межі",
+      "type": "Інтернет-видання",
+      "url": "https://mezha.city/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://mezha.city/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1136,
+      "name": "ПАНОРАМА",
+      "type": "Інтернет-видання",
+      "url": "https://rama.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://rama.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1072,
+      "name": "Свеса.Online",
+      "type": "Інтернет-видання",
+      "url": "https://svesa.online/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://svesa.online/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1120,
+      "name": "Середина-Буда.City",
+      "type": "Інтернет-видання",
+      "url": "https://buda.city/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://buda.city/?feed=rss2"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 746,
+      "name": "Суспільне Суми",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/sumy-region/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 458,
+      "name": "Телеканал \"Суспільне Суми\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/sumy-region/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 671,
+      "name": "Трибуна.Суми",
+      "type": "Інтернет-видання",
+      "url": "https://trybuna.sumy.ua/category/news/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://trybuna.sumy.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 268,
+      "name": "УР. Суми",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_s",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1132,
+      "name": "Хроніки прикордоння",
+      "type": "Інтернет-видання",
+      "url": "https://hlukhiv.media/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://hlukhiv.media/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1057,
+      "name": "Хутір.news",
+      "type": "Інтернет-видання",
+      "url": "https://hutir.news/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://hutir.news/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 569,
+      "name": "Цукр",
+      "type": "Інтернет-видання",
+      "url": "https://cukr.city/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://cukr.city/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1129,
+      "name": "Ямпіль.INFO",
+      "type": "Інтернет-видання",
+      "url": "https://www.yampil.info/",
+      "scope": "Регіональний",
+      "map_region": "Сумська обл.",
+      "region": "sumy",
+      "feeds": [
+        "https://www.yampil.info/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1142,
+      "name": "20 хвилин. Тернопіль",
+      "type": "Інтернет-видання",
+      "url": "https://te.20minut.ua/",
+      "scope": "Регіональний",
+      "map_region": "Тернопільська обл.",
+      "region": "ternopil",
+      "feeds": [
+        "https://te.20minut.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 754,
+      "name": "Суспільне Тернопіль",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/ternopil-region/",
+      "scope": "Регіональний",
+      "map_region": "Тернопільська обл.",
+      "region": "ternopil",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 460,
+      "name": "Телеканал \"Суспільне Тернопіль\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/ternopil-region/",
+      "scope": "Регіональний",
+      "map_region": "Тернопільська обл.",
+      "region": "ternopil",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 270,
+      "name": "УР.  Тернопіль",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_t",
+      "scope": "Регіональний",
+      "map_region": "Тернопільська обл.",
+      "region": "ternopil",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 883,
+      "name": "20 хвилин. Вінниця",
+      "type": "Інтернет-видання",
+      "url": "https://vn.20minut.ua/",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [
+        "https://vn.20minut.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1133,
+      "name": "I-VIN.INFO",
+      "type": "Інтернет-видання",
+      "url": "https://i-vin.info/",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1108,
+      "name": "БарNews.City",
+      "type": "Інтернет-видання",
+      "url": "https://barnews.city/",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1105,
+      "name": "Вінниця ІНФО",
+      "type": "Інтернет-видання",
+      "url": "https://vinnitsa.info/",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://vinnitsa.info/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 760,
+      "name": "Суспільне Вінниця",
+      "type": "Інтернет-видання",
+      "url": "https://www.facebook.com/suspilne.vinnytsia",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 425,
+      "name": "Телеканал \"Суспільне Вінниця\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/vinnytsia-region/",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 228,
+      "name": "УР. Вінниця",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_v",
+      "scope": "Регіональний",
+      "map_region": "Вінницька обл.",
+      "region": "vinnytsia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 929,
+      "name": "misto.media",
+      "type": "Інтернет-видання",
+      "url": "https://misto.media/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1198,
+      "name": "Бізнес.Район",
+      "type": "Інтернет-видання",
+      "url": null,
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no website on the map",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1020,
+      "name": "Волинь Оnline",
+      "type": "Інтернет-видання",
+      "url": "https://volynonline.com/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [
+        "https://volynonline.com/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1015,
+      "name": "Еко.Район",
+      "type": "Інтернет-видання",
+      "url": "https://eco.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1145,
+      "name": "Нове життя",
+      "type": "Інтернет-видання",
+      "url": "https://novezittya.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [
+        "https://novezittya.com.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 768,
+      "name": "Район. Володимир",
+      "type": "Інтернет-видання",
+      "url": "https://volodymyr.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 791,
+      "name": "Район. Любешів",
+      "type": "Інтернет-видання",
+      "url": "https://lyubeshiv.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 405,
+      "name": "Район.in.ua",
+      "type": "Інтернет-видання",
+      "url": "https://rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [
+        "https://static.rayon.in.ua/rss/rayon/map.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 775,
+      "name": "Район.Іваничі",
+      "type": "Інтернет-видання",
+      "url": "https://ivanychi.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 996,
+      "name": "Район.Історія",
+      "type": "Інтернет-видання",
+      "url": "https://history.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 771,
+      "name": "Район.Горохів",
+      "type": "Інтернет-видання",
+      "url": "https://gorohiv.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 913,
+      "name": "Район.Закордон",
+      "type": "Інтернет-видання",
+      "url": "https://zakordon.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 778,
+      "name": "Район.Камінь-Каширський",
+      "type": "Інтернет-видання",
+      "url": "https://kamin.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 785,
+      "name": "Район.Ковель",
+      "type": "Інтернет-видання",
+      "url": "https://kowel.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1018,
+      "name": "Район.Культура",
+      "type": "Інтернет-видання",
+      "url": "https://kultura.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 781,
+      "name": "Район.Ківерці",
+      "type": "Інтернет-видання",
+      "url": "https://kivertsi.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 788,
+      "name": "Район.Локачі",
+      "type": "Інтернет-видання",
+      "url": "https://lokachi.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 846,
+      "name": "Район.Луцьк",
+      "type": "Інтернет-видання",
+      "url": "https://lutsk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 794,
+      "name": "Район.Любомль",
+      "type": "Інтернет-видання",
+      "url": "https://lyuboml.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 798,
+      "name": "Район.Маневичі",
+      "type": "Інтернет-видання",
+      "url": "https://manevychi.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 987,
+      "name": "Район.Медицина",
+      "type": "Інтернет-видання",
+      "url": "https://medicine.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1196,
+      "name": "Район.Освіта",
+      "type": "Інтернет-видання",
+      "url": "https://osvita.rayon.in.ua/about-us#",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 801,
+      "name": "Район.Ратне",
+      "type": "Інтернет-видання",
+      "url": "https://ratne.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 804,
+      "name": "Район.Рожище",
+      "type": "Інтернет-видання",
+      "url": "https://rozhyshche.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 807,
+      "name": "Район.Стара Вижівка",
+      "type": "Інтернет-видання",
+      "url": "https://vyzhivka.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 810,
+      "name": "Район.Турійськ",
+      "type": "Інтернет-видання",
+      "url": "https://turiysk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 814,
+      "name": "Район.Шацьк",
+      "type": "Інтернет-видання",
+      "url": "https://shatsk.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 712,
+      "name": "Сила правди",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://sylapravdy.com/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [
+        "https://sylapravdy.com/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 756,
+      "name": "Суспільне Луцьк",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/volyn-region/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 420,
+      "name": "Телеканал \"Суспільне Луцьк\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/volyn-region/",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 232,
+      "name": "УР. Луцьк",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_l",
+      "scope": "Регіональний",
+      "map_region": "Волинська обл.",
+      "region": "volyn",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 943,
+      "name": "PMG.ua",
+      "type": "Інтернет-видання",
+      "url": "https://pmg.ua/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [
+        "https://pmg.ua/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 560,
+      "name": "Varosh",
+      "type": "Інтернет-видання",
+      "url": "https://varosh.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [
+        "https://varosh.com.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 957,
+      "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+      "type": "Інтернет-видання",
+      "url": "https://zaholovok.com.ua/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [
+        "https://zaholovok.com.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 905,
+      "name": "Район.Мукачево",
+      "type": "Інтернет-видання",
+      "url": "https://mukachevo.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 1208,
+      "name": "Район.Свалява",
+      "type": "Інтернет-видання",
+      "url": "https://svaliava.rayon.in.ua/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      }
+    },
+    {
+      "map_id": 759,
+      "name": "Суспільне Ужгород",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/zakarpattya-region/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 431,
+      "name": "Телеканал \"Суспільне Ужгород\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/zakarpattya-region/",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 240,
+      "name": "УР. Ужгород",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_u",
+      "scope": "Регіональний",
+      "map_region": "Закарпатська обл.",
+      "region": "zakarpattia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 512,
+      "name": "061.ua",
+      "type": "Інтернет-видання",
+      "url": "https://www.061.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.061.ua/: HTTP 403",
+      "content_signals": {}
+    },
+    {
+      "map_id": 103,
+      "name": "Inform.zp",
+      "type": "Інтернет-видання",
+      "url": "https://www.inform.zp.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://www.inform.zp.ua/uk/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 937,
+      "name": "SODA",
+      "type": "Інтернет-видання",
+      "url": "https://www.soda.zp.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://www.soda.zp.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 640,
+      "name": "Бердянськ 24 (Brd24)",
+      "type": "Інтернет-видання",
+      "url": "https://www.brd24.com/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://www.brd24.com/rss-news"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 643,
+      "name": "Відбудова.Запоріжжя",
+      "type": "Інтернет-видання",
+      "url": "https://vidbudova.zp.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://vidbudova.zp.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 723,
+      "name": "Запорізький центр розслідувань",
+      "type": "Центр журналістських розслідувань",
+      "url": "https://incentre.zp.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://incentre.zp.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 764,
+      "name": "Локатор медіа",
+      "type": "Інтернет-видання",
+      "url": "https://lokatormedia.online/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://lokatormedia.online/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 931,
+      "name": "Перший Запорізький",
+      "type": "Інтернет-видання",
+      "url": "https://1news.zp.ua/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [
+        "https://1news.zp.ua/feed"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-10-21",
+      "notes": "",
+      "content_signals": {}
+    },
+    {
+      "map_id": 1187,
+      "name": "РІА Південь",
+      "type": "Інтернет-видання",
+      "url": "https://ria-m.tv/ua",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 735,
+      "name": "Суспільне Запоріжжя",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/zaporizhzhya-region/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 433,
+      "name": "Телеканал \"Суспільне Запоріжжя\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/zaporizhzhya-region/",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 242,
+      "name": "УР. Запоріжжя",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_zap",
+      "scope": "Регіональний",
+      "map_region": "Запорізька обл.",
+      "region": "zaporizhzhia",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    },
+    {
+      "map_id": 562,
+      "name": "Житомир.info",
+      "type": "Інтернет-видання",
+      "url": "https://www.zhitomir.info/",
+      "scope": "Регіональний",
+      "map_region": "Житомирська обл.",
+      "region": "zhytomyr",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "website: https://www.zhitomir.info/: HTTP 429",
+      "content_signals": {}
+    },
+    {
+      "map_id": 750,
+      "name": "Суспільне Житомир",
+      "type": "Інтернет-видання",
+      "url": "https://suspilne.media/regions/zhytomyr-region/",
+      "scope": "Регіональний",
+      "map_region": "Житомирська обл.",
+      "region": "zhytomyr",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 430,
+      "name": "Телеканал \"Суспільне Житомир\"",
+      "type": "Телебачення",
+      "url": "https://suspilne.media/regions/zhytomyr-region/",
+      "scope": "Регіональний",
+      "map_region": "Житомирська обл.",
+      "region": "zhytomyr",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
+    },
+    {
+      "map_id": 238,
+      "name": "УР. Житомир",
+      "type": "Радіо",
+      "url": "https://soundcloud.com/ur_local/sets/ur_zh",
+      "scope": "Регіональний",
+      "map_region": "Житомирська обл.",
+      "region": "zhytomyr",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-10-21",
+      "notes": "no public feed found",
+      "content_signals": {}
+    }
+  ]
+}

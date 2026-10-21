@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "status": "ЧЕРНЕТКА — потребує прослуховування та погодження редакцією",
+  "note": "Словник вимови. Змінює лише те, як слово звучить, а не зміст. written — як у сценарії; spoken — як передати TTS. Наголос можна позначити великою літерою або знаком наголосу (U+0301), якщо постачальник це підтримує — перевіряйте на прослуховуванні.",
+  "entries": [
+    {
+      "written": "BRIEF",
+      "spoken": "Бріф",
+      "kind": "brand"
+    },
+    {
+      "written": "ProMedia",
+      "spoken": "ПроМедіа",
+      "kind": "brand"
+    },
+    {
+      "written": "LB.ua",
+      "spoken": "ел-бе юей",
+      "kind": "outlet"
+    },
+    {
+      "written": "NV",
+      "spoken": "ен-ві",
+      "kind": "outlet"
+    },
+    {
+      "written": "ZN.UA",
+      "spoken": "зе-ен юей",
+      "kind": "outlet"
+    },
+    {
+      "written": "hromadske",
+      "spoken": "громадське",
+      "kind": "outlet",
+      "case_sensitive": false
+    },
+    {
+      "written": "Frontliner",
+      "spoken": "Фронтлайнер",
+      "kind": "outlet"
+    },
+    {
+      "written": "ЗСУ",
+      "spoken": "зе-ес-у",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ОВА",
+      "spoken": "о-ве-а",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "КМВА",
+      "spoken": "ка-ем-ве-а",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "МВА",
+      "spoken": "ем-ве-а",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ДСНС",
+      "spoken": "де-ес-ен-ес",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "СБУ",
+      "spoken": "ес-бе-у",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "НБУ",
+      "spoken": "ен-бе-у",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "НАБУ",
+      "spoken": "НАБУ",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ТЦК",
+      "spoken": "те-це-ка",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "БпЛА",
+      "spoken": "бе-пе-ел-а",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ВПО",
+      "spoken": "ве-пе-о",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "МВФ",
+      "spoken": "ем-ве-еф",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ЄС",
+      "spoken": "є-ес",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "США",
+      "spoken": "сполучені штати",
+      "kind": "abbreviation",
+      "note": "перевірити відмінок у контексті"
+    },
+    {
+      "written": "НАТО",
+      "spoken": "НАТО",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ООН",
+      "spoken": "о-о-ен",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "РФ",
+      "spoken": "ер-еф",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "ІМІ",
+      "spoken": "і-ем-і",
+      "kind": "abbreviation"
+    },
+    {
+      "written": "грн",
+      "spoken": "гривень",
+      "kind": "unit",
+      "note": "відмінок залежить від числа — перевірити"
+    },
+    {
+      "written": "млн",
+      "spoken": "мільйонів",
+      "kind": "unit",
+      "note": "відмінок залежить від числа — перевірити"
+    },
+    {
+      "written": "млрд",
+      "spoken": "мільярдів",
+      "kind": "unit",
+      "note": "відмінок залежить від числа — перевірити"
+    },
+    {
+      "written": "тис.",
+      "spoken": "тисяч",
+      "kind": "unit"
+    },
+    {
+      "written": "км",
+      "spoken": "кілометрів",
+      "kind": "unit"
+    },
+    {
+      "written": "%",
+      "spoken": " відсотків",
+      "kind": "unit"
+    },
+    {
+      "written": "PMG.ua",
+      "spoken": "пе-ем-ге юей",
+      "kind": "outlet"
+    },
+    {
+      "written": "Zaholovok.com.ua",
+      "spoken": "Заголовок",
+      "kind": "outlet"
+    },
+    {
+      "written": "Odesa.Online",
+      "spoken": "Одеса онлайн",
+      "kind": "outlet"
+    },
+    {
+      "written": "Informer.od.ua",
+      "spoken": "Інформер",
+      "kind": "outlet"
+    },
+    {
+      "written": "Mind.ua",
+      "spoken": "Майнд",
+      "kind": "outlet"
+    },
+    {
+      "written": "KHARKIV Today",
+      "spoken": "Харків тудей",
+      "kind": "outlet"
+    },
+    {
+      "written": "MediaPort",
+      "spoken": "Медіапорт",
+      "kind": "outlet"
+    },
+    {
+      "written": "Thebuchacity",
+      "spoken": "Буча сіті",
+      "kind": "outlet"
+    },
+    {
+      "written": "Varosh",
+      "spoken": "Варош",
+      "kind": "outlet"
+    },
+    {
+      "written": "misto.media",
+      "spoken": "місто медіа",
+      "kind": "outlet"
+    },
+    {
+      "written": "IN.UA",
+      "spoken": "ін юей",
+      "kind": "outlet"
+    },
+    {
+      "written": "Telegram",
+      "spoken": "Телеграм",
+      "kind": "word"
+    },
+    {
+      "written": "GROUP",
+      "spoken": "груп",
+      "kind": "word"
+    },
+    {
+      "written": "X",
+      "spoken": "Ікс",
+      "kind": "word"
+    }
+  ]
+}
