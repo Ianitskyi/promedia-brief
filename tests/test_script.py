@@ -116,7 +116,9 @@ def test_draft_structure_attribution_and_disclosure(drafted):
     kinds = [s["kind"] for s in d["segments"]]
     assert kinds[0] == "intro" and kinds[-1] == "outro" and "transition" in kinds
     intro = " ".join(s["text"] for s in d["segments"][0]["sentences"])
-    assert "Білого списку" in intro and "Мапи рекомендованих медіа" in intro and "сайті BRIEF" in intro
+    assert "перевірених медіа" in intro and "сайті BRIEF" in intro
+    # other outlets are listed on the site, not read out
+    assert not any(s["kind"] == "coverage" for seg in d["segments"] for s in seg["sentences"])
     stories = [s for s in d["segments"] if s["kind"] == "story"]
     nat = [s for s in stories if s["block"] == "national"]
     assert len(nat) == 1  # two outlets, one event

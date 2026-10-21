@@ -12,11 +12,14 @@
     "must_include_national": 3,
     "max_sentences_per_story": 2,
     "max_words_per_story": 60,
+    "spoken_attribution": true,
+    "spoken_coverage": false,
+    "required_disclosure": ["сайті BRIEF"],
     "structure": ["intro", "national", "transition", "regional", "outro"]
   },
   "templates": {
     "intro": [
-      "Це BRIEF — добірка новин із медіа Білого списку Інституту масової інформації та Мапи рекомендованих медіа.",
+      "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
       "Повний список джерел доступний на сайті BRIEF.",
       "Випуск за {date_words}."
     ],

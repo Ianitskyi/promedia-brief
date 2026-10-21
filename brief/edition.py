@@ -162,7 +162,7 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
     sentences = []
     for i, lead in enumerate(leads):
-        prefix = attribution(rep["source"], templates) if i == 0 else ""
+        prefix = attribution(rep["source"], templates) if i == 0 and ed_cfg.get("spoken_attribution", True) else ""
         trace = check_sentence(lead, evidence, cl["independent_sources"], sensitive_cfg, year)
         text = prefix + lead
         sentences.append({
@@ -182,7 +182,8 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
     # national outlets first, then regional; alphabetical inside each group
     geo = {m["source"]: m.get("geography") for m in members}
     others = sorted({m["source"] for m in members} - {rep["source"]}, key=lambda n: (geo[n] != "national", n))
-    if others:
+    # Naming every other outlet on air is optional: all sources are listed on the site anyway.
+    if others and ed_cfg.get("spoken_coverage", True):
         names = spoken_list([spoken_name(o, templates) for o in others])
         text = templates["also_reported"].format(sources=names)
         sentences.append({

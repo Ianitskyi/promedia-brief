@@ -11,7 +11,6 @@ from .factcheck import check_sentence
 from .speech import load_lexicon, speech_text, speech_warnings
 from .util import config, iso, load_json, now_utc, write_json
 
-REQUIRED_DISCLOSURE = ("Білого списку", "Мапи рекомендованих медіа", "сайті BRIEF")
 
 
 def load_draft(date):
@@ -79,7 +78,7 @@ def check_draft(date, draft=None, save=True):
             elif s["status"] == "needs_review" and not s.get("editor_confirmed"):
                 problems.append(f"{s['id']}: потребує підтвердження редактора — " + "; ".join(s.get("reasons", [])))
     intro = " ".join(s["text"] for seg in draft["segments"] if seg["kind"] in ("intro", "outro") for s in seg["sentences"])
-    for phrase in REQUIRED_DISCLOSURE:
+    for phrase in ed["edition"].get("required_disclosure", ["сайті BRIEF"]):
         if phrase not in intro:
             problems.append(f"у вступі/завершенні бракує обов'язкового повідомлення: «{phrase}»")
     if not any(seg["kind"] == "story" and seg["block"] == "national" and seg.get("include", True)
