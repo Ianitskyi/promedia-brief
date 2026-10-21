@@ -20,6 +20,8 @@ BRIEF does not republish full newsroom articles. The MVP uses openly available m
 - no full-text republication
 - cost-recovery pricing only if infrastructure costs require it
 
+Site: https://brief.promedia.report (GitHub Pages; DNS on Cloudflare: `CNAME brief → ianitskyi.github.io`).
+
 ## How it works (0.2)
 
 No generative AI writes the news. The pipeline selects, attributes and voices text published by eligible newsrooms, and an editor approves every edition.
