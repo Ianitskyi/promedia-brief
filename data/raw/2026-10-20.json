@@ -1,8 +1,8 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-21T12:31:44+00:00",
-  "source_count": 83,
-  "item_count": 776,
+  "generated_at": "2026-10-21T12:55:55+00:00",
+  "source_count": 84,
+  "item_count": 826,
   "items": [
     {
       "source": "LB.ua",
@@ -159,6 +159,23 @@
       "published_raw": "Tue, 20 Oct 2026 23:45:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "США випробовують системи протидії безпілотникам, які поєднують штучний інтелект, цифрові мережі та різні засоби виявлення повітряних загроз. Паралельно американські військові вивчають український досвід використання акустичних сенсорів для раннього виявлення дронів. Це може вплинути на майбутні підходи до побудови протиповітряної оборони, зокрема до боротьби з масованими атаками безпілотників.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a1385de38bf24d2b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272885-iakshcho-zelenskyy-ne-khoche-zavershyty-tsiu-viynu-tse-matyme-duze-pohani-naslidky-pislia-zustrichi-zelenskoho-iz-vitkoffom-tramp-znovu-zaiavyv-pro-uhodu",
+      "title": "«Якщо Зеленський не хоче завершити цю війну, це матиме дуже погані наслідки». Після зустрічі Зеленського із Віткоффом Трамп знову заявив про угоду",
+      "published_at": "2026-10-20T20:44:00+00:00",
+      "published_raw": "2026-10-20T23:44:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -391,6 +408,23 @@
       "status": "new"
     },
     {
+      "id": "1c4d54d4e5525b23",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272875-u-2025-rotsi-slovachchyna-zbilshyla-eksport-zbroyi-mayze-na-139-popry-zaiavy-fitso-pro-vidmovu-vid-viyskovoyi-dopomohy-ukrayini-le-monde",
+      "title": "У 2025 році Словаччина збільшила експорт зброї майже на 139%, попри заяви Фіцо про відмову від військової допомоги Україні — Le Monde",
+      "published_at": "2026-10-20T19:59:00+00:00",
+      "published_raw": "2026-10-20T22:59:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "source": "LB.ua",
       "title": "Гідрометцентр: в середу в Україні прогріється до +20°",
       "url": "https://lb.ua/society/2026/10/20/774882_gidromettsentr_seredu_ukrayini.html",
@@ -542,6 +576,23 @@
       "status": "new"
     },
     {
+      "id": "a88c5a996c6b8391",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/272878-tysiachi-liudey-opynylysia-v-pasttsi-vitseprezydentka-yevroparlamentu-oholosyla-holoduvannia-shchob-pryvernuty-uvahu-do-sytuatsiyi-v-oleshkakh",
+      "title": "«Тисячі людей опинилися в пастці». Віцепрезидентка Європарламенту оголосила голодування, щоб привернути увагу до ситуації в Олешках",
+      "published_at": "2026-10-20T19:36:00+00:00",
+      "published_raw": "2026-10-20T22:36:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "source": "LB.ua",
       "title": "Трамп заявив, що війна в Україні завершилася б за 4 години, якби росіяни не застрягли в багнюці",
       "url": "https://lb.ua/world/2026/10/20/774880_tramp_zayaviv_scho_viyna.html",
@@ -608,6 +659,23 @@
       "categories": [
         "CityLife"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b66ed629435fd58c",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272883-ssha-vidnovyly-obmin-rozviddanymy-iz-ukrayinoiu-a-vitkoff-vyrushyt-do-sankt-peterburha-holovne-za-20-zovtnia",
+      "title": "США відновили обмін розвідданими з Україною, а Віткофф вирушить до Санкт-Петербурга — головне за 20 жовтня",
+      "published_at": "2026-10-20T19:21:00+00:00",
+      "published_raw": "2026-10-20T22:21:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1200,6 +1268,23 @@
       ]
     },
     {
+      "id": "62a80b0eae7d7e78",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272882-ssha-vidnovyly-obmin-rozviddanymy-iz-ukrayinoiu-znovu-ye-poperedzennia-shchodo-balistyky-zelenskyy",
+      "title": "США відновили обмін розвідданими з Україною, знову є попередження щодо балістики — Зеленський",
+      "published_at": "2026-10-20T18:24:00+00:00",
+      "published_raw": "2026-10-20T21:24:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "678203bdc9362c16",
       "source_id": "map-367",
       "source": "Інтент",
@@ -1578,6 +1663,23 @@
       "fetched_at": null,
       "geography": "national",
       "date_issues": [],
+      "status": "new"
+    },
+    {
+      "id": "46d3f9d8fbc22970",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272870-u-lytvi-zibraly-eur13-mln-na-zakupivliu-droniv-perekhopliuvachiv-dlia-ukrayiny",
+      "title": "У Литві зібрали €1,3 млн на закупівлю дронів-перехоплювачів для України",
+      "published_at": "2026-10-20T17:46:00+00:00",
+      "published_raw": "2026-10-20T20:46:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -2154,6 +2256,23 @@
       "status": "new"
     },
     {
+      "id": "b1dda6d036c27408",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272881-zavtra-vitkoff-vyrushyt-do-sankt-peterburha-de-zustrinetsia-z-rosiyskym-kerivnytstvom",
+      "title": "Спецпосланець США Віткофф вирушить до Санкт-Петербурга, де зустрінеться з російським керівництвом (ДОПОВНЕНО)",
+      "published_at": "2026-10-20T17:09:00+00:00",
+      "published_raw": "2026-10-20T20:09:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b81b7672ce7ede5a",
       "source_id": "map-685",
       "source": "Об'єктив Новини",
@@ -2492,6 +2611,23 @@
       "status": "new"
     },
     {
+      "id": "2d7bdfd80b76b270",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272880-u-polshchi-dvokh-turystiv-z-belhiyi-iaki-zakhotily-pobachyty-kordon-z-rf-oshtrafuvaly-na-500-zlotykh",
+      "title": "У Польщі двох туристів з Бельгії, які захотіли побачити кордон з рф, оштрафували на 500 злотих",
+      "published_at": "2026-10-20T16:53:00+00:00",
+      "published_raw": "2026-10-20T19:53:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "59e4ccfcc410c9b8",
       "source_id": "map-535",
       "source": "МОСТ",
@@ -2539,6 +2675,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "249bbd209e37f7fe",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/kryminal/272879-troye-poranenykh-politsiiantiv-i-troye-viyskovykh-cholovikovi-iakyy-vlashtuvav-strilianu-u-pecherskomu-ttsk-povidomyly-pro-pidozru",
+      "title": "Троє поранених поліціянтів і троє військових. Чоловікові, який влаштував стрілянину в Печерському ТЦК, повідомили про підозру",
+      "published_at": "2026-10-20T16:47:00+00:00",
+      "published_raw": "2026-10-20T19:47:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2633,6 +2786,23 @@
       "published_raw": "Tue, 20 Oct 2026 19:43:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "20 жовтня російські війська завдали ударів по Малоданилівській громаді Харківської області. Унаслідок атак пошкоджено житлові та господарські споруди, а жителька громади постраждала під час обстрілу сусідньої території.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a04481a3b4def6b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/ukrayina/272841-viyskovi-iakykh-pidozriuiut-u-pidkydanni-narkotykiv-shyrshynu-namahaiutsia-oskarzyty-zapobiznyy-zakhid-odnomu-uze-vidmovyly",
+      "title": "Військові, яких підозрюють у підкиданні наркотиків Ширшину, оскаржують запобіжні заходи. Одному вже відмовили",
+      "published_at": "2026-10-20T16:43:00+00:00",
+      "published_raw": "2026-10-20T19:43:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -3512,6 +3682,40 @@
       "status": "new"
     },
     {
+      "id": "fb75b21924895db0",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272876-pislia-uhody-z-trampom-rosiia-vidnovyla-eksport-dyzeliu-do-turechchyny-ta-brazyliyi-reuters",
+      "title": "Після угоди з Трампом росія відновила експорт дизелю до Туреччини та Бразилії — Reuters",
+      "published_at": "2026-10-20T15:50:00+00:00",
+      "published_raw": "2026-10-20T18:50:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "916edc1206f792ad",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272877-naybilshe-v-istoriyi-yevropy-hendyrektor-ryanair-prohnozuye-rekordne-zrostannia-tsin-na-aviakvytky",
+      "title": "«Найбільше в історії Європи». Гендиректор Ryanair прогнозує рекордне зростання цін на авіаквитки",
+      "published_at": "2026-10-20T15:49:00+00:00",
+      "published_raw": "2026-10-20T18:49:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6d9146c90031ee6d",
       "source_id": "map-1154",
       "source": "Bilozerka.info",
@@ -4181,6 +4385,23 @@
       "status": "new"
     },
     {
+      "id": "db2c600ec05d1fc5",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/heopolityka/272874-rubio-nazvav-skandalnymy-zaiavy-pro-prychetnist-ssha-do-zahybeli-ukrayintsiv-cherez-brak-rozviddanykh",
+      "title": "Рубіо назвав «скандальними» заяви про причетність США до загибелі українців через брак розвідданих",
+      "published_at": "2026-10-20T15:20:00+00:00",
+      "published_raw": "2026-10-20T18:20:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7ba8858ae57a6e4e",
       "source_id": "map-593",
       "source": "Є",
@@ -4448,6 +4669,23 @@
       "status": "new"
     },
     {
+      "id": "a6ef5efd33dd448b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272871-zodni-nepravdyvi-zaiavy-ne-zminiat-realnist-budanov-sprostuvav-zaiavu-rosiian-pro-zakhoplennia-dobropillia",
+      "title": "«Жодні неправдиві заяви не змінять реальність». Буданов спростував заяву росіян про захоплення Добропілля",
+      "published_at": "2026-10-20T15:01:00+00:00",
+      "published_raw": "2026-10-20T18:01:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3a22e98a9c65d3d2",
       "source_id": "map-302",
       "source": "18000",
@@ -4675,6 +4913,23 @@
         "Новини",
         "Новини Краматорської громади"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "72d9be9992da15b6",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272873-rosiiany-vdaryly-po-instytutu-kardiolohiyi-imeni-strazeska-u-kyyevi-odyn-patsiyent-zaznav-poranen",
+      "title": "росіяни вдарили по Інституту кардіології імені Стражеска в Києві — один пацієнт зазнав поранень",
+      "published_at": "2026-10-20T14:52:00+00:00",
+      "published_raw": "2026-10-20T17:52:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5234,6 +5489,23 @@
       "status": "new"
     },
     {
+      "id": "58bc74a28298baa7",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272868-tvaryny-dlia-vas-lyshe-resurs-zoozakhysnyky-zvynuvatyly-zviropolis-u-nekhtuvanni-bezpekoiu-tvaryn-pislia-ataky-rf",
+      "title": "«Тварини для вас — лише ресурс». Зоозахисники звинуватили «Звірополіс» у нехтуванні безпекою тварин після атаки рф",
+      "published_at": "2026-10-20T14:27:00+00:00",
+      "published_raw": "2026-10-20T17:27:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "599ee3c82726a688",
       "source_id": "map-683",
       "source": "Харків Times",
@@ -5324,6 +5596,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "118976932848bf62",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/istoriia/272872-u-polshchi-zavershyly-poshukovi-roboty-v-mistsiakh-pokhovan-zahyblykh-ukrayintsiv-znayshly-ostanky-ponad-40-til",
+      "title": "У Польщі завершили пошукові роботи в місцях поховань загиблих українців — знайшли останки понад 40 тіл",
+      "published_at": "2026-10-20T14:18:00+00:00",
+      "published_raw": "2026-10-20T17:18:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6064,6 +6353,23 @@
         "львів",
         "львівтеплоенерго"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8dc64f0412377b15",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272853-na-sumshchyni-vzialy-v-polon-29-okupantiv-hur-rozpovilo-pro-rezultaty-operatsiyi",
+      "title": "На Сумщині взяли в полон 29 окупантів. ГУР розповіло про результати операції",
+      "published_at": "2026-10-20T13:42:00+00:00",
+      "published_raw": "2026-10-20T16:42:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6864,6 +7170,23 @@
       "status": "new"
     },
     {
+      "id": "7cb25c51f039825e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/heopolityka/272865-polshcha-ne-nadast-ukrayini-rakety-dlia-patriot-sikorskyy-nazvav-prychynu",
+      "title": "Польща не надасть Україні ракети для Patriot. Сікорський назвав причину",
+      "published_at": "2026-10-20T13:02:00+00:00",
+      "published_raw": "2026-10-20T16:02:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dd53bef60334a8f1",
       "source_id": "map-586",
       "source": "Вгору",
@@ -6984,6 +7307,23 @@
       "categories": [
         "Харків"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b0dd723ff565b35b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272866-mayze-46-tysiach-inozemtsiv-zi-151-krayiny-pidpysaly-kontrakty-zi-zbroynymy-sylamy-rf-koordshtab",
+      "title": "Майже 46 тисяч іноземців зі 151 країни підписали контракти зі збройними силами рф — Коордштаб",
+      "published_at": "2026-10-20T12:55:00+00:00",
+      "published_raw": "2026-10-20T15:55:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7224,6 +7564,23 @@
         "Новини",
         "Прикарпаття"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9f1395067c180cd6",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272859-zakryttia-internativ-dlia-liudey-z-invalidnistiu-shche-ne-oznachaye-deinstytutsionalizatsiyi-iaki-pomylky-inshykh-krayin-varto-vrakhuvaty-ukrayini",
+      "title": "Закриття інтернатів для людей з інвалідністю ще не означає деінституціоналізації. Які помилки інших країн варто врахувати Україні",
+      "published_at": "2026-10-20T12:36:00+00:00",
+      "published_raw": "2026-10-20T15:36:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7504,6 +7861,23 @@
       "status": "new"
     },
     {
+      "id": "7e07f0817ce873a7",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272862-rosiia-atakuvala-sklady-poblyzu-dnipra-ye-zahybli-kilkist-postrazdalykh-zrosla",
+      "title": "росія атакувала склади поблизу Дніпра — є загиблі, кількість постраждалих зросла",
+      "published_at": "2026-10-20T12:19:00+00:00",
+      "published_raw": "2026-10-20T15:19:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4c017eb0209de296",
       "source_id": "map-960",
       "source": "SPEKA",
@@ -7610,6 +7984,40 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "79843bcf7ad2c686",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272857-viyska-rf-atakuvaly-tts-na-rivnenshchyni-ye-postrazdali-liudey-prosiat-zachyniaty-vikna",
+      "title": "Війська рф атакували ТЦ на Рівненщині. Є постраждалі, людей просять зачиняти вікна",
+      "published_at": "2026-10-20T12:15:00+00:00",
+      "published_raw": "2026-10-20T15:15:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f2fad6816534184",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272642-zyttia-bez-boliu-ta-strakhu-rozvinchuyemo-mify-pro-paliatyvnu-dopomohu-v-ukrayini",
+      "title": "Життя без болю та страху: розвінчуємо міфи про паліативну допомогу в Україні",
+      "published_at": "2026-10-20T12:15:00+00:00",
+      "published_raw": "2026-10-20T15:15:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8189,6 +8597,23 @@
       "status": "new"
     },
     {
+      "id": "b07b2b960ae699dd",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272860-na-sudni-chelsea-3-iake-atakuvaly-bilia-bolhariyi-znayshly-ulamky-drona-teper-ziasovuiut-chyy-tse-bezpilotnyk",
+      "title": "На судні Chelsea 3, яке атакували біля Болгарії, знайшли уламки дрона. Тепер з'ясовують, чий це безпілотник",
+      "published_at": "2026-10-20T11:45:00+00:00",
+      "published_raw": "2026-10-20T14:45:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "source": "Українська правда",
       "title": "Рубіо переконує, що ймовірні затримки з постачанням Києву перехоплювачів не є навмисними",
       "url": "https://pravda.com.ua/news/2026/10/20/8058908",
@@ -8214,6 +8639,23 @@
       "fetched_at": null,
       "geography": "national",
       "date_issues": [],
+      "status": "new"
+    },
+    {
+      "id": "93339719c3c7145d",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272864-zelenskyy-prokomentuvav-mozlyvi-perehovory-trampa-putina-ta-si",
+      "title": "Зеленський прокоментував можливі переговори Трампа, путіна та Сі",
+      "published_at": "2026-10-20T11:43:00+00:00",
+      "published_raw": "2026-10-20T14:43:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -8356,6 +8798,23 @@
       "status": "new"
     },
     {
+      "id": "daad1fb324497897",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272863-na-sumshchyni-43-malomobilni-pereselentsi-ne-mozut-samostiyno-vykhodyty-z-mists-tymchasovoho-prozyvannia-ombudsmen",
+      "title": "На Сумщині 43 маломобільні переселенці не можуть самостійно виходити з місць тимчасового проживання — омбудсмен",
+      "published_at": "2026-10-20T11:39:00+00:00",
+      "published_raw": "2026-10-20T14:39:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5d78bc37f013d309",
       "source_id": "map-367",
       "source": "Інтент",
@@ -8404,6 +8863,23 @@
       "fetched_at": null,
       "geography": "national",
       "date_issues": [],
+      "status": "new"
+    },
+    {
+      "id": "042774c719bd7ae4",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/polityka/272861-vyetnam-nadast-ukrayini-humanitarnu-dopomohu-na-500-tysiach-sybiha",
+      "title": "В'єтнам надасть Україні гуманітарну допомогу на $500 тисяч — Сибіга",
+      "published_at": "2026-10-20T11:36:00+00:00",
+      "published_raw": "2026-10-20T14:36:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -8583,6 +9059,23 @@
       "published_raw": "Tue, 20 Oct 2026 14:24:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "Із села Одноробівка Золочівської громади Богодухівського району планують евакуювати жінку, яка два дні тому отримала поранення. Після її виїзду в населеному пункті залишаться шестеро мешканців.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "941aaad6aa0c68ad",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/kyyiv/272858-budynok-u-kyyevi-de-klychko-maye-kvartyru-pidkliuchenyy-do-obyekta-krytychnoyi-infrasturuktury-hrafikiv-vidkliuchen-tam-nemaye",
+      "title": "Будинок у Києві, де Кличко має квартиру, під'єднаний до об'єкта критичної інфраструктури. Графіків відключень там немає",
+      "published_at": "2026-10-20T11:24:00+00:00",
+      "published_raw": "2026-10-20T14:24:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -8926,6 +9419,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "778584d89a5f9011",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272856-kramatorsk-pid-rosiyskoiu-atakoiu-poshkodzeno-zytlovi-bahatopoverkhivky-troye-liudey-zahynulo",
+      "title": "Краматорськ під російською атакою — пошкоджено житлові багатоповерхівки, троє людей загинуло",
+      "published_at": "2026-10-20T11:03:00+00:00",
+      "published_raw": "2026-10-20T14:03:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9314,6 +9824,23 @@
       "status": "new"
     },
     {
+      "id": "67f1a88fdca59355",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272855-smertelne-pobyttia-mobilizovanoho-na-lvivshchyni-viyskovomu-ttsk-ranishe-zasudzenomu-za-khabar",
+      "title": "Смертельне побиття мобілізованого на Львівщині. Військовому ТЦК, раніше засудженому за хабар, повідомили про підозру",
+      "published_at": "2026-10-20T10:48:00+00:00",
+      "published_raw": "2026-10-20T13:48:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3bb35a33b7a9dd6e",
       "source_id": "map-671",
       "source": "Трибуна.Суми",
@@ -9577,6 +10104,23 @@
       "fetched_at": null,
       "geography": "national",
       "date_issues": [],
+      "status": "new"
+    },
+    {
+      "id": "a03c6f151f6e94f5",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272854-u-moldovi-sprostuvaly-informatsiiu-pro-nadsylannia-noty-protestu-kyyevu-cherez-intsydent-iz-prykordonnykamy",
+      "title": "У Молдові спростували інформацію про надсилання ноти протесту Києву через інцидент із прикордонниками",
+      "published_at": "2026-10-20T10:33:00+00:00",
+      "published_raw": "2026-10-20T13:33:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -10423,6 +10967,23 @@
       "status": "new"
     },
     {
+      "id": "9299dd3b89ee531e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/pivnichna-ameryka/272850-naperedodni-promiznykh-vyboriv-reytynh-pidtrymky-trampa-vpav-do-rekordnoho-31-opytuvannia-reuters",
+      "title": "Напередодні проміжних виборів рейтинг підтримки Трампа впав до рекордного 31% — опитування Reuters",
+      "published_at": "2026-10-20T09:57:00+00:00",
+      "published_raw": "2026-10-20T12:57:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ec108d5c54d5a3bf",
       "source_id": "map-988",
       "source": "Шпальта",
@@ -11024,6 +11585,23 @@
       "status": "new"
     },
     {
+      "id": "9930bd5fe21379ec",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/heopolityka/272848-norvehiia-pidtverdyla-provedennia-perehovoriv-zelenskoho-iz-predstavnykamy-trampa-v-oslo",
+      "title": "Норвегія підтвердила проведення переговорів Зеленського із представниками Трампа в Осло",
+      "published_at": "2026-10-20T09:22:00+00:00",
+      "published_raw": "2026-10-20T12:22:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0be67a1a341ea0ba",
       "source_id": "map-612",
       "source": "Вільне радіо",
@@ -11124,6 +11702,23 @@
       "published_at": "2026-10-20T09:16:16+00:00",
       "published_raw": "Tue, 20 Oct 26 12:16:16 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "08d45f4a1bd48a51",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272847-khotiv-buty-z-simyeiu-tomu-buv-hotovyy-na-vse-na-viyni-proty-ukrayiny-znyk-brytanets-iakomu-pohrozuvaly-deportatsiyeiu-z-rf-za-vidmovu-vid-kontraktu",
+      "title": "«Хотів бути із сім'єю, тому був готовий на все». На війні проти України зник британець, якому погрожували депортацією з рф за відмову від контракту",
+      "published_at": "2026-10-20T09:16:00+00:00",
+      "published_raw": "2026-10-20T12:16:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
       "description": "",
       "categories": [],
       "date_issues": [],
@@ -11900,6 +12495,23 @@
       "status": "new"
     },
     {
+      "id": "7c0a84a659f0956b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272846-obstril-iz-hranatometa-hranaty-ta-kokteyli-molotova-u-kyyevi-zatrymaly-pidozriuvanykh-u-pidhotovtsi-atak-na-ttsk-na-zamovlennia-rf",
+      "title": "Обстріл із гранатомета, гранати та «коктейлі Молотова». У Києві затримали підозрюваних у підготовці атак на ТЦК на замовлення рф",
+      "published_at": "2026-10-20T08:37:00+00:00",
+      "published_raw": "2026-10-20T11:37:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "08dc989680e0dc8a",
       "source_id": "map-827",
       "source": "НУШ",
@@ -12068,6 +12680,23 @@
       "status": "new"
     },
     {
+      "id": "2a2c379983defc38",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272845-u-holosiyivskomu-rayoni-kyyeva-vpav-rosiyskyy-bpla-ye-zahyblyy-i-postrazdali-takoz-ye-vluchannia-y-v-inshykh-rehionakh",
+      "title": "У Голосіївському районі Києва впав російський БпЛА, є загиблий і постраждалі. Також є влучання й в інших регіонах",
+      "published_at": "2026-10-20T08:26:00+00:00",
+      "published_raw": "2026-10-20T11:26:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "02b16360a6cdd398",
       "source_id": "map-683",
       "source": "Харків Times",
@@ -12194,6 +12823,23 @@
       "published_raw": "Tue, 20 Oct 2026 08:16:11 +0000",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "Завтра, 21 жовтня, відбудеться позачергова сесія Харківської міськради. Відповідне розпорядження підписав міський голова Ігор Терехов....",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9e7f96e7fe0fb8f9",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/272844-pislia-dyzelnoyi-uhody-ssha-i-rf-dovira-ukrayintsiv-do-zelenskoho-zrosla-na-ponad-10-opytuvannia-kmis",
+      "title": "Після «дизельної угоди» США і рф довіра українців до Зеленського зросла на понад 10% — опитування КМІС",
+      "published_at": "2026-10-20T08:16:00+00:00",
+      "published_raw": "2026-10-20T11:16:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -12729,6 +13375,23 @@
         "Молодецьке",
         "поранені"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f9014562eb44271b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272843-zelenskyy-obhovoryv-iz-rubio-perekhopliuvachi-dlia-ppo-poperedzennia-pro-balistychni-ataky-ta-starlink",
+      "title": "Зеленський обговорив із Рубіо перехоплювачі для ППО, попередження про балістичні атаки та Starlink",
+      "published_at": "2026-10-20T07:36:00+00:00",
+      "published_raw": "2026-10-20T10:36:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13339,6 +14002,23 @@
       "status": "new"
     },
     {
+      "id": "4479dfe337249502",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/heopolityka/272842-pivdenna-koreia-vidklyche-dodatkovyy-personal-posolstva-v-ukrayini-na-tli-konfliktu-shchodo-polonenykh-kndr",
+      "title": "Південна Корея відкличе додатковий персонал посольства в Україні на тлі конфлікту щодо полонених КНДР",
+      "published_at": "2026-10-20T06:57:00+00:00",
+      "published_raw": "2026-10-20T09:57:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2e30bd9a6e7a9ba9",
       "source_id": "map-612",
       "source": "Вільне радіо",
@@ -13495,6 +14175,23 @@
       "status": "new"
     },
     {
+      "id": "f61cca1f97ecfe4e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272840-prosto-yikhaly-na-robotu-u-svoyikh-spravakh-rosiiany-vluchyly-po-avtivkakh-na-trasi-v-kyyivskiy-oblasti-ye-zahybli-ta-poraneni",
+      "title": "«Просто їхали на роботу, у своїх справах». росіяни влучили по автівках на трасі біля Чабанів — є загиблі та поранені",
+      "published_at": "2026-10-20T06:42:00+00:00",
+      "published_raw": "2026-10-20T09:42:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "9595c847f23bc8ca",
       "source_id": "map-943",
       "source": "PMG.ua",
@@ -13548,6 +14245,23 @@
         "виконавчий комітет",
         "місцеве самоврядування"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e1d7d1c38c996d6",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272838-meshkantsi-alberty-na-referendumi-vidkhylyly-propozytsiiu-pro-vidokremlennia-vid-kanady",
+      "title": "Жителі Альберти на референдумі відхилили пропозицію про відокремлення від Канади",
+      "published_at": "2026-10-20T06:30:00+00:00",
+      "published_raw": "2026-10-20T09:30:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13766,6 +14480,23 @@
       "status": "new"
     },
     {
+      "id": "2b57a88944865746",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272837-zrobliat-iz-pohantsiv-khoroshykh-khloptsiv-u-ssha-poiasnyly-iak-khochut-poslabyty-sanktsiyi-proty-tinyovoho-flotu",
+      "title": "Зроблять із «поганців» «хороших хлопців». У США пояснили, як хочуть послабити санкції проти «тіньового флоту»",
+      "published_at": "2026-10-20T06:03:00+00:00",
+      "published_raw": "2026-10-20T09:03:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ec63ba1b03fd6932",
       "source_id": "map-302",
       "source": "18000",
@@ -13968,6 +14699,23 @@
       "status": "new"
     },
     {
+      "id": "aab9324d7540f5d5",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272836-zahybli-na-kyyivshchyni-ta-udar-po-enerhetytsi-u-zakhidnykh-oblastiakh-holovne-pro-nichni-rosiyski-obstrily",
+      "title": "Загиблі на Київщині та удар по енергетиці в західних областях — головне про нічні російські обстріли",
+      "published_at": "2026-10-20T05:31:00+00:00",
+      "published_raw": "2026-10-20T08:31:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e5d5c745955d3a8a",
       "source_id": "map-925",
       "source": "Радіо «Накипіло»",
@@ -14064,6 +14812,23 @@
       "status": "new"
     },
     {
+      "id": "6c00738358c189c6",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272835-ne-pishov-by-vin-voiuvaty-nikoly-maty-pokhovanoho-na-dnipropetrovshchyni-hromadianyna-rf-kaze-shcho-vin-zahynuv-u-dtp-a-ne-na-viyni",
+      "title": "«Не пішов би він воювати ніколи». Мати похованого на Дніпропетровщині громадянина рф каже, що він загинув у ДТП, а не на війні",
+      "published_at": "2026-10-20T05:05:00+00:00",
+      "published_raw": "2026-10-20T08:05:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e5a2389f0d763f58",
       "source_id": "map-960",
       "source": "SPEKA",
@@ -14126,6 +14891,23 @@
       "published_raw": "Tue, 20 Oct 2026 07:39:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "На різних ділянках фронту обладнання супутникового зв’язку Starshield перестає працювати під час руху зі швидкістю 130–161 км/год. Це може ускладнювати використання безпілотників і військову логістику, повідомив Володимир Зеленський.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a1f37b66d3b72356",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272834-u-kyyevi-vidnovyly-rukh-chervonoiu-hilkoiu-metro-pislia-balistychnoyi-ataky-odnak-stantsiia-chernihivska-dosi-zakryta",
+      "title": "У Києві відновили рух червоною гілкою метро після балістичної атаки, однак станція «Чернігівська» досі закрита",
+      "published_at": "2026-10-20T04:35:00+00:00",
+      "published_raw": "2026-10-20T07:35:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -14238,6 +15020,23 @@
       "status": "new"
     },
     {
+      "id": "03d04035cf65210e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272833-hehset-ne-pidpysuye-kontrakty-na-postachannia-ukrayini-znachnoyi-partiyi-raket-do-patriot-v-ukrayini-vvazaiut-tse-shche-odnym-prykladom-tyskom-media",
+      "title": "Гегсет не підписує контракти на постачання Україні «значної» партії ракет до Patriot. Київ вбачає у цьому тиск — медіа",
+      "published_at": "2026-10-20T04:10:00+00:00",
+      "published_raw": "2026-10-20T07:10:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5248baa020cb6fe0",
       "source_id": "map-960",
       "source": "SPEKA",
@@ -14249,6 +15048,23 @@
       "published_raw": "Tue, 20 Oct 2026 07:00:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "Дія.Engine, «Трембіта 2.0» та е Акциз змінюють підходи держави до роботи з даними, цифрових послуг і контролю за обігом підакцизних товарів. Мінцифри розвиває low-code платформу для створення державних реєстрів, про що ми розповідали на нашому сайті, готує оновлення інфраструктури обміну даними та впроваджує цифрові інструменти для відстеження алкоголю й тютюну.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b81834c61882fac",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/272712-viyna-z-neba-perekhodyt-pid-zemliu-iak-pereboyi-v-roboti-starlink-i-rozvytok-rosiyskoho-rassveta-zminiuiut-kharakter-viyny-ta-chy-ye-alternatyva-v-yevropy",
+      "title": "«Війна з неба переходить під землю». Як перебої в роботі Starlink і розвиток російського «Рассвета» змінюють характер війни та чи є альтернатива в Європи",
+      "published_at": "2026-10-20T04:00:00+00:00",
+      "published_raw": "2026-10-20T07:00:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -14329,6 +15145,23 @@
       "status": "new"
     },
     {
+      "id": "02bf09c04883e41e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/istoriia/272829-skhodymo-vvecheri-u-muzey-a-yoho-nemaye-iushchenko-zaiavyv-choho-brakuye-ukrayini-u-muzeyniy-sferi",
+      "title": "«Сходимо ввечері в музей? А його немає». Ющенко розповів, чого бракує Україні в музейній сфері",
+      "published_at": "2026-10-19T21:41:00+00:00",
+      "published_raw": "2026-10-20T00:41:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b1b96ab081b3a2aa",
       "source_id": "map-683",
       "source": "Харків Times",
@@ -14343,6 +15176,23 @@
       "categories": [
         "Інше"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8e4f29f0ee427b6b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/272832-spetsposlantsi-trampa-vitkoff-i-kushner-planuiut-tsyoho-tyznia-vidvidaty-norvehiiu-dlia-perehovoriv-shchodo-viyny-v-ukrayini-reuters",
+      "title": "Спецпосланці Трампа Віткофф і Кушнер планують цього тижня відвідати Норвегію для переговорів щодо війни в Україні — Reuters",
+      "published_at": "2026-10-19T21:07:00+00:00",
+      "published_raw": "2026-10-20T00:07:00+03:00",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14374,6 +15224,12 @@
       "fetched": 666,
       "added": 636,
       "errors": 3
+    },
+    {
+      "at": "2026-10-21T12:55:55+00:00",
+      "fetched": 678,
+      "added": 50,
+      "errors": 2
     }
   ]
 }
