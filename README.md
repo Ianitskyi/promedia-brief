@@ -59,6 +59,7 @@ Paid TTS providers refuse to run unless `BRIEF_ALLOW_PAID_TTS=1` and the estimat
 | Collect BRIEF source pool | hourly | merges new RSS items into today's pool |
 | Draft BRIEF edition | daily | builds the draft for review (no TTS, nothing published) |
 | Approve and render BRIEF edition | manual, editors only | approval (re-checks), TTS, audio check, publish |
+| Compare TTS voices | manual | renders the TTS test script with chosen providers, ASR accuracy + mp3 for listening |
 | Refresh regional source registry | monthly | snapshot of the Recommended Media Map → review branch |
 | CI | PRs | tests |
 
