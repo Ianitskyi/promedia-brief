@@ -139,3 +139,31 @@ def test_publish_writes_public_edition_without_reviewer_name(approved, cli):
     stories = [s for s in e["segments"] if s["kind"] == "story"]
     assert all(s["sources"] and s["audio"] for s in stories)
     assert (approved / "audio" / "daily.mp3").exists()
+
+
+def test_prune_removes_editions_older_than_a_week(tmp_root):
+    import datetime as dt
+    from brief import prune as P
+
+    ed = tmp_root / "editions"
+    dates = ("2026-10-01", "2026-10-12", "2026-10-13", "2026-10-20")
+    for date in dates:
+        (ed / date / "audio").mkdir(parents=True)
+        (ed / date / "audio" / "x.mp3").write_bytes(b"mp3")
+        (ed / date / "draft.json").write_text("{}")
+    (ed / "index.json").write_text(json.dumps({"editions": list(dates)}))
+    (ed / "drafts.json").write_text(json.dumps({"drafts": list(dates)}))
+    (ed / "latest.json").write_text(json.dumps({"date": "2026-10-12"}))  # stale latest is removed too
+
+    orig = P.EDITIONS
+    P.EDITIONS = ed
+    try:
+        removed = P.prune(7, now=dt.datetime(2026, 10, 20, 12, 0, tzinfo=dt.timezone.utc))
+    finally:
+        P.EDITIONS = orig
+    assert removed == ["2026-10-01", "2026-10-12"]
+    assert not (ed / "2026-10-01").exists() and not (ed / "2026-10-12").exists()
+    assert (ed / "2026-10-13" / "audio" / "x.mp3").exists() and (ed / "2026-10-20").exists()
+    assert json.loads((ed / "index.json").read_text())["editions"] == ["2026-10-13", "2026-10-20"]
+    assert json.loads((ed / "drafts.json").read_text())["drafts"] == ["2026-10-13", "2026-10-20"]
+    assert not (ed / "latest.json").exists()

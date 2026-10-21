@@ -85,11 +85,13 @@ jobs:
         run: python -m brief verify-audio --date "${{ inputs.date }}"
       - name: Publish (fails closed)
         run: python -m brief publish --date "${{ inputs.date }}"
+      - name: Delete editions older than 7 days
+        run: python -m brief prune --keep-days 7
       - name: Commit edition
         run: |
           git config user.name "BRIEF Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add "editions/${{ inputs.date }}" editions/index.json editions/latest.json audio/daily.mp3
+          git add -A editions audio/daily.mp3
           git commit -m "Publish BRIEF edition ${{ inputs.date }} (approved by ${{ github.actor }})"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
           exit 1

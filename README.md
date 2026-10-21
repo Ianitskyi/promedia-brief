@@ -47,6 +47,7 @@ python -m brief approve --date 2026-10-20 --reviewer NAME --expected-hash SHA
 BRIEF_PIPER_MODEL=/path/uk_UA-ukrainian_tts-medium.onnx python -m brief render --date 2026-10-20 --provider piper
 python -m brief verify-audio --date 2026-10-20   # optional, needs faster-whisper
 python -m brief publish --date 2026-10-20
+python -m brief prune --keep-days 7          # delete editions older than a week
 python -m pytest -q                          # no network, no paid APIs
 ```
 
@@ -67,4 +68,4 @@ Paid TTS providers refuse to run unless `BRIEF_ALLOW_PAID_TTS=1` and the estimat
 
 ## Status
 
-MVP 0.2: technically ready for editorial testing. Pending decisions: TTS provider (listening test), scoring weights and pilot regions, audio storage, rights to the sonic assets. Until the first approved edition is published, the site shows the 3 October test edition.
+MVP 0.2: technically ready for editorial testing. Pending decisions: TTS provider (listening test), scoring weights and pilot regions. Editions are kept for 7 days. Until the first approved edition is published, the site shows the 3 October test edition.

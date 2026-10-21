@@ -33,11 +33,13 @@ jobs:
       - name: Build draft and fact checks
         run: |
           if [ -n "${{ inputs.date }}" ]; then python -m brief draft --date "${{ inputs.date }}"; else python -m brief draft; fi
+      - name: Delete editions older than 7 days
+        run: python -m brief prune --keep-days 7
       - name: Commit draft
         run: |
           git config user.name "BRIEF Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw editions
+          git add -A data/raw editions
           git diff --cached --quiet && exit 0
           git commit -m "Draft BRIEF edition for review"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done

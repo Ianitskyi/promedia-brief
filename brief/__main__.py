@@ -78,6 +78,13 @@ def cmd_publish(a):
     print(path)
 
 
+def cmd_prune(a):
+    from . import prune
+
+    removed = prune.prune(keep_days=a.keep_days)
+    print(f"removed {len(removed)} edition(s): {', '.join(removed) or '—'}")
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(prog="brief")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -121,6 +128,10 @@ def main(argv=None):
     pb.add_argument("--date", required=True)
     pb.add_argument("--allow-mock", action="store_true", help="local testing only")
     pb.set_defaults(fn=cmd_publish)
+
+    pr = sub.add_parser("prune", help="delete editions (audio, text, drafts) older than N days")
+    pr.add_argument("--keep-days", type=int, default=7)
+    pr.set_defaults(fn=cmd_prune)
 
     a = p.parse_args(argv)
     a.fn(a)
