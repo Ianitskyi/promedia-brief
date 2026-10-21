@@ -1,8 +1,8 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-21T12:57:16+00:00",
+  "generated_at": "2026-10-21T13:24:49+00:00",
   "source_count": 84,
-  "item_count": 826,
+  "item_count": 827,
   "items": [
     {
       "source": "LB.ua",
@@ -7510,6 +7510,27 @@
       "fetched_at": null,
       "geography": "national",
       "date_issues": [],
+      "status": "new"
+    },
+    {
+      "id": "8b8f015e2a59f352",
+      "source_id": "map-298",
+      "source": "Реальна газета",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://realgazeta.com.ua/dopomogha-pieried-zimoiu-doniechchina-otrimala-vid-nimietskikh-partnieriv-potuzhni-ghienieratori-ta-spietstiekhniku",
+      "title": "Допомога перед зимою: Донеччина отримала від німецьких партнерів потужні генератори та спецтехніку",
+      "published_at": "2026-10-20T12:40:13+00:00",
+      "published_raw": "Tue, 20 Oct 2026 12:40:13 GMT",
+      "fetched_at": "2026-10-21T13:24:49+00:00",
+      "description": "Донецька область отримала від Федерального агентства з технічної допомоги Німеччини (THW) генератори, світлові щогли та обладнання",
+      "categories": [
+        "Суспільство",
+        "Донецька область",
+        "Німеччина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -15235,6 +15256,12 @@
       "at": "2026-10-21T12:57:16+00:00",
       "fetched": 678,
       "added": 0,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-21T13:24:49+00:00",
+      "fetched": 655,
+      "added": 1,
       "errors": 3
     }
   ]
