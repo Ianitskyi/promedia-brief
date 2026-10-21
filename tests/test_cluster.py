@@ -67,6 +67,10 @@ def test_places_require_capitalised_names(gazetteer):
     assert detect_places("Удар по Сумах і Сумщині", gazetteer) == {"sumy"}
     assert detect_places("сума виплат зросла, рівно о дев'ятій", gazetteer) == set()
     assert detect_places("Мешканці Луцька і Ковеля", gazetteer) == {"volyn"}
+    # street names are not places
+    assert detect_places("У Харкові бульвар Хмельницького перейменували", gazetteer) == {"kharkiv"}
+    assert detect_places("Вибух на вулиці Київській у Луцьку", gazetteer) == {"volyn"}
+    assert detect_places("Повітряна тривога у Хмельницькому", gazetteer) == {"khmelnytskyi"}
 
 
 def test_primary_region_ignores_incidental_mentions(make, gazetteer):

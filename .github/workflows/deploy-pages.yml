@@ -4,6 +4,12 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  # Commits pushed by workflows (GITHUB_TOKEN) do not trigger `push`, so drafts and
+  # published editions would never reach the site without this.
+  workflow_run:
+    workflows: ["Draft BRIEF edition", "Approve and render BRIEF edition"]
+    types: [completed]
+    branches: ["main"]
 
 permissions:
   contents: read
@@ -16,6 +22,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -23,6 +30,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main  # on workflow_run: the commit the upstream workflow just pushed
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
