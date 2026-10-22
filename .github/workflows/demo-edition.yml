@@ -123,7 +123,8 @@ jobs:
           git add demo
           git diff --cached --quiet && exit 0
           git commit -m "Demo edition ${{ steps.cfg.outputs.date }} (${{ inputs.provider }})"
-          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          B="${{ github.ref_name }}"  # main, or the branch the demo was started from
+          for i in 1 2 3; do git pull --rebase origin "$B" && git push origin "HEAD:$B" && exit 0; sleep $((i*5)); done
           exit 1
       - name: Summary
         if: always()
