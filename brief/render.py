@@ -15,11 +15,11 @@ import time
 from . import audio, tts
 from .edition import EDITIONS
 from .review import load_approved
-from .speech import load_lexicon, speech_text
+from .speech import load_lexicon, load_stress, speech_text
 from .util import ROOT, iso, now_utc, write_json
 
 PAUSE_SENTENCE_MS = 350
-PAUSE_STORY_MS = 700
+PAUSE_STORY_MS = 1300  # a clear gap between stories
 PAUSE_CHUNK_MS = 120
 SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bumper.mp3",
          "outro": ROOT / "audio" / "outro.mp3"}
@@ -27,7 +27,8 @@ SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bump
 
 def tts_text(sentence_text, provider, lexicon):
     return speech_text(sentence_text, lexicon, spell_digits=provider.spell_digits, lowercase=provider.lowercase,
-                       transliterate=provider.transliterate_latin)
+                       transliterate=provider.transliterate_latin,
+                       stress=load_stress() if provider.stress_marks else None)
 
 
 def plan(approved, provider, lexicon):
@@ -94,11 +95,11 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
                                "chunks": len(s["chunks"])} for s in seg["sentences"]],
             })
 
-        # Default full edition: intro sting, national, bumper, regional roundup, outro.
+        # Default full edition: intro sting, national, reminder, bumper, regional roundup, outro.
         by_id = {r["id"]: r for r in rendered}
         order = [("file", SONIC["intro"])]
         for seg in approved["segments"]:
-            if seg["block"] in ("intro", "national") and seg["id"] in by_id:
+            if seg["block"] in ("intro", "national", "reminder") and seg["id"] in by_id:
                 order.append(("file", ROOT / by_id[seg["id"]]["file"]))
             if seg["kind"] == "transition":
                 order.append(("file", SONIC["bumper"]))

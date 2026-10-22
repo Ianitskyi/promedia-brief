@@ -140,6 +140,26 @@ def _fraction(whole, frac, noun):
     return f"{fem_whole} {ciler} {cardinal(f, feminine=True)} {tail}", "fraction"
 
 
+UNIT_COMB = {1: "одно", 2: "дво", 3: "три", 4: "чотири", 5: "п'яти", 6: "шести", 7: "семи", 8: "восьми", 9: "дев'яти"}
+TEEN_COMB = {10: "десяти", 11: "одинадцяти", 12: "дванадцяти", 13: "тринадцяти", 14: "чотирнадцяти", 15: "п'ятнадцяти",
+             16: "шістнадцяти", 17: "сімнадцяти", 18: "вісімнадцяти", 19: "дев'ятнадцяти"}
+TENS_COMB = {2: "двадцяти", 3: "тридцяти", 4: "сорока", 5: "п'ятдесяти", 6: "шістдесяти", 7: "сімдесяти", 8: "вісімдесяти",
+             9: "дев'яноста"}
+
+
+def compound(n):
+    """First part of a compound adjective: 43-річний -> «сорокатри» + «річний»."""
+    if n == 100:
+        return "сто"
+    if n < 10:
+        return UNIT_COMB.get(n)
+    if n < 20:
+        return TEEN_COMB[n]
+    if n < 100:
+        return TENS_COMB[n // 10] + (UNIT_COMB[n % 10] if n % 10 else "")
+    return None
+
+
 def spell_numbers(text):
     """Digits -> words with the grammar a listener expects:
     «21 жовтня» -> «двадцять першого жовтня», «2026 року» -> «дві тисячі двадцять шостого року»,
@@ -149,6 +169,8 @@ def spell_numbers(text):
     text = re.sub(r"\b(\d{1,2})\s+(" + _MONTHS + r")\b", lambda m: f"{ordinal(int(m[1]), 'gen')} {m[2]}", text)
     text = re.sub(r"\b(\d+)-(го|му|й|ий|х)\b",
                   lambda m: ordinal(int(m[1]), {"го": "gen", "му": "loc", "х": "plgen"}.get(m[2], "nom")), text)
+    text = re.sub(r"\b(\d{1,3})-(?!(?:го|му|й|ий|х)\b)([а-яіїєґ'’]{3,})",
+                  lambda m: (compound(int(m[1])) + m[2]) if compound(int(m[1])) else m[0], text)
     text = re.sub(r"\b(\d{4})\s+(" + "|".join(_YEAR_CASE) + r")\b",
                   lambda m: f"{ordinal(int(m[1]), _YEAR_CASE[m[2]])} {m[2]}", text)
 
@@ -156,7 +178,7 @@ def spell_numbers(text):
         raw, space, word = re.sub(r"[  ]", "", m[1]), m[2], m[3]
         noun = _NOUN_BY_FORM.get(word.lower()) if space else None
         if "," in raw or "." in raw:
-            whole, frac = re.split(r"[.,]", raw, 1)
+            whole, frac = re.split(r"[.,]", raw, maxsplit=1)
             spoken, kind = _fraction(int(whole), frac.rstrip("0") or "0", noun)
             if noun:
                 word = noun[4] if kind == "fraction" else _plural(int(whole), noun[:3])
@@ -177,6 +199,27 @@ _FEM_ACC = {n[0][:-1] + ("ю" if n[0].endswith("я") else "у") for n in NOUNS i
 
 def load_lexicon():
     return config("lexicon.json")["entries"]
+
+
+def load_stress():
+    try:
+        return config("stress.json")["entries"]
+    except FileNotFoundError:
+        return []
+
+
+STRESS = "\u0301"  # combining acute accent, placed after the stressed vowel
+
+
+def apply_stress(text, entries):
+    """Mark stress in words the engine's own dictionary gets wrong (config/stress.json).
+    Only for engines that read stress marks; the approved display text never changes."""
+    for e in sorted(entries, key=lambda e: -len(e["word"])):
+        tail = r"[\w'’]*" if e.get("prefix") else ""
+        stressed = e["stressed"].replace("+", STRESS)
+        text = re.sub(r"(?<![\w'’])" + re.escape(e["word"]) + r"(?=" + tail + r"(?![\w'’]))",
+                      stressed, text)
+    return text
 
 
 def apply_lexicon(text, entries):
@@ -207,8 +250,10 @@ def transliterate_latin(text):
     return re.sub(r"[A-Za-z]+", word, text)
 
 
-def speech_text(text, entries=None, spell_digits=False, lowercase=False, transliterate=False):
+def speech_text(text, entries=None, spell_digits=False, lowercase=False, transliterate=False, stress=None):
     out = apply_lexicon(text, entries if entries is not None else load_lexicon())
+    if stress:
+        out = apply_stress(out, stress)
     if spell_digits:
         out = spell_numbers(out)
     if transliterate:

@@ -124,7 +124,11 @@ def test_draft_structure_attribution_and_disclosure(drafted):
     nat = [s for s in stories if s["block"] == "national"]
     assert len(nat) == 1  # two outlets, one event
     first = nat[0]["sentences"][0]["text"]
-    assert first == "Кабмін ухвалив постанову про компенсації за зруйноване житло, повідомляє Українська правда."
+    # the outlet is not read after every story; a mid-edition reminder points to the site
+    assert first == "Кабмін ухвалив постанову про компенсації за зруйноване житло."
+    reminder = next(s for s in d["segments"] if s["kind"] == "reminder")
+    assert "BRIEF" in " ".join(x["text"] for x in reminder["sentences"])
+    assert kinds.index("reminder") < kinds.index("transition")
     assert {x["name"] for x in nat[0]["sources"]} == {"Українська правда", "LB.ua"}
     assert any(s["block"] == "local:volyn" for s in stories)
     for seg in stories:  # every sentence traces back to sources

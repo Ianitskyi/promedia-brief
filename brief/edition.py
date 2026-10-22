@@ -340,16 +340,18 @@ def build(date, now=None):
     for i, (c, s) in enumerate(national):
         segs.append(story_segment(c, s, "national", i + 1, must=i < ed_cfg["must_include_national"]))
         evidence.update(s["evidence"])
+    # mid-edition reminder instead of naming the outlet after every story (owner's decision, 2026-10-22)
+    if templates.get("reminder"):
+        segs.append(template_segment("reminder", "reminder", "reminder", templates["reminder"], lexicon))
     segs.append({"id": "transition", "kind": "transition", "block": "transition", "sentences": [], "sound": "bumper"})
     segs.append(template_segment("regional-heading", "heading", "regional", [templates["regional_heading"]], lexicon))
     for i, (c, s) in enumerate(roundup):
         segs.append(story_segment(c, s, "regional", i + 1))
         evidence.update(s["evidence"])
-    for r, picked in local.items():
-        if not picked:
-            continue
-        segs.append(template_segment(f"local-{r}-heading", "heading", f"local:{r}",
-                                     [templates["local_heading"].format(region_name=region_names[r])], lexicon, region=r))
+    headings = templates.get("local_headings") or [templates.get("local_heading", "{region_name}.")]
+    for n, (r, picked) in enumerate((r, p) for r, p in local.items() if p):
+        heading = headings[n % len(headings)].format(region_name=region_names[r])
+        segs.append(template_segment(f"local-{r}-heading", "heading", f"local:{r}", [heading], lexicon, region=r))
         for i, (c, s) in enumerate(picked):
             segs.append(story_segment(c, s, f"local:{r}", i + 1, region=r))
             evidence.update(s["evidence"])

@@ -1,0 +1,15 @@
+{
+  "note": "Наголоси для рушіїв, що приймають позначки наголосу (StyleTTS2). '+' стоїть ПІСЛЯ наголошеної голосної. prefix=true — правило діє й на відмінкові форми (Віткоффа, Віткоффом). Додавайте сюди слова, які диктор наголошує неправильно; автоматичний словник наголосів (ukrainian-word-stress) погано знає іноземні імена.",
+  "entries": [
+    {"word": "Віткофф", "stressed": "Ві+ткофф", "prefix": true},
+    {"word": "Дональд", "stressed": "До+нальд", "prefix": true},
+    {"word": "Сибіг", "stressed": "Сибі+г", "prefix": true},
+    {"word": "Рубіо", "stressed": "Ру+біо", "prefix": false},
+    {"word": "Умєров", "stressed": "Умє+ров", "prefix": true},
+    {"word": "Лиман", "stressed": "Лима+н", "prefix": true},
+    {"word": "Інтер", "stressed": "Інте+р", "prefix": false},
+    {"word": "Інтеру", "stressed": "Інте+ру", "prefix": false},
+    {"word": "Сумах", "stressed": "Сума+х", "prefix": false},
+    {"word": "Львів", "stressed": "Льві+в", "prefix": false}
+  ]
+}
