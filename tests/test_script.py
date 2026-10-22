@@ -53,12 +53,36 @@ def test_extract_claims_types():
     ("Головне за день", False),                            # too short
     ("Атаки РФ на Запоріжжя та область 21 жовтня: що відомо", False),  # teaser
     ("Росіяни атакували «Епіцентр» у Первомайську (оновлено)", True),
+    ("Лідером є Золочівська. Які громади Харківщини зазнали найбільше ударів РФ від початку року", False),
 ])
 def test_headline_sentence(title, ok):
     h = edition.headline_sentence(title)
     assert (h is not None) == ok
     if ok:
         assert h.endswith(".") and "(оновлено)" not in h
+
+
+@pytest.mark.parametrize("title,spoken", [
+    ("США, Україна та Росія розпочнуть тристоронні переговори на “технічному рівні”, – Віткофф",
+     "США, Україна та Росія розпочнуть тристоронні переговори на “технічному рівні”."),
+    ("Київ повертається до графіків відключень після обстрілів — ДТЕК",
+     "Київ повертається до графіків відключень після обстрілів."),
+    ("На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска»",
+     "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска»."),
+])
+def test_headline_cleanup(title, spoken):
+    assert edition.headline_sentence(title) == spoken
+
+
+def test_original_source_named_only_when_others_cite_it(make):
+    tpl = {"spoken_names": {}}
+    a = make(1, "Віткофф заявив про тристоронні переговори", source="Українська правда")
+    b = make(2, "Віткофф анонсував переговори, пише Українська правда", source="LB.ua", url="https://lb.ua/2")
+    c = make(3, "Віткофф анонсував переговори", source="NV", url="https://nv.ua/3")
+    assert edition.original_source([a, b], tpl) == "Українська правда"
+    assert edition.original_source([a, c], tpl) is None
+    d = make(4, "Розслідування: як закуповували генератори", source="Слідство.Інфо", url="https://slidstvo.info/4")
+    assert edition.original_source([d], tpl) == "Слідство.Інфо"
 
 
 def test_lead_sentences_skip_fragments_and_background():
