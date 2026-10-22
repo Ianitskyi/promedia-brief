@@ -21,7 +21,7 @@ on:
         options: [eleven_v3, eleven_multilingual_v2, eleven_v4]
         default: eleven_v3
       confirm_paid:
-        description: "I approve spending ≈ $0.50 of API credits on this demo"
+        description: "I approve spending API credits on this demo (≈6K ElevenLabs credits; ≈$0.50 pay-as-you-go)"
         type: boolean
         default: false
 
@@ -54,6 +54,12 @@ jobs:
           [ -n "$D" ] || D=$(python -c 'import json;print(json.load(open("editions/latest.json"))["date"])')
           test -f "editions/$D/approved.json" || (echo "editions/$D is not approved" && exit 1)
           echo "date=$D" >> "$GITHUB_OUTPUT"
+      - name: Restore already voiced sentences (a re-run does not pay twice)
+        uses: actions/cache/restore@v4
+        with:
+          path: editions/${{ steps.cfg.outputs.date }}/.tts-cache
+          key: demo-tts-${{ inputs.provider }}-${{ inputs.model }}-${{ steps.cfg.outputs.date }}-${{ github.run_id }}
+          restore-keys: demo-tts-${{ inputs.provider }}-${{ inputs.model }}-${{ steps.cfg.outputs.date }}-
       - name: ElevenLabs voices available to this key
         if: inputs.provider == 'elevenlabs'
         env:
@@ -95,6 +101,12 @@ jobs:
           if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID }}"; fi
           python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider "${{ inputs.provider }}" \
             --variant "demo-${{ inputs.provider }}" ${SV:+--service-voice "$SV"}
+      - name: Save voiced sentences, also when the run failed half-way
+        if: always() && steps.cfg.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: editions/${{ steps.cfg.outputs.date }}/.tts-cache
+          key: demo-tts-${{ inputs.provider }}-${{ inputs.model }}-${{ steps.cfg.outputs.date }}-${{ github.run_id }}
       - name: ASR check (audio matches the approved text)
         run: python -m brief verify-audio --date "${{ steps.cfg.outputs.date }}" --variant "demo-${{ inputs.provider }}"
       - name: Keep as demo
