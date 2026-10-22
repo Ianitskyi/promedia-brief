@@ -60,7 +60,8 @@ def cmd_approve(a):
 def cmd_render(a):
     from . import render
 
-    manifest = render.render(a.date, provider_name=a.provider, voice=a.voice)
+    manifest = render.render(a.date, provider_name=a.provider, voice=a.voice, variant=a.variant,
+                             service_voice=a.service_voice)
     keys = ("provider", "voice", "duration_sec", "characters", "estimated_cost_usd", "api_calls", "cached_chunks",
             "elapsed_sec")
     print(json.dumps({k: manifest[k] for k in keys}, indent=2))
@@ -69,8 +70,14 @@ def cmd_render(a):
 def cmd_verify(a):
     from . import verify
 
-    asr = verify.verify(a.date, model_size=a.model, threshold=a.threshold, model_dir=a.model_dir)
+    asr = verify.verify(a.date, model_size=a.model, threshold=a.threshold, model_dir=a.model_dir, variant=a.variant)
     print(json.dumps({k: asr[k] for k in ("model", "mean_cer", "failed")}, ensure_ascii=False, indent=2))
+
+
+def cmd_demo(a):
+    from . import demo
+
+    print(demo.save(a.date, a.variant))
 
 
 def cmd_publish(a):
@@ -118,6 +125,8 @@ def main(argv=None):
     rn.add_argument("--date", required=True)
     rn.add_argument("--provider", default="mock")
     rn.add_argument("--voice")
+    rn.add_argument("--service-voice", help="voice for intro, reminder and outro (default: config, same engine only)")
+    rn.add_argument("--variant", help="render an alternative voicing next to the published one (e.g. a paid demo)")
     rn.set_defaults(fn=cmd_render)
 
     v = sub.add_parser("verify-audio", help="optional: transcribe rendered audio and compare with the script")
@@ -125,7 +134,13 @@ def main(argv=None):
     v.add_argument("--model", default="small")
     v.add_argument("--model-dir")
     v.add_argument("--threshold", type=float, default=0.20)
+    v.add_argument("--variant")
     v.set_defaults(fn=cmd_verify)
+
+    dm = sub.add_parser("demo", help="keep a rendered variant as a permanent demo (demo/, not pruned)")
+    dm.add_argument("--date", required=True)
+    dm.add_argument("--variant", required=True)
+    dm.set_defaults(fn=cmd_demo)
 
     pb = sub.add_parser("publish", help="publish an approved and fully rendered edition")
     pb.add_argument("--date", required=True)

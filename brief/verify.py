@@ -46,11 +46,12 @@ def _load_audio(path):
     return np.frombuffer(raw, np.float32)
 
 
-def verify(date, model_size="small", threshold=DEFAULT_THRESHOLD, model_dir=None):
+def verify(date, model_size="small", threshold=DEFAULT_THRESHOLD, model_dir=None, variant=None):
     from faster_whisper import WhisperModel
 
     approved = load_approved(date)
-    render = load_json(EDITIONS / date / "render.json")
+    manifest = EDITIONS / date / (f"render-{variant}.json" if variant else "render.json")
+    render = load_json(manifest)
     model = WhisperModel(model_size, device="cpu", compute_type="int8", download_root=model_dir)
     texts = {seg["id"]: " ".join(s["text"] for s in seg["sentences"]) for seg in approved["segments"]}
     results, failed = [], []
@@ -65,5 +66,5 @@ def verify(date, model_size="small", threshold=DEFAULT_THRESHOLD, model_dir=None
     render["asr"] = {"model": f"faster-whisper-{model_size}", "threshold": threshold,
                      "mean_cer": round(sum(r["cer"] for r in results) / max(1, len(results)), 3),
                      "failed": failed, "segments": results}
-    write_json(EDITIONS / date / "render.json", render)
+    write_json(manifest, render)
     return render["asr"]

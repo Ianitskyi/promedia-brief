@@ -4,3 +4,6 @@ __pycache__/
 # TTS chunk cache: local/CI only, rebuilt on demand
 editions/*/.tts-cache/
 .tmp-*
+# alternative voicings (paid demos): only demo/ is kept
+editions/*/variants/
+editions/*/render-*.json
