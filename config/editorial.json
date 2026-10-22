@@ -17,6 +17,8 @@
     "max_sentences_per_story": 2,
     "max_words_per_story": 60,
     "approval_mode": "auto",
+    "tts_provider": "styletts2",
+    "tts_voice": "male_2",
     "spoken_attribution": "end",
     "spoken_coverage": false,
     "required_disclosure": [

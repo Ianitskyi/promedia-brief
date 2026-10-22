@@ -1,0 +1,20 @@
+# StyleTTS2 Ukrainian voice (brief/tts/styletts2.py). CPU-only torch keeps the install small.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu
+torchaudio==2.8.0+cpu
+numpy==1.26.4
+scipy==1.17.1
+librosa==0.11.0
+soundfile==0.14.0
+einops==0.8.2
+einops-exts==0.0.4
+munch==4.0.0
+PyYAML==6.0.3
+huggingface_hub==2.2.0
+transformers==5.20.2
+stanza==1.15.0
+marisa-trie==1.4.1
+# pulls ukrainian-accentor from its main branch (it pins it by URL, so it cannot be pinned here)
+ukrainian_word_stress @ git+https://github.com/patriotyk/ukrainian-word-stress.git@d5b37ea0abe9711930d9c3b0b13edec5a0675512
+ipa-uk @ git+https://github.com/patriotyk/ipa-uk.git@3faf05ec50fd4880965b6c76f8e479a4f82117f5
+styletts2-inference @ git+https://github.com/patriotyk/styletts2-inference@209352700cf703a05ff94501290095dd9072fd5f

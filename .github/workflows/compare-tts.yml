@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
     inputs:
       providers:
-        description: "Providers, space-separated (piper google azure openai elevenlabs)"
+        description: "Providers, space-separated (styletts2 piper google azure openai elevenlabs)"
         required: true
-        default: "piper google azure"
+        default: "styletts2 piper google azure"
       confirm_paid:
         description: "I approve spending ≈ $0.15 on paid TTS for this comparison"
         type: boolean
@@ -33,6 +33,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y ffmpeg
           pip install -r requirements.txt piper-tts==1.8.0 faster-whisper==1.2.1
           if [[ " ${{ inputs.providers }} " == *" google "* ]]; then pip install google-cloud-texttospeech; fi
+          if [[ " ${{ inputs.providers }} " == *" styletts2 "* ]]; then pip install -r requirements-styletts2.txt; fi
       - name: Piper voice
         run: |
           mkdir -p "$RUNNER_TEMP/voices"

@@ -60,31 +60,119 @@ def _triad(n, feminine=False):
     return [w for w in words if w]
 
 
-def cardinal(n: int) -> str:
-    """Nominative cardinal. Agreement with the noun is left to the lexicon/editor."""
+def cardinal(n: int, feminine=False) -> str:
+    """Nominative cardinal; feminine=True gives «одна/дві» for nouns like «гривня», «людина»."""
     if n == 0:
         return "нуль"
     parts, scale = [], 0
     while n:
         n, triad = divmod(n, 1000)
         if triad:
-            words = _triad(triad, feminine=(scale == 1))
+            words = _triad(triad, feminine=(scale == 1) or (scale == 0 and feminine))
             if scale:
+                if not n and triad == 1:
+                    words = []  # «тисяча двісті», not «одна тисяча двісті»
                 words.append(_plural(triad, SCALES[scale]))
             parts.insert(0, " ".join(words))
         scale += 1
     return " ".join(parts)
 
 
+ORD_STEMS = {1: "перш", 2: "друг", 3: "трет", 4: "четверт", 5: "п'ят", 6: "шост", 7: "сьом", 8: "восьм",
+             9: "дев'ят", 10: "десят", 11: "одинадцят", 12: "дванадцят", 13: "тринадцят", 14: "чотирнадцят",
+             15: "п'ятнадцят", 16: "шістнадцят", 17: "сімнадцят", 18: "вісімнадцят", 19: "дев'ятнадцят",
+             20: "двадцят", 30: "тридцят", 40: "сороков", 50: "п'ятдесят", 60: "шістдесят", 70: "сімдесят",
+             80: "вісімдесят", 90: "дев'яност", 100: "сот", 200: "двохсот", 300: "трьохсот", 400: "чотирьохсот",
+             500: "п'ятисот", 600: "шестисот", 700: "семисот", 800: "восьмисот", 900: "дев'ятисот"}
+ORD_ENDINGS = {"nom": "ий", "gen": "ого", "loc": "ому", "neut": "е", "plgen": "их"}
+THIRD = {"nom": "третій", "gen": "третього", "loc": "третьому", "neut": "третє", "plgen": "третіх"}
+
+
+def ordinal(n: int, case="nom") -> str:
+    """Masculine ordinal: ordinal(2026, "gen") -> «дві тисячі двадцять шостого» (року)."""
+    if n % 1000 == 0:
+        head = {1000: "тисячн", 2000: "двотисячн", 3000: "тритисячн"}.get(n)
+        return head + ORD_ENDINGS[case] if head else cardinal(n)
+    rest = n % 100 if n % 100 else n % 1000
+    if n % 100 >= 20 and n % 10:
+        rest = n % 10
+    elif n % 100 >= 20:
+        rest = n % 100
+    prefix = cardinal(n - rest) if n - rest else ""
+    word = THIRD[case] if rest == 3 else ORD_STEMS[rest] + ORD_ENDINGS[case]
+    return f"{prefix} {word}".strip()
+
+
+# Nouns that change form after a number: (one, few, many, feminine, form after a fraction).
+NOUNS = [
+    ("гривня", "гривні", "гривень", True, "гривні"),
+    ("тисяча", "тисячі", "тисяч", True, "тисячі"),
+    ("мільйон", "мільйони", "мільйонів", False, "мільйона"),
+    ("мільярд", "мільярди", "мільярдів", False, "мільярда"),
+    ("відсоток", "відсотки", "відсотків", False, "відсотка"),
+    ("кілометр", "кілометри", "кілометрів", False, "кілометра"),
+    ("людина", "людини", "людей", True, "людини"),
+    ("особа", "особи", "осіб", True, "особи"),
+    ("дитина", "дитини", "дітей", True, "дитини"),
+    ("година", "години", "годин", True, "години"),
+    ("хвилина", "хвилини", "хвилин", True, "хвилини"),
+    ("ракета", "ракети", "ракет", True, "ракети"),
+    ("громада", "громади", "громад", True, "громади"),
+    ("область", "області", "областей", True, "області"),
+    ("країна", "країни", "країн", True, "країни"),
+    ("сім'я", "сім'ї", "сімей", True, "сім'ї"),
+    ("одиниця", "одиниці", "одиниць", True, "одиниці"),
+]
+_NOUN_BY_FORM = {f: n for n in NOUNS for f in n[:3]}
+_MONTHS = "|".join(MONTHS_GEN)
+_YEAR_CASE = {"рік": "nom", "року": "gen", "році": "loc", "роки": "nom", "років": "gen", "роках": "loc"}
+_NUM = r"\d{1,3}(?:[  ]\d{3})+(?:,\d+)?|\d+(?:[.,]\d+)?"
+
+
+def _fraction(whole, frac, noun):
+    if frac == "5":
+        return f"{cardinal(whole, feminine=bool(noun and noun[3]))} з половиною", "whole"
+    fem_whole = cardinal(whole, feminine=True)
+    ciler = "ціла" if whole % 10 == 1 and whole % 100 != 11 else "цілих"
+    f = int(frac)
+    denom = {1: "десят", 2: "сот", 3: "тисячн"}.get(len(frac), "тисячн")
+    tail = denom + ("а" if f % 10 == 1 and f % 100 != 11 else "их")
+    return f"{fem_whole} {ciler} {cardinal(f, feminine=True)} {tail}", "fraction"
+
+
 def spell_numbers(text):
+    """Digits -> words with the grammar a listener expects:
+    «21 жовтня» -> «двадцять першого жовтня», «2026 року» -> «дві тисячі двадцять шостого року»,
+    «1 гривень» -> «одна гривня», «2,5 мільярдів» -> «два з половиною мільярди»."""
+    text = re.sub(r"\b(\d{1,2})\s*[–—-]\s*(\d{1,2})\s+(" + _MONTHS + r")\b",
+                  lambda m: f"{ordinal(int(m[1]), 'gen')} – {ordinal(int(m[2]), 'gen')} {m[3]}", text)
+    text = re.sub(r"\b(\d{1,2})\s+(" + _MONTHS + r")\b", lambda m: f"{ordinal(int(m[1]), 'gen')} {m[2]}", text)
+    text = re.sub(r"\b(\d+)-(го|му|й|ий|х)\b",
+                  lambda m: ordinal(int(m[1]), {"го": "gen", "му": "loc", "х": "plgen"}.get(m[2], "nom")), text)
+    text = re.sub(r"\b(\d{4})\s+(" + "|".join(_YEAR_CASE) + r")\b",
+                  lambda m: f"{ordinal(int(m[1]), _YEAR_CASE[m[2]])} {m[2]}", text)
+
     def repl(m):
-        raw = re.sub(r"[  ]", "", m.group(0))
+        raw, space, word = re.sub(r"[  ]", "", m[1]), m[2], m[3]
+        noun = _NOUN_BY_FORM.get(word.lower()) if space else None
         if "," in raw or "." in raw:
             whole, frac = re.split(r"[.,]", raw, 1)
-            return f"{cardinal(int(whole))} кома {cardinal(int(frac))}"
-        return cardinal(int(raw))
+            spoken, kind = _fraction(int(whole), frac.rstrip("0") or "0", noun)
+            if noun:
+                word = noun[4] if kind == "fraction" else _plural(int(whole), noun[:3])
+        else:
+            n = int(raw)
+            spoken = cardinal(n, feminine=bool(noun and noun[3]))
+            if noun:
+                word = _plural(n, noun[:3])
+            elif space and word.lower() in _FEM_ACC and n % 10 == 1 and n % 100 != 11:
+                spoken = spoken[: -len("один")] + "одну"  # «поранили одну людину»
+        return spoken + space + word
 
-    return re.sub(r"\d{1,3}(?:[  ]\d{3})+(?:,\d+)?|\d+(?:[.,]\d+)?", repl, text)
+    return re.sub(r"(" + _NUM + r")(\s*)([\w'’]*)", repl, text)
+
+
+_FEM_ACC = {n[0][:-1] + ("ю" if n[0].endswith("я") else "у") for n in NOUNS if n[3] and n[0][-1] in "ая"}
 
 
 def load_lexicon():
