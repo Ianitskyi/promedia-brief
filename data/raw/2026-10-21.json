@@ -1,9 +1,26 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T22:20:48+00:00",
+  "generated_at": "2026-10-22T01:31:41+00:00",
   "source_count": 127,
-  "item_count": 2855,
+  "item_count": 2875,
   "items": [
+    {
+      "id": "a2bd83c00a2a4726",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433419-inter-sahtar-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu",
+      "title": "«Шахтар» зазнав першої поразки в Лізі чемпіонів, поступившись «Інтеру»: як це було",
+      "published_at": "2026-10-21T20:59:01+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:59:01 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "«Інтер» – «Шахтар» (21 жовтня 2026): онлайн матчу, онлайн трансляція «Інтер» – «Шахтар», текстовий онлайн «Інтер» – «Шахтар» у Лізі чемпіонів з футболу, футбол «Інтер» – «Шахтар» онлайн трансляція Суспільне Спорт",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "8cd56e368f30f7b9",
       "source_id": "slovoidilo",
@@ -55,6 +72,23 @@
       "categories": [
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10ad09c88ad376c4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433575-sahtar-v-bilsosti-prograv-interu-i-zaznav-persoi-porazki-u-sezoni-ligi-cempioniv",
+      "title": "«Шахтар» в більшості програв «Інтеру» і зазнав першої поразки у сезоні Ліги чемпіонів",
+      "published_at": "2026-10-21T20:55:12+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:55:12 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "«Шахтар»: матч третього туру основного раунду Ліги чемпіонів проти «Інтера», як пройшов поєдинок, результат зустрічі, що означає результат «гірників»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -599,6 +633,23 @@
       "status": "new"
     },
     {
+      "id": "f14250ddb1ebe41e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433559-formula-1-zminit-pravila-ekskluzivno-dla-sezonu-2027-u-comu-pricina",
+      "title": "Формула-1 змінить правила ексклюзивно для сезону-2027: у чому причина",
+      "published_at": "2026-10-21T20:28:38+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:28:38 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Формула-1: зменння тривалості гонок на етапах Гран-прі, у чому причина скорочення дистанції, оновлення правил FIA, реакція пілотів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "31ba864d522d0c3e",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -656,6 +707,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "9a0d59c0d9d47918",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433031-sodna-3-4-avto-vid-droniv-gorat-zitta-pid-obstrilami-u-asnogirci-video",
+      "title": "«Щодня 3-4 авто від дронів горять». Життя під обстрілами у Ясногірці (відео)",
+      "published_at": "2026-10-21T20:24:58+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:24:58 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Ясногірці російські авіабомби руйнують будинки, а жителі потерпають від перебоїв із водою та електрикою. Історія подружжя, яке залишається в селищі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1064,6 +1132,23 @@
       "status": "new"
     },
     {
+      "id": "94ac723026784299",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1433565-u-lozovij-trivae-remont-ditacoi-polikliniki-roboti-zaversili-na-70-foto",
+      "title": "У Лозовій триває ремонт дитячої поліклініки: роботи завершили на 70% (фото)",
+      "published_at": "2026-10-21T20:14:34+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:14:34 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Міський голова Лозової Сергій Зеленський повідомив, що ремонтні роботи у дитячій поліклініці виконані на 70%. Договір на ремонт уклали у листопаді 2024 року",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f1eb788610b0bb9f",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -1172,6 +1257,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "de9e97d8c71ec7fe",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1433569-ziteli-23-naselenih-punktiv-odniei-z-gromad-hmelniccini-bez-svitla-cerez-rosijskij-obstril-19-zovtna",
+      "title": "Жителі 23 населених пунктів однієї з громад Хмельниччини без світла через російський обстріл 19 жовтня",
+      "published_at": "2026-10-21T20:02:52+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:02:52 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Жителі 23 населених пунктів Ізяславської громади Хмельницької області дві доби перебувають без світла через російський обстріл 19 жовтня. Тоді було пошкоджено енергетичне обладнання",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1547,6 +1649,23 @@
       "status": "new"
     },
     {
+      "id": "1d1e957fdba8b485",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433563-zitela-kramatorskogo-rajonu-zasudili-do-15-rokiv-za-peredacu-danih-pro-oboronni-sporudi",
+      "title": "Жителя Краматорського району засудили до 15 років за передачу даних про оборонні споруди",
+      "published_at": "2026-10-21T19:47:18+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:47:18 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Жителя селища Малотаранівки засудили до 15 років за передачу окупантами даних про оборонні споруди у Краматорську та своєму селищі. Про це повідомляє прокуратура Донецької області",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d95fdf530843df0a",
       "source_id": "map-93",
       "source": "Новини Донбасу",
@@ -1745,6 +1864,23 @@
       "status": "new"
     },
     {
+      "id": "31c8fdad8449b4c9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433567-tramp-pro-zaversenna-vijni-rf-proti-ukraini-mi-blizce-do-cogo-niz-bud-koli-ranise",
+      "title": "Трамп про завершення війни РФ проти України: ми ближче до цього, ніж будь-коли раніше",
+      "published_at": "2026-10-21T19:40:56+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:40:56 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Трамп заявив, що завершення війни Росії проти України «ближче, ніж будь-коли раніше». Так Трамп прокоментував візит спецпосланця Віткоффа до Росії 21 жовтня",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "36e1e7781eab5b6f",
       "source_id": "nv",
       "source": "NV",
@@ -1854,6 +1990,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b010789b10fec0ca",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433507-diskvalifikacia-do-2048-roku-u-dr-kongo-povtorno-pokarali-trenera-gvaltivnika",
+      "title": "Дискваліфікація до 2048 року: у ДР Конго повторно покарали тренера-ґвалтівника",
+      "published_at": "2026-10-21T19:31:52+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:31:52 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Демократична Республіка Конго: відсторонення тренера молодіжних команд від роботи на 25 років, сексуальне насильство над неповнолітніми",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1979,6 +2132,23 @@
       "categories": [
         "CityLife"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9ebefdb4b0ce7196",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1433557-na-mikolaivsini-rosijskij-dron-atakuvav-34-ricnu-velosipedistku",
+      "title": "На Миколаївщині російський дрон атакував 34-річну велосипедистку",
+      "published_at": "2026-10-21T19:28:52+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:28:52 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "На Миколаївщині російський FPV-дрон на оптоволокні атакував 34-річну жінку, яка їхала велосипедом між Куцурубом і Дмитрівкою. Її госпіталізували",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2563,6 +2733,23 @@
       "status": "new"
     },
     {
+      "id": "ab476febdc5b2b84",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433195-simoh-colovikiv-z-tot-ukraini-suditimut-za-dobrovilnu-sluzbu-v-armii-rf",
+      "title": "Сімох чоловіків з ТОТ України судитимуть за добровільну службу в армії РФ",
+      "published_at": "2026-10-21T19:02:35+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:02:35 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Судитимуть сімох громадян України, які за даними слідства добровільно пішли до армії окупантів та були захоплені Силами Оборони України під час боїв на Покровському на Краматорському напрямках",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2c237b6ccf592fbd",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -2580,6 +2767,40 @@
         "Міжнародна політика",
         "Переговори"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6e69ae2f2551556a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1417161-u-kropivnickomu-pid-cas-povitranoi-trivogi-bulo-cuti-zvuk-vibuhu-9",
+      "title": "У Кропивницькому під час повітряної тривоги було чути звук вибуху",
+      "published_at": "2026-10-21T19:01:25+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:01:25 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "21 жовтня у Кропивницькому під час повітряної тривоги було чути вибухи. Він пролунав о 21:57. На сторінці начальника ОВА Андрія Райковича в Telegram повідомляли про жовтий рівень небезпеки. Це означає дронову загрозу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3f6f493ff6ec62c1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1432819-zaginuli-5-bijciv-z-volini-smert-4-iz-nih-vstanovili-za-ekspertizou-dnk",
+      "title": "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК",
+      "published_at": "2026-10-21T19:01:07+00:00",
+      "published_raw": "Wed, 21 Oct 2026 22:01:07 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Стало відомо про загибель захисників з Волині: Костянтина Клюби з Горохівської громади, лучанина Юрія Андрійчука, Валерія Вороб'я з села Нові Кошари та Віталія Шульги з Торчина, Олексія Андріюка з Зимнівської громади",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2828,6 +3049,29 @@
       "status": "new"
     },
     {
+      "id": "9c0201bd7656c772",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/vorogh-bie-po-vsomu-po-sloviansku-vipadki-urazhiennia-avtivok-volontieriv-niepoodinoki",
+      "title": "Ворог б'є по всьому: по Слов'янську випадки ураження автівок цивільних, волонтерів, ДСНС — непоодинокі",
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "published_raw": "Wed, 21 Oct 2026 19:00:00 GMT",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "По Слов'янську випадки ураження автівок волонтерів непоо",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "18493bef97362d78",
       "source_id": "hromadske-radio",
       "source": "Громадське радіо",
@@ -2936,6 +3180,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dadf3d6df4efe818",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433549-es-proponue-dodatkovo-vnesti-do-sankcij-proti-rosii-se-117-subektiv",
+      "title": "ЄС пропонує додатково внести до санкцій проти Росії ще 117 субʼєктів",
+      "published_at": "2026-10-21T18:57:57+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:57:57 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Євросоюз пропонує країнам-членам додатково внести до списку санкцій проти Росії ще 117 субʼєктів, які забезпечують доходи для агресивної війни Росії проти України",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3079,6 +3340,23 @@
       "categories": [
         "Реклама"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "242695f0098740b9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1433551-na-ternopilsini-22-zovtna-sinoptiki-prognozuut-porivi-vitru",
+      "title": "На Тернопільщині 22 жовтня синоптики прогнозують пориви вітру",
+      "published_at": "2026-10-21T18:54:02+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:54:02 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "На Тернопільщині 22 жовтня синоптики прогнозують хмарну погоду, вдень — короткочасні дощі та пориви вітру до 15–20 метрів за секунду",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3233,6 +3511,40 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9f065d2ab7f30eac",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433543-mu-prograv-14-novacku-ligi-cempioniv-i-prodovziv-seriu-bez-peremog-do-semi-matciv",
+      "title": "МЮ програв 1:4 новачку Ліги чемпіонів і продовжив серію без перемог до семи матчів",
+      "published_at": "2026-10-21T18:46:02+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:46:02 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "«Манчестер Юнайтед»: матч проти «Комо» в Лізі чемпіонів, продовження серії без перемог до семи матчів, розгромна поразка в Лізі чемпіонів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "49536a9102022397",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1433515-u-kievi-do-seredini-grudna-obmezuvatimut-ruh-transportu-de-same",
+      "title": "У Києві до середини грудня обмежуватимуть рух транспорту. Де саме",
+      "published_at": "2026-10-21T18:45:27+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:45:27 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Києві у одному з районів до середини грудня через ремонт обмежуватимуть рух транспорту. Ремонт робитимуть почергово без повного перекриття руху транспорту",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3423,6 +3735,23 @@
       "categories": [
         "Новини Чернівців"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10961cc9ad989f45",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1433497-aki-naslidki-udaru-bezpilotnika-po-kladovisu-v-rivnomu-ta-so-robitimut-z-poskodzenimi-pamatnikami",
+      "title": "Які наслідки удару безпілотника по кладовищу в Рівному та що робитимуть з пошкодженими пам'ятниками",
+      "published_at": "2026-10-21T18:39:36+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:39:36 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Зруйновані могили, пошкоджені пам'ятники та повалені дерева. Такі наслідки удару російського безпілотника 20 жовтня по кладовищу «Нове» у Рівному. Десять захоронень сильно пошкоджені, деякі пам'ятники посічені уламками",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3717,6 +4046,23 @@
       "status": "new"
     },
     {
+      "id": "d3f67f59f31299e5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1433439-zodna-kompensacia-ne-poverne-ditinu-u-cernigovi-apelacijnij-sud-uhvaliv-risenna-u-spravi-policejskoi-oleni-usenko",
+      "title": "«Жодна компенсація не поверне дитину»: у Чернігові апеляційний суд ухвалив рішення у справі поліцейської Олени Ющенко",
+      "published_at": "2026-10-21T18:31:27+00:00",
+      "published_raw": "Wed, 21 Oct 2026 21:31:27 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Батько загиблої у Прилуках під колесами поліцейської автівки 6-річної Аліси Віталій Купрієнко вважає вирок суду першої інстанції справедливим. Про це він сказав 21 жовтня у Чернігівському апеляційному суді",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "aaeff9f3d0d08b37",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -4001,7 +4347,7 @@
       "published_at": "2026-10-21T18:25:26+00:00",
       "published_raw": "Wed, 21 Oct 2026 21:25:26 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Президент Володимир Зеленський заявив , що РФ підтримала зустріч на рівні переговорних команд. За його словами, американська сторона пропонує провести зустріч якомога швидше — орієнтовно в листопаді За його словами, США пропонують",
+      "description": "Зеленський заявив, що РФ, за отриманою від США інформацією, підтримує тристоронні переговори на рівні команд. Україна погоджується провести зустріч якомога швидше — орієнтовно на початку листопада",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -5204,6 +5550,29 @@
       "status": "new"
     },
     {
+      "id": "c4fa54d89ec2d5f4",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/liakh-rozpoviv-chi-budie-u-sloviansku-rozshiriuvatisia-zona-oboviazkovoyi-ievakuatsiyi-rodin-iz-ditmi-i-zastosovuvatisia-primus",
+      "title": "Лях розповів, чи буде у Слов'янську розширюватися зона обов'язкової евакуації родин із дітьми і застосовуватися примус",
+      "published_at": "2026-10-21T18:00:00+00:00",
+      "published_raw": "Wed, 21 Oct 2026 18:00:00 GMT",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Слов'янську планують розширити зону обов'язкової еваку",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Слов’янськ",
+        "Евакуація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "961a186cb0f13f50",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -5621,7 +5990,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/sport/1433463-hotila-bi-prodovzuvati-grati-marta-kostuk-dostrokovo-zaversila-sezon-2026",
-      "title": "«Хотіла би продовжувати грати». Марта Костюк достроково завершила сезон-2026",
+      "title": "«Хотіла би продовжувати грати». Марта Костюк достроково завершила найкращий у кар'єрі сезон-2026",
       "published_at": "2026-10-21T17:50:45+00:00",
       "published_raw": "Wed, 21 Oct 2026 20:50:45 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
@@ -5881,23 +6250,6 @@
       "status": "new"
     },
     {
-      "id": "a2bd83c00a2a4726",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sport/1433419-inter-sahtar-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu",
-      "title": "«Інтер» – «Шахтар»: онлайн трансляція матчу Ліги чемпіонів з футболу",
-      "published_at": "2026-10-21T17:47:12+00:00",
-      "published_raw": "Wed, 21 Oct 2026 20:47:12 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "«Інтер» – «Шахтар» (21 жовтня 2026): онлайн матчу, онлайн трансляція «Інтер» – «Шахтар», текстовий онлайн «Інтер» – «Шахтар» у Лізі чемпіонів з футболу, футбол «Інтер» – «Шахтар» онлайн трансляція Суспільне Спорт",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "f110d9996a32aa79",
       "source_id": "map-844",
       "source": "Ірта-fax",
@@ -5977,10 +6329,10 @@
       "description": "В Івано-Франківську з 18:00 22 жовтня до 06:00 24 жовтня припинять водопостачання у центральній частині міста. Причина — заміна засувок на водопровідних мережах, які необхідні для оперативного усунення аварій, пише КУРС. Про це під час оперативної наради у міського голови повідомив генеральний директор КП «Івано-Франківськводоекотехпром» Сергій Плотніков. За його словами, нині стан частини засувок не […]",
       "categories": [
         "Суспільство",
+        "опалювальний сезон",
         "водопровід",
         "вода",
-        "водопостачання",
-        "опалювальний сезон"
+        "водопостачання"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6226,6 +6578,23 @@
       "published_raw": "Wed, 21 Oct 26 20:40:47 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ce5f2056d17def85",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433529-glava-nbu-pidtverdiv-obsuki-u-primisenni-vidomstva",
+      "title": "Глава НБУ підтвердив обшуки у приміщенні відомства",
+      "published_at": "2026-10-21T17:40:11+00:00",
+      "published_raw": "Wed, 21 Oct 2026 20:40:11 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Керівник Національного банку України (НБУ) Андрій Пишний підтвердив, що у приміщенні Нацбанку НАБУ та САП проводили обшуки. Причина обшуків залишається невідомою",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -7797,7 +8166,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/ivano-frankivsk/1433207-u-akomu-stani-peredaut-tila-vijskovih-u-mezah-repatriacii-so-kazut-u-buro-sudmedekspertizi-na-frankivsini",
-      "title": "У якому стані передають тіла військових у межах репатріації: що кажуть у бюро судмедекспертизи на Франківщині",
+      "title": "В якому стані передають тіла військових у межах репатріації: що кажуть у бюро судмедекспертизи на Франківщині",
       "published_at": "2026-10-21T17:09:11+00:00",
       "published_raw": "Wed, 21 Oct 2026 20:09:11 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
@@ -10363,6 +10732,23 @@
       "status": "new"
     },
     {
+      "id": "ffe8979ab87183fc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433473-kraini-obmezuut-dostup-do-uradovih-vebsajtiv-cerez-zagrozi-kiberatak",
+      "title": "Країни обмежують доступ до урядових вебсайтів через загрози кібератак",
+      "published_at": "2026-10-21T16:22:51+00:00",
+      "published_raw": "Wed, 21 Oct 2026 19:22:51 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Уряди Нідерландів та Фінляндії тимчасово обмежують доступ до офіційних вебсайтів через загрози хакерських атак. Йдеться про сайти, які працюють на системах керування контентом (CMS) WordPress, Drupal, Joomla та Magento",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dd98b2522147be0d",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -10597,6 +10983,23 @@
       "published_raw": "Wed, 21 Oct 2026 19:17:21 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
       "description": "У Рівненській міськраді розглянули петицію про створення у місті кладовища та колумбарію для домашніх тварин, яка набрала понад 250 потрібних підписів. У відповіді авторці повідомили, що питання є «надзвичайно актуальним»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "692cab33b3b94536",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433479-derzborg-velikoi-britanii-vperse-perevisiv-3-triljoni-funtiv",
+      "title": "Держборг Великої Британії вперше перевищив 3 трильйони фунтів",
+      "published_at": "2026-10-21T16:16:32+00:00",
+      "published_raw": "Wed, 21 Oct 2026 19:16:32 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Державний борг Великої Британії вперше в історії перевищив 3 трильйони фунтів стерлінгів. Водночас річна інфляція у вересні прискорилася до 3,5% через подорожчання пального",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -11014,6 +11417,23 @@
       "published_at": "2026-10-21T16:05:51+00:00",
       "published_raw": "Wed, 21 Oct 2026 19:05:51 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Російські війська завдали удару по центру Словʼянська. Поранення дістали пʼятеро людей, серед них дві дитини. Про це повідомив очільник Словʼянської МВА Вадим Лях",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ad89de9c654cd117",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433471-okupanti-obstrilali-centr-slovanske-e-poraneni-sered-nih-diti-lah",
+      "title": "Окупанти обстріляли центр Словʼянське, є поранені, серед них діти — Лях",
+      "published_at": "2026-10-21T16:05:51+00:00",
+      "published_raw": "Wed, 21 Oct 2026 19:05:51 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
       "description": "Російські війська завдали удару по центру Словʼянська. Поранення дістали пʼятеро людей, серед них дві дитини. Про це повідомив очільник Словʼянської МВА Вадим Лях",
       "categories": [],
       "date_issues": [],
@@ -12948,23 +13368,6 @@
       "status": "new"
     },
     {
-      "id": "d3f67f59f31299e5",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1433439-zodna-kompensacia-ne-poverne-ditinu-u-cernigovi-apelacijnij-sud-uhvaliv-risenna-u-spravi-policejskoi-oleni-usenko",
-      "title": "«Жодна компенсація не поверне дитину»: у Чернігові апеляційний суд ухвалив рішення у справі поліцейської Олени Ющенко",
-      "published_at": "2026-10-21T15:31:27+00:00",
-      "published_raw": "Wed, 21 Oct 2026 18:31:27 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Батько загиблої у Прилуках під колесами поліцейської автівки 6-річної Аліси Віталій Купрієнко вважає вирок суду першої інстанції справедливим. Про це він сказав 21 жовтня у Чернігівському апеляційному суді",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "4f87bd7619532ee7",
       "source_id": "map-902",
       "source": "Одеське життя",
@@ -13107,10 +13510,10 @@
       "description": "Калуський міськрайонний суд на Прикарпатті визнав депутата міської ради Тараса Барнича винним у вчиненні смертельної аварії у стані сп’яніння, яка сталася три роки тому. Посадовця засудили до 5 років позбавлення волі з аналогічним терміном заборони керування авто, пише КУРС з посиланням на Вікна. У середу, 21 жовтня, відбулося оголошення вироку депутату Калуської міської ради Тарасу […]",
       "categories": [
         "Суспільство",
+        "п'яний за кермом",
         "вирок",
         "ДТП",
-        "Судова хроніка",
-        "депутат"
+        "Судова хроніка"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -14259,6 +14662,23 @@
       "status": "new"
     },
     {
+      "id": "3be17fb1b92448f8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1432217-oleksandr-zincenko-otrimav-vid-aaksa-propoziciu-trenuvatisa-z-komandou",
+      "title": "«Раді тебе бачити, Олександре». Зінченко тренуватиметься в «Аяксі» на заключному етапі відновлення від травми",
+      "published_at": "2026-10-21T15:08:13+00:00",
+      "published_raw": "Wed, 21 Oct 2026 18:08:13 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Олександр Зінченко: «Аякс» пропонує футболісту збірної України поновити тренування в команді після відновлення від травми, чи обговорюють сторони новий контракт, що відомо про кар'єру Олександра Зінченка після ушкодження",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d14909c9a46df3e7",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -14397,6 +14817,23 @@
         "Су-30",
         "Втрати росіян"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7ac1728ecffbbe09",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433361-u-polsi-nepodalik-kordonu-z-ukrainou-viavili-obekt-shozij-na-dron",
+      "title": "У Польщі неподалік кордону з Україною виявили об'єкт, схожий на дрон",
+      "published_at": "2026-10-21T15:06:27+00:00",
+      "published_raw": "Wed, 21 Oct 2026 18:06:27 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "У польському Любачеві неподалік кордону з Україною виявили об'єкт, схожий на безпілотник. Він розпався під час падіння та, за даними медіа, зачепив житловий будинок. Правоохоронці з'ясовують обставини інцидиденту",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16100,23 +16537,6 @@
       "status": "new"
     },
     {
-      "id": "ce5f2056d17def85",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433529-glava-nbu-pidtverdiv-obsuki-u-primisenni-vidomstva",
-      "title": "Глава НБУ підтвердив обшуки у приміщенні відомства",
-      "published_at": "2026-10-21T14:40:11+00:00",
-      "published_raw": "Wed, 21 Oct 2026 17:40:11 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Керівник Національного банку України (НБУ) Андрій Пишний підтвердив, що у приміщенні Нацбанку НАБУ та САП проводили обшуки. Причина обшуків залишається невідомою",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "54a43bf0bc6a9234",
       "source_id": "map-1253",
       "source": "Полісся News",
@@ -16558,6 +16978,23 @@
       "published_raw": "Wed, 21 Oct 2026 17:31:44 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
       "description": "Детективи НАБУ вилучили гроші, техніку та документи під час обшуків 7 жовтня 2026 року в департаменті містобудування Миколаївської ОВА. ВАКС наклав аршет на вилучене майно",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "898eefbf3385cddf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433381-ukrzaliznica-zapuskae-tri-miznarodni-poizdi-do-polsi-marsruti-ta-rozklad",
+      "title": "«Укрзалізниця» запускає три міжнародні поїзди до Польщі: маршрути та розклад",
+      "published_at": "2026-10-21T14:31:43+00:00",
+      "published_raw": "Wed, 21 Oct 2026 17:31:43 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Укрзалізниця представила три міжнародні поїзди, які сполучатимуть Київ і Дніпро з польськими містами Холм та Перемишль. Один із рейсів отримав статус флагманського та ім'я українського історика Михайла Грушевського",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -19184,6 +19621,23 @@
       "status": "new"
     },
     {
+      "id": "677b43c5e85d4680",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433289-do-polsi-pribula-se-odna-partia-pivdennokorejskih-tankiv-k2-black-panther",
+      "title": "До Польщі прибула ще одна партія південнокорейських танків K2 Black Panther",
+      "published_at": "2026-10-21T13:53:55+00:00",
+      "published_raw": "Wed, 21 Oct 2026 16:53:55 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Підписана 1 серпня 2025 року друга угода передбачала виготовлення та постачання наступної партії зі 180 танків K2 Black Panther та K2PL. Вони замінять радянські T-72 та їхні польські модернізації PT-91 Twardy",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d5956675b4856dd9",
       "source_id": "pravda",
       "source": "Українська правда",
@@ -20171,6 +20625,23 @@
       "categories": [
         "CityLife"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bc630e7c83244ca6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433299-u-nigerii-vperse-zafiksuvali-zavezenij-vipadok-eboli-pid-cas-novogo-spalahu-v-africi",
+      "title": "У Нігерії вперше зафіксували завезений випадок Еболи під час нового спалаху в Африці",
+      "published_at": "2026-10-21T13:36:09+00:00",
+      "published_raw": "Wed, 21 Oct 2026 16:36:09 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "У Нігерії підтвердили зараження вірусом Ебола виду Бундібуґйо. Нині жінка перебуває в ізоляції, а медики відстежують 44 людей, з якими контактувала пацієнтка",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -21559,23 +22030,6 @@
       "status": "new"
     },
     {
-      "id": "ffe8979ab87183fc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433473-kraini-obmezuut-dostup-do-uradovih-vebsajtiv-cerez-zagrozi-kiberatak",
-      "title": "Країни обмежують доступ до урядових вебсайтів через загрози кібератак",
-      "published_at": "2026-10-21T13:22:51+00:00",
-      "published_raw": "Wed, 21 Oct 2026 16:22:51 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Уряди Нідерландів та Фінляндії тимчасово обмежують доступ до офіційних вебсайтів через загрози хакерських атак. Йдеться про сайти, які працюють на системах керування контентом (CMS) WordPress, Drupal, Joomla та Magento",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "ed3d53b6325c5ce2",
       "source_id": "map-1206",
       "source": "Вчасні Новини",
@@ -22243,23 +22697,6 @@
       "status": "new"
     },
     {
-      "id": "692cab33b3b94536",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433479-derzborg-velikoi-britanii-vperse-perevisiv-3-triljoni-funtiv",
-      "title": "Держборг Великої Британії вперше перевищив 3 трильйони фунтів",
-      "published_at": "2026-10-21T13:16:32+00:00",
-      "published_raw": "Wed, 21 Oct 2026 16:16:32 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Державний борг Великої Британії вперше в історії перевищив 3 трильйони фунтів стерлінгів. Водночас річна інфляція у вересні прискорилася до 3,5% через подорожчання пального",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "3d1b5d167988616d",
       "source_id": "map-1060",
       "source": "Сихів.Медіа",
@@ -22488,23 +22925,6 @@
         "постраждалі",
         "Російсько-Українська війна"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "ccac2b20138117ec",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1433157-porohovu-vezu-u-lvovi-planuut-peredati-v-dovgostrokovu-orendu-spilci-arhitektoriv",
-      "title": "Порохову вежу у Львові планують передати в довгострокову оренду Спілці архітекторів",
-      "published_at": "2026-10-21T13:14:23+00:00",
-      "published_raw": "Wed, 21 Oct 2026 16:14:23 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Львівська облрада включила Порохову вежу до переліку майна для оренди без аукціону. Наступний крок — погодження Мінкульту та укладення договору зі Спілкою архітекторів.",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -23084,6 +23504,23 @@
         "Новини | Суспільство",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "896e4b4a2425d42c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433225-u-slovansku-na-5-den-posukiv-z-pid-zavaliv-5-poverhivki-vratuvali-kota-dsns",
+      "title": "У Словʼянську на 5 день пошуків з під завалів 5-поверхівки врятували кота — ДСНС",
+      "published_at": "2026-10-21T13:04:25+00:00",
+      "published_raw": "Wed, 21 Oct 2026 16:04:25 +0300",
+      "fetched_at": "2026-10-21T12:55:55+00:00",
+      "description": "У Словʼянську на місці російського удару по 5-поверховому будинку на пʼятий день пошуків під завалами будинку знайшли кота. Про це повідомляє ДСНС у Донецькій області",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -28269,23 +28706,6 @@
       "status": "new"
     },
     {
-      "id": "3be17fb1b92448f8",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sport/1432217-oleksandr-zincenko-otrimav-vid-aaksa-propoziciu-trenuvatisa-z-komandou",
-      "title": "«Раді тебе бачити, Олександре». Зінченко тренуватиметься в «Аяксі» на заключному етапі відновлення від травми",
-      "published_at": "2026-10-21T12:08:13+00:00",
-      "published_raw": "Wed, 21 Oct 2026 15:08:13 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Олександр Зінченко: «Аякс» пропонує футболісту збірної України поновити тренування в команді після відновлення від травми, чи обговорюють сторони новий контракт, що відомо про кар'єру Олександра Зінченка після ушкодження",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "5921435996a88841",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -28434,23 +28854,6 @@
       "published_raw": "Wed, 21 Oct 2026 15:06:35 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
       "description": "Як змінювалася кількість фізичних та юридичних осіб рф у санкційних пакетах ЕС за роки повномасштабного вторгнення – на інфографіці «Слово і діло».",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "7ac1728ecffbbe09",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433361-u-polsi-nepodalik-kordonu-z-ukrainou-viavili-obekt-shozij-na-dron",
-      "title": "У Польщі неподалік кордону з Україною виявили об'єкт, схожий на дрон",
-      "published_at": "2026-10-21T12:06:27+00:00",
-      "published_raw": "Wed, 21 Oct 2026 15:06:27 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "У польському Любачеві неподалік кордону з Україною виявили об'єкт, схожий на безпілотник. Він розпався під час падіння та, за даними медіа, зачепив житловий будинок. Правоохоронці з'ясовують обставини інцидиденту",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -31576,23 +31979,6 @@
       "status": "new"
     },
     {
-      "id": "898eefbf3385cddf",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433381-ukrzaliznica-zapuskae-tri-miznarodni-poizdi-do-polsi-marsruti-ta-rozklad",
-      "title": "«Укрзалізниця» запускає три міжнародні поїзди до Польщі: маршрути та розклад",
-      "published_at": "2026-10-21T11:31:43+00:00",
-      "published_raw": "Wed, 21 Oct 2026 14:31:43 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Укрзалізниця представила три міжнародні поїзди, які сполучатимуть Київ і Дніпро з польськими містами Холм та Перемишль. Один із рейсів отримав статус флагманського та ім'я українського історика Михайла Грушевського",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "048e429352074d3a",
       "source_id": "map-535",
       "source": "МОСТ",
@@ -34682,23 +35068,6 @@
       "status": "new"
     },
     {
-      "id": "677b43c5e85d4680",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433289-do-polsi-pribula-se-odna-partia-pivdennokorejskih-tankiv-k2-black-panther",
-      "title": "До Польщі прибула ще одна партія південнокорейських танків K2 Black Panther",
-      "published_at": "2026-10-21T10:53:55+00:00",
-      "published_raw": "Wed, 21 Oct 2026 13:53:55 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "Підписана 1 серпня 2025 року друга угода передбачала виготовлення та постачання наступної партії зі 180 танків K2 Black Panther та K2PL. Вони замінять радянські T-72 та їхні польські модернізації PT-91 Twardy",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "80db1e8223393808",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -35936,23 +36305,6 @@
         "Новини",
         "Сафʼянівська громада"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "bc630e7c83244ca6",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1433299-u-nigerii-vperse-zafiksuvali-zavezenij-vipadok-eboli-pid-cas-novogo-spalahu-v-africi",
-      "title": "У Нігерії вперше зафіксували завезений випадок Еболи під час нового спалаху в Африці",
-      "published_at": "2026-10-21T10:36:09+00:00",
-      "published_raw": "Wed, 21 Oct 2026 13:36:09 +0300",
-      "fetched_at": "2026-10-21T18:38:35+00:00",
-      "description": "У Нігерії підтвердили зараження вірусом Ебола виду Бундібуґйо. Нині жінка перебуває в ізоляції, а медики відстежують 44 людей, з якими контактувала пацієнтка",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -37529,6 +37881,23 @@
       "status": "new"
     },
     {
+      "id": "ccac2b20138117ec",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1433157-porohovu-vezu-u-lvovi-planuut-peredati-v-dovgostrokovu-orendu-spilci-arhitektoriv",
+      "title": "Порохову вежу у Львові планують передати в довгострокову оренду Спілці архітекторів",
+      "published_at": "2026-10-21T10:14:23+00:00",
+      "published_raw": "Wed, 21 Oct 2026 13:14:23 +0300",
+      "fetched_at": "2026-10-21T18:38:35+00:00",
+      "description": "Львівська облрада включила Порохову вежу до переліку майна для оренди без аукціону. Наступний крок — погодження Мінкульту та укладення договору зі Спілкою архітекторів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "923b802883417299",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -38034,23 +38403,6 @@
       "categories": [
         "Війна"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "896e4b4a2425d42c",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1433225-u-slovansku-na-5-den-posukiv-z-pid-zavaliv-5-poverhivki-vratuvali-kota-dsns",
-      "title": "У Словʼянську на 5 день пошуків з під завалів 5-поверхівки врятували кота — ДСНС",
-      "published_at": "2026-10-21T10:04:25+00:00",
-      "published_raw": "Wed, 21 Oct 2026 13:04:25 +0300",
-      "fetched_at": "2026-10-21T12:55:55+00:00",
-      "description": "У Словʼянську на місці російського удару по 5-поверховому будинку на пʼятий день пошуків під завалами будинку знайшли кота. Про це повідомляє ДСНС у Донецькій області",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -54851,6 +55203,12 @@
       "fetched": 1561,
       "added": 83,
       "errors": 4
+    },
+    {
+      "at": "2026-10-22T01:31:41+00:00",
+      "fetched": 1726,
+      "added": 20,
+      "errors": 3
     }
   ]
 }

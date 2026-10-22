@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-21T22:20:48+00:00",
-  "source_count": 14,
-  "item_count": 59,
+  "generated_at": "2026-10-22T01:31:41+00:00",
+  "source_count": 19,
+  "item_count": 108,
   "items": [
     {
       "id": "54825b5fe69a9249",
@@ -12,8 +12,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/doplati-zradili-statusu-ni-yak-zhiteli-gromadi-reaguyut-na-status-zoni-mozhlivih-bojovih-dij-article",
       "title": "Доплаті зраділи, статусу — ні: як жителі громади реагують на статус \"зони можливих бойових дій\"",
-      "published_at": "2026-10-21T23:20:02+00:00",
-      "published_raw": "Thu, 22 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-22T02:31:02+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:31:02 +0200",
       "fetched_at": "2026-10-21T22:20:48+00:00",
       "description": "",
       "categories": [
@@ -33,8 +33,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/litayut-droni-pracyuye-ppo-bude-de-shovatisya-dlya-modulnih-mistechok-vstanovili-ukrittya-article",
       "title": "«Літають дрони, працює ППО, буде, де сховатися»: для модульних містечок встановили укриття",
-      "published_at": "2026-10-21T23:20:02+00:00",
-      "published_raw": "Thu, 22 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-22T02:31:02+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:31:02 +0200",
       "fetched_at": "2026-10-21T22:20:48+00:00",
       "description": "",
       "categories": [
@@ -54,8 +54,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/yak-chernigivskij-zhurnalist-ukrayinski-vijskovi-ta-rosiyanin-zmogli-znishiti-ponad-200-vorozhih-sol-article",
       "title": "Як чернігівський журналіст, українські військові та росіянин змогли знищити понад 200 ворожих солдат",
-      "published_at": "2026-10-21T23:20:02+00:00",
-      "published_raw": "Thu, 22 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-22T02:31:02+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:31:02 +0200",
       "fetched_at": "2026-10-21T22:20:48+00:00",
       "description": "",
       "categories": [
@@ -64,6 +64,627 @@
       "date_issues": [
         "future-date"
       ],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "52186a773fc1d2e9",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/rosija-vdarila-balistikoju-po-kijevu-shestero-postrazhdalikh-je-vluchannja-u-dvokh-rajonakh.html",
+      "title": "Росія вдарила балістичними ракетами по Києву: є влучання у двох районах",
+      "published_at": "2026-10-22T01:27:01+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:27:01 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Під удар потрапили приватні будинки, станція техобслуговування та транспортний об’єкт.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "64249c1e9e1ec37e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/vajdel-zajavila-shcho-nimechchini-neobkhidni-deshevi-rosijski-haz-i-nafta.html",
+      "title": "Вайдель заявила, що Німеччині необхідні дешеві російські газ і нафта",
+      "published_at": "2026-10-22T01:26:12+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:26:12 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Аби врятувати промисловість.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4d7e3b5eb2c15b82",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433585-predstavniki-kongresu-pidpisali-lista-iz-zaklikom-dozvoliti-ukraini-zastosovuvati-starlink-proti-rf",
+      "title": "Представники Конгресу підписали листа із закликом дозволити Україні застосовувати Starlink проти РФ",
+      "published_at": "2026-10-22T01:22:16+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:22:16 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Майже 20 конгресменів США підписали групового листа із закликом дозволити Україні використовувати Starlink для ураження місць запуску на території Росії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6426db0cd282092a",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/news/2026/10/22/775178_premier_belgiyi_vidkinuv.html",
+      "title": "Прем'єр Бельгії відкинув відновлення переговорів про передачу Україні заморожених російських активів",
+      "published_at": "2026-10-22T01:18:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:18:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Єврокомісія нібито гарантовано не повернеться до цього питання.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "39748bbce0a147c7",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4176898-tramp-zaaviv-so-zaversenna-vijni-v-ukraini-blizce-niz-budkoli-ranise.html",
+      "title": "Трамп заявив, що завершення війни в Україні ближче, ніж будь-коли раніше",
+      "published_at": "2026-10-22T01:18:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:18:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Президент США Дональд Трамп вважає, що російсько-українська війна зараз ближче до завершення, ніж будь-коли раніше.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "646c4d9cac16ac8a",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/stalo-vidome-imya-meshkanki-borivshini-vbitoyi-vorozhoyu-kerovanoyu-aviabomboyu",
+      "title": "Стало відоме ім’я мешканки Борівщини, вбитої ворожою керованою авіабомбою",
+      "published_at": "2026-10-22T01:16:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:16:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Село Піски-Радьківські Борівської громади Ізюмського району Харківської області. Населення за останніми підрахунками — 400 осіб, населення до війни — 2507 осіб. Немає жодного військового об’єкту. Серед мешканців — хлібороби, рибарі (поруч — Оскільське водосховище), тваринники. 10 керованих авіабомб спрямували іноземні загарбники на це село. Гатили по хатах місцевих мешканців. По городах. По сараях. І таки добилися свого — вбили прекрасну, чуйну, добру і вродливу людину.",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7823f826db788602",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/lideri-jes-obhovorjat-na-samiti-finansuvannja-ukrajini-na-2027-rik.html",
+      "title": "Лідери ЄС обговорять на саміті фінансування України на 2027 рік",
+      "published_at": "2026-10-22T01:12:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:12:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Навіть із запланованою допомогою Києву бракуватиме близько 70 мільярдів євро наступного року.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1b97b35cbdb2c497",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-rf-na-ukrajinu-22-zhovtnya-povitryani-sili-povidomili-pro-zagrozu-bpla-mapa-povitryanih-trivog-50652263.html",
+      "title": "Нічна атака РФ: у низці областей оголошено тривогу через загрозу БПЛА, по Києву росіяни вдарили балістикою, є влучання у Харкові",
+      "published_at": "2026-10-22T01:10:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:10:00 +0300",
+      "fetched_at": "2026-10-21T22:20:48+00:00",
+      "description": "У ніч проти четверга, 22 жовтня, російські війська продовжили атаку на Україну ударними безпілотниками. У низці областей оголосили повітряну тривогу. По Києву окупанти кілька разів вдарили балістикою.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7dc89dcb9bdd1960",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-harkiv-pozhezha-ta-poshkodzhennya-vnaslidok-udaru-bpla-v-slobidskomu-rayoni-50652273.html",
+      "title": "Росіяни вдарили реактивним БПЛА по Харкову: пошкоджено приватні будинки, спалахнула пожежа",
+      "published_at": "2026-10-22T01:04:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 04:04:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У ніч проти четверга, 22 жовтня, російські війська вдарили реактивним безпілотником по приватному сектору Слобідського району Харкова.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8bfbdc2a0aaad407",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/22/novyna/polityka/tramp-xoche-pidpysannya-myrnoyi-uhody-mizh-ukrayinoyu-ta-rf-samiti-g20-the-atlantic",
+      "title": "Трамп хоче підписання мирної угоди між Україною та рф на саміті G20 – The Atlantic",
+      "published_at": "2026-10-22T00:58:31+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:58:31 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Президент США Дональд Трамп, за даними The Atlantic, прагне домогтися мирної угоди між Україною та росією до грудневого саміту G20 у Маямі та може посилити тиск на Київ.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e2acaa519d8cfbb6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/kyiv/u-kiyevi-ogolosili-trivogu-cherez-zagrozu-balistiki-50652248.html",
+      "title": "Нічний масований удар по Києву: РФ кілька разів атакувала столицю балістикою, влучання зафіксовані у трьох районах, шестеро постраждалих",
+      "published_at": "2026-10-22T00:58:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:58:00 +0300",
+      "fetched_at": "2026-10-21T22:20:48+00:00",
+      "description": "Ввечері середи та у ніч проти четверга, 22 жовтня, армія РФ кілька разів атакувала Київ балістикою. Влучання зафіксовані у Дніпровському, Дарницькому та Печерському районах. Щонайменше шестеро людей постраждали.",
+      "categories": [
+        "Київ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4e0325b031ccbab9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4176897-balisticna-ataka-na-kiiv-u-pecerskomu-rajoni-poskodzenij-medzaklad.html",
+      "title": "Балістична атака на Київ: у Печерському районі пошкоджений медзаклад",
+      "published_at": "2026-10-22T00:58:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:58:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Печерському районі Києва через балістичну атаку РФ пошкоджена будівля медичного закладу.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b2cdc4d08dbf91c4",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1224194.html",
+      "title": "Сибіга окреслив послам пріоритети: ППО, енергетика, санкції та відкриття переговорних кластерів з ЄС",
+      "published_at": "2026-10-22T00:53:20+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:53:20 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Міністр закордонних справ України Андрій Сибіга провів онлайн-нараду з послами України в усьому світі, під час якої визначив пріоритети роботи дипломатів на найближчий час.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e13256a12344a37",
+      "source_id": "map-573",
+      "source": "А.С.С.",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://acc.cv.ua/news/storystorynka/smachno/ne-lishe-oliya-scho-dodati-do-yaechni-schob-vona-ne-bula-suhoyu-122913",
+      "title": "Не лише олія: що додати до яєчні, щоб вона не була сухою",
+      "published_at": "2026-10-22T00:38:57+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:38:57 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Кілька крапель води та кришка допоможуть зробити страву ніжнішою, а жовток залишити м’яким.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "38852ee960fcd8b5",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4176698-apelacijnij-sud-zalisiv-dovicne-vijskovomu-rf-za-stratu-ukrainskih-polonenih-u-vovcansku.html",
+      "title": "Апеляційний суд залишив довічне військовому РФ за страту українських полонених у Вовчанську",
+      "published_at": "2026-10-22T00:34:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:34:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Апеляційний суд залишив довічний вирок без змін російському військовому Сергію Тужилову з позивним “Алтай”, причетному до вбивства трьох українських полонених на території Вовчанського агрегатного заводу.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "59b8d06b7e919945",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/plani-rosiji-shchodo-ukrajini-sergiy-korsunskiy-nagadav-vimogi-putina-50652226.html",
+      "title": "«Хоче не лише Донбас». Корсунський нагадав, до чого насправді прагне Путін",
+      "published_at": "2026-10-22T00:31:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:31:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Надзвичайний і повноважний посол України Сергій Корсунський в ефірі Radio NV нагадав, чого насправді хоче російський диктатор Володимир Путін.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "33154f2b6c87c291",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1433589-sonajmense-sestero-postrazdalih-naslidki-ataki-na-kiiv-21-zovtna",
+      "title": "Щонайменше шестеро постраждалих: наслідки атаки на Київ 21 жовтня",
+      "published_at": "2026-10-22T00:21:31+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:21:31 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "21 жовтня Росія вчергове завдала удару по Києву: щонайменше 6 людей поранені, постраждали приватні будинки та об'єкт транспортної інфраструктури",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0e5d11703109bcad",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/putin-mozhe-mati-kompromat-na-trampa-hillari-klinton.html",
+      "title": "Путін може мати компромат на Трампа — Гілларі Клінтон",
+      "published_at": "2026-10-22T00:19:59+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:19:59 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Путін знає про Трампа те, чого поки що не знають американці.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73e68954ee3f1c11",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/22/novyna/bezpeka/kyyiv-vkotre-nich-masovano-obstrilyaly-balistykoyu",
+      "title": "Київ вкотре за ніч масовано обстріляли балістикою",
+      "published_at": "2026-10-22T00:18:58+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:18:58 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Уночі 22 жовтня Повітряні сили ЗСУ кілька разів повідомляли про балістичні ракети в напрямку Києва. Мешканців закликали перебувати в укриттях.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "01fa7bb62dcbcaee",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/fire-point-otrimaje-harantiju-daniji-na-kredit-u-112-6-mln.html",
+      "title": "Fire Point отримає гарантію Данії на кредит у $112,6 млн",
+      "published_at": "2026-10-22T00:17:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:17:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Підприємство з випуску палива для далекобійних ракет планують запустити до кінця 2027 року.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ae77cdd167384070",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-viyska-prosunulis-u-ray-oleksandrivci-ta-poblizu-vilnogo-situaciya-u-doneckiy-oblasti-50652271.html",
+      "title": "Росіяни просунулись у Рай-Олександрівці та поблизу Вільного на Донеччині — DeepState",
+      "published_at": "2026-10-22T00:15:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:15:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Російські війська просунулися в селі Рай-Олександрівка Краматорського району та поблизу села Вільне Покровського району Донецької області.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d65ade965d095f72",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1224192.html",
+      "title": "Бельгійський прем'єр переконаний, що ЄС не повернеться до ідеї використання заморожених активів РФ для України",
+      "published_at": "2026-10-22T00:10:49+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:10:49 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Прем'єр-міністр Бельгії Барт Де Вевер заявив, що Єврокомісія не пропонуватиме нових механізмів використання заморожених російських активів для покриття фінансових потреб України.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86451a85d5191e1c",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/metamfetamin-dnipro-pidozra",
+      "title": "У Дніпрі шістьох людей підозрюють у виготовленні та продажу наркотиків",
+      "published_at": "2026-10-22T00:07:24+00:00",
+      "published_raw": "Thu, 22 Oct 2026 00:07:24 +0000",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "The post У Дніпрі шістьох людей підозрюють у виготовленні та продажу наркотиків appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "прокуратура"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "5273ac94c2fc0071",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/22/775174_rosiyani_atakuyut_kiyiv.html",
+      "title": "Росіяни атакують Київ \"Цирконами\" та \"Іскандерами\" (доповнено)",
+      "published_at": "2026-10-22T00:02:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:02:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У столиці знову лунали вибухи.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f4c42f5d34900c0",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/22/8059161",
+      "title": "Росіяни обстріляли Київ балістикою: пошкоджений медзаклад",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:00:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Вночі 22 жовтня Росія завдала ракетного удару по Києву. У Печерському районі пошкоджено медичний заклад",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "49c1dec21a715687",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-economy/4176705-britania-shvalila-rozrobku-novogo-gazovogo-rodovisa-u-pivnicnomu-mori.html",
+      "title": "Британія схвалила розробку нового газового родовища у Північному морі",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 03:00:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Після багаторічних судових суперечок уряд Великої Британії повторно схвалив проєкт розробки нового великого газового родовища у Північному морі.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c913c426e02d4a82",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/22/novyna/svit/italiya-pereviryaye-mozhlyvyj-rosijskyj-slid-masovyx-zavorushennyax-yevropi-zmi",
+      "title": "Італія перевіряє можливий російський слід у масових заворушеннях у Європі – ЗМІ",
+      "published_at": "2026-10-21T23:58:43+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:58:43 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Італійська влада з’ясовує, чи могли росія або інші іноземні сили впливати на насильницькі протести в Мілані та інших містах Європи. У Мілані планують залучити 500 військових.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2c7a16d3b6de6e10",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/22/775176_rodichi_kolishnogo.html",
+      "title": "Родичі колишнього президента-республіканця Джорджа Буша підтримали на виборах демократа",
+      "published_at": "2026-10-21T23:58:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:58:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Техасі запекла битва за крісло сенатора.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "64887a2eb66bf788",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/zavorushennya-u-franciji-17-zhovtnya-za-diyami-black-bloc-stojit-melanshon-50652160.html",
+      "title": "За заворушеннями black bloc у Франції, які скористались протестами ліцеїстів, стоїть Меланшон — журналістка",
+      "published_at": "2026-10-21T23:34:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:34:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Політична оглядачка Оксана Мельничук розповіла в інтерв'ю Radio NV, що за заворушеннями у Франції 17 жовтня стоїть лідер ультралівої партії Нескорена Франція Жан-Люк Меланшон.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "030cc7344d4004bb",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/22/novyna/polityka/polshha-zaperechyla-zupynku-vijskovoyi-dopomohy-ukrayini-cherez-rishennya-lvivskoyi-oblrady-shhodo-upa",
+      "title": "Польща заперечила інформацію про зупинку допомоги Україні через рішення Львівської облради щодо УПА",
+      "published_at": "2026-10-21T23:33:37+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:33:37 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Польща заперечила призупинення військової допомоги Україні через рішення Львівської облради оголосити 2027 рік роком УПА, Романа Шухевича та Олега Ольжича.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "32e9b3b2504d806c",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/topnews/u-kremenchuczi-rosijskyj-bezpilotnyk-atakuvav-budivlyu-teleradiokompaniyi-ova.html",
+      "title": "У Кременчуці російський безпілотник атакував будівлю телерадіокомпанії — ОВА",
+      "published_at": "2026-10-21T23:32:22+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:32:22 +0000",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Внаслідок удару виникла пожежа. За попередніми даними, люди не постраждали Сообщение У Кременчуці російський безпілотник атакував будівлю телерадіокомпанії — ОВА появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Війна",
+        "Топ новина",
+        "атака",
+        "наслідки атаки"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e422083112423b3a",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/22/8059158",
+      "title": "Біля заводу \"Шахедів\" у Татарстані розгорнули ППО, як навколо резиденції Путіна на Валдаї – ЗМІ",
+      "published_at": "2026-10-21T23:22:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:22:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Навколо особливої економічної зони \"Алабуга\" в Татарстані, де Росія виробляє ударні дрони \"Герань\", із весни 2026 року облаштували щонайменше 33 позиції протиповітряної оборони.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4ca2e75773079241",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/vidnosini-ssha-ta-rosiji-yak-usi-prezidenti-ssha-druzhili-z-putinim-50651818.html",
+      "title": "Без моралі. Як президенти США дружили з Росією",
+      "published_at": "2026-10-21T23:21:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:21:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Ми просто вирішили, що США — такі ж, як у голлівудських фільмах. Героїчні, справедливі, за демократію. А насправді ніякої моралі та відданості демократії там давно немає",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
       "content_signals": {},
       "status": "new"
     },
@@ -173,6 +794,256 @@
       "status": "new"
     },
     {
+      "id": "cdd35cfd0d7399b3",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4176754-rosia-perevirae-mezi-patoi-statti-nato-premer-litvi.html",
+      "title": "Росія перевіряє межі п’ятої статті НАТО - прем’єр Литви",
+      "published_at": "2026-10-21T23:19:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:19:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "РФ випробовує межі колективної оборони НАТО, вдаючись до атак, які не досягають рівня, що змусив би Альянс активувати статтю 5 Північноатлантичного договору.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3387827c7878c327",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433583-svecia-rozgladae-mozlivist-vidmovlati-rosijskim-i-biloruskim-sportsmenam-u-vizah",
+      "title": "Швеція розглядає можливість відмовляти російським і білоруським спортсменам у візах",
+      "published_at": "2026-10-21T23:06:29+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:06:29 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Швеція розглядає можливість відмовляти у видачі віз російським і білоруським спортсменам, які хочуть узяти участь у міжнародних спортивних змаганнях на її території",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "80cad69ec8af2639",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/325334-kurkuma-chyli-10-hodyn-roboty-indiiskyi-khudozhnyk-vstanovyv-svitovyi",
+      "title": "Куркума, чилі та 10 годин роботи, — індійський художник встановив світовий рекорд",
+      "published_at": "2026-10-21T23:03:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:03:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Індійський художник Амар Кале створив картину площею понад 175 квадратних метрів із порошку чилі та куркуми",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "590c1b183359090d",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/plots/putin/u-kremenchuczi-bulo-chutno-vybuh-4.html",
+      "title": "У Кременчуці було чутно вибух",
+      "published_at": "2026-10-21T23:01:23+00:00",
+      "published_raw": "Wed, 21 Oct 2026 23:01:23 +0000",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Військові попереджали про рух безпілотника Сообщение У Кременчуці було чутно вибух появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Війна",
+        "Топ новина",
+        "війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d9972b44218ae8e1",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/zimovij-chas-jaka-bude-riznitsja-z-polshcheju-ta-nimechchinoju.html",
+      "title": "Зимовий час: яка буде різниця з Польщею та Німеччиною",
+      "published_at": "2026-10-21T23:00:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 02:00:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У неділю українці знову переведуть годинники.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "972b2f4a31da189f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1224190.html",
+      "title": "Кабмін планує до кінця тижня ухвалити оновлені правила бронювання – Кисилевський",
+      "published_at": "2026-10-21T22:57:27+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:57:27 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Кабінет міністрів планує до кінця тижня ухвалити постанову про оновлення правил бронювання військовозобов'язаних, повідомив заступник голови парламентського комітету з питань економічного розвитку Дмитро Кисилевський.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0838ebd8d070ec24",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/22/775172_zmi_tramp_hoche_pidpisannya.html",
+      "title": "ЗМІ: Трамп хоче підписання мирної угоди між Росією та Україною на саміті G20 у Маямі",
+      "published_at": "2026-10-21T22:49:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:49:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Для цього президент США нібито готовий і надалі тиснути на Україну.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f40797e88f047ac3",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4176850-u-niderlandah-masovo-vidklucili-sajti-cerez-viavleni-kriticni-vrazlivosti.html",
+      "title": "У Нідерландах масово відключили сайти через виявлені критичні вразливості",
+      "published_at": "2026-10-21T22:47:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:47:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Нідерландах відбулося масове відключення сайтів через загрозу злому на тлі критичних уразливостей у мові програмування PHP.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9eb70c2798d7d843",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/ssha-vivozyat-chastinu-diplomativ-iz-saudivskoji-araviji-na-tli-atak-husitiv-50652267.html",
+      "title": "США наказали частині дипломатів залишити Саудівську Аравію через атаки хуситів",
+      "published_at": "2026-10-21T22:46:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:46:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Держдепартамент США наказав частині американських дипломатів і членам їхніх родин залишити Саудівську Аравію на тлі посилення атак єменських хуситів. Також Вашингтон планує вивезти членів сімей співробітників із низки інших американських представництв у регіоні.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "645c82661ffba6d8",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/699827-ukrajinska-premjer-liha-rezultati-usikh-matchiv-10-ho-turu-video-holiv-onovljujetsja.html",
+      "title": "Українська Прем'єр-ліга: результати усіх матчів 10-го туру, відео голів (оновлюється)",
+      "published_at": "2026-10-21T22:39:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:39:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "В Україні триває футбольний сезон.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "05aa9644aa10b0b2",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/slovachchina-povertajetsja-do-rosiji-za-hazom-i-naftoju.html",
+      "title": "Словаччина повертається до Росії за газом і нафтою",
+      "published_at": "2026-10-21T22:36:52+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:36:52 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Словаччина готує переговори з Росією.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dd6c4a5622765708",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/tristoronnya-zustrich-putina-trampa-i-zelenskogo-korsunskiy-prognozuye-vidmovu-diktatora-rf-50652221.html",
+      "title": "«Бачить, що США ослаблені». Путін не піде на тристоронню зустріч з Трампом і Зеленським — Корсунський",
+      "published_at": "2026-10-21T22:29:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:29:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Російський диктатор Володимир Путін не погодиться на тристоронню зустріч з президентом США Дональдом Трампом та президентом України Володимиром Зеленським, заявив в інтерв'ю Radio NV надзвичайний і повноважний посол України Сергій Корсунський.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1b2fc27d8bc63e1a",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/22/775170_papa_rimskiy_potrebuie.html",
+      "title": "Папа Римський не потребує подальшого лікування після операції на легенях",
+      "published_at": "2026-10-21T22:20:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:20:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Аналізи підтвердили, що видалення уражених раком тканин було достатньо для повного одужання понтифіка.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "9cb4d1d2976d7cb7",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -211,25 +1082,6 @@
       "status": "new"
     },
     {
-      "id": "1b97b35cbdb2c497",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/ataka-rf-na-ukrajinu-22-zhovtnya-povitryani-sili-povidomili-pro-zagrozu-bpla-mapa-povitryanih-trivog-50652263.html",
-      "title": "Нічна атака РФ: у низці областей оголошено тривогу через загрозу БПЛА, по Києву росіяни вдарили балістикою",
-      "published_at": "2026-10-21T22:10:00+00:00",
-      "published_raw": "Thu, 22 Oct 2026 01:10:00 +0300",
-      "fetched_at": "2026-10-21T22:20:48+00:00",
-      "description": "У ніч проти четверга, 22 жовтня, російські війська продовжили атаку на Україну ударними безпілотниками. У низці областей оголосили повітряну тривогу. По Києву окупанти вдарили балістикою.",
-      "categories": [
-        "Україна/Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "ef4b7ed9347ae052",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -243,6 +1095,25 @@
       "description": "Суд призначив покарання у вигляді 15 років увʼязнення з конфіскацією майна жителю Донецької області, який відстежував для російських спецслужб позиції Сил оборони України для подальших ударів.",
       "categories": [
         "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "848f1e558421104a",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/22/8059152",
+      "title": "США скорочують присутність військ і дипломатів на Близькому Сході через війну з Іраном – NBC",
+      "published_at": "2026-10-21T22:05:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 01:05:00 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Сполучені Штати зменшують військову присутність та штат дипломатів у регіоні на тлі потенційної ескалації з Іраном, повідомляє NBC News.",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -422,6 +1293,23 @@
       "status": "new"
     },
     {
+      "id": "89a10ea91349ecff",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433581-u-minoboroni-polsi-sprostuvali-zaavi-pro-prizupinenna-dopomogi-ukraini",
+      "title": "У Міноборони Польщі спростували заяви про призупинення допомоги Україні",
+      "published_at": "2026-10-21T21:44:50+00:00",
+      "published_raw": "Thu, 22 Oct 2026 00:44:50 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "У Міноборони Польщі спростували заяви, нібито Польща призупинила постачання Україні великого пакета військової допомоги через рішення Львівської облради",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "265ef5202fc49daf",
       "source_id": "lb",
       "source": "LB.ua",
@@ -510,6 +1398,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "be1c8ac9c1910d0a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1433571-persa-porazka-sahtara-liderstvo-psz-rezultati-i-tablica-ligi-cempioniv-pisla-tretogo-turu",
+      "title": "Перша поразка «Шахтаря», лідерство ПСЖ: результати і таблиця Ліги чемпіонів після третього туру",
+      "published_at": "2026-10-21T21:27:03+00:00",
+      "published_raw": "Thu, 22 Oct 2026 00:27:03 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Ліга чемпіонів: матчі третього туру основного раунду Ліги чемпіонів, результати усіх поєдинків другого дня, підсумкова турнірна таблиця",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -871,6 +1776,23 @@
       "status": "new"
     },
     {
+      "id": "b514d422fa9bb797",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1416357-zvilnenna-teritorij-bila-limana-boi-za-kostantinivku-front-doneccini-i-lugansini-22-zovtna-2026-roku",
+      "title": "Звільнення територій біля Лимана, бої за Костянтинівку. Фронт Донеччини і Луганщини 22 жовтня 2026 року",
+      "published_at": "2026-10-21T21:14:04+00:00",
+      "published_raw": "Thu, 22 Oct 2026 00:14:04 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Що відбувається на фронті на Донбасі, бої за міста Донеччини, лінія фронту на Луганщині, дані Генштабу, коментарі військових, відео та фото",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ac5756ec0adadde8",
       "source_id": "nv",
       "source": "NV",
@@ -903,25 +1825,6 @@
       "description": "Кількість постраждалих унаслідок вечірньої ракетної атаки РФ на Київ в середу зросла до шести; також зафіксовано влучання на території об'єкта транспортної інфраструктури, повідомив міський голова Віталій Кличко.",
       "categories": [
         "Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "e2acaa519d8cfbb6",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/kyiv/u-kiyevi-ogolosili-trivogu-cherez-zagrozu-balistiki-50652248.html",
-      "title": "Росія атакувала Київ балістикою: влучання зафіксовані у двох районах, пошкоджено АЗС і будинки, шестеро постраждалих",
-      "published_at": "2026-10-21T21:11:00+00:00",
-      "published_raw": "Thu, 22 Oct 2026 00:11:00 +0300",
-      "fetched_at": "2026-10-21T22:20:48+00:00",
-      "description": "Ввечері середи, 21 жовтня, армія РФ атакувала Київ балістикою. У столиці пролунала серія вибухів. Влучання зафіксовані у Дніпровському та Дарницькому районах. Щонайменше шестеро людей постраждали.",
-      "categories": [
-        "Київ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -1084,6 +1987,23 @@
       "status": "new"
     },
     {
+      "id": "551829351bc69385",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1433573-ukraina-pogodilas-na-tristoronnu-zustric-komand-rf-vdarila-po-kievu-balisticnou-raketou-1702-den-vijni",
+      "title": "Україна погодилась на тристоронню зустріч команд, РФ вдарила по Києву балістичною ракетою. 1702 день війни",
+      "published_at": "2026-10-21T21:05:32+00:00",
+      "published_raw": "Thu, 22 Oct 2026 00:05:32 +0300",
+      "fetched_at": "2026-10-22T01:31:41+00:00",
+      "description": "Через удар балістичною ракетою по Києву наразі відомо про щонайменше двох поранених. Україна, як і Росія, погодились на зустріч на рівні команд",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d5a307a84a7cd621",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1113,7 +2033,7 @@
       "published_at": "2026-10-21T21:05:00+00:00",
       "published_raw": "Thu, 22 Oct 2026 00:05:00 +0300",
       "fetched_at": "2026-10-21T22:20:48+00:00",
-      "description": "У Дніпровському районі Києва внаслідок ворожого удару пошкоджені приватні житлові будинки та АЗС, є постраждалі.",
+      "description": "У Дніпровському районі Києва внаслідок ворожого удару пошкоджені приватні житлові будинки та АЗС, є постраждалі. (Оновлено о 03:00 - додано фото).",
       "categories": [
         "Регіони"
       ],
@@ -1163,19 +2083,14 @@
   ],
   "errors": [
     {
-      "source": "Суспільне Новини",
-      "feed": "https://suspilne.media/rss/all.rss",
-      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
-    },
-    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
     },
     {
-      "source": "Радіо «Накипіло»",
-      "feed": "https://radio.nakypilo.ua/feed/",
-      "error": "https://radio.nakypilo.ua/feed/: HTTP 503 <!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>503 Service Unavailable</title>\n</head><body>\n<h1>Service Unavailable</h1>\n<p>The server is temporarily unable to service your\nrequest due to maintenance downtime or capacity\nproblems. Pl"
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
     },
     {
       "source": "Еспресо: Біла Церква",
@@ -1189,6 +2104,12 @@
       "fetched": 60,
       "added": 59,
       "errors": 4
+    },
+    {
+      "at": "2026-10-22T01:31:41+00:00",
+      "fetched": 103,
+      "added": 49,
+      "errors": 3
     }
   ]
 }
