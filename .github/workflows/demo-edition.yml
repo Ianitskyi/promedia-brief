@@ -93,12 +93,12 @@ jobs:
           BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '1.00' }}
           BRIEF_ELEVENLABS_MODEL: ${{ inputs.model }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID }}  # either place works
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
         run: |
           SV=""
-          if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID }}"; fi
+          if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID || secrets.ELEVENLABS_SERVICE_VOICE_ID }}"; fi
           python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider "${{ inputs.provider }}" \
             --variant "demo-${{ inputs.provider }}" ${SV:+--service-voice "$SV"}
       - name: Save voiced sentences, also when the run failed half-way
@@ -123,7 +123,8 @@ jobs:
           git add demo
           git diff --cached --quiet && exit 0
           git commit -m "Demo edition ${{ steps.cfg.outputs.date }} (${{ inputs.provider }})"
-          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          B="${{ github.ref_name }}"  # main, or the branch the demo was started from
+          for i in 1 2 3; do git pull --rebase origin "$B" && git push origin "HEAD:$B" && exit 0; sleep $((i*5)); done
           exit 1
       - name: Summary
         if: always()
