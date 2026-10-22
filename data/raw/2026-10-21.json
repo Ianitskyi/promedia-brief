@@ -1,8 +1,8 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-22T07:34:54+00:00",
+  "generated_at": "2026-10-22T13:47:51+00:00",
   "source_count": 127,
-  "item_count": 2879,
+  "item_count": 2880,
   "items": [
     {
       "id": "a2bd83c00a2a4726",
@@ -7817,7 +7817,7 @@
       "geography": "regional",
       "source_region": "ivano-frankivsk",
       "url": "https://kl.informator.ua/uk/shmatok-za-shmatkom-11-sotok-zemli-na-vul-sichovih-strilciv-vlada-kolomiji-viklala-na-aukcion",
-      "title": "Шматок за шматком: 11 соток землі на вул. Січових стрільців влада Коломиї виклала на аукціон",
+      "title": "Шматок за шматком: 11 соток землі на вул. Січових Стрільців влада Коломиї виклала на аукціон",
       "published_at": "2026-10-21T17:16:23+00:00",
       "published_raw": "Wed, 21 Oct 2026 19:16:23 +0200",
       "fetched_at": "2026-10-21T18:38:35+00:00",
@@ -17197,9 +17197,9 @@
       "description": "Правоохоронці підозрюють в державній зраді сімох штурмовиків — мешканці Донецької та Луганської областей, а також Криму. За даними слідства, чоловіки добровільно воювали у складі армії Росії проти українських військових. Їх затримали на Покровському та Краматорському напрямках. Про це повідомили у прокуратурі Донецької області. За даними…",
       "categories": [
         "Новини",
-        "Новини Покровської громади",
         "Новини Краматорської громади",
-        "Кримінальні новини Донецької області"
+        "Кримінальні новини Донецької області",
+        "Новини Покровської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -18778,7 +18778,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/liudi-ginut-dorogoiu-z-okupovanix-olesok-do-radenska-ocilnicia-mva",
-      "title": "Люди гинуть дорогою з окупованих Олешок до Раденська — очільниця МВА",
+      "title": "Люди гинуть дорогою з окупованих Олешок до Раденська – очільниця МВА",
       "published_at": "2026-10-21T14:06:36+00:00",
       "published_raw": "Wed, 21 Oct 2026 17:06:36 +0300",
       "fetched_at": "2026-10-21T18:38:35+00:00",
@@ -19503,6 +19503,25 @@
       "published_at": "2026-10-21T13:57:41+00:00",
       "published_raw": "Wed, 21 Oct 2026 13:57:41 +0000",
       "fetched_at": "2026-10-21T19:31:01+00:00",
+      "description": "Чи відбуваються системні зміни в гендерному розподілі українського ринку праці під час війни? На шкільних уроках історії нам…",
+      "categories": [
+        "Партнерські матеріали"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bd06b09f9bbaf0d7",
+      "source_id": "map-588",
+      "source": "Накипіло",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://nakypilo.ua/partnerski-materialy/istoriia-maistryni-z-deteilinhu-yak-zminiuietsia-rynok-pratsi-ta-yaki-mozhlyvosti-vin-vidkryvaie-dlia-zhinok",
+      "title": "Історія майстрині з детейлінгу. Як змінюється ринок праці та які можливості він відкриває для жінок",
+      "published_at": "2026-10-21T13:57:41+00:00",
+      "published_raw": "Wed, 21 Oct 2026 13:57:41 +0000",
+      "fetched_at": "2026-10-22T13:47:51+00:00",
       "description": "Чи відбуваються системні зміни в гендерному розподілі українського ринку праці під час війни? На шкільних уроках історії нам…",
       "categories": [
         "Партнерські матеріали"
@@ -21494,7 +21513,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://slk.kh.ua/news/suspilstvo/comu-tck-bacit-rozsuk-a-v-rezerv-jogo-nemae-poasnenna-urista.html",
-      "title": "Чому ТЦК бачить розшук, а в «Резерв+» його немає — пояснення юриста",
+      "title": "Чому ТЦК бачить розшук, а в «Резерв+» його немає — пояснення харківського юриста",
       "published_at": "2026-10-21T13:30:00+00:00",
       "published_raw": "Wed, 21 Oct 2026 16:30:00 +0300",
       "fetched_at": "2026-10-21T13:42:57+00:00",
@@ -24075,7 +24094,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/svit/272922-rosiia-zvilnyla-uviaznenoho-74-richnoho-amerykantsia-habbrata-na-tli-vizytu-vitkoffa-do-sankt-peterburha",
-      "title": "74-річний американець Габбарда, якого росія звільнила на тлі візиту Віткоффа до Санкт-Петербурга, мав проросійські погляди — Reuters",
+      "title": "74-річний американець Габбард, якого росія звільнила на тлі візиту Віткоффа до Санкт-Петербурга, мав проросійські погляди — Reuters",
       "published_at": "2026-10-21T13:01:00+00:00",
       "published_raw": "2026-10-21T16:01:00+03:00",
       "fetched_at": "2026-10-21T13:24:49+00:00",
@@ -31204,8 +31223,8 @@
       "categories": [
         "Новини",
         "Інструкції",
-        "Новини Добропільської громади",
-        "Можливості для людей з Донеччини"
+        "Можливості для людей з Донеччини",
+        "Новини Добропільської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -36807,7 +36826,7 @@
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://ain.ua/2026/10/21/nabu-ta-sap-priisli-z-obsukami-do-nacionalnogo-banku-ukrayini",
-      "title": "НАБУ та САП прийшли з обшуками до Національного банку України",
+      "title": "НАБУ та САП прийшли з обшуками до Національного банку України. Пишний заявив, що обшуки не стосуються діяльності Нацбанку та роботи голови. Оновлено",
       "published_at": "2026-10-21T10:30:00+00:00",
       "published_raw": "Wed, 21 Oct 2026 13:30:00 +0300",
       "fetched_at": "2026-10-21T12:31:44+00:00",
@@ -55304,6 +55323,12 @@
       "fetched": 1176,
       "added": 4,
       "errors": 4
+    },
+    {
+      "at": "2026-10-22T13:47:51+00:00",
+      "fetched": 611,
+      "added": 1,
+      "errors": 3
     }
   ]
 }
