@@ -15,6 +15,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 
 <section id="home" class="screen active">
 <div class="hero"><h1>Все важливе.<br>За 5 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у персональному аудіовипуску.</p></div>
+<div class="audio" id="demoCard" style="display:none"><div class="eyebrow" style="color:#aaa">Послухайте BRIEF · студійний голос</div><h2 style="margin-top:8px" id="demoTitle">Демо-випуск</h2><audio id="demoPlayer" controls preload="metadata" style="width:100%;margin-top:6px"></audio><div class="tiny" style="color:#aaa;margin-top:8px"><span id="demoMeta"></span> · <a href="demo.html" style="color:#fff">текст і джерела →</a></div></div>
 <div class="audio"><div class="eyebrow" style="color:#aaa" id="editionDate">завантаження…</div><h2 style="margin-top:8px" id="nowTitle">Випуск BRIEF</h2><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn" aria-label="Відтворити або призупинити">▶</button><div><b id="storyCount">—</b><div class="tiny" style="color:#aaa" id="audioStatus">—</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div>
 <div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
 <audio id="player" preload="none"></audio></div>
@@ -186,5 +187,21 @@ async function loadSources(){
 }
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
 renderTopics(); loadEdition(); loadSources();
+// Demo edition (studio voice) on the home screen; only one player plays at a time.
+(async()=>{
+  try{
+    const idx=await (await fetch('demo/index.json',{cache:'no-store'})).json();
+    if(!idx.demos||!idx.demos.length) return;
+    const d=await (await fetch(idx.demos[0].file,{cache:'no-store'})).json();
+    const [y,m,dd]=d.date.split('-');
+    const dp=document.getElementById('demoPlayer');
+    dp.src=d.audio;
+    document.getElementById('demoTitle').textContent=`Випуск за ${dd}.${m}.${y}`;
+    document.getElementById('demoMeta').textContent=`${Math.round(d.duration_sec/60)} хв${d.provider==='elevenlabs'?' · озвучення ElevenLabs':''}`;
+    document.getElementById('demoCard').style.display='';
+    dp.addEventListener('play',()=>{const p=document.getElementById('player');if(p&&!p.paused){p.pause();if(typeof updatePlay==='function')updatePlay()}});
+    document.getElementById('player').addEventListener('play',()=>dp.pause());
+  }catch(e){}
+})();
 </script>
 </body></html>
