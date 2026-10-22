@@ -31,7 +31,8 @@ async function show(file){
   const min=Math.floor(d.duration_sec/60), sec=String(Math.round(d.duration_sec%60)).padStart(2,'0');
   document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}"></audio>
     <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>
-    <span class="tag">звірка аудіо з текстом: ${Math.round((1-(d.asr_mean_cer||0))*100)}% збігу</span><span class="tag">затвердження: ${esc(d.approved_by)}</span></div>`;
+    <span class="tag">звірка аудіо з текстом: ${Math.round((1-(d.asr_mean_cer||0))*100)}% збігу</span><span class="tag">затвердження: ${esc(d.approved_by)}</span></div>
+    ${d.provider==='elevenlabs'?'<p class="muted" style="font-size:12px;margin:10px 0 0">Озвучення: <a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a></p>':''}`;
   document.getElementById('script').innerHTML='<b>Текст випуску</b>'+d.segments.map(s=>`<div class="seg"><div class="kind">${KIND[s.kind]||esc(s.kind)}</div>
     ${s.text.map(t=>`<p>${esc(t)}</p>`).join('')}
     ${s.sources.length?`<div class="src">${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(' · ')}</div>`:''}</div>`).join('');
