@@ -27,10 +27,32 @@ def duration(path):
     return float(json.loads(r.stdout)["format"]["duration"])
 
 
-def to_wav(src, dst):
-    """Decode any input to a uniform mono PCM wav so parts can be concatenated safely."""
-    _run(["-i", str(src), "-ac", "1", "-ar", str(SAMPLE_RATE), "-c:a", "pcm_s16le", str(dst)])
+def to_wav(src, dst, af=None):
+    """Decode any input to a uniform mono PCM wav so parts can be concatenated safely.
+    af: optional ffmpeg audio filter (tempo/pitch adjustment of a voice)."""
+    _run(["-i", str(src), *(["-af", af] if af else []), "-ac", "1", "-ar", str(SAMPLE_RATE), "-c:a", "pcm_s16le",
+          str(dst)])
     return dst
+
+
+def voice_filter(tempo=1.0, semitones=0.0):
+    """ffmpeg filter that speeds speech up by `tempo` and shifts its pitch by `semitones`
+    (negative = lower) without changing the speed. None when nothing changes."""
+    if abs(tempo - 1) < 1e-3 and abs(semitones) < 1e-3:
+        return None
+    ratio = 2 ** (semitones / 12)
+    filters = []
+    if abs(semitones) >= 1e-3:  # resample to shift pitch, then undo the speed change
+        filters += [f"asetrate={SAMPLE_RATE}*{ratio:.6f}", f"aresample={SAMPLE_RATE}"]
+    speed = tempo / ratio if abs(semitones) >= 1e-3 else tempo
+    while speed > 2.0:
+        filters.append("atempo=2.0")
+        speed /= 2.0
+    while speed < 0.5:
+        filters.append("atempo=0.5")
+        speed /= 0.5
+    filters.append(f"atempo={speed:.6f}")
+    return ",".join(filters)
 
 
 def silence(dst, ms):
@@ -62,16 +84,17 @@ def master(src_wav, dst_mp3, normalize=True):
 
 
 def assemble(parts, dst_mp3, workdir):
-    """parts: list of ("file", path) | ("pause", ms). Returns duration of the result."""
+    """parts: list of ("file", path[, ffmpeg filter]) | ("pause", ms). Returns duration of the result."""
     workdir = pathlib.Path(workdir)
     workdir.mkdir(parents=True, exist_ok=True)
     wavs = []
-    for i, (kind, value) in enumerate(parts):
+    for i, part in enumerate(parts):
+        kind, value = part[0], part[1]
         out = workdir / f"part-{i:04d}.wav"
         if kind == "pause":
             silence(out, value)
         elif kind == "file":
-            to_wav(value, out)
+            to_wav(value, out, part[2] if len(part) > 2 else None)
         else:
             raise AudioError(f"unknown part kind {kind}")
         wavs.append(out)

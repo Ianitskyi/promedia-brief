@@ -7,6 +7,7 @@
   resumes where it stopped and never pays twice for the same text.
 """
 import hashlib
+import os
 import pathlib
 import shutil
 import tempfile
@@ -84,6 +85,13 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
         service_voice = ed.get("tts_service_voice") if provider_name == ed.get("tts_provider") else None
     service = tts.get(provider_name, voice=service_voice) if service_voice else provider
     service_kinds = set(ed.get("tts_service_kinds", [])) if service_voice else set()
+    # Post-processing of the synthesized voice (free: no new TTS calls, works on cached audio).
+    # BRIEF_TEMPO speeds every voice up; BRIEF_SERVICE_TEMPO / BRIEF_SERVICE_PITCH (semitones,
+    # negative = lower) adjust the service voice on top.
+    news_tempo = float(os.environ.get("BRIEF_TEMPO", "1.0"))
+    news_af = audio.voice_filter(news_tempo)
+    service_af = audio.voice_filter(news_tempo * float(os.environ.get("BRIEF_SERVICE_TEMPO", "1.0")),
+                                    float(os.environ.get("BRIEF_SERVICE_PITCH", "0")))
 
     default_dir = EDITIONS / date / ("variants/" + variant if variant else "audio")
     out_dir = pathlib.Path(out_dir or default_dir)
@@ -107,7 +115,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
                         voice_of.synthesize(chunk, tmp)
                         tmp.replace(path)  # only complete files enter the cache
                         calls += 1
-                    parts.append(("file", path))
+                    parts.append(("file", path, service_af if voice_of is service and service_kinds else news_af))
                     if ci < len(s["chunks"]) - 1:
                         parts.append(("pause", PAUSE_CHUNK_MS))
                 if si < len(seg["sentences"]) - 1:
@@ -145,6 +153,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
         "script_sha256": approved["script_sha256"],
         **provider.describe(),
         "service_voice": service.voice if service is not provider else None,
+        "voice_filters": {"news": news_af, "service": service_af},
         "rendered_at": iso(now_utc()),
         "elapsed_sec": round(time.time() - started, 1),
         "characters": characters,

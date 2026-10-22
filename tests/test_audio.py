@@ -244,3 +244,25 @@ def test_variant_render_keeps_published_audio_and_becomes_demo(approved, cli):
     d = json.loads((approved / "demo" / "2026-10-20-demo-mock.json").read_text())
     assert (approved / d["audio"]).exists() and d["segments"][0]["kind"] == "intro"
     assert json.loads((approved / "demo" / "index.json").read_text())["demos"][0]["id"] == "2026-10-20-demo-mock"
+
+
+def test_voice_filter():
+    from brief.audio import voice_filter
+
+    assert voice_filter() is None
+    assert voice_filter(1.2) == "atempo=1.200000"
+    lower = voice_filter(1.0, -2)  # lower pitch, same speed: resample down, then speed back up
+    assert lower.startswith("asetrate=") and "atempo=1.12" in lower
+
+
+@needs_ffmpeg
+def test_tempo_post_processing_shortens_audio_without_new_tts_calls(approved, cli):
+    cli(approved, "render", "--date", "2026-10-20", "--provider", "mock")
+    base = json.loads((approved / "editions" / "2026-10-20" / "render.json").read_text())
+    cli(approved, "render", "--date", "2026-10-20", "--provider", "mock", "--variant", "fast",
+        env_extra={"BRIEF_TEMPO": "1.25"})
+    fast = json.loads((approved / "editions" / "2026-10-20" / "render-fast.json").read_text())
+    assert fast["api_calls"] == 0  # everything came from the cache
+    assert fast["voice_filters"]["news"] == "atempo=1.250000"
+    spoken = lambda m: sum(s["duration_sec"] for s in m["segments"])
+    assert spoken(fast) < spoken(base) * 0.95
