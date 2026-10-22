@@ -1,0 +1,786 @@
+{
+  "date": "2026-10-22",
+  "variant": "demo-elevenlabs",
+  "audio": "demo/2026-10-22-demo-elevenlabs.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": null,
+  "service_voice": "FvQrHduw7DPa4s8Efyon",
+  "duration_sec": 239.62,
+  "asr_mean_cer": 0.049,
+  "approved_by": "BRIEF auto (без редактора)",
+  "script_sha256": "a167a67c94c452e07adbb8078fd71c00dededc97c74c5a2d358233b3bff393ed",
+  "segments": [
+    {
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "text": [
+        "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+        "Повний список джерел доступний на сайті BRIEF.",
+        "Випуск за двадцять друге жовтня."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "heading",
+      "block": "national",
+      "title": null,
+      "text": [
+        "Новини України."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "Росіяни вдарили по селу на Харківщині: загинула жінка, серед поранених – двоє дітей",
+      "text": [
+        "Росіяни вдарили по селу на Харківщині: загинула жінка, серед поранених – двоє дітей.",
+        "Уночі 22 жовтня російські окупаційні війська завдали удару по селу Лиманівка Лозівського району Харківської області, унаслідок чого загинула 42-річна жінка, ще четверо людей зазнали поранень, зокрема двоє дітей."
+      ],
+      "sources": [
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/21/1491-obstril-z-pochatku-roku-yaka-gromada-na-harkivshhini-poterpaye-najbilshe"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1433155-liderom-e-zolocivska-aki-gromadi-harkivsini-zaznali-najbilse-udariv-rf-vid-pocatku-roku"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/na-harkivshhini-vid-pochatku-roku-vnaslidok-obstriliv-zaginuli-492-lyudini"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/zolocivska-gromada-1491-obstril-vid-pocatku-2026-roku-dani-policii.html"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/obstrili-harkivsini-u-2026-roci-policia-povidomila-pro-492-zagiblih.html"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/cherez-ataku-rf-u-lozivskomu-rajoni-zaginula-zhinka"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/22/8059166"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/shhonajmenshe-15-lyudej-zokrema-diti-postrazhdali-vid-obstriliv-harkivshhini-za-dobu"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224208.html"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/22/u-seli-limanivka-cherez-udari-voroga-zaginula-zhinka-postrazhdali-dvoye-ditej"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224227.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/22/775198_lyudina_zaginula_sche_15.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "У Києві через балістичну атаку РФ є руйнування у шести районах - загинула людина, 22 постраждалих",
+      "text": [
+        "У Києві через балістичну атаку РФ є руйнування у шести районах - загинула людина, 22 постраждалих.",
+        "У Києві внаслідок російської балістичної атаки одна людина загинула, 22 постраждали, серед них четверо дітей."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176904-kilkist-poranenih-cerez-nicnij-obstril-kieva-zrosla-do-15-sered-nih-dvoe-ditej.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/22/8059167"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224204.html"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272956-rosiiany-obstrilialy-kyyiv-postrazdaly-15-liudey-zokrema-dvoye-ditey-poshkodzena-stantsiia-shvydkoyi-dopomohy-i-pivdennyy-mist"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vazhlyve-za-nich-i570989"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/22/novyna/suspilstvo/kyyevi-vnaslidok-nichnoho-udaru-balistykoyu-postrazhdaly-15-lyudej-sered-nyx-dity"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/udar-po-kiyevu-22-zhovtnya-ye-zagibliy-ta-ponad-20-poranenih-ruynuvannya-u-6-rayonah-novini-kiyeva-50652289.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176915-u-kievi-cerez-balisticnu-ataku-rf-e-rujnuvanna-u-sesti-rajonah-zaginula-ludina-22-postrazdalih.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/22/nichna-ataka-na-kyiv-1-liudyna-zahynula-22-postrazhdaly-ie-naslidky-v-shesty-rayonakh"
+        },
+        {
+          "name": "Репортер",
+          "url": "https://report.if.ua/viyna/u-kyyevi-cherez-ataku-rf-zagynula-lyudyna-22-postrazhdaly"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-kyyevi-cherez-balistychnu-ataku-rf-ye-rujnuvannya-u-shesty-rajonah-zagynula-lyudyna-22-i570997"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/ukraine/365375-u-kyievi-cherez-rosiiskyi-obstril-zagynula-ludyna-sered-poranenykh-dity.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/22/rosiia-vnochi-vdaryla-po-kyievu-balistykoiu-zahynula-liudyna-sered-22"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosiya-atakuvala-kyyiv-balistykoyu-vidomo-pro-22-postrazhdalyh-sered-nyh-chetvero-ditej"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/ataka-na-kijiv-21-zhovtnya-shcho-vidomo-pro-naslidki-obstrilu-balistikoyu-novini-kiyeva-50652248.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "Помер військовий з Івано-Франківщини Микола Андрейчук",
+      "text": [
+        "Помер військовий з Івано-Франківщини Микола Андрейчук.",
+        "20 жовтня 2026 року помер військовослужбовець із села Грабич, що на Івано-Франківщині, Микола Андрейчук."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ivano-frankivsk/1433441-pomer-vijskovij-z-ivano-frankivsini-mikola-andrejcuk"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/na-vijni-zagynuv-zahysnyk-iz-kolomyjshhyny-mykola-andrejchuk"
+        },
+        {
+          "name": "Галка",
+          "url": "https://galka.if.ua/vid-poranen-pomer-viyskovyy-z-otyniyskoi-hromady-mykola-andreychuk"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "«Подивимося, як буде цього разу». Зеленський погодився на тристоронню зустріч зі США та рф",
+      "text": [
+        "«Подивимося, як буде цього разу». Зеленський погодився на тристоронню зустріч зі США та рф, повідомляє hromadske."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272950-my-pidtrymuyemo-tse-zelenskyy-pro-vidnovlennia-tryokhstoronnikh-peremovyn-z-rf"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/zelenskyj-pogodyvsya-na-trystoronnyu-zustrich-zi-ssha-ta-rosiyeyu"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/21/zelenskyj-zayavyv-pro-gotovnist-ukrayiny-do-trystoronnih-peregovoriv-zi-ssha-ta-rosiyeyu"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/ukraina-hotova-do-trystoronnikh-peremovyn-zi-ssha-ta-rf-zelenskyy"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/zelenskyj-vitaye-zayavu-ushakova-pro-gotovnist-kremlya-do-trystoronnih-peregovoriv-z-ukrayinoyu-ta-i570987"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/22/zelenskyj-rozpoviv-koly-mozhut-projty-trystoronni-perehovory"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "Пишний прокоментував обшуки НАБУ в НБУ та заявив про готовність співпрацювати зі слідством",
+      "text": [
+        "Пишний прокоментував обшуки НАБУ в НБУ та заявив про готовність співпрацювати зі слідством.",
+        "Голова Національного банку України Андрій Пишний заявив, що під час обшуків детективи Національного антикорупційного бюро України (НАБУ) не виявили нічого, що могло б свідчити про вчинення правопорушень з його боку або з боку службовців НБУ."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059133"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131161-pishniy-pidtverdiv-shcho-v-primishchenni-nacbanku-proveli-obshuki"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/personaliyi/272947-ne-stosuyetsia-ani-diialnosti-nbu-ani-moyeyi-sluzbovoyi-diialnosti-pyshnyy-prokomentuvav-obshuky-nabu-ta-sap"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4176843-pisnij-zaaviv-so-obsuki-nabu-ne-povazani-ani-z-nim-ani-z-dialnistu-nacbanku.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/politics/obshuki-nabu-u-golovi-nbu-sprava-ne-stosuyetsya-diyalnosti-nacbanku-50652235.html"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/21/obshuky-nabu-v-nbu-ta-zayavyv"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1110619-pisnii-prokomentuvav-obsuki-nabu-v-nacionalnomu-banku-ukrayini"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/21/novyna/polityka/pyshnyj-pro-obshuky-nabu-vony-ne-stosuyutsya-naczbanku-moyeyi-sluzhbovoyi-diyalnosti"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/pishnij-prokomentuvav-obshuki-i-zajaviv-shcho-prodovzhuje-ocholjuvati-natsbank.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/21/pidsumky/obshuky-naczbanku-ta-perehovory-vitkoffa-putinym-peterburzi.-holovne-den"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/22/holova-nbu-andriy-pyshnyy-prokomentuvav-obshuky-nabu"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "Прем'єр Бельгії впевнений, що ЄС не повернеться до ідеї віддати Україні заморожені російські активи",
+      "text": [
+        "Прем'єр Бельгії впевнений, що ЄС не повернеться до ідеї віддати Україні заморожені російські активи.",
+        "Прем'єр-міністр Бельгії Барт де Вевер переконаний, що Єврокомісія не пропонуватиме знову використати заморожені російські активи на бельгійському депозитарії Euroclear для фінансування України."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/zamorozheni-rosiyski-aktivi-yevrokomisiya-ne-visuvatime-novih-propoziciy-50652243.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224192.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/10/22/775178_premier_belgiyi_vidkinuv.html"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20311247-premer-belgiyi-vidmovivsya-povertatisya-do-peregovoriv-shchodo-peredachi-ukrayini-zamorozhenih-aktiviv-rf"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "national",
+      "title": "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска»",
+      "text": [
+        "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска».",
+        "Саме тоді, коли волонтери прямували по групу маломобільних людей до Краматорська."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272946-na-donechchyni-rosiyskyy-dron-spalyv-bronyovane-avto-evakuatsiynoyi-misiyi-proliska"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-atakuvaly-evakuatsiinu-avtivku-prolisky-v-ocheretynomu"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/21/na-donechchyni-rosiiskyi-dron-atakuvav-avto-evakuatsiinoi-misii"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1433509-rosijski-vijska-atakuvali-evakuacijnij-avtomobil-proliski"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosijskyj-dron-atakuvav-avto-evakuatsijnoyi-misiyi-proliska-na-donechchyni"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176857-vorozij-dron-atakuvav-evakuacijnu-avtivku-na-doneccini.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/na-donechchyni-fpv-dron-atakuvav-avto-humanitarnoi-misii-proliska"
+        },
+        {
+          "name": "Вчасні Новини",
+          "url": "https://vchasno.news/rosijskyj-fpv-dron-atakuvav-bronovanu-evakuaczijnu-avtivku-prolisky-na-donechchyni"
+        }
+      ]
+    },
+    {
+      "kind": "reminder",
+      "block": "reminder",
+      "title": null,
+      "text": [
+        "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+        "Посилання на всі джерела — на сайті BRIEF.",
+        "Там само можна обрати теми й регіон — і випуск підлаштується під вас."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "heading",
+      "block": "regional",
+      "title": null,
+      "text": [
+        "А тепер — новини регіонів."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "story",
+      "block": "regional",
+      "title": "Вночі росіяни атакували підприємства на Волині та Львівщині",
+      "text": [
+        "Вночі росіяни атакували підприємства на Волині та Львівщині.",
+        "Під час нічного удару росіян по Україні зазнали атак підприємства на Волині та на Львівщині."
+      ],
+      "sources": [
+        {
+          "name": "Сила правди",
+          "url": "https://sylapravdy.com/rosijski-bezpilotnyky-atakuvaly-na-volyni-pidpryyemstva-j-krytychnu-infrastrukturu"
+        },
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/drony-atakuvaly-pidpryiemstva-j-enerhoob-iekty-volyni"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/vnochi-rosiiany-atakuvaly-pidpryiemstva-na-volyni-ta-lvivshchyni"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-koretskyi-ataka-rf-enerhetyka/33880763.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "regional",
+      "title": "У Вінниці затримали підозрюваних у вбивстві двох жінок, один з них був у СЗЧ",
+      "text": [
+        "У Вінниці затримали підозрюваних у вбивстві двох жінок, один з них був у СЗЧ.",
+        "Поліція затримала двох військовослужбовців, підозрюваних у вбивстві ввечері 20 жовтня двох жінок у Вінниці."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/vinnytsia/1433451-u-vinnici-zatrimali-dvoh-colovikiv-za-pidozrou-u-vbivstvi-dvoh-zinok"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Kryminal/podviyne-vbivstvo-na-vishentsi-dvoh-zhinok-zarizali-u-kvartiri-pidozry-12010685.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059142"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/vbivstvo-u-vinnici-policiya-zatrimala-dvoh-viyskovih-za-pidozroyu-u-zlochini-50652252.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/21/775156_vinnitsi_zatrimali_dvoh.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "regional",
+      "title": "У Свеській громаді троє поранених через російські удари по авто",
+      "text": [
+        "У Свеській громаді троє поранених через російські удари по авто.",
+        "Вранці та вдень 21 жовтня російські військовослужбовці атакували безпілотниками цивільні автомобілі у Свеській громаді."
+      ],
+      "sources": [
+        {
+          "name": "Ямпіль.INFO",
+          "url": "https://yampil.info/archives/90121.html"
+        },
+        {
+          "name": "Свеса.Online",
+          "url": "https://svesa.online/news/9570"
+        },
+        {
+          "name": "Середина-Буда.City",
+          "url": "https://buda.city/?p=18081"
+        },
+        {
+          "name": "На межі",
+          "url": "https://mezha.city/news/35878"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/sumy/1433275-u-sveskij-gromadi-troe-poranenih-cerez-rosijski-udari-po-avto"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "regional",
+      "title": "Отримав 50% опіків внаслідок атаки «шахеда»: як у Львові лікували киянина за допомогою шкіри свині та риби",
+      "text": [
+        "Отримав 50% опіків внаслідок атаки «шахеда»: як у Львові лікували киянина за допомогою шкіри свині та риби.",
+        "Медики лікарні святого Луки у Львові врятували 43-річного киянина, який ледве не загинув від атаки «шахеда» на Одещині, коли повертався із відпочинку."
+      ],
+      "sources": [
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12570-vyzhyv-pislya-pryamoho-udaru-shakheda-v-tsysternu-u-lvovi-vryatuvaly-kyyanyna-z-50-opikamy-tila"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1432937-otrimav-50-opikiv-vnaslidok-ataki-saheda-ak-u-lvovi-likuvali-kianina-za-dopomogou-skiri-svini-ta-ribi"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/21/u-lvovi-prooperuvaly-cholovika-yakyj-vnaslidok-ataky-shaheda-otrymav-50-opikiv-tila"
+        },
+        {
+          "name": "Сихів.Медіа",
+          "url": "https://sykhiv.media/u-likarni-svyatogo-luky-vryatuvaly-cholovika-z-50-opikiv-pislya-ataky-drona"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "regional",
+      "title": "Рік Шухевича та реакція Польщі: у МЗС України назвали рішення Львівської обласної ради контрпродуктивним",
+      "text": [
+        "Рік Шухевича та реакція Польщі: у МЗС України назвали рішення Львівської обласної ради контрпродуктивним.",
+        "У МЗС України назвали рішення Львівської обласної ради про оголошення 2027 року роком Романа Шухевича та УПА контрпродуктивним для зусиль, спрямованих на розбудову українсько-польських відносин."
+      ],
+      "sources": [
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12571-u-polshchi-nazvaly-shukhevycha-zlochyntsem-cherez-nove-rishennya-lvivskoyi-oblrady"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/europa/272902-u-polshchi-oburylysia-shcho-2027-khotily-proholosyty-rokom-upa-shukhevycha-y-olzycha-na-lvivshchyni-v-ukrayini-zapevnyly-tsyoho-ne-bude"
+        },
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/10/21/u-polshhi-nazvaly-shuhevycha-zlochyntsem-cherez-te-shho-2027-j-stane-jogo-rokom-na-lvivshhyni"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12575-lvivskomu-deputatu-khochut-zaboronyty-vyizd-v-polshchu"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/rik-upa-ta-romana-shuhevicha-polshcha-rozkritikuvala-rishennya-lvivskoji-radi-50652042.html"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12579-pryzupynyty-partnerstvo-zi-lvovom-pryhrozyly-dva-polski-mery"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1433131-rik-suhevica-ta-reakcia-polsi-u-mzs-ukraini-nazvali-risenna-lvivskoi-oblasnoi-radi-kontrproduktivnim"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/personaliyi/272920-holova-mzs-polshchi-khoche-oholosyty-personoiu-non-grata-deputata-sheremetu-iakyy-initsiiuvav-proholoshennia-roku-upa-ta-shukhevycha"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/POLITICS/lvivska-oblrada-proholosila-2027-rik-rokom-upa-polski-politiki-rozkritikuvali-tse-rishennja.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/skandal-cherez-upa-i-shuhevicha-lvivska-oblrada-ta-reakciya-polshchi-50652085.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/ministr-oborony-polshhi-rozkrytykuvav-rishennya-lvivskoyi-oblrady-ogolosyty-nastupnyj-rok-upa-ta-i570962"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/political/1224112.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059124"
+        },
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/10/21/initsiatoru-roku-shuhevycha-na-lvivshhyni-zaboronyly-v-yizd-do-shengenskoyi-zony"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/polshha-pryzupynyla-vijskovu-dopomogu-ukrayini-cherez-rishennya-lvivskoyi-oblrady-zmi"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/21/rishennia-lvivskoi-oblrady-pro-rik-upa-zryvaie-vijskovyj-paket-dopomohy-polshchi"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/POLITICS/polshcha-prizupinila-nadannja-paketa-vijskovoji-dopomohi-ukrajini-pislja-rishennja-lvivskoji-oblradi-pro-upa.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/polshcha-prizupinila-viyskovu-dopomogu-ukrajini-rishennya-pislya-uhvali-lvivshchini-50652238.html"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12611-rishennya-pro-rik-upa-ta-shukhevycha-nibyto-mozhe-zirvaty-viyskovu-dopomohu-polshchi-shcho-vidomo"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/polshha-pryzupynyla-peredachu-ukrayini-paketa-zi-zbroyeyu-cherez-rishennya-lvivskyh-deputativ-zmi-i570985"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/u-polshchi-nazvali-nepravdivoyu-informaciyu-pro-prizupinennya-viyskovoji-dopomogi-ukrajini-50652257.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1433581-u-minoboroni-polsi-sprostuvali-zaavi-pro-prizupinenna-dopomogi-ukraini"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/22/novyna/polityka/polshha-zaperechyla-zupynku-vijskovoyi-dopomohy-ukrayini-cherez-rishennya-lvivskoyi-oblrady-shhodo-upa"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/22/8059157"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/europa/272957-media-pysaly-shcho-polshcha-ne-nadast-viyskovyy-paket-dlia-ukrayiny-pislia-skandalu-z-rokom-upa-i-shukhevycha-varshava-sprostuvala"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "block": "local:volyn",
+      "title": null,
+      "text": [
+        "А тепер — Волинь."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "story",
+      "block": "local:volyn",
+      "title": "Вночі росіяни атакували підприємства на Волині та Львівщині",
+      "text": [
+        "Вночі росіяни атакували підприємства на Волині та Львівщині.",
+        "Під час нічного удару росіян по Україні зазнали атак підприємства на Волині та на Львівщині."
+      ],
+      "sources": [
+        {
+          "name": "Сила правди",
+          "url": "https://sylapravdy.com/rosijski-bezpilotnyky-atakuvaly-na-volyni-pidpryyemstva-j-krytychnu-infrastrukturu"
+        },
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/drony-atakuvaly-pidpryiemstva-j-enerhoob-iekty-volyni"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/vnochi-rosiiany-atakuvaly-pidpryiemstva-na-volyni-ta-lvivshchyni"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-koretskyi-ataka-rf-enerhetyka/33880763.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:volyn",
+      "title": "Після Луцька зупинився ще один завод Kromberg & Schubert: під загрозою 3600 робочих місць",
+      "text": [
+        "Після Луцька зупинився ще один завод Kromberg & Schubert: під загрозою 3600 робочих місць.",
+        "Унаслідок російських обстрілів на Житомирщині припинив свою роботу завод Kromberg & Schubert."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272932-3600-pratsivnykiv-zalyshylysia-bez-roboty-cherez-rosiyski-ataky-na-zytomyrshchyni-zupynyv-robotu-zavod-kromberg-schubert"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/21/pislia-lutska-zupynyvsia-shche-odyn-zavod-kromberg-and-schubert-pid"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:volyn",
+      "title": "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК",
+      "text": [
+        "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК.",
+        "Стало відомо про загибель захисників з Волині: Костянтина Клюби з Горохівської громади, лучанина Юрія Андрійчука, Валерія Вороб'я з села Нові Кошари та Віталія Шульги з Торчина, Олексія Андріюка з Зимнівської громади."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1432819-zaginuli-5-bijciv-z-volini-smert-4-iz-nih-vstanovili-za-ekspertizou-dnk"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "title": null,
+      "text": [
+        "Далі — новини регіону: Хмельниччина."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "title": "Російські дрони атакували енергооб’єкти на Хмельниччині, є знеструмлення",
+      "text": [
+        "Російські дрони атакували енергооб’єкти на Хмельниччині, є знеструмлення.",
+        "Російські безпілотники минулої доби атакували об’єкти енергетичної інфраструктури у Хмельницькій області, внаслідок чого є знеструмлення."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176932-rosijski-droni-atakuvali-energoobekti-na-hmelniccini-e-znestrumlenna.html"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "title": "Підготовка пічного опалення до зими: майже 200 пожеж сталися через порушення правил використання печей на Хмельниччині",
+      "text": [
+        "Підготовка пічного опалення до зими: майже 200 пожеж сталися через порушення правил використання печей на Хмельниччині.",
+        "Від початку 2026 року на Хмельниччині через порушення правил пожежної безпеки під час облаштування та експлуатації печей сталися 177 пожеж."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1431995-pidgotovka-picnogo-opalenna-do-zimi-majze-200-pozez-stalisa-cerez-porusenna-pravil-vikoristanna-pecej-na-hmelniccini"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "title": "Двоє людей на домашньому спостереженні, двоє — у лікарні: стан травмованих унаслідок російської атаки на Хмельницький",
+      "text": [
+        "Двоє людей на домашньому спостереженні, двоє — у лікарні: стан травмованих унаслідок російської атаки на Хмельницький.",
+        "Двох людей, яких госпіталізували унаслідок російського обстрілу Хмельницького з 19 на 20 жовтня, відпустили на домашнє спостереження."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1433049-dvoe-ludej-na-domasnomu-sposterezenni-dvoe-u-likarni-stan-travmovanih-unaslidok-rosijskoi-ataki-na-hmelnickij"
+        }
+      ]
+    },
+    {
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "title": null,
+      "text": [
+        "Закарпаття: головне за добу."
+      ],
+      "sources": []
+    },
+    {
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "title": "На війні загинув військовослужбовець Олександр Пахота із Закарпаття",
+      "text": [
+        "На війні загинув військовослужбовець Олександр Пахота із Закарпаття.",
+        "На війні загинув майор Олександр Пахота із Олешницької громади Берегівського району."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1433511-na-vijni-zaginuv-vijskovosluzbovec-oleksandr-pahota-iz-zakarpatta"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "title": "9 років тюрми отримав іноземець на Закарпатті за контрабанду канабісу",
+      "text": [
+        "9 років тюрми отримав іноземець на Закарпатті за контрабанду канабісу.",
+        "На Закарпатті до 9 років засудили 64-річного громадянина Нідерландів, який намагався перевезти через українсько-угорський кордон девʼять пакетів канабісу."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1432885-do-9-rokiv-uvaznenna-zasudili-inozemca-akij-namagavsa-vivezti-z-ukraini-ponad-4-kg-kanabisu"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/9-rokiv-tyurmy-otrymav-inozemets-na-zakarpatti-za-kontrabandu-kanabisu"
+        }
+      ]
+    },
+    {
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "title": "Платні парковки принесли до бюджетів Закарпаття більш як 5,7 мільйонів гривень",
+      "text": [
+        "Платні парковки принесли до бюджетів Закарпаття більш як 5,7 мільйонів гривень.",
+        "За місця для паркування до місцевих бюджетів у Закарпатській області надійшло 5,71 млн грн збору."
+      ],
+      "sources": [
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/economy/143755-platni-parkovky-prynesly-do-biudzhetiv-zakarpattia-bilsh-iak-57-milyoniv-hryven"
+        }
+      ]
+    },
+    {
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "text": [
+        "Це були новини BRIEF за двадцять друге жовтня.",
+        "Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
