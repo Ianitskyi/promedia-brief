@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>BRIEF — демо-випуск</title>
+<style>
+:root{--bg:#f4f2ec;--card:#fff;--ink:#171717;--muted:#6c6c67;--line:#dedbd2;--soft:#ece9df;--radius:22px}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+.app{max-width:560px;margin:auto;padding:18px 18px 60px}.brand{font-weight:850;letter-spacing:-.04em;font-size:25px;color:inherit;text-decoration:none}
+h1{font-size:34px;line-height:1.05;letter-spacing:-.05em;margin:22px 0 10px}p{line-height:1.5}.muted{color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px;margin:14px 0}
+audio{width:100%;margin:8px 0}.facts{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}.tag{font-size:11px;background:var(--soft);border-radius:999px;padding:7px 9px}
+.seg{padding:12px 0;border-bottom:1px solid var(--line)}.seg:last-child{border:0}.seg .kind{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-weight:800}
+.seg p{margin:6px 0}.src a{font-size:12px;color:var(--muted)}select{font:inherit;padding:10px;border-radius:12px;border:1px solid var(--line);background:#fff;width:100%}
+</style>
+</head>
+<body><main class="app">
+<a class="brand" href="./">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a>
+<h1>Демо-випуск</h1>
+<p class="muted">Той самий автоматично зібраний і перевірений випуск, озвучений студійним голосом. Кожне речення — дослівно з публікацій перевірених медіа; джерела — під кожним сюжетом.</p>
+<div id="pick"></div>
+<div class="card" id="player"><p class="muted">Завантаження…</p></div>
+<div class="card" id="script"></div>
+</main>
+<script>
+const KIND={intro:'Вступ',heading:'Перехід',story:'Сюжет',reminder:'Нагадування',outro:'Завершення'};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+async function show(file){
+  const d=await (await fetch(file,{cache:'no-store'})).json();
+  const min=Math.floor(d.duration_sec/60), sec=String(Math.round(d.duration_sec%60)).padStart(2,'0');
+  document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}"></audio>
+    <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>
+    <span class="tag">звірка аудіо з текстом: ${Math.round((1-(d.asr_mean_cer||0))*100)}% збігу</span><span class="tag">затвердження: ${esc(d.approved_by)}</span></div>`;
+  document.getElementById('script').innerHTML='<b>Текст випуску</b>'+d.segments.map(s=>`<div class="seg"><div class="kind">${KIND[s.kind]||esc(s.kind)}</div>
+    ${s.text.map(t=>`<p>${esc(t)}</p>`).join('')}
+    ${s.sources.length?`<div class="src">${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(' · ')}</div>`:''}</div>`).join('');
+}
+(async()=>{
+  try{
+    const idx=await (await fetch('demo/index.json',{cache:'no-store'})).json();
+    if(!idx.demos.length) throw 0;
+    if(idx.demos.length>1){
+      document.getElementById('pick').innerHTML='<select id="sel">'+idx.demos.map(d=>`<option value="${esc(d.file)}">${esc(d.date)} · ${esc(d.variant)}</option>`).join('')+'</select>';
+      document.getElementById('sel').onchange=e=>show(e.target.value);
+    }
+    show(idx.demos[0].file);
+  }catch(e){document.getElementById('player').innerHTML='<p class="muted">Демо-випуск ще не створено.</p>'}
+})();
+</script>
+</body>
+</html>

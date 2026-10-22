@@ -31,17 +31,35 @@ def tts_text(sentence_text, provider, lexicon):
                        stress=load_stress() if provider.stress_marks else None)
 
 
-def plan(approved, provider, lexicon):
+def mood(seg, moods):
+    """Tone of a story for engines that take tone tags: the first mood whose markers occur in it."""
+    if seg["kind"] != "story":
+        return None
+    text = " ".join(s["text"] for s in seg["sentences"]).lower()
+    for name, m in moods.items():
+        if isinstance(m, dict) and any(k in text for k in m.get("markers", [])):
+            return name
+    return None
+
+
+def plan(approved, provider, lexicon, moods=None):
     """What will be sent to TTS, segment by segment. Pure function (used by tests and cost estimates)."""
     measure = (lambda s: len(s.encode("utf-8"))) if provider.measure_bytes else len
+    moods = moods if moods is not None else config("editorial.json").get("tts_moods", {})
     out = []
     for seg in approved["segments"]:
         if not seg["sentences"]:
             continue
+        tone = mood(seg, moods) if provider.audio_tags else None
+        tag = moods.get(tone, {}).get("tag") if tone else (moods.get("neutral", {}).get("tag") if provider.audio_tags
+                                                           and seg["kind"] == "story" else None)
         sents = []
-        for s in seg["sentences"]:
+        for i, s in enumerate(seg["sentences"]):
             text = tts_text(s["text"], provider, lexicon)
-            sents.append({"id": s["id"], "text": text, "chunks": tts.chunk_text(text, provider.max_chars, measure)})
+            chunks = tts.chunk_text(text, provider.max_chars, measure)
+            if tag and i == 0:
+                chunks = [f"{tag} {chunks[0]}"] + chunks[1:]  # the tag sets the tone; it is not spoken
+            sents.append({"id": s["id"], "text": text, "chunks": chunks, "mood": tone})
         out.append({"id": seg["id"], "kind": seg["kind"], "block": seg["block"], "sentences": sents})
     return out
 
@@ -50,7 +68,9 @@ def _cache_key(provider, text):
     return hashlib.sha256(f"{provider.name}|{provider.voice}|{text}".encode("utf-8")).hexdigest()[:24]
 
 
-def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None):
+def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None, variant=None, service_voice=None):
+    """variant: render an alternative voicing (e.g. a paid demo) next to the published one:
+    audio goes to editions/<date>/variants/<variant>/, the manifest to render-<variant>.json."""
     started = time.time()
     approved = load_approved(date)
     provider = tts.get(provider_name, voice=voice)
@@ -60,11 +80,13 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
     cost = tts.guard_cost(provider, characters)
     # Service lines (intro, reminder, outro) in a second voice so they stand apart from the news.
     ed = config("editorial.json")["edition"]
-    service_voice = ed.get("tts_service_voice") if provider_name == ed.get("tts_provider") else None
+    if service_voice is None:
+        service_voice = ed.get("tts_service_voice") if provider_name == ed.get("tts_provider") else None
     service = tts.get(provider_name, voice=service_voice) if service_voice else provider
     service_kinds = set(ed.get("tts_service_kinds", [])) if service_voice else set()
 
-    out_dir = pathlib.Path(out_dir or EDITIONS / date / "audio")
+    default_dir = EDITIONS / date / ("variants/" + variant if variant else "audio")
+    out_dir = pathlib.Path(out_dir or default_dir)
     cache_dir = pathlib.Path(cache_dir or EDITIONS / date / ".tts-cache")
     out_dir.mkdir(parents=True, exist_ok=True)
     cache_dir.mkdir(parents=True, exist_ok=True)
@@ -134,5 +156,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
                  "duration_sec": round(full_dur, 2)},
         "duration_sec": round(full_dur, 2),
     }
-    write_json(EDITIONS / date / "render.json", manifest)
+    if variant:
+        manifest["variant"] = variant
+    write_json(EDITIONS / date / (f"render-{variant}.json" if variant else "render.json"), manifest)
     return manifest

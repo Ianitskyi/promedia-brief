@@ -1,0 +1,121 @@
+name: Demo edition (paid voice)
+
+# Voices an already approved edition with a paid TTS service and keeps it in demo/
+# (not deleted after 7 days) for showing to partners. The daily site edition is not changed.
+# Spends API credits only when confirm_paid is ticked; the cost guard stops the run above
+# BRIEF_MAX_TTS_USD. Same text, same fact checks, same ASR check as the daily edition.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Edition date (YYYY-MM-DD). Empty = latest published"
+        required: false
+      provider:
+        description: "Paid TTS"
+        type: choice
+        options: [elevenlabs, google, azure]
+        default: elevenlabs
+      model:
+        description: "ElevenLabs model (eleven_v3 takes tone tags)"
+        type: choice
+        options: [eleven_v3, eleven_multilingual_v2, eleven_v4]
+        default: eleven_v3
+      confirm_paid:
+        description: "I approve spending ≈ $0.50 of API credits on this demo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief-repo-write
+  cancel-in-progress: false
+
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt faster-whisper==1.2.1
+          if [ "${{ inputs.provider }}" = "google" ]; then pip install google-cloud-texttospeech; fi
+      - name: Edition date
+        id: cfg
+        run: |
+          D="${{ inputs.date }}"
+          [ -n "$D" ] || D=$(python -c 'import json;print(json.load(open("editions/latest.json"))["date"])')
+          test -f "editions/$D/approved.json" || (echo "editions/$D is not approved" && exit 1)
+          echo "date=$D" >> "$GITHUB_OUTPUT"
+      - name: ElevenLabs voices available to this key
+        if: inputs.provider == 'elevenlabs'
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          test -n "$ELEVENLABS_API_KEY" || (echo "Add the ELEVENLABS_API_KEY secret first" && exit 1)
+          python - >> "$GITHUB_STEP_SUMMARY" <<'PY'
+          import json, os, urllib.request
+          req = urllib.request.Request("https://api.elevenlabs.io/v2/voices?page_size=100",
+                                       headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"]})
+          try:
+              voices = json.load(urllib.request.urlopen(req)).get("voices", [])
+          except Exception as e:  # the key may lack the voices_read permission; not fatal
+              print(f"Could not list voices: {e}")
+              voices = []
+          print("| Voice | ID | Labels |\n|---|---|---|")
+          for v in voices:
+              print(f"| {v.get('name')} | `{v.get('voice_id')}` | {json.dumps(v.get('labels', {}), ensure_ascii=False)} |")
+          PY
+      - name: Google credentials
+        if: inputs.provider == 'google'
+        env:
+          GOOGLE_TTS_CREDENTIALS: ${{ secrets.GOOGLE_TTS_CREDENTIALS }}
+        run: |
+          test -n "$GOOGLE_TTS_CREDENTIALS" || (echo "Missing GOOGLE_TTS_CREDENTIALS secret" && exit 1)
+          printf '%s' "$GOOGLE_TTS_CREDENTIALS" > "$RUNNER_TEMP/google-tts.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/google-tts.json" >> "$GITHUB_ENV"
+      - name: Render with the paid voice
+        env:
+          BRIEF_ALLOW_PAID_TTS: ${{ inputs.confirm_paid && '1' || '0' }}
+          BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '1.00' }}
+          BRIEF_ELEVENLABS_MODEL: ${{ inputs.model }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
+        run: |
+          SV=""
+          if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID }}"; fi
+          python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider "${{ inputs.provider }}" \
+            --variant "demo-${{ inputs.provider }}" ${SV:+--service-voice "$SV"}
+      - name: ASR check (audio matches the approved text)
+        run: python -m brief verify-audio --date "${{ steps.cfg.outputs.date }}" --variant "demo-${{ inputs.provider }}"
+      - name: Keep as demo
+        run: python -m brief demo --date "${{ steps.cfg.outputs.date }}" --variant "demo-${{ inputs.provider }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: demo-${{ inputs.provider }}
+          path: demo/${{ steps.cfg.outputs.date }}-demo-${{ inputs.provider }}.mp3
+          retention-days: 30
+      - name: Commit demo
+        run: |
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add demo
+          git diff --cached --quiet && exit 0
+          git commit -m "Demo edition ${{ steps.cfg.outputs.date }} (${{ inputs.provider }})"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          exit 1
+      - name: Summary
+        if: always()
+        run: |
+          echo "Demo page: https://brief.promedia.report/demo.html" >> "$GITHUB_STEP_SUMMARY"
+          f="editions/${{ steps.cfg.outputs.date }}/render-demo-${{ inputs.provider }}.json"
+          test -f "$f" && python -c "import json;d=json.load(open('$f'));print('Duration', d['duration_sec'], 's; characters', d['characters'], '; est. cost $', d['estimated_cost_usd'], '; ASR', d.get('asr',{}).get('mean_cer'))" >> "$GITHUB_STEP_SUMMARY" || true

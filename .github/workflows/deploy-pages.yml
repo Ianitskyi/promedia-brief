@@ -7,7 +7,7 @@ on:
   # Commits pushed by workflows (GITHUB_TOKEN) do not trigger `push`, so drafts and
   # published editions would never reach the site without this.
   workflow_run:
-    workflows: ["Draft BRIEF edition", "Approve and render BRIEF edition"]
+    workflows: ["Draft BRIEF edition", "Approve and render BRIEF edition", "Demo edition (paid voice)"]
     types: [completed]
     branches: ["main"]
 

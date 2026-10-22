@@ -207,3 +207,40 @@ def test_stress_marks_only_for_engines_that_read_them():
     assert "До" + STRESS + "нальд" in marked and "Ві" + STRESS + "ткоффом" in marked
     assert "Львові" in marked  # exact-word rule for «Львів» does not touch other forms
     assert STRESS not in speech_text("Дональд Трамп")  # default: no marks (Piper, cloud TTS)
+
+
+def test_tone_tags_only_for_engines_that_take_them(approved, monkeypatch):
+    from brief import render
+
+    monkeypatch.setenv("BRIEF_ROOT", str(approved))
+    a = json.loads((approved / "editions" / "2026-10-20" / "approved.json").read_text())
+    moods = {"sombre": {"tag": "[sympathetic]", "markers": ["пожеж"]}, "neutral": {"tag": ""}}
+    plain = render.plan(a, tts.get("mock"), [], moods)
+    assert not any(c.startswith("[") for seg in plain for s in seg["sentences"] for c in s["chunks"])
+    p = tts.get("mock")
+    p.audio_tags = True
+    tagged = render.plan(a, p, [], moods)
+    fire = next(seg for seg in tagged if seg["kind"] == "story"
+                and "пожеж" in " ".join(s["text"] for s in seg["sentences"]).lower())
+    assert fire["sentences"][0]["chunks"][0].startswith("[sympathetic] ")
+    assert fire["sentences"][0]["text"] == fire["sentences"][0]["chunks"][0][len("[sympathetic] "):]  # tag not in text
+    assert not any(c.startswith("[") for seg in tagged if seg["kind"] != "story" for s in seg["sentences"]
+                   for c in s["chunks"])
+
+
+@needs_ffmpeg
+def test_variant_render_keeps_published_audio_and_becomes_demo(approved, cli):
+    cli(approved, "render", "--date", "2026-10-20", "--provider", "mock")
+    published = (approved / "editions" / "2026-10-20" / "render.json").read_text()
+    cli(approved, "render", "--date", "2026-10-20", "--provider", "mock", "--variant", "demo-mock")
+    assert (approved / "editions" / "2026-10-20" / "render.json").read_text() == published
+    v = json.loads((approved / "editions" / "2026-10-20" / "render-demo-mock.json").read_text())
+    assert "/variants/demo-mock/" in v["full"]["file"] and v["variant"] == "demo-mock"
+    r = cli(approved, "demo", "--date", "2026-10-20", "--variant", "demo-mock", check=False)
+    assert r.returncode != 0 and "ASR" in r.stderr  # no demo without the audio check
+    v["asr"] = {"mean_cer": 0.03, "failed": []}
+    (approved / "editions" / "2026-10-20" / "render-demo-mock.json").write_text(json.dumps(v))
+    cli(approved, "demo", "--date", "2026-10-20", "--variant", "demo-mock")
+    d = json.loads((approved / "demo" / "2026-10-20-demo-mock.json").read_text())
+    assert (approved / d["audio"]).exists() and d["segments"][0]["kind"] == "intro"
+    assert json.loads((approved / "demo" / "index.json").read_text())["demos"][0]["id"] == "2026-10-20-demo-mock"
