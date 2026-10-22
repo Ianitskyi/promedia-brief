@@ -1,0 +1,44 @@
+name: TTS A/B sample (stress marks)
+
+# Voices three short sentences twice — without and with dictionary stress marks — so a
+# person can hear whether the engine follows the marks. Spends ≈500 characters of a paid API.
+on:
+  workflow_dispatch:
+    inputs:
+      provider:
+        type: choice
+        options: [elevenlabs]
+        default: elevenlabs
+      confirm_paid:
+        description: "I approve spending ≈500 characters of API credits"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  ab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt -r requirements-styletts2.txt
+      - name: Render A/B
+        env:
+          BRIEF_ALLOW_PAID_TTS: ${{ inputs.confirm_paid && '1' || '0' }}
+          BRIEF_MAX_TTS_USD: "0.20"
+          BRIEF_ELEVENLABS_MODEL: eleven_v3
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID }}
+        run: python scripts/tts_ab.py --provider ${{ inputs.provider }} --out ab
+      - uses: actions/upload-artifact@v4
+        with:
+          name: tts-ab
+          path: ab/*.mp3

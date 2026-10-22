@@ -29,6 +29,10 @@ on:
       service_pitch:
         description: "Pitch of the service voice in semitones (negative = lower)"
         default: "-2"
+      stress:
+        description: "Mark every word's stress from the Ukrainian stress dictionary"
+        type: boolean
+        default: true
       alternate:
         description: "The two voices take turns reading stories"
         type: boolean
@@ -60,6 +64,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y ffmpeg
           pip install -r requirements.txt faster-whisper==1.2.1
           if [ "${{ inputs.provider }}" = "google" ]; then pip install google-cloud-texttospeech; fi
+          if [ "${{ inputs.stress }}" = "true" ]; then pip install -r requirements-styletts2.txt; fi  # stress dictionary
       - name: Edition date
         id: cfg
         run: |
@@ -109,6 +114,7 @@ jobs:
           BRIEF_SERVICE_TEMPO: ${{ inputs.service_tempo }}
           BRIEF_SERVICE_PITCH: ${{ inputs.service_pitch }}
           BRIEF_ALTERNATE_VOICES: ${{ inputs.alternate && '1' || '0' }}
+          BRIEF_ELEVENLABS_STRESS: ${{ inputs.stress && '1' || '0' }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID }}  # either place works
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}

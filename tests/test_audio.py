@@ -277,3 +277,14 @@ def test_alternating_voices_take_turns_on_stories(approved, cli):
     a = json.loads((approved / "editions" / "2026-10-20" / "approved.json").read_text())
     stories = [s for s in a["segments"] if s["kind"] == "story"]
     assert len(stories) >= 2  # so both voices read news
+
+
+def test_elevenlabs_spells_numbers_and_stress_is_opt_in(monkeypatch):
+    from brief.render import tts_text
+
+    monkeypatch.delenv("BRIEF_ELEVENLABS_STRESS", raising=False)
+    p = tts.get("elevenlabs")
+    assert p.spell_digits and not p.auto_stress
+    assert tts_text("Поранено 15 людей 22 жовтня.", p, []) == "Поранено п'ятнадцять людей двадцять другого жовтня."
+    monkeypatch.setenv("BRIEF_ELEVENLABS_STRESS", "1")
+    assert tts.get("elevenlabs").auto_stress
