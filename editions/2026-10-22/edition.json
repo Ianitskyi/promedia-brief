@@ -1,0 +1,1176 @@
+{
+  "date": "2026-10-22",
+  "title": "BRIEF — 2026-10-22",
+  "published_at": "2026-10-22T04:47:40+00:00",
+  "approved": true,
+  "approval": "auto",
+  "script_sha256": "c8c1d6db93112d9baf4f8099bcc75500f6287efe751388783af5c5e2edad81b4",
+  "voice": {
+    "provider": "styletts2",
+    "voice": "male_2"
+  },
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "bumper": "audio/bumper.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "full_audio": "editions/2026-10-22/audio/brief-2026-10-22.mp3",
+  "duration_sec": 179.64,
+  "regions": [
+    {
+      "id": "khmelnytskyi",
+      "name": "Хмельниччина"
+    },
+    {
+      "id": "volyn",
+      "name": "Волинь"
+    },
+    {
+      "id": "zakarpattia",
+      "name": "Закарпаття"
+    }
+  ],
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+        "Повний список джерел доступний на сайті BRIEF.",
+        "Випуск за двадцять друге жовтня."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/intro.mp3",
+      "duration_sec": 8.41,
+      "sound": null
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Новини України."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/national-heading.mp3",
+      "duration_sec": 1.46,
+      "sound": null
+    },
+    {
+      "id": "national-c-16d2249f549b9927",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Києві через ракетний обстріл постраждали 15 людей, зокрема 2 дитини",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": true,
+      "text": [
+        "У Києві через ракетний обстріл постраждали 15 людей, зокрема 2 дитини, повідомляє Українська правда.",
+        "Під час обстрілу Києва балістичними ракетами поранено 15 людей, у тому числі двох 15-річних підлітків."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176904-kilkist-poranenih-cerez-nicnij-obstril-kieva-zrosla-do-15-sered-nih-dvoe-ditej.html",
+          "title": "Кількість поранених через нічний обстріл Києва зросла до 15, серед них двоє дітей",
+          "published_at": "2026-10-22T03:09:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/22/8059167",
+          "title": "У Києві через ракетний обстріл постраждали 15 людей, зокрема 2 дитини",
+          "published_at": "2026-10-22T03:32:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224204.html",
+          "title": "Кількість постраждалих внаслідок нічної атаки на Київ зросла до 15, серед них двоє дітей",
+          "published_at": "2026-10-22T03:44:06+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/22/nichnyj-obstril-kyyeva-postrazhdaly-15-lyudej",
+          "title": "Нічний обстріл Києва: постраждали 15 людей",
+          "published_at": "2026-10-22T04:00:00+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272956-rosiiany-obstrilialy-kyyiv-postrazdaly-15-liudey-zokrema-dvoye-ditey-poshkodzena-stantsiia-shvydkoyi-dopomohy-i-pivdennyy-mist",
+          "title": "росіяни обстріляли Київ — постраждали 15 людей, зокрема двоє дітей, пошкоджена станція швидкої допомоги і Південний міст",
+          "published_at": "2026-10-22T04:15:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-16d2249f549b9927.mp3",
+      "duration_sec": 13.11,
+      "sound": null
+    },
+    {
+      "id": "national-c-13901985cb0b18b9",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "США, Україна та Росія розпочнуть тристоронні переговори на “технічному рівні”, – Віткофф",
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "must_include": true,
+      "text": [
+        "США, Україна та Росія розпочнуть тристоронні переговори на “технічному рівні”, – Віткофф, повідомляє Новинарня.",
+        "Спецпосланець американського президента Дональда Трампа Стів Віткофф за підсумками своїх зустрічей із президентом Володимиром Зеленським в Осло та очільником Кремля Володимиром Путіним у Санкт-Петербурзі заявив, що обговорення щодо завершення російсько-української війни будуть продовжені у форматі тристоронніх переговорів на технічному рівні."
+      ],
+      "sources": [
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224122.html",
+          "title": "Москва та Київ погодилися з ідеєю Віткоффа та Кушнера організувати зустріч між РФ, США та Україною на технічному рівні – медіа",
+          "published_at": "2026-10-21T16:32:18+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059127",
+          "title": "Віткофф анонсував тристоронні зустрічі на технічному рівні",
+          "published_at": "2026-10-21T17:16:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4176838-tristoronni-peregovori-prodovzatsa-na-tehnicnomu-rivni-vitkoff.html",
+          "title": "Тристоронні переговори продовжаться на технічному рівні - Віткофф",
+          "published_at": "2026-10-21T17:50:00+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272948-ssha-ukrayina-ta-rf-rozpochnut-trystoronni-perehovory-na-tekhnichnomu-rivni-vitkoff",
+          "title": "США, Україна та рф розпочнуть тристоронні переговори на «технічному рівні» — Віткофф",
+          "published_at": "2026-10-21T17:53:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/10/21/775138_vitkoff_anonsuvav_tristoronni.html",
+          "title": "Віткофф анонсував тристоронні переговори між США, Росією та Україною на технічному рівні",
+          "published_at": "2026-10-21T18:08:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224160.html",
+          "title": "Росія підтримує тристоронню зустріч на рівні команд – Зеленський",
+          "published_at": "2026-10-21T18:14:13+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/21/ssha-ukraina-ta-rosiia-rozpochnut-trystoronni-perehovory-na",
+          "title": "США, Україна та Росія розпочнуть тристоронні переговори на “технічному рівні”, – Віткофф",
+          "published_at": "2026-10-21T18:24:50+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1433541-zelenskij-rf-pidtrimue-tristoronnu-zustric-na-rivni-komand",
+          "title": "Зеленський: РФ підтримує тристоронню зустріч на рівні команд",
+          "published_at": "2026-10-21T18:25:26+00:00"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131162-zelenskiy-pidtverdiv-zhurnalistam-shcho-rf-pidtrimala-zustrich-na-rivni-peregovornih-komand",
+          "title": "Зеленський підтвердив журналістам, що РФ підтримала зустріч на рівні переговорних команд",
+          "published_at": "2026-10-21T18:27:14+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/21/vitkoff-anonsuvav-trystoronni-zustrichi-na-tekhnichnomu-rivni",
+          "title": "Віткофф анонсував тристоронні зустрічі на «технічному рівні»",
+          "published_at": "2026-10-21T18:30:38+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059139",
+          "title": "Зеленський заявив, що Росія підтримує тристоронню зустріч на рівні команд",
+          "published_at": "2026-10-21T18:32:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/tristoronnya-zustrich-ukrajina-ssha-rosiya-moskva-pogodilasya-vashington-proponuye-termini-50652239.html",
+          "title": "Зеленський після розмови з Віткоффом підтвердив, що Росія погодилась на тристоронню зустріч на рівні команд",
+          "published_at": "2026-10-21T18:43:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/perehovory-prodovzhatsia-u-trystoronnomu-formati-na-tekhnichnomu-rivni-vitkoff",
+          "title": "Переговори продовжаться у тристоронньому форматі на технічному рівні, — Віткофф",
+          "published_at": "2026-10-21T18:59:16+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4176859-zelenskij-otrimali-fidbek-vid-zustrici-vitkoffa-z-putinim-tristoronni-peregovori-mozut-buti-na-pocatku-listopada.html",
+          "title": "Зеленський: Отримали фідбек від зустрічі Віткоффа з Путіним - тристоронні переговори можуть бути на початку листопада",
+          "published_at": "2026-10-21T19:00:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/21/novyna/polityka/rosiya-pidtrymuye-troxstoronnyu-zustrich-rivni-komand-zelenskyj",
+          "title": "Росія підтримує трьохсторонню зустріч на рівні команд – Зеленський",
+          "published_at": "2026-10-21T19:20:24+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1433573-ukraina-pogodilas-na-tristoronnu-zustric-komand-rf-vdarila-po-kievu-balisticnou-raketou-1702-den-vijni",
+          "title": "Україна погодилась на тристоронню зустріч команд, РФ вдарила по Києву балістичною ракетою. 1702 день війни",
+          "published_at": "2026-10-21T21:05:32+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-13901985cb0b18b9.mp3",
+      "duration_sec": 22.88,
+      "sound": null
+    },
+    {
+      "id": "national-c-3557180fb12b119c",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Вночі росіяни атакували підприємства на Волині та Львівщині",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": true,
+      "text": [
+        "Вночі росіяни атакували підприємства на Волині та Львівщині, повідомляє Громадське радіо.",
+        "Під час нічного удару росіян по Україні зазнали атак підприємства на Волині та на Львівщині."
+      ],
+      "sources": [
+        {
+          "name": "Сила правди",
+          "url": "https://sylapravdy.com/rosijski-bezpilotnyky-atakuvaly-na-volyni-pidpryyemstva-j-krytychnu-infrastrukturu",
+          "title": "Російські безпілотники атакували на Волині підприємства й критичну інфраструктуру",
+          "published_at": "2026-10-21T06:57:54+00:00"
+        },
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/drony-atakuvaly-pidpryiemstva-j-enerhoob-iekty-volyni",
+          "title": "Дрони атакували підприємства й енергооб’єкти Волині",
+          "published_at": "2026-10-21T07:39:10+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/vnochi-rosiiany-atakuvaly-pidpryiemstva-na-volyni-ta-lvivshchyni",
+          "title": "Вночі росіяни атакували підприємства на Волині та Львівщині",
+          "published_at": "2026-10-21T07:53:21+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-koretskyi-ataka-rf-enerhetyka/33880763.html",
+          "title": "РФ атакувала енергооб’єкти на Київщині, Волині, Одещині й Миколаївщині – Корецький",
+          "published_at": "2026-10-21T08:36:50+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-3557180fb12b119c.mp3",
+      "duration_sec": 10.37,
+      "sound": null
+    },
+    {
+      "id": "national-c-3f4e438e24daac57",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Вінниці затримали підозрюваних у вбивстві двох жінок, один з них був у СЗЧ",
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "must_include": false,
+      "text": [
+        "У Вінниці затримали підозрюваних у вбивстві двох жінок, один з них був у СЗЧ, повідомляє NV.",
+        "Поліція затримала двох військовослужбовців, підозрюваних у вбивстві ввечері 20 жовтня двох жінок у Вінниці."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/vinnytsia/1433451-u-vinnici-zatrimali-dvoh-colovikiv-za-pidozrou-u-vbivstvi-dvoh-zinok",
+          "title": "У Вінниці затримали двох чоловіків за підозрою у вбивстві двох жінок",
+          "published_at": "2026-10-21T15:38:57+00:00"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Kryminal/podviyne-vbivstvo-na-vishentsi-dvoh-zhinok-zarizali-u-kvartiri-pidozry-12010685.html",
+          "title": "Подвійне вбивство на Слов'янці: двох жінок зарізали у квартирі, підозрювані — військові",
+          "published_at": "2026-10-21T15:57:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/21/8059142",
+          "title": "Двох військових затримали за підозрою у вбивстві двох жінок у Вінниці – поліція",
+          "published_at": "2026-10-21T19:11:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/vbivstvo-u-vinnici-policiya-zatrimala-dvoh-viyskovih-za-pidozroyu-u-zlochini-50652252.html",
+          "title": "У Вінниці затримали підозрюваних у вбивстві двох жінок, один з них був у СЗЧ",
+          "published_at": "2026-10-21T19:37:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/21/775156_vinnitsi_zatrimali_dvoh.html",
+          "title": "У Вінниці затримали двох військових, яких підозрюють у подвійному вбивстві жінок",
+          "published_at": "2026-10-21T20:02:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-3f4e438e24daac57.mp3",
+      "duration_sec": 12.43,
+      "sound": null
+    },
+    {
+      "id": "national-c-01df1450d8921e72",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Свеській громаді троє поранених через російські удари по авто",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У Свеській громаді троє поранених через російські удари по авто, повідомляє Суспільне.",
+        "Вранці та вдень 21 жовтня російські військовослужбовці атакували безпілотниками цивільні автомобілі у Свеській громаді."
+      ],
+      "sources": [
+        {
+          "name": "Ямпіль.INFO",
+          "url": "https://yampil.info/archives/90121.html",
+          "title": "Росіяни атакували Свеську громаду: що відомо",
+          "published_at": "2026-10-21T06:26:01+00:00"
+        },
+        {
+          "name": "Свеса.Online",
+          "url": "https://svesa.online/news/9570",
+          "title": "Війська рф вдарили по Свеській громаді: які наслідки",
+          "published_at": "2026-10-21T06:39:20+00:00"
+        },
+        {
+          "name": "Середина-Буда.City",
+          "url": "https://buda.city/?p=18081",
+          "title": "Російські обстріли спричинили наслідки у Середино-Будській громаді",
+          "published_at": "2026-10-21T08:21:58+00:00"
+        },
+        {
+          "name": "На межі",
+          "url": "https://mezha.city/news/35878",
+          "title": "Як живуть прикордонні Середино-Будська та Зноб-Новгородська громади під час тривалих відключень світла",
+          "published_at": "2026-10-21T09:35:57+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/sumy/1433275-u-sveskij-gromadi-troe-poranenih-cerez-rosijski-udari-po-avto",
+          "title": "У Свеській громаді троє поранених через російські удари по авто",
+          "published_at": "2026-10-21T13:42:49+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-01df1450d8921e72.mp3",
+      "duration_sec": 11.78,
+      "sound": null
+    },
+    {
+      "id": "national-c-0d818aaaeb8ca271",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Лідером є Золочівська. Які громади Харківщини зазнали найбільше ударів РФ від початку року",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Лідером є Золочівська. Які громади Харківщини зазнали найбільше ударів РФ від початку року, повідомляє Суспільне.",
+        "Від початку 2026 року у Золочівській громаді зафіксували 1491 російський удар."
+      ],
+      "sources": [
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/21/1491-obstril-z-pochatku-roku-yaka-gromada-na-harkivshhini-poterpaye-najbilshe",
+          "title": "1491 обстріл з початку року: яка громада на Харківщині потерпає найбільше",
+          "published_at": "2026-10-21T10:34:05+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1433155-liderom-e-zolocivska-aki-gromadi-harkivsini-zaznali-najbilse-udariv-rf-vid-pocatku-roku",
+          "title": "Лідером є Золочівська. Які громади Харківщини зазнали найбільше ударів РФ від початку року",
+          "published_at": "2026-10-21T11:50:40+00:00"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/na-harkivshhini-vid-pochatku-roku-vnaslidok-obstriliv-zaginuli-492-lyudini",
+          "title": "На Харківщині від початку року внаслідок обстрілів загинули 492 людини",
+          "published_at": "2026-10-21T13:56:00+00:00"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/zolocivska-gromada-1491-obstril-vid-pocatku-2026-roku-dani-policii.html",
+          "title": "Золочівська громада стала найбільш обстрілюваною на Харківщині: майже 1500 атак від початку року",
+          "published_at": "2026-10-21T16:16:00+00:00"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/obstrili-harkivsini-u-2026-roci-policia-povidomila-pro-492-zagiblih.html",
+          "title": "Майже 500 загиблих і понад 3200 поранених: поліція назвала кількість жертв обстрілів на Харківщині",
+          "published_at": "2026-10-21T18:21:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-0d818aaaeb8ca271.mp3",
+      "duration_sec": 13.64,
+      "sound": null
+    },
+    {
+      "id": "national-c-3d1b5d167988616d",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Отримав 50% опіків внаслідок атаки «шахеда»: як у Львові лікували киянина за допомогою шкіри свині та риби",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Отримав 50% опіків внаслідок атаки «шахеда»: як у Львові лікували киянина за допомогою шкіри свині та риби, повідомляє Суспільне.",
+        "Медики лікарні святого Луки у Львові врятували 43-річного киянина, який ледве не загинув від атаки «шахеда» на Одещині, коли повертався із відпочинку."
+      ],
+      "sources": [
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12570-vyzhyv-pislya-pryamoho-udaru-shakheda-v-tsysternu-u-lvovi-vryatuvaly-kyyanyna-z-50-opikamy-tila",
+          "title": "Вижив після прямого удару \"Шахеда\" в цистерну: у Львові врятували киянина з 50% опіками тіла",
+          "published_at": "2026-10-21T08:55:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1432937-otrimav-50-opikiv-vnaslidok-ataki-saheda-ak-u-lvovi-likuvali-kianina-za-dopomogou-skiri-svini-ta-ribi",
+          "title": "Отримав 50% опіків внаслідок атаки «шахеда»: як у Львові лікували киянина за допомогою шкіри свині та риби",
+          "published_at": "2026-10-21T09:25:36+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/21/u-lvovi-prooperuvaly-cholovika-yakyj-vnaslidok-ataky-shaheda-otrymav-50-opikiv-tila",
+          "title": "У Львові проходить лікування чоловік, який внаслідок атаки “шахеда” отримав 50% опіків тіла",
+          "published_at": "2026-10-21T12:32:00+00:00"
+        },
+        {
+          "name": "Сихів.Медіа",
+          "url": "https://sykhiv.media/u-likarni-svyatogo-luky-vryatuvaly-cholovika-z-50-opikiv-pislya-ataky-drona",
+          "title": "У лікарні Святого Луки врятували чоловіка з 50% опіків після атаки дрона",
+          "published_at": "2026-10-21T13:16:22+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/national-c-3d1b5d167988616d.mp3",
+      "duration_sec": 16.85,
+      "sound": null
+    },
+    {
+      "id": "transition",
+      "kind": "transition",
+      "block": "transition",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [],
+      "sources": [],
+      "audio": null,
+      "duration_sec": 0,
+      "sound": "bumper"
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Новини регіонів."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/regional-heading.mp3",
+      "duration_sec": 1.38,
+      "sound": null
+    },
+    {
+      "id": "regional-c-01cdac0212db0ec6",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Петропіллі та у Лісному на Харківщині двоє чоловіків підірвалися на невідомих вибухонебезпечних предметах",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У Петропіллі та у Лісному на Харківщині двоє чоловіків підірвалися на невідомих вибухонебезпечних предметах, повідомляє Суспільне.",
+        "У селі Петропіллі Лозівського району чоловік наступив на невідомий вибухонебезпечний предмет."
+      ],
+      "sources": [
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/na-harkivshhini-cholovik-postrazhdav-cherez-pidriv-na-vibuhivczi",
+          "title": "На Харківщині чоловік постраждав через підрив на вибухівці",
+          "published_at": "2026-10-21T12:26:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1433293-u-petropilli-na-harkivsini-colovik-pidirvavsa-na-nevidomomu-vibuhonebezpecnomu-predmeti",
+          "title": "У Петропіллі та у Лісному на Харківщині двоє чоловіків підірвалися на невідомих вибухонебезпечних предметах",
+          "published_at": "2026-10-21T13:38:32+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/21/dvoye-lyudej-za-odin-den-pidirvalisya-na-harkivshhini",
+          "title": "Двоє людей за один день підірвалися на Харківщині",
+          "published_at": "2026-10-21T14:55:46+00:00"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/dvoye-lyudey-pidirvalys-za-den-na-kharkivshchyni",
+          "title": "Двоє людей підірвались за день на Харківщині",
+          "published_at": "2026-10-21T15:24:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/regional-c-01cdac0212db0ec6.mp3",
+      "duration_sec": 12.25,
+      "sound": null
+    },
+    {
+      "id": "regional-c-1dd0bec17fe201d1",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Росіяни вдарили по автомобілі у Запорізькій області, загинули люди",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Росіяни вдарили по автомобілі у Запорізькій області, загинули люди, повідомляє LB.ua.",
+        "У цивільне авто ворожий FPV-дрон влучив поблизу Комишувахи."
+      ],
+      "sources": [
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/10/21/400017_rosijskyj-fpv-dron-vluchyv-u-czyvilne-avto-bilya-komyshuvahy-ye-zagybli",
+          "title": "Російський FPV-дрон влучив у цивільне авто біля Комишувахи: є загиблі",
+          "published_at": "2026-10-21T11:25:45+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1433137-ataki-rf-na-zaporizza-ta-oblast-21-zovtna-so-vidomo",
+          "title": "Атаки РФ на Запоріжжя та область 21 жовтня: що відомо",
+          "published_at": "2026-10-21T11:30:18+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/21/775024_rosiyani_vdarili_avtomobili.html",
+          "title": "Росіяни вдарили по автомобілі у Запорізькій області, загинули люди",
+          "published_at": "2026-10-21T11:36:00+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-dronom-tsyvilnu-avtivku-na-zaporizhzhi-zagynuly-dvoye-lyudej",
+          "title": "РФ атакувала дроном цивільну автівку на Запоріжжі: загинули двоє людей",
+          "published_at": "2026-10-21T12:31:29+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/regional-c-1dd0bec17fe201d1.mp3",
+      "duration_sec": 8.96,
+      "sound": null
+    },
+    {
+      "id": "regional-c-152a8540e2ff24a8",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска»",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска», повідомляє Громадське радіо.",
+        "Саме тоді, коли волонтери прямували по групу маломобільних людей до Краматорська."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272946-na-donechchyni-rosiyskyy-dron-spalyv-bronyovane-avto-evakuatsiynoyi-misiyi-proliska",
+          "title": "На Донеччині російський дрон атакував авто евакуаційної місії «Проліска»",
+          "published_at": "2026-10-21T17:41:00+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-atakuvaly-evakuatsiinu-avtivku-prolisky-v-ocheretynomu",
+          "title": "Росіяни атакували евакуаційну автівку “Проліски” в Очеретиному",
+          "published_at": "2026-10-21T17:53:50+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/21/na-donechchyni-rosiiskyi-dron-atakuvav-avto-evakuatsiinoi-misii",
+          "title": "На Донеччині російський дрон атакував авто евакуаційної місії “Проліска”",
+          "published_at": "2026-10-21T18:02:19+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1433509-rosijski-vijska-atakuvali-evakuacijnij-avtomobil-proliski",
+          "title": "Окупанти атакували евакуаційний автомобіль «Проліски» на Донеччині, це 120 атака на гуманітарну місію",
+          "published_at": "2026-10-21T18:03:07+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosijskyj-dron-atakuvav-avto-evakuatsijnoyi-misiyi-proliska-na-donechchyni",
+          "title": "Російський дрон атакував авто евакуаційної місії «Проліска» на Донеччині",
+          "published_at": "2026-10-21T18:41:57+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176857-vorozij-dron-atakuvav-evakuacijnu-avtivku-na-doneccini.html",
+          "title": "Ворожий дрон атакував евакуаційну автівку на Донеччині",
+          "published_at": "2026-10-21T18:58:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/21/na-donechchyni-fpv-dron-atakuvav-avto-humanitarnoi-misii-proliska",
+          "title": "На Донеччині FPV-дрон атакував авто гуманітарної місії «Проліска»",
+          "published_at": "2026-10-21T19:14:18+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/regional-c-152a8540e2ff24a8.mp3",
+      "duration_sec": 10.14,
+      "sound": null
+    },
+    {
+      "id": "regional-c-0002dee6b74701c1",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Словʼянську дістали з-під завалів тіла трьох жінок: кількість загиблих через авіаудар 17 жовтня зросла до девʼяти",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "У Словʼянську дістали з-під завалів тіла трьох жінок: кількість загиблих через авіаудар 17 жовтня зросла до девʼяти, повідомляє Суспільне.",
+        "З-під завалів пʼятиповерхівок дістали тіла трьох жінок віком від 52 до 77 років, повідомив начальник МВА Лях."
+      ],
+      "sources": [
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/kilkist-zagiblix-u-sloviansku-zrosla-do-deviati-z-pid-zavaliv-zruinovanix-aviabombami-budinkiv-distali-tila-tryox-zinok",
+          "title": "Кількість загиблих у Слов’янську зросла до дев’яти: з-під завалів зруйнованих авіабомбами будинків дістали тіла трьох жінок",
+          "published_at": "2026-10-21T05:55:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1432751-u-slovansku-distali-z-pid-zavaliv-tila-troh-zinok-kilkist-zagiblih-cerez-aviaudar-17-zovtna-zrosla-do-devati",
+          "title": "У Словʼянську дістали з-під завалів тіла трьох жінок: кількість загиблих через авіаудар 17 жовтня зросла до девʼяти",
+          "published_at": "2026-10-21T06:11:08+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/u-sloviansku-z-pid-zavaliv-distali-tila-3-zhinok-dieblokuvannia-vsikh-zaghiblikh-17-zhovtnia-zaviershieno",
+          "title": "У Слов'янську з-під завалів дістали тіла 3 жінок: деблокування всіх загиблих 17 жовтня завершено",
+          "published_at": "2026-10-21T06:16:00+00:00"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/u-slov-iansku-zavershyly-rozbir-zavaliv-pislia-aviaudaru-rosii-po-bahatopoverkhivtsi-vidomo-pro-dev-iatokh-zahyblykh",
+          "title": "У Слов’янську завершили розбір завалів після авіаудару Росії по багатоповерхівці: відомо про дев’ятьох загиблих",
+          "published_at": "2026-10-21T07:37:54+00:00"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/do-9-zrosla-kilkist-zaghiblikh-vnaslidok-subotnogho-aviaudaru-po-sloviansku-z-pid-zavaliv-vitiaghli-tila-shchie-trokh-zhiertv",
+          "title": "До 9 зросла кількість загиблих внаслідок суботнього авіаудару по Слов’янську. З-під завалів витягли тіла ще трьох жертв",
+          "published_at": "2026-10-21T07:38:40+00:00"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/u-slovyansku-z-pid-zavaliv-zrujnovanyh-aviabombamy-budynkiv-distaly-tila-zagyblyh",
+          "title": "У Слов’янську з-під завалів зруйнованих авіабомбами будинків дістали тіла загиблих",
+          "published_at": "2026-10-21T07:51:18+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/5-dniv-trivali-avariino-riatuvalni-roboti-u-sloviansku-z-pid-zavaliv-distali-tila-7-zaghiblikh-foto-vidieo",
+          "title": "5 днів тривали аварійно-рятувальні роботи у Слов'янську, з-під завалів дістали тіла 7 загиблих (фото, відео)",
+          "published_at": "2026-10-21T08:31:00+00:00"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/u-sloviansku-z-pid-zavaliv-distaly-tila-semy-zahyblykh-sered-nykh-riatuvalnyk-dsns",
+          "title": "У Слов’янську з-під завалів дістали тіла семи загиблих, серед них — рятувальник ДСНС",
+          "published_at": "2026-10-21T08:57:19+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/403774-obstril-kramatorskoyi-gromady-zagorivsya-zrujnovanyj-budynok",
+          "title": "Обстріл Краматорської громади: загорівся зруйнований будинок",
+          "published_at": "2026-10-21T11:24:58+00:00"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/u-slov-iansku-zavershyly-rozbir-zavaliv-pislia-aviaudaru-zahynuly-dev-iatero-liudej",
+          "title": "У Слов’янську завершили розбір завалів після авіаудару: загинули дев’ятеро людей",
+          "published_at": "2026-10-21T12:04:35+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/u-sloviansku-deblokuvaly-try-tila-z-pid-zavaliv-atakovanykh-17-zhovtnia-budynkiv-shcho-vidomo",
+          "title": "У Слов’янську знайшли три тіла під завалами атакованих 17 жовтня будинків: що відомо",
+          "published_at": "2026-10-21T13:23:54+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/regional-c-0002dee6b74701c1.mp3",
+      "duration_sec": 15.36,
+      "sound": null
+    },
+    {
+      "id": "regional-c-27dbc3dcbe51372e",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Російська атака на Тернопільщину: травмовані троє неповнолітніх і жінка",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Російська атака на Тернопільщину: травмовані троє неповнолітніх і жінка, повідомляє Суспільне.",
+        "До лікарні госпіталізуали госпіталізовані двох людей."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/21/775050_ternopilschini_cherez_padinnya.html",
+          "title": "На Тернопільщині через падіння уламків БпЛА пошкоджено будівлю",
+          "published_at": "2026-10-21T12:38:00+00:00"
+        },
+        {
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/vnaslidok-udaru-vorozhogo-bezpilotnika-po-chortkovu-e-poterpili-sered--12010659.html",
+          "title": "Внаслідок удару ворожого безпілотника по Чорткову, є потерпілі: серед них — діти",
+          "published_at": "2026-10-21T13:20:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ternopil/1433277-na-ternopilsini-vnaslidok-ataki-bpla-e-travmovani",
+          "title": "На Тернопільщині внаслідок атаки БПЛА є травмовані",
+          "published_at": "2026-10-21T13:24:06+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ternopilshchyna-dity-ataka-rf/33881034.html",
+          "title": "Російський БпЛА знову атакував Чортків на Тернопільщині, постраждали діти – влада",
+          "published_at": "2026-10-21T15:00:20+00:00"
+        },
+        {
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/ryatuvalniki-pokazali-kadri-z-mistsya-udaru-po-chortkovu-postrazhdali--12010677.html",
+          "title": "Рятувальники показали кадри з місця удару по Чорткову: постраждали троє дітей і жінка",
+          "published_at": "2026-10-21T15:07:00+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/21/rosiiany-poranyly-na-ternopilshchyni-trokh-liudej",
+          "title": "Росіяни поранили на Тернопільщині трьох людей",
+          "published_at": "2026-10-21T15:07:44+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/21/novyna/bezpeka/okupanty-atakuvaly-ternopilshhynu-sered-postrazhdalyx-ye-nepovnolitni",
+          "title": "Окупанти атакували Тернопільщину, серед постраждалих є неповнолітні",
+          "published_at": "2026-10-21T15:13:25+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ternopil/1433433-unaslidok-rosijskoi-ataki-na-ternopilsini-postrazdali-troe-ludej",
+          "title": "Унаслідок російської атаки на Тернопільщині травмовані троє людей",
+          "published_at": "2026-10-21T15:20:10+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/21/na-ternopishhyni-vnaslidok-vorozhoyi-ataky-postrazhdaly-troye-lyudej",
+          "title": "На Тернопіьщині внаслідок ворожої атаки постраждали троє людей",
+          "published_at": "2026-10-21T16:07:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ternopil/1433481-rosijska-ataka-na-ternopilsinu-travmovani-troe-nepovnolitnih-i-zinka",
+          "title": "Російська атака на Тернопільщину: травмовані троє неповнолітніх і жінка",
+          "published_at": "2026-10-21T16:14:02+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4176826-troe-ditej-i-doroslij-u-cortkovi-zrosla-kilkist-postrazdalih-cerez-ataku-drona.html",
+          "title": "Троє дітей і дорослий: у Чорткові зросла кількість постраждалих через атаку дрона",
+          "published_at": "2026-10-21T16:39:56+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224135.html",
+          "title": "Росіяни атакували Тернопільщину, постраждали четверо людей – ОВА",
+          "published_at": "2026-10-21T17:18:42+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/21/novyna/bezpeka/rosijska-ataka-chortkiv-kilkist-postrazhdalyx-zrosla",
+          "title": "Російська атака на Чортків: кількість постраждалих зросла",
+          "published_at": "2026-10-21T17:44:07+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/regional-c-27dbc3dcbe51372e.mp3",
+      "duration_sec": 8.57,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Волинь."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/local-volyn-heading.mp3",
+      "duration_sec": 0.99,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-3f6f493ff6ec62c1",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК, повідомляє Суспільне.",
+        "Стало відомо про загибель захисників з Волині: Костянтина Клюби з Горохівської громади, лучанина Юрія Андрійчука, Валерія Вороб'я з села Нові Кошари та Віталія Шульги з Торчина, Олексія Андріюка з Зимнівської громади."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1432819-zaginuli-5-bijciv-z-volini-smert-4-iz-nih-vstanovili-za-ekspertizou-dnk",
+          "title": "Загинули 5 бійців з Волині: смерть 4 із них встановили за експертизою ДНК",
+          "published_at": "2026-10-21T19:01:07+00:00"
+        },
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/na-vijni-zagynuv-geroj-iz-zymnivskoyi-gromady-oleksij-andriyuk",
+          "title": "На війні загинув Герой із Зимнівської громади Олексій Андріюк",
+          "published_at": "2026-10-21T21:14:51+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-volyn-c-3f6f493ff6ec62c1.mp3",
+      "duration_sec": 17.32,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-4e51747d48d05f8e",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Після Луцька зупинився ще один завод Kromberg & Schubert: під загрозою 3600 робочих місць",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Після Луцька зупинився ще один завод Kromberg & Schubert: під загрозою 3600 робочих місць, повідомляє Новинарня.",
+        "Унаслідок російських обстрілів на Житомирщині припинив свою роботу завод Kromberg & Schubert."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272932-3600-pratsivnykiv-zalyshylysia-bez-roboty-cherez-rosiyski-ataky-na-zytomyrshchyni-zupynyv-robotu-zavod-kromberg-schubert",
+          "title": "3600 працівників втратили роботу. Через російські атаки на Житомирщині зупинився завод Kromberg & Schubert",
+          "published_at": "2026-10-21T14:39:00+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/21/pislia-lutska-zupynyvsia-shche-odyn-zavod-kromberg-and-schubert-pid",
+          "title": "Після Луцька зупинився ще один завод Kromberg & Schubert: під загрозою 3600 робочих місць",
+          "published_at": "2026-10-21T15:39:15+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-volyn-c-4e51747d48d05f8e.mp3",
+      "duration_sec": 11.7,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-b464b115b91a5b40",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Росія пошкодила енергооб’єкти Волині та ще 3 областей",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Росія пошкодила енергооб’єкти Волині та ще 3 областей, повідомляє Район.in.ua.",
+        "Від 19 жовтня Росія завдала близько 60 цілеспрямованих ударів по енергетичній та нафтогазовій інфраструктурі України."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4176852-rosiani-za-tri-dni-zavdali-blizko-60-udariv-po-energo-i-naftogazovij-infrastrukturi.html",
+          "title": "Росіяни за три дні завдали близько 60 ударів по енерго- і нафтогазовій інфраструктурі",
+          "published_at": "2026-10-21T18:34:47+00:00"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1110623-rosiia-zavdala-blizko-60-udariv-po-energeticnii-ta-naftogazovii-infrastrukturi-ukrayini-za-tri-dni",
+          "title": "Росія пошкодила енергооб’єкти Волині та ще 3 областей",
+          "published_at": "2026-10-21T19:00:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-volyn-c-b464b115b91a5b40.mp3",
+      "duration_sec": 12.64,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Хмельниччина."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/local-khmelnytskyi-heading.mp3",
+      "duration_sec": 1.25,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-de9e97d8c71ec7fe",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Жителі 23 населених пунктів однієї з громад Хмельниччини без світла через російський обстріл 19 жовтня",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Жителі 23 населених пунктів однієї з громад Хмельниччини без світла через російський обстріл 19 жовтня, повідомляє Суспільне.",
+        "Тоді було пошкоджено енергетичне обладнання."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1433569-ziteli-23-naselenih-punktiv-odniei-z-gromad-hmelniccini-bez-svitla-cerez-rosijskij-obstril-19-zovtna",
+          "title": "Жителі 23 населених пунктів однієї з громад Хмельниччини без світла через російський обстріл 19 жовтня",
+          "published_at": "2026-10-21T20:02:52+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-khmelnytskyi-c-de9e97d8c71ec7fe.mp3",
+      "duration_sec": 10.61,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-965410a90d72d117",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Росіяни завдали удару по Хмельницькій області: є постраждалі",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Росіяни завдали удару по Хмельницькій області: є постраждалі, повідомляє ZN.UA.",
+        "В області тривають ремонтні роботи на енергооб'єктах."
+      ],
+      "sources": [
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosijani-zavdali-udaru-po-khmelnitskij-oblasti-je-postrazhdali-.html",
+          "title": "Росіяни завдали удару по Хмельницькій області: є постраждалі",
+          "published_at": "2026-10-21T10:04:45+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-khmelnytskyi-c-965410a90d72d117.mp3",
+      "duration_sec": 8.2,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-055e7ba5186f6845",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Підготовка пічного опалення до зими: майже 200 пожеж сталися через порушення правил використання печей на Хмельниччині",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Підготовка пічного опалення до зими: майже 200 пожеж сталися через порушення правил використання печей на Хмельниччині, повідомляє Суспільне.",
+        "Від початку 2026 року на Хмельниччині через порушення правил пожежної безпеки під час облаштування та експлуатації печей сталися 177 пожеж."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1431995-pidgotovka-picnogo-opalenna-do-zimi-majze-200-pozez-stalisa-cerez-porusenna-pravil-vikoristanna-pecej-na-hmelniccini",
+          "title": "Підготовка пічного опалення до зими: майже 200 пожеж сталися через порушення правил використання печей на Хмельниччині",
+          "published_at": "2026-10-21T16:15:19+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-khmelnytskyi-c-055e7ba5186f6845.mp3",
+      "duration_sec": 17.45,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Закарпаття."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/local-zakarpattia-heading.mp3",
+      "duration_sec": 1.25,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-e522fa7592abf4dd",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "На війні загинув військовослужбовець Олександр Пахота із Закарпаття",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "На війні загинув військовослужбовець Олександр Пахота із Закарпаття, повідомляє Суспільне.",
+        "На війні загинув майор Олександр Пахота із Олешницької громади Берегівського району."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1433511-na-vijni-zaginuv-vijskovosluzbovec-oleksandr-pahota-iz-zakarpatta",
+          "title": "На війні загинув військовослужбовець Олександр Пахота із Закарпаття",
+          "published_at": "2026-10-21T17:27:06+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-zakarpattia-c-e522fa7592abf4dd.mp3",
+      "duration_sec": 9.9,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-177e84159c105165",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "9 років тюрми отримав іноземець на Закарпатті за контрабанду канабісу",
+      "topics": [
+        "Політика",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "9 років тюрми отримав іноземець на Закарпатті за контрабанду канабісу, повідомляє Zaholovok.com.ua.",
+        "На Закарпатті до 9 років засудили 64-річного громадянина Нідерландів, який намагався перевезти через українсько-угорський кордон девʼять пакетів канабісу."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1432885-do-9-rokiv-uvaznenna-zasudili-inozemca-akij-namagavsa-vivezti-z-ukraini-ponad-4-kg-kanabisu",
+          "title": "До 9 років ув'язнення засудили іноземця, який намагався вивезти з України понад 4 кг канабісу",
+          "published_at": "2026-10-21T08:27:29+00:00"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/9-rokiv-tyurmy-otrymav-inozemets-na-zakarpatti-za-kontrabandu-kanabisu",
+          "title": "9 років тюрми отримав іноземець на Закарпатті за контрабанду канабісу",
+          "published_at": "2026-10-21T13:44:19+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-zakarpattia-c-177e84159c105165.mp3",
+      "duration_sec": 15.05,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-f37c87c66594e95d",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "Платні парковки принесли до бюджетів Закарпаття більш як 5,7 мільйонів гривень",
+      "topics": [
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Платні парковки принесли до бюджетів Закарпаття більш як 5,7 мільйонів гривень, повідомляє PMG.ua.",
+        "За місця для паркування до місцевих бюджетів у Закарпатській області надійшло 5,71 млн грн збору."
+      ],
+      "sources": [
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/economy/143755-platni-parkovky-prynesly-do-biudzhetiv-zakarpattia-bilsh-iak-57-milyoniv-hryven",
+          "title": "Платні парковки принесли до бюджетів Закарпаття більш як 5,7 мільйонів гривень",
+          "published_at": "2026-10-21T07:47:47+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-22/audio/local-zakarpattia-c-f37c87c66594e95d.mp3",
+      "duration_sec": 13.82,
+      "sound": null
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це були новини BRIEF за двадцять друге жовтня.",
+        "Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-22/audio/outro.mp3",
+      "duration_sec": 5.2,
+      "sound": null
+    }
+  ]
+}

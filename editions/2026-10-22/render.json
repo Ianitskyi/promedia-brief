@@ -1,0 +1,681 @@
+{
+  "date": "2026-10-22",
+  "script_sha256": "c8c1d6db93112d9baf4f8099bcc75500f6287efe751388783af5c5e2edad81b4",
+  "provider": "styletts2",
+  "voice": "male_2",
+  "paid": false,
+  "price_per_million_chars_usd": 0.0,
+  "rendered_at": "2026-10-22T04:45:21+00:00",
+  "elapsed_sec": 341.2,
+  "characters": 5227,
+  "estimated_cost_usd": 0.0,
+  "api_calls": 52,
+  "cached_chunks": 0,
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "file": "editions/2026-10-22/audio/intro.mp3",
+      "duration_sec": 8.41,
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "text_sha256": "1c965e987352bbe9c69ef8744a9d2da53932a708af442eb21b8b2f97295391f4",
+          "chunks": 1
+        },
+        {
+          "id": "intro-s2",
+          "text_sha256": "ab34bda26e1894f10f70c87953c7a7dc35063def61ee641a802f7b7a9603cc2d",
+          "chunks": 1
+        },
+        {
+          "id": "intro-s3",
+          "text_sha256": "ba368e767b9f9e336bf9e8483723de2876ac3b1f0d9394f211501aee03664901",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-heading.mp3",
+      "duration_sec": 1.46,
+      "sentences": [
+        {
+          "id": "national-heading-s1",
+          "text_sha256": "bc59f4346cf9c5e023cbacf65323b6b46eaacd9b47c58d6ecb296b94edcac28d",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-16d2249f549b9927",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-16d2249f549b9927.mp3",
+      "duration_sec": 13.11,
+      "sentences": [
+        {
+          "id": "c-16d2249f549b9927-s1",
+          "text_sha256": "6cce113d122afbbd7152a420a6a47eb32ec4659cb406a1d2b25087ba37f84796",
+          "chunks": 1
+        },
+        {
+          "id": "c-16d2249f549b9927-s2",
+          "text_sha256": "26a56ea4944be041a3392e47e2dbc52b45fc3332c3dfd62150e5f43cea99c070",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-13901985cb0b18b9",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-13901985cb0b18b9.mp3",
+      "duration_sec": 22.88,
+      "sentences": [
+        {
+          "id": "c-13901985cb0b18b9-s1",
+          "text_sha256": "fdf15e62d971de0e79929ed8a8cbdf4dd668808ae4027db16bf2d155951cacc0",
+          "chunks": 1
+        },
+        {
+          "id": "c-13901985cb0b18b9-s2",
+          "text_sha256": "4a82ffd02557395153d230c17334300ece356376110eb056dbadc0d5e3407240",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-3557180fb12b119c",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-3557180fb12b119c.mp3",
+      "duration_sec": 10.37,
+      "sentences": [
+        {
+          "id": "c-3557180fb12b119c-s1",
+          "text_sha256": "aa9eb21e48579e5f20ab89f2632c296042e2bb3569b398f1e494c83f0c4a3ca5",
+          "chunks": 1
+        },
+        {
+          "id": "c-3557180fb12b119c-s2",
+          "text_sha256": "28f00b5fb1180438f26adce3a71c773ef1e7ae973d58651e5f2b9bd433fe3487",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-3f4e438e24daac57",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-3f4e438e24daac57.mp3",
+      "duration_sec": 12.43,
+      "sentences": [
+        {
+          "id": "c-3f4e438e24daac57-s1",
+          "text_sha256": "ff5952056e1f46f0b2dd53030acae1dc21c3dc9b5c29ae12e3e796635715234b",
+          "chunks": 1
+        },
+        {
+          "id": "c-3f4e438e24daac57-s2",
+          "text_sha256": "a94232e5b5407fd19bb67df9924e8f120a39089a83b7143394e0fe1fa7b42a96",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-01df1450d8921e72",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-01df1450d8921e72.mp3",
+      "duration_sec": 11.78,
+      "sentences": [
+        {
+          "id": "c-01df1450d8921e72-s1",
+          "text_sha256": "82091e5cf782b81cb05370d0c69831352866937d0283b22f7812a2143b72745d",
+          "chunks": 1
+        },
+        {
+          "id": "c-01df1450d8921e72-s2",
+          "text_sha256": "6bde613ce660f21673e5e7921012549f401233c6ff57f251b37557f7c2493229",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-0d818aaaeb8ca271",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-0d818aaaeb8ca271.mp3",
+      "duration_sec": 13.64,
+      "sentences": [
+        {
+          "id": "c-0d818aaaeb8ca271-s1",
+          "text_sha256": "2abffa6d35a88fa6bc7cfb7da313089da5335ad595cb9d500a087ef93af1afbf",
+          "chunks": 1
+        },
+        {
+          "id": "c-0d818aaaeb8ca271-s2",
+          "text_sha256": "92dd97279dcb0a6da1c197815b1ac016021078377d4ffb7e1a2c218c9fdda605",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "national-c-3d1b5d167988616d",
+      "kind": "story",
+      "block": "national",
+      "file": "editions/2026-10-22/audio/national-c-3d1b5d167988616d.mp3",
+      "duration_sec": 16.85,
+      "sentences": [
+        {
+          "id": "c-3d1b5d167988616d-s1",
+          "text_sha256": "0886fd9894e3abd537280dd2a1b2168a65d79663df434cedb5961a302e1c8fd5",
+          "chunks": 1
+        },
+        {
+          "id": "c-3d1b5d167988616d-s2",
+          "text_sha256": "00b93ce65f11031f191522229f6968caa149ac27af8a985ae2f475e2503ece17",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-heading.mp3",
+      "duration_sec": 1.38,
+      "sentences": [
+        {
+          "id": "regional-heading-s1",
+          "text_sha256": "433970b9988713ece9618a0228624a84dc51ea757e78490f28bd60bff192da74",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-c-01cdac0212db0ec6",
+      "kind": "story",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-c-01cdac0212db0ec6.mp3",
+      "duration_sec": 12.25,
+      "sentences": [
+        {
+          "id": "c-01cdac0212db0ec6-s1",
+          "text_sha256": "d6ca132fe2e51f0658ae7559e227b0e62f01af6abbaa75146dee0ca90b59c15d",
+          "chunks": 1
+        },
+        {
+          "id": "c-01cdac0212db0ec6-s2",
+          "text_sha256": "aad62027d4ced41f33a8c9e7e0454c3a2ddb77ca8ee68ae3586cb7566d17110b",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-c-1dd0bec17fe201d1",
+      "kind": "story",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-c-1dd0bec17fe201d1.mp3",
+      "duration_sec": 8.96,
+      "sentences": [
+        {
+          "id": "c-1dd0bec17fe201d1-s1",
+          "text_sha256": "8a99fd7113995114bf4a6d50d65884b326d68766b9a47e52c817db618fb1aeae",
+          "chunks": 1
+        },
+        {
+          "id": "c-1dd0bec17fe201d1-s2",
+          "text_sha256": "bbc4774ea40a3df711fd3df35a3eb40e608b1fa0213e5170efdb38a068cdbb89",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-c-152a8540e2ff24a8",
+      "kind": "story",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-c-152a8540e2ff24a8.mp3",
+      "duration_sec": 10.14,
+      "sentences": [
+        {
+          "id": "c-152a8540e2ff24a8-s1",
+          "text_sha256": "9f0016c1887d236e2392a702c2a67a6c79ef71344141882561957299431fa702",
+          "chunks": 1
+        },
+        {
+          "id": "c-152a8540e2ff24a8-s2",
+          "text_sha256": "aad7ec7dee6dcc2732b5265e97c3b6cb1566845348d330bb55572645b7bd4f4e",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-c-0002dee6b74701c1",
+      "kind": "story",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-c-0002dee6b74701c1.mp3",
+      "duration_sec": 15.36,
+      "sentences": [
+        {
+          "id": "c-0002dee6b74701c1-s1",
+          "text_sha256": "8cc1ac762c2bdf852335263c699d5c5544e8679a3b074a6522dc3e37e21d7074",
+          "chunks": 1
+        },
+        {
+          "id": "c-0002dee6b74701c1-s2",
+          "text_sha256": "416b061247f1279da9f2effafc3f9cb27c742d6496d3a5e4602d0f77e5012b0f",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "regional-c-27dbc3dcbe51372e",
+      "kind": "story",
+      "block": "regional",
+      "file": "editions/2026-10-22/audio/regional-c-27dbc3dcbe51372e.mp3",
+      "duration_sec": 8.57,
+      "sentences": [
+        {
+          "id": "c-27dbc3dcbe51372e-s1",
+          "text_sha256": "ac8166a597b21c014a598a59f4f6bf14dd13f07dd1959f3649f7aca567c59219",
+          "chunks": 1
+        },
+        {
+          "id": "c-27dbc3dcbe51372e-s2",
+          "text_sha256": "2f804f15af86996f48ba31a5e4127330b4fa8401086371e7ad05f6d0374101a9",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "file": "editions/2026-10-22/audio/local-volyn-heading.mp3",
+      "duration_sec": 0.99,
+      "sentences": [
+        {
+          "id": "local-volyn-heading-s1",
+          "text_sha256": "595e03189cefbdb011c33f663c0a4a9bbcfe7711f32340a1a79e518d39ad994c",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-volyn-c-3f6f493ff6ec62c1",
+      "kind": "story",
+      "block": "local:volyn",
+      "file": "editions/2026-10-22/audio/local-volyn-c-3f6f493ff6ec62c1.mp3",
+      "duration_sec": 17.32,
+      "sentences": [
+        {
+          "id": "c-3f6f493ff6ec62c1-s1",
+          "text_sha256": "b9da32194c8e5fc78c948947d0f454ec5eeae1613efa3f515bcee91253ed2241",
+          "chunks": 1
+        },
+        {
+          "id": "c-3f6f493ff6ec62c1-s2",
+          "text_sha256": "2921cab3e8eb395dbdd1f3d7e93341aad9f4e676f0ed1034111cc49cb696d9c0",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-volyn-c-4e51747d48d05f8e",
+      "kind": "story",
+      "block": "local:volyn",
+      "file": "editions/2026-10-22/audio/local-volyn-c-4e51747d48d05f8e.mp3",
+      "duration_sec": 11.7,
+      "sentences": [
+        {
+          "id": "c-4e51747d48d05f8e-s1",
+          "text_sha256": "c5084a8394ba9592187b8e7dc42a9b62d70542a523fc4b2f818fecd129389897",
+          "chunks": 1
+        },
+        {
+          "id": "c-4e51747d48d05f8e-s2",
+          "text_sha256": "5ec029d318726667967efee762735551c610ef393dd0446309c0b81e9e89aaa9",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-volyn-c-b464b115b91a5b40",
+      "kind": "story",
+      "block": "local:volyn",
+      "file": "editions/2026-10-22/audio/local-volyn-c-b464b115b91a5b40.mp3",
+      "duration_sec": 12.64,
+      "sentences": [
+        {
+          "id": "c-b464b115b91a5b40-s1",
+          "text_sha256": "1ce8fe861e2c03de21c323bb3ab0ceec083fb90035138146296a972251b7e47c",
+          "chunks": 1
+        },
+        {
+          "id": "c-b464b115b91a5b40-s2",
+          "text_sha256": "9c041529fc97a88911df392fecc06c81c843900db6e51c569498a41ffab33ea0",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "file": "editions/2026-10-22/audio/local-khmelnytskyi-heading.mp3",
+      "duration_sec": 1.25,
+      "sentences": [
+        {
+          "id": "local-khmelnytskyi-heading-s1",
+          "text_sha256": "86495754a0bd6eac374a26cf98d839e579e436024a9ea4081ad01092db264044",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-khmelnytskyi-c-de9e97d8c71ec7fe",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "file": "editions/2026-10-22/audio/local-khmelnytskyi-c-de9e97d8c71ec7fe.mp3",
+      "duration_sec": 10.61,
+      "sentences": [
+        {
+          "id": "c-de9e97d8c71ec7fe-s1",
+          "text_sha256": "d957fe33300ca0268641b8d61730833df9086a583b8469f44cba84e8b92688e2",
+          "chunks": 1
+        },
+        {
+          "id": "c-de9e97d8c71ec7fe-s2",
+          "text_sha256": "c7e8be6e5714a1bd4893de9ce4f5a22ed6fb25c3e93d4db49929fe9d5250252a",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-khmelnytskyi-c-965410a90d72d117",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "file": "editions/2026-10-22/audio/local-khmelnytskyi-c-965410a90d72d117.mp3",
+      "duration_sec": 8.2,
+      "sentences": [
+        {
+          "id": "c-965410a90d72d117-s1",
+          "text_sha256": "4961daea02b2acd7d6e4a0b800f842e42162f8c4057f4bec25dea41bf468c301",
+          "chunks": 1
+        },
+        {
+          "id": "c-965410a90d72d117-s2",
+          "text_sha256": "30f6eddd51d167d2443b24c912fb67f719b3efa986d009b62c2c6a967a28286d",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-khmelnytskyi-c-055e7ba5186f6845",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "file": "editions/2026-10-22/audio/local-khmelnytskyi-c-055e7ba5186f6845.mp3",
+      "duration_sec": 17.45,
+      "sentences": [
+        {
+          "id": "c-055e7ba5186f6845-s1",
+          "text_sha256": "a955ca9c6a823ebfd24efef91971efda7bbb469d37bb841870f7ff7e0a5dd853",
+          "chunks": 1
+        },
+        {
+          "id": "c-055e7ba5186f6845-s2",
+          "text_sha256": "04358c90c3dcfb2999ab32c9cf05deaa0ff55c7d4d93fe62719b497ca66b9f71",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "file": "editions/2026-10-22/audio/local-zakarpattia-heading.mp3",
+      "duration_sec": 1.25,
+      "sentences": [
+        {
+          "id": "local-zakarpattia-heading-s1",
+          "text_sha256": "f65642621bfc0a5ea6eb323eda8af25f5bf6fae69919623f87f1dcdebd6923af",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-zakarpattia-c-e522fa7592abf4dd",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "file": "editions/2026-10-22/audio/local-zakarpattia-c-e522fa7592abf4dd.mp3",
+      "duration_sec": 9.9,
+      "sentences": [
+        {
+          "id": "c-e522fa7592abf4dd-s1",
+          "text_sha256": "d04886c9ff8129522743ba68b92f972b9980be380a23928ff065de810d2dcb25",
+          "chunks": 1
+        },
+        {
+          "id": "c-e522fa7592abf4dd-s2",
+          "text_sha256": "8d592434761a1fec06abc8d1351bf0e6334a3ad289a1dc76861d4a79535eb271",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-zakarpattia-c-177e84159c105165",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "file": "editions/2026-10-22/audio/local-zakarpattia-c-177e84159c105165.mp3",
+      "duration_sec": 15.05,
+      "sentences": [
+        {
+          "id": "c-177e84159c105165-s1",
+          "text_sha256": "052d4d35c85242580fbae5b9c6b9c2e82f45577869625074006a0c34a1cf1769",
+          "chunks": 1
+        },
+        {
+          "id": "c-177e84159c105165-s2",
+          "text_sha256": "ecbc13cf548051d342e77d2a1d458c33529fcc34ce9e03dd0e29873610027891",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "local-zakarpattia-c-f37c87c66594e95d",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "file": "editions/2026-10-22/audio/local-zakarpattia-c-f37c87c66594e95d.mp3",
+      "duration_sec": 13.82,
+      "sentences": [
+        {
+          "id": "c-f37c87c66594e95d-s1",
+          "text_sha256": "e6a9ed9e4a01d901aa79ffb2549e3b8b4509f873227050775010f9b7a8081e5b",
+          "chunks": 1
+        },
+        {
+          "id": "c-f37c87c66594e95d-s2",
+          "text_sha256": "be7f10d32942d0baa9d4fef6bd0fb9aee600ca54fbb0d00ffa9800730a790623",
+          "chunks": 1
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "file": "editions/2026-10-22/audio/outro.mp3",
+      "duration_sec": 5.2,
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "text_sha256": "62544e26e26c60d66735e7ab5b9d67cbca94b3a80dce41860eb75ee5a4b0aa02",
+          "chunks": 1
+        },
+        {
+          "id": "outro-s2",
+          "text_sha256": "047fd3426998e6e06a72a3be0d220103a479feb99a076441bd269c3e25b18c05",
+          "chunks": 1
+        }
+      ]
+    }
+  ],
+  "full": {
+    "file": "editions/2026-10-22/audio/brief-2026-10-22.mp3",
+    "duration_sec": 179.64
+  },
+  "duration_sec": 179.64,
+  "asr": {
+    "model": "faster-whisper-small",
+    "threshold": 0.2,
+    "mean_cer": 0.064,
+    "failed": [],
+    "segments": [
+      {
+        "id": "intro",
+        "cer": 0.043,
+        "transcript": "це брів добірка новин з перевірених медіа яким можна довіряти повний список джерел доступний на сайт брів випуск за двадцять другого жовтня"
+      },
+      {
+        "id": "national-heading",
+        "cer": 0.0,
+        "transcript": "новини україни"
+      },
+      {
+        "id": "national-c-16d2249f549b9927",
+        "cer": 0.0,
+        "transcript": "у києві через ракетний обстріл постраждали п'ятнадцять людей зокрема дві дитини повідомляє українська правда під час обстрілу києва балістичними ракетами поранено п'ятнадцять людей у тому числі двох п'ятнадцять річних підлітків"
+      },
+      {
+        "id": "national-c-13901985cb0b18b9",
+        "cer": 0.026,
+        "transcript": "сполучені штати україна та росія розпочнуть тристоронні переговори на технічному рівні відков повідомляй новинарня спецпосланиця американського президента дональда трампастів відков за підсумками своїх зустрічей із президентом володимиром зеленським воосло та очільником кремля володимиром путіним у санкт петербурзі заявив що обговорення щодо завершення російської української війни будуть продовжені у форматі тристоронніх переговорів на технічному рівні"
+      },
+      {
+        "id": "national-c-3557180fb12b119c",
+        "cer": 0.05,
+        "transcript": "вночі росіяни атакували підприємства на волині та львівщині повідомляє громецьке радіо підчасничного удару росіян по україні зазнали атак підприємства на волині та львівщині"
+      },
+      {
+        "id": "national-c-3f4e438e24daac57",
+        "cer": 0.053,
+        "transcript": "у вінниці затримали підозрюваних у вбивстві двох жінок один з них був у життє ще повідомляє нв поліція затримала двох військовослужбовців підозрюваних у вбивстві ввечері двадцятого жовтня двох жінок у вінниці"
+      },
+      {
+        "id": "national-c-01df1450d8921e72",
+        "cer": 0.041,
+        "transcript": "у свистській громаді троє поранених через російські удари по авто а повідомляє суспільне вранці та в день двадцять першого жовтня російські військовослужбовці атакували безпілотниками цивільні автомобілі у свистській громаді"
+      },
+      {
+        "id": "national-c-0d818aaaeb8ca271",
+        "cer": 0.008,
+        "transcript": "лідером є золочівська який громади харківщини зазнали найбільше ударів ер еф від початку року повідомляє суспільне від початку дві тисячі двадцять шостого року у золочівській громаді зафіксували тисяча чотириста дев'яносто один російський удар"
+      },
+      {
+        "id": "national-c-3d1b5d167988616d",
+        "cer": 0.02,
+        "transcript": "отримав п'ятдесят відсотків опіків у наслідок атаки шахеда як у львові лікували киянина за допомогою шкіри свині та риби повідомляє суспільне медики лікарні святого луки у львові врятували сорок три річного киянина який ледвин не загинув від атаки шахеда на одещенні коли повертався із відпочинку"
+      },
+      {
+        "id": "regional-heading",
+        "cer": 0.0,
+        "transcript": "новини регіонів"
+      },
+      {
+        "id": "regional-c-01cdac0212db0ec6",
+        "cer": 0.0,
+        "transcript": "у петропіллі та у лісному на харківщині двоє чоловіків підірвалися на невідомих вибухонебезпечних предметах повідомляє суспільне у селі петропіллі лозівського району чоловік наступив на невідомий вибухонебезпечний предмет"
+      },
+      {
+        "id": "regional-c-1dd0bec17fe201d1",
+        "cer": 0.103,
+        "transcript": "росіани вдарили по автомобілі у запорівській області загинули люди повідомляє лбє у цвільне авто ворожив пп дрон влучив поблизу комишувахи"
+      },
+      {
+        "id": "regional-c-152a8540e2ff24a8",
+        "cer": 0.053,
+        "transcript": "на донеччині фпе дрон атакував автогуманітарної місії проліска повідомляє громецьке радіо саме тоді коли волонтири прямували по групу малумобільних людей до краматорська"
+      },
+      {
+        "id": "regional-c-0002dee6b74701c1",
+        "cer": 0.036,
+        "transcript": "у слов'янську дістали спід завалів тіла трьох жінок кількість загиблих через авіаудар сімнадцятого жовтня зросла до див'яти повідомляє суспільне спід завалів п'яти поверхівок дістали тіла трьох жінок віком від п'ятдесят два до сімдесят сім років повідомив начальник мв алях"
+      },
+      {
+        "id": "regional-c-27dbc3dcbe51372e",
+        "cer": 0.021,
+        "transcript": "російська атака на тернопільщину травмовні троє неповнолітніх і жінка повідомляє суспільне до лікарні госпіталізувалих госпіталізовані двох людей"
+      },
+      {
+        "id": "local-volyn-heading",
+        "cer": 0.5,
+        "transcript": "уволін"
+      },
+      {
+        "id": "local-volyn-c-3f6f493ff6ec62c1",
+        "cer": 0.025,
+        "transcript": "загинули п'ять бійців зволені смерть чотири із них встановили за експертизою днк повідомляє суспільне стало відомо про загибель захисників зволені костянтина клюби з горохівської громади лучанина юрія андрічука валерія вороб'я з села нові кошари та віталія шульги сторчина олексій андріюка з зимнівської громади"
+      },
+      {
+        "id": "local-volyn-c-4e51747d48d05f8e",
+        "cer": 0.175,
+        "transcript": "після луцька зупинився ще один завод кромбергс губерт під загрозою три тисячі шістсот робочих міст повідомляє новинарня у наслідок російських обстрілів на житомирщині припинив свою роботу завод кромбергс губерт"
+      },
+      {
+        "id": "local-volyn-c-b464b115b91a5b40",
+        "cer": 0.023,
+        "transcript": "росія пошкодила енергооб'єкти волині та ще три області повідомляє район нва від дев'ятнадцятого жовтня росія завдала близько шістдесят цілеспрямованих ударів по енергетичній та нафтогазовій інфраструктурі україни"
+      },
+      {
+        "id": "local-khmelnytskyi-heading",
+        "cer": 0.083,
+        "transcript": "хмельничина"
+      },
+      {
+        "id": "local-khmelnytskyi-c-de9e97d8c71ec7fe",
+        "cer": 0.0,
+        "transcript": "жителі двадцять три населених пунктів однієї з громад хмельниччини без світла через російський обстріл дев'ятнадцятого жовтня повідомляє суспільне тоді було пошкоджено енергетичне обладнання"
+      },
+      {
+        "id": "local-khmelnytskyi-c-965410a90d72d117",
+        "cer": 0.075,
+        "transcript": "росіани завдали удар у похмельницькій області є постраждалі повідомляє з ніуа в області тривають ремонтні роботи на енергоб'єктах"
+      },
+      {
+        "id": "local-khmelnytskyi-c-055e7ba5186f6845",
+        "cer": 0.0,
+        "transcript": "підготовка пічного опалення до зими майже двісті пожеж сталися через порушення правил використання печей на хмельниччині повідомляє суспільне від початку дві тисячі двадцять шостого року на хмельниччині через порушення правил пожежної безпеки під час облаштування та експлуатації печей сталися сто сімдесят сім пожеж"
+      },
+      {
+        "id": "local-zakarpattia-heading",
+        "cer": 0.2,
+        "transcript": "закарпайте"
+      },
+      {
+        "id": "local-zakarpattia-c-e522fa7592abf4dd",
+        "cer": 0.029,
+        "transcript": "на війні загину військовослужбовиці олександр пахота із закарпаття повідомляє суспільне на війні загину в майор олександр пахота із волешницької громади берегівського району"
+      },
+      {
+        "id": "local-zakarpattia-c-177e84159c105165",
+        "cer": 0.026,
+        "transcript": "дев'ять років тюрми отримав виноземець на закарпатті за контрабанду канабісу повідомляє заголовок на закарпатті до дев'ять років засудили шістдесят чотири річного громадянина нідерландів який намагався перевести через українського горський кордон де в'ять пакетів канабісу"
+      },
+      {
+        "id": "local-zakarpattia-c-f37c87c66594e95d",
+        "cer": 0.051,
+        "transcript": "платні парковки принесли до бюджетів закарпаття більше п'ять цілих сім десятих мільйона гривень повідомляє пмгюа замістя для паркування до місцевих бюджетів у закарпатській області надійшло п'ять цілих сімдесят одна сота мільйона гривень збору"
+      },
+      {
+        "id": "outro",
+        "cer": 0.155,
+        "transcript": "сибули новини брів за двадцять другого жовтня посилення на першу джерела на сеті брів"
+      }
+    ]
+  }
+}
