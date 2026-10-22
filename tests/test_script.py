@@ -85,6 +85,17 @@ def test_original_source_named_only_when_others_cite_it(make):
     assert edition.original_source([d], tpl) == "Слідство.Інфо"
 
 
+def test_lead_opening_reads_first_paragraph_or_falls_back_to_headline():
+    item = {"title": "Норвегія запровадила новий пакет санкцій проти Росії",
+            "description": "Норвегія приєдналася до 21-го пакета санкцій ЄС проти Росії. "
+                           "Обмеження стосуються енергетики та фінансів. Нагадаємо, раніше ЄС ухвалив пакет."}
+    assert edition.lead_sentences(item, 2, 60, "lead") == [
+        "Норвегія приєдналася до 21-го пакета санкцій ЄС проти Росії.", "Обмеження стосуються енергетики та фінансів."]
+    teaser = dict(item, description="Детальніше — у матеріалі.")
+    assert edition.lead_sentences(teaser, 2, 60, "lead") == ["Норвегія запровадила новий пакет санкцій проти Росії."]
+    assert edition.lead_sentences(dict(item, title="Що відомо?"), 2, 60, "lead") == []
+
+
 def test_lead_sentences_skip_fragments_and_background():
     item = {"title": "Норвегія запровадила новий пакет санкцій проти Росії",
             "description": ", який відповідає 21-му пакету санкцій ЄС. Нагадаємо, раніше ЄС ухвалив пакет. "
@@ -149,7 +160,8 @@ def test_draft_structure_attribution_and_disclosure(drafted):
     assert len(nat) == 1  # two outlets, one event
     first = nat[0]["sentences"][0]["text"]
     # the outlet is not read after every story; a mid-edition reminder points to the site
-    assert first == "Кабмін ухвалив постанову про компенсації за зруйноване житло."
+    # the story opens with the publication's first paragraph, not the headline it repeats
+    assert first == "Уряд виділив 2,5 млрд гривень на компенсації."
     reminder = next(s for s in d["segments"] if s["kind"] == "reminder")
     assert "BRIEF" in " ".join(x["text"] for x in reminder["sentences"])
     assert kinds.index("reminder") < kinds.index("transition")

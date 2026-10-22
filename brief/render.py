@@ -88,6 +88,8 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
     # Post-processing of the synthesized voice (free: no new TTS calls, works on cached audio).
     # BRIEF_TEMPO speeds every voice up; BRIEF_SERVICE_TEMPO / BRIEF_SERVICE_PITCH (semitones,
     # negative = lower) adjust the service voice on top.
+    # BRIEF_ALTERNATE_VOICES=1: the two voices take turns reading stories, like two hosts.
+    alternate = service_voice and os.environ.get("BRIEF_ALTERNATE_VOICES") == "1"
     news_tempo = float(os.environ.get("BRIEF_TEMPO", "1.0"))
     news_af = audio.voice_filter(news_tempo)
     service_af = audio.voice_filter(news_tempo * float(os.environ.get("BRIEF_SERVICE_TEMPO", "1.0")),
@@ -102,9 +104,13 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
     calls, cached = 0, 0
     rendered = []
     try:
+        story_no = 0
         for seg in segments:
             parts = []
             voice_of = service if seg["kind"] in service_kinds else provider
+            if alternate and seg["kind"] == "story":
+                voice_of = service if story_no % 2 else provider
+                story_no += 1
             for si, s in enumerate(seg["sentences"]):
                 for ci, chunk in enumerate(s["chunks"]):
                     path = cache_dir / f"{_cache_key(voice_of, chunk)}.{voice_of.output_ext}"
@@ -115,7 +121,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
                         voice_of.synthesize(chunk, tmp)
                         tmp.replace(path)  # only complete files enter the cache
                         calls += 1
-                    parts.append(("file", path, service_af if voice_of is service and service_kinds else news_af))
+                    parts.append(("file", path, service_af if voice_of is service and service is not provider else news_af))
                     if ci < len(s["chunks"]) - 1:
                         parts.append(("pause", PAUSE_CHUNK_MS))
                 if si < len(seg["sentences"]) - 1:
