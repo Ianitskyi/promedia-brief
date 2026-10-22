@@ -55,6 +55,8 @@ def test_speech_layer():
     ("загинула 1 людина, поранено 21 людину, 22 особи", "загинула одна людина, поранено двадцять одну людину, двадцять дві особи"),
     ("21-й пакет санкцій, у 90-х", "двадцять перший пакет санкцій, у дев'яностих"),
     ("20–21 жовтня", "двадцятого – двадцять першого жовтня"),
+    ("двох 15-річних підлітків, 43-річного киянина", "двох п'ятнадцятирічних підлітків, сорокатрирічного киянина"),
+    ("5-поверхівок", "п'ятиповерхівок"),
 ])
 def test_numbers_read_grammatically(written, spoken):
     assert speech_text(written, spell_digits=True) == spoken
@@ -196,3 +198,12 @@ def test_styletts2_provider_text_rules():
         "Лідером є Золочівська.", "Які громади зазнали ударів?"]
     with pytest.raises(tts.TTSError, match="unknown voice"):
         styletts2._style({"styles": {}}, "nobody")
+
+
+def test_stress_marks_only_for_engines_that_read_them():
+    from brief.speech import STRESS, load_stress
+
+    marked = speech_text("Дональд Трамп зустрівся з Віткоффом у Львові", stress=load_stress())
+    assert "До" + STRESS + "нальд" in marked and "Ві" + STRESS + "ткоффом" in marked
+    assert "Львові" in marked  # exact-word rule for «Львів» does not touch other forms
+    assert STRESS not in speech_text("Дональд Трамп")  # default: no marks (Piper, cloud TTS)

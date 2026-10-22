@@ -19,7 +19,14 @@
     "approval_mode": "auto",
     "tts_provider": "styletts2",
     "tts_voice": "male_2",
-    "spoken_attribution": "end",
+    "tts_service_voice": "female_3",
+    "tts_service_kinds": [
+      "intro",
+      "reminder",
+      "outro"
+    ],
+    "spoken_attribution": false,
+    "attribute_original_source": true,
     "spoken_coverage": false,
     "required_disclosure": [
       "сайті BRIEF"
@@ -39,8 +46,17 @@
       "Випуск за {date_words}."
     ],
     "national_heading": "Новини України.",
-    "regional_heading": "Новини регіонів.",
-    "local_heading": "{region_name}.",
+    "reminder": [
+      "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+      "Посилання на всі джерела — на сайті BRIEF.",
+      "Там само можна обрати теми й регіон — і випуск підлаштується під вас."
+    ],
+    "regional_heading": "А тепер — новини регіонів.",
+    "local_headings": [
+      "А тепер — {region_name}.",
+      "Далі — новини регіону: {region_name}.",
+      "{region_name}: головне за добу."
+    ],
     "outro": [
       "Це були новини BRIEF за {date_words}.",
       "Посилання на першоджерела — на сайті BRIEF."

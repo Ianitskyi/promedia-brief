@@ -18,6 +18,7 @@ class Provider:
     spell_digits = False
     lowercase = False
     transliterate_latin = False
+    stress_marks = False  # engine reads U+0301 after a vowel as a stress mark (config/stress.json)
 
     def __init__(self, voice=None, **options):
         self.voice = voice or self.default_voice

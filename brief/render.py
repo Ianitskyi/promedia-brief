@@ -15,11 +15,11 @@ import time
 from . import audio, tts
 from .edition import EDITIONS
 from .review import load_approved
-from .speech import load_lexicon, speech_text
-from .util import ROOT, iso, now_utc, write_json
+from .speech import load_lexicon, load_stress, speech_text
+from .util import ROOT, config, iso, now_utc, write_json
 
 PAUSE_SENTENCE_MS = 350
-PAUSE_STORY_MS = 700
+PAUSE_STORY_MS = 1300  # a clear gap between stories
 PAUSE_CHUNK_MS = 120
 SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bumper.mp3",
          "outro": ROOT / "audio" / "outro.mp3"}
@@ -27,7 +27,8 @@ SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bump
 
 def tts_text(sentence_text, provider, lexicon):
     return speech_text(sentence_text, lexicon, spell_digits=provider.spell_digits, lowercase=provider.lowercase,
-                       transliterate=provider.transliterate_latin)
+                       transliterate=provider.transliterate_latin,
+                       stress=load_stress() if provider.stress_marks else None)
 
 
 def plan(approved, provider, lexicon):
@@ -57,6 +58,11 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
     segments = plan(approved, provider, lexicon)
     characters = sum(len(c) for seg in segments for s in seg["sentences"] for c in s["chunks"])
     cost = tts.guard_cost(provider, characters)
+    # Service lines (intro, reminder, outro) in a second voice so they stand apart from the news.
+    ed = config("editorial.json")["edition"]
+    service_voice = ed.get("tts_service_voice") if provider_name == ed.get("tts_provider") else None
+    service = tts.get(provider_name, voice=service_voice) if service_voice else provider
+    service_kinds = set(ed.get("tts_service_kinds", [])) if service_voice else set()
 
     out_dir = pathlib.Path(out_dir or EDITIONS / date / "audio")
     cache_dir = pathlib.Path(cache_dir or EDITIONS / date / ".tts-cache")
@@ -68,14 +74,15 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
     try:
         for seg in segments:
             parts = []
+            voice_of = service if seg["kind"] in service_kinds else provider
             for si, s in enumerate(seg["sentences"]):
                 for ci, chunk in enumerate(s["chunks"]):
-                    path = cache_dir / f"{_cache_key(provider, chunk)}.{provider.output_ext}"
+                    path = cache_dir / f"{_cache_key(voice_of, chunk)}.{voice_of.output_ext}"
                     if path.exists() and path.stat().st_size > 0:
                         cached += 1
                     else:
-                        tmp = path.with_suffix(".part." + provider.output_ext)
-                        provider.synthesize(chunk, tmp)
+                        tmp = path.with_suffix(".part." + voice_of.output_ext)
+                        voice_of.synthesize(chunk, tmp)
                         tmp.replace(path)  # only complete files enter the cache
                         calls += 1
                     parts.append(("file", path))
@@ -94,11 +101,11 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
                                "chunks": len(s["chunks"])} for s in seg["sentences"]],
             })
 
-        # Default full edition: intro sting, national, bumper, regional roundup, outro.
+        # Default full edition: intro sting, national, reminder, bumper, regional roundup, outro.
         by_id = {r["id"]: r for r in rendered}
         order = [("file", SONIC["intro"])]
         for seg in approved["segments"]:
-            if seg["block"] in ("intro", "national") and seg["id"] in by_id:
+            if seg["block"] in ("intro", "national", "reminder") and seg["id"] in by_id:
                 order.append(("file", ROOT / by_id[seg["id"]]["file"]))
             if seg["kind"] == "transition":
                 order.append(("file", SONIC["bumper"]))
@@ -115,6 +122,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None)
         "date": date,
         "script_sha256": approved["script_sha256"],
         **provider.describe(),
+        "service_voice": service.voice if service is not provider else None,
         "rendered_at": iso(now_utc()),
         "elapsed_sec": round(time.time() - started, 1),
         "characters": characters,

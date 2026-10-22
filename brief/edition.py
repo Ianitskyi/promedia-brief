@@ -94,7 +94,11 @@ BACKGROUND_OPENINGS = ("нагадаємо", "як повідомлялося", 
 
 def _sentence(s):
     s = s.replace("\u200b", "").strip()
-    return s if s[-1:] in ".!…»\"" else s + "."
+    if s[-1:] in ".!…":
+        return s
+    if s[-1:] in "»\"”" and s[-2:-1] in ".!…":  # «...сказав він.»
+        return s
+    return s + "."
 
 
 def headline_sentence(title):
@@ -108,6 +112,14 @@ def headline_sentence(title):
         return None
     # teaser headlines announce an explainer rather than state the news
     if re.search(r"[:—–-]\s*(що відомо|що треба знати|що слід знати|деталі|подробиці|головне|фото|відео|онлайн)\.?$", t, re.I):
+        return None
+    # "Лідером є Золочівська. Які громади ... від початку року" — the second part is a question
+    if re.search(r"[.!]\s+(Які|Який|Яка|Яке|Що|Як|Чому|Де|Скільки|Хто|Коли|Навіщо)\b", t):
+        return None
+    # a trailing speaker label ("..., – Віткофф", "... — ДТЕК") reads oddly on air; the speaker is
+    # named in the annotation, so the label is dropped (nothing is added to the source's words)
+    t = re.sub(r",?\s+[–—-]\s*(?:[A-ZА-ЯІЇЄҐ][\w'’.-]*\s*){1,3}$", "", t).rstrip(" ,")
+    if len(t.split()) < 4:
         return None
     if ":" in t:
         label = t.split(":", 1)[0].split()
@@ -150,6 +162,32 @@ def lead_sentences(item, max_sentences, max_words):
     return out
 
 
+EXCLUSIVE = re.compile(r"ексклюзив|розслідуванн|в інтерв'ю|в інтерв’ю|в інтервʼю|інтерв'ю для|інтерв’ю для|інтервʼю для", re.I)
+
+
+def _cites(text, name, templates):
+    """Does `text` mention the outlet (any inflected form)? Compares content stems of the name."""
+    want = set(content_stems(spoken_name(name, templates))) or set(content_stems(name))
+    return bool(want) and want <= set(content_stems(text))
+
+
+def original_source(members, templates):
+    """The outlet a story comes from when that matters on air: other outlets in the cluster cite it
+    ("з посиланням на ...", "пише ..."), or its own headline marks an exclusive, investigation or
+    interview. None for ordinary news reported independently by several outlets."""
+    sources = {m["source"] for m in members}
+    best, cited = None, 0
+    for src in sources:
+        n = len({m["source"] for m in members if m["source"] != src
+                 and _cites(f"{m['title']}. {m.get('description', '')}", src, templates)})
+        if n > cited:
+            best, cited = src, n
+    if best:
+        return best
+    own = [m for m in members if EXCLUSIVE.search(m["title"])]
+    return own[0]["source"] if len({m["source"] for m in own}) == 1 else None
+
+
 def pick_representative(members, order):
     def key(m):
         lead = split_sentences(m.get("description", ""))
@@ -169,15 +207,24 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
         if not pool:
             return None, "no headline names the region"
     rep = pick_representative(pool, order)
+    position = ed_cfg.get("spoken_attribution", "end")
+    if position is True:
+        position = "end"
+    origin = None
+    if not position and region is None and ed_cfg.get("attribute_original_source", True):
+        # Short format: outlets are not named, except the one a national story originates from
+        # (an exclusive, an investigation, an interview others cite) — owner's rule, 2026-10-22.
+        origin = original_source(members, templates)
+        if origin:
+            own = [m for m in pool if m["source"] == origin and headline_sentence(m["title"])]
+            rep = pick_representative(own, order) if own else rep
+            position = "end" if rep["source"] == origin else False
     leads = lead_sentences(rep, ed_cfg["max_sentences_per_story"], ed_cfg["max_words_per_story"])
     if not leads:
         return None, "headline is not speakable (question, label-style or too short)"
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
     sentences = []
     for i, lead in enumerate(leads):
-        position = ed_cfg.get("spoken_attribution", "end")
-        if position is True:
-            position = "end"
         attr = attribution(rep["source"], templates, position) if i == 0 and position else ""
         trace = check_sentence(lead, evidence, cl["independent_sources"], sensitive_cfg, year)
         text = attach_attribution(lead, attr, position)
@@ -211,6 +258,7 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
         })
     return {
         "title": rep["title"],
+        "original_source": origin,
         "sentences": sentences,
         "sources": [{"item_id": m["id"], "name": m["source"], "url": m["url"], "title": m["title"],
                      "published_at": m.get("published_at")} for m in sorted(members, key=lambda m: m.get("published_at") or "")],
@@ -340,16 +388,18 @@ def build(date, now=None):
     for i, (c, s) in enumerate(national):
         segs.append(story_segment(c, s, "national", i + 1, must=i < ed_cfg["must_include_national"]))
         evidence.update(s["evidence"])
+    # mid-edition reminder instead of naming the outlet after every story (owner's decision, 2026-10-22)
+    if templates.get("reminder"):
+        segs.append(template_segment("reminder", "reminder", "reminder", templates["reminder"], lexicon))
     segs.append({"id": "transition", "kind": "transition", "block": "transition", "sentences": [], "sound": "bumper"})
     segs.append(template_segment("regional-heading", "heading", "regional", [templates["regional_heading"]], lexicon))
     for i, (c, s) in enumerate(roundup):
         segs.append(story_segment(c, s, "regional", i + 1))
         evidence.update(s["evidence"])
-    for r, picked in local.items():
-        if not picked:
-            continue
-        segs.append(template_segment(f"local-{r}-heading", "heading", f"local:{r}",
-                                     [templates["local_heading"].format(region_name=region_names[r])], lexicon, region=r))
+    headings = templates.get("local_headings") or [templates.get("local_heading", "{region_name}.")]
+    for n, (r, picked) in enumerate((r, p) for r, p in local.items() if p):
+        heading = headings[n % len(headings)].format(region_name=region_names[r])
+        segs.append(template_segment(f"local-{r}-heading", "heading", f"local:{r}", [heading], lexicon, region=r))
         for i, (c, s) in enumerate(picked):
             segs.append(story_segment(c, s, f"local:{r}", i + 1, region=r))
             evidence.update(s["evidence"])

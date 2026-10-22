@@ -107,6 +107,7 @@ function buildPlaylist(){
   if(sonic.intro) playlist.push({src:sonic.intro,title:'BRIEF',kind:'sound'});
   segs.filter(s=>s.block==='intro'||(s.kind==='heading'&&s.block==='national')).forEach(s=>playlist.push(S(s)));
   [...must,...mine,...(shortMode?[]:rest)].forEach(s=>playlist.push(S(s)));
+  segs.filter(s=>s.block==='reminder').forEach(s=>playlist.push(S(s)));
   if(sonic.bumper) playlist.push({src:sonic.bumper,title:'BRIEF',kind:'sound'});
   regional.forEach(s=>playlist.push(S(s)));
   segs.filter(s=>s.block==='outro').forEach(s=>playlist.push(S(s)));

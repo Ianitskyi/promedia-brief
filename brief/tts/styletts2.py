@@ -83,6 +83,7 @@ class StyleTTS2Provider(Provider):
     default_voice = "male_2"
     spell_digits = True
     transliterate_latin = True  # the phonemizer has no Latin letters
+    stress_marks = True  # ukrainian-word-stress keeps marks that are already there
 
     def synthesize(self, text, out_path):
         engine = _load()
