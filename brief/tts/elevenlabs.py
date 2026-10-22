@@ -29,6 +29,14 @@ class ElevenLabsProvider(Provider):
     price_per_million = 80.0
     max_chars = 4500
     default_voice = None
+    # Numbers are spelled out by brief.speech with Ukrainian case agreement («двадцять першого
+    # жовтня», «п'ятнадцятирічних»): ElevenLabs' own reading of digits got the cases wrong.
+    spell_digits = True
+
+    @property
+    def auto_stress(self):
+        """BRIEF_ELEVENLABS_STRESS=1: stress marks on every word from the Ukrainian stress dictionary."""
+        return os.environ.get("BRIEF_ELEVENLABS_STRESS", "0") == "1"
 
     @property
     def audio_tags(self):

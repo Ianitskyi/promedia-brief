@@ -20,6 +20,7 @@ class Provider:
     transliterate_latin = False
     stress_marks = False  # engine reads U+0301 after a vowel as a stress mark (config/stress.json)
     audio_tags = False  # engine takes tone tags like [sympathetic] (ElevenLabs v3)
+    auto_stress = False  # mark every word's stress from the stress dictionary (speech.auto_stress)
 
     def __init__(self, voice=None, **options):
         self.voice = voice or self.default_voice

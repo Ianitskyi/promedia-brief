@@ -250,6 +250,29 @@ def transliterate_latin(text):
     return re.sub(r"[A-Za-z]+", word, text)
 
 
+_stressifier = None
+VOWELS = "аеєиіїоуюяАЕЄИІЇОУЮЯ"
+
+
+def auto_stress(text):
+    """Mark the stress of every word from the open Ukrainian stress dictionary
+    (ukrainian-word-stress: ~2.9 M word forms; ambiguous forms like за́мок/замо́к are resolved
+    from context or left unmarked). Marks already in the text (config/stress.json) win.
+    One-syllable words are left unmarked. Needs requirements-styletts2.txt."""
+    global _stressifier
+    if _stressifier is None:
+        from ukrainian_word_stress import Stressifier
+
+        _stressifier = Stressifier()
+    marked = _stressifier(text)
+
+    def one_vowel(m):
+        w = m.group(0)
+        return w.replace(STRESS, "") if sum(ch in VOWELS for ch in w) <= 1 else w
+
+    return re.sub(r"[\w'’\u0301]+", one_vowel, marked)
+
+
 def speech_text(text, entries=None, spell_digits=False, lowercase=False, transliterate=False, stress=None):
     out = apply_lexicon(text, entries if entries is not None else load_lexicon())
     if stress:

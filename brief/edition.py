@@ -246,7 +246,9 @@ def pick_representative(members, order):
     return sorted(members, key=key)[0]
 
 
-def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, order, year=None, region=None, gaz=None):
+def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, order, year=None, region=None, gaz=None,
+                key=False):
+    """key=True: one of the edition's top stories; it may read more of the annotation."""
     members = [items_by_id[i] for i in cl["item_ids"]]
     pool = members
     if region:
@@ -267,8 +269,10 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
             own = [m for m in pool if m["source"] == origin and headline_sentence(m["title"])]
             rep = pick_representative(own, order) if own else rep
             position = "end" if rep["source"] == origin else False
-    leads = lead_sentences(rep, ed_cfg["max_sentences_per_story"], ed_cfg["max_words_per_story"],
-                           ed_cfg.get("story_opening", "headline"))
+    max_s = ed_cfg.get("key_story_sentences", ed_cfg["max_sentences_per_story"]) if key \
+        else ed_cfg["max_sentences_per_story"]
+    max_w = ed_cfg.get("key_story_words", ed_cfg["max_words_per_story"]) if key else ed_cfg["max_words_per_story"]
+    leads = lead_sentences(rep, max_s, max_w, ed_cfg.get("story_opening", "headline"))
     if not leads:
         return None, "headline is not speakable (question, label-style or too short)"
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
@@ -370,11 +374,11 @@ def build(date, now=None):
 
     story_cache, skipped = {}, []
 
-    def story_for(c, region=None):
-        key = (c["id"], region)
+    def story_for(c, region=None, key_story=False):
+        key = (c["id"], region, key_story)
         if key not in story_cache:
             story_cache[key] = build_story(c, items_by_id, ed_cfg, templates, ed["sensitive"], lexicon, order,
-                                           int(date[:4]), region, gaz)
+                                           int(date[:4]), region, gaz, key=key_story)
         return story_cache[key]
 
     def take(cands, n, block, region=None, per_region=None, used=(), prior=()):
@@ -391,7 +395,9 @@ def build(date, now=None):
             key = c.get("primary_region")
             if per_region and key and counts.get(key, 0) >= per_region:
                 continue
-            story, why = story_for(c, c.get("primary_region") if block != "national" else None)
+            # the edition's top stories (they are always read) may take the second paragraph too
+            key_story = block == "national" and len(picked) < ed_cfg.get("must_include_national", 0)
+            story, why = story_for(c, c.get("primary_region") if block != "national" else None, key_story)
             if story is None:
                 skipped.append({"cluster": c["id"], "block": block, "reason": why})
                 continue

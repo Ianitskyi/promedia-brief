@@ -27,9 +27,14 @@ SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bump
 
 
 def tts_text(sentence_text, provider, lexicon):
-    return speech_text(sentence_text, lexicon, spell_digits=provider.spell_digits, lowercase=provider.lowercase,
+    text = speech_text(sentence_text, lexicon, spell_digits=provider.spell_digits, lowercase=provider.lowercase,
                        transliterate=provider.transliterate_latin,
-                       stress=load_stress() if provider.stress_marks else None)
+                       stress=load_stress() if provider.stress_marks or provider.auto_stress else None)
+    if provider.auto_stress:
+        from .speech import auto_stress
+
+        text = auto_stress(text)
+    return text
 
 
 def mood(seg, moods):
