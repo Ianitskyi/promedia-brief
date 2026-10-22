@@ -92,8 +92,8 @@ jobs:
         run: python -m brief verify-audio --date "${{ inputs.date }}"
       - name: Publish (fails closed)
         run: python -m brief publish --date "${{ inputs.date }}"
-      - name: Delete editions older than 7 days
-        run: python -m brief prune --keep-days 7
+      - name: Delete earlier days' editions (only the current one is kept)
+        run: python -m brief prune --keep-days 0
       - name: Commit edition
         run: |
           git config user.name "BRIEF Bot"

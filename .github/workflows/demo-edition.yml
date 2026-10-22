@@ -22,13 +22,17 @@ on:
         default: eleven_v3
       tempo:
         description: "Speed of all voices (1.0 = as synthesized; free post-processing)"
-        default: "1.12"
+        default: "1.2"
       service_tempo:
         description: "Extra speed for the service voice (intro, reminder, outro)"
         default: "1.08"
       service_pitch:
         description: "Pitch of the service voice in semitones (negative = lower)"
         default: "-2"
+      alternate:
+        description: "The two voices take turns reading stories"
+        type: boolean
+        default: true
       confirm_paid:
         description: "I approve spending API credits on this demo (≈6K ElevenLabs credits; ≈$0.50 pay-as-you-go)"
         type: boolean
@@ -104,6 +108,7 @@ jobs:
           BRIEF_TEMPO: ${{ inputs.tempo }}
           BRIEF_SERVICE_TEMPO: ${{ inputs.service_tempo }}
           BRIEF_SERVICE_PITCH: ${{ inputs.service_pitch }}
+          BRIEF_ALTERNATE_VOICES: ${{ inputs.alternate && '1' || '0' }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID }}  # either place works
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}

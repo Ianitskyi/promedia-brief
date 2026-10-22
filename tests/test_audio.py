@@ -266,3 +266,14 @@ def test_tempo_post_processing_shortens_audio_without_new_tts_calls(approved, cl
     assert fast["voice_filters"]["news"] == "atempo=1.250000"
     spoken = lambda m: sum(s["duration_sec"] for s in m["segments"])
     assert spoken(fast) < spoken(base) * 0.95
+
+
+@needs_ffmpeg
+def test_alternating_voices_take_turns_on_stories(approved, cli):
+    cli(approved, "render", "--date", "2026-10-20", "--provider", "mock", "--service-voice", "second",
+        "--variant", "duo", env_extra={"BRIEF_ALTERNATE_VOICES": "1", "BRIEF_SERVICE_PITCH": "-2"})
+    m = json.loads((approved / "editions" / "2026-10-20" / "render-duo.json").read_text())
+    assert m["service_voice"] == "second" and m["voice_filters"]["service"].startswith("asetrate=")
+    a = json.loads((approved / "editions" / "2026-10-20" / "approved.json").read_text())
+    stories = [s for s in a["segments"] if s["kind"] == "story"]
+    assert len(stories) >= 2  # so both voices read news

@@ -13,6 +13,9 @@ on:
         description: "Edition date (YYYY-MM-DD, Kyiv). Empty = today"
         required: false
   schedule:
+    # Two editions a day; the evening one replaces the morning one, and the morning one
+    # replaces yesterday's (prune below), so the site always has one fresh edition.
+    - cron: "7 5 * * *"     # ≈08:07 Kyiv in summer time, 07:07 in winter time
     - cron: "37 15 * * *"   # ≈18:37 Kyiv in summer time, 17:37 in winter time
 
 permissions:
@@ -84,8 +87,8 @@ jobs:
         if: steps.cfg.outputs.mode == 'auto'
         run: python -m brief publish --date "${{ steps.cfg.outputs.date }}"
 
-      - name: Delete editions older than 7 days
-        run: python -m brief prune --keep-days 7
+      - name: Delete earlier days' editions (only the current one is kept)
+        run: python -m brief prune --keep-days 0
       - name: Commit
         run: |
           git config user.name "BRIEF Bot"

@@ -94,6 +94,8 @@ BACKGROUND_OPENINGS = ("нагадаємо", "як повідомлялося", 
 
 def _sentence(s):
     s = s.replace("\u200b", "").strip()
+    if s[:1].islower():
+        s = s[0].upper() + s[1:]  # some outlets write «росіяни обстріляли…» in headlines
     if s[-1:] in ".!…":
         return s
     if s[-1:] in "»\"”" and s[-2:-1] in ".!…":  # «...сказав він.»
@@ -134,24 +136,70 @@ def _too_similar(a, b):
     return bool(sa) and len(sa & sb) / len(sa | sb) > 0.5
 
 
-def lead_sentences(item, max_sentences, max_words):
-    """Headline (if speakable) + annotation sentences that add information, within budget."""
+# Sentences that point to the article instead of saying something ("…дізнатися у матеріалі").
+META_MARKERS = ("у матеріалі", "в матеріалі", "читайте", "дізнатися", "дізнайтеся", "детальніше", "дивіться",
+                "за посиланням", "у нашому", "в нашому")
+# Openings that only make sense after another sentence; such a sentence cannot open a story.
+CONTINUATION_OPENINGS = ("загалом", "також", "крім того", "окрім того", "при цьому", "водночас", "тоді",
+                         "саме тоді", "зокрема", "тим часом", "відтак", "отже", "а ", "але ", "проте ")
+
+
+def _usable_lead(s, head=None, first=False):
+    """An annotation sentence that can be read on its own (first=True: it opens the story)."""
+    low = s.lower()
+    if len(s.split()) < 5 or s.endswith("?") or low.startswith(BACKGROUND_OPENINGS):
+        return False
+    if any(m in low for m in META_MARKERS) or low.startswith("саме тоді"):
+        return False
+    if first and low.startswith(CONTINUATION_OPENINGS):
+        return False
+    starts = s.lstrip("«\"„“(")
+    if starts.split() and starts.split()[0].lower() in ("який", "яка", "яке", "які", "що", "де", "коли", "і", "й",
+                                                        "та", "а", "але", "або", "щоб"):
+        return False  # continues the headline
+    if not starts or not (starts[0].isupper() or starts[0].isdigit()
+                          or (first and starts[0].isalpha() and starts.split()[0].isalpha())):
+        return False  # fragment: ", який відповідає ..." (a lower-case word can still open the lead)
+    if s.count("«") != s.count("»") or s.count('"') % 2:  # cut inside a quotation
+        return False
+    return not (head and _too_similar(s, head))
+
+
+def lead_sentences(item, max_sentences, max_words, opening="headline"):
+    """What is read for a story, within budget.
+
+    opening="headline": headline, then annotation sentences that add information.
+    opening="lead": the publication's first paragraph (annotation) straight away, because the
+    headline usually repeats it (owner's decision, 2026-10-22); the headline is read only when
+    the annotation has no usable sentence. Either way the story needs a speakable headline:
+    it is the fallback and the check that the item is news rather than a teaser.
+    """
     head = headline_sentence(item["title"])
     if not head:
         # Annotations usually continue the headline ("...район міста") and are not
         # understandable alone, so a story without a speakable headline is skipped.
         return []
+    sentences = split_sentences(item.get("description", ""))
+    if opening == "lead":
+        out, words = [], 0
+        for s in sentences:
+            if not _usable_lead(s, first=not out):
+                if out:
+                    break  # keep the paragraph contiguous
+                continue
+            n = len(s.split())
+            if out and words + n > max_words:
+                break
+            out.append(_sentence(s))
+            words += n
+            if len(out) >= max_sentences:
+                break
+        if out:
+            return out
     out, words = [head], len(head.split())
-    for s in split_sentences(item.get("description", "")):
-        low = s.lower()
+    for s in sentences:
         n = len(s.split())
-        if n < 5 or s.endswith("?") or low.startswith(BACKGROUND_OPENINGS):
-            continue
-        if not re.match(r"[«\"„“(]?[А-ЯІЇЄҐA-Z0-9]", s):  # fragment: ", який відповідає ..."
-            continue
-        if s.count("«") != s.count("»") or s.count('"') % 2:  # cut inside a quotation
-            continue
-        if _too_similar(s, head):
+        if not _usable_lead(s, head):
             continue
         if out and words + n > max_words:
             break
@@ -219,7 +267,8 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
             own = [m for m in pool if m["source"] == origin and headline_sentence(m["title"])]
             rep = pick_representative(own, order) if own else rep
             position = "end" if rep["source"] == origin else False
-    leads = lead_sentences(rep, ed_cfg["max_sentences_per_story"], ed_cfg["max_words_per_story"])
+    leads = lead_sentences(rep, ed_cfg["max_sentences_per_story"], ed_cfg["max_words_per_story"],
+                           ed_cfg.get("story_opening", "headline"))
     if not leads:
         return None, "headline is not speakable (question, label-style or too short)"
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
