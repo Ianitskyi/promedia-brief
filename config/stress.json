@@ -13,6 +13,8 @@
     {"word": "Львів", "stressed": "Льві+в", "prefix": false},
     {"word": "Кремля", "stressed": "Кремля+", "prefix": false},
     {"word": "Кремлі", "stressed": "Кремлі+", "prefix": false},
-    {"word": "Кремлю", "stressed": "Кремлю+", "prefix": false}
+    {"word": "Кремлю", "stressed": "Кремлю+", "prefix": false},
+    {"word": "підліт", "stressed": "пі+дліт", "prefix": true},
+    {"word": "Підліт", "stressed": "Пі+дліт", "prefix": true}
   ]
 }
