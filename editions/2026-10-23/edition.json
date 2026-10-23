@@ -1,0 +1,1183 @@
+{
+  "date": "2026-10-23",
+  "title": "BRIEF — 2026-10-23",
+  "published_at": "2026-10-23T09:35:10+00:00",
+  "approved": true,
+  "approval": "auto",
+  "script_sha256": "65c336040a4c2383d4d3e9791d89875aff6b17729cc8369eecd11aeab1d18c2d",
+  "voice": {
+    "provider": "styletts2",
+    "voice": "male_2"
+  },
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "bumper": "audio/bumper.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "full_audio": "editions/2026-10-23/audio/brief-2026-10-23.mp3",
+  "duration_sec": 183.41,
+  "regions": [
+    {
+      "id": "khmelnytskyi",
+      "name": "Хмельниччина"
+    },
+    {
+      "id": "volyn",
+      "name": "Волинь"
+    },
+    {
+      "id": "zakarpattia",
+      "name": "Закарпаття"
+    }
+  ],
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+        "Повний список джерел доступний на сайті BRIEF.",
+        "Випуск за двадцять третє жовтня."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/intro.mp3",
+      "duration_sec": 9.67,
+      "sound": null
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Новини України."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/national-heading.mp3",
+      "duration_sec": 1.46,
+      "sound": null
+    },
+    {
+      "id": "national-c-122f5115f9474efa",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Обстріл ринку в Лозовій: вже 36 поранених і двоє загиблих",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": true,
+      "text": [
+        "Кількість поранених унаслідок удару російської армії по Центральному ринку в Лозовій Харківської області зросла до 36 осіб, двоє людей загинули."
+      ],
+      "sources": [
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/oblast-online/lozova/rosiani-vdarili-po-rinku-v-lozovij-dvoe-zagiblih-17-postrazdalih.html",
+          "title": "Рф вдарила по Центральному ринку в Лозовій дроном і «Бандероллю»: є загиблі та важкопоранені (фото)",
+          "published_at": "2026-10-22T10:05:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/22/novyna/bezpeka/vijska-rf-vdaryly-po-rynku-lozovij-ye-zahybli-15-lyudej-poraneni",
+          "title": "Війська рф вдарили по ринку у Лозовій: є загиблі, понад 15 людей поранені",
+          "published_at": "2026-10-22T10:05:31+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/272977-rosiiany-vdaryly-po-rynku-v-lozoviy-2-zahyblykh-ta-17-postrazdalykh",
+          "title": "росіяни вдарили по ринку в Лозовій — 2 загиблих та 34 постраждалих (ОНОВЛЕНО)",
+          "published_at": "2026-10-22T10:21:00+00:00"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/rosiiski-viiska-vdaryly-po-rynku-v-lozovii-dvoie-zahyblykh-34-poranenykh",
+          "title": "Російські війська вдарили по ринку в Лозовій: двоє загиблих, 34 поранених",
+          "published_at": "2026-10-22T10:59:44+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosija-zavdala-udaru-po-rinku-na-kharkivshchini-je-zahibli-ta-bahato-poranenikh.html",
+          "title": "Росія завдала удару по ринку на Харківщині: двоє загиблих та 34 поранених",
+          "published_at": "2026-10-22T11:10:26+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiyani-vdarili-po-rinku-v-lozoviy-ye-zagibli-50652396.html",
+          "title": "Росіяни вдарили ракетами по ринку в Лозовій, загинули дві жінки, 34 людини поранено",
+          "published_at": "2026-10-22T12:20:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/22/novyna/bezpeka/udar-po-rynku-lozovij-kilkist-postrazhdalyx-zrosla-vdvichi",
+          "title": "Удар по ринку у Лозовій: кількість постраждалих зросла вдвічі",
+          "published_at": "2026-10-22T12:28:48+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rosiyany-vdaryly-po-lozovij-na-harkivshhyni-dvoye-zagyblyh-34-postrazhdalyh-i571043",
+          "title": "Росіяни вдарили по Лозовій на Харківщині: двоє загиблих, 34 постраждалих",
+          "published_at": "2026-10-22T12:52:54+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1434199-cetvero-poranenih-u-tazkomu-stani-naslidki-udaru-po-rinku-v-lozovij",
+          "title": "Четверо поранених у тяжкому стані: наслідки удару по ринку в Лозовій",
+          "published_at": "2026-10-22T12:53:37+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/22/8059213",
+          "title": "Окупанти вдарили по ринку в Лозовій на Харківщині: 2 загиблих, 34 поранених",
+          "published_at": "2026-10-22T13:07:00+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/22/rosiyany-vdaryly-po-tsentralnomu-rynku-mista-lozova-zagynuly-dvi-zhinky-vidomo-pro-34-postrazhdalyh",
+          "title": "росіяни вдарили по центральному ринку міста Лозова: загинули дві жінки, відомо про 34 постраждалих",
+          "published_at": "2026-10-22T13:32:01+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/22/po-rinku-v-lozovij-vdarila-rf-ye-zagibli-ta-postrazhdali",
+          "title": "По ринку в Лозовій вдарила РФ: загинули дві жінки, постраждалі (доповнено)",
+          "published_at": "2026-10-22T17:28:40+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177252-udar-rf-po-rinku-v-lozovij-dvoe-zagiblih-kilkist-poranenih-zrosla-do-36.html",
+          "title": "Удар РФ по ринку в Лозовій: двоє загиблих, кількість поранених зросла до 36",
+          "published_at": "2026-10-22T17:43:00+00:00"
+        },
+        {
+          "name": "Накипіло",
+          "url": "https://nakypilo.ua/novyny/ataka-na-rynok-lozova-4-liudei-vazhko-poraneni",
+          "title": "Атака на ринок у Лозовій: четверо людей — у вкрай важкому стані",
+          "published_at": "2026-10-22T17:54:40+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224829.html",
+          "title": "У Лозовій Харківської області 36 постраждалих, четверо з них у вкрай важкому стані",
+          "published_at": "2026-10-22T17:59:29+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-lozova-postrazhdali-viyna-zelenskyy/33881837.html",
+          "title": "Удар РФ по ринку в Лозовій: кількість постраждалих зросла",
+          "published_at": "2026-10-22T18:12:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/22/775280_rosiyani_vdarili_rinku_lozoviy.html",
+          "title": "Росіяни вдарили по ринку в Лозовій: є загиблі та десятки травмованих (оновлено)",
+          "published_at": "2026-10-22T18:20:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/22/obstril-rynku-v-lozoviy-vzhe-36-poranenykh-i-dvoie-zahyblykh",
+          "title": "Обстріл ринку в Лозовій: вже 36 поранених і двоє загиблих",
+          "published_at": "2026-10-22T19:43:49+00:00"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/u-likarni-pomerla-postrazhdala-vnaslidok-udaru-po-rinku-v-lozovij",
+          "title": "У лікарні померла постраждала внаслідок удару по ринку в Лозовій",
+          "published_at": "2026-10-23T04:44:15+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-122f5115f9474efa.mp3",
+      "duration_sec": 9.04,
+      "sound": null
+    },
+    {
+      "id": "national-c-5c14290798137aba",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "На фронті за добу сталися 146 боєзіткнень, найгарячіший - Покровський напрямок",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": true,
+      "text": [
+        "Протягом 22 жовтня на фронті сталося 146 бойових зіткнень Сил оборони України з російськими загарбниками."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/22/775440_genshtab_146_boyovih_zitknen.html",
+          "title": "Генштаб: 146 бойових зіткнень відбулося на фронті від початку доби",
+          "published_at": "2026-10-22T19:13:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4177278-na-fronti-za-dobu-stalisa-146-boezitknen-najgaracisij-pokrovskij-napramok.html",
+          "title": "На фронті за добу сталися 146 боєзіткнень, найгарячіший - Покровський напрямок",
+          "published_at": "2026-10-22T19:25:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-henshtab-zsu-front/33881851.html",
+          "title": "Генштаб ЗСУ фіксує зменшення активності військ РФ – на шести напрямках наступів не було",
+          "published_at": "2026-10-22T19:29:23+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vid-pochatku-doby-vidbulosya-146-boyezitknen-na-najgaryachishomu-pokrovskomu-napryamku-likvidovano-i571092",
+          "title": "Від початку доби відбулося 146 боєзіткнень, на найгарячішому Покровському напрямку ліквідовано понад 40 окупантів - Генштаб",
+          "published_at": "2026-10-22T19:49:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-5c14290798137aba.mp3",
+      "duration_sec": 7.73,
+      "sound": null
+    },
+    {
+      "id": "national-c-16e1cec21e106c65",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Через ворожий обстріл понад 100 тисяч абонентів на Волині – без світла",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": true,
+      "text": [
+        "Унаслідок атаки реактивних дронів на Волинь зранку 23 жовтня частина жителів області залишилися без електропостачання.",
+        "Станом на ранок без світла майже 105 тисяч абонентів."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1434603-cerez-ataku-rf-ponad-100-tisac-abonentiv-na-volini-zalisilisa-bez-svitla",
+          "title": "Через атаку РФ понад 100 тисяч абонентів на Волині залишилися без світла",
+          "published_at": "2026-10-23T06:09:43+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/23/775514_volin_atakuvali_vorozhi_droni.html",
+          "title": "Волинь атакували ворожі дрони: понад 100 тисяч абонентів без світла",
+          "published_at": "2026-10-23T07:08:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-droniv-na-volin-105-tisyach-abonentiv-bez-svitla-u-lucku-ye-postrazhdaliy-50652706.html",
+          "title": "Десять ударів дронами по Волині: без світла залишилися понад 100 тисяч родин, Луцьк частково без води",
+          "published_at": "2026-10-23T07:24:00+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/23/cherez-vorozhyi-obstril-ponad-100-tysiach-abonentiv-na-volyni-bez",
+          "title": "Через ворожий обстріл понад 100 тисяч абонентів на Волині – без світла",
+          "published_at": "2026-10-23T07:36:20+00:00"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20311303-u-rivnenskij-ta-volinskij-oblastyah-chastina-naselenih-punktiv-zalishilasya-bez-svitla",
+          "title": "У Рівненській та Волинській областях частина населених пунктів залишилася без світла",
+          "published_at": "2026-10-23T08:05:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-16e1cec21e106c65.mp3",
+      "duration_sec": 11.34,
+      "sound": null
+    },
+    {
+      "id": "national-c-136a2455402bbd63",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Тибеті стався найпотужніший за п'ять років землетрус: загинули щонайменше 16 людей",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У місті Нагчу в Тибеті 22 жовтня обвалилися щонайменше 339 будинків, 11 травмованих перебувають у тяжкому стані.",
+        "До рятувальних робіт залучили понад 1600 людей, у частині регіону не працює зв'язок, а рух поїздів зупинили."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-world/4177308-u-tibeti-stavsa-najpotuznisij-za-ostanni-pat-rokiv-zemletrus-16-zagiblih-32-postrazdalih.html",
+          "title": "У Тибеті стався найпотужніший за п’ять років землетрус - 16 загиблих, 32 постраждалих",
+          "published_at": "2026-10-22T22:59:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1434549-u-tibeti-stavsa-najpotuznisij-za-pat-rokiv-zemletrus-zaginuli-sonajmense-16-ludej",
+          "title": "У Тибеті стався найпотужніший за п'ять років землетрус: загинули щонайменше 16 людей",
+          "published_at": "2026-10-22T23:49:13+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/23/novyna/svit/tybeti-stavsya-najpotuzhnishyj-pyat-rokiv-zemletrus-ye-zahybli",
+          "title": "У Тибеті стався найпотужніший за п’ять років землетрус: є загиблі",
+          "published_at": "2026-10-23T00:54:32+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/10/23/775498_unaslidok_zemletrusu_tibeti.html",
+          "title": "Унаслідок землетрусу у Тибеті загинуло щонайменше 16 осіб",
+          "published_at": "2026-10-23T06:30:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-136a2455402bbd63.mp3",
+      "duration_sec": 15.86,
+      "sound": null
+    },
+    {
+      "id": "national-c-003f8cd73a065941",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Слов'янську за добу поранення дістала одна людина",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Російські війська обстріляли Слов'янськ, Суханівку та Билбасівку.",
+        "Поранення дістала 84-річна жінка, пошкоджені близько 15 приватних будинків й автомобілі."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1434591-u-slovansku-za-dobu-poranenna-distala-odna-ludina",
+          "title": "У Слов'янську за добу поранення дістала одна людина",
+          "published_at": "2026-10-23T05:10:33+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404094-armiya-rf-obstrilyala-slovyansk-ta-gromadu-poshkodzheni-pivtora-desyatka-budynkiv-ye-poranena",
+          "title": "Армія РФ обстріляла Слов’янськ та громаду: пошкоджені півтора десятка будинків, є поранена",
+          "published_at": "2026-10-23T05:29:42+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiani-prodovzuiut-obstriliuvati-sloviansku-gromadu-poranena-litnia-zinka-poskodzeni-budinki",
+          "title": "Росіяни продовжують обстрілювати Слов’янську громаду: поранена літня жінка, пошкоджені будинки",
+          "published_at": "2026-10-23T06:17:30+00:00"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/vnaslidok-obstriliv-donechchyny-distala-poranennya-84-richna-zhinka",
+          "title": "Внаслідок обстрілів Донеччини дістала поранення 84-річна жінка",
+          "published_at": "2026-10-23T06:23:01+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/rashisti-bili-po-sloviansku-sukhanivtsi-ta-bilbasivtsi-poranili-litniu-zhinku-foto",
+          "title": "Рашисти били по Слов'янську, Суханівці та Билбасівці, поранили літню жінку (фото)",
+          "published_at": "2026-10-23T06:34:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-003f8cd73a065941.mp3",
+      "duration_sec": 10.74,
+      "sound": null
+    },
+    {
+      "id": "national-c-0138c53d00570275",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Атаки рф знеструмили споживачів у восьми областях: у Києві та на Київщині діють екстрені відключення",
+      "topics": [
+        "Економіка",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Станом на ранок 23 жовтня внаслідок російських атак на енергетичні об'єкти без електропостачання залишилися споживачі у восьми областях України.",
+        "У Києві та Київській області запровадили екстрені відключення, а в окремих регіонах країни — аварійні."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/23/8059364",
+          "title": "У Києві та області запровадили екстрені відключення",
+          "published_at": "2026-10-23T07:48:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4177394-u-kievi-ta-oblasti-ekstreni-vidklucenna-svitla.html",
+          "title": "У Києві та області екстрені відключення світла",
+          "published_at": "2026-10-23T07:59:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/vidklyuchennya-svitla-v-kiyevi-ta-oblasti-dtek-povidomila-pro-avariyni-znestrumlennya-50652733.html",
+          "title": "У Києві та області запровадили аварійні відключення світла",
+          "published_at": "2026-10-23T08:00:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/economics/2026/10/23/775536_kiievi_oblasti_zaprovadili.html",
+          "title": "У Києві та області запровадили екстрені відключення світла",
+          "published_at": "2026-10-23T08:01:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225085.html",
+          "title": "У Києві та Київській області запровадили екстрені відключення електроенергії – ДТЕК",
+          "published_at": "2026-10-23T08:24:54+00:00"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/piv-miljona-ukraintsiv-bez-svitla-cherez-ataky-rf-u-kyievi-ta-nyztsi-oblastej-avarijni-vidkliuchennia",
+          "title": "Пів мільйона українців без світла через атаки рф, у Києві та низці областей – аварійні відключення",
+          "published_at": "2026-10-23T08:34:05+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/23/novyna/suspilstvo/piv-miljona-ukrayincziv-svitla-cherez-ataky-rf-diyut-avarijni-vidklyuchennya",
+          "title": "Понад пів мільйона українців без світла через атаки рф, діють аварійні відключення",
+          "published_at": "2026-10-23T08:39:53+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/23/spozhyvachiv-u-vosmy-oblastyah",
+          "title": "Атаки рф знеструмили споживачів у восьми областях: у Києві та на Київщині діють екстрені відключення",
+          "published_at": "2026-10-23T08:58:57+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-0138c53d00570275.mp3",
+      "duration_sec": 15.15,
+      "sound": null
+    },
+    {
+      "id": "national-c-0256cbd7c6df9bca",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Трамп вважає угоду про надра гарантією безпеки: чому Україні цього замало",
+      "topics": [
+        "Міжнародне",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "Олександр Краєв пояснив, чому економічні домовленості зі США не гарантують Україні безпеки, чого очікувати від переговорів Віткоффа з путіним і коли реально чекати зустрічі Зеленського з путіним."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/10/22/775422_zelenskiy_pro_garantiyi_bezpeki.html",
+          "title": "Зеленський про гарантії безпеки від США: «Ми обговорюємо гарантії, які підкріплюються голосуванням Конгресу»",
+          "published_at": "2026-10-22T18:28:00+00:00"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/ukraine/365426-zelenskyi-nazvav-try-varianty-garantii-bezpeky-dlia-ukrainy-pislia-zavershennia-viiny.html",
+          "title": "Зеленський назвав три варіанти гарантій безпеки для України після завершення війни",
+          "published_at": "2026-10-22T18:40:10+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/garantiji-bezpeki-dlya-ukrajini-zelenskiy-nazvav-tri-varianti-pidtrimki-50652632.html",
+          "title": "Зеленський заявив, що Україна розглядає три основні варіанти гарантій безпеки: про що йдеться",
+          "published_at": "2026-10-22T19:48:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/23/pogljad/polityka/tramp-vvazhaye-uhodu-pro-nadra-harantiyeyu-bezpeky-chomu-ukrayini-czoho-zamalo",
+          "title": "Трамп вважає угоду про надра гарантією безпеки: чому Україні цього замало",
+          "published_at": "2026-10-23T08:28:20+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-0256cbd7c6df9bca.mp3",
+      "duration_sec": 11.83,
+      "sound": null
+    },
+    {
+      "id": "reminder",
+      "kind": "reminder",
+      "block": "reminder",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+        "Посилання на всі джерела — на сайті BRIEF.",
+        "Там само можна обрати теми й регіон — і випуск підлаштується під вас."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/reminder.mp3",
+      "duration_sec": 11.73,
+      "sound": null
+    },
+    {
+      "id": "transition",
+      "kind": "transition",
+      "block": "transition",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [],
+      "sources": [],
+      "audio": null,
+      "duration_sec": 0,
+      "sound": "bumper"
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — новини регіонів."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/regional-heading.mp3",
+      "duration_sec": 2.17,
+      "sound": null
+    },
+    {
+      "id": "regional-c-047c8826ee33097a",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Росія масовано атакувала Суми безпілотниками: постраждали двоє працівників АЗС, є пошкодження",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У ніч проти 23 жовтня російська окупаційна армія масовано атакували Суми ударними дронами, постраждали щонайменше двоє людей Про це повідомили начальник Сумської ОВА Олег Григоров, начальник Сумської міської військової адміністрації Сергій Кривошеєнко та ДСНС.",
+        "Григоров зазначив, що під прицільними ударами росіян були об’єкти цивільної інфраструктури у трьох різних частинах міста."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177310-rosiani-masovano-atakuvali-sumi-dronami-sonajmense-dvoe-ludej-postrazdali.html",
+          "title": "Ворог масовано атакував Суми дронами - щонайменше двоє людей постраждали",
+          "published_at": "2026-10-23T00:29:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-sumi-poshkodzheno-ob-yekti-infrastrukturi-v-riznih-chastinah-mista-ye-poraneni-50652652.html",
+          "title": "РФ масовано атакувала Суми шахедами: пошкоджено цивільну інфраструктуру, є постраждалі",
+          "published_at": "2026-10-23T01:05:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-sumy/33882682.html",
+          "title": "Війська РФ масовано атакували Суми, є постраждалі – ОВА",
+          "published_at": "2026-10-23T03:51:55+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosiya-masovano-atakuvala-sumy-dronamy-ye-postrazhdali",
+          "title": "Росія масовано атакувала Суми дронами: є постраждалі",
+          "published_at": "2026-10-23T05:06:01+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/23/buly-dnipro-sumy-i-poltava",
+          "title": "Окупанти масовано атакували одну з ТЕС ДТЕК, під ударами були Дніпро, Суми і Полтава: є постраждалі, пошкоджені об’єкти",
+          "published_at": "2026-10-23T05:47:28+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/23/rosiia-masovano-atakuvala-sumy-bezpilotnykamy-postrazhdaly-dvoie",
+          "title": "Росія масовано атакувала Суми безпілотниками: постраждали двоє працівників АЗС, є пошкодження",
+          "published_at": "2026-10-23T06:33:58+00:00"
+        },
+        {
+          "name": "ПАНОРАМА",
+          "url": "https://rama.com.ua/masovana-ataka-na-sumi-ie-poraneni",
+          "title": "Масована атака на Суми. Є поранені",
+          "published_at": "2026-10-23T06:46:27+00:00"
+        },
+        {
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/nichna-ataka-na-sumy-23-zhovtnya-postrazhdaly-dvoye-vynykly-pozhezhi",
+          "title": "Нічна атака на Суми: постраждали двоє людей, виникли пожежі",
+          "published_at": "2026-10-23T07:15:52+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-047c8826ee33097a.mp3",
+      "duration_sec": 21.37,
+      "sound": null
+    },
+    {
+      "id": "regional-c-08fed229ccd30981",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "На Львівщині 23 жовтня прощаються із п'ятьма військовими",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Юрій Зелінський, Володимир Лень, Владислав Шпирка, Олег Пелишко та Владислав Кандєєв захищали Україну в зоні бойових дій."
+      ],
+      "sources": [
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/10/23/na-lvivshhyni-proshhayutsya-z-p-yatma-vijskovymy-shho-pro-nyh-vidomo-foto-5",
+          "title": "На Львівщині прощаються з пʼятьма військовими — що про них відомо (фото)",
+          "published_at": "2026-10-23T06:17:00+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/23/lvivshchyna-proshchaietsia-iz-p-iatma-zakhysnykamy",
+          "title": "Львівщина прощається із п’ятьма захисниками",
+          "published_at": "2026-10-23T06:36:05+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1434687-na-lvivsini-23-zovtna-prosautsa-iz-patma-vijskovimi",
+          "title": "На Львівщині 23 жовтня прощаються із п'ятьма військовими",
+          "published_at": "2026-10-23T07:51:57+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-08fed229ccd30981.mp3",
+      "duration_sec": 7.55,
+      "sound": null
+    },
+    {
+      "id": "regional-c-43349c6e8d7b670a",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Водій помер у лікарні: на Черкащині зіткнулися дві вантажівки",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У селі Паланка Уманського району 22 жовтня зіткнулися дві вантажівки.",
+        "Унаслідок ДТП один із водіїв отримав травми і помер у лікарні."
+      ],
+      "sources": [
+        {
+          "name": "ЗMI.ck.ua",
+          "url": "https://zmi.ck.ua/cherkassy/nacherkaschinvantajvkavihalanazustrchnusmugutavrzalasyavnshu.html",
+          "title": "На Черкащині вантажівка виїхала на зустрічну смугу та врізалася в іншу",
+          "published_at": "2026-10-22T16:01:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/cherkasy/1434831-vodij-pomer-u-likarni-na-cerkasini-zitknulisa-dvi-vantazivki",
+          "title": "Водій помер у лікарні: на Черкащині зіткнулися дві вантажівки",
+          "published_at": "2026-10-23T08:39:12+00:00"
+        },
+        {
+          "name": "18000",
+          "url": "https://18000.com.ua/strichka-novin/na-umanshhini-zitknulisya-dvi-vantazhivki-odin-vodij-pomer-u-likarni-foto",
+          "title": "На Уманщині зіткнулися дві вантажівки: один водій помер у лікарні (ФОТО)",
+          "published_at": "2026-10-23T08:44:47+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-43349c6e8d7b670a.mp3",
+      "duration_sec": 8.96,
+      "sound": null
+    },
+    {
+      "id": "regional-c-06b4189afe15ba1d",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні військових",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Правоохоронці Житомирської області затримали 17-річну дівчину, яку підозрюють у допомозі ФСБ в отруєнні українських військових.",
+        "За даними слідства, вона діяла за вказівками російського куратора: фасувала наркотики та надсилала їх поштою, вказуючи вигадані дані відправника."
+      ],
+      "sources": [
+        {
+          "name": "А.С.С.",
+          "url": "https://acc.cv.ua/news/chernivtsi/smertelni-posilki-vid-fsb-shukali-zhertv-sered-viyskovih-i-na-bukovini-policiya-zapobigla-vbivstvu-122938",
+          "title": "Смертельні посилки від ФСБ шукали жертв серед військових і на Буковині: поліція запобігла вбивству",
+          "published_at": "2026-10-23T07:15:17+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225041.html",
+          "title": "Поліцейськи Житомирщини затримали 17-річну дівчину, яка допомагала РФ труїти військових – Нацполіція",
+          "published_at": "2026-10-23T07:22:05+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/23/775516_zhitomirschini_zatrimali.html",
+          "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні українських військових",
+          "published_at": "2026-10-23T07:26:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/23/8059358",
+          "title": "Затримали юнку, яка допомагала ФСБ отруювати військових, 2 померли – поліція",
+          "published_at": "2026-10-23T07:38:00+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb",
+          "title": "На Житомирщині затримали 17-річну дівчину: за даними поліції, вона допомагала ФСБ отруювати українських військових. Двоє загинули",
+          "published_at": "2026-10-23T07:58:40+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177395-posilki-z-narkotikami-na-zitomirsini-zatrimali-divcinu-aku-pidozruut-v-otruenni-ukrainskih-vijskovih.html",
+          "title": "Посилки з наркотиками: на Житомирщині затримали дівчину, яку підозрюють в отруєнні українських військових",
+          "published_at": "2026-10-23T08:07:00+00:00"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/chernivtsi_news/365448-zatrymaly-17-richnu-divchynu-iaka-otruila-dvokh-viiskovykh-i-planuvala-vbyty-biicia-z-bukovyny.html",
+          "title": "Затримали 17-річну дівчину, яка отруїла двох військових і планувала вбити бійця з Буковини",
+          "published_at": "2026-10-23T08:13:31+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1434777-otruenna-vijskovih-metadonom-na-zitomirsini-policia-zatrimala-17-ricnu-divcinu",
+          "title": "Отруєння військових метадоном: на Житомирщині поліція затримала 17-річну дівчину",
+          "published_at": "2026-10-23T08:14:20+00:00"
+        },
+        {
+          "name": "Тексти",
+          "url": "https://texty.org.ua/fragments/118554/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-yaka-dopomahala-fsb-otruyuvaty-vijskovyx-dvoye-zahynuly-foto",
+          "title": "На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати військових: двоє загинули (ФОТО)",
+          "published_at": "2026-10-23T08:27:53+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/socium/u-zhitomirskiy-oblasti-zatrimali-17-richnu-divchinu-zatrimali-za-otruyennya-viyskovih-50652737.html",
+          "title": "Двоє померли. На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових",
+          "published_at": "2026-10-23T08:30:00+00:00"
+        },
+        {
+          "name": "Репортер",
+          "url": "https://report.if.ua/kryminal/zatrymaly-17-richnu-divchynu-yaka-dopomagala-fsb-truyity-ukrayinskyh-vijskovyh",
+          "title": "Затримали 17-річну дівчину, яка допомагала фсб труїти українських військових",
+          "published_at": "2026-10-23T08:30:51+00:00"
+        },
+        {
+          "name": "Галка",
+          "url": "https://galka.if.ua/17-richna-divchyna-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh-odyn-iz-zamakhiv-poperedyly-na-frankivshchyni-foto",
+          "title": "17-річна дівчина допомагала ФСБ отруювати українських військових: один із замахів попередили на Франківщині (ФОТО)",
+          "published_at": "2026-10-23T08:36:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh",
+          "title": "На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових",
+          "published_at": "2026-10-23T08:42:43+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/suspilstvo/273036-rozsylala-kapsuly-zi-smertelnoiu-dozoiu-narkotykiv-17-richnu-divchynu-pidozriuiut-u-dopomozi-fsb-v-otruyenni-ukrayinskykh-viyskovykh-dvoye-pomerly-natspolitsiia",
+          "title": "«Розсилала капсули зі смертельною дозою наркотиків». 17-річну дівчину підозрюють у допомозі ФСБ в отруєнні українських військових, двоє померли — Нацполіція",
+          "published_at": "2026-10-23T08:47:00+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/23/zatrymaly-17-richnu-divchynu",
+          "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні військових",
+          "published_at": "2026-10-23T08:47:42+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-06b4189afe15ba1d.mp3",
+      "duration_sec": 16.33,
+      "sound": null
+    },
+    {
+      "id": "regional-c-5af41a110c54e705",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "На Черкащині 23 жовтня застосували аварійні відключення світла",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У Черкасах та по області запровадили аварійні графіки відключення світла.",
+        "Вони стосуються юридичних та побутових споживачів, повідомили в Черкасиобленерго."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/cherkasy/1434425-vidklucenna-svitla-na-cerkasini-povidomili-grafiki-na-23-zovtna",
+          "title": "Відключення світла на Черкащині: повідомили графіки на 23 жовтня",
+          "published_at": "2026-10-22T19:00:13+00:00"
+        },
+        {
+          "name": "18000",
+          "url": "https://18000.com.ua/strichka-novin/na-cherkashhini-zaprovadili-grafiki-avarijnix-vidklyuchen-svitla",
+          "title": "На Черкащині запровадили графіки аварійних відключень світла",
+          "published_at": "2026-10-23T07:44:08+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/cherkasy/1347566-na-cerkasini-23-zovtna-zastosuvali-avarijni-vidklucenna-svitla",
+          "title": "На Черкащині 23 жовтня застосували аварійні відключення світла",
+          "published_at": "2026-10-23T07:47:53+00:00"
+        },
+        {
+          "name": "ЗMI.ck.ua",
+          "url": "https://zmi.ck.ua/oblast/nacherkaschinzaprovadiliavarynvdklyuchennyaelektroenerg.html",
+          "title": "На Черкащині запровадили аварійні відключення електроенергії",
+          "published_at": "2026-10-23T08:47:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-5af41a110c54e705.mp3",
+      "duration_sec": 9.67,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — Волинь."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/local-volyn-heading.mp3",
+      "duration_sec": 1.78,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-fccef14bf68a8e8a",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
+      "topics": [
+        "Політика",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Суд взяв під варту директорку Руденського психоневрологічного інтеранту.",
+        "Її підозрюють у привласненні коштів і пенсій підопічних закладу."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1434401-direktorku-internatu-na-volini-pidozruut-u-privlasnenni-nonad-24-mln-grn-pensij-pidopicnih",
+          "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
+          "published_at": "2026-10-22T16:01:37+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-volyn-c-fccef14bf68a8e8a.mp3",
+      "duration_sec": 8.67,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-200a893a7b779338",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "На Волині затримали жінку, яка понад два роки служила в російській армії",
+      "topics": [
+        "Міжнародне",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "Вона приїхала в Україну, щоб поновити закордонний паспорт і емігрувати в ЄС."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/23/775524_volini_zatrimali_zhinku_yaka.html",
+          "title": "На Волині затримали жінку, яка понад два роки служила в російській армії",
+          "published_at": "2026-10-23T07:39:00+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/na-volyni-zatrymaly-meshkanku-donetska-iaka-voiuvala-za-rosiiu-ta-pryikhala-ponovyty-zakordonnyi-pasport-sbu",
+          "title": "На Волині затримали мешканку Донецька, яка воювала за Росію та приїхала поновити закордонний паспорт, — СБУ",
+          "published_at": "2026-10-23T08:42:57+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-volyn-c-200a893a7b779338.mp3",
+      "duration_sec": 5.22,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-6b8d25d34240c274",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "У Луцьку через аварію на центральному водогоні знизять тиск води",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "23 жовтня у Луцьку через порив на центральному водогоні діаметром 600 мм знизять тиск води споживачам."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1434695-u-lucku-cerez-avariu-na-centralnomu-vodogoni-znizat-tisk-vodi",
+          "title": "У Луцьку через аварію на центральному водогоні знизять тиск води",
+          "published_at": "2026-10-23T07:45:14+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-volyn-c-6b8d25d34240c274.mp3",
+      "duration_sec": 7.37,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Далі — новини регіону: Хмельниччина."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/local-khmelnytskyi-heading.mp3",
+      "duration_sec": 2.72,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-6ab663e4f4b1e4c0",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Атака на Хмельницький 19 жовтня: у лікарні померла одна з поранених",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У лікарні Хмельницького померла 54-річна жінка, яка була тяжко поранена під час російського удару по житловому будинку у понеділок, 19 жовтня."
+      ],
+      "sources": [
+        {
+          "name": "ZAXID.NET",
+          "url": "https://zaxid.net/u_likarni_pomerla_poranena_vnaslidok_rosiyskoyi_ataki_54_richna_hmelnichanka_n1648509",
+          "title": "У лікарні померла поранена внаслідок російської атаки 54-річна хмельничанка",
+          "published_at": "2026-10-22T12:06:50+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/22/novyna/suspilstvo/ataka-xmelnyczkyj-19-zhovtnya-likarni-pomerla-odna-postrazhdalyx",
+          "title": "Атака на Хмельницький 19 жовтня: у лікарні померла одна з поранених",
+          "published_at": "2026-10-22T12:23:47+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-khmelnytskyi-c-6ab663e4f4b1e4c0.mp3",
+      "duration_sec": 9.93,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-2b686b340e51537c",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "В Ізяславі повністю відновили світло після кількадобового відключення, але напруга в мережі низька: наслідки повітряної атаки 19 жовтня",
+      "topics": [
+        "Економіка",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Цілями повітряної атаки 19 жовтня були енергетичні об'єкти громади."
+      ],
+      "sources": [
+        {
+          "name": "Є",
+          "url": "https://ye.ua/syspilstvo/80818_V_izyaslavi_povnistyi_vidnovili_svitlo_pislya_kilkadobovogo_vidklyichennya_ale_napruga_v_merezhi_nizka__naslidki_povitryanoyi_ataki_19_zhovtnya.html",
+          "title": "В Ізяславі повністю відновили світло після кількадобового відключення, але напруга в мережі низька: наслідки повітряної атаки 19 жовтня",
+          "published_at": "2026-10-22T14:18:52+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-khmelnytskyi-c-2b686b340e51537c.mp3",
+      "duration_sec": 5.67,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-1342dea4030fbcd7",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Зярко замість Надольного: хто очолив «Хмельницькводоканал» і що декларують обидва",
+      "topics": [
+        "Бізнес"
+      ],
+      "must_include": false,
+      "text": [
+        "Олександр Надольний більше не очолює міське комунальне підприємство «Хмельницькводоканал».",
+        "Його звільнили 20 жовтня за угодою сторін."
+      ],
+      "sources": [
+        {
+          "name": "ЖАР.INFO",
+          "url": "https://zhar.org.ua/zyarko-zamist-nadolnogo-hto-ocholyv-hmelnyczkvodokanal-i-shho-deklaruyut-obydva",
+          "title": "Зярко замість Надольного: хто очолив «Хмельницькводоканал» і що декларують обидва",
+          "published_at": "2026-10-22T16:55:20+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-khmelnytskyi-c-1342dea4030fbcd7.mp3",
+      "duration_sec": 8.78,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Закарпаття: головне за добу."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/local-zakarpattia-heading.mp3",
+      "duration_sec": 2.06,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-1b410801c13ebe45",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "На війні обірвалося життя захисника із Хуста Івана Ценька",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "На фронті 14 жовтня 2026 року загинув 48-річного військового із Хуста – солдата Івана Ценька."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1434059-na-fronti-zaginuv-zakarpatec-ivan-cenko",
+          "title": "На фронті загинув закарпатець Іван Ценько",
+          "published_at": "2026-10-22T11:22:05+00:00"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/na-viyni-obirvalosya-zhyttya-zakhysnyka-iz-khusta-ivana-tsenka",
+          "title": "На війні обірвалося життя захисника із Хуста Івана Ценька",
+          "published_at": "2026-10-22T11:46:29+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-zakarpattia-c-1b410801c13ebe45.mp3",
+      "duration_sec": 8.05,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-b2d6ccf9ec638240",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "На Закарпатті поліція розслідує побиття двох чоловіків",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У селищі Ясіня на Рахівщині правоохоронці з’ясовують обставини двох випадків побиття, що сталися 22 жовтня.",
+        "Серед потерпілих – ветеран війни з інвалідністю."
+      ],
+      "sources": [
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/politsiya-vidkryla-kryminalnu-spravu-cherez-pobyttya-veterana-na-rakhivshchyni",
+          "title": "Поліція розслідує побиття ветерана на Рахівщині",
+          "published_at": "2026-10-23T08:57:54+00:00"
+        },
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/crime/143805-na-zakarpatti-politsiia-rozsliduye-pobyttia-dvokh-cholovikiv",
+          "title": "На Закарпатті поліція розслідує побиття двох чоловіків",
+          "published_at": "2026-10-23T09:02:12+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-zakarpattia-c-b2d6ccf9ec638240.mp3",
+      "duration_sec": 10.32,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-47018b584f61968b",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "Прикарпатець загинув внаслідок автотрощі на Закарпатті, ще троє - в лікарні",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Внаслідок лобового зіткнення BMW та Renault у Тячівському районі загинув водій з Надвірнянщини, двоє пасажирок та ще один керманич госпіталізовані до медзакладу."
+      ],
+      "sources": [
+        {
+          "name": "ZAXID.NET",
+          "url": "https://zaxid.net/v_avtotroshhi_na_zakarpatti_zaginuv_prikarpatets_troh_lyudey_gospitalizuvali_n1648489",
+          "title": "В автотрощі на Закарпатті загинув водій, трьох людей госпіталізували",
+          "published_at": "2026-10-22T09:43:42+00:00"
+        },
+        {
+          "name": "Інформатор Коломия",
+          "url": "https://kl.informator.ua/uk/prikarpatec-zaginuv-vnaslidok-avtotroshchi-na-zakarpatti-shche-troye-v-likarni",
+          "title": "Прикарпатець загинув внаслідок автотрощі на Закарпатті, ще троє - в лікарні",
+          "published_at": "2026-10-22T12:31:24+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-zakarpattia-c-47018b584f61968b.mp3",
+      "duration_sec": 10.0,
+      "sound": null
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це були новини BRIEF за двадцять третє жовтня.",
+        "Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-23/audio/outro.mp3",
+      "duration_sec": 6.06,
+      "sound": null
+    }
+  ]
+}

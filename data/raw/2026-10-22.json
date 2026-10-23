@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-23T07:31:33+00:00",
+  "generated_at": "2026-10-23T09:22:50+00:00",
   "source_count": 124,
   "item_count": 3057,
   "items": [
@@ -5114,6 +5114,23 @@
       "status": "new"
     },
     {
+      "id": "4cfcb28a82ce03e4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1434475-viznacilasa-kraina-gospodarka-persogo-v-istorii-klubnogo-cs-z-futbolu-sered-zinok",
+      "title": "Визначилася країна-господарка першого в історії клубного ЧС з футболу серед жінок",
+      "published_at": "2026-10-22T18:13:39+00:00",
+      "published_raw": "Thu, 22 Oct 2026 21:13:39 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Клубний чемпіонат світу з футболу серед жінок: перший в історії турнір серед жіночих футбольних команд, що відомо, країна-господарка",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e7606796f9edddd1",
       "source_id": "map-685",
       "source": "Об'єктив Новини",
@@ -8307,23 +8324,6 @@
       "status": "new"
     },
     {
-      "id": "7f3ad14fcc7ba52b",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1434451-sistema-kontrolu-za-podatkovou-informacieu-ta-pdv-za-posilki-zelenskij-zatverdiv-kilka-zakonoproektiv",
-      "title": "Система контролю за податковою інформацією та ПДВ за посилки: Зеленський затвердив кілька законопроєктів",
-      "published_at": "2026-10-22T17:07:54+00:00",
-      "published_raw": "Thu, 22 Oct 2026 20:07:54 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Президент Володимир Зеленський 22 жовтня затвердив законопроєкти, раніше ухвалені Верховною Радою. Йдеться про європейську систему контролю щодо податкової інформації, а також ПДВ на товари, придбані на маркетплейсах.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "9defb99fa57c2c3b",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -8372,23 +8372,6 @@
       "categories": [
         "Политика"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "8ebd15973022ee0e",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/crimea/1434463-nasou-pomilkou-bulo-ne-vidbiti-krim-zelenskij-pro-pocatok-vijni-u-2014-roci",
-      "title": "«Нашою помилкою було не відбити Крим»: Зеленський про початок війни у 2014 році",
-      "published_at": "2026-10-22T17:06:32+00:00",
-      "published_raw": "Thu, 22 Oct 2026 20:06:32 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Президент України Володимир Зеленський вважає, що якби у 2014 році українські військові отримали наказ захищати державу та відбивати Крим, повномасштабна війна могла б розвиватися інакше",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12548,7 +12531,7 @@
       "geography": "regional",
       "source_region": "donetsk",
       "url": "https://freeradio.com.ua/u-kramatorsku-obstezhat-shche-try-bahatopoverkhivky-poshkodzheni-vid-obstriliv-rf-shcho-vidomo",
-      "title": "У Краматорську обстежать ще три багатоповерхівки пошкоджені від обстрілів РФ: що відомо",
+      "title": "У Краматорську обстежать ще три багатоповерхівки, пошкоджені від обстрілів РФ: що відомо",
       "published_at": "2026-10-22T15:46:10+00:00",
       "published_raw": "Thu, 22 Oct 2026 15:46:10 +0000",
       "fetched_at": "2026-10-22T18:32:27+00:00",
@@ -14383,23 +14366,6 @@
       "categories": [
         "Новини"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "4cfcb28a82ce03e4",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sport/1434475-viznacilasa-kraina-gospodarka-persogo-v-istorii-klubnogo-cs-z-futbolu-sered-zinok",
-      "title": "Визначилася країна-господарка першого в історії клубного ЧС з футболу серед жінок",
-      "published_at": "2026-10-22T15:13:39+00:00",
-      "published_raw": "Thu, 22 Oct 2026 18:13:39 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Клубний чемпіонат світу з футболу серед жінок: перший в історії турнір серед жіночих футбольних команд, що відомо, країна-господарка",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -18660,6 +18626,23 @@
       "status": "new"
     },
     {
+      "id": "7f3ad14fcc7ba52b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1434451-sistema-kontrolu-za-podatkovou-informacieu-ta-pdv-za-posilki-zelenskij-zatverdiv-kilka-zakonoproektiv",
+      "title": "Система контролю за податковою інформацією та ПДВ за посилки: Зеленський затвердив кілька законопроєктів",
+      "published_at": "2026-10-22T14:07:54+00:00",
+      "published_raw": "Thu, 22 Oct 2026 17:07:54 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Президент Володимир Зеленський 22 жовтня затвердив законопроєкти, раніше ухвалені Верховною Радою. Йдеться про європейську систему контролю щодо податкової інформації, а також ПДВ на товари, придбані на маркетплейсах.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "89b6b7a2dd0c6951",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -18695,6 +18678,23 @@
         "війна",
         "ДСНС"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8ebd15973022ee0e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1434463-nasou-pomilkou-bulo-ne-vidbiti-krim-zelenskij-pro-pocatok-vijni-u-2014-roci",
+      "title": "«Нашою помилкою було не відбити Крим»: Зеленський про початок війни у 2014 році",
+      "published_at": "2026-10-22T14:06:32+00:00",
+      "published_raw": "Thu, 22 Oct 2026 17:06:32 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Президент України Володимир Зеленський вважає, що якби у 2014 році українські військові отримали наказ захищати державу та відбивати Крим, повномасштабна війна могла б розвиватися інакше",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19523,6 +19523,29 @@
       "categories": [
         "Новини",
         "Реклама"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1055732038a0090b",
+      "source_id": "map-359",
+      "source": "Крим.Реалії",
+      "geography": "regional",
+      "source_region": "crimea",
+      "url": "https://ua.krymr.com/a/trylyon-rubliv-reparatsiy-vid-ukrayiny-ahresiya-rf-donbas/33881507.html",
+      "title": "Трильйон рублів «репарацій» від України: що означають нові маніпуляції Кремля",
+      "published_at": "2026-10-22T13:55:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 16:55:00 +0300",
+      "fetched_at": "2026-10-22T13:47:51+00:00",
+      "description": "Кремль усе частіше заявляє про наміри вимагати від Києва «репарації» за руйнування інфраструктури на окупованих українських територіях. Що за цим стоїть?",
+      "categories": [
+        "Політика",
+        "Україна",
+        "Росія",
+        "Статті",
+        "Головне за добу"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -28152,9 +28175,9 @@
       "description": "Російські війська зможуть піти у наступ на Дніпропетровську область, якщо Україна відступить з міст Донеччини — Словʼянська, Краматорська та Дружківки. Під загрозою можуть опинитися зокрема Павлоград, Дніпро, Кривий Ріг та Нікополь. Про це заявив президент України Володимир Зеленський у подкасті Diary Of A CEO. За…",
       "categories": [
         "Новини",
-        "Новини Краматорської громади",
         "Новини Слов’янської громади",
-        "Новини Дружківської громади"
+        "Новини Дружківської громади",
+        "Новини Краматорської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -29726,8 +29749,8 @@
       "description": "Обласна влада розширює зону обов’язкової евакуації сімей із дітьми у примусовий спосіб — тепер вона охоплює всі населені пункти Краматорської та Слов’янської громад. Про це повідомив очільник Донецької ОВА Вадим Філашкін. За його словами, зона обов’язкової евакуації сімей із дітьми у примусовий спосіб тепер поширюється…",
       "categories": [
         "Новини",
-        "Новини Слов’янської громади",
-        "Новини Краматорської громади"
+        "Новини Краматорської громади",
+        "Новини Слов’янської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -38125,29 +38148,6 @@
       "status": "new"
     },
     {
-      "id": "1055732038a0090b",
-      "source_id": "map-359",
-      "source": "Крим.Реалії",
-      "geography": "regional",
-      "source_region": "crimea",
-      "url": "https://ua.krymr.com/a/trylyon-rubliv-reparatsiy-vid-ukrayiny-ahresiya-rf-donbas/33881507.html",
-      "title": "Трильйон рублів «репарацій» від України: що означають нові маніпуляції Кремля",
-      "published_at": "2026-10-22T09:55:11+00:00",
-      "published_raw": "Thu, 22 Oct 2026 12:55:11 +0300",
-      "fetched_at": "2026-10-22T13:47:51+00:00",
-      "description": "Кремль усе частіше заявляє про наміри вимагати від Києва «репарації» за руйнування інфраструктури на окупованих українських територіях. Що за цим стоїть?",
-      "categories": [
-        "Політика",
-        "Україна",
-        "Росія",
-        "Статті",
-        "Головне за добу"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "7f9e97a3783ad744",
       "source_id": "lb",
       "source": "LB.ua",
@@ -43654,10 +43654,10 @@
       "description": "Поліція за добу зафіксувала ще 1 894 ударів з боку армії країни-агресорки по підконтрольній українському уряду частині Донецької області. Загарбники атакували лінію фронту та житлові квартали регіону, де були влучання дронів та авіабомб. Протягом минулої доби у Дружківці загинула цивільна людина, а вже після опівночі…",
       "categories": [
         "Новини",
-        "Новини Слов’янської громади",
-        "Новини Олександрівської громади",
         "Новини Миколаївської громади",
-        "Новини Дружківської громади"
+        "Новини Дружківської громади",
+        "Новини Андріївської громади",
+        "Новини Краматорської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -59443,6 +59443,12 @@
       "at": "2026-10-23T07:31:33+00:00",
       "fetched": 1361,
       "added": 1,
+      "errors": 2
+    },
+    {
+      "at": "2026-10-23T09:22:50+00:00",
+      "fetched": 1110,
+      "added": 0,
       "errors": 2
     }
   ]
