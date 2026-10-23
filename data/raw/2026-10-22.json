@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
-  "generated_at": "2026-10-22T22:20:23+00:00",
+  "generated_at": "2026-10-23T01:30:49+00:00",
   "source_count": 124,
-  "item_count": 3055,
+  "item_count": 3056,
   "items": [
     {
       "id": "2bb705604de9e0b6",
@@ -1847,23 +1847,6 @@
       "status": "new"
     },
     {
-      "id": "c38725efc43f3cdc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1433949-majze-dva-roki-vvazavsa-bezvisti-zniklim-na-pokrovskomu-napramku-zaginuv-boec-iz-kusugumskoi-gromadi-evgen-pozar",
-      "title": "Майже два роки вважався безвісти зниклим: на Покровському напрямку загинув боєць із Кушугумської громади Євген Пожар",
-      "published_at": "2026-10-22T19:54:02+00:00",
-      "published_raw": "Thu, 22 Oct 2026 22:54:02 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "22 листопада 2024 року на Покровському напрямку загинув військовий із Кушугумської громади Запорізької область Євген Пожар: майже два роки чоловік вважався зниклим безвісти",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "2e55df4a8b911867",
       "source_id": "map-683",
       "source": "Харків Times",
@@ -1972,23 +1955,6 @@
       "categories": [
         "Світ/Геополітика"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "769eeb305d2b27bd",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1434517-na-sumsini-zinku-zasudili-na-10-rokiv-za-sahrajstvo-z-rodinami-zagiblih-i-polonenih-voiniv",
-      "title": "На Сумщині жінку засудили на 10 років за шахрайство з родинами загиблих і полонених воїнів",
-      "published_at": "2026-10-22T19:44:45+00:00",
-      "published_raw": "Thu, 22 Oct 2026 22:44:45 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Суд призначив десять років позбавлення волі 32-річній жительці Сумщини. Вона видавала себе за адвокатку та ошукала 12 людей на понад 3 млн грн. Серед потерпілих — родини загиблих і полонених українських військових",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4329,23 +4295,6 @@
       "categories": [
         "Техно/Медицина"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "fafe8f20496e29d0",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1434455-bozevilla-kostantinivka-vijskovi-vipustili-dokumentalnij-film-pro-frontove-misto",
-      "title": "«Божевілля. Костянтинівка»: військові випустили документальний фільм про фронтове місто",
-      "published_at": "2026-10-22T18:28:08+00:00",
-      "published_raw": "Thu, 22 Oct 2026 21:28:08 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Українські військові випустили документальний фільм про Костянтинівку, який складається з кадрів військових, записів з дронів, архівних відео та показує, як змінювалось місто та життя людей через російську агресію",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9294,6 +9243,23 @@
       "status": "new"
     },
     {
+      "id": "c38725efc43f3cdc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1433949-majze-dva-roki-vvazavsa-bezvisti-zniklim-na-pokrovskomu-napramku-zaginuv-boec-iz-kusugumskoi-gromadi-evgen-pozar",
+      "title": "Майже два роки вважався безвісти зниклим: на Покровському напрямку загинув боєць із Кушугумської громади Євген Пожар",
+      "published_at": "2026-10-22T16:54:02+00:00",
+      "published_raw": "Thu, 22 Oct 2026 19:54:02 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "22 листопада 2024 року на Покровському напрямку загинув військовий із Кушугумської громади Запорізької область Євген Пожар: майже два роки чоловік вважався зниклим безвісти",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b5afcc41849f45ab",
       "source_id": "map-367",
       "source": "Інтент",
@@ -9328,23 +9294,6 @@
       "published_raw": "Thu, 22 Oct 26 19:53:14 +0300",
       "fetched_at": "2026-10-22T18:32:27+00:00",
       "description": "",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "d8eeb75559b0d13f",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1434459-ukraina-ta-kanada-gotuut-ugodu-pro-100-ricne-partnerstvo-so-vona-peredbacae",
-      "title": "Україна та Канада готують угоду про 100-річне партнерство: що вона передбачає",
-      "published_at": "2026-10-22T16:53:04+00:00",
-      "published_raw": "Thu, 22 Oct 2026 19:53:04 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Україна та Канада готуються підписати угоду про 100-річне партнерство. Сторони також обговорили посилення української протиповітряної оборони, зокрема засобами для перехоплення балістичних ракет",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -9436,8 +9385,8 @@
       "description": "Вже у понеділок, незважаючи на температурні режими, у Бурштині планують подати теплоносій до осель мешканців міста, пише КУРС з посиланням на міського голову Бурштина Василя Андрієшина. Як пояснив очільник міста, таке рішення влада прийняла через численні звернення мешканців, які скаржаться на холод у помешканнях. “Старт опалювального сезону — з понеділка, 26 жовтня. Згідно з чинними […]",
       "categories": [
         "Суспільство",
-        "Бурштин",
-        "опалювальний сезон"
+        "опалювальний сезон",
+        "Бурштин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -9527,6 +9476,23 @@
       "published_raw": "Thu, 22 Oct 2026 19:45:00 +0300",
       "fetched_at": "2026-10-22T22:20:23+00:00",
       "description": "Представники 16 країн на Дитячому Євробаченні-2026. Біографії юних виконавців, цікаві факти про них і значення конкурсних пісень. Де та коли дивитися Євробачення",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "769eeb305d2b27bd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1434517-na-sumsini-zinku-zasudili-na-10-rokiv-za-sahrajstvo-z-rodinami-zagiblih-i-polonenih-voiniv",
+      "title": "На Сумщині жінку засудили на 10 років за шахрайство з родинами загиблих і полонених воїнів",
+      "published_at": "2026-10-22T16:44:45+00:00",
+      "published_raw": "Thu, 22 Oct 2026 19:44:45 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Суд призначив десять років позбавлення волі 32-річній жительці Сумщини. Вона видавала себе за адвокатку та ошукала 12 людей на понад 3 млн грн. Серед потерпілих — родини загиблих і полонених українських військових",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -10705,23 +10671,6 @@
       "status": "new"
     },
     {
-      "id": "e85b61065755c673",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1434419-urad-polsi-poslidovno-nadae-ukraini-riznomanitnu-vijskovu-dopomogu-minoboroni-kraini",
-      "title": "Польща послідовно надає Україні різноманітну військову допомогу — Міноборони країни на тлі повідомлень про її припинення",
-      "published_at": "2026-10-22T16:19:29+00:00",
-      "published_raw": "Thu, 22 Oct 2026 19:19:29 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "Водночас у Міноборони Польщі зазначили, що не надають детальної інформації для публічного поширення щодо типів наданого Україні військового спорядження та графіку доставок з огляду на «секретність документів й інтереси» армії",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "b72a6ce20add75f2",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -10987,6 +10936,25 @@
       "description": "ЄС занепокоївся залежністю від технологій однієї приватної компанії, рішення якої вони не контролюють",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4b6499505a647224",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/vijna/operaciya-impasibl-yak-shturmoviki-polku-skelya-vibivali-rosijskih-okupantiv-iz-trubi-pid-kupyanskom-video",
+      "title": "Операція \"Імпасібл\": як штурмовики полку \"СКЕЛЯ\" вибивали російських окупантів із труби під Куп'янськом (ВІДЕО)",
+      "published_at": "2026-10-22T16:15:00+00:00",
+      "published_raw": "Thu, 22 Oct 2026 19:15:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Кілька днів бійці жили в трубі, у темряві й болоті. Іноді - по 10 чоловік паровозиком",
+      "categories": [
+        "Війна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -13691,6 +13659,23 @@
       "status": "new"
     },
     {
+      "id": "fafe8f20496e29d0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1434455-bozevilla-kostantinivka-vijskovi-vipustili-dokumentalnij-film-pro-frontove-misto",
+      "title": "«Божевілля. Костянтинівка»: військові випустили документальний фільм про фронтове місто",
+      "published_at": "2026-10-22T15:28:08+00:00",
+      "published_raw": "Thu, 22 Oct 2026 18:28:08 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Українські військові випустили документальний фільм про Костянтинівку, який складається з кадрів військових, записів з дронів, архівних відео та показує, як змінювалось місто та життя людей через російську агресію",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3116a6f70b285d08",
       "source_id": "map-660",
       "source": "Кременчуцький Телеграф",
@@ -14719,9 +14704,9 @@
       "description": "Учнів 5–11 класів Бурштинського ліцею №2 імені Ольги Басараб перевели на дистанційне навчання через ремонт туалетів та відсутність опалення в головному корпусі. На капітальний ремонт санвузлів другого та третього поверхів витратять понад 3,15 млн грн. За тендерною документацією роботи можуть тривати до кінця 2027 року, пише КУРС. Відповідні повідомлення батьки отримали у чатах від класних […]",
       "categories": [
         "Суспільство",
+        "ремонт",
         "Бурштин",
-        "дистанційне навчання",
-        "ремонт"
+        "дистанційне навчання"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -17101,8 +17086,8 @@
       "description": "Калуська окружна прокуратура звернулася до Господарського суду області з позовом про стягнення з приватного підприємства понад 1,7 млн грн заборгованості зі сплати за землю та розірвання договору її оренди, пише КУРС з посиланням на обласну прокуратуру. Йдеться про земельну ділянку площею понад 21 га в урочищі «За вокзалом» у місті Болехів. Встановлено, що у лютому […]",
       "categories": [
         "Суспільство",
-        "борг",
-        "прокуратура"
+        "прокуратура",
+        "борг"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -19344,10 +19329,10 @@
       "description": "За доказовою базою Служби безпеки ще один обвинувальний вирок отримав учасник агентурно-бойової групи російської воєнної розвідки, яку СБУ нейтралізувала влітку 2024 року на Харківщині, пише КУРС з посиланням на СБУ. Тоді затримали 4 агентів ворожого осередку, які підірвали авто українського воїна. Внаслідок події військовий отримав тяжкі поранення. За матеріалами СБУ, у серпні 2026 року зловмисник […]",
       "categories": [
         "Суспільство",
-        "підпал",
-        "Укрзалізниця",
         "державна зрада",
-        "сбу"
+        "сбу",
+        "підпал",
+        "Укрзалізниця"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -19548,6 +19533,23 @@
         "ĐšŃ€ĐžĐżĐ¸Đ˛Đ˝Đ¸Ń†ŃŒĐşĐ¸Đš",
         "ĐŸĐ°Ń‚Ń€ŃƒĐťŃŒĐ˝Đ° ĐżĐžĐťŃ–Ń†Ń–Ń"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d8eeb75559b0d13f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1434459-ukraina-ta-kanada-gotuut-ugodu-pro-100-ricne-partnerstvo-so-vona-peredbacae",
+      "title": "Україна та Канада готують угоду про 100-річне партнерство: що вона передбачає",
+      "published_at": "2026-10-22T13:53:04+00:00",
+      "published_raw": "Thu, 22 Oct 2026 16:53:04 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Україна та Канада готуються підписати угоду про 100-річне партнерство. Сторони також обговорили посилення української протиповітряної оборони, зокрема засобами для перехоплення балістичних ракет",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19806,23 +19808,6 @@
         "лікарі",
         "суд"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "2faee1d878a253de",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1434297-u-kramatorsku-vid-udaru-rosijskogo-drona-zaginula-ludina-dsns",
-      "title": "У Краматорську від удару російського дрона загинула людина — ДСНС",
-      "published_at": "2026-10-22T13:47:01+00:00",
-      "published_raw": "Thu, 22 Oct 2026 16:47:01 +0300",
-      "fetched_at": "2026-10-22T13:47:51+00:00",
-      "description": "У Краматорську під завалами зруйнованого внаслідок обстрілу приватного будинку рятувальники виявили тіло загиблого чоловіка. Про це повідомляє ДСНС у Донецькій області",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -22419,6 +22404,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e85b61065755c673",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1434419-urad-polsi-poslidovno-nadae-ukraini-riznomanitnu-vijskovu-dopomogu-minoboroni-kraini",
+      "title": "Польща послідовно надає Україні різноманітну військову допомогу — Міноборони країни на тлі повідомлень про її припинення",
+      "published_at": "2026-10-22T13:19:29+00:00",
+      "published_raw": "Thu, 22 Oct 2026 16:19:29 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "Водночас у Міноборони Польщі зазначили, що не надають детальної інформації для публічного поширення щодо типів наданого Україні військового спорядження та графіку доставок з огляду на «секретність документів й інтереси» армії",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -34805,6 +34807,23 @@
       "published_raw": "Thu, 22 Oct 2026 13:47:26 +0300",
       "fetched_at": "2026-10-22T13:47:51+00:00",
       "description": "Вищий антикорупційний суд дозволив зняти з колишнього міністра енергетики Германа Галущенка електронний браслет.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2faee1d878a253de",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1434297-u-kramatorsku-vid-udaru-rosijskogo-drona-zaginula-ludina-dsns",
+      "title": "У Краматорську від удару російського дрона загинула людина — ДСНС",
+      "published_at": "2026-10-22T10:47:01+00:00",
+      "published_raw": "Thu, 22 Oct 2026 13:47:01 +0300",
+      "fetched_at": "2026-10-22T13:47:51+00:00",
+      "description": "У Краматорську під завалами зруйнованого внаслідок обстрілу приватного будинку рятувальники виявили тіло загиблого чоловіка. Про це повідомляє ДСНС у Донецькій області",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -59390,6 +59409,12 @@
       "fetched": 1844,
       "added": 246,
       "errors": 3
+    },
+    {
+      "at": "2026-10-23T01:30:49+00:00",
+      "fetched": 1794,
+      "added": 1,
+      "errors": 4
     }
   ]
 }

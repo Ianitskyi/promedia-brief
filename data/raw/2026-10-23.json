@@ -1,8 +1,8 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-22T22:20:23+00:00",
-  "source_count": 15,
-  "item_count": 55,
+  "generated_at": "2026-10-23T01:30:49+00:00",
+  "source_count": 18,
+  "item_count": 103,
   "items": [
     {
       "id": "4b6499505a647224",
@@ -33,8 +33,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/likar-mihajlo-kolotilo-stav-najmolodshim-zasluzhenim-v-oblasti-article",
       "title": "Лікар Михайло Колотило став наймолодшим Заслуженим в області",
-      "published_at": "2026-10-22T23:20:02+00:00",
-      "published_raw": "Fri, 23 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-23T02:30:02+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:30:02 +0200",
       "fetched_at": "2026-10-22T22:20:23+00:00",
       "description": "",
       "categories": [
@@ -54,8 +54,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/skejt-park-u-chernigovi-rozvaga-chi-nebezpeka-article",
       "title": "Скейт-парк у Чернігові: розвага чи небезпека?",
-      "published_at": "2026-10-22T23:20:02+00:00",
-      "published_raw": "Fri, 23 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-23T02:30:02+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:30:02 +0200",
       "fetched_at": "2026-10-22T22:20:23+00:00",
       "description": "",
       "categories": [
@@ -75,8 +75,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/suddya-z-nizhina-poyide-pracyuvati-u-sosnicyu-article",
       "title": "Суддя з Ніжина поїде працювати у Сосницю",
-      "published_at": "2026-10-22T23:20:02+00:00",
-      "published_raw": "Fri, 23 Oct 2026 01:20:02 +0200",
+      "published_at": "2026-10-23T02:30:02+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:30:02 +0200",
       "fetched_at": "2026-10-22T22:20:23+00:00",
       "description": "",
       "categories": [
@@ -86,6 +86,554 @@
         "future-date"
       ],
       "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a54d72fad7a733dd",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/u-2025-rotsi-v-berinhovomu-mori-vilovili-rekordnu-kilkist-hibridnikh-krabiv-vcheni-zjasuvali-chomu.html",
+      "title": "У 2025 році в Беринговому морі виловили рекордну кількість крабів-гібридів: учені з’ясували, чому",
+      "published_at": "2026-10-23T01:30:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:30:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Їхня чисельність різко зросла після хвилі тепла.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "32e0df6124ec8e40",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/dmitrivska-subota-traditsiji-pominalnoho-dnja.html",
+      "title": "Дмитрівська субота: традиції поминального дня",
+      "published_at": "2026-10-23T01:30:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:30:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Віряни цього дня відвідують храми.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f1da4ff0d6702b5e",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/23/novyna/svit/aeroportu-yaponiyi-zahorivsya-ukrayinskyj-vantazhnyj-litak-an-124-ruslan",
+      "title": "В аеропорту Японії загорівся український вантажний літак Ан-124 «Руслан»",
+      "published_at": "2026-10-23T01:24:52+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:24:52 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Український вантажний літак Ан-124 «Руслан» загорівся під час посадки в аеропорту Тюбу в Японії 22 жовтня. Постраждалих немає, смугу закривали на 15 хвилин.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d9c199ffdf74a524",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/23/8059324",
+      "title": "Nokia та ICEYE допоможуть Україні створити суверенний супутниковий зв’язок",
+      "published_at": "2026-10-23T01:24:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:24:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "197f483042d88312",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/ukrajina-i-pivdenna-koreya-konfliktuyut-cherez-polonenih-z-pivnichnoji-koreji-kim-chen-in-zhiviy-polishchuk-50652266.html",
+      "title": "«Каятись немає в чому». Як налагодити відносини з Південною Кореєю, яка ескалує конфлікт, якщо вини України немає — розмова з кореєзнавцем",
+      "published_at": "2026-10-23T01:22:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:22:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Кореєзнавець Микола Поліщук в інтерв’ю Radio NV - про дипломатичний конфлікт між Україною і Південною Кореєю через передачу північнокорейських полонених і шанси на його залагодження.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "25347fd46884add4",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177184-es-vidilit-estonii-32-miljoni-na-posilenna-monitoringu-shidnogo-kordonu.html",
+      "title": "ЄС виділить Естонії €32 мільйони на посилення моніторингу східного кордону",
+      "published_at": "2026-10-23T01:15:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:15:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Естонія отримає від Європейського Союзу 32 млн євро на створення системи моніторингу за допомогою безпілотників.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4634ecf3138dafa7",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-23-zhovtnya-u-nizci-oblastey-fiksuyut-rosiyski-udarni-bpla-mapa-povitryanih-trivog-50652643.html",
+      "title": "РФ атакує Україну безпілотниками: в низці областей оголошено повітряну тривогу, у Полтаві лунали вибухи",
+      "published_at": "2026-10-23T01:14:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:14:00 +0300",
+      "fetched_at": "2026-10-22T22:20:23+00:00",
+      "description": "У ніч проти п’ятниці, 23 жовтня, російські війська атакували Україну безпілотниками. У низці областей оголосили повітряну тривогу.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "29a138f53babdef5",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/intsident-z-ukrajinskim-ruslanom-u-japoniji-shcho-vidomo.html",
+      "title": "Інцидент з українським «Русланом» у Японії: що відомо",
+      "published_at": "2026-10-23T01:09:24+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:09:24 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Український літак налякав аеропорт у Японії",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd5b7081a7c45297",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-sumi-poshkodzheno-ob-yekti-infrastrukturi-v-riznih-chastinah-mista-ye-poraneni-50652652.html",
+      "title": "РФ масовано атакувала Суми шахедами: пошкоджено цивільну інфраструктуру, є постраждалі",
+      "published_at": "2026-10-23T01:05:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 04:05:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У ніч проти п’ятниці, 23 жовтня, війська РФ масовано атакували Суми шахедами. Щонайменше двоє людей дістали поранень.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c277659327725009",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/23/novyna/svit/tybeti-stavsya-najpotuzhnishyj-pyat-rokiv-zemletrus-ye-zahybli",
+      "title": "У Тибеті стався найпотужніший за п’ять років землетрус: є загиблі",
+      "published_at": "2026-10-23T00:54:32+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:54:32 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У Тибеті стався землетрус магнітудою 7. Загинули щонайменше 16 людей, ще 46 постраждали. Пошкоджено сотні будинків, тривають рятувальні роботи.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c07818cb39eb4b80",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/rosijani-mabut-rehochut-do-sliz-veduchij-fox-news-rozkritikuvav-vitkoffa-za-lestoshchi-putinu.html",
+      "title": "«Росіяни, мабуть, регочуть до сліз»: ведучий Fox News розкритикував Віткоффа за лестощі Путіну",
+      "published_at": "2026-10-23T00:48:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:48:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Навіть республіканські політики та медіа в шоці від заявм Віткоффа.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70a2b7079b129369",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177122-u-litvi-dvi-povitrani-kuli-z-cigarkami-vibuhnuli-pisla-zitknenna-z-lep.html",
+      "title": "У Литві дві повітряні кулі з цигарками вибухнули після зіткнення з ЛЕП",
+      "published_at": "2026-10-23T00:46:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:46:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У центральній частині Литви вибухнули дві повітряні кулі, завантажені контрабандними цигарками, після зіткнення з лініями електропередачі.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "563e55062711a105",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/23/775472_yaponskomu_aeroportu_stalosya.html",
+      "title": "В японському аеропорту сталося займання українського літака \"Руслан\"",
+      "published_at": "2026-10-23T00:40:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:40:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Пожежа розпочалась під час приземлення вантажного борту.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3d670f47b4b9d1aa",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177310-rosiani-masovano-atakuvali-sumi-dronami-sonajmense-dvoe-ludej-postrazdali.html",
+      "title": "Ворог масовано атакував Суми дронами - щонайменше двоє людей постраждали",
+      "published_at": "2026-10-23T00:29:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:29:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У ніч проти 23 жовтня російські війська масовано атакували Суми ударними дронами, постраждали щонайменше двоє людей, пошкоджені об'єкти цивільної інфраструктури.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9306c27651321fbb",
+      "source_id": "map-573",
+      "source": "А.С.С.",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://acc.cv.ua/news/storystorynka/tsikavo/tri-gremmi-ta-osobista-tragediya-istoriya-odnieyi-iz-naysumnishih-pisen-122922",
+      "title": "Три «Греммі» та особиста трагедія: історія однієї із найсумніших пісень",
+      "published_at": "2026-10-23T00:22:29+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:22:29 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Композиція Tears in Heaven з’явилася після загибелі сина музиканта та стала для нього способом пережити болісну втрату.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8a02d18b3d3b326c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/zsu-yak-navesti-lad-ta-povernuti-zakonnist-rekomendaciji-igorya-lucenka-50652471.html",
+      "title": "«Механізм страшенно недосконалий». Засновник Центру підтримки аеророзвідки Луценко навів три способи покращення атмосфери в ЗСУ",
+      "published_at": "2026-10-23T00:14:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:14:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Обстановку у Збройних Силах України часто можна охарактеризувати словом «безлад», і це слід якнайшвидше виправляти, сказав в інтерв’ю Радіо NV військовослужбовець, співзасновник Центру підтримки аеророзвідки, колишній депутат Верховної Ради Ігор Луценко.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2dfe742cf02c5cc1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177180-u-nigeri-zvilnili-dvoh-evropejok-aki-ponad-rik-perebuvali-u-poloni.html",
+      "title": "У Нігері звільнили двох європейок, які понад рік перебували у полоні",
+      "published_at": "2026-10-23T00:10:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:10:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Двох полонених громадянок - зі Швейцарії та Австрії - звільнили після понад року перебування в полоні у Нігері.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2ab6c3457a66140d",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/urjad-velikoji-britaniji-zaklikav-usikh-hromadjan-zrobiti-zapasi-vodi-ta-jizhi.html",
+      "title": "Уряд Великої Британії закликав усіх громадян зробити запаси води та їжі",
+      "published_at": "2026-10-23T00:09:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 03:09:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Їх має вистачити на три доби.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bf7d47dc2df247be",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/vykradennia-motocykla-dnipro",
+      "title": "Хотів перефарбувати транспорт: У Дніпрі 40-річного чоловіка підозрюють у викраденні мотоцикла",
+      "published_at": "2026-10-23T00:01:58+00:00",
+      "published_raw": "Fri, 23 Oct 2026 00:01:58 +0000",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "The post Хотів перефарбувати транспорт: У Дніпрі 40-річного чоловіка підозрюють у викраденні мотоцикла appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "транспорт"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "84f75cd49a17ba2f",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/23/novyna/svit/tramp-zayavyv-mask-znyav-obmezhennya-shvydkosti-starlink-ukrayiny",
+      "title": "Трамп заявив, що Маск зняв обмеження швидкості Starlink для України",
+      "published_at": "2026-10-22T23:54:31+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:54:31 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Президент США Дональд Трамп заявив, що Ілон Маск зняв обмеження швидкості Starlink в Україні. Водночас повне відновлення роботи системи офіційно не підтвердили.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6e06ad40e070dcfa",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177309-tramp-prosiv-google-perejmenuvati-atlanticnij-okean-ale-distav-vidmovu.html",
+      "title": "Трамп просив Google перейменувати Атлантичний океан, але дістав відмову",
+      "published_at": "2026-10-22T23:51:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:51:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Президент США Дональд Трамп заявив, що просив гендиректора Google Сундара Пічаї перейменувати Атлантичний океан, однак компанія відхилила його пропозицію.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "81c70f5d7d54f581",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1434549-u-tibeti-stavsa-najpotuznisij-za-pat-rokiv-zemletrus-zaginuli-sonajmense-16-ludej",
+      "title": "У Тибеті стався найпотужніший за п'ять років землетрус: загинули щонайменше 16 людей",
+      "published_at": "2026-10-22T23:49:13+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:49:13 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У місті Нагчу в Тибеті 22 жовтня обвалилися щонайменше 339 будинків, 11 травмованих перебувають у тяжкому стані. До рятувальних робіт залучили понад 1600 людей, у частині регіону не працює зв'язок, а рух поїздів зупинили",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e69283ba2a2bce0a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/ukrzaliznicya-otrimaye-lokomotivi-vid-finlyandiji-peredacha-pogodzhena-na-biznes-forumi-50652651.html",
+      "title": "Фінляндія передасть Укрзалізниці десять локомотивів та комплектуючі до них — Калашник",
+      "published_at": "2026-10-22T23:49:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:49:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Уряд Фінляндії безкоштовно передасть Укрзалізниці десять локомотивів та комплектуючі до них. Відповідну угоду підписали під час українсько-фінського бізнес-форуму в Києві.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7441d554ddf636b3",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177139-rosiani-na-tot-provodat-rejdi-proti-nelegaliv-dla-zalakuvanna-ukrainciv-bez-pasportiv-rf.html",
+      "title": "Росіяни на ТОТ проводять рейди проти нелегалів для залякування українців без паспортів РФ",
+      "published_at": "2026-10-22T23:41:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:41:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Росія проводить на тимчасово окупованих територіях операцію “Нелегал-2026”, під час якої шукають українців, що відмовивилися отримувати громадянство держави-агресора.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4cbd3cbd5237625e",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/23/775470_prezident_braziliyi_vimagaie.html",
+      "title": "Президент Бразилії вимагає заборонити опоненту участь у виборах через нібито втручання компанії Meta",
+      "published_at": "2026-10-22T23:31:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:31:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Лула да Сілва скаржиться на нерівні умови просування контенту кандидатів у соцмережах.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e6a74639c5bc3100",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/putin-proponuye-mir-ukrajini-valeri-pekar-pro-scenariy-globalniy-dnr-50652572.html",
+      "title": "Мирна пропозиція Путіна",
+      "published_at": "2026-10-22T23:26:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:26:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Вночі Путін передав Україні чергову позитивну відповідь на пропозиції про мир",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1bb0cfe0b825ad2b",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/23/8059319",
+      "title": "Розрахунки Трампа на проміжні вибори у США вносять плутанину в політику щодо України – Reuters",
+      "published_at": "2026-10-22T23:22:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:22:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Reuters пояснює, як проміжні вибори у США внесли плутанину в політику Трампа щодо України.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fbc84b5815e1dc8b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4177013-dosagnuti-miru-slahom-peregovoriv-nemozlivo-poki-putin-pri-vladi-prezident-institutu-hadsona.html",
+      "title": "Досягнути миру шляхом переговорів неможливо, поки Путін при владі - президент Інституту Хадсона",
+      "published_at": "2026-10-22T23:22:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:22:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Правління російського диктатора Путіна залежить від продовження війни, тому Заходу необхідна стратегія, яка передбачає зміцнення України, стримування Росії та підготовку до змін після його відходу від влади.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c9a53a5086880341",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/sport/325383-taison-povertaietsia-rynh-hrudni-vin-maie-provesty-bii-meivezerom",
+      "title": "Тайсон повертається на ринг, у грудні він має провести бій із Мейвезером",
+      "published_at": "2026-10-22T23:22:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:22:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Колишній чемпіон світу з боксу Флойд Мейвезер заявив, що в грудні проведе виставковий поєдинок із Майком Тайсоном.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
       "status": "new"
     },
     {
@@ -152,6 +700,344 @@
       "status": "new"
     },
     {
+      "id": "27bada34f0d1f77c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4169249-u-nic-na-25-zovtna-ukraina-perejde-na-zimovij-cas.html",
+      "title": "У ніч на 25 жовтня Україна перейде на зимовий час",
+      "published_at": "2026-10-22T23:14:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:14:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У ніч із суботи, 24 жовтня, на неділю, 25-те, українці перейдуть на зимовий час, перевівши о четвертій годині ранку стрілки годинника на одну годину назад.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bb1bef7d39007789",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1224880.html",
+      "title": "Фінляндія безоплатно передасть Укрзалізниці 10 локомотивів для забезпечення руху в умовах атак на енергетику – Калашник",
+      "published_at": "2026-10-22T23:03:25+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:03:25 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Фінляндія безоплатно передасть АТ \"Укрзалізниця\" 10 локомотивів та комплектуючі до них для підтримки стабільності перевезень на тлі постійних російських ударів по транспортній та енергетичній інфраструктурі, повідомив міністр з відновлення, інфраструктури та транспорту України Микола Калашник у телеграм-каналі в четвер.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "aee9f5900728effb",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/perekhid-na-zimovij-chas-2026-kudi-treba-perevoditi-strilki.html",
+      "title": "Перехід на зимовий час 2026: куди треба переводити стрілки",
+      "published_at": "2026-10-22T23:00:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 02:00:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Годинники переводять в останню неділю жовтня.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e40fa10a6152ff29",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/23/novyna/bezpeka/rosiya-hotuye-novi-speczpidrozdily-pidzemnoyi-vijny-wsj",
+      "title": "Росія готує нові спецпідрозділи для підземної війни – WSJ",
+      "published_at": "2026-10-22T22:59:16+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:59:16 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Російські військові використовують газопроводи для проникнення в український тил і створення укріплень. За даними WSJ, Москва готує спеціальні підрозділи для підземної війни.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d368bc5dad366dd6",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177308-u-tibeti-stavsa-najpotuznisij-za-ostanni-pat-rokiv-zemletrus-16-zagiblih-32-postrazdalih.html",
+      "title": "У Тибеті стався найпотужніший за п’ять років землетрус - 16 загиблих, 32 постраждалих",
+      "published_at": "2026-10-22T22:59:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:59:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "У Тибетському автономному районі Китаю внаслідок землетрусу магнітудою 7 у четвер загинули щонайменше 16 осіб, ще 32 дістали поранення.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73c5bfdb852c3b00",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/vin-stane-shche-zlishim-shcho-chekaje-na-ukrajinu-pislja-mozhlivoho-prohrashu-trampa-na-viborakh.html",
+      "title": "«Він стане ще злішим»: що чекає на Україну після можливого програшу Трампа на виборах",
+      "published_at": "2026-10-22T22:59:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:59:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Європа починає усвідомлювати неприємну реальність.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7d6990206bee1199",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/politics/rik-romana-shuhevicha-u-lvivskiy-oblasti-andriy-deshchicya-komentuye-dorechnist-50652553.html",
+      "title": "«Чи не створюємо ми ідола з Шухевича?» Ексглава МЗС України прокоментував новий скандал із Польщею",
+      "published_at": "2026-10-22T22:51:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:51:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Львівська обласна рада вже втретє проголосила рік Романа Шухевича, цього разу рішення викликало гнів у Польщі. Водночас постійне акцентування на одних і тих самих історичних фігурах може здаватися недоречним і в Україні, сказав в ефірі Радіо NV посол України у Польщі у 2014–2022 роках, в.о. міністра закордонних справ України в лютому — червні 2014 року Андрій Дещиця.",
+      "categories": [
+        "Україна/Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9e44f6fbed6455b3",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177146-zavtra-v-ukraini-dositime-vden-do-20.html",
+      "title": "В Україні у п'ятницю дощитиме, вдень до +20°",
+      "published_at": "2026-10-22T22:50:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:50:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "В Україні у п'ятницю, 23 жовтня, буде хмарно з проясненнями, очікуються дощі, вночі 8-13°, вдень 12-17°, на півдні країни до 20°.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "80bd659814a98dc2",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/23/775468_tramp_perekonuie_scho_ilon_mask.html",
+      "title": "Трамп переконує, що Ілон Маск повністю відновив роботу Starlink в Україні",
+      "published_at": "2026-10-22T22:46:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:46:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Республіканець відмовився пояснити, чи сталося це після його особистого прохання.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "efb655c3ffa3f163",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4177307-tramp-pidtverdiv-so-mask-vidnoviv-robotu-starlink-v-ukraini.html",
+      "title": "Трамп підтвердив, що Маск відновив роботу Starlink в Україні",
+      "published_at": "2026-10-22T22:43:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:43:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Президент США Дональд Трамп відмовився коментувати повідомлення про те, що він телефонував власнику SpaceX Ілону Маску з проханням зняти обмеження на доступ до Starlink в Україні, але підтвердив, що той відновив роботу мережі.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "aabaa6f3dc61419b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/politics/pidvishchennya-zarplat-viyskovim-i-obshuki-u-pishnogo-interv-yu-z-zheleznyakom-50652260.html",
+      "title": "«Продовження Міндічгейту». Чому Пишний має піти з посади голови Нацбанку після обшуків і як підвищити зарплати військовим — Железняк",
+      "published_at": "2026-10-22T22:39:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:39:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Перший заступник голови Комітету Верховної Ради з питань фінансів, податкової та митної політики Ярослав Железняк в інтерв’ю Radio NV - про підвищення зарплат військовим і продовження Міндічгейту.",
+      "categories": [
+        "Україна/Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f9d2f45d750bf141",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/liga-konferenciy-2-y-tur-rozklad-i-rezultati-matchiv-50652404.html",
+      "title": "Ліга конференцій: розклад і результати матчів другого туру",
+      "published_at": "2026-10-22T22:35:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:35:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Загалом у фінальній стадії турніру беруть участь 36 команд. Із них 24 вийдуть до плей-оф.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8c18741683ea0abe",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/23/novyna/svit/tramp-prosyv-perejmenuvaty-atlantychnyj-okean-svoyu-chest-google-maps-jomu-vidmovyly",
+      "title": "Трамп просив перейменувати Атлантичний океан на свою честь у Google Maps, але йому відмовили",
+      "published_at": "2026-10-22T22:34:36+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:34:36 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Дональд Трамп заявив, що просив главу Google Сундара Пічаї перейменувати Атлантичний океан у Google Maps на свою честь або на честь США, але отримав відмову.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "41661c9402539260",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177306-eksrozvidniku-z-lugansini-zaocno-povidomili-pro-pidozru-v-dezertirstvi-ta-derzzradi.html",
+      "title": "Ексрозвіднику з Луганщини заочно повідомили про підозру в дезертирстві та держзраді",
+      "published_at": "2026-10-22T22:32:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:32:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Служба безпеки України заочно повідомила про підозру ексспівробітнику Служби зовнішньої розвідки, який передав ворогу службову інформацію.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ce513add29e1b18e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/starlink-dlya-zsu-ilon-mask-skasuvav-obmezhennya-shvidkosti-zayaviv-tramp-50652647.html",
+      "title": "Трамп підтвердив, що Маск зняв обмеження швидкості Starlink в Україні",
+      "published_at": "2026-10-22T22:28:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:28:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Президент США Дональд Трамп заявив, що мільярдер Ілон Маск скасував обмеження швидкості для військової версії Starlink в Україні.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "13cab05222c01604",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4177305-miskrada-nujorka-zaboronit-kinni-ekipazi-v-misti.html",
+      "title": "Міськрада Нью-Йорка заборонить кінні екіпажі в місті",
+      "published_at": "2026-10-22T22:27:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:27:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Міська рада Нью-Йорка ухвалила в четвер рішення про заборону кінних екіпажів у місті, президент Дональд Трамп його розкритикував.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "28644e8a8faf61c0",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/liga-yevropi-3-y-tur-rozklad-i-rezultati-matchiv-50652399.html",
+      "title": "Ліга Європи: розклад і результати матчів третього туру",
+      "published_at": "2026-10-22T22:22:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:22:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Після трьох матчів загального етапу лише п’ять команд мають стовідсотковий показник.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1f922a09cd03df5c",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/budinok-kapitana-manchester-junajted-pohrabuvali-pid-chas-matchu-lihi-chempioniv.html",
+      "title": "Будинок капітана \"Манчестер Юнайтед\" пограбували під час матчу Ліги чемпіонів",
+      "published_at": "2026-10-22T22:21:24+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:21:24 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Грабіжники пробули в приміщенні близько п’яти хвилин.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ee84874679aa00b3",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -165,6 +1051,25 @@
       "description": "Полтавська область отримала від німецьких партнерів генератори для критичної інфраструктури.",
       "categories": [
         "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "11c0f3267f27ad27",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/news/2026/10/23/775466_zelenskiy_poyasniv_chomu_dosi.html",
+      "title": "Зеленський пояснив, чому досі не призначений новий голова КМВА",
+      "published_at": "2026-10-22T22:15:00+00:00",
+      "published_raw": "Fri, 23 Oct 2026 01:15:00 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Переговори з потенційними кандидатами на посаду затягнулись.",
+      "categories": [
+        "Політика"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -240,25 +1145,6 @@
       "fetched_at": "2026-10-22T22:20:23+00:00",
       "description": "22 жовтня Трамп заявив, що Маск повернув швидкість військовим терміналам Starlink в Україні. За даними WSJ, президент США телефонував власникові SpaceX, але українська влада не підтверджувала, що обмеження зняли",
       "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "4634ecf3138dafa7",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-23-zhovtnya-u-nizci-oblastey-fiksuyut-rosiyski-udarni-bpla-mapa-povitryanih-trivog-50652643.html",
-      "title": "РФ атакує Україну безпілотниками: в низці областей оголошено повітряну тривогу, у Полтаві лунали вибухи",
-      "published_at": "2026-10-22T22:01:00+00:00",
-      "published_raw": "Fri, 23 Oct 2026 01:01:00 +0300",
-      "fetched_at": "2026-10-22T22:20:23+00:00",
-      "description": "У ніч проти п’ятниці, 23 жовтня, російські війська атакували Україну безпілотниками. У низці областей оголосили повітряну тривогу.",
-      "categories": [
-        "Україна/Події"
-      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -898,6 +1784,23 @@
       "status": "new"
     },
     {
+      "id": "e54f8e2724b18138",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1434547-u-harkovi-stvorili-persij-v-misti-antidronovij-koridor-video",
+      "title": "У Харкові створили перший в місті антидроновий коридор (ВІДЕО)",
+      "published_at": "2026-10-22T21:10:34+00:00",
+      "published_raw": "Fri, 23 Oct 2026 00:10:34 +0300",
+      "fetched_at": "2026-10-23T01:30:49+00:00",
+      "description": "Сітками від російських дронів у Харкові затягнули дорогу, найближчу до фронту в межах міста. Це зробила вінницька 70-та окрема бригада, яка за два роки облаштувала понад 200 кілометрів такого захисту на Донеччині й Харківщині",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "375347a39ee8bfe1",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -1076,6 +1979,11 @@
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
     },
     {
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
+    },
+    {
       "source": "Обрії Ізюмщини",
       "feed": "https://obrii.com.ua/feed",
       "error": "https://obrii.com.ua/feed: [Errno -5] No address associated with hostname"
@@ -1092,6 +2000,12 @@
       "fetched": 56,
       "added": 55,
       "errors": 3
+    },
+    {
+      "at": "2026-10-23T01:30:49+00:00",
+      "fetched": 100,
+      "added": 48,
+      "errors": 4
     }
   ]
 }
