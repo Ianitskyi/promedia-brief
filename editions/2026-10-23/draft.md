@@ -1,6 +1,6 @@
 # BRIEF — чернетка випуску за 2026-10-23
 
-Статус: **draft** · згенеровано 2026-10-23T09:23:24+00:00 · sha256 `65c336040a4c`
+Статус: **draft** · згенеровано 2026-10-23T10:02:05+00:00 · sha256 `89cda27b2528`
 
 > Чернетка для редакційної перевірки. Не публікувати без затвердження.
 
@@ -8,7 +8,7 @@
 ✓ Повний список джерел доступний на сайті BRIEF.
 ✓ Випуск за двадцять третє жовтня.
 ✓ Новини України.
-### national #1 · score 0.8986 · Війна та безпека, Суспільство · обов'язкова
+### national #1 · score 0.894 · Війна та безпека, Суспільство · обов'язкова
 ✓ Кількість поранених унаслідок удару російської армії по Центральному ринку в Лозовій Харківської області зросла до 36 осіб, двоє людей загинули.
   - чутлива тема (загин, поранен, удар); незалежних джерел: 18
 
@@ -32,7 +32,7 @@
   - [Громадське радіо](https://hromadske.radio/news/2026/10/22/obstril-rynku-v-lozoviy-vzhe-36-poranenykh-i-dvoie-zahyblykh) — Обстріл ринку в Лозовій: вже 36 поранених і двоє загиблих
   - [Гвара Медіа](https://gwaramedia.com/u-likarni-pomerla-postrazhdala-vnaslidok-udaru-po-rinku-v-lozovij) — У лікарні померла постраждала внаслідок удару по ринку в Лозовій
 
-### national #2 · score 0.873 · Війна та безпека, Міжнародне · обов'язкова
+### national #2 · score 0.8704 · Війна та безпека, Міжнародне · обов'язкова
 ✓ Протягом 22 жовтня на фронті сталося 146 бойових зіткнень Сил оборони України з російськими загарбниками.
   - чутлива тема (бойов); незалежних джерел: 4
 
@@ -41,7 +41,7 @@
   - [Радіо Свобода](https://radiosvoboda.org/a/news-henshtab-zsu-front/33881851.html) — Генштаб ЗСУ фіксує зменшення активності військ РФ – на шести напрямках наступів не було
   - [ОстроВ](https://ostro.org/news/vid-pochatku-doby-vidbulosya-146-boyezitknen-na-najgaryachishomu-pokrovskomu-napryamku-likvidovano-i571092) — Від початку доби відбулося 146 боєзіткнень, на найгарячішому Покровському напрямку ліквідовано понад 40 окупантів - Генштаб
 
-### national #3 · score 0.8623 · Війна та безпека, Економіка · обов'язкова
+### national #3 · score 0.8563 · Війна та безпека, Економіка · обов'язкова
 ✓ Унаслідок атаки реактивних дронів на Волинь зранку 23 жовтня частина жителів області залишилися без електропостачання.
   - чутлива тема (атак); незалежних джерел: 5
 ✓ Станом на ранок без світла майже 105 тисяч абонентів.
@@ -52,7 +52,7 @@
   - [Новинарня](https://novynarnia.com/2026/10/23/cherez-vorozhyi-obstril-ponad-100-tysiach-abonentiv-na-volyni-bez) — Через ворожий обстріл понад 100 тисяч абонентів на Волині – без світла
   - [Mind.ua](https://mind.ua/news/20311303-u-rivnenskij-ta-volinskij-oblastyah-chastina-naselenih-punktiv-zalishilasya-bez-svitla) — У Рівненській та Волинській областях частина населених пунктів залишилася без світла
 
-### national #4 · score 0.8527 · Війна та безпека
+### national #4 · score 0.8475 · Війна та безпека
 ✓ У місті Нагчу в Тибеті 22 жовтня обвалилися щонайменше 339 будинків, 11 травмованих перебувають у тяжкому стані.
   - чутлива тема (травмован); незалежних джерел: 4
 ✓ До рятувальних робіт залучили понад 1600 людей, у частині регіону не працює зв'язок, а рух поїздів зупинили.
@@ -62,7 +62,18 @@
   - [Слово і Діло](https://slovoidilo.ua/2026/10/23/novyna/svit/tybeti-stavsya-najpotuzhnishyj-pyat-rokiv-zemletrus-ye-zahybli) — У Тибеті стався найпотужніший за п’ять років землетрус: є загиблі
   - [LB.ua](https://lb.ua/world/2026/10/23/775498_unaslidok_zemletrusu_tibeti.html) — Унаслідок землетрусу у Тибеті загинуло щонайменше 16 осіб
 
-### national #5 · score 0.8487 · Війна та безпека, Міжнародне
+### national #5 · score 0.8462 · Війна та безпека, Політика
+✓ Міністр з відновлення, інфраструктури та транспорту Микола Калашник назвав цю допомогу від Гельсінкі «важливою», адже армія РФ системно та цілеспрямовано атакує локомотивний парк Укрзалізниці.
+  - чутлива тема (атак); незалежних джерел: 6
+
+  - [Суспільне Новини](https://suspilne.media/1434535-finlandia-peredae-ukrzaliznici-desat-lokomotiviv) — Фінляндія передає Укрзалізниці десять локомотивів
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1224880.html) — Фінляндія безоплатно передасть Укрзалізниці 10 локомотивів для забезпечення руху в умовах атак на енергетику – Калашник
+  - [NV](https://nv.ua/ukr/world/geopolitics/ukrzaliznicya-otrimaye-lokomotivi-vid-finlyandiji-peredacha-pogodzhena-na-biznes-forumi-50652651.html) — Фінляндія передасть Укрзалізниці десять локомотивів та комплектуючі до них — Калашник
+  - [Громадське радіо](https://hromadske.radio/news/2026/10/23/finliandiia-dopomozhe-ukraini-rozrobyty-vlasnyy-suputnykovyy-zv-iazok-i-nadast-lokomotyvy-dlia-ukrzaliznytsi) — Фінляндія допоможе Україні розробити власний супутниковий зв’язок і надасть локомотиви для «Укрзалізниці»
+  - [Букви](https://bukvy.org/ukrzaliznytsya-otrymaye-vid-finlyandiyi-10-teplovoziv) — Укрзалізниця отримає від Фінляндії 10 тепловозів
+  - [Тексти](https://texty.org.ua/fragments/118555/finlyandiya-bezoplatno-peredaye-ukrayini-lokomotyvy-yak-vony-dopomozhut-zaliznyci-foto) — Фінляндія безоплатно передає Україні локомотиви: як вони допоможуть залізниці (ФОТО)
+
+### national #6 · score 0.8433 · Війна та безпека, Міжнародне
 ✓ Російські війська обстріляли Слов'янськ, Суханівку та Билбасівку.
   - чутлива тема (обстріл); незалежних джерел: 5
 ✓ Поранення дістала 84-річна жінка, пошкоджені близько 15 приватних будинків й автомобілі.
@@ -74,7 +85,7 @@
   - [Антикризовий медіа-центр](https://acmc.ua/vnaslidok-obstriliv-donechchyny-distala-poranennya-84-richna-zhinka) — Внаслідок обстрілів Донеччини дістала поранення 84-річна жінка
   - [Східний Варіант](https://v-variant.com.ua/rashisti-bili-po-sloviansku-sukhanivtsi-ta-bilbasivtsi-poranili-litniu-zhinku-foto) — Рашисти били по Слов'янську, Суханівці та Билбасівці, поранили літню жінку (фото)
 
-### national #6 · score 0.8458 · Економіка, Війна та безпека
+### national #7 · score 0.8395 · Економіка, Війна та безпека
 ✓ Станом на ранок 23 жовтня внаслідок російських атак на енергетичні об'єкти без електропостачання залишилися споживачі у восьми областях України.
   - чутлива тема (атак); незалежних джерел: 8
 ✓ У Києві та Київській області запровадили екстрені відключення, а в окремих регіонах країни — аварійні.
@@ -88,14 +99,6 @@
   - [Слово і Діло](https://slovoidilo.ua/2026/10/23/novyna/suspilstvo/piv-miljona-ukrayincziv-svitla-cherez-ataky-rf-diyut-avarijni-vidklyuchennya) — Понад пів мільйона українців без світла через атаки рф, діють аварійні відключення
   - [Рубрика](https://rubryka.com/2026/10/23/spozhyvachiv-u-vosmy-oblastyah) — Атаки рф знеструмили споживачів у восьми областях: у Києві та на Київщині діють екстрені відключення
 
-### national #7 · score 0.8407 · Міжнародне, Політика
-✓ Олександр Краєв пояснив, чому економічні домовленості зі США не гарантують Україні безпеки, чого очікувати від переговорів Віткоффа з путіним і коли реально чекати зустрічі Зеленського з путіним.
-
-  - [LB.ua](https://lb.ua/news/2026/10/22/775422_zelenskiy_pro_garantiyi_bezpeki.html) — Зеленський про гарантії безпеки від США: «Ми обговорюємо гарантії, які підкріплюються голосуванням Конгресу»
-  - [Молодий буковинець](https://molbuk.ua/ukraine/365426-zelenskyi-nazvav-try-varianty-garantii-bezpeky-dlia-ukrainy-pislia-zavershennia-viiny.html) — Зеленський назвав три варіанти гарантій безпеки для України після завершення війни
-  - [NV](https://nv.ua/ukr/world/geopolitics/garantiji-bezpeki-dlya-ukrajini-zelenskiy-nazvav-tri-varianti-pidtrimki-50652632.html) — Зеленський заявив, що Україна розглядає три основні варіанти гарантій безпеки: про що йдеться
-  - [Слово і Діло](https://slovoidilo.ua/2026/10/23/pogljad/polityka/tramp-vvazhaye-uhodu-pro-nadra-harantiyeyu-bezpeky-chomu-ukrayini-czoho-zamalo) — Трамп вважає угоду про надра гарантією безпеки: чому Україні цього замало
-
 ✓ Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.
 ✓ Посилання на всі джерела — на сайті BRIEF.
 ✓ Там само можна обрати теми й регіон — і випуск підлаштується під вас.
@@ -103,7 +106,7 @@
 **[ЗВУКОВИЙ ПЕРЕХІД]**
 
 ✓ А тепер — новини регіонів.
-### regional #1 · score 0.8371 · Війна та безпека, Економіка
+### regional #1 · score 0.8314 · Війна та безпека, Економіка
 ✓ У ніч проти 23 жовтня російська окупаційна армія масовано атакували Суми ударними дронами, постраждали щонайменше двоє людей Про це повідомили начальник Сумської ОВА Олег Григоров, начальник Сумської міської військової адміністрації Сергій Кривошеєнко та ДСНС.
   - чутлива тема (постражд, удар, атак); незалежних джерел: 8
 ✓ Григоров зазначив, що під прицільними ударами росіян були об’єкти цивільної інфраструктури у трьох різних частинах міста.
@@ -118,7 +121,16 @@
   - [ПАНОРАМА](https://rama.com.ua/masovana-ataka-na-sumi-ie-poraneni) — Масована атака на Суми. Є поранені
   - [Кордон.Медіа](https://kordon.media/nichna-ataka-na-sumy-23-zhovtnya-postrazhdaly-dvoye-vynykly-pozhezhi) — Нічна атака на Суми: постраждали двоє людей, виникли пожежі
 
-### regional #2 · score 0.8151 · Війна та безпека, Міжнародне
+### regional #2 · score 0.825 · Війна та безпека, Економіка
+✓ У Сумській області 19 жовтня 2026 року загинув 26-річний військовослужбовець з Івано-Франківщини Богдан Павлишин.
+  - чутлива тема (загин); незалежних джерел: 3
+✓ Він служив радіотелефоністом у 143 окремій механізованій бригаді.
+
+  - [Курс](https://kurs.if.ua/na-vijni-zagynuv-26-richnyj-zahysnyk-z-dolynshhyny-bogdan-pavlyshyn) — На війні загинув 26-річний захисник з Долинщини Богдан Павлишин
+  - [Суспільне Новини](https://suspilne.media/ivano-frankivsk/1434749-u-sumskij-oblasti-zaginuv-26-ricnij-vijskovij-z-ivano-frankivsini-bogdan-pavlisin) — У Сумській області загинув 26-річний військовий з Івано-Франківщини Богдан Павлишин
+  - [ПІК](https://pik.net.ua/2026/10/23/na-sumshhyni-zagynuv-pavlyshyn-bogdan-z-dolyny) — На Сумщині загинув Павлишин Богдан з Долини
+
+### regional #3 · score 0.8091 · Війна та безпека, Міжнародне
 ✓ Юрій Зелінський, Володимир Лень, Владислав Шпирка, Олег Пелишко та Владислав Кандєєв захищали Україну в зоні бойових дій.
   - чутлива тема (бойов); незалежних джерел: 3
 
@@ -126,7 +138,7 @@
   - [Львівський портал](https://portal.lviv.ua/news/2026/10/23/lvivshchyna-proshchaietsia-iz-p-iatma-zakhysnykamy) — Львівщина прощається із п’ятьма захисниками
   - [Суспільне Новини](https://suspilne.media/lviv/1434687-na-lvivsini-23-zovtna-prosautsa-iz-patma-vijskovimi) — На Львівщині 23 жовтня прощаються із п'ятьма військовими
 
-### regional #3 · score 0.8044 · Суспільство
+### regional #4 · score 0.7983 · Суспільство
 ✓ У селі Паланка Уманського району 22 жовтня зіткнулися дві вантажівки.
 ✓ Унаслідок ДТП один із водіїв отримав травми і помер у лікарні.
   - чутлива тема (помер); незалежних джерел: 3
@@ -135,68 +147,49 @@
   - [Суспільне Новини](https://suspilne.media/cherkasy/1434831-vodij-pomer-u-likarni-na-cerkasini-zitknulisa-dvi-vantazivki) — Водій помер у лікарні: на Черкащині зіткнулися дві вантажівки
   - [18000](https://18000.com.ua/strichka-novin/na-umanshhini-zitknulisya-dvi-vantazhivki-odin-vodij-pomer-u-likarni-foto) — На Уманщині зіткнулися дві вантажівки: один водій помер у лікарні (ФОТО)
 
-### regional #4 · score 0.795 · Війна та безпека, Міжнародне
-✓ Правоохоронці Житомирської області затримали 17-річну дівчину, яку підозрюють у допомозі ФСБ в отруєнні українських військових.
-✓ За даними слідства, вона діяла за вказівками російського куратора: фасувала наркотики та надсилала їх поштою, вказуючи вигадані дані відправника.
+### regional #5 · score 0.7972 · Війна та безпека, Міжнародне
+✓ На Донеччині збільшується кількість заявок на евакуацію, особливо від сімей із дітьми.
+  - чутлива тема (евакуац); незалежних джерел: 3
+✓ Волонтери вивозять людей із населених пунктів, де дороги контролюють російські дрони.
 
-  - [А.С.С.](https://acc.cv.ua/news/chernivtsi/smertelni-posilki-vid-fsb-shukali-zhertv-sered-viyskovih-i-na-bukovini-policiya-zapobigla-vbivstvu-122938) — Смертельні посилки від ФСБ шукали жертв серед військових і на Буковині: поліція запобігла вбивству
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225041.html) — Поліцейськи Житомирщини затримали 17-річну дівчину, яка допомагала РФ труїти військових – Нацполіція
-  - [LB.ua](https://lb.ua/society/2026/10/23/775516_zhitomirschini_zatrimali.html) — На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні українських військових
-  - [Українська правда](https://pravda.com.ua/news/2026/10/23/8059358) — Затримали юнку, яка допомагала ФСБ отруювати військових, 2 померли – поліція
-  - [Новинарня](https://novynarnia.com/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb) — На Житомирщині затримали 17-річну дівчину: за даними поліції, вона допомагала ФСБ отруювати українських військових. Двоє загинули
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177395-posilki-z-narkotikami-na-zitomirsini-zatrimali-divcinu-aku-pidozruut-v-otruenni-ukrainskih-vijskovih.html) — Посилки з наркотиками: на Житомирщині затримали дівчину, яку підозрюють в отруєнні українських військових
-  - [Молодий буковинець](https://molbuk.ua/chernivtsi_news/365448-zatrymaly-17-richnu-divchynu-iaka-otruila-dvokh-viiskovykh-i-planuvala-vbyty-biicia-z-bukovyny.html) — Затримали 17-річну дівчину, яка отруїла двох військових і планувала вбити бійця з Буковини
-  - [Суспільне Новини](https://suspilne.media/zhytomyr/1434777-otruenna-vijskovih-metadonom-na-zitomirsini-policia-zatrimala-17-ricnu-divcinu) — Отруєння військових метадоном: на Житомирщині поліція затримала 17-річну дівчину
-  - [Тексти](https://texty.org.ua/fragments/118554/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-yaka-dopomahala-fsb-otruyuvaty-vijskovyx-dvoye-zahynuly-foto) — На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати військових: двоє загинули (ФОТО)
-  - [NV](https://nv.ua/ukr/socium/u-zhitomirskiy-oblasti-zatrimali-17-richnu-divchinu-zatrimali-za-otruyennya-viyskovih-50652737.html) — Двоє померли. На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових
-  - [Репортер](https://report.if.ua/kryminal/zatrymaly-17-richnu-divchynu-yaka-dopomagala-fsb-truyity-ukrayinskyh-vijskovyh) — Затримали 17-річну дівчину, яка допомагала фсб труїти українських військових
-  - [Галка](https://galka.if.ua/17-richna-divchyna-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh-odyn-iz-zamakhiv-poperedyly-na-frankivshchyni-foto) — 17-річна дівчина допомагала ФСБ отруювати українських військових: один із замахів попередили на Франківщині (ФОТО)
-  - [Громадське радіо](https://hromadske.radio/news/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh) — На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових
-  - [hromadske](https://hromadske.ua/suspilstvo/273036-rozsylala-kapsuly-zi-smertelnoiu-dozoiu-narkotykiv-17-richnu-divchynu-pidozriuiut-u-dopomozi-fsb-v-otruyenni-ukrayinskykh-viyskovykh-dvoye-pomerly-natspolitsiia) — «Розсилала капсули зі смертельною дозою наркотиків». 17-річну дівчину підозрюють у допомозі ФСБ в отруєнні українських військових, двоє померли — Нацполіція
-  - [Рубрика](https://rubryka.com/2026/10/23/zatrymaly-17-richnu-divchynu) — На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні військових
-
-### regional #5 · score 0.7939 · Війна та безпека, Економіка
-✓ У Черкасах та по області запровадили аварійні графіки відключення світла.
-✓ Вони стосуються юридичних та побутових споживачів, повідомили в Черкасиобленерго.
-
-  - [Суспільне Новини](https://suspilne.media/cherkasy/1434425-vidklucenna-svitla-na-cerkasini-povidomili-grafiki-na-23-zovtna) — Відключення світла на Черкащині: повідомили графіки на 23 жовтня
-  - [18000](https://18000.com.ua/strichka-novin/na-cherkashhini-zaprovadili-grafiki-avarijnix-vidklyuchen-svitla) — На Черкащині запровадили графіки аварійних відключень світла
-  - [Суспільне Новини](https://suspilne.media/cherkasy/1347566-na-cerkasini-23-zovtna-zastosuvali-avarijni-vidklucenna-svitla) — На Черкащині 23 жовтня застосували аварійні відключення світла
-  - [ЗMI.ck.ua](https://zmi.ck.ua/oblast/nacherkaschinzaprovadiliavarynvdklyuchennyaelektroenerg.html) — На Черкащині запровадили аварійні відключення електроенергії
+  - [Суспільне Новини](https://suspilne.media/donbas/1434623-duze-bagato-ditej-mi-vivozimo-dedali-bilse-rodin-iz-ditmi-virisuut-viizdzati-z-doneccini-volonteri) — «Дуже багато дітей ми вивозимо». Дедалі більше родин із дітьми вирішують виїжджати з Донеччини — волонтери
+  - [Вільне радіо](https://freeradio.com.ua/vse-bilshe-rodyn-iz-ditmy-pohodzhuiutsia-vyizdyty-z-kramatorska-i-slovianska-volontery-vid-boha) — Все більше родин із дітьми погоджуються виїздити з Краматорська й Слов’янська, — “Волонтери від Бога”
+  - [Вчасні Новини](https://vchasno.news/dedali-bilshe-rodyn-iz-ditmy-vyyizhdzhayut-zi-slovyanskoyi-ta-kramatorskoyi-gromad) — Дедалі більше родин із дітьми виїжджають зі Слов’янської та Краматорської громад
 
 ✓ А тепер — Волинь.
-### local:volyn #1 · score 0.55 · Політика, Економіка
+### local:volyn #1 · score 0.5869 · Міжнародне, Політика
+✓ Вона приїхала в Україну, щоб поновити закордонний паспорт і емігрувати в ЄС.
+
+  - [LB.ua](https://lb.ua/society/2026/10/23/775524_volini_zatrimali_zhinku_yaka.html) — На Волині затримали жінку, яка понад два роки служила в російській армії
+  - [Вільне радіо](https://freeradio.com.ua/na-volyni-zatrymaly-meshkanku-donetska-iaka-voiuvala-za-rosiiu-ta-pryikhala-ponovyty-zakordonnyi-pasport-sbu) — На Волині затримали мешканку Донецька, яка воювала за Росію та приїхала поновити закордонний паспорт, — СБУ
+  - [hromadske](https://hromadske.ua/viyna/273042-voiuvala-za-rf-a-potim-pryyikhala-do-ukrayiny-shchob-zrobyty-pasport-dlia-vyyizdu-do-yes-u-hoteli-na-volyni-zatrymaly-rosiysku-serzantku) — Воювала за рф, а потім приїхала до України, щоб зробити паспорт для виїзду до ЄС. У готелі на Волині затримали російську сержантку
+
+### local:volyn #2 · score 0.5481 · Політика, Економіка
 ✓ Суд взяв під варту директорку Руденського психоневрологічного інтеранту.
 ✓ Її підозрюють у привласненні коштів і пенсій підопічних закладу.
 
   - [Суспільне Новини](https://suspilne.media/lutsk/1434401-direktorku-internatu-na-volini-pidozruut-u-privlasnenni-nonad-24-mln-grn-pensij-pidopicnih) — Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних
 
-### local:volyn #2 · score 0.5331 · Міжнародне, Політика
-✓ Вона приїхала в Україну, щоб поновити закордонний паспорт і емігрувати в ЄС.
-
-  - [LB.ua](https://lb.ua/society/2026/10/23/775524_volini_zatrimali_zhinku_yaka.html) — На Волині затримали жінку, яка понад два роки служила в російській армії
-  - [Вільне радіо](https://freeradio.com.ua/na-volyni-zatrymaly-meshkanku-donetska-iaka-voiuvala-za-rosiiu-ta-pryikhala-ponovyty-zakordonnyi-pasport-sbu) — На Волині затримали мешканку Донецька, яка воювала за Росію та приїхала поновити закордонний паспорт, — СБУ
-
-### local:volyn #3 · score 0.4739 · Суспільство
+### local:volyn #3 · score 0.4681 · Суспільство
 ✓ 23 жовтня у Луцьку через порив на центральному водогоні діаметром 600 мм знизять тиск води споживачам.
 
   - [Суспільне Новини](https://suspilne.media/lutsk/1434695-u-lucku-cerez-avariu-na-centralnomu-vodogoni-znizat-tisk-vodi) — У Луцьку через аварію на центральному водогоні знизять тиск води
 
 ✓ Далі — новини регіону: Хмельниччина.
-### local:khmelnytskyi #1 · score 0.6002 · Війна та безпека, Суспільство
+### local:khmelnytskyi #1 · score 0.5988 · Війна та безпека, Суспільство
 ✓ У лікарні Хмельницького померла 54-річна жінка, яка була тяжко поранена під час російського удару по житловому будинку у понеділок, 19 жовтня.
   - чутлива тема (помер, поранен, удар); незалежних джерел: 2
 
   - [ZAXID.NET](https://zaxid.net/u_likarni_pomerla_poranena_vnaslidok_rosiyskoyi_ataki_54_richna_hmelnichanka_n1648509) — У лікарні померла поранена внаслідок російської атаки 54-річна хмельничанка
   - [Слово і Діло](https://slovoidilo.ua/2026/10/22/novyna/suspilstvo/ataka-xmelnyczkyj-19-zhovtnya-likarni-pomerla-odna-postrazhdalyx) — Атака на Хмельницький 19 жовтня: у лікарні померла одна з поранених
 
-### local:khmelnytskyi #2 · score 0.5201 · Економіка, Війна та безпека
+### local:khmelnytskyi #2 · score 0.5883 · Економіка, Війна та безпека
 ⚠ Цілями повітряної атаки 19 жовтня були енергетичні об'єкти громади.
   - чутлива тема (атак); незалежних джерел: 1
 
   - [Є](https://ye.ua/syspilstvo/80818_V_izyaslavi_povnistyi_vidnovili_svitlo_pislya_kilkadobovogo_vidklyichennya_ale_napruga_v_merezhi_nizka__naslidki_povitryanoyi_ataki_19_zhovtnya.html) — В Ізяславі повністю відновили світло після кількадобового відключення, але напруга в мережі низька: наслідки повітряної атаки 19 жовтня
 
-### local:khmelnytskyi #3 · score 0.4479 · Бізнес
+### local:khmelnytskyi #3 · score 0.4458 · Бізнес
 ✓ Олександр Надольний більше не очолює міське комунальне підприємство «Хмельницькводоканал».
 ⚠ Його звільнили 20 жовтня за угодою сторін.
   - чутлива тема (звільнил); незалежних джерел: 1
@@ -204,26 +197,25 @@
   - [ЖАР.INFO](https://zhar.org.ua/zyarko-zamist-nadolnogo-hto-ocholyv-hmelnyczkvodokanal-i-shho-deklaruyut-obydva) — Зярко замість Надольного: хто очолив «Хмельницькводоканал» і що декларують обидва
 
 ✓ Закарпаття: головне за добу.
-### local:zakarpattia #1 · score 0.6635 · Війна та безпека
+### local:zakarpattia #1 · score 0.6621 · Війна та безпека
 ✓ На фронті 14 жовтня 2026 року загинув 48-річного військового із Хуста – солдата Івана Ценька.
   - чутлива тема (загин); незалежних джерел: 2
 
   - [Суспільне Новини](https://suspilne.media/uzhhorod/1434059-na-fronti-zaginuv-zakarpatec-ivan-cenko) — На фронті загинув закарпатець Іван Ценько
   - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/na-viyni-obirvalosya-zhyttya-zakhysnyka-iz-khusta-ivana-tsenka) — На війні обірвалося життя захисника із Хуста Івана Ценька
 
-### local:zakarpattia #2 · score 0.6517 · Війна та безпека, Суспільство
+### local:zakarpattia #2 · score 0.6452 · Війна та безпека, Суспільство
 ✓ У селищі Ясіня на Рахівщині правоохоронці з’ясовують обставини двох випадків побиття, що сталися 22 жовтня.
 ✓ Серед потерпілих – ветеран війни з інвалідністю.
 
   - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/politsiya-vidkryla-kryminalnu-spravu-cherez-pobyttya-veterana-na-rakhivshchyni) — Поліція розслідує побиття ветерана на Рахівщині
   - [PMG.ua](https://pmg.ua/crime/143805-na-zakarpatti-politsiia-rozsliduye-pobyttia-dvokh-cholovikiv) — На Закарпатті поліція розслідує побиття двох чоловіків
 
-### local:zakarpattia #3 · score 0.6006 · Суспільство
-✓ Внаслідок лобового зіткнення BMW та Renault у Тячівському районі загинув водій з Надвірнянщини, двоє пасажирок та ще один керманич госпіталізовані до медзакладу.
-  - чутлива тема (загин); незалежних джерел: 2
+### local:zakarpattia #3 · score 0.5847 · Економіка, Суспільство
+✓ Для забезпечення безперебійної роботи об’єктів критичної інфраструктури, зокрема лікарень, шкіл та Пунктів незламності, під час можливих тривалих відключень світла взимку на Закарпатті підготували майже 1,5 тис. генераторів.
+✓ Про підготовку області до осінньо‑зимового періоду та про старт опалювального сезону у шістьох громадах на брифінгу у Закарпатській ОВА розповів начальник обласного управління житлово-комунального господарства та енергозбереження Василь Романець.
 
-  - [ZAXID.NET](https://zaxid.net/v_avtotroshhi_na_zakarpatti_zaginuv_prikarpatets_troh_lyudey_gospitalizuvali_n1648489) — В автотрощі на Закарпатті загинув водій, трьох людей госпіталізували
-  - [Інформатор Коломия](https://kl.informator.ua/uk/prikarpatec-zaginuv-vnaslidok-avtotroshchi-na-zakarpatti-shche-troye-v-likarni) — Прикарпатець загинув внаслідок автотрощі на Закарпатті, ще троє - в лікарні
+  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/na-vypadok-vidklyuchen-svitla-vzymku-na-zakarpatti-pidhotuvaly-15-tys-heneratoriv) — На випадок відключень світла взимку на Закарпатті підготували 1,5 тис. генераторів
 
 ✓ Це були новини BRIEF за двадцять третє жовтня.
 ✓ Посилання на першоджерела — на сайті BRIEF.

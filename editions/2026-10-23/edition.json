@@ -1,10 +1,10 @@
 {
   "date": "2026-10-23",
   "title": "BRIEF — 2026-10-23",
-  "published_at": "2026-10-23T09:35:10+00:00",
+  "published_at": "2026-10-23T10:31:29+00:00",
   "approved": true,
   "approval": "auto",
-  "script_sha256": "65c336040a4c2383d4d3e9791d89875aff6b17729cc8369eecd11aeab1d18c2d",
+  "script_sha256": "89cda27b252890fc1681181d6988e6f0118fcf7efe5363a74f8071f5cd187cfb",
   "voice": {
     "provider": "styletts2",
     "voice": "male_2"
@@ -15,7 +15,7 @@
     "outro": "audio/outro.mp3"
   },
   "full_audio": "editions/2026-10-23/audio/brief-2026-10-23.mp3",
-  "duration_sec": 183.41,
+  "duration_sec": 180.3,
   "regions": [
     {
       "id": "khmelnytskyi",
@@ -339,6 +339,62 @@
       "sound": null
     },
     {
+      "id": "national-c-31efd0017bf7d710",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Фінляндія передає Укрзалізниці десять локомотивів",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "Міністр з відновлення, інфраструктури та транспорту Микола Калашник назвав цю допомогу від Гельсінкі «важливою», адже армія РФ системно та цілеспрямовано атакує локомотивний парк Укрзалізниці."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1434535-finlandia-peredae-ukrzaliznici-desat-lokomotiviv",
+          "title": "Фінляндія передає Укрзалізниці десять локомотивів",
+          "published_at": "2026-10-22T21:03:20+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1224880.html",
+          "title": "Фінляндія безоплатно передасть Укрзалізниці 10 локомотивів для забезпечення руху в умовах атак на енергетику – Калашник",
+          "published_at": "2026-10-22T23:03:25+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/ukrzaliznicya-otrimaye-lokomotivi-vid-finlyandiji-peredacha-pogodzhena-na-biznes-forumi-50652651.html",
+          "title": "Фінляндія передасть Укрзалізниці десять локомотивів та комплектуючі до них — Калашник",
+          "published_at": "2026-10-22T23:49:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/23/finliandiia-dopomozhe-ukraini-rozrobyty-vlasnyy-suputnykovyy-zv-iazok-i-nadast-lokomotyvy-dlia-ukrzaliznytsi",
+          "title": "Фінляндія допоможе Україні розробити власний супутниковий зв’язок і надасть локомотиви для «Укрзалізниці»",
+          "published_at": "2026-10-23T07:16:35+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/ukrzaliznytsya-otrymaye-vid-finlyandiyi-10-teplovoziv",
+          "title": "Укрзалізниця отримає від Фінляндії 10 тепловозів",
+          "published_at": "2026-10-23T08:21:00+00:00"
+        },
+        {
+          "name": "Тексти",
+          "url": "https://texty.org.ua/fragments/118555/finlyandiya-bezoplatno-peredaye-ukrayini-lokomotyvy-yak-vony-dopomozhut-zaliznyci-foto",
+          "title": "Фінляндія безоплатно передає Україні локомотиви: як вони допоможуть залізниці (ФОТО)",
+          "published_at": "2026-10-23T09:40:20+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/national-c-31efd0017bf7d710.mp3",
+      "duration_sec": 11.23,
+      "sound": null
+    },
+    {
       "id": "national-c-003f8cd73a065941",
       "kind": "story",
       "block": "national",
@@ -459,50 +515,6 @@
       "sound": null
     },
     {
-      "id": "national-c-0256cbd7c6df9bca",
-      "kind": "story",
-      "block": "national",
-      "region": null,
-      "title": "Трамп вважає угоду про надра гарантією безпеки: чому Україні цього замало",
-      "topics": [
-        "Міжнародне",
-        "Політика"
-      ],
-      "must_include": false,
-      "text": [
-        "Олександр Краєв пояснив, чому економічні домовленості зі США не гарантують Україні безпеки, чого очікувати від переговорів Віткоффа з путіним і коли реально чекати зустрічі Зеленського з путіним."
-      ],
-      "sources": [
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/news/2026/10/22/775422_zelenskiy_pro_garantiyi_bezpeki.html",
-          "title": "Зеленський про гарантії безпеки від США: «Ми обговорюємо гарантії, які підкріплюються голосуванням Конгресу»",
-          "published_at": "2026-10-22T18:28:00+00:00"
-        },
-        {
-          "name": "Молодий буковинець",
-          "url": "https://molbuk.ua/ukraine/365426-zelenskyi-nazvav-try-varianty-garantii-bezpeky-dlia-ukrainy-pislia-zavershennia-viiny.html",
-          "title": "Зеленський назвав три варіанти гарантій безпеки для України після завершення війни",
-          "published_at": "2026-10-22T18:40:10+00:00"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/geopolitics/garantiji-bezpeki-dlya-ukrajini-zelenskiy-nazvav-tri-varianti-pidtrimki-50652632.html",
-          "title": "Зеленський заявив, що Україна розглядає три основні варіанти гарантій безпеки: про що йдеться",
-          "published_at": "2026-10-22T19:48:00+00:00"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/10/23/pogljad/polityka/tramp-vvazhaye-uhodu-pro-nadra-harantiyeyu-bezpeky-chomu-ukrayini-czoho-zamalo",
-          "title": "Трамп вважає угоду про надра гарантією безпеки: чому Україні цього замало",
-          "published_at": "2026-10-23T08:28:20+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-23/audio/national-c-0256cbd7c6df9bca.mp3",
-      "duration_sec": 11.83,
-      "sound": null
-    },
-    {
       "id": "reminder",
       "kind": "reminder",
       "block": "reminder",
@@ -620,6 +632,45 @@
       "sound": null
     },
     {
+      "id": "regional-c-93cdc7d2617b82e2",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Сумській області загинув 26-річний військовий з Івано-Франківщини Богдан Павлишин",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У Сумській області 19 жовтня 2026 року загинув 26-річний військовослужбовець з Івано-Франківщини Богдан Павлишин.",
+        "Він служив радіотелефоністом у 143 окремій механізованій бригаді."
+      ],
+      "sources": [
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/na-vijni-zagynuv-26-richnyj-zahysnyk-z-dolynshhyny-bogdan-pavlyshyn",
+          "title": "На війні загинув 26-річний захисник з Долинщини Богдан Павлишин",
+          "published_at": "2026-10-23T07:49:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ivano-frankivsk/1434749-u-sumskij-oblasti-zaginuv-26-ricnij-vijskovij-z-ivano-frankivsini-bogdan-pavlisin",
+          "title": "У Сумській області загинув 26-річний військовий з Івано-Франківщини Богдан Павлишин",
+          "published_at": "2026-10-23T07:51:40+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/23/na-sumshhyni-zagynuv-pavlyshyn-bogdan-z-dolyny",
+          "title": "На Сумщині загинув Павлишин Богдан з Долини",
+          "published_at": "2026-10-23T09:32:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/regional-c-93cdc7d2617b82e2.mp3",
+      "duration_sec": 13.27,
+      "sound": null
+    },
+    {
       "id": "regional-c-08fed229ccd30981",
       "kind": "story",
       "block": "regional",
@@ -696,159 +747,42 @@
       "sound": null
     },
     {
-      "id": "regional-c-06b4189afe15ba1d",
+      "id": "regional-c-19416784a2a33876",
       "kind": "story",
       "block": "regional",
       "region": null,
-      "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні військових",
+      "title": "«Дуже багато дітей ми вивозимо». Дедалі більше родин із дітьми вирішують виїжджати з Донеччини — волонтери",
       "topics": [
         "Війна та безпека",
         "Міжнародне"
       ],
       "must_include": false,
       "text": [
-        "Правоохоронці Житомирської області затримали 17-річну дівчину, яку підозрюють у допомозі ФСБ в отруєнні українських військових.",
-        "За даними слідства, вона діяла за вказівками російського куратора: фасувала наркотики та надсилала їх поштою, вказуючи вигадані дані відправника."
-      ],
-      "sources": [
-        {
-          "name": "А.С.С.",
-          "url": "https://acc.cv.ua/news/chernivtsi/smertelni-posilki-vid-fsb-shukali-zhertv-sered-viyskovih-i-na-bukovini-policiya-zapobigla-vbivstvu-122938",
-          "title": "Смертельні посилки від ФСБ шукали жертв серед військових і на Буковині: поліція запобігла вбивству",
-          "published_at": "2026-10-23T07:15:17+00:00"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1225041.html",
-          "title": "Поліцейськи Житомирщини затримали 17-річну дівчину, яка допомагала РФ труїти військових – Нацполіція",
-          "published_at": "2026-10-23T07:22:05+00:00"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/10/23/775516_zhitomirschini_zatrimali.html",
-          "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні українських військових",
-          "published_at": "2026-10-23T07:26:00+00:00"
-        },
-        {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/10/23/8059358",
-          "title": "Затримали юнку, яка допомагала ФСБ отруювати військових, 2 померли – поліція",
-          "published_at": "2026-10-23T07:38:00+00:00"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb",
-          "title": "На Житомирщині затримали 17-річну дівчину: за даними поліції, вона допомагала ФСБ отруювати українських військових. Двоє загинули",
-          "published_at": "2026-10-23T07:58:40+00:00"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4177395-posilki-z-narkotikami-na-zitomirsini-zatrimali-divcinu-aku-pidozruut-v-otruenni-ukrainskih-vijskovih.html",
-          "title": "Посилки з наркотиками: на Житомирщині затримали дівчину, яку підозрюють в отруєнні українських військових",
-          "published_at": "2026-10-23T08:07:00+00:00"
-        },
-        {
-          "name": "Молодий буковинець",
-          "url": "https://molbuk.ua/chernivtsi_news/365448-zatrymaly-17-richnu-divchynu-iaka-otruila-dvokh-viiskovykh-i-planuvala-vbyty-biicia-z-bukovyny.html",
-          "title": "Затримали 17-річну дівчину, яка отруїла двох військових і планувала вбити бійця з Буковини",
-          "published_at": "2026-10-23T08:13:31+00:00"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/zhytomyr/1434777-otruenna-vijskovih-metadonom-na-zitomirsini-policia-zatrimala-17-ricnu-divcinu",
-          "title": "Отруєння військових метадоном: на Житомирщині поліція затримала 17-річну дівчину",
-          "published_at": "2026-10-23T08:14:20+00:00"
-        },
-        {
-          "name": "Тексти",
-          "url": "https://texty.org.ua/fragments/118554/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-yaka-dopomahala-fsb-otruyuvaty-vijskovyx-dvoye-zahynuly-foto",
-          "title": "На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати військових: двоє загинули (ФОТО)",
-          "published_at": "2026-10-23T08:27:53+00:00"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/socium/u-zhitomirskiy-oblasti-zatrimali-17-richnu-divchinu-zatrimali-za-otruyennya-viyskovih-50652737.html",
-          "title": "Двоє померли. На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових",
-          "published_at": "2026-10-23T08:30:00+00:00"
-        },
-        {
-          "name": "Репортер",
-          "url": "https://report.if.ua/kryminal/zatrymaly-17-richnu-divchynu-yaka-dopomagala-fsb-truyity-ukrayinskyh-vijskovyh",
-          "title": "Затримали 17-річну дівчину, яка допомагала фсб труїти українських військових",
-          "published_at": "2026-10-23T08:30:51+00:00"
-        },
-        {
-          "name": "Галка",
-          "url": "https://galka.if.ua/17-richna-divchyna-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh-odyn-iz-zamakhiv-poperedyly-na-frankivshchyni-foto",
-          "title": "17-річна дівчина допомагала ФСБ отруювати українських військових: один із замахів попередили на Франківщині (ФОТО)",
-          "published_at": "2026-10-23T08:36:00+00:00"
-        },
-        {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/10/23/na-zhytomyrshchyni-zatrymaly-17-richnu-divchynu-iaka-dopomahala-fsb-otruiuvaty-ukrainskykh-viyskovykh",
-          "title": "На Житомирщині затримали 17-річну дівчину, яка допомагала ФСБ отруювати українських військових",
-          "published_at": "2026-10-23T08:42:43+00:00"
-        },
-        {
-          "name": "hromadske",
-          "url": "https://hromadske.ua/suspilstvo/273036-rozsylala-kapsuly-zi-smertelnoiu-dozoiu-narkotykiv-17-richnu-divchynu-pidozriuiut-u-dopomozi-fsb-v-otruyenni-ukrayinskykh-viyskovykh-dvoye-pomerly-natspolitsiia",
-          "title": "«Розсилала капсули зі смертельною дозою наркотиків». 17-річну дівчину підозрюють у допомозі ФСБ в отруєнні українських військових, двоє померли — Нацполіція",
-          "published_at": "2026-10-23T08:47:00+00:00"
-        },
-        {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/10/23/zatrymaly-17-richnu-divchynu",
-          "title": "На Житомирщині затримали 17-річну дівчину, яку підозрюють в отруєнні військових",
-          "published_at": "2026-10-23T08:47:42+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-23/audio/regional-c-06b4189afe15ba1d.mp3",
-      "duration_sec": 16.33,
-      "sound": null
-    },
-    {
-      "id": "regional-c-5af41a110c54e705",
-      "kind": "story",
-      "block": "regional",
-      "region": null,
-      "title": "На Черкащині 23 жовтня застосували аварійні відключення світла",
-      "topics": [
-        "Війна та безпека",
-        "Економіка"
-      ],
-      "must_include": false,
-      "text": [
-        "У Черкасах та по області запровадили аварійні графіки відключення світла.",
-        "Вони стосуються юридичних та побутових споживачів, повідомили в Черкасиобленерго."
+        "На Донеччині збільшується кількість заявок на евакуацію, особливо від сімей із дітьми.",
+        "Волонтери вивозять людей із населених пунктів, де дороги контролюють російські дрони."
       ],
       "sources": [
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/cherkasy/1434425-vidklucenna-svitla-na-cerkasini-povidomili-grafiki-na-23-zovtna",
-          "title": "Відключення світла на Черкащині: повідомили графіки на 23 жовтня",
-          "published_at": "2026-10-22T19:00:13+00:00"
+          "url": "https://suspilne.media/donbas/1434623-duze-bagato-ditej-mi-vivozimo-dedali-bilse-rodin-iz-ditmi-virisuut-viizdzati-z-doneccini-volonteri",
+          "title": "«Дуже багато дітей ми вивозимо». Дедалі більше родин із дітьми вирішують виїжджати з Донеччини — волонтери",
+          "published_at": "2026-10-23T06:39:44+00:00"
         },
         {
-          "name": "18000",
-          "url": "https://18000.com.ua/strichka-novin/na-cherkashhini-zaprovadili-grafiki-avarijnix-vidklyuchen-svitla",
-          "title": "На Черкащині запровадили графіки аварійних відключень світла",
-          "published_at": "2026-10-23T07:44:08+00:00"
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/vse-bilshe-rodyn-iz-ditmy-pohodzhuiutsia-vyizdyty-z-kramatorska-i-slovianska-volontery-vid-boha",
+          "title": "Все більше родин із дітьми погоджуються виїздити з Краматорська й Слов’янська, — “Волонтери від Бога”",
+          "published_at": "2026-10-23T09:26:00+00:00"
         },
         {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/cherkasy/1347566-na-cerkasini-23-zovtna-zastosuvali-avarijni-vidklucenna-svitla",
-          "title": "На Черкащині 23 жовтня застосували аварійні відключення світла",
-          "published_at": "2026-10-23T07:47:53+00:00"
-        },
-        {
-          "name": "ЗMI.ck.ua",
-          "url": "https://zmi.ck.ua/oblast/nacherkaschinzaprovadiliavarynvdklyuchennyaelektroenerg.html",
-          "title": "На Черкащині запровадили аварійні відключення електроенергії",
-          "published_at": "2026-10-23T08:47:00+00:00"
+          "name": "Вчасні Новини",
+          "url": "https://vchasno.news/dedali-bilshe-rodyn-iz-ditmy-vyyizhdzhayut-zi-slovyanskoyi-ta-kramatorskoyi-gromad",
+          "title": "Дедалі більше родин із дітьми виїжджають зі Слов’янської та Краматорської громад",
+          "published_at": "2026-10-23T09:45:27+00:00"
         }
       ],
-      "audio": "editions/2026-10-23/audio/regional-c-5af41a110c54e705.mp3",
-      "duration_sec": 9.67,
+      "audio": "editions/2026-10-23/audio/regional-c-19416784a2a33876.mp3",
+      "duration_sec": 10.19,
       "sound": null
     },
     {
@@ -865,33 +799,6 @@
       "sources": [],
       "audio": "editions/2026-10-23/audio/local-volyn-heading.mp3",
       "duration_sec": 1.78,
-      "sound": null
-    },
-    {
-      "id": "local-volyn-c-fccef14bf68a8e8a",
-      "kind": "story",
-      "block": "local:volyn",
-      "region": "volyn",
-      "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
-      "topics": [
-        "Політика",
-        "Економіка"
-      ],
-      "must_include": false,
-      "text": [
-        "Суд взяв під варту директорку Руденського психоневрологічного інтеранту.",
-        "Її підозрюють у привласненні коштів і пенсій підопічних закладу."
-      ],
-      "sources": [
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/lutsk/1434401-direktorku-internatu-na-volini-pidozruut-u-privlasnenni-nonad-24-mln-grn-pensij-pidopicnih",
-          "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
-          "published_at": "2026-10-22T16:01:37+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-23/audio/local-volyn-c-fccef14bf68a8e8a.mp3",
-      "duration_sec": 8.67,
       "sound": null
     },
     {
@@ -920,10 +827,43 @@
           "url": "https://freeradio.com.ua/na-volyni-zatrymaly-meshkanku-donetska-iaka-voiuvala-za-rosiiu-ta-pryikhala-ponovyty-zakordonnyi-pasport-sbu",
           "title": "На Волині затримали мешканку Донецька, яка воювала за Росію та приїхала поновити закордонний паспорт, — СБУ",
           "published_at": "2026-10-23T08:42:57+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273042-voiuvala-za-rf-a-potim-pryyikhala-do-ukrayiny-shchob-zrobyty-pasport-dlia-vyyizdu-do-yes-u-hoteli-na-volyni-zatrymaly-rosiysku-serzantku",
+          "title": "Воювала за рф, а потім приїхала до України, щоб зробити паспорт для виїзду до ЄС. У готелі на Волині затримали російську сержантку",
+          "published_at": "2026-10-23T09:44:00+00:00"
         }
       ],
       "audio": "editions/2026-10-23/audio/local-volyn-c-200a893a7b779338.mp3",
       "duration_sec": 5.22,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-fccef14bf68a8e8a",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
+      "topics": [
+        "Політика",
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "Суд взяв під варту директорку Руденського психоневрологічного інтеранту.",
+        "Її підозрюють у привласненні коштів і пенсій підопічних закладу."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1434401-direktorku-internatu-na-volini-pidozruut-u-privlasnenni-nonad-24-mln-grn-pensij-pidopicnih",
+          "title": "Директорку інтернату на Волині підозрюють у привласненні нонад 2,4 млн грн пенсій підопічних",
+          "published_at": "2026-10-22T16:01:37+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-23/audio/local-volyn-c-fccef14bf68a8e8a.mp3",
+      "duration_sec": 8.67,
       "sound": null
     },
     {
@@ -1132,34 +1072,30 @@
       "sound": null
     },
     {
-      "id": "local-zakarpattia-c-47018b584f61968b",
+      "id": "local-zakarpattia-c-3aeff8c859b9dc02",
       "kind": "story",
       "block": "local:zakarpattia",
       "region": "zakarpattia",
-      "title": "Прикарпатець загинув внаслідок автотрощі на Закарпатті, ще троє - в лікарні",
+      "title": "На випадок відключень світла взимку на Закарпатті підготували 1,5 тис. генераторів",
       "topics": [
+        "Економіка",
         "Суспільство"
       ],
       "must_include": false,
       "text": [
-        "Внаслідок лобового зіткнення BMW та Renault у Тячівському районі загинув водій з Надвірнянщини, двоє пасажирок та ще один керманич госпіталізовані до медзакладу."
+        "Для забезпечення безперебійної роботи об’єктів критичної інфраструктури, зокрема лікарень, шкіл та Пунктів незламності, під час можливих тривалих відключень світла взимку на Закарпатті підготували майже 1,5 тис. генераторів.",
+        "Про підготовку області до осінньо‑зимового періоду та про старт опалювального сезону у шістьох громадах на брифінгу у Закарпатській ОВА розповів начальник обласного управління житлово-комунального господарства та енергозбереження Василь Романець."
       ],
       "sources": [
         {
-          "name": "ZAXID.NET",
-          "url": "https://zaxid.net/v_avtotroshhi_na_zakarpatti_zaginuv_prikarpatets_troh_lyudey_gospitalizuvali_n1648489",
-          "title": "В автотрощі на Закарпатті загинув водій, трьох людей госпіталізували",
-          "published_at": "2026-10-22T09:43:42+00:00"
-        },
-        {
-          "name": "Інформатор Коломия",
-          "url": "https://kl.informator.ua/uk/prikarpatec-zaginuv-vnaslidok-avtotroshchi-na-zakarpatti-shche-troye-v-likarni",
-          "title": "Прикарпатець загинув внаслідок автотрощі на Закарпатті, ще троє - в лікарні",
-          "published_at": "2026-10-22T12:31:24+00:00"
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/na-vypadok-vidklyuchen-svitla-vzymku-na-zakarpatti-pidhotuvaly-15-tys-heneratoriv",
+          "title": "На випадок відключень світла взимку на Закарпатті підготували 1,5 тис. генераторів",
+          "published_at": "2026-10-22T12:54:32+00:00"
         }
       ],
-      "audio": "editions/2026-10-23/audio/local-zakarpattia-c-47018b584f61968b.mp3",
-      "duration_sec": 10.0,
+      "audio": "editions/2026-10-23/audio/local-zakarpattia-c-3aeff8c859b9dc02.mp3",
+      "duration_sec": 25.47,
       "sound": null
     },
     {
