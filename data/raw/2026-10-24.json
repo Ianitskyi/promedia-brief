@@ -1,9 +1,186 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T20:48:56+00:00",
+  "generated_at": "2026-10-24T23:13:47+00:00",
   "source_count": 102,
-  "item_count": 2002,
+  "item_count": 2011,
   "items": [
+    {
+      "id": "d37fe5908e364fbd",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/24/775958_golovne_subotu_24_zhovtnya.html",
+      "title": "Головне за суботу, 24 жовтня: обстріл Синельникового, ракетний удар по Лозовій, майже 120 боєзіткнень, стрілянина в Києві",
+      "published_at": "2026-10-24T20:57:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:57:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Бойові дії на Донеччині, 117 бойових зіткнень, ворожі обстріли, гуманітарна місія в Олешках. Яким запам’ятається 1704-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a4d45b16cfb5e08",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177884-rosijskij-dron-atakuvav-harkiv-troe-postrazdalih.html",
+      "title": "Російський дрон атакував Харків: є загиблий та поранені",
+      "published_at": "2026-10-24T20:56:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:56:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Унаслідок удару російського безпілотника в Новобаварскому районі Харкова загинула людина, ще троє постраждали.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "264c0f9f4660c882",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/newskyyiv-ataka-droni-klychko/33883639.html",
+      "title": "Кличко: в центрі Києва уламки російського дрона впали на парковку, є постраждалий",
+      "published_at": "2026-10-24T20:54:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:54:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Російські військові регулярно з різних видів озброєння – ударними БпЛА, ракетами, КАБами, РСЗВ – атакують українські міста і цивільну інфраструктуру в усіх регіонах України",
+      "categories": [
+        "Новини | Події",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1bbd61fbea00f413",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/flesh-vidpoviv-na-zvynuvachennya-maska-shhodo-vykorystannya-starlink-dlya-udariv-dronamy",
+      "title": "«Флеш» відповів на звинувачення Маска щодо використання Starlink для ударів дронами",
+      "published_at": "2026-10-24T20:53:05+00:00",
+      "published_raw": "Sat, 24 Oct 2026 20:53:05 +0000",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Позаштатний радник президента України з питань розвитку технологічних напрямів оборони Сергій \"Флеш\" Бескрестнов заявив, що Україна фізично не може використовувати комерційний Starlink для далекобійних ударів безпілотниками. Запис «Флеш» відповів на звинувачення Маска щодо використання Starlink для ударів дронами спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Starlink",
+        "Війна в Україні",
+        "далекобійні удари",
+        "Сергій Флеш Бескрестнов"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bc8c224f7be9875e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/el-klasiko-zherar-pike-prognozuye-peremogu-barseloni-ochikuvaniy-rahunok-i-analiz-50653119.html",
+      "title": "Піке спрогнозував розгром у Ель Класіко — згадав історичну поразку Реала",
+      "published_at": "2026-10-24T20:53:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:53:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Колишній захисник Барселони Жерар Піке поділився прогнозом на майбутнє Ель Класіко між каталонцями та мадридським Реалом, яке відбудеться в неділю, 25 жовтня, у межах десятого туру іспанської Ла Ліги.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "79b4f43184e400dc",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/ukrajina-ta-rosija-pidtrimali-novi-perehovori-j-humanitarnu-initsiativu-melaniji-tramp-ap.html",
+      "title": "Україна та Росія підтримали нові переговори й гуманітарну ініціативу Меланії Трамп — AP",
+      "published_at": "2026-10-24T20:50:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:50:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Вашингтон планує зустріч в Абу-Дабі, тоді як територіальне питання та безпекові умови не вирішені.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e0706b3ff1d696a3",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225667.html",
+      "title": "Щонайменше один постраждалий внаслідок удару по Харкову",
+      "published_at": "2026-10-24T20:50:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:50:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Російський FPV-дрон атакував Новобаварський район Харкова, щонайменше одна людина постраждала, повідомив міський голова Ігор Терехов.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "652c89ba0e248f14",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225666.html",
+      "title": "У Києві внаслідок падіння уламків дрона постраждала людина – мер",
+      "published_at": "2026-10-24T20:49:13+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:49:13 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "Унаслідок падіння уламків російського безпілотника в Києві постраждала одна людина, їй надали допомогу на місці, повідомив міський голова Віталій Кличко.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c26a6d3e71cbbbd6",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/24/775954_zhordana_bardellu_pereobrali.html",
+      "title": "Жордана Барделлу переобрали головою французької ультраправої партії \"Національне об’єднання\", її лідерка – Марін Ле Пен",
+      "published_at": "2026-10-24T20:45:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:45:00 +0300",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "У разі перемоги на виборах президента Ле Пен обіцяла висунути Барделлу на посаду глави уряду.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "c7ac615df1ddb630",
       "source_id": "hromadske",
@@ -2774,8 +2951,8 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/europe/politik-jakoho-le-pen-bachit-premjerom-zhordana-bardellu-znovu-pereobrali-holovoju-natsionalnoho-objednannja.html",
       "title": "Політик, якого Ле Пен бачить прем'єром: Жордана Барделлу знову переобрали головою «Національного об'єднання»",
-      "published_at": "2026-10-24T18:02:37+00:00",
-      "published_raw": "Sat, 24 Oct 2026 21:02:37 +0300",
+      "published_at": "2026-10-24T18:02:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 21:02:00 +0300",
       "fetched_at": "2026-10-24T18:08:50+00:00",
       "description": "Під час переобрання у нього не було конкурентів.",
       "categories": [
@@ -4184,7 +4361,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://ukrinform.ua/rubric-sports/4177864-upl-sahtar-ne-zmig-obijti-u-turi-polissa-zigravsi-vniciu-iz-zoreu.html",
-      "title": "УПЛ. «Шахтар» не зміг обійти у турі «Полісся», зігравши внічию із «Зорею»",
+      "title": "УПЛ: «Шахтар» не зміг обійти у турі «Полісся», зігравши внічию із «Зорею»",
       "published_at": "2026-10-24T17:10:00+00:00",
       "published_raw": "Sat, 24 Oct 2026 20:10:00 +0300",
       "fetched_at": "2026-10-24T18:08:50+00:00",
@@ -18732,7 +18909,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://times.kharkiv.ua/2026/10/24/rosijski-raketi-atakuvali-lozovu-na-harkivshhini-ta-vbili-lyudinu",
-      "title": "Російські ракети атакували Лозову на Харківщині та вбили людину",
+      "title": "Російські ракети атакували Лозову на Харківщині та вбили людину (доповнено фото)",
       "published_at": "2026-10-24T11:07:25+00:00",
       "published_raw": "Sat, 24 Oct 2026 14:07:25 +0300",
       "fetched_at": "2026-10-24T14:32:17+00:00",
@@ -38922,6 +39099,12 @@
       "fetched": 1375,
       "added": 106,
       "errors": 2
+    },
+    {
+      "at": "2026-10-24T23:13:47+00:00",
+      "fetched": 1150,
+      "added": 9,
+      "errors": 3
     }
   ]
 }
