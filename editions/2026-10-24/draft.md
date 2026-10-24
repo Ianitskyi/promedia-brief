@@ -1,6 +1,6 @@
 # BRIEF — чернетка випуску за 2026-10-24
 
-Статус: **draft** · згенеровано 2026-10-24T09:29:11+00:00 · sha256 `42d22c374c3b`
+Статус: **draft** · згенеровано 2026-10-24T18:19:41+00:00 · sha256 `ae97b655d06f`
 
 > Чернетка для редакційної перевірки. Не публікувати без затвердження.
 
@@ -8,95 +8,106 @@
 ✓ Повний список джерел доступний на сайті BRIEF.
 ✓ Випуск за двадцять четверте жовтня.
 ✓ Новини України.
-### national #1 · score 0.9273 · Війна та безпека, Суспільство · обов'язкова
-✓ 23 жовтня російські війська атакували Краматорськ і Слов'янськ.
-  - чутлива тема (атак); незалежних джерел: 7
-✓ Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.
-  - чутлива тема (поранен, обстріл, удар); незалежних джерел: 7
+### national #1 · score 0.9236 · Війна та безпека, Суспільство · обов'язкова
+✓ У лікарні померла 62-річна жителька Слов'янська, яка зазнала поранень внаслідок російського авіаудару ФАБ-250.
+  - чутлива тема (помер, поранен); незалежних джерел: 6
+✓ Загалом за добу в місті четверо поранених, пошкоджені будинки, автівки, магазини та АЗС.
+  - чутлива тема (поранен); незалежних джерел: 6
 
-  - [LB.ua](https://lb.ua/society/2026/10/23/775678_slovyansku_vid_rosiyskogo.html) — У Словʼянську від російського авіаудару постраждали люди
-  - [Новини Донбасу](https://novosti.dn.ua/news/404247-u-slovyansku-vnaslidok-aviaudaru-poraneni-dvi-zhinky-ova) — У Слов’янську внаслідок авіаудару поранені дві жінки, — ОВА
-  - [Суспільне Новини](https://suspilne.media/donbas/1435459-devatero-ludej-otrimali-travmi-j-poranenna-pid-cas-obstriliv-kramatorska-j-slovanska-23-zovtna) — Дев'ятеро людей отримали травми й поранення під час обстрілів Краматорська й Слов'янська 23 жовтня
-  - [Вільне радіо](https://freeradio.com.ua/rosiiany-obstrilialy-sloviansk-poranyly-dvokh-tsyvilnykh) — Росіяни обстріляли Слов’янськ: поранили двох цивільних
+  - [Суспільне Новини](https://suspilne.media/donbas/1435701-u-slovansku-pomerla-zinka-poranena-vnaslidok-aviaudaru-rf-23-zovtna-se-cotiroh-travmovanih-gospitalizuvali) — У Слов'янську померла жінка, поранена внаслідок авіаудару РФ 23 жовтня, ще чотирьох травмованих госпіталізували
   - [Вчасно](https://vchasnoua.com/news/u-likarni-pomerla-zinka-poranena-vcora-vnaslidok-bombovogo-udaru-po-sloviansku-misto-perezilo-12-udariv) — У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов’янську: місто пережило 12 ударів
   - [Східний Варіант](https://v-variant.com.ua/u-likarni-pomierla-zhinka-poraniena-vchora-vnaslidok-bombovogho-udaru-po-sloviansku-foto) — У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов'янську (фото)
   - [Новини Донбасу](https://novosti.dn.ua/news/404295-u-slovyansku-pomerla-62-richna-zhinka-poranena-pid-chas-rosijskogo-aviaudaru) — У Слов’янську померла 62-річна жінка, поранена під час російського авіаудару
   - [Вільне радіо](https://freeradio.com.ua/u-sloviansku-pomerla-zhinka-poranena-pid-chas-aviaudaru-23-zhovtnia-za-dobu-misto-atakuvaly-12-raziv) — У Слов’янську померла жінка, поранена під час авіаудару 23 жовтня: за добу місто атакували 12 разів
   - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225564.html) — Одна з постраждалих внаслідок ворожого авіаудару по Слов'янську померла в лікарні
+  - [Суспільне Новини](https://suspilne.media/donbas/1436099-pid-cas-aviaduriv-po-slovansku-24-zovtna-e-poraneni) — Під час авіадурів по Слов'янську 24 жовтня є поранені
 
-### national #2 · score 0.8842 · Війна та безпека, Економіка · обов'язкова
-✓ У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.
+### national #2 · score 0.9112 · Війна та безпека, Суспільство · обов'язкова
+✓ Троє людей загинули, щонайменше восьмеро дістали поранень внаслідок удару російськими військами по місту Синельникове Дніпропетровської області.
+  - чутлива тема (загин, поранен, удар); незалежних джерел: 8
 
-  - [LB.ua](https://lb.ua/kyiv/2026/10/24/775812_kiievi_oblasti_zaprovadili.html) — У Києві та області запровадили екстрені відключення (доповнено)
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177743-u-dvoh-rajonah-kieva-ekstreni-vidklucenna-svitla.html) — У Києві та області екстрені відключення світла
-  - [Українська правда](https://pravda.com.ua/news/2026/10/24/8059520) — У Києві та області ввели екстрені відключення світла
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-ataka-rf-kyiv-dvoie-postrazhdalyh/33883462.html) — Двоє жителів Києва постраждали внаслідок атаки РФ, у двох районах – екстрені знеструмлення
-  - [Mind.ua](https://mind.ua/news/20311346-u-chastini-kieva-ta-kiyivshchini-zaprovadili-ekstreni-vidklyuchennya-elektroenergiyi) — У частині Києва та Київщини запровадили екстрені відключення електроенергії
+  - [Суспільне Новини](https://suspilne.media/dnipro/1436103-rf-atakuvala-dronom-sinelnikove-na-dnipropetrovsini-troe-zagiblih-e-poraneni) — РФ атакувала дроном Синельникове на Дніпропетровщині: троє загиблих, є поранені
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225645.html) — Троє людей загинули, щонайменше восьмеро дістали поранень через удар ворога по Синельниковому – ОВА
+  - [LB.ua](https://lb.ua/society/2026/10/24/775918_rosiyani_obstrilyali_sinelnikove.html) — Росіяни обстріляли Синельникове на Дніпропетровщині: троє загиблих, щонайменше восьмеро поранених
+  - [Новинарня](https://novynarnia.com/2026/10/24/rosiiskyi-dron-vdaryv-po-synelnykovomu-troie-liudei-zahynuly) — Російський дрон вдарив по Синельниковому: троє людей загинули, щонайменше вісім поранених
+  - [Місто і річка](https://mistorichka.media/novyny/udar-po-synelnykovomu-24-zhovtnia) — Є загиблі та поранені: війська РФ вдарили безпілотником по Синельниковому
+  - [Українська правда](https://pravda.com.ua/news/2026/10/24/8059572) — Росіяни атакували Синельникове: спалахнула багатоповерхівка, понівечений магазин, 3 загиблих
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225653.html) — Росіяни вдарили по Синельниковому, три жертви і восьмеро постраждалих – ОВА
+  - [Dnipro.media](https://dnipro.media/novyny-dnipro/rosiyany-vdaryly-bezpilotnykom-po-synelnykovo-ye-zagybli-ta-poraneni) — Росіяни вдарили безпілотником по Синельниково: є загиблі та поранені
+  - [NV](https://nv.ua/ukr/ukraine/events/udar-drona-po-sinelnikovomu-troye-lyudey-zaginuli-sered-poranenih-ye-ditina-50653100.html) — Росія вдарила безпілотником по Синельниковому: троє людей загинули, восьмеро поранені
 
-### national #3 · score 0.8551 · Війна та безпека, Бізнес · обов'язкова
-✓ Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.
-  - чутлива тема (постражд, обстріл, атак); незалежних джерел: 7
+### national #3 · score 0.9083 · Медіа, Суспільство · обов'язкова
+⚠ Померла Олена "Джейн" Шарговська – госпітальєрка, ветеранка та журналістка, яка з 2015 року рятувала поранених українських військових.
+  - згадано минулі роки (2015) — перевірте, чи це нова подія
+  - чутлива тема (помер, поранен); незалежних джерел: 8
+✓ У цивільному житті вона працювала журналісткою, перекладачкою, редакторкою та фахівчинею із соціальних мереж.
+✓ Про смерть Олени повідомили командирка медичного батальйону "Госпітальєри" Яна Зінкевич і її колишні колеги з видання "Новинарня", передає Рубрика.
+  - чутлива тема (смерт); незалежних джерел: 8
+✓ У "Новинарні" Олену згадали як людину слова, […] The post Померла госпітальєрка, ветеранка та журналістка Олена “Джейн” Шарговська appeared first on Рубрика .
+  - чутлива тема (помер); незалежних джерел: 8
 
-  - [Гвара Медіа](https://gwaramedia.com/cherez-obstrili-harkivshhini-za-dobu-postrazhdali-sim-lyudej-sered-nih-dvoye-ditej) — Через обстріли Харківщини за добу постраждали сім людей, серед них двоє дітей
-  - [Гвара Медіа](https://gwaramedia.com/rosijski-vijska-atakuvali-industrialnij-rajon-harkova-ye-postrazhdala) — Російські війська атакували Індустріальний район Харкова: є постраждала
-  - [Слобідський край](https://slk.kh.ua/news/suspilstvo/obstrili-harkivsini-23-zovtna-semero-postrazdalih-sered-nih-dvoe-ditej.html) — Росія атакувала Харків і 15 населених пунктів області: серед семи постраждалих — двоє дітей
-  - [KHARKIV Today](https://2day.kh.ua/ua/kharkow/semero-lyudey-sered-yakykh-dvoye-ditey-postrazhdaly-cherez-obstrily-rosiyan) — Росіяни поранили сімох мешканців Харківщини, серед яких двоє дітей
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177720-na-harkivsini-cerez-rosijski-obstrili-postrazdali-semero-ludej-sered-nih-dvoe-ditej.html) — На Харківщині через російські обстріли постраждали семеро людей, серед них - двоє дітей
-  - [LB.ua](https://lb.ua/society/2026/10/24/775794_harkivschini_cherez_rosiyski.html) — На Харківщині через російські обстріли постраждали семеро людей
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225545.html) — Семеро постраждалих, серед яких діти, внаслідок обстрілів Харківської області за добу – ОВА
-  - [Харків Times](https://times.kharkiv.ua/2026/10/24/obstrili-harkova-ta-oblasti-za-dobu-7-postrazhdalih-2) — Обстріли Харкова та області за добу: 7 постраждалих
+  - [Новинарня](https://novynarnia.com/2026/10/24/pamiati-dzhein) — Пам’яті Джейн
+  - [NV](https://nv.ua/ukr/socium/olena-shargovska-z-pozivniy-dzheyn-pomerla-medikinya-batalyonu-gospitalyeri-foto-50653032.html) — Померла військова парамедикиня батальйону Госпітальєри Олена Шарговська із позивним Джейн
+  - [Твоє місто](https://tvoemisto.tv/uk/news/12741-u-vitsi-43-rokiv-pomerla-zhurnalistka-ta-viyskova-paramedykynya-olena-sharhovska) — У віці 43 років померла журналістка та військова парамедикиня Олена Шарговська
+  - [Суспільне Новини](https://suspilne.media/culture/1435883-pomerla-zurnalistka-ta-paramedikina-olena-sargovska) — Померла журналістка та парамедикиня Олена Шарговська
+  - [hromadske](https://hromadske.ua/viyskovi/273105-v-tsyvilnomu-zytti-zurnalistka-y-zakhysnytsia-prav-zinok-u-viysku-na-viyni-zahynula-olena-sharhovska-dzeyn-z-hospitalyeriv) — В цивільному житті — журналістка й захисниця прав жінок у війську. Померла Олена Шарговська (Джейн) з «Госпітальєрів»
+  - [Рубрика](https://rubryka.com/2026/10/24/veteranka-ta-zhurnalistka) — Померла госпітальєрка, ветеранка та журналістка Олена “Джейн” Шарговська
+  - [Укрінформ](https://ukrinform.ua/rubric-society/4177795-pomerla-vijskova-paramedikina-ta-veteranka-olena-dzejn-sargovska.html) — Померла військова парамедикиня та ветеранка Олена «Джейн» Шарговська
+  - [Букви](https://bukvy.org/pomerla-zhurnalistka-ta-paramedykynya-olena-dzhejn-shargovska) — Померла журналістка та парамедикиня Олена «Джейн» Шарговська
 
-### national #4 · score 0.8488 · Війна та безпека, Міжнародне
-✓ Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю.
-  - чутлива тема (удар, атак); незалежних джерел: 4
-✓ Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.
+### national #4 · score 0.8992 · Війна та безпека, Суспільство
+✓ Росіяни вдарили ракетою по Лозовій, повідомив очільник Харківської ОВА Олег Синєгубов.
+  - чутлива тема (ракет); незалежних джерел: 17
+✓ 45-річний чоловік загинув, ще двоє — віком 26 та 43 роки дістали поранень внаслідок влучання, також гостру реакцію на стрес мала 37-річна жінка.
+  - чутлива тема (загин, поранен); незалежних джерел: 17
 
-  - [Українська правда](https://pravda.com.ua/news/2026/10/24/8059507) — Reuters: Іран має план ударів по підводних інтернет-кабелях у Перській затоці в разі нових атак
-  - [Бабель](https://babel.ua/news/131222-reuters-iran-rozrobiv-plan-ataki-na-pidvodni-komunikaciyni-kabeli-u-razi-novogo-napadu-z-boku-ssha-ta-izrajilyu) — Reuters: Іран розробив план атаки на підводні комунікаційні кабелі у разі нового нападу з боку США та Ізраїлю
-  - [LB.ua](https://lb.ua/world/2026/10/24/775822_reuters_iran_planuie_pidirvati.html) — Reuters: Іран планує підірвати підводні інтернет-кабелі в Перській затоці у разі нових атак США
-  - [Фарватер.Схід](https://farvatermedia.com/news/iran-pohrozhuie-poshkodyty-pidvodni-kabeli-zviazku-v-ormuzkii-prototsi) — Іран погрожує пошкодити підводні кабелі зв’язку в Ормузькій протоці
+  - [Гвара Медіа](https://gwaramedia.com/rosiyani-zavdali-raketnogo-udaru-po-lozovij-ye-zagiblij-ta-postrazhdali) — Росіяни завдали ракетного удару по Лозовій: є загиблий та постраждалі
+  - [Суспільне Новини](https://suspilne.media/kharkiv/1435905-rosia-zavdala-raketnogo-udaru-po-lozovij-na-harkivsini-e-zagiblij-ta-poraneni) — Росія завдала ракетного удару по Лозовій на Харківщині: є загиблий та поранені
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177783-rosiani-zavdali-raketnogo-udaru-po-lozovij-e-zagiblij-dvoe-poranenih.html) — Росіяни завдали ракетного удару по Лозовій: є загиблий, двоє поранених
+  - [LB.ua](https://lb.ua/society/2026/10/24/775856_okupanti_zavdali_raketnogo_udaru.html) — Окупанти завдали ракетного удару по Лозовій на Харківщині, є жертви
+  - [Об'єктив Новини](https://objectiv.tv/uk/objectively/2026/10/24/zagiblij-i-poraneni-u-den-zhalobi-armiya-rf-vdarila-raketami-po-lozovij) — Загиблий і поранені: у день жалоби армія РФ вдарила ракетами по Лозовій
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225596.html) — Один чоловік загинув, ще двоє шпиталізовані через ракетний удар по Лозовій
+  - [Громадське радіо](https://hromadske.radio/news/2026/10/24/okupanty-zavdaly-raketnoho-udaru-po-lozoviy-na-kharkivshchyni) — Окупанти завдали ракетного удару по Лозовій на Харківщині
+  - [Слобідський край](https://slk.kh.ua/news/suspilstvo/raketnij-udar-po-lozovij-24-zovtna-zagiblij-ta-dvoe-poranenih.html) — Ракетний удар по Лозовій: одна людина загинула, двоє чоловіків госпіталізовані
+  - [KHARKIV Today](https://2day.kh.ua/ua/kharkow/rosiyany-vdaryly-raketoyu-po-mistu-na-kharkivshchyni-zahynula-lyudyna) — Росіяни вдарили ракетою по місту на Харківщині, загинула людина
+  - [NV](https://nv.ua/ukr/ukraine/events/obstril-lozovoji-na-harkivshchini-rosiyska-raketa-vluchila-u-skladsku-budivlyu-50653054.html) — Російська ракета влучила в склад у Лозовій: є загиблий та двоє поранених
+  - [ZN.UA](https://zn.ua/ukr/war/rosijani-zavdali-raketnoho-udaru-po-kharkivskij-oblasti-je-zahiblij-ta-poraneni-.html) — Росіяни завдали ракетного удару по Харківській області: є загиблий та поранені
+  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/bezpeka/rosiyany-zavdaly-raketnoho-udaru-po-lozovij-ye-zhertva-poraneni) — Росіяни завдали ракетного удару по Лозовій, є жертва і поранені
+  - [Район.in.ua](https://rayon.in.ua/news/1111227-rosiiani-vdarili-raketoiu-po-lozovii-zaginuv-colovik-shhe-dvoje-poraneni) — Ракетний удар по Лозовій: загиблий і двоє поранених
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-rosiiskyi-udar-lozova-zahyblyi-poraneni/33883523.html) — Через російський удар по Лозовій загинув чоловік, троє людей постраждали – ОВА
+  - [Новинарня](https://novynarnia.com/2026/10/24/rosiiski-viiska-zavdaly-raketnoho-udaru-po-lozovii-zahynuv-cholovik) — Російські війська завдали ракетного удару по Лозовій: загинув чоловік, є поранені
+  - [MediaPort](https://mediaport.ua/rosiyska-armiia-zavdala-raketnoho-udaru-po-lozoviy-odna-liudyna-zahynula) — Російська армія завдала ракетного удару по Лозовій: одна людина загинула
+  - [Молодий буковинець](https://molbuk.ua/ukraine/365526-rosiiany-raketou-vdaryly-po-kharkivshchyni-zagynuv-cholovik-ie-poraneni.html) — Росіяни ракетою вдарили по Харківщині: загинув чоловік, є поранені
 
-### national #5 · score 0.8394 · Війна та безпека, Політика
-✓ Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.
+### national #5 · score 0.8574 · Війна та безпека, Міжнародне
+✓ На війні загинув тернополянин, відомий спелеолог, мандрівник і громадський діяч, який присвятив багато років дослідженню печер, розвитку туризму та популяризації краси рідного краю Борис Гора.
+  - чутлива тема (загин); незалежних джерел: 4
 
-  - [hromadske](https://hromadske.ua/viyna/273075-u-rf-pidtverdyly-rezym-tyshi-bilia-oleshok-herasymov-kaze-shcho-yoho-vvedut-z-27-zovtnia) — Режим припинення вогню в заблокованих Олешках введуть із 27 жовтня (ДОПОВНЕНО)
-  - [NV](https://nv.ua/ukr/ukraine/events/ukrajina-zaprovadzhuye-rezhim-pripinennya-vognyu-v-oleshkah-z-27-zhovtnya-50652981.html) — Генштаб ЗСУ запроваджує режим припинення вогню в Олешках з 27 жовтня
-  - [Укрінформ](https://ukrinform.ua/rubric-ato/4177651-ukraina-zaprovadzue-rezim-pripinenna-vognu-v-rajoni-olesok-z-27-zovtna-genstab.html) — Україна запроваджує режим припинення вогню в районі Олешок із 27 жовтня - Генштаб
-  - [LB.ua](https://lb.ua/society/2026/10/23/775738_ukrayina_zaprovadzhuie_rezhim.html) — Україна запроваджує режим припинення вогню в Олешках для проведення гуманітарної операції
-  - [Львівський портал](https://portal.lviv.ua/news/2026/10/23/henshtab-nazvav-tochnyj-chas-pochatku-peremyr-ia-v-oleshkakh) — Генштаб назвав точний час початку «перемир’я» в Олешках
-  - [МОСТ](https://most.ks.ua/news/url/ukrajina-ogolosila-rezhim-pripinennja-vognju-v-oleshkah) — Україна оголосила режим припинення вогню в Олешках
-  - [ОстроВ](https://ostro.org/news/syly-oborony-zaprovadzhuyut-rezhym-prypynennya-vognyu-u-oleshkah-z-03-00-27-zhovtnya-i571183) — Сили оборони запроваджують режим припинення вогню у Олешках з 03:00 27 жовтня
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225514.html) — Україна запровадить припинення вогню в районі окупованих Олешків із 3:00 27 жовтня для гуманітарної операції – Генштаб
-  - [ZN.UA](https://zn.ua/ukr/war/zsu-oholosili-rezhim-pripinennja-vohnju-v-rajoni-okupovanikh-oleshok.html) — ЗСУ оголосили режим припинення вогню в районі окупованих Олешок
-  - [Слово і Діло](https://slovoidilo.ua/2026/10/23/pidsumky/novyj-obmin-polonenymy-rf-ta-domovlenist-pro-prypynennya-vohnyu-oleshkax.-holovne-den) — Новий обмін полоненими з рф та домовленість про припинення вогню в Олешках. Головне за день
-  - [Новини Донбасу](https://novosti.dn.ua/news/404277-ukrayina-dotrymuvatymetsya-rezhymu-prypynennya-vognyu-v-okupovanyh-oleshkah) — Україна дотримуватиметься режиму припинення вогню в окупованих Олешках
-  - [МикВісті](https://nikvesti.com/news/defence/325431-ukraina-zaprovadyt-rezhym-prypynennia-vohniu-oleshkakh-27-zhovtnia) — Україна запровадить режим припинення вогню в Олешках із 27 жовтня
-  - [Букви](https://bukvy.org/genshtab-ogolosyv-pro-prypynennya-vognyu-v-rajoni-oleshok-iz-27-zhovtnya) — Генштаб оголосив про припинення вогню в районі Олешок із 27 жовтня
-  - [Рубрика](https://rubryka.com/2026/10/24/ohopyt-usyu-hersonshhynu) — Припинення вогню з 27 жовтня охопить усю Херсонщину та суміжні регіони, – омбудсмен
-  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/bezpeka/ukrayina-oficzijno-zaprovadzhuye-rezhym-prypynennya-vohnyu-oleshkax-27-zhovtnya) — Україна офіційно запроваджує режим припинення вогню в Олешках з 27 жовтня
+  - [NV](https://nv.ua/ukr/socium/boris-gora-zaginuv-na-viyni-vidomiy-speleolog-i-mandrivnik-iz-ternopolya-yakiy-sluzhiv-u-zsu-foto-50653040.html) — Пішов на війну добровольцем. Загинув військовослужбовець і спелеолог Борис Гора
+  - [Укрінформ](https://ukrinform.ua/rubric-society/4177832-na-vijni-zaginuv-speleolog-ta-mandrivnik-boris-gora.html) — На війні загинув спелеолог та мандрівник Борис Гора
+  - [Новинарня](https://novynarnia.com/2026/10/24/na-viini-zahynuv-ukrainskyi-speleoloh-i-mandrivnyk-dobrovolets-borys) — На війні загинув український спелеолог і мандрівник, доброволець Борис Гора
+  - [Букви](https://bukvy.org/na-vijni-zagynuv-speleolog-i-mandrivnyk-borys-gora) — На війні загинув спелеолог і мандрівник Борис Гора
 
-### national #6 · score 0.8372 · Війна та безпека, Суспільство
-✓ Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.
-  - чутлива тема (загин, поранен, атак); незалежних джерел: 4
+### national #6 · score 0.8526 · Суспільство, Війна та безпека
+✓ Вранці 24 жовтня на трасі «Львів-Краковець» сталася аварія за участі легкового автомобіля та рейсового автобуса.
+✓ Обидва водії та троє пасажирів автобуса отримали травми.
 
-  - [Місто і річка](https://mistorichka.media/novyny/ataka-na-peredmistia-dnipra-23-zhovtnia) — У передмісті Дніпра через російську атаку загинула людина, п’ятеро поранені
-  - [Слово і Діло](https://slovoidilo.ua/2026/10/23/novyna/bezpeka/armiya-rosiyi-vdaryla-po-pryvatnomu-budynku-dnipri-ye-zhertva-poraneni) — Армія росії вдарила по приватному будинку у Дніпрі, є жертва і поранені
-  - [Dnipro.media](https://dnipro.media/novyny-dnipro/na-dnipropetrovshhyni-vnaslidok-atak-zagynula-lyudyna-shhe-11-distaly-poranen) — На Дніпропетровщині внаслідок атак загинула людина, ще 11 дістали поранень
-  - [Район.in.ua](https://rayon.in.ua/news/1111150-rosiiskii-udar-zruinuvav-budinok-u-dnipri-je-zagiblii-i-piatero-poranenix) — У Дніпрі російська атака зруйнувала будинок: є загиблий
+  - [Суспільне Новини](https://suspilne.media/lviv/1435863-na-lvivsini-stalasa-dtp-za-ucasti-rejsovogo-avtobusa-patero-ludej-otrimali-travmi) — На Львівщині сталася ДТП за участі рейсового автобуса: п'ятеро людей отримали травми
+  - [Львівський портал](https://portal.lviv.ua/news/2026/10/24/na-iavorivshchyni-zitknulysia-marshrutka-ta-lehkovyk-ie-postrazhdali) — На Яворівщині зіткнулися маршрутка та легковик. Є постраждалі
+  - [LB.ua](https://lb.ua/society/2026/10/24/775892_lvivschini_zitknulisya_reysoviy.html) — На Львівщині зіткнулися рейсовий автобус і позашляховик: є постраждалі
+  - [Дивись.info](https://dyvys.info/2026/10/24/na-yavorivshhyni-zitknulysya-avtobus-i-pozashlyahovyk-p-yatero-postrazhdalyh) — На Яворівщині зіткнулися автобус і позашляховик: п'ятеро постраждалих
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-politsiya-dtp-lvivshchyna-avtobus/33883589.html) — На Львівщині автобус зіткнувся з позашляховиком, є постраждалі – поліція
 
-### national #7 · score 0.8335 · Міжнародне, Війна та безпека
-✓ Державний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.
-✓ Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.
+### national #7 · score 0.8482 · Міжнародне, Війна та безпека
+✓ Переговорні групи України та Росії домовилися, що режим тиші для проведення гуманітарної операції в Олешках Херсонської області почне діяти з 03:00 (04:00 за московським часом) 27 жовтня.
 
-  - [NV](https://nv.ua/ukr/world/geopolitics/viyna-v-ukrajini-marko-rubio-zayaviv-pro-klyuchovu-rol-donbasu-ta-peregovoriv-50652984.html) — Рубіо заявив, що війна Росії проти України насправді стосується лише Донбасу
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-rubio-ukrayina-viyna-donbas/33883212.html) — Рубіо про війну в Україні: «насправді вона стосується Донбасу»
-  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/polityka/ce-pro-odyn-rehion-krayiny-rubio-zayavyv-vijna-rf-proty-ukrayiny-zoseredzhena-navkolo-donbasu) — «Йдеться про один регіон»: Рубіо заявив, що війна рф проти України зосереджена навколо Донбасу
-  - [LB.ua](https://lb.ua/society/2026/10/24/775764_derzhsekretar_ssha_zviv_viynu.html) — Держсекретар США звів війну в Україні лише до питання Донбасу
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225533.html) — Рубіо назвав ключовим питанням війни Донбас і наголосив на потребі взаємних поступок
-  - [ZN.UA](https://zn.ua/ukr/war/rubio-zajaviv-shcho-vijna-rosiji-proti-ukrajini-naspravdi-stosujetsja-donbasu.html) — Рубіо заявив, що війна Росії проти України насправді стосується Донбасу
-  - [hromadske](https://hromadske.ua/heopolityka/273081-rubio-kaze-shcho-rosiysko-ukrayinska-viyna-stosuyetsia-lyshe-donbasu-naholosyv-shcho-tse-nemozlyvo-vyrishyty-voyennym-shliakhom) — «Неможливо вирішити воєнним шляхом». Рубіо каже, що російсько-українська війна стосується лише Донбасу
-  - [Укрінформ](https://ukrinform.ua/rubric-polytics/4177733-rubio-zaaviv-so-vijna-rosii-proti-ukraini-stosuetsa-donbasu-i-zaklikav-sukati-diplomaticnij-kompromis.html) — Рубіо заявив, що війна Росії проти України стосується Донбасу, і закликав шукати дипломатичний компроміс
-  - [Рубрика](https://rubryka.com/2026/10/24/vijny-rf-proty-ukrayiny) — Для завершення війни рф проти України потрібні переговори та поступки з обох сторін, – Рубіо
+  - [Гривна](https://grivna.ua/news/ukrayina-ta-rosiya-uzgodyly-chas-prypynennya-vognyu-v-oleshkah-vidomi-podrobyci) — Україна та росія узгодили час припинення вогню в Олешках: відомі подробиці
+  - [LB.ua](https://lb.ua/society/2026/10/24/775912_ukrayina_rosiya_uzgodili_chas.html) — Україна та Росія узгодили час припинення вогню для гуманітарної місії в Олешках
+  - [МОСТ](https://most.ks.ua/news/url/ukrajina-ta-rf-uzgodili-chas-pripinennja-vognju-dlja-gumanitarnoji-misiji-v-oleshkah) — Україна та РФ узгодили час припинення вогню для гуманітарної місії в Олешках
+  - [Вгору](https://vgoru.org/novini/na-vsii-teritoriyi-xersonshhini-zaprovadiat-pripinennia-vogniu-cerez-operaciiu-v-oleskax-lubinec) — На всій території Херсонщини запровадять припинення вогню через операцію в Олешках – Лубінець
+  - [ОстроВ](https://ostro.org/news/ukrayina-ta-rosiya-uzgodyly-chas-prypynennya-vognyu-dlya-gumanitarnoyu-misiyi-v-oleshkah-i571248) — Україна та росія узгодили час припинення вогню для гуманітарною місії в Олешках
+  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/bezpeka/lubinecz-proviv-perehovory-rosijskoyu-ombudsmankoyu-shhodo-humanitarnoyi-misiyi-oleshkax) — Лубінець провів переговори з російською омбудсманкою щодо гуманітарної місії в Олешках
+  - [Суспільне Новини](https://suspilne.media/1436111-lubinec-zaaviv-pro-uzgodzenna-z-rf-casu-pripinenna-vognu-v-oleskah) — Лубінець заявив про узгодження з РФ часу припинення вогню в Олешках
 
 ✓ Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.
 ✓ Посилання на всі джерела — на сайті BRIEF.
@@ -105,108 +116,133 @@
 **[ЗВУКОВИЙ ПЕРЕХІД]**
 
 ✓ А тепер — новини регіонів.
-### regional #1 · score 0.8261 · Війна та безпека, Міжнародне
-✓ У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.
-  - чутлива тема (постражд, атак); незалежних джерел: 5
+### regional #1 · score 0.81 · Війна та безпека, Міжнародне
+✓ Упродовж доби окупанти завдали 934 удари по 61 населеному пункту Запорізької області.
+  - чутлива тема (удар); незалежних джерел: 6
+✓ Семеро людей дістали поранень унаслідок ворожих ударів по Запоріжжю та Запорізькому району.
+  - чутлива тема (поранен, удар); незалежних джерел: 6
 
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177696-rosiani-za-dobu-934-razi-bili-po-zaporizkij-oblasti-semero-poranenih.html) — Росіяни за добу 934 рази били по Запорізькій області, семеро поранених
+  - [Суспільне Новини](https://suspilne.media/zaporizhzhia/1435669-ponad-930-udariv-za-dobu-zavdala-armia-rf-po-61-naselenomu-punktu-zaporizkoi-oblasti-e-poraneni) — Понад 930 ударів за добу завдала армія РФ по 61 населеному пункту Запорізької області: є поранені
+  - [LB.ua](https://lb.ua/society/2026/10/24/775774_rosiyani_934_razi_atakuvali.html) — Росіяни 934 рази атакували Запоріжжя та область, є поранені
+  - [Район.in.ua](https://rayon.in.ua/news/1111202-934-udari-po-zaporizkii-oblasti-ta-poraneni-diti-na-xarkivshhini-naslidki-atak-rf) — Росія обстріляла 4 області: 2 загиблих, 38 поранених
+  - [Перший Запорізький](https://1news.zp.ua/rosijski-vijska-u-pyatnyczyu-vdaryly-po-zaporizkij-oblasti-934-razy-poranyly-simoh-lyudej) — Російські війська у п’ятницю вдарили по Запорізькій області 934 рази: поранили сімох людей
+  - [Inform.zp](https://inform.zp.ua/uk/2026/10/24/400504_934-udary-po-zaporizkij-oblasti-za-dobu-semero-poranenyh-sered-nyh-dytyna) — 934 удари по Запорізькій області за добу: семеро поранених, серед них дитина
+
+### regional #2 · score 0.7985 · Війна та безпека, Економіка
+✓ У ніч на 24 жовтня по всій території тимчасового окупованого Криму стався масштабний блекаут.
+✓ Окупаційна влада заявляє про ураження енергетичної інфраструктури на півострові.
+
+  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/suspilstvo/okupovanomu-krymu-jmovirno-stavsya-masshtabnyj-blekaut-vidomo) — В окупованому Криму, ймовірно, стався масштабний блекаут: що відомо
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177686-u-krimu-masstabnij-blekaut-pisla-ataki-droniv.html) — У Криму - масштабний блекаут після атаки дронів
+  - [Суспільне Новини](https://suspilne.media/crimea/1435707-u-krimu-vnoci-24-zovtna-stavsa-blekaut-okupacijna-vlada-zaavila-pro-avariu-za-mezami-pivostrova) — У Криму вночі 24 жовтня стався блекаут: окупаційна влада заявила про аварію за межами півострова
+  - [LB.ua](https://lb.ua/society/2026/10/24/775790_rosiyi_pislya_ataki_droniv.html) — У Росії після атаки дронів палає завод "Тольяттикаучук", у Криму – масштабний блекаут
+  - [Крим.Реалії](https://ua.krymr.com/a/news-krym-blekaut-nemaye-svitla/33883430.html) — У Криму вночі стався блекаут, вранці у низці міст досі немає світла
+  - [Інтент](https://intent.press/news/war/2026/blekaut-v-krimu-zupiniv-morskii-ta-miskii-transport) — Блекаут в Криму зупинив морський та міський транспорт
+  - [Голос Криму](https://voicecrimea.com.ua/uk/news/post/d87a3a84-9cc6-4cb2-801e-42dd4947fe5e) — Атака на підстанцію «Тамань» знеструмила Крим: на півострові тотальний блекаут, окупанти обіцяють світло до вечора, а на мосту утворилися затори
+
+### regional #3 · score 0.7983 · Війна та безпека, Економіка
+✓ Російський безпілотник 24 жовтня прицільно атакував ферму в Конотопському районі Сумської області.
+  - чутлива тема (атак); незалежних джерел: 13
+✓ У результаті атаки загинула жінка, ще четверо людей постраждали.
+  - чутлива тема (загин, постражд, атак); незалежних джерел: 13
+
+  - [Трибуна.Суми](https://trybuna.sumy.ua/news/rosijskyj-bezpilotnyk-atakuvav-fermu-na-sumshhyni) — Російський безпілотник атакував ферму на Сумщині
+  - [LB.ua](https://lb.ua/society/2026/10/24/775874_rosiyskiy_dron_vbiv.html) — Російський дрон вбив працівницю ферми на Сумщині
+  - [Новинарня](https://novynarnia.com/2026/10/24/rosiiskyi-bpla-prytsilno-atakuvav-fermu-na-sumshchyni-ie-zahybli-i) — Російський БпЛА прицільно атакував ферму на Сумщині: є загиблі й постраждалі
+  - [Громадське радіо](https://hromadske.radio/news/2026/10/24/rosiiany-atakuvaly-fermu-na-sumshchyni-zahynula-zhinka-ie-postrazhdali) — Росіяни атакували ферму на Сумщині: загинула жінка, є постраждалі
+  - [Букви](https://bukvy.org/rf-vdaryla-po-fermi-na-sumshhyni-zagynula-zhinka-a-takozh-tvaryny) — РФ вдарила по фермі на Сумщині: загинула жінка, а також тварини
+  - [Суспільне Новини](https://suspilne.media/sumy/1435973-bezpilotnik-rf-atakuvav-fermu-na-sumsini-zaginula-zinka-e-travmovani) — Безпілотник РФ атакував ферму на Сумщині: загинула жінка, є травмовані
+  - [Слово і Діло](https://slovoidilo.ua/2026/10/24/novyna/bezpeka/rosiyany-atakuvaly-fermu-sumshhyni-zahynula-praczivnycya-ye-zahybli-tvaryny) — Росіяни атакували ферму на Сумщині: загинула працівниця, є загиблі тварини
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177820-rosijski-droni-atakuvali-fermu-na-sumsini-e-zagibla-i-cetvero-postrazdalih.html) — Російські дрони атакували ферму на Сумщині, є загибла і четверо постраждалих
+  - [Кордон.Медіа](https://kordon.media/na-sumshhyni-rosiyany-vdaryly-po-fermi-zagynula-31-richna-zhinka) — На Сумщині росіяни вдарили по фермі: загинула 31-річна жінка
+  - [ZN.UA](https://zn.ua/ukr/war/rosijani-atakuvali-fermu-na-sumshchini-zahinula-zhinka-je-poraneni.html) — Росіяни атакували ферму на Сумщині: загинула жінка
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-sumshchyna-ataka-dron-rf/33883557.html) — РФ вдарила дроном по фермі на Сумщині: загинула жінка, є постраждалі – влада
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225633.html) — Жінка загинула на фермі на Сумщині через удари ворога – ДСНС
+  - [Курс](https://kurs.if.ua/na-sumshhyni-vnaslidok-udaru-vorozhogo-bpla-po-fermi-zagynuly-praczivnyczya-ta-tvaryny) — На Сумщині внаслідок удару ворожого БпЛА по фермі загинули працівниця та тварини
+
+### regional #4 · score 0.7796 · Економіка
+✓ Графіки відключення світла не діють.
+
+  - [Твоє місто](https://tvoemisto.tv/uk/news/12734-hrafiky-vidklyuchen-svitla-v-kyyevi-ta-oblasti-na-24-zhovtnya) — Графіки відключень світла в Києві та області на 24 жовтня
+  - [ZN.UA](https://zn.ua/ukr/energetics/u-kilkokh-rajonakh-kijeva-ta-kijivskoji-oblasti-zaprovadili-ekstreni-vidkljuchennja-svitla.html) — У кількох районах Києва та Київської області запровадили екстрені відключення світла
+  - [Українська правда](https://pravda.com.ua/news/2026/10/24/8059520) — У Києві та області ввели екстрені відключення світла
+  - [Mind.ua](https://mind.ua/news/20311346-u-chastini-kieva-ta-kiyivshchini-zaprovadili-ekstreni-vidklyuchennya-elektroenergiyi) — У частині Києва та Київщини запровадили екстрені відключення електроенергії
+  - [Твоє місто](https://tvoemisto.tv/uk/news/12740-ekstreni-vidklyuchennya-svitla-zaprovadyly-v-kyyevi-ta-oblasti) — Екстрені відключення світла запровадили в Києві та області
+
+### regional #5 · score 0.7687 · Війна та безпека, Міжнародне
+✓ РФ атакувала 35 населених пунктів Херсонщини: шестеро поранених, пошкоджені будинки та авто.
+  - чутлива тема (поранен, атак); незалежних джерел: 8
+✓ Російська армія застосовувала авіацію, артилерію та безпілотники.
+
+  - [LB.ua](https://lb.ua/society/2026/10/24/775776_rosiyani_znovu_bili_kritichniy.html) — Росіяни знову били по критичній і соціальній інфраструктурі Херсонщини. Семеро людей постраждали
   - [МОСТ](https://most.ks.ua/news/url/na-hersonschini-cherez-rosijski-obstrili-poraneni-shestero-ljudej-2) — На Херсонщині через російські обстріли поранені шестеро людей
+  - [Суспільне Новини](https://suspilne.media/kherson/1435689-vijska-rf-obstrilali-35-naselenih-punktiv-hersonsini-sestero-poranenih) — Війська РФ обстріляли 35 населених пунктів Херсонщини: шестеро поранених
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4177708-rosiani-za-dobu-obstrilali-35-naselenih-punktiv-hersonsini-sestero-poranenih.html) — Росіяни за добу обстріляли 35 населених пунктів Херсонщини, шестеро поранених
   - [Гривна](https://grivna.ua/news/obstrily-hersonshhyny-za-dobu-zagyblyj-ta-shestero-poranenyh) — Обстріли Херсонщини за добу: загиблий та шестеро поранених
+  - [IPC-Південь](https://ipc.org.ua/uk/2026/10/za-dobu-cherez-obstrily-rosiyan-na-hersonshhyni-shestero-distaly-poranennya) — За добу через обстріли росіян на Херсонщині шестеро – дістали поранення
   - [МикВісті](https://nikvesti.com/news/defence/325435-khersonshchyni-rosiiski-obstrily-poraneni-6-liudei) — На Херсонщині через російські обстріли поранені 6 людей
   - [Вгору](https://vgoru.org/novini/zagiblii-sestero-poranenix-i-poskodzeni-avto-naslidki-obstriliv-xersonshhini) — Загиблий, шестеро поранених і пошкоджені авто: наслідки обстрілів Херсонщини
 
-### regional #2 · score 0.8242 · Війна та безпека, Політика
-✓ Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими.
-  - чутлива тема (полон); незалежних джерел: 5
-✓ Наразі 270 українських військових повернулися на Батьківщину.
-
-  - [20 хвилин. Тернопіль](https://te.20minut.ua/Podii/290-nashih-geroyiv-vdoma-vidbuvsya-obmin-polonenimi-12010840.html) — 270 наших Героїв вдома: відбувся обмін полоненими
-  - [ОстроВ](https://ostro.org/news/v-ukrayinu-pislya-obminu-polonenymy-povernulysya-p-yatero-lyudej-yakyh-vvazhaly-zagyblymy-pid-chas-i571142) — В Україну після обміну полоненими повернулися п'ятеро людей, яких вважали загиблими під час російського теракту в Оленівці
-  - [Суспільне Новини](https://suspilne.media/kyiv/1435533-sered-zvilnenih-z-rosijskogo-polonu-vijskovih-zahisniki-z-kiivsini) — Серед звільнених з російського полону військових — захисники з Київщини
-  - [Odesa.Online](https://odessa.online/z-rosijskogo-polonu-povernulisya-desyatero-zhiteliv-odeshhini) — З російського полону повернулися десятеро жителів Одещини
-  - [Махала](https://mahala.com.ua/novyny/z-polonu-povernulysia-desiat-meshkantsiv-odeskoi-oblasti) — З полону повернулися десять мешканців Одеської області
-
-### regional #3 · score 0.8242 · Війна та безпека, Економіка
-✓ У Краснодарському краї також уражено підстанцію 500/220 кВ "Тамань", розташовану поблизу Керченської протоки.
-
-  - [NV](https://nv.ua/ukr/world/countries/tolyatti-ataka-droniv-na-zavod-tolyattikauchuk-sprichinila-pozhezhu-ta-evakuaciyu-avtovaz-50653007.html) — У російському Тольятті дрони атакували хімзавод, спалахнула масштабна пожежа — відео
-  - [Букви](https://bukvy.org/syly-oborony-urazyly-zavod-tolyattikauchuk-u-rosiyi) — Сили оборони уразили завод «Тольяттікаучук» у Росії
-  - [LB.ua](https://lb.ua/society/2026/10/24/775790_rosiyi_pislya_ataki_droniv.html) — У Росії після атаки дронів палає завод "Тольяттикаучук", у Криму – масштабний блекаут
-  - [Крим.Реалії](https://ua.krymr.com/a/news-krym-blekaut-nemaye-svitla/33883430.html) — У Криму вночі стався блекаут, вранці у низці міст досі немає світла
-
-### regional #4 · score 0.8227 · Війна та безпека, Політика
-✓ У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.
-  - чутлива тема (загин); незалежних джерел: 2
-
-  - [Суспільне Новини](https://suspilne.media/ternopil/1435599-zaginuv-speleolog-mandrivnik-gid-boris-gora-z-ternopilsini) — Загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини
-  - [20 хвилин. Тернопіль](https://te.20minut.ua/Podii/ridni-povidomlyayut-pro-zagibel-borisa-gori-chekayut-na-rezultat-testu-12010899.html) — Рідні повідомляють про загибель Бориса Гори: чекають на результат тесту ДНК
-
-### regional #5 · score 0.7976 · Війна та безпека, Міжнародне
-✓ У частині Сумської області є знеструмлення через російську збройну агресію.
-
-  - [LB.ua](https://lb.ua/society/2026/10/24/775788_sumschini_cherez_rosiyski.html) — На Сумщині через російські обстріли поранені семеро людей, у громадах є знеструмлення
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177721-castina-sumsini-znestrumlena-cerez-ataki-rf.html) — Частина Сумщини знеструмлена через атаки РФ
-
 ✓ А тепер — Волинь.
-### local:volyn #1 · score 0.6493 · Міжнародне, Суспільство
-✓ Контррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.
-
-  - [hromadske](https://hromadske.ua/viyna/273042-voiuvala-za-rf-a-potim-pryyikhala-do-ukrayiny-shchob-zrobyty-pasport-dlia-vyyizdu-do-yes-u-hoteli-na-volyni-zatrymaly-rosiysku-serzantku) — Воювала за рф, а потім приїхала до України, щоб зробити паспорт для виїзду до ЄС. У готелі на Волині затримали російську сержантку
-  - [ОстроВ](https://ostro.org/news/na-volyni-zatrymaly-meshkanku-donetska-yaka-voyuvala-za-rosiyu-ta-hotila-vyyihaty-do-yes-i571118) — На Волині затримали мешканку Донецька, яка воювала за Росію та хотіла виїхати до ЄС
-  - [Львівський портал](https://portal.lviv.ua/news/2026/10/23/na-volyni-zatrymaly-eksvijskovu-rf-iaka-pryikhala-oformyty-zakordonnyj-pasport) — На Волині затримали ексвійськову РФ, яка приїхала оформити закордонний паспорт
-  - [Бахмут IN.UA](https://bahmut.in.ua/na-volyni-zatrymaly-veteranku-armiyi-rf-z-doneczka-namagalasya-vtekty-do-yes) — На Волині затримали ветеранку армії рф з Донецька: намагалася втекти до ЄС
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4177403-na-volini-zatrimali-zitelku-donecka-aka-vouvala-na-boci-rosii-ta-zbiralasa-viihati-do-es.html) — На Волині затримали жительку Донецька, яка воювала на боці Росії та збиралася виїхати до ЄС
-
-### local:volyn #2 · score 0.5784 · Війна та безпека
+### local:volyn #1 · score 0.5173 · Війна та безпека
 ✓ У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.
 
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4177742-u-lucku-vidnovili-podacu-garacoi-vodi-pisla-ataki-rf.html) — У Луцьку відновили подачу гарячої води після атаки РФ
 
-### local:volyn #3 · score 0.4408 · Суспільство
-✓ У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.
+### local:volyn #2 · score 0.439 · Війна та безпека
+⚠ У Луцьку 24 довтня прощалися з загиблим на війні військовослужбовцем Юрієм Андрійчуком.
+  - чутлива тема (загибл); незалежних джерел: 1
+✓ У 52-річного захисника залишилися матір і донька.
 
-  - [Суспільне Новини](https://suspilne.media/lutsk/1435203-na-volini-vilucili-sigareti-bez-akcizu-i-vejpi-na-18-miljona-griven) — На Волині вилучили сигарети без акцизу і вейпи на 1,8 мільйона гривень
+  - [Суспільне Новини](https://suspilne.media/lutsk/1435885-u-lucku-poprosalisa-z-52-ricnim-vijskovosluzbovcem-uriem-andrijcukom) — У Луцьку попрощалися з 52-річним військовослужбовцем Юрієм Андрійчуком
+
+### local:volyn #3 · score 0.3962 · Суспільство
+✓ У Луцьку засудили оперативника поліції за 200 тис. грн хабаря.
+✓ Для цього він організував схему з розблокуванням арештованого 1 млн грн. Керівник і слідча не здогадувалися, що відбувається.
+
+  - [Суспільне Новини](https://suspilne.media/lutsk/1434347-arestovanij-miljon-konvoj-iz-sizo-ta-habar-u-kripti-u-lucku-sudili-operativnika-akij-vviv-v-omanu-koleg) — Арештований мільйон, конвой із СІЗО та хабар у крипті: у Луцьку судили оперативника, який ввів в оману колег
 
 ✓ Далі — новини регіону: Хмельниччина.
-### local:khmelnytskyi #1 · score 0.6227 · Війна та безпека
+### local:khmelnytskyi #1 · score 0.5665 · Війна та безпека
 ⚠ Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.
   - згадано минулі роки (2025) — перевірте, чи це нова подія
   - чутлива тема (загин, бойов); незалежних джерел: 1
 
   - [Є](https://ye.ua/syspilstvo/80830_Na_Starokostyantinivschini_vidkrili_memorialnu_doshku_zagiblomu_zahisniku_Vitaliyi_Pastuhu.html) — На Старокостянтинівщині відкрили меморіальну дошку загиблому захиснику Віталію Пастуху
 
-### local:khmelnytskyi #2 · score 0.5309 · Війна та безпека, Міжнародне
+### local:khmelnytskyi #2 · score 0.5272 · Війна та безпека, Економіка
 ✓ У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.
 
   - [NV](https://nv.ua/ukr/kyiv/u-kiyevi-vidnovili-ruh-pojizdiv-na-zeleniy-gilci-mizh-vidubichami-ta-slavutichem-50653004.html) — У Києві відновили рух поїздів між станціями Видубичі та Славутич — КМДА
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4177717-u-kievi-vidnovili-ruh-poizdiv-miz-stanciami-metro-vidubici-ta-slavutic.html) — У Києві відновили рух поїздів між станціями метро «Видубичі» та «Славутич»
   - [LB.ua](https://lb.ua/kyiv/2026/10/24/775800_kiievi_vidnovili_ruh_poyizdiv.html) — У Києві відновили рух поїздів метро між станціями "Видубичі" та "Славутич"
+  - [Суспільне Новини](https://suspilne.media/kyiv/1435761-poizdi-zelenoi-gilki-metro-znovu-kursuut-pivdennim-mostom) — Поїзди «зеленої» гілки метро знову курсують Південним мостом
 
-### local:khmelnytskyi #3 · score 0.4171 · Суспільство
-✓ Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.
+### local:khmelnytskyi #3 · score 0.4549 · Суспільство
+✓ У Хмельницькому на одній з вулиць тимчасово припинять водопостачання: де не буде води.
 
-  - [Є](https://ye.ua/cruminal/80833_Na_Hmelnichchini_cholovik_viddav_shahrayam_14_tisyach_za_orendu_kvartiri.html) — На Хмельниччині чоловік віддав шахраям 14 тисяч за оренду квартири
+  - [Є](https://ye.ua/syspilstvo/80838_U_Hmelnickomu_na_odniy_z_vulic_timchasovo_pripinyat_vodopostachannya__de_ne_bude_vodi.html) — У Хмельницькому на одній з вулиць тимчасово припинять водопостачання: де не буде води
 
 ✓ Закарпаття: головне за добу.
-### local:zakarpattia #1 · score 0.575 · Війна та безпека
-✓ У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.
-⚠ Захисник загинув 15 січня 2024 року на Донецькому напрямку.
-  - згадано минулі роки (2024) — перевірте, чи це нова подія
-  - чутлива тема (загин); незалежних джерел: 2
+### local:zakarpattia #1 · score 0.5824 · Війна та безпека
+⚠ З 24 вересня до 23 жовтня 2026 року стало відомо про 35 загиблих закарпатців.
+  - чутлива тема (загибл); незалежних джерел: 1
+✓ Висловлюємо щирі співчуття рідним і близьким захисників, які полягли за Україну.
 
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/u-mukachevi-v-ostannyu-dorohu-provely-polehloho-voyina-andriya-salnykova) — У Мукачеві в останню дорогу провели полеглого воїна Андрія Сальникова
-  - [Суспільне Новини](https://suspilne.media/uzhhorod/1435195-u-mukacevi-poprosalisa-iz-43-ricnim-zahisnikom-andriem-salnikovim) — У Мукачеві попрощалися із 43-річним захисником Андрієм Сальниковим
+  - [Суспільне Новини](https://suspilne.media/uzhhorod/1434161-56-j-misac-povnomasstabnoi-vijni-zagibli-vijskovosluzbovci-iz-zakarpatta) — 56-й місяць повномасштабної війни: загиблі військовослужбовці із Закарпаття
 
-### local:zakarpattia #2 · score 0.5314 · Економіка, Бізнес
-✓ У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.
+### local:zakarpattia #2 · score 0.5666 · Політика, Бізнес
+✓ Державне підприємство «Ліси України» зобов'язали установити межі близько 2135 га пралісів та квазіпралісів на території Тячівського, Ужгородського та Хустського районів.
 
-  - [Суспільне Новини](https://suspilne.media/uzhhorod/1435241-zavdali-zbitkiv-na-ponad-285-tisac-grn-na-remonti-trotuaru-na-zakarpatti-dvom-posadovcam-povidomili-pro-pidozru) — Завдали збитків на понад 285 тисяч грн на ремонті тротуару: на Закарпатті двом посадовцям повідомили про підозру
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/posadovtsya-miskrady-u-berehovi-pidozryuyut-u-makhinatsiyakh-na-remonti-trotuaru) — Посадовця міськради у Берегові підозрюють у махінаціях на ремонті тротуару
+  - [Суспільне Новини](https://suspilne.media/uzhhorod/1435505-sud-zobovazav-dp-lisi-ukraini-vstanoviti-mezi-dla-ponad-2100-ga-pralisiv-na-zakarpatti) — Суд зобов'язав ДП «Ліси України» встановити межі для понад 2100 га пралісів на Закарпатті
+  - [Район.in.ua](https://rayon.in.ua/news/1111206-pralisi-zakarpattia-bez-citkix-mez-prokuratura-domoglasia-risen-sudu) — На Закарпатті встановлять межі 2135 гектарів пралісів
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1225577.html) — "Ліси України" зобов'язано встановити охоронні межі для понад 2 тис. га пралісів на Закарпатті – Офіс генпрокурора
 
-### local:zakarpattia #3 · score 0.5289 · Війна та безпека, Політика
-✓ Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.
+### local:zakarpattia #3 · score 0.4667 · Суспільство
+✓ У закладі загальної середньої освіти І–ІІІ ступенів імені Жігмонда Перені у Виноградові перевіряли, як харчуються та вчаться діти.
 
-  - [PMG.ua](https://pmg.ua/life/143815-na-zakarpatti-cholovik-kupyv-chotyrokh-ditey-i-vtik-za-kordon-lubinets) — На Закарпатті чоловік «купив» чотирьох дітей і втік за кордон — Лубінець
+  - [PMG.ua](https://pmg.ua/life/143821-u-vynohradivskiy-shkoli-monitoryly-bezpeku-kharchuvannia) — У Виноградівській школі моніторили безпеку харчування
 
 ✓ Це були новини BRIEF за двадцять четверте жовтня.
 ✓ Посилання на першоджерела — на сайті BRIEF.
