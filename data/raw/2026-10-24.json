@@ -1,8 +1,8 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-23T22:09:52+00:00",
-  "source_count": 15,
-  "item_count": 50,
+  "generated_at": "2026-10-24T00:41:48+00:00",
+  "source_count": 17,
+  "item_count": 89,
   "items": [
     {
       "id": "abd4178a43a7e82e",
@@ -12,8 +12,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/ne-bude-gazu-ye-drova-yak-u-gromadi-gotuyutsya-do-zimi-article",
       "title": "Не буде газу – є дрова: як у громаді готуються до зими",
-      "published_at": "2026-10-23T23:09:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 01:09:02 +0200",
+      "published_at": "2026-10-24T01:41:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:41:02 +0200",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "",
       "categories": [
@@ -33,8 +33,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/obmin-polonenimi-povernuli-vijskovih-ta-civilnogo-z-chernigivshini-article",
       "title": "Обмін полоненими: повернули військових та цивільного з Чернігівщини",
-      "published_at": "2026-10-23T23:09:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 01:09:02 +0200",
+      "published_at": "2026-10-24T01:41:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:41:02 +0200",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "",
       "categories": [
@@ -54,8 +54,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/dodomu-povernuli-tilo-27-richnogo-chernigivcya-yakij-polig-na-kurshini-article",
       "title": "Додому повернули тіло 27-річного чернігівця, який поліг на Курщині",
-      "published_at": "2026-10-23T23:09:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 01:09:02 +0200",
+      "published_at": "2026-10-24T01:41:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:41:02 +0200",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "",
       "categories": [
@@ -75,8 +75,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/rosiyani-atakuvali-pidpriyemstvo-v-chernigovi-vidomo-pro-zagiblogo-ta-poranenih-article",
       "title": "Росіяни атакували підприємство в Чернігові: відомо про загиблого та поранених",
-      "published_at": "2026-10-23T23:09:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 01:09:02 +0200",
+      "published_at": "2026-10-24T01:41:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:41:02 +0200",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "",
       "categories": [
@@ -85,6 +85,364 @@
       "date_issues": [
         "future-date"
       ],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7755974cbe43469d",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225527.html",
+      "title": "Російська дронова атака на Житомир травмувала дев'ятьох людей і пошкодила цивільну інфраструктуру – Нацполіція",
+      "published_at": "2026-10-24T00:29:37+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:29:37 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Війська РФ у четвер атакували Житомир ударними безпілотниками, внаслідок чого дев'ятеро людей дістали травми та зафіксовані пошкодження об'єктів цивільної інфраструктури, повідомила Патрульна поліція України у п'ятницю.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e031c350420d1b67",
+      "source_id": "map-573",
+      "source": "А.С.С.",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://acc.cv.ua/news/storystorynka/yak-chasto-potribno-chistiti-dimohid-i-yaki-oznaki-vkazuyut-na-nebezpeku-122941",
+      "title": "Як часто потрібно чистити димохід і які ознаки вказують на небезпеку",
+      "published_at": "2026-10-24T00:24:43+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:24:43 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Фахівці радять перевіряти димохід щонайменше раз на рік.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d47c9f8106252e50",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225525.html",
+      "title": "Німеччина веде переговори з Україною щодо виробництва ракет \"Барс\" і готує закупівлю крилатих ракет на понад EUR1 млрд – Bloomberg",
+      "published_at": "2026-10-24T00:23:37+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:23:37 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Міністерство оборони Німеччини веде переговори з Україною щодо спільного виробництва та придбання українських крилатих ракет \"Барс\", а також обговорює з американським оборонним стартапом Covenant контракт вартістю понад EUR1 млрд ($1,12 млрд) на закупівлю тисяч крилатих ракет наземного базування Anthem, повідомило агентство Bloomberg.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4c8dc124abe99efb",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-23-zhovtnya-rf-zapustila-po-ukrajini-grupi-bezpilotnikiv-mapa-povitryanih-trivog-50652988.html",
+      "title": "У низці областей України оголошена повітряна тривога через атаку безпілотників армії РФ",
+      "published_at": "2026-10-24T00:17:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:17:00 +0300",
+      "fetched_at": "2026-10-23T22:09:52+00:00",
+      "description": "У ніч проти суботи, 24 жовтня, армія РФ запустила ударні безпілотники у бік України. У низці областей оголосили повітряну тривогу.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a759b66d1fbfd3cb",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4177615-za-tizden-rosia-zapustila-po-ukraini-2597-droniv-ppo-zneskodila-ponad-87.html",
+      "title": "За тиждень Росія запустила по Україні 2597 дронів - ППО знешкодила понад 87%",
+      "published_at": "2026-10-24T00:04:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 03:04:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Протягом тижня воїни протиповітряної оборони України знешкодили майже 2300 російських ударних безпілотників, ефективність протидії становить понад 87%.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "36898da4d3594dcc",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/24/novyna/svit/francziyi-zasnuvaly-literaturnu-premiyu-knyzhok-napysanyx-dopomohoyu-shi",
+      "title": "У Франції заснували літературну премію для книжок, написаних за допомогою ШІ",
+      "published_at": "2026-10-23T23:58:28+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:58:28 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У Франції започаткували Prix Pascal de Littérature IA для творів, створених у співавторстві зі штучним інтелектом. Заявки приймають до 30 листопада 2026 року.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70e02fc5832ce077",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/balistichni-ataki-na-kijiv-kapitan-prays-pro-taktiku-voroga-novi-raketi-i-spromozhnosti-50652772.html",
+      "title": "Балістична атака на Київ і можливості ворога",
+      "published_at": "2026-10-23T23:46:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:46:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Вороги давно знають, що ракет-інтерсепторів немає",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "33f92d00cb669a24",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177685-ocilnika-rajonnogo-tck-na-dnipropetrovsini-pidozruut-u-stucnomu-zavisenni-pokaznikiv-mobilizacii.html",
+      "title": "Очільника районного ТЦК на Дніпропетровщині підозрюють у штучному завищенні показників мобілізації",
+      "published_at": "2026-10-23T23:44:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:44:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Державне бюро розслідувань повідомило виконувачу обов’язків начальника одного з районних територіальних центрів комплектування та соціальної підтримки Дніпропетровщини про підозру у штучному завищенні показників мобілізації.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c44c2d4ebf112bca",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/24/novyna/suspilstvo/odnij-krayin-yevropy-onovyly-pravyla-prozhyvannya-hromadyan-ukrayiny-zminylosya",
+      "title": "В одній із країн Європи оновили правила проживання для громадян України: що змінилося",
+      "published_at": "2026-10-23T23:40:58+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:40:58 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Австрія оновила правила тимчасового захисту для українців. Хто зможе перейти на іншу посвідку, кого стосуються обмеження та який дохід потрібен для проживання.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5fea04bd786daec6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/donald-tramp-dopustiv-zaprovadzhennya-200-mit-proti-ukrajini-ta-rosiji-zaradi-mirnoji-ugodi-50653000.html",
+      "title": "Трамп заявив, що 200% мита могли б змусити Україну та Росію укласти мирну угоду",
+      "published_at": "2026-10-23T23:39:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:39:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Президент США Дональд Трамп припустив, що запровадження 200% мит проти України та Росії могло б змусити обидві сторони укласти мирну угоду, однак висловив сумнів щодо ефективності такого заходу.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c5efbea9a33a5c5a",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177684-na-kiivsini-direktora-medzakladu-pidozruut-v-otrimanni-10-tisac-habara-za-fiktivnu-invalidnist.html",
+      "title": "На Київщині директора медзакладу підозрюють в отриманні $10 тисяч хабаря за фіктивну інвалідність",
+      "published_at": "2026-10-23T23:37:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:37:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Правоохоронці викрили директора одного з медичних закладів Білоцерківського району та його спільників, які, за даними слідства, вимагали та отримали неправомірну вигоду.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "165babb566aa2f11",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/donka-putina-shukaje-sposib-podaruvati-batkovi-vichne-zhittja.html",
+      "title": "Донька Путіна шукає спосіб подарувати батькові вічне життя",
+      "published_at": "2026-10-23T23:34:59+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:34:59 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Поки триває війна, Росія шукає еліксир довголіття.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5ab45f0511383636",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4177683-za-pidtrimki-unisef-u-98-medzakladah-vstanovlat-sonacni-energosistemi.html",
+      "title": "За підтримки ЮНІСЕФ у 98 медзакладах встановлять сонячні енергосистеми",
+      "published_at": "2026-10-23T23:34:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:34:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "За підтримки ЮНІСЕФ сонячні енергетичні системи з акумуляторами та інверторами встановлять у 98 закладах охорони здоров’я в 14 областях України.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "99ee5cb0631c1654",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177686-u-krimu-masstabnij-blekaut-pisla-ataki-droniv.html",
+      "title": "У Криму - масштабний блекаут після атаки дронів",
+      "published_at": "2026-10-23T23:32:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:32:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У ніч на 24 жовтня по всій території тимчасового окупованого Криму стався масштабний блекаут. Окупаційна влада заявляє про ураження енергетичної інфраструктури на півострові.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d2497d35e08fe14d",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/justice/325424-odesi-ekspderzhreiestratorku-zasudyly-3-rokiv-nezakonne",
+      "title": "В Одесі експдержреєстраторку засудили до 3 років за незаконне переоформлення нерухомості",
+      "published_at": "2026-10-23T23:29:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:29:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "В Одесі колишню державну реєстраторку засудили за незаконне переоформлення двох нежитлових приміщень",
+      "categories": [
+        "Правосуддя"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "878b0fa0a8c365dd",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/24/775764_derzhsekretar_ssha_zviv_viynu.html",
+      "title": "Держсекретар США звів війну в Україні лише до питання Донбасу",
+      "published_at": "2026-10-23T23:27:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:27:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Рубіо переконаний, що завершення можливе тільки шляхом дипломатії.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ddecc7887dc5daf9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4177682-z-rosijskogo-polonu-povernuvsa-komandir-oleksij-slivcuk-akij-zahisae-krainu-z-2015-roku.html",
+      "title": "З російського полону повернувся командир Олексій Сливчук, який захищає країну з 2015 року",
+      "published_at": "2026-10-23T23:25:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:25:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Додому з російського полону повертається військовий з прикарпатського міста Надвірна, командир взводу 56-ї окремої мотопіхотної бригади Олексій Сливчук.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5912689b14a9b96a",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4177681-finansuvanna-zitla-dla-veteraniv-nastupnogo-roku-zroste-na-12-milarda-minveteraniv.html",
+      "title": "Фінансування житла для ветеранів наступного року зросте на ₴1,2 мільярда - Мінветеранів",
+      "published_at": "2026-10-23T23:24:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:24:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Наступного року на фінансування програми забезпечення ветеранів житлом планують спрямувати 6,9 млрд грн, що на 1,2 млрд грн більше, ніж цьогоріч.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a5a6a8076a9ff89b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177680-se-cotirom-ucasnikam-psevdoviboriv-u-krimu-ogolosili-pidozru-v-kolaboracionizmi.html",
+      "title": "Ще чотирьом учасникам псевдовиборів у Криму оголосили підозру в колабораціонізмі",
+      "published_at": "2026-10-23T23:19:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:19:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Правоохоронці повідомили про підозру у колабораційній діяльності ще чотирьом громадянам України, які взяли участь у незаконно організованих у тимчасово окупованому Криму парламентських виборах РФ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
       "content_signals": {},
       "status": "new"
     },
@@ -131,6 +489,63 @@
       "status": "new"
     },
     {
+      "id": "cc9760991780d42a",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177679-u-cernivcah-suditimut-blogera-akij-znimav-rezimnij-obekt-pid-cas-pramih-efiriv.html",
+      "title": "У Чернівцях судитимуть блогера, який знімав режимний об’єкт під час прямих ефірів",
+      "published_at": "2026-10-23T23:09:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:09:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У Чернівцях судитимуть 44-річного жителя Чернівців, якого підозрюють у розкритті місця розташування режимного об’єкта під час прямих трансляцій у соцмережі.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "92bee45009f4a5e8",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177678-u-mukacivskij-grekokatolickij-eparhii-sprostuvali-vikrivlenna-v-inozemnih-zmi-sodo-mobilizacii-svasennika.html",
+      "title": "У Мукачівській греко-католицькій єпархії спростували викривлення в іноземних ЗМІ щодо мобілізації священника",
+      "published_at": "2026-10-23T23:01:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:01:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Управління Мукачівської греко-католицької єпархії (МГКЄ) оприлюднило офіційну позицію щодо обставин мобілізації священника Андрія Стебівки, спростувавши маніпуляції та наголосивши на недотриманні іноземними медіа журналістських стандартів.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e823084219830167",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/zimovij-chas-v-jakikh-krajinakh-na-noho-ne-perekhodjat.html",
+      "title": "Зимовий час: в яких країнах на нього не переходять",
+      "published_at": "2026-10-23T23:00:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 02:00:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У неділю українці знову переведуть стрілки.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0ab791ac2a19facc",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -138,12 +553,339 @@
       "source_region": null,
       "url": "https://ukrinform.ua/rubric-world/4177617-turecka-armia-otrimala-na-ozbroenna-balisticni-raketi-dalnistu-ponad-500-kilometriv-ta-gaubici.html",
       "title": "Турецька армія отримала на озброєння балістичні ракети дальністю понад 500 кілометрів та гаубиці",
-      "published_at": "2026-10-23T22:01:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 01:01:00 +0300",
+      "published_at": "2026-10-23T22:59:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:59:00 +0300",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "Сухопутні війська Туреччини отримали на озброєння балістичні ракети TAYFUN Blok-2 та самохідні гаубиці Fırtına-2. Ракети мають дальність дії понад 500 кілометрів",
       "categories": [
         "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "94fe66358ac7839e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/tramp-zajaviv-shcho-ssha-zajmutsja-kuboju-pislja-iranu.html",
+      "title": "Трамп заявив, що США «займуться Кубою» після Ірану",
+      "published_at": "2026-10-23T22:59:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:59:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Трамп анонсував новий етап політики США щодо Куби.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "585a2ef05652e5ca",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/24/novyna/suspilstvo/okupovanomu-krymu-jmovirno-stavsya-masshtabnyj-blekaut-vidomo",
+      "title": "В окупованому Криму, ймовірно, стався масштабний блекаут: що відомо",
+      "published_at": "2026-10-23T22:54:28+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:54:28 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У тимчасово окупованому Криму вночі 24 жовтня повідомили про масштабний блекаут. Світло зникло в десятках міст і районів, причини відключення невідомі.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "296ed5825fd0e6b0",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-economy/4177677-beb-vikrilo-droblenna-biznesu-v-merezi-masnih-magaziniv-do-budzetu-povernuli-235-miljona.html",
+      "title": "БЕБ викрило дроблення бізнесу в мережі м’ясних магазинів - до бюджету повернули ₴23,5 мільйона",
+      "published_at": "2026-10-23T22:52:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:52:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Бюро економічної безпеки України викрило схему ухилення від сплати податків у мережі магазинів м’ясної продукції. Підприємство використовувало 130 підконтрольних ФОПів для штучного дроблення доходів і зменшення податкового навантаження.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6b6b25fdc784e9b7",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/news/2026/10/24/775762_ilon_mask_zvinuvativ_ukrayinsku.html",
+      "title": "Ілон Маск звинуватив українську еліту в крадіжці міжнародної допомоги",
+      "published_at": "2026-10-23T22:47:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:47:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Бізнесмен також розкритикував політиків за відстоювання інтересів України.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1789831eb8160169",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177676-na-zakarpatti-zatrimali-arhimandrita-pidozruut-v-organizacii-nezakonnogo-peretinu-kordonu.html",
+      "title": "На Закарпатті затримали архімандрита - підозрюють в організації незаконного перетину кордону",
+      "published_at": "2026-10-23T22:46:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:46:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "На Закарпатті затримано архімандрита, який, за даними прокуратури, підозрюється в організації спроби незаконного переправлення військовозобов'язаного до Словаччини.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2556a5779bcc3930",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/putin-do-vesni-mozhe-vtratiti-armiyu-ale-na-mobilizaciyu-vin-ne-navazhitsya-dikiy-novini-ukrajini-50652798.html",
+      "title": "«Армія РФ може стати небоєздатною до весни». Путін сподівається дотиснути Україну до капітуляції швидше, ніж його військо обвалиться — інтерв'ю з Диким",
+      "published_at": "2026-10-23T22:33:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:33:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Ветеран російсько-української війни, екскомандир роти батальйону Айдар, директор Національного антарктичного наукового центру Євген Дикий розповів в ефірі Radio NV, чому армія РФ може стати вже небоєздатною до весни і як російський диктатор Володимир Путін намагається врятувати ситуацію.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6dfc37519d11fa40",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177674-zatrimanogo-v-krimu-sergia-dacuka-utrimuut-u-sizo-2-simferopola.html",
+      "title": "Затриманого у Криму Сергія Дячука утримують у СІЗО №2 Сімферополя",
+      "published_at": "2026-10-23T22:32:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:32:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "54-річного кримського ювеліра Сергія Дячука, якого російські силовики затримали в листопаді 2024 року, утримують у СІЗО №2 Сімферополя. Чоловік сподівається на обмін і повернення до рідних.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "aeb752ca0c304dec",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177673-lviv-skeruvav-se-34-miljona-dopomogi-ditam-poleglih-zahisnikiv.html",
+      "title": "Львів скерував ще ₴3,4 мільйона допомоги дітям полеглих захисників",
+      "published_at": "2026-10-23T22:30:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:30:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Львів скерував на щорічну допомогу дітям полеглих Захисників і Захисниць України ще 3,4 млн грн.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1d43a38def06f073",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225523.html",
+      "title": "П'ять прем'єр українських повнометражних фільмів покажуть на кінофестивалі \"Молодість\"",
+      "published_at": "2026-10-23T22:28:58+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:28:58 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "П'ять повнометражних фільмів покажуть у секції \"Українські прем'єри\" 55-го Київського міжнародного кінофестивалю \"Молодість\".",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d38761aa6040d21e",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/reiestr-oberih-tck-pidozra-dniprovshchyna",
+      "title": "«Повторно мобілізував» військових у реєстрі: на Дніпровщині посадовцю ТЦК повідомили про підозру",
+      "published_at": "2026-10-23T22:27:30+00:00",
+      "published_raw": "Fri, 23 Oct 2026 22:27:30 +0000",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "The post «Повторно мобілізував» військових у реєстрі: на Дніпровщині посадовцю ТЦК повідомили про підозру appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпровщина",
+        "прокуратура",
+        "ТЦК"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "c5afc9d118b0cc56",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4177658-u-parizi-pokazali-ukrainski-visivanki-vid-starovinnih-sorocok-do-sucasnoi-modi.html",
+      "title": "У Парижі показали українські вишиванки - від старовинних сорочок до сучасної моди",
+      "published_at": "2026-10-23T22:27:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:27:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У Культурному центрі України у Франції відкрилась виставка старовинних українських вишитих сорочок та показ колекції дизайнерки Христини Рачицької.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b65b16a8bfcd8b51",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/698623-dmitrivska-batkivska-subota-zaboroni-ta-prikmeti.html",
+      "title": "Дмитрівська батьківська субота: заборони та прикмети",
+      "published_at": "2026-10-23T22:20:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:20:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Цього дня заведено поминати померлих родичів.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f147bbf3a5664df9",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kramatorsk-rf-vdarila-fab-250-po-zhitlovomu-kvartalu-zaginula-lyudina-shestero-poranenih-50652993.html",
+      "title": "РФ скинула три ФАБи на Краматорськ: пошкоджено 27 будинків, одна людина загинула, серед шести поранених троє — діти",
+      "published_at": "2026-10-23T22:19:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:19:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У п’ятницю, 23 жовтня, війська РФ скинули на житловий квартал Краматорська три ФАБ-250. Внаслідок атаки загинула людина. Ще шестеро — дістали поранень, серед них є троє дітей.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d5d4cd0572cd9b14",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4177672-v-armia-zapustili-kurs-z-analizu-danih-dla-cifrovih-proektiv-zsu.html",
+      "title": "В «Армія+» запустили курс з аналізу даних для цифрових проєктів ЗСУ",
+      "published_at": "2026-10-23T22:19:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:19:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "У застосунку \"Армія+\" запустили новий курс \"Аналіз даних у цифрових проєктах Сил оборони\", який навчає, як краще перевіряти дані, працювати з великими обсягами інформації, писати звіти та знаходити причини проблем.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "149bf7aaacd4ed63",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/24/775760_tramp_pripustiv_scho_200_mitnogo.html",
+      "title": "Трамп припустив, що 200% митного тарифу проти Росії та України могли б зупинити війну",
+      "published_at": "2026-10-23T22:18:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:18:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Виявляється, мита - головний миротворчий засіб республіканця.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "42412ce91f069840",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/culture/1225522.html",
+      "title": "Український скрипаль Богдан Луц став кращим на престижному польському конкурсі імені Генрика Венявського",
+      "published_at": "2026-10-23T22:16:55+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:16:55 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Богдан Луц отримав першу премію, другою премією нагородили китаянку Цзіньчжу Лі, третя дісталася представниці Південної Кореї Субін Лі.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "63bacbaa5bfff372",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/mirni-peregovori-shchodo-viyni-rf-proti-ukrajini-chi-mozhut-rosiya-i-ssha-uklasti-ugodu-bez-kiyeva-50652809.html",
+      "title": "«Ми вже бачили це в Анкориджі». Жодна нова угода між США та Росією не покладе край війні - журналіст WSJ",
+      "published_at": "2026-10-23T22:10:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 01:10:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Жодна угода, яку гіпотетично могли б підписати Америка та Росія у Маямі і якої ймовірно хоче президент США Дональд Трамп, не призведе до завершення війни РФ проти України, якщо офіційний Київ не буде учасником цих домовленостей. Таку думку в інтерв'ю Radio NV висловив головний міжнародний кореспондент The Wall Street Journal Ярослав Трофімов.",
+      "categories": [
+        "Світ/Геополітика"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -198,7 +940,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://slovoidilo.ua/2026/10/24/novyna/polityka/ce-pro-odyn-rehion-krayiny-rubio-zayavyv-vijna-rf-proty-ukrayiny-zoseredzhena-navkolo-donbasu",
-      "title": "«Це про один регіон країни»: Рубіо заявив, що війна рф проти України зосереджена навколо Донбасу",
+      "title": "«Йдеться про один регіон»: Рубіо заявив, що війна рф проти України зосереджена навколо Донбасу",
       "published_at": "2026-10-23T21:58:38+00:00",
       "published_raw": "Sat, 24 Oct 2026 00:58:38 +0300",
       "fetched_at": "2026-10-23T22:09:52+00:00",
@@ -222,6 +964,25 @@
       "description": "У 2027 році на фінансування програми планують спрямувати 6,9 млрд гривень.",
       "categories": [
         "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "83915ab42cf8f4c1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177671-u-kramatorsku-cerez-vorozij-aviaudar-zaginula-ludina-sestero-poraneni.html",
+      "title": "У Краматорську через ворожий авіаудар загинула людина, шестеро поранені",
+      "published_at": "2026-10-23T21:55:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 00:55:00 +0300",
+      "fetched_at": "2026-10-24T00:41:48+00:00",
+      "description": "Вдень 23 жовтня російські війська скинули на Краматорськ три авіабомби ФАБ-250. Загинула людина, шестеро поранені, серед них троє дітей.",
+      "categories": [
+        "Регіони"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -325,25 +1086,6 @@
       "status": "new"
     },
     {
-      "id": "4c8dc124abe99efb",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-23-zhovtnya-rf-zapustila-po-ukrajini-grupi-bezpilotnikiv-mapa-povitryanih-trivog-50652988.html",
-      "title": "У низці областей України оголошена повітряна тривога через атаку безпілотників армії РФ",
-      "published_at": "2026-10-23T21:43:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 00:43:00 +0300",
-      "fetched_at": "2026-10-23T22:09:52+00:00",
-      "description": "У ніч проти суботи, 24 жовтня, армія РФ запустила ударні безпілотники у бік України. У низці областей оголосили повітряну тривогу.",
-      "categories": [
-        "Україна/Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "bdd5c5091b0f074e",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -440,8 +1182,8 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/WORLD/rosijskij-vpk-perebirajetsja-do-kitaju-rozkrito-detali-spivpratsi-moskvi-ta-pekina.html",
       "title": "Російський ВПК перебирається до Китаю: розкрито деталі співпраці Москви та Пекіна",
-      "published_at": "2026-10-23T21:27:54+00:00",
-      "published_raw": "Sat, 24 Oct 2026 00:27:54 +0300",
+      "published_at": "2026-10-23T21:27:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 00:27:00 +0300",
       "fetched_at": "2026-10-23T22:09:52+00:00",
       "description": "Москва відчайдушно потребує підтримки Пекіна.",
       "categories": [
@@ -985,9 +1727,19 @@
   ],
   "errors": [
     {
+      "source": "Суспільне Новини",
+      "feed": "https://suspilne.media/rss/all.rss",
+      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
+    },
+    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
+    },
+    {
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
     },
     {
       "source": "Еспресо: Біла Церква",
@@ -1001,6 +1753,12 @@
       "fetched": 51,
       "added": 50,
       "errors": 2
+    },
+    {
+      "at": "2026-10-24T00:41:48+00:00",
+      "fetched": 86,
+      "added": 39,
+      "errors": 4
     }
   ]
 }
