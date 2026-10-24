@@ -1,0 +1,2960 @@
+{
+  "date": "2026-10-24",
+  "status": "approved",
+  "approved_by": "BRIEF auto (без редактора)",
+  "mode": "auto",
+  "approved_at": "2026-10-24T09:33:33+00:00",
+  "script_sha256": "42d22c374c3b19465609c2531fd63dbbc6292daff4e3e6cb0191ff9d5f796104",
+  "script_text": "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.\nПовний список джерел доступний на сайті BRIEF.\nВипуск за двадцять четверте жовтня.\nНовини України.\n23 жовтня російські війська атакували Краматорськ і Слов'янськ.\nВнаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.\nУ частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.\nРосійські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.\nІран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю.\nТегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.\nУповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.\nВнаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.\nДержавний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.\nВодночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.\nНагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.\nПосилання на всі джерела — на сайті BRIEF.\nТам само можна обрати теми й регіон — і випуск підлаштується під вас.\n[ЗВУКОВИЙ ПЕРЕХІД]\nА тепер — новини регіонів.\nУ Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.\nУкраїна та Росія сьогодні, 23 жовтня, провели обмін полоненими.\nНаразі 270 українських військових повернулися на Батьківщину.\nУ Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.\nУ понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.\nУ частині Сумської області є знеструмлення через російську збройну агресію.\nА тепер — Волинь.\nКонтррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.\nУ Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.\nУ 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.\nДалі — новини регіону: Хмельниччина.\nВоїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.\nУ Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.\nЖитель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.\nЗакарпаття: головне за добу.\nУ Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.\nЗахисник загинув 15 січня 2024 року на Донецькому напрямку.\nУ місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.\nКорупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.\nЦе були новини BRIEF за двадцять четверте жовтня.\nПосилання на першоджерела — на сайті BRIEF.",
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "kind": "template",
+          "text": "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+          "original_text": "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+          "speech_text": "Це Бріф — добірка новин з перевірених медіа, яким можна довіряти.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        },
+        {
+          "id": "intro-s2",
+          "kind": "template",
+          "text": "Повний список джерел доступний на сайті BRIEF.",
+          "original_text": "Повний список джерел доступний на сайті BRIEF.",
+          "speech_text": "Повний список джерел доступний на сайті Бріф.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        },
+        {
+          "id": "intro-s3",
+          "kind": "template",
+          "text": "Випуск за двадцять четверте жовтня.",
+          "original_text": "Випуск за двадцять четверте жовтня.",
+          "speech_text": "Випуск за двадцять четверте жовтня.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ]
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "sentences": [
+        {
+          "id": "national-heading-s1",
+          "kind": "template",
+          "text": "Новини України.",
+          "original_text": "Новини України.",
+          "speech_text": "Новини України.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ]
+    },
+    {
+      "id": "national-c-1e21b748fe94b479",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 1,
+      "cluster_id": "c-1e21b748fe94b479",
+      "title": "Дев'ятеро людей отримали травми й поранення під час обстрілів Краматорська й Слов'янська 23 жовтня",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "donetsk"
+      ],
+      "score": 0.9273,
+      "score_breakdown": {
+        "casualties": 1.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 0.7,
+        "recency": 0.915,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 7,
+      "must_include": true,
+      "sentences": [
+        {
+          "id": "c-1e21b748fe94b479-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "23 жовтня російські війська атакували Краматорськ і Слов'янськ.",
+          "text": "23 жовтня російські війська атакували Краматорськ і Слов'янськ.",
+          "original_text": "23 жовтня російські війська атакували Краматорськ і Слов'янськ.",
+          "speech_text": "23 жовтня російські війська атакували Краматорськ і Слов'янськ.",
+          "speech_warnings": [],
+          "from_item": "c3773ad0b7ae6080",
+          "claims": [
+            {
+              "type": "number",
+              "value": "23",
+              "found_in": [
+                "574038056b25e8db",
+                "c3773ad0b7ae6080",
+                "dd084e183bd34124",
+                "d04af3e755b7e0be",
+                "7107d753178136b5"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Краматорськ",
+              "found_in": [
+                "c3773ad0b7ae6080"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Слов'янськ",
+              "found_in": [
+                "3b18c0d5884e93ed",
+                "574038056b25e8db",
+                "c3773ad0b7ae6080",
+                "dd084e183bd34124",
+                "d277930815785553",
+                "1e21b748fe94b479",
+                "d04af3e755b7e0be",
+                "7107d753178136b5",
+                "388ccf4bc802d0ba"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "жовт",
+              "found_in": [
+                "574038056b25e8db",
+                "c3773ad0b7ae6080",
+                "dd084e183bd34124",
+                "d04af3e755b7e0be",
+                "7107d753178136b5"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "атак"
+          ],
+          "reasons": [
+            "чутлива тема (атак); незалежних джерел: 7"
+          ],
+          "editor_confirmed": false
+        },
+        {
+          "id": "c-1e21b748fe94b479-s2",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.",
+          "text": "Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.",
+          "original_text": "Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.",
+          "speech_text": "Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів.",
+          "speech_warnings": [],
+          "from_item": "c3773ad0b7ae6080",
+          "claims": [
+            {
+              "type": "number",
+              "value": "20",
+              "found_in": [
+                "574038056b25e8db",
+                "c3773ad0b7ae6080"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "поранен",
+            "обстріл",
+            "удар"
+          ],
+          "reasons": [
+            "чутлива тема (поранен, обстріл, удар); незалежних джерел: 7"
+          ],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "3b18c0d5884e93ed",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/23/775678_slovyansku_vid_rosiyskogo.html",
+          "title": "У Словʼянську від російського авіаудару постраждали люди",
+          "published_at": "2026-10-23T15:20:00+00:00"
+        },
+        {
+          "item_id": "574038056b25e8db",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404247-u-slovyansku-vnaslidok-aviaudaru-poraneni-dvi-zhinky-ova",
+          "title": "У Слов’янську внаслідок авіаудару поранені дві жінки, — ОВА",
+          "published_at": "2026-10-23T15:54:59+00:00"
+        },
+        {
+          "item_id": "c3773ad0b7ae6080",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1435459-devatero-ludej-otrimali-travmi-j-poranenna-pid-cas-obstriliv-kramatorska-j-slovanska-23-zovtna",
+          "title": "Дев'ятеро людей отримали травми й поранення під час обстрілів Краматорська й Слов'янська 23 жовтня",
+          "published_at": "2026-10-23T16:05:32+00:00"
+        },
+        {
+          "item_id": "dd084e183bd34124",
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-obstrilialy-sloviansk-poranyly-dvokh-tsyvilnykh",
+          "title": "Росіяни обстріляли Слов’янськ: поранили двох цивільних",
+          "published_at": "2026-10-23T16:27:14+00:00"
+        },
+        {
+          "item_id": "d277930815785553",
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/u-likarni-pomerla-zinka-poranena-vcora-vnaslidok-bombovogo-udaru-po-sloviansku-misto-perezilo-12-udariv",
+          "title": "У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов’янську: місто пережило 12 ударів",
+          "published_at": "2026-10-24T06:11:00+00:00"
+        },
+        {
+          "item_id": "1e21b748fe94b479",
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/u-likarni-pomierla-zhinka-poraniena-vchora-vnaslidok-bombovogho-udaru-po-sloviansku-foto",
+          "title": "У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов'янську (фото)",
+          "published_at": "2026-10-24T06:15:00+00:00"
+        },
+        {
+          "item_id": "d04af3e755b7e0be",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404295-u-slovyansku-pomerla-62-richna-zhinka-poranena-pid-chas-rosijskogo-aviaudaru",
+          "title": "У Слов’янську померла 62-річна жінка, поранена під час російського авіаудару",
+          "published_at": "2026-10-24T06:40:30+00:00"
+        },
+        {
+          "item_id": "7107d753178136b5",
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/u-sloviansku-pomerla-zhinka-poranena-pid-chas-aviaudaru-23-zhovtnia-za-dobu-misto-atakuvaly-12-raziv",
+          "title": "У Слов’янську померла жінка, поранена під час авіаудару 23 жовтня: за добу місто атакували 12 разів",
+          "published_at": "2026-10-24T07:36:43+00:00"
+        },
+        {
+          "item_id": "388ccf4bc802d0ba",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225564.html",
+          "title": "Одна з постраждалих внаслідок ворожого авіаудару по Слов'янську померла в лікарні",
+          "published_at": "2026-10-24T08:12:35+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-36a4f9a44fb5fe60",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 2,
+      "cluster_id": "c-36a4f9a44fb5fe60",
+      "title": "У Києві та області екстрені відключення світла",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "kyiv"
+      ],
+      "score": 0.8842,
+      "score_breakdown": {
+        "casualties": 0.267,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.961,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 5,
+      "must_include": true,
+      "sentences": [
+        {
+          "id": "c-36a4f9a44fb5fe60-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.",
+          "text": "У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.",
+          "original_text": "У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.",
+          "speech_text": "У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.",
+          "speech_warnings": [],
+          "from_item": "6bb0f65ac1307abb",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Голосієвського",
+              "found_in": [
+                "e8fe42d2be6dfc21",
+                "6bb0f65ac1307abb",
+                "e1fa555978660d74"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Соломянського",
+              "found_in": [
+                "6bb0f65ac1307abb"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Києва",
+              "found_in": [
+                "e8fe42d2be6dfc21",
+                "6bb0f65ac1307abb",
+                "b7951a2dc42ba85b",
+                "e1fa555978660d74",
+                "36a4f9a44fb5fe60"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Київської",
+              "found_in": [
+                "6bb0f65ac1307abb"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "субот",
+              "found_in": [
+                "6bb0f65ac1307abb"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "e8fe42d2be6dfc21",
+          "name": "LB.ua",
+          "url": "https://lb.ua/kyiv/2026/10/24/775812_kiievi_oblasti_zaprovadili.html",
+          "title": "У Києві та області запровадили екстрені відключення (доповнено)",
+          "published_at": "2026-10-24T07:46:00+00:00"
+        },
+        {
+          "item_id": "6bb0f65ac1307abb",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177743-u-dvoh-rajonah-kieva-ekstreni-vidklucenna-svitla.html",
+          "title": "У Києві та області екстрені відключення світла",
+          "published_at": "2026-10-24T07:55:00+00:00"
+        },
+        {
+          "item_id": "b7951a2dc42ba85b",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/24/8059520",
+          "title": "У Києві та області ввели екстрені відключення світла",
+          "published_at": "2026-10-24T08:27:00+00:00"
+        },
+        {
+          "item_id": "e1fa555978660d74",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-kyiv-dvoie-postrazhdalyh/33883462.html",
+          "title": "Двоє жителів Києва постраждали внаслідок атаки РФ, у двох районах – екстрені знеструмлення",
+          "published_at": "2026-10-24T08:32:51+00:00"
+        },
+        {
+          "item_id": "36a4f9a44fb5fe60",
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20311346-u-chastini-kieva-ta-kiyivshchini-zaprovadili-ekstreni-vidklyuchennya-elektroenergiyi",
+          "title": "У частині Києва та Київщини запровадили екстрені відключення електроенергії",
+          "published_at": "2026-10-24T08:55:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-0700612edc45dd09",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 3,
+      "cluster_id": "c-0700612edc45dd09",
+      "title": "На Харківщині через російські обстріли постраждали семеро людей, серед них - двоє дітей",
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "regions": [
+        "kharkiv",
+        "cherkasy"
+      ],
+      "score": 0.8551,
+      "score_breakdown": {
+        "casualties": 0.988,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 0.4,
+        "recency": 0.846,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 7,
+      "must_include": true,
+      "sentences": [
+        {
+          "id": "c-0700612edc45dd09-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.",
+          "text": "Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.",
+          "original_text": "Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.",
+          "speech_text": "Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.",
+          "speech_warnings": [],
+          "from_item": "4a33e6e5fdb4707a",
+          "claims": [
+            {
+              "type": "number",
+              "value": "15",
+              "found_in": [
+                "b0f0cbe493056d9d",
+                "0700612edc45dd09",
+                "1e32a15a0e3864a7",
+                "81155aa1d6b86b6a",
+                "4a33e6e5fdb4707a",
+                "6f127b698fbf6357",
+                "6ab7b433f591e5d6",
+                "32b5549df892be2c"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Харківської",
+              "found_in": [
+                "b0f0cbe493056d9d",
+                "0700612edc45dd09",
+                "1e32a15a0e3864a7",
+                "81155aa1d6b86b6a",
+                "4a33e6e5fdb4707a",
+                "6f127b698fbf6357",
+                "6ab7b433f591e5d6",
+                "32b5549df892be2c"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "постражд",
+            "обстріл",
+            "атак"
+          ],
+          "reasons": [
+            "чутлива тема (постражд, обстріл, атак); незалежних джерел: 7"
+          ],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "b0f0cbe493056d9d",
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/cherez-obstrili-harkivshhini-za-dobu-postrazhdali-sim-lyudej-sered-nih-dvoye-ditej",
+          "title": "Через обстріли Харківщини за добу постраждали сім людей, серед них двоє дітей",
+          "published_at": "2026-10-24T04:34:53+00:00"
+        },
+        {
+          "item_id": "0700612edc45dd09",
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosijski-vijska-atakuvali-industrialnij-rajon-harkova-ye-postrazhdala",
+          "title": "Російські війська атакували Індустріальний район Харкова: є постраждала",
+          "published_at": "2026-10-24T04:41:00+00:00"
+        },
+        {
+          "item_id": "1e32a15a0e3864a7",
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/obstrili-harkivsini-23-zovtna-semero-postrazdalih-sered-nih-dvoe-ditej.html",
+          "title": "Росія атакувала Харків і 15 населених пунктів області: серед семи постраждалих — двоє дітей",
+          "published_at": "2026-10-24T06:17:00+00:00"
+        },
+        {
+          "item_id": "81155aa1d6b86b6a",
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/semero-lyudey-sered-yakykh-dvoye-ditey-postrazhdaly-cherez-obstrily-rosiyan",
+          "title": "Росіяни поранили сімох мешканців Харківщини, серед яких двоє дітей",
+          "published_at": "2026-10-24T06:20:00+00:00"
+        },
+        {
+          "item_id": "4a33e6e5fdb4707a",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177720-na-harkivsini-cerez-rosijski-obstrili-postrazdali-semero-ludej-sered-nih-dvoe-ditej.html",
+          "title": "На Харківщині через російські обстріли постраждали семеро людей, серед них - двоє дітей",
+          "published_at": "2026-10-24T06:27:00+00:00"
+        },
+        {
+          "item_id": "6f127b698fbf6357",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/24/775794_harkivschini_cherez_rosiyski.html",
+          "title": "На Харківщині через російські обстріли постраждали семеро людей",
+          "published_at": "2026-10-24T06:29:00+00:00"
+        },
+        {
+          "item_id": "6ab7b433f591e5d6",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225545.html",
+          "title": "Семеро постраждалих, серед яких діти, внаслідок обстрілів Харківської області за добу – ОВА",
+          "published_at": "2026-10-24T06:47:55+00:00"
+        },
+        {
+          "item_id": "32b5549df892be2c",
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/10/24/obstrili-harkova-ta-oblasti-za-dobu-7-postrazhdalih-2",
+          "title": "Обстріли Харкова та області за добу: 7 постраждалих",
+          "published_at": "2026-10-24T07:04:47+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-0c3819112a60791f",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 4,
+      "cluster_id": "c-0c3819112a60791f",
+      "title": "Іран погрожує пошкодити підводні кабелі зв’язку в Ормузькій протоці",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [],
+      "score": 0.8488,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.992,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 4,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-0c3819112a60791f-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю.",
+          "text": "Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю.",
+          "original_text": "Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю.",
+          "speech_text": "Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку сполучені штати та Ізраїлю.",
+          "speech_warnings": [],
+          "from_item": "0c3819112a60791f",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Перській",
+              "found_in": [
+                "64dbc182ddd079d2",
+                "a1bfe5ac47db26b7",
+                "0c3819112a60791f"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "США",
+              "found_in": [
+                "64dbc182ddd079d2",
+                "99ec1ff3aec684a0",
+                "a1bfe5ac47db26b7",
+                "0c3819112a60791f"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Ізраїлю",
+              "found_in": [
+                "64dbc182ddd079d2",
+                "99ec1ff3aec684a0",
+                "0c3819112a60791f"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "удар",
+            "атак"
+          ],
+          "reasons": [
+            "чутлива тема (удар, атак); незалежних джерел: 4"
+          ],
+          "editor_confirmed": false
+        },
+        {
+          "id": "c-0c3819112a60791f-s2",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.",
+          "text": "Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.",
+          "original_text": "Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.",
+          "speech_text": "Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком.",
+          "speech_warnings": [],
+          "from_item": "0c3819112a60791f",
+          "claims": [],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "64dbc182ddd079d2",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/24/8059507",
+          "title": "Reuters: Іран має план ударів по підводних інтернет-кабелях у Перській затоці в разі нових атак",
+          "published_at": "2026-10-24T06:20:00+00:00"
+        },
+        {
+          "item_id": "99ec1ff3aec684a0",
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131222-reuters-iran-rozrobiv-plan-ataki-na-pidvodni-komunikaciyni-kabeli-u-razi-novogo-napadu-z-boku-ssha-ta-izrajilyu",
+          "title": "Reuters: Іран розробив план атаки на підводні комунікаційні кабелі у разі нового нападу з боку США та Ізраїлю",
+          "published_at": "2026-10-24T08:29:49+00:00"
+        },
+        {
+          "item_id": "a1bfe5ac47db26b7",
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/10/24/775822_reuters_iran_planuie_pidirvati.html",
+          "title": "Reuters: Іран планує підірвати підводні інтернет-кабелі в Перській затоці у разі нових атак США",
+          "published_at": "2026-10-24T08:38:00+00:00"
+        },
+        {
+          "item_id": "0c3819112a60791f",
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/iran-pohrozhuie-poshkodyty-pidvodni-kabeli-zviazku-v-ormuzkii-prototsi",
+          "title": "Іран погрожує пошкодити підводні кабелі зв’язку в Ормузькій протоці",
+          "published_at": "2026-10-24T09:22:32+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-0df00463818e36c3",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 5,
+      "cluster_id": "c-0df00463818e36c3",
+      "title": "Припинення вогню з 27 жовтня охопить усю Херсонщину та суміжні регіони, – омбудсмен",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "kherson"
+      ],
+      "score": 0.8394,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.929,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 14,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-0df00463818e36c3-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.",
+          "text": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.",
+          "original_text": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.",
+          "speech_text": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути.",
+          "speech_warnings": [],
+          "from_item": "54b48b4ebc3480e0",
+          "claims": [
+            {
+              "type": "number",
+              "value": "27",
+              "found_in": [
+                "52953d48390a6d4c",
+                "474648a6678cf184",
+                "55663790eced0445",
+                "372d11ba75bca188",
+                "735f16dfbf25585a",
+                "49e5f4ee247d2df5",
+                "ed62d19d146da0d2",
+                "e240e3ddfbe69083",
+                "0df00463818e36c3",
+                "c95a7ffcc4e8dcec",
+                "fa82ba01934be585",
+                "d57d8aaca28cb9bc",
+                "54b48b4ebc3480e0",
+                "c89397e9451e39ad"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Верховної",
+              "found_in": [
+                "54b48b4ebc3480e0"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Ради",
+              "found_in": [
+                "54b48b4ebc3480e0"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Дмитро",
+              "found_in": [
+                "54b48b4ebc3480e0"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Лубінець",
+              "found_in": [
+                "54b48b4ebc3480e0"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Україною",
+              "found_in": [
+                "474648a6678cf184",
+                "55663790eced0445",
+                "372d11ba75bca188",
+                "735f16dfbf25585a",
+                "49e5f4ee247d2df5",
+                "ed62d19d146da0d2",
+                "e240e3ddfbe69083",
+                "c090329cf4ae53fc",
+                "c95a7ffcc4e8dcec",
+                "fa82ba01934be585",
+                "d57d8aaca28cb9bc",
+                "54b48b4ebc3480e0",
+                "c89397e9451e39ad"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Олешках",
+              "found_in": [
+                "52953d48390a6d4c",
+                "474648a6678cf184",
+                "55663790eced0445",
+                "372d11ba75bca188",
+                "735f16dfbf25585a",
+                "49e5f4ee247d2df5",
+                "ed62d19d146da0d2",
+                "e240e3ddfbe69083",
+                "0df00463818e36c3",
+                "c090329cf4ae53fc",
+                "c95a7ffcc4e8dcec",
+                "fa82ba01934be585",
+                "d57d8aaca28cb9bc",
+                "54b48b4ebc3480e0",
+                "c89397e9451e39ad"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Херсонської",
+              "found_in": [
+                "474648a6678cf184",
+                "735f16dfbf25585a",
+                "49e5f4ee247d2df5",
+                "ed62d19d146da0d2",
+                "e240e3ddfbe69083",
+                "c95a7ffcc4e8dcec",
+                "fa82ba01934be585",
+                "d57d8aaca28cb9bc",
+                "54b48b4ebc3480e0"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "жовт",
+              "found_in": [
+                "52953d48390a6d4c",
+                "474648a6678cf184",
+                "55663790eced0445",
+                "372d11ba75bca188",
+                "735f16dfbf25585a",
+                "49e5f4ee247d2df5",
+                "ed62d19d146da0d2",
+                "e240e3ddfbe69083",
+                "0df00463818e36c3",
+                "c090329cf4ae53fc",
+                "c95a7ffcc4e8dcec",
+                "fa82ba01934be585",
+                "d57d8aaca28cb9bc",
+                "54b48b4ebc3480e0",
+                "c89397e9451e39ad"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "52953d48390a6d4c",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273075-u-rf-pidtverdyly-rezym-tyshi-bilia-oleshok-herasymov-kaze-shcho-yoho-vvedut-z-27-zovtnia",
+          "title": "Режим припинення вогню в заблокованих Олешках введуть із 27 жовтня (ДОПОВНЕНО)",
+          "published_at": "2026-10-23T18:19:00+00:00"
+        },
+        {
+          "item_id": "474648a6678cf184",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ukrajina-zaprovadzhuye-rezhim-pripinennya-vognyu-v-oleshkah-z-27-zhovtnya-50652981.html",
+          "title": "Генштаб ЗСУ запроваджує режим припинення вогню в Олешках з 27 жовтня",
+          "published_at": "2026-10-23T19:26:00+00:00"
+        },
+        {
+          "item_id": "55663790eced0445",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4177651-ukraina-zaprovadzue-rezim-pripinenna-vognu-v-rajoni-olesok-z-27-zovtna-genstab.html",
+          "title": "Україна запроваджує режим припинення вогню в районі Олешок із 27 жовтня - Генштаб",
+          "published_at": "2026-10-23T19:32:00+00:00"
+        },
+        {
+          "item_id": "372d11ba75bca188",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/23/775738_ukrayina_zaprovadzhuie_rezhim.html",
+          "title": "Україна запроваджує режим припинення вогню в Олешках для проведення гуманітарної операції",
+          "published_at": "2026-10-23T19:35:00+00:00"
+        },
+        {
+          "item_id": "735f16dfbf25585a",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/23/henshtab-nazvav-tochnyj-chas-pochatku-peremyr-ia-v-oleshkakh",
+          "title": "Генштаб назвав точний час початку «перемир’я» в Олешках",
+          "published_at": "2026-10-23T19:43:11+00:00"
+        },
+        {
+          "item_id": "49e5f4ee247d2df5",
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/ukrajina-ogolosila-rezhim-pripinennja-vognju-v-oleshkah",
+          "title": "Україна оголосила режим припинення вогню в Олешках",
+          "published_at": "2026-10-23T19:46:12+00:00"
+        },
+        {
+          "item_id": "ed62d19d146da0d2",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/syly-oborony-zaprovadzhuyut-rezhym-prypynennya-vognyu-u-oleshkah-z-03-00-27-zhovtnya-i571183",
+          "title": "Сили оборони запроваджують режим припинення вогню у Олешках з 03:00 27 жовтня",
+          "published_at": "2026-10-23T19:50:59+00:00"
+        },
+        {
+          "item_id": "e240e3ddfbe69083",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225514.html",
+          "title": "Україна запровадить припинення вогню в районі окупованих Олешків із 3:00 27 жовтня для гуманітарної операції – Генштаб",
+          "published_at": "2026-10-23T19:51:45+00:00"
+        },
+        {
+          "item_id": "0df00463818e36c3",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/zsu-oholosili-rezhim-pripinennja-vohnju-v-rajoni-okupovanikh-oleshok.html",
+          "title": "ЗСУ оголосили режим припинення вогню в районі окупованих Олешок",
+          "published_at": "2026-10-23T19:56:00+00:00"
+        },
+        {
+          "item_id": "c090329cf4ae53fc",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/23/pidsumky/novyj-obmin-polonenymy-rf-ta-domovlenist-pro-prypynennya-vohnyu-oleshkax.-holovne-den",
+          "title": "Новий обмін полоненими з рф та домовленість про припинення вогню в Олешках. Головне за день",
+          "published_at": "2026-10-23T19:56:01+00:00"
+        },
+        {
+          "item_id": "c95a7ffcc4e8dcec",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404277-ukrayina-dotrymuvatymetsya-rezhymu-prypynennya-vognyu-v-okupovanyh-oleshkah",
+          "title": "Україна дотримуватиметься режиму припинення вогню в окупованих Олешках",
+          "published_at": "2026-10-23T19:58:00+00:00"
+        },
+        {
+          "item_id": "fa82ba01934be585",
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/325431-ukraina-zaprovadyt-rezhym-prypynennia-vohniu-oleshkakh-27-zhovtnia",
+          "title": "Україна запровадить режим припинення вогню в Олешках із 27 жовтня",
+          "published_at": "2026-10-23T20:02:00+00:00"
+        },
+        {
+          "item_id": "d57d8aaca28cb9bc",
+          "name": "Букви",
+          "url": "https://bukvy.org/genshtab-ogolosyv-pro-prypynennya-vognyu-v-rajoni-oleshok-iz-27-zhovtnya",
+          "title": "Генштаб оголосив про припинення вогню в районі Олешок із 27 жовтня",
+          "published_at": "2026-10-23T20:15:38+00:00"
+        },
+        {
+          "item_id": "54b48b4ebc3480e0",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/24/ohopyt-usyu-hersonshhynu",
+          "title": "Припинення вогню з 27 жовтня охопить усю Херсонщину та суміжні регіони, – омбудсмен",
+          "published_at": "2026-10-24T07:20:06+00:00"
+        },
+        {
+          "item_id": "c89397e9451e39ad",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/24/novyna/bezpeka/ukrayina-oficzijno-zaprovadzhuye-rezhym-prypynennya-vohnyu-oleshkax-27-zhovtnya",
+          "title": "Україна офіційно запроваджує режим припинення вогню в Олешках з 27 жовтня",
+          "published_at": "2026-10-24T08:25:25+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-741d5956e4d495fd",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 6,
+      "cluster_id": "c-741d5956e4d495fd",
+      "title": "Армія росії вдарила по приватному будинку у Дніпрі, є жертва і поранені",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "dnipropetrovsk"
+      ],
+      "score": 0.8372,
+      "score_breakdown": {
+        "casualties": 1.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 0.7,
+        "recency": 0.315,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 4,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-741d5956e4d495fd-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.",
+          "text": "Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.",
+          "original_text": "Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.",
+          "speech_text": "Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення.",
+          "speech_warnings": [],
+          "from_item": "bf539d50810fb0f8",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Дніпро",
+              "found_in": [
+                "741d5956e4d495fd",
+                "bf539d50810fb0f8",
+                "f9782b95e4932a01",
+                "cfb140975b77d5e6"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "загин",
+            "поранен",
+            "атак"
+          ],
+          "reasons": [
+            "чутлива тема (загин, поранен, атак); незалежних джерел: 4"
+          ],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "741d5956e4d495fd",
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/ataka-na-peredmistia-dnipra-23-zhovtnia",
+          "title": "У передмісті Дніпра через російську атаку загинула людина, п’ятеро поранені",
+          "published_at": "2026-10-23T14:45:35+00:00"
+        },
+        {
+          "item_id": "bf539d50810fb0f8",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/23/novyna/bezpeka/armiya-rosiyi-vdaryla-po-pryvatnomu-budynku-dnipri-ye-zhertva-poraneni",
+          "title": "Армія росії вдарила по приватному будинку у Дніпрі, є жертва і поранені",
+          "published_at": "2026-10-23T14:56:35+00:00"
+        },
+        {
+          "item_id": "f9782b95e4932a01",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshhyni-vnaslidok-atak-zagynula-lyudyna-shhe-11-distaly-poranen",
+          "title": "На Дніпропетровщині внаслідок атак загинула людина, ще 11 дістали поранень",
+          "published_at": "2026-10-23T15:36:38+00:00"
+        },
+        {
+          "item_id": "cfb140975b77d5e6",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1111150-rosiiskii-udar-zruinuvav-budinok-u-dnipri-je-zagiblii-i-piatero-poranenix",
+          "title": "У Дніпрі російська атака зруйнувала будинок: є загиблий",
+          "published_at": "2026-10-23T16:50:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "national-c-29f4a5a24eed20ea",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "rank": 7,
+      "cluster_id": "c-29f4a5a24eed20ea",
+      "title": "Для завершення війни рф проти України потрібні переговори та поступки з обох сторін, – Рубіо",
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "regions": [
+        "kyiv"
+      ],
+      "score": 0.8335,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.89,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 9,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-29f4a5a24eed20ea-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Державний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.",
+          "text": "Державний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.",
+          "original_text": "Державний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.",
+          "speech_text": "Державний секретар сполучені штати Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом.",
+          "speech_warnings": [],
+          "from_item": "b476f455e658021e",
+          "claims": [
+            {
+              "type": "name",
+              "value": "США",
+              "found_in": [
+                "b8ba006ccc161824",
+                "3e717816a93d5a28",
+                "878b0fa0a8c365dd",
+                "4938a30eafc5c1ae",
+                "7f417f73f2f6d3de",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Марко",
+              "found_in": [
+                "b8ba006ccc161824",
+                "3e717816a93d5a28",
+                "4938a30eafc5c1ae",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Рубіо",
+              "found_in": [
+                "b8ba006ccc161824",
+                "78318fcde0599552",
+                "3e717816a93d5a28",
+                "878b0fa0a8c365dd",
+                "4938a30eafc5c1ae",
+                "7f417f73f2f6d3de",
+                "f7c38b46ff7d5bfe",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "України",
+              "found_in": [
+                "b8ba006ccc161824",
+                "78318fcde0599552",
+                "3e717816a93d5a28",
+                "878b0fa0a8c365dd",
+                "4938a30eafc5c1ae",
+                "7f417f73f2f6d3de",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Донбасу",
+              "found_in": [
+                "b8ba006ccc161824",
+                "78318fcde0599552",
+                "3e717816a93d5a28",
+                "878b0fa0a8c365dd",
+                "4938a30eafc5c1ae",
+                "7f417f73f2f6d3de",
+                "f7c38b46ff7d5bfe",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        },
+        {
+          "id": "c-29f4a5a24eed20ea-s2",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.",
+          "text": "Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.",
+          "original_text": "Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.",
+          "speech_text": "Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою.",
+          "speech_warnings": [],
+          "from_item": "b476f455e658021e",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Україна",
+              "found_in": [
+                "b8ba006ccc161824",
+                "78318fcde0599552",
+                "3e717816a93d5a28",
+                "878b0fa0a8c365dd",
+                "4938a30eafc5c1ae",
+                "7f417f73f2f6d3de",
+                "29f4a5a24eed20ea",
+                "b476f455e658021e"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "b8ba006ccc161824",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/viyna-v-ukrajini-marko-rubio-zayaviv-pro-klyuchovu-rol-donbasu-ta-peregovoriv-50652984.html",
+          "title": "Рубіо заявив, що війна Росії проти України насправді стосується лише Донбасу",
+          "published_at": "2026-10-23T19:58:00+00:00"
+        },
+        {
+          "item_id": "78318fcde0599552",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-rubio-ukrayina-viyna-donbas/33883212.html",
+          "title": "Рубіо про війну в Україні: «насправді вона стосується Донбасу»",
+          "published_at": "2026-10-23T21:00:19+00:00"
+        },
+        {
+          "item_id": "3e717816a93d5a28",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/24/novyna/polityka/ce-pro-odyn-rehion-krayiny-rubio-zayavyv-vijna-rf-proty-ukrayiny-zoseredzhena-navkolo-donbasu",
+          "title": "«Йдеться про один регіон»: Рубіо заявив, що війна рф проти України зосереджена навколо Донбасу",
+          "published_at": "2026-10-23T21:58:38+00:00"
+        },
+        {
+          "item_id": "878b0fa0a8c365dd",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/24/775764_derzhsekretar_ssha_zviv_viynu.html",
+          "title": "Держсекретар США звів війну в Україні лише до питання Донбасу",
+          "published_at": "2026-10-23T23:27:00+00:00"
+        },
+        {
+          "item_id": "4938a30eafc5c1ae",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225533.html",
+          "title": "Рубіо назвав ключовим питанням війни Донбас і наголосив на потребі взаємних поступок",
+          "published_at": "2026-10-24T02:59:24+00:00"
+        },
+        {
+          "item_id": "7f417f73f2f6d3de",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rubio-zajaviv-shcho-vijna-rosiji-proti-ukrajini-naspravdi-stosujetsja-donbasu.html",
+          "title": "Рубіо заявив, що війна Росії проти України насправді стосується Донбасу",
+          "published_at": "2026-10-24T04:00:00+00:00"
+        },
+        {
+          "item_id": "f7c38b46ff7d5bfe",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/heopolityka/273081-rubio-kaze-shcho-rosiysko-ukrayinska-viyna-stosuyetsia-lyshe-donbasu-naholosyv-shcho-tse-nemozlyvo-vyrishyty-voyennym-shliakhom",
+          "title": "«Неможливо вирішити воєнним шляхом». Рубіо каже, що російсько-українська війна стосується лише Донбасу",
+          "published_at": "2026-10-24T04:22:00+00:00"
+        },
+        {
+          "item_id": "29f4a5a24eed20ea",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4177733-rubio-zaaviv-so-vijna-rosii-proti-ukraini-stosuetsa-donbasu-i-zaklikav-sukati-diplomaticnij-kompromis.html",
+          "title": "Рубіо заявив, що війна Росії проти України стосується Донбасу, і закликав шукати дипломатичний компроміс",
+          "published_at": "2026-10-24T06:58:00+00:00"
+        },
+        {
+          "item_id": "b476f455e658021e",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/24/vijny-rf-proty-ukrayiny",
+          "title": "Для завершення війни рф проти України потрібні переговори та поступки з обох сторін, – Рубіо",
+          "published_at": "2026-10-24T07:48:04+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "reminder",
+      "kind": "reminder",
+      "block": "reminder",
+      "sentences": [
+        {
+          "id": "reminder-s1",
+          "kind": "template",
+          "text": "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+          "original_text": "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+          "speech_text": "Нагадуємо: ви слухаєте Бріф — новини з перевірених медіа.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        },
+        {
+          "id": "reminder-s2",
+          "kind": "template",
+          "text": "Посилання на всі джерела — на сайті BRIEF.",
+          "original_text": "Посилання на всі джерела — на сайті BRIEF.",
+          "speech_text": "Посилання на всі джерела — на сайті Бріф.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        },
+        {
+          "id": "reminder-s3",
+          "kind": "template",
+          "text": "Там само можна обрати теми й регіон — і випуск підлаштується під вас.",
+          "original_text": "Там само можна обрати теми й регіон — і випуск підлаштується під вас.",
+          "speech_text": "Там само можна обрати теми й регіон — і випуск підлаштується під вас.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ]
+    },
+    {
+      "id": "transition",
+      "kind": "transition",
+      "block": "transition",
+      "sentences": [],
+      "sound": "bumper"
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "sentences": [
+        {
+          "id": "regional-heading-s1",
+          "kind": "template",
+          "text": "А тепер — новини регіонів.",
+          "original_text": "А тепер — новини регіонів.",
+          "speech_text": "А тепер — новини регіонів.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ]
+    },
+    {
+      "id": "regional-c-0f7216b883852548",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "rank": 1,
+      "cluster_id": "c-0f7216b883852548",
+      "title": "Росіяни за добу обстріляли 35 населених пунктів Херсонщини, шестеро поранених",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "kherson"
+      ],
+      "score": 0.8261,
+      "score_breakdown": {
+        "casualties": 0.783,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 0.4,
+        "recency": 0.858,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 5,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-0f7216b883852548-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.",
+          "text": "У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.",
+          "original_text": "У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.",
+          "speech_text": "У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.",
+          "speech_warnings": [],
+          "from_item": "d8ba3477a385d301",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Херсонській",
+              "found_in": [
+                "165dab1ae20d14bb",
+                "d8ba3477a385d301",
+                "d78cee72c841e044",
+                "68c3ae819d5ee3f8",
+                "0f7216b883852548"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "постражд",
+            "атак"
+          ],
+          "reasons": [
+            "чутлива тема (постражд, атак); незалежних джерел: 5"
+          ],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "165dab1ae20d14bb",
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/na-hersonschini-cherez-rosijski-obstrili-poraneni-shestero-ljudej-2",
+          "title": "На Херсонщині через російські обстріли поранені шестеро людей",
+          "published_at": "2026-10-24T05:11:13+00:00"
+        },
+        {
+          "item_id": "d8ba3477a385d301",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177708-rosiani-za-dobu-obstrilali-35-naselenih-punktiv-hersonsini-sestero-poranenih.html",
+          "title": "Росіяни за добу обстріляли 35 населених пунктів Херсонщини, шестеро поранених",
+          "published_at": "2026-10-24T05:40:56+00:00"
+        },
+        {
+          "item_id": "d78cee72c841e044",
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/obstrily-hersonshhyny-za-dobu-zagyblyj-ta-shestero-poranenyh",
+          "title": "Обстріли Херсонщини за добу: загиблий та шестеро поранених",
+          "published_at": "2026-10-24T05:44:36+00:00"
+        },
+        {
+          "item_id": "68c3ae819d5ee3f8",
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/325435-khersonshchyni-rosiiski-obstrily-poraneni-6-liudei",
+          "title": "На Херсонщині через російські обстріли поранені 6 людей",
+          "published_at": "2026-10-24T07:16:00+00:00"
+        },
+        {
+          "item_id": "0f7216b883852548",
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/zagiblii-sestero-poranenix-i-poskodzeni-avto-naslidki-obstriliv-xersonshhini",
+          "title": "Загиблий, шестеро поранених і пошкоджені авто: наслідки обстрілів Херсонщини",
+          "published_at": "2026-10-24T07:16:28+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "regional-c-2a333d91c8d666b6",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "rank": 2,
+      "cluster_id": "c-2a333d91c8d666b6",
+      "title": "Серед звільнених з російського полону військових — захисники з Київщини",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "kyiv",
+        "chernihiv",
+        "donetsk",
+        "kharkiv",
+        "kherson",
+        "luhansk",
+        "mykolaiv",
+        "odesa",
+        "zaporizhzhia"
+      ],
+      "score": 0.8242,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.828,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 5,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-2a333d91c8d666b6-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими.",
+          "text": "Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими.",
+          "original_text": "Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими.",
+          "speech_text": "Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими.",
+          "speech_warnings": [],
+          "from_item": "b70ff69bef02b271",
+          "claims": [
+            {
+              "type": "number",
+              "value": "23",
+              "found_in": [
+                "b70ff69bef02b271",
+                "3f504e0756423092"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Росія",
+              "found_in": [
+                "e39be81c5f513229",
+                "9c9def7a56577cab",
+                "b70ff69bef02b271",
+                "3f504e0756423092",
+                "2a333d91c8d666b6"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "жовт",
+              "found_in": [
+                "b70ff69bef02b271",
+                "3f504e0756423092"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "полон"
+          ],
+          "reasons": [
+            "чутлива тема (полон); незалежних джерел: 5"
+          ],
+          "editor_confirmed": false
+        },
+        {
+          "id": "c-2a333d91c8d666b6-s2",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Наразі 270 українських військових повернулися на Батьківщину.",
+          "text": "Наразі 270 українських військових повернулися на Батьківщину.",
+          "original_text": "Наразі 270 українських військових повернулися на Батьківщину.",
+          "speech_text": "Наразі 270 українських військових повернулися на Батьківщину.",
+          "speech_warnings": [],
+          "from_item": "b70ff69bef02b271",
+          "claims": [
+            {
+              "type": "number",
+              "value": "270",
+              "found_in": [
+                "e39be81c5f513229",
+                "9c9def7a56577cab",
+                "b70ff69bef02b271"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Батьківщину",
+              "found_in": [
+                "b70ff69bef02b271"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "e39be81c5f513229",
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/290-nashih-geroyiv-vdoma-vidbuvsya-obmin-polonenimi-12010840.html",
+          "title": "270 наших Героїв вдома: відбувся обмін полоненими",
+          "published_at": "2026-10-23T12:00:00+00:00"
+        },
+        {
+          "item_id": "9c9def7a56577cab",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/v-ukrayinu-pislya-obminu-polonenymy-povernulysya-p-yatero-lyudej-yakyh-vvazhaly-zagyblymy-pid-chas-i571142",
+          "title": "В Україну після обміну полоненими повернулися п'ятеро людей, яких вважали загиблими під час російського теракту в Оленівці",
+          "published_at": "2026-10-23T13:05:00+00:00"
+        },
+        {
+          "item_id": "b70ff69bef02b271",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1435533-sered-zvilnenih-z-rosijskogo-polonu-vijskovih-zahisniki-z-kiivsini",
+          "title": "Серед звільнених з російського полону військових — захисники з Київщини",
+          "published_at": "2026-10-23T17:01:04+00:00"
+        },
+        {
+          "item_id": "3f504e0756423092",
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/z-rosijskogo-polonu-povernulisya-desyatero-zhiteliv-odeshhini",
+          "title": "З російського полону повернулися десятеро жителів Одещини",
+          "published_at": "2026-10-23T17:21:02+00:00"
+        },
+        {
+          "item_id": "2a333d91c8d666b6",
+          "name": "Махала",
+          "url": "https://mahala.com.ua/novyny/z-polonu-povernulysia-desiat-meshkantsiv-odeskoi-oblasti",
+          "title": "З полону повернулися десять мешканців Одеської області",
+          "published_at": "2026-10-24T06:46:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "regional-c-24d27d57b835980b",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "rank": 3,
+      "cluster_id": "c-24d27d57b835980b",
+      "title": "У Росії після атаки дронів палає завод \"Тольяттикаучук\", у Криму – масштабний блекаут",
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "score": 0.8242,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.828,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 4,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-24d27d57b835980b-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.",
+          "text": "У Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.",
+          "original_text": "У Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.",
+          "speech_text": "У Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.",
+          "speech_warnings": [],
+          "from_item": "ce76ffcbde2ae48f",
+          "claims": [
+            {
+              "type": "number",
+              "value": "500",
+              "found_in": [
+                "ce76ffcbde2ae48f",
+                "24d27d57b835980b"
+              ]
+            },
+            {
+              "type": "number",
+              "value": "220",
+              "found_in": [
+                "ce76ffcbde2ae48f",
+                "24d27d57b835980b"
+              ]
+            },
+            {
+              "type": "quote",
+              "value": "Тамань",
+              "found_in": [
+                "ce76ffcbde2ae48f",
+                "24d27d57b835980b"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Краснодарському",
+              "found_in": [
+                "ce76ffcbde2ae48f",
+                "24d27d57b835980b"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Керченської",
+              "found_in": [
+                "ce76ffcbde2ae48f",
+                "24d27d57b835980b"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "ad51079cf9606ecd",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/tolyatti-ataka-droniv-na-zavod-tolyattikauchuk-sprichinila-pozhezhu-ta-evakuaciyu-avtovaz-50653007.html",
+          "title": "У російському Тольятті дрони атакували хімзавод, спалахнула масштабна пожежа — відео",
+          "published_at": "2026-10-24T04:41:00+00:00"
+        },
+        {
+          "item_id": "7da971a7aec07303",
+          "name": "Букви",
+          "url": "https://bukvy.org/syly-oborony-urazyly-zavod-tolyattikauchuk-u-rosiyi",
+          "title": "Сили оборони уразили завод «Тольяттікаучук» у Росії",
+          "published_at": "2026-10-24T05:14:14+00:00"
+        },
+        {
+          "item_id": "ce76ffcbde2ae48f",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/24/775790_rosiyi_pislya_ataki_droniv.html",
+          "title": "У Росії після атаки дронів палає завод \"Тольяттикаучук\", у Криму – масштабний блекаут",
+          "published_at": "2026-10-24T06:03:00+00:00"
+        },
+        {
+          "item_id": "24d27d57b835980b",
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/news-krym-blekaut-nemaye-svitla/33883430.html",
+          "title": "У Криму вночі стався блекаут, вранці у низці міст досі немає світла",
+          "published_at": "2026-10-24T06:45:46+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "regional-c-32ebc2f42b68f2e1",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "rank": 4,
+      "cluster_id": "c-32ebc2f42b68f2e1",
+      "title": "Загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "ternopil"
+      ],
+      "score": 0.8227,
+      "score_breakdown": {
+        "casualties": 0.988,
+        "confirmations": 0.333,
+        "public_significance": 1.0,
+        "reach": 0.7,
+        "recency": 0.897,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 2,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-32ebc2f42b68f2e1-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.",
+          "text": "У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.",
+          "original_text": "У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.",
+          "speech_text": "У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини.",
+          "speech_warnings": [],
+          "from_item": "dd60bd7eb2c8562a",
+          "claims": [
+            {
+              "type": "number",
+              "value": "19",
+              "found_in": [
+                "dd60bd7eb2c8562a",
+                "32ebc2f42b68f2e1"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Борис",
+              "found_in": [
+                "dd60bd7eb2c8562a",
+                "32ebc2f42b68f2e1"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Гора",
+              "found_in": [
+                "dd60bd7eb2c8562a",
+                "32ebc2f42b68f2e1"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Тернопільщини",
+              "found_in": [
+                "dd60bd7eb2c8562a"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "жовт",
+              "found_in": [
+                "dd60bd7eb2c8562a",
+                "32ebc2f42b68f2e1"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "понеділ",
+              "found_in": [
+                "dd60bd7eb2c8562a"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [
+            "загин"
+          ],
+          "reasons": [
+            "чутлива тема (загин); незалежних джерел: 2"
+          ],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "dd60bd7eb2c8562a",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/ternopil/1435599-zaginuv-speleolog-mandrivnik-gid-boris-gora-z-ternopilsini",
+          "title": "Загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини",
+          "published_at": "2026-10-23T18:15:16+00:00"
+        },
+        {
+          "item_id": "32ebc2f42b68f2e1",
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/ridni-povidomlyayut-pro-zagibel-borisa-gori-chekayut-na-rezultat-testu-12010899.html",
+          "title": "Рідні повідомляють про загибель Бориса Гори: чекають на результат тесту ДНК",
+          "published_at": "2026-10-24T07:55:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "regional-c-11cc585d1e5e184e",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "rank": 5,
+      "cluster_id": "c-11cc585d1e5e184e",
+      "title": "Частина Сумщини знеструмлена через атаки РФ",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "sumy"
+      ],
+      "score": 0.7976,
+      "score_breakdown": {
+        "casualties": 0.506,
+        "confirmations": 0.333,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.812,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 2,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-11cc585d1e5e184e-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У частині Сумської області є знеструмлення через російську збройну агресію.",
+          "text": "У частині Сумської області є знеструмлення через російську збройну агресію.",
+          "original_text": "У частині Сумської області є знеструмлення через російську збройну агресію.",
+          "speech_text": "У частині Сумської області є знеструмлення через російську збройну агресію.",
+          "speech_warnings": [],
+          "from_item": "11cc585d1e5e184e",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Сумської",
+              "found_in": [
+                "11cc585d1e5e184e"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "eae8fd4a18f7c5c2",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/24/775788_sumschini_cherez_rosiyski.html",
+          "title": "На Сумщині через російські обстріли поранені семеро людей, у громадах є знеструмлення",
+          "published_at": "2026-10-24T05:50:00+00:00"
+        },
+        {
+          "item_id": "11cc585d1e5e184e",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177721-castina-sumsini-znestrumlena-cerez-ataki-rf.html",
+          "title": "Частина Сумщини знеструмлена через атаки РФ",
+          "published_at": "2026-10-24T06:29:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "sentences": [
+        {
+          "id": "local-volyn-heading-s1",
+          "kind": "template",
+          "text": "А тепер — Волинь.",
+          "original_text": "А тепер — Волинь.",
+          "speech_text": "А тепер — Волинь.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ],
+      "region": "volyn"
+    },
+    {
+      "id": "local-volyn-c-44dd8c5aec4eb815",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "rank": 1,
+      "cluster_id": "c-44dd8c5aec4eb815",
+      "title": "На Волині затримали жительку Донецька, яка воювала на боці Росії та збиралася виїхати до ЄС",
+      "topics": [
+        "Міжнародне",
+        "Суспільство"
+      ],
+      "regions": [
+        "volyn",
+        "donetsk"
+      ],
+      "score": 0.6493,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 1.0,
+        "public_significance": 0.4,
+        "reach": 0.7,
+        "recency": 0.662,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 5,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-44dd8c5aec4eb815-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Контррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.",
+          "text": "Контррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.",
+          "original_text": "Контррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.",
+          "speech_text": "Контррозвідка ес-бе-у затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.",
+          "speech_warnings": [],
+          "from_item": "44dd8c5aec4eb815",
+          "claims": [
+            {
+              "type": "name",
+              "value": "СБУ",
+              "found_in": [
+                "b86c83213501d88f",
+                "44dd8c5aec4eb815"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Волинській",
+              "found_in": [
+                "b86c83213501d88f",
+                "44dd8c5aec4eb815"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Донецька",
+              "found_in": [
+                "b86c83213501d88f",
+                "768adfe5e4f6a17e",
+                "9b9643b8a8cc05c9",
+                "44dd8c5aec4eb815"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Росії",
+              "found_in": [
+                "d1648bb1f309b4ed",
+                "b86c83213501d88f",
+                "768adfe5e4f6a17e",
+                "9b9643b8a8cc05c9",
+                "44dd8c5aec4eb815"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "d1648bb1f309b4ed",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273042-voiuvala-za-rf-a-potim-pryyikhala-do-ukrayiny-shchob-zrobyty-pasport-dlia-vyyizdu-do-yes-u-hoteli-na-volyni-zatrymaly-rosiysku-serzantku",
+          "title": "Воювала за рф, а потім приїхала до України, щоб зробити паспорт для виїзду до ЄС. У готелі на Волині затримали російську сержантку",
+          "published_at": "2026-10-23T09:44:00+00:00"
+        },
+        {
+          "item_id": "b86c83213501d88f",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/na-volyni-zatrymaly-meshkanku-donetska-yaka-voyuvala-za-rosiyu-ta-hotila-vyyihaty-do-yes-i571118",
+          "title": "На Волині затримали мешканку Донецька, яка воювала за Росію та хотіла виїхати до ЄС",
+          "published_at": "2026-10-23T10:34:00+00:00"
+        },
+        {
+          "item_id": "768adfe5e4f6a17e",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/23/na-volyni-zatrymaly-eksvijskovu-rf-iaka-pryikhala-oformyty-zakordonnyj-pasport",
+          "title": "На Волині затримали ексвійськову РФ, яка приїхала оформити закордонний паспорт",
+          "published_at": "2026-10-23T10:53:25+00:00"
+        },
+        {
+          "item_id": "9b9643b8a8cc05c9",
+          "name": "Бахмут IN.UA",
+          "url": "https://bahmut.in.ua/na-volyni-zatrymaly-veteranku-armiyi-rf-z-doneczka-namagalasya-vtekty-do-yes",
+          "title": "На Волині затримали ветеранку армії рф з Донецька: намагалася втекти до ЄС",
+          "published_at": "2026-10-23T11:00:00+00:00"
+        },
+        {
+          "item_id": "44dd8c5aec4eb815",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177403-na-volini-zatrimali-zitelku-donecka-aka-vouvala-na-boci-rosii-ta-zbiralasa-viihati-do-es.html",
+          "title": "На Волині затримали жительку Донецька, яка воювала на боці Росії та збиралася виїхати до ЄС",
+          "published_at": "2026-10-24T03:32:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-volyn-c-036dd1644ddf9ea8",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "rank": 2,
+      "cluster_id": "c-036dd1644ddf9ea8",
+      "title": "У Луцьку відновили подачу гарячої води після атаки РФ",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "regions": [
+        "volyn"
+      ],
+      "score": 0.5784,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.0,
+        "public_significance": 0.7,
+        "reach": 0.7,
+        "recency": 0.889,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 1,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-036dd1644ddf9ea8-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.",
+          "text": "У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.",
+          "original_text": "У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.",
+          "speech_text": "У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.",
+          "speech_warnings": [],
+          "from_item": "036dd1644ddf9ea8",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Луцьку",
+              "found_in": [
+                "036dd1644ddf9ea8"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "036dd1644ddf9ea8",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177742-u-lucku-vidnovili-podacu-garacoi-vodi-pisla-ataki-rf.html",
+          "title": "У Луцьку відновили подачу гарячої води після атаки РФ",
+          "published_at": "2026-10-24T07:47:42+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-volyn-c-61208608f4e3192e",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "rank": 3,
+      "cluster_id": "c-61208608f4e3192e",
+      "title": "На Волині вилучили сигарети без акцизу і вейпи на 1,8 мільйона гривень",
+      "topics": [
+        "Суспільство"
+      ],
+      "regions": [
+        "volyn"
+      ],
+      "score": 0.4408,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.0,
+        "public_significance": 0.0,
+        "reach": 1.0,
+        "recency": 0.272,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 1,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-61208608f4e3192e-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.",
+          "text": "У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.",
+          "original_text": "У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.",
+          "speech_text": "У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб.",
+          "speech_warnings": [],
+          "from_item": "61208608f4e3192e",
+          "claims": [
+            {
+              "type": "number",
+              "value": "37",
+              "found_in": [
+                "61208608f4e3192e"
+              ]
+            },
+            {
+              "type": "number",
+              "value": "1.8",
+              "found_in": [
+                "61208608f4e3192e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Володимира",
+              "found_in": [
+                "61208608f4e3192e"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "61208608f4e3192e",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1435203-na-volini-vilucili-sigareti-bez-akcizu-i-vejpi-na-18-miljona-griven",
+          "title": "На Волині вилучили сигарети без акцизу і вейпи на 1,8 мільйона гривень",
+          "published_at": "2026-10-23T14:42:44+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "sentences": [
+        {
+          "id": "local-khmelnytskyi-heading-s1",
+          "kind": "template",
+          "text": "Далі — новини регіону: Хмельниччина.",
+          "original_text": "Далі — новини регіону: Хмельниччина.",
+          "speech_text": "Далі — новини регіону: Хмельниччина.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ],
+      "region": "khmelnytskyi"
+    },
+    {
+      "id": "local-khmelnytskyi-c-c3df75f732eff40e",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "rank": 1,
+      "cluster_id": "c-c3df75f732eff40e",
+      "title": "На Старокостянтинівщині відкрили меморіальну дошку загиблому захиснику Віталію Пастуху",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "regions": [
+        "khmelnytskyi",
+        "zaporizhzhia"
+      ],
+      "score": 0.6227,
+      "score_breakdown": {
+        "casualties": 1.0,
+        "confirmations": 0.0,
+        "public_significance": 1.0,
+        "reach": 0.0,
+        "recency": 0.818,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 1,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-c3df75f732eff40e-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.",
+          "text": "Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.",
+          "original_text": "Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.",
+          "speech_text": "Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.",
+          "speech_warnings": [],
+          "from_item": "c3df75f732eff40e",
+          "claims": [
+            {
+              "type": "number",
+              "value": "29",
+              "found_in": [
+                "c3df75f732eff40e"
+              ]
+            },
+            {
+              "type": "number",
+              "value": "2025",
+              "found_in": [
+                "c3df75f732eff40e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Запоріжжі",
+              "found_in": [
+                "c3df75f732eff40e"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "жовт",
+              "found_in": [
+                "c3df75f732eff40e"
+              ]
+            }
+          ],
+          "status": "needs_review",
+          "sensitive": [
+            "загин",
+            "бойов"
+          ],
+          "reasons": [
+            "згадано минулі роки (2025) — перевірте, чи це нова подія",
+            "чутлива тема (загин, бойов); незалежних джерел: 1"
+          ],
+          "editor_confirmed": true,
+          "confirmed_by": "auto"
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "c3df75f732eff40e",
+          "name": "Є",
+          "url": "https://ye.ua/syspilstvo/80830_Na_Starokostyantinivschini_vidkrili_memorialnu_doshku_zagiblomu_zahisniku_Vitaliyi_Pastuhu.html",
+          "title": "На Старокостянтинівщині відкрили меморіальну дошку загиблому захиснику Віталію Пастуху",
+          "published_at": "2026-10-24T06:35:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-khmelnytskyi-c-4d61272796c440eb",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "rank": 2,
+      "cluster_id": "c-4d61272796c440eb",
+      "title": "У Києві відновили рух поїздів між станціями Видубичі та Славутич — КМДА",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "khmelnytskyi",
+        "kyiv"
+      ],
+      "score": 0.5309,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.667,
+        "public_significance": 0.7,
+        "reach": 0.0,
+        "recency": 0.839,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 3,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-4d61272796c440eb-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.",
+          "text": "У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.",
+          "original_text": "У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.",
+          "speech_text": "У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.",
+          "speech_warnings": [],
+          "from_item": "943f8cbe77599494",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Києві",
+              "found_in": [
+                "943f8cbe77599494",
+                "4d61272796c440eb",
+                "6df44e13c26e6f41"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Видубичі",
+              "found_in": [
+                "943f8cbe77599494",
+                "4d61272796c440eb",
+                "6df44e13c26e6f41"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Славутич",
+              "found_in": [
+                "943f8cbe77599494",
+                "4d61272796c440eb",
+                "6df44e13c26e6f41"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "943f8cbe77599494",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/u-kiyevi-vidnovili-ruh-pojizdiv-na-zeleniy-gilci-mizh-vidubichami-ta-slavutichem-50653004.html",
+          "title": "У Києві відновили рух поїздів між станціями Видубичі та Славутич — КМДА",
+          "published_at": "2026-10-24T03:26:00+00:00"
+        },
+        {
+          "item_id": "4d61272796c440eb",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4177717-u-kievi-vidnovili-ruh-poizdiv-miz-stanciami-metro-vidubici-ta-slavutic.html",
+          "title": "У Києві відновили рух поїздів між станціями метро «Видубичі» та «Славутич»",
+          "published_at": "2026-10-24T06:22:00+00:00"
+        },
+        {
+          "item_id": "6df44e13c26e6f41",
+          "name": "LB.ua",
+          "url": "https://lb.ua/kyiv/2026/10/24/775800_kiievi_vidnovili_ruh_poyizdiv.html",
+          "title": "У Києві відновили рух поїздів метро між станціями \"Видубичі\" та \"Славутич\"",
+          "published_at": "2026-10-24T06:57:00+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-khmelnytskyi-c-08765d5f6345c248",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "rank": 3,
+      "cluster_id": "c-08765d5f6345c248",
+      "title": "На Хмельниччині чоловік віддав шахраям 14 тисяч за оренду квартири",
+      "topics": [
+        "Суспільство"
+      ],
+      "regions": [
+        "khmelnytskyi"
+      ],
+      "score": 0.4171,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.0,
+        "public_significance": 0.0,
+        "reach": 0.4,
+        "recency": 0.914,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 1,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-08765d5f6345c248-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.",
+          "text": "Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.",
+          "original_text": "Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.",
+          "speech_text": "Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.",
+          "speech_warnings": [],
+          "from_item": "08765d5f6345c248",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Старокостянтинова",
+              "found_in": [
+                "08765d5f6345c248"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "08765d5f6345c248",
+          "name": "Є",
+          "url": "https://ye.ua/cruminal/80833_Na_Hmelnichchini_cholovik_viddav_shahrayam_14_tisyach_za_orendu_kvartiri.html",
+          "title": "На Хмельниччині чоловік віддав шахраям 14 тисяч за оренду квартири",
+          "published_at": "2026-10-24T08:11:41+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "sentences": [
+        {
+          "id": "local-zakarpattia-heading-s1",
+          "kind": "template",
+          "text": "Закарпаття: головне за добу.",
+          "original_text": "Закарпаття: головне за добу.",
+          "speech_text": "Закарпаття: головне за добу.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ],
+      "region": "zakarpattia"
+    },
+    {
+      "id": "local-zakarpattia-c-38560f809374ff08",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "rank": 1,
+      "cluster_id": "c-38560f809374ff08",
+      "title": "У Мукачеві попрощалися із 43-річним захисником Андрієм Сальниковим",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "regions": [
+        "zakarpattia",
+        "donetsk"
+      ],
+      "score": 0.575,
+      "score_breakdown": {
+        "casualties": 0.931,
+        "confirmations": 0.333,
+        "public_significance": 1.0,
+        "reach": 0.0,
+        "recency": 0.236,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 2,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-38560f809374ff08-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.",
+          "text": "У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.",
+          "original_text": "У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.",
+          "speech_text": "У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим.",
+          "speech_warnings": [],
+          "from_item": "e652c03b25302567",
+          "claims": [
+            {
+              "type": "number",
+              "value": "43",
+              "found_in": [
+                "38560f809374ff08",
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Мукачеві",
+              "found_in": [
+                "38560f809374ff08",
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Андрієм",
+              "found_in": [
+                "38560f809374ff08",
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Сальниковим",
+              "found_in": [
+                "38560f809374ff08",
+                "e652c03b25302567"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        },
+        {
+          "id": "c-38560f809374ff08-s2",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Захисник загинув 15 січня 2024 року на Донецькому напрямку.",
+          "text": "Захисник загинув 15 січня 2024 року на Донецькому напрямку.",
+          "original_text": "Захисник загинув 15 січня 2024 року на Донецькому напрямку.",
+          "speech_text": "Захисник загинув 15 січня 2024 року на Донецькому напрямку.",
+          "speech_warnings": [],
+          "from_item": "e652c03b25302567",
+          "claims": [
+            {
+              "type": "number",
+              "value": "15",
+              "found_in": [
+                "38560f809374ff08",
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "number",
+              "value": "2024",
+              "found_in": [
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Донецькому",
+              "found_in": [
+                "e652c03b25302567"
+              ]
+            },
+            {
+              "type": "date",
+              "value": "січ",
+              "found_in": [
+                "e652c03b25302567"
+              ]
+            }
+          ],
+          "status": "needs_review",
+          "sensitive": [
+            "загин"
+          ],
+          "reasons": [
+            "згадано минулі роки (2024) — перевірте, чи це нова подія",
+            "чутлива тема (загин); незалежних джерел: 2"
+          ],
+          "editor_confirmed": true,
+          "confirmed_by": "auto"
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "38560f809374ff08",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/u-mukachevi-v-ostannyu-dorohu-provely-polehloho-voyina-andriya-salnykova",
+          "title": "У Мукачеві в останню дорогу провели полеглого воїна Андрія Сальникова",
+          "published_at": "2026-10-23T12:08:56+00:00"
+        },
+        {
+          "item_id": "e652c03b25302567",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1435195-u-mukacevi-poprosalisa-iz-43-ricnim-zahisnikom-andriem-salnikovim",
+          "title": "У Мукачеві попрощалися із 43-річним захисником Андрієм Сальниковим",
+          "published_at": "2026-10-23T12:39:19+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-zakarpattia-c-523d3fa1695e4741",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "rank": 2,
+      "cluster_id": "c-523d3fa1695e4741",
+      "title": "Завдали збитків на понад 285 тисяч грн на ремонті тротуару: на Закарпатті двом посадовцям повідомили про підозру",
+      "topics": [
+        "Економіка",
+        "Бізнес"
+      ],
+      "regions": [
+        "zakarpattia"
+      ],
+      "score": 0.5314,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.333,
+        "public_significance": 0.7,
+        "reach": 0.7,
+        "recency": 0.243,
+        "geographic_relevance": 1.0,
+        "novelty": 1.0
+      },
+      "independent_sources": 2,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-523d3fa1695e4741-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.",
+          "text": "У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.",
+          "original_text": "У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.",
+          "speech_text": "У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.",
+          "speech_warnings": [],
+          "from_item": "523d3fa1695e4741",
+          "claims": [
+            {
+              "type": "number",
+              "value": "285",
+              "found_in": [
+                "523d3fa1695e4741",
+                "f554946f83cb1f5e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Берегово",
+              "found_in": [
+                "523d3fa1695e4741",
+                "f554946f83cb1f5e"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Управління",
+              "found_in": [
+                "523d3fa1695e4741",
+                "f554946f83cb1f5e"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "523d3fa1695e4741",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1435241-zavdali-zbitkiv-na-ponad-285-tisac-grn-na-remonti-trotuaru-na-zakarpatti-dvom-posadovcam-povidomili-pro-pidozru",
+          "title": "Завдали збитків на понад 285 тисяч грн на ремонті тротуару: на Закарпатті двом посадовцям повідомили про підозру",
+          "published_at": "2026-10-23T12:44:43+00:00"
+        },
+        {
+          "item_id": "f554946f83cb1f5e",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/posadovtsya-miskrady-u-berehovi-pidozryuyut-u-makhinatsiyakh-na-remonti-trotuaru",
+          "title": "Посадовця міськради у Берегові підозрюють у махінаціях на ремонті тротуару",
+          "published_at": "2026-10-23T13:04:11+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "local-zakarpattia-c-98175daa675d6bdc",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "rank": 3,
+      "cluster_id": "c-98175daa675d6bdc",
+      "title": "На Закарпатті чоловік «купив» чотирьох дітей і втік за кордон — Лубінець",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "zakarpattia"
+      ],
+      "score": 0.5289,
+      "score_breakdown": {
+        "casualties": 0.0,
+        "confirmations": 0.0,
+        "public_significance": 1.0,
+        "reach": 1.0,
+        "recency": 0.326,
+        "geographic_relevance": 1.0,
+        "novelty": 0.3
+      },
+      "independent_sources": 1,
+      "must_include": false,
+      "sentences": [
+        {
+          "id": "c-98175daa675d6bdc-s1",
+          "kind": "fact",
+          "attribution": null,
+          "attribution_text": "",
+          "attribution_position": null,
+          "body": "Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.",
+          "text": "Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.",
+          "original_text": "Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.",
+          "speech_text": "Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець.",
+          "speech_warnings": [],
+          "from_item": "98175daa675d6bdc",
+          "claims": [
+            {
+              "type": "name",
+              "value": "Україні",
+              "found_in": [
+                "98175daa675d6bdc"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Дмитро",
+              "found_in": [
+                "98175daa675d6bdc"
+              ]
+            },
+            {
+              "type": "name",
+              "value": "Лубінець",
+              "found_in": [
+                "98175daa675d6bdc"
+              ]
+            }
+          ],
+          "status": "verified",
+          "sensitive": [],
+          "reasons": [],
+          "editor_confirmed": false
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "98175daa675d6bdc",
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/life/143815-na-zakarpatti-cholovik-kupyv-chotyrokh-ditey-i-vtik-za-kordon-lubinets",
+          "title": "На Закарпатті чоловік «купив» чотирьох дітей і втік за кордон — Лубінець",
+          "published_at": "2026-10-23T17:19:28+00:00"
+        }
+      ],
+      "include": true
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "kind": "template",
+          "text": "Це були новини BRIEF за двадцять четверте жовтня.",
+          "original_text": "Це були новини BRIEF за двадцять четверте жовтня.",
+          "speech_text": "Це були новини Бріф за двадцять четверте жовтня.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        },
+        {
+          "id": "outro-s2",
+          "kind": "template",
+          "text": "Посилання на першоджерела — на сайті BRIEF.",
+          "original_text": "Посилання на першоджерела — на сайті BRIEF.",
+          "speech_text": "Посилання на першоджерела — на сайті Бріф.",
+          "status": "verified",
+          "claims": [],
+          "reasons": [],
+          "sensitive": [],
+          "editor_confirmed": false,
+          "speech_warnings": []
+        }
+      ]
+    }
+  ],
+  "evidence": {
+    "3b18c0d5884e93ed": "У Словʼянську від російського авіаудару постраждали люди. Також ворог знищив автобуси місцевого перевізника.",
+    "574038056b25e8db": "У Слов’янську внаслідок авіаудару поранені дві жінки, — ОВА. 23 жовтня близько 16:00 російські війська завдали авіаудару по Слов’янську на Донеччині, повідомив начальник Слов’янської МВА Вадим Лях. За його словами, внаслідок удару пошкоджені багатоповерхові будинки, автомобілі та магазин. Поранення дістали дві жінки віком 54 та 62 роки. Обох госпіталізували. Пізніше внаслідок обстрілу також були пошкоджені автобуси місцевого перевізника. Знищено 20 одиниць транспорту. Нагадаємо, за […]",
+    "c3773ad0b7ae6080": "Дев'ятеро людей отримали травми й поранення під час обстрілів Краматорська й Слов'янська 23 жовтня. 23 жовтня російські війська атакували Краматорськ і Слов'янськ. Внаслідок ворожих обстрілів та ударів дронами поранень зазнали дев'ятеро людей, пошкоджено житлові будинки, автівки, магазин та знищено 20 автобусів",
+    "dd084e183bd34124": "Росіяни обстріляли Слов’янськ: поранили двох цивільних. 23 жовтня біля 16:00 росіяни завдали авіаудар по Словʼянську. Дві місцеві жінки дістали поранення. Про це повідомив начальник Слов’янської МВА Вадим Лях. “Пошкоджено багатоповерхові будинки, автівки, магазин. Поранення отримали дві жінки — 54 та 62 років. Обидві госпіталізовані. Трохи пізніше ворожий обстріл пошкодив автобуси місцевого…",
+    "d277930815785553": "У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов’янську: місто пережило 12 ударів. Російські війська продовжують обстрілювати Слов’янськ, завдаючи ударів по житлових кварталах і цивільній інфраструктурі. Внаслідок вчорашнього авіаудару ФАБ-250 поранення дістали четверо людей. Одна з постраждалих, 62-річна жінка, померла в лікарні.",
+    "1e21b748fe94b479": "У лікарні померла жінка, поранена вчора внаслідок бомбового удару по Слов'янську (фото). У лікарні померла 62-річна жінка, яка була поранена в результа",
+    "d04af3e755b7e0be": "У Слов’янську померла 62-річна жінка, поранена під час російського авіаудару. У лікарні померла 62-річна жителька Слов’янська, яка дістала поранення під час російського авіаудару 23 жовтня. Російські війська скинули авіабомбу ФАБ-250 на район багатоповерхової забудови міста. Про це у суботу, 24 жовтня, повідомив начальник Слов’янської міської військової адміністрації Вадим Лях. За його словами , медики боролися за життя жінки, однак врятувати її не вдалося. Загалом унаслідок […]",
+    "7107d753178136b5": "У Слов’янську померла жінка, поранена під час авіаудару 23 жовтня: за добу місто атакували 12 разів. У лікарні померла 62-річна жителька Слов’янська, яка напередодні постраждала від російського авіаудару по району багатоповерхової забудови. Медики намагалися врятувати її життя, однак поранення виявилися смертельними. Про це повідомив начальник Слов’янської міської військової адміністрації Вадим Лях уранці 24 жовтня. За словами очільника, 23 жовтня російські військові…",
+    "388ccf4bc802d0ba": "Одна з постраждалих внаслідок ворожого авіаудару по Слов'янську померла в лікарні. Поранена в результаті авіаційного удару у п'ятницю по району багатоповерхової забудови у місті Слов'янськ Донецької області 62-річна жінка померла у лікарні, повідомив начальник Слов'янської міської військової адміністрації (МВА) Вадим Лях у суботу вранці.",
+    "e8fe42d2be6dfc21": "У Києві та області запровадили екстрені відключення (доповнено). Ідеться про Голосіївський та Солом'янський райони.",
+    "6bb0f65ac1307abb": "У Києві та області екстрені відключення світла. У частині Голосієвського та Соломянського районів Києва та чотирьох районах Київської області у суботу вранці застосовані екстрені відключення електроенергії.",
+    "b7951a2dc42ba85b": "У Києві та області ввели екстрені відключення світла. ",
+    "e1fa555978660d74": "Двоє жителів Києва постраждали внаслідок атаки РФ, у двох районах – екстрені знеструмлення. Екстрені відключення запровадили в частині Голосіївського та Солом’янського районів столиці",
+    "36a4f9a44fb5fe60": "У частині Києва та Київщини запровадили екстрені відключення електроенергії. За командою «Укренерго» без світла опинилися райони столиці та чотири райони області",
+    "b0f0cbe493056d9d": "Через обстріли Харківщини за добу постраждали сім людей, серед них двоє дітей. Протягом доби російські війська обстріляли Харків і ще 15 населених пунктів Харківщини. Внаслідок цього постраждали сім людей, зокрема двоє дітей. Про це повідомив начальник Харківської військової адміністрації Олег Синєгубов. У Харкові поранено 12-річну дівчинку , а також отримали гостру реакцію на стрес жінки 46 і 37 років та 13-річний хлопчик. У селі Черкаські Тишки Циркунівської громади зазнали поранень чоловіки 57 і 52 років. У селищі Близнюки отримала гостру реакцію на стрес 39-річна жінка.",
+    "0700612edc45dd09": "Російські війська атакували Індустріальний район Харкова: є постраждала. Вранці 24 жовтня російські війська завдали удару по Індустріальному району Харкова бойовим дроном. Внаслідок цього постраждала жінка. Про це повідомили начальник Харківської обласної військової адміністрації Олег Синєгубов та мер міста Ігор Терехов. За їхніми даними, 64-річна жінка отримала гостру реакцію на стрес. Медики надають їй необхідну допомогу. Нагадаємо, що протягом доби російські війська обстріляли Харків і ще 15 населених пунктів Харківщини. Внаслідок цього постраждали сім людей, зокрема двоє дітей.",
+    "1e32a15a0e3864a7": "Росія атакувала Харків і 15 населених пунктів області: серед семи постраждалих — двоє дітей. Протягом 23 жовтня російські війська завдали ударів по Харкову та 15 населених пунктах Харківської області. Внаслідок атак постраждали семеро людей, серед яких двоє дітей. Пошкоджено житлові будинки, підприємства, автомобілі та інші об’єкти цивільної інфраструктури.",
+    "81155aa1d6b86b6a": "Росіяни поранили сімох мешканців Харківщини, серед яких двоє дітей. Окупанти обстріляли Харків та ще 15 населених пунктів.",
+    "4a33e6e5fdb4707a": "На Харківщині через російські обстріли постраждали семеро людей, серед них - двоє дітей. Російські війська за добу атакували обласний центр і ще 15 населених пунктів Харківської області, внаслідок обстрілів постраждали семеро людей, зокрема двоє дітей.",
+    "6f127b698fbf6357": "На Харківщині через російські обстріли постраждали семеро людей. Під ударами РФ опинилися Харків і 15 населених пунктів області. Пошкоджено житлові будинки, підприємства, автомобілі, будівлю цирку.",
+    "6ab7b433f591e5d6": "Семеро постраждалих, серед яких діти, внаслідок обстрілів Харківської області за добу – ОВА. Російські окупанти протягом минулої доби завдали ударів по Харкову і 15 населених пунктах області, постраждали семеро людей, у тому числі двоє дітей, повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов",
+    "32b5549df892be2c": "Обстріли Харкова та області за добу: 7 постраждалих. Ворожих ударів зазнали Харків і 15 населених пунктів Харківської області.",
+    "64dbc182ddd079d2": "Reuters: Іран має план ударів по підводних інтернет-кабелях у Перській затоці в разі нових атак. За даними Reuters, Іран розробив плани щодо атак на підводні телекомунікаційні кабелі у разі нападів з боку США чи Ізраїлю.",
+    "99ec1ff3aec684a0": "Reuters: Іран розробив план атаки на підводні комунікаційні кабелі у разі нового нападу з боку США та Ізраїлю. ",
+    "a1bfe5ac47db26b7": "Reuters: Іран планує підірвати підводні інтернет-кабелі в Перській затоці у разі нових атак США. Тегеран створив \"план Б\" на випадок провалу переговорів.",
+    "0c3819112a60791f": "Іран погрожує пошкодити підводні кабелі зв’язку в Ормузькій протоці. Іран розробив план атак на підводні кабелі зв’язку в Перській затоці на випадок нових ударів з боку США та Ізраїлю. Тегеран також розглядає можливість перешкоджати ремонту пошкодженої інфраструктури, щоб якомога довше зберігати перебої зі зв’язком. Про це повідомляє Reuters із посиланням на двох високопоставлених іранських посадовців. The post Іран погрожує пошкодити підводні кабелі зв’язку в Ормузькій протоці appeared first on Фарватер. Схід .",
+    "52953d48390a6d4c": "Режим припинення вогню в заблокованих Олешках введуть із 27 жовтня (ДОПОВНЕНО). ",
+    "474648a6678cf184": "Генштаб ЗСУ запроваджує режим припинення вогню в Олешках з 27 жовтня. Україна запроваджує режим припинення вогню у районі тимчасово окупованих Олешок Херсонської області з 03:00 27 жовтня за київським часом.",
+    "55663790eced0445": "Україна запроваджує режим припинення вогню в районі Олешок із 27 жовтня - Генштаб. З ночі 27 жовтня Україна запроваджує режим припинення вогню у визначеному районі для проведення гуманітарної операції в тимчасово окупованих Олешках.",
+    "372d11ba75bca188": "Україна запроваджує режим припинення вогню в Олешках для проведення гуманітарної операції. Він розпочнеться з 03:00 год 27 жовтня.",
+    "735f16dfbf25585a": "Генштаб назвав точний час початку «перемир’я» в Олешках. Генеральний штаб ЗСУ повідомив про час запровадження «режиму тиші» для проведення гуманітарної операції в тимчасово окупованих Олешках Херсонської області. Припинення вогню з українського боку розпочнеться 27 жовтня о 03:00 за київським часом. Про це повідомили у пресслужбі відомства. «Сили оборони України роблять усе можливе для допомоги мешканцям Олешок і докладуть максимальних зусиль для забезпечення безпеки … Continue reading Генштаб назвав точний час початку «перемир’я» в Олешках →",
+    "49e5f4ee247d2df5": "Україна оголосила режим припинення вогню в Олешках. Україна запроваджує режим припинення вогню у визначеному районі тимчасово окупованих Олешок на Херсонщині задля проведення гуманітарної операції. Про це повідомили у Генштабі ЗСУ. Режим припинення вогню почне діяти з 03:00 27 жовтня 2026 року за київським часом. Як зазначають у Силах оборони України, робиться все можливе для допомоги мешканцям міста, забезпечення їхньої безпеки та порятунку [...] Запис Україна оголосила режим припинення вогню в Олешках спершу з'явиться на Мост .",
+    "ed62d19d146da0d2": "Сили оборони запроваджують режим припинення вогню у Олешках з 03:00 27 жовтня. \"Для проведення гуманітарної операції в тимчасово окупованих Олешках Херсонської області Україна запроваджує режим припинення вогню у визначеному районі з 03:00 27 жовтня за київським часом\", - повідомляє Генштаб ЗСУ. У Генштабі зазначили, що Сили оборони України роблять усе можливе для допомоги...",
+    "e240e3ddfbe69083": "Україна запровадить припинення вогню в районі окупованих Олешків із 3:00 27 жовтня для гуманітарної операції – Генштаб. Україна запроваджує режим припинення вогню у визначеному районі тимчасово окупованого міста Олешки Херсонської області з 3:00 вівторка, 27 жовтня, за київським часом для проведення гуманітарної операції, повідомив генеральний штаб Збройних сил України.",
+    "0df00463818e36c3": "ЗСУ оголосили режим припинення вогню в районі окупованих Олешок. Режим тиші біля Олешок почнеться 27 жовтня.",
+    "c090329cf4ae53fc": "Новий обмін полоненими з рф та домовленість про припинення вогню в Олешках. Головне за день. Головні новини п'ятниці, 23 жовтня, – з полону додому повернулися 270 воїнів, а Україна та росії погодили режим тиші в Олешках.",
+    "c95a7ffcc4e8dcec": "Україна дотримуватиметься режиму припинення вогню в окупованих Олешках. Для проведення гуманітарної операції в тимчасово окупованих Олешках на Херсонщині Україна запроваджує режим припинення вогню у визначеному районі. Він почне діяти о 03:00 27 жовтня за київським часом, заявили у Генеральному штабі ЗСУ. «Сили оборони України роблять усе можливе для допомоги мешканцям Олешок і докладуть максимальних зусиль для забезпечення безпеки та порятунку наших співгромадян», — […]",
+    "fa82ba01934be585": "Україна запровадить режим припинення вогню в Олешках із 27 жовтня. Україна запровадить режим припинення вогню в районі тимчасово окупованих Олешок на Херсонщині з 03:00 27 жовтня за київським часом.",
+    "d57d8aaca28cb9bc": "Генштаб оголосив про припинення вогню в районі Олешок із 27 жовтня. Україна запроваджує режим припинення вогню у визначеному районі тимчасово окупованих Олешок на Херсонщині для проведення гуманітарної операції. Він почне діяти о 03:00 27 жовтня за київським часом. Запис Генштаб оголосив про припинення вогню в районі Олешок із 27 жовтня спершу з'явиться на Букви .",
+    "54b48b4ebc3480e0": "Припинення вогню з 27 жовтня охопить усю Херсонщину та суміжні регіони, – омбудсмен. Уповноважений Верховної Ради з прав людини Дмитро Лубінець поінформував, що припинення вогню між Україною та росією, заплановане на 27 жовтня, діятиме не лише в заблокованих Олешках, а й на території всієї Херсонської області та суміжних регіонів, через які проходитимуть гуманітарні маршрути. Про це омбудсмен розповів в етері \"Апострофа\", передає Рубрика. За словами омбудсмана, Україна намагалася […] The post Припинення вогню з 27 жовтня охопить усю Херсонщину та суміжні регіони, – омбудсмен appeared first on Рубрика .",
+    "c89397e9451e39ad": "Україна офіційно запроваджує режим припинення вогню в Олешках з 27 жовтня. У Генштабі наголосили, що Сили оборони роблять усе можливе для допомоги мешканцям Олешок і докладуть максимальних зусиль для забезпечення безпеки та порятунку цивільних.",
+    "741d5956e4d495fd": "У передмісті Дніпра через російську атаку загинула людина, п’ятеро поранені. The post У передмісті Дніпра через російську атаку загинула людина, п’ятеро поранені appeared first on Місто і річка .",
+    "bf539d50810fb0f8": "Армія росії вдарила по приватному будинку у Дніпрі, є жертва і поранені. Внаслідок російської атаки на Дніпро загинула людина, ще п'ятеро отримали поранення. Ворожий удар зруйнував будинок.",
+    "f9782b95e4932a01": "На Дніпропетровщині внаслідок атак загинула людина, ще 11 дістали поранень. У Дніпрі пошкоджені інфраструктура, підприємства, приватні будинки й автомобілі. Одна людина загинула, ще 11 дістали поранень. Про це повідомила ДніпроОВА. Дніпро У Дніпрі понівечені інфраструктура, підприємства, приватні оселі, автівки. Одна людина загинула. Восьмеро поранених у лікарні. У Підгороднянській громаді Дніпровського району постраждали чоловіки 66 і 46 років, а також 55-річна жінка. Лікуватимуться амбулаторно. Нікопольщина На […] The post На Дніпропетровщині внаслідок атак загинула людина, ще 11 дістали поранень appeared first on Dnipro.media .",
+    "cfb140975b77d5e6": "У Дніпрі російська атака зруйнувала будинок: є загиблий. Унаслідок російського удару по Дніпру 23 жовтня загинула людина, ще восьмеро постраждали. Зруйновано приватний будинок, пошкоджено сусідні оселі.",
+    "b8ba006ccc161824": "Рубіо заявив, що війна Росії проти України насправді стосується лише Донбасу. Державний секретар США Марко Рубіо заявив, що війна в Україні, на його думку, насправді стосується Донбасу, який Росія не може захопити. Натомість Київ не бажає від нього відмовитися.",
+    "78318fcde0599552": "Рубіо про війну в Україні: «насправді вона стосується Донбасу». «Хоча часто кажуть, що це війна в Україні, насправді вона стосується Донбасу – одного конкретного регіону країни. По суті, йдеться про територію, що становить близько 11 % країни»",
+    "3e717816a93d5a28": "«Йдеться про один регіон»: Рубіо заявив, що війна рф проти України зосереджена навколо Донбасу. Держсекретар Марко Рубіо заявив, що головне питання у війні росії проти України – Донбас. Він пояснив, чому Київ не хоче віддавати території та як США бачать шлях до миру.",
+    "878b0fa0a8c365dd": "Держсекретар США звів війну в Україні лише до питання Донбасу. Рубіо переконаний, що завершення можливе тільки шляхом дипломатії.",
+    "4938a30eafc5c1ae": "Рубіо назвав ключовим питанням війни Донбас і наголосив на потребі взаємних поступок. Російсько-українська війна за своєю суттю точиться довкола 11% території Донбасу, які Росія безуспішно намагається захопити військовим шляхом і від яких Україна відмовляється поступатися з міркувань суверенітету та довгострокової безпеки, тому врегулювання конфлікту можливе виключно дипломатичним шляхом через взаємні компроміси за столом переговорів, заявив державний секретар США Марко Рубіо.",
+    "7f417f73f2f6d3de": "Рубіо заявив, що війна Росії проти України насправді стосується Донбасу. Держсекретар США наголосив, що для завершення війни сторонам потрібно домовитися про взаємні поступки.",
+    "f7c38b46ff7d5bfe": "«Неможливо вирішити воєнним шляхом». Рубіо каже, що російсько-українська війна стосується лише Донбасу. ",
+    "29f4a5a24eed20ea": "Рубіо заявив, що війна Росії проти України стосується Донбасу, і закликав шукати дипломатичний компроміс. Державний секретар США Марко Рубіо заявив, що війна Росії проти України стосується передусім Донбасу, який Москва прагне захопити, але не може здобути військовим шляхом.",
+    "b476f455e658021e": "Для завершення війни рф проти України потрібні переговори та поступки з обох сторін, – Рубіо. Державний секретар США Марко Рубіо заявив, що війна росії проти України стосується передусім Донбасу, який влада рф прагне захопити, проте не може встановити над ним контроль військовим шляхом. Водночас Україна не погоджується віддавати цю територію, маючи вагомі причини, пов'язані із суверенітетом і власною довгостроковою безпекою. Про це Рубіо сказав під час пресконференції, коментуючи характер війни та […] The post Для завершення війни рф проти України потрібні переговори та поступки з обох сторін, – Рубіо appeared first on Рубрика .",
+    "165dab1ae20d14bb": "На Херсонщині через російські обстріли поранені шестеро людей. Упродовж доби 23 жовтня російські військові обстрілювали Херсон та 35 населених пунктів області. Про це повідомив начальник Херсонської ОВА Олександр Прокудін. Унаслідок російської агресії поранення дістали шестеро людей. Окупанти атакували критичну і соціальну інфраструктуру та житлові квартали. Пошкоджені багатоповерхівка, приватний будинок і автомобілі. Із деокупованих громад області евакуювали двох людей. Запис На Херсонщині через російські обстріли поранені шестеро людей спершу з'явиться на Мост .",
+    "d8ba3477a385d301": "Росіяни за добу обстріляли 35 населених пунктів Херсонщини, шестеро поранених. У Херсонській області протягом доби внаслідок російських атак постраждало шестеро людей.",
+    "d78cee72c841e044": "Обстріли Херсонщини за добу: загиблий та шестеро поранених. Упродовж 23 жовтня армія рф атакувала населені пункти Херсонської області артилерією та безпілотниками. У Херсонській громаді загинула одна людина, ще четверо дістали поранення. Загалом в області за добу постраждали шестеро…",
+    "68c3ae819d5ee3f8": "На Херсонщині через російські обстріли поранені 6 людей. Упродовж минулої доби російські війська обстрілювали 35 населених пунктів Херсонщини. Унаслідок обстрілів шестеро людей були поранені.",
+    "0f7216b883852548": "Загиблий, шестеро поранених і пошкоджені авто: наслідки обстрілів Херсонщини. Упродовж 23 жовтня 2026 року російські війська обстрілювали Херсонський та Бериславський райони. Внаслідок атак одна людина загинула, шестеро дістали поранення.",
+    "e39be81c5f513229": "270 наших Героїв вдома: відбувся обмін полоненими. Фото з зустрічі публікує Президент України Володимир Зеленський. Більшість звільнених – воїни, які захищали Україну в Маріуполі. Також повертаються захисники з Донецького, Луганського, Харківського, Запорізького, Херсонського, Київського, Миколаївського та Чернігівського напрямків. Багатьох незаконно засудили в Росії. Серед тих, хто повертається, п’ятеро людей, яких вважали загиблими під час російського теракту в Оленівці в липні 2022 року. — Ми пам’ятаємо про кожного й кожну та продовжуємо шукати всіх. Дякую всім, хто працює заради обмінів.",
+    "9c9def7a56577cab": "В Україну після обміну полоненими повернулися п'ятеро людей, яких вважали загиблими під час російського теракту в Оленівці. «270 наших людей вдома. Більшість звільнених — воїни, які захищали Україну в Маріуполі. Також повертаються захисники з Донецького, Луганського, Харківського, Запорізького, Херсонського, Київського, Миколаївського та Чернігівського напрямків. Багатьох незаконно засудили в Росії. Серед...",
+    "b70ff69bef02b271": "Серед звільнених з російського полону військових — захисники з Київщини. Україна та Росія сьогодні, 23 жовтня, провели обмін полоненими. Наразі 270 українських військових повернулися на Батьківщину. Серед тих, то повернувся, є захисники з Київської області",
+    "3f504e0756423092": "З російського полону повернулися десятеро жителів Одещини. У п’ятницю, 23 жовтня, під час чергового обміну полоненими між Україною та РФ звільнили десятьох жителів Одеської області. Про це повідомив очільник Одеської ОВА Олег Кіпер. Серед звільнених — військовослужбовці Військово-Морських Сил, Сухопутних військ, Національної гвардії України, Державної прикордонної служби та інших підрозділів. Захисники боронили Україну на Донецькому, Луганському, Харківському, Запорізькому, Херсонському, Київському, Миколаївському та Чернігівському напрямках.",
+    "2a333d91c8d666b6": "З полону повернулися десять мешканців Одеської області. Стало відомо про звільнення з російського полону десяти жителів Одеської області. Про це повідомив голова Одеської ОВА Олег Кіпер. Наймолодшому захиснику 26 років, найстаршому — 47. Це військовослужбовці Військово-Морських Сил, Сухопутних військ, Національної гвардії України, Державної прикордонної служби та інших підрозділів. Вони боронили Україну на Донецькому, Луганському, Харківському, Запорізькому, Херсонському, Київському, Миколаївському та Чернігівському напрямках. […] Запис З полону повернулися десять мешканців Одеської області спершу з'явиться на Махала .",
+    "ad51079cf9606ecd": "У російському Тольятті дрони атакували хімзавод, спалахнула масштабна пожежа — відео. У ніч на суботу, 24 жовтня, у Тольятті Самарської області РФ повідомляли про атаку безпілотників на хімзавод Тольяттикаучук, внаслідок якої виникла сильна пожежа.",
+    "7da971a7aec07303": "Сили оборони уразили завод «Тольяттікаучук» у Росії. Сили оборони України уразили завод \"Тольяттікаучук\" у місті Тольятті Самарської області Росії. Після атаки місцеві жителі повідомляли про сильну пожежу на підприємстві. Також у тимчасово окупованому Криму стався масштабний блекаут. Запис Сили оборони уразили завод «Тольяттікаучук» у Росії спершу з'явиться на Букви .",
+    "ce76ffcbde2ae48f": "У Росії після атаки дронів палає завод \"Тольяттикаучук\", у Криму – масштабний блекаут. У Краснодарському краї також уражено підстанцію 500/220 кВ \"Тамань\", розташовану поблизу Керченської протоки.",
+    "24d27d57b835980b": "У Криму вночі стався блекаут, вранці у низці міст досі немає світла. Повідомлялося про пожежу на електропідстанції 500/220 кВ «Тамань», розташовану біля станиці Старотитарівської у Краснодарському краї Росії. Цей об'єкт є частиною енергомосту через Керченську протоку.",
+    "dd60bd7eb2c8562a": "Загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини. У понеділок, 19 жовтня, загинув спелеолог, мандрівник, гід Борис Гора з Тернопільщини. Про це в п'ятницю, 23 жовтня, на своїй сторінці у Facebook повідомила Аліна Ярмакова",
+    "32ebc2f42b68f2e1": "Рідні повідомляють про загибель Бориса Гори: чекають на результат тесту ДНК. Про втрату 23 жовтня написала донька Бориса Гори Аліна Ярмакова. — 19 жовтня загинув наш батько Борис Гора. Чекаємо на результати ДНК-експертизи. Більш детальна інформація буде згодом, — написала вона. Стрічкою Facebook одразу розлетілись спогади про спелеолога та світлини з Борисом Горою. Жив для усіх... Згодом допис про батька опублікував син Бориса Гори Любко Гора. — Таких більше немає. Таких, в принципі, не може бути. Такими як ти - заборонено створюватися світом. Але ти обійшов цей світ, тебе не цікавили його закони. Ти ЖИВ своє життя, і прожив його сповна, більше за всіх.",
+    "eae8fd4a18f7c5c2": "На Сумщині через російські обстріли поранені семеро людей, у громадах є знеструмлення. Через російські атаки в частині громад Сумщини зникло електропостачання.",
+    "11cc585d1e5e184e": "Частина Сумщини знеструмлена через атаки РФ. У частині Сумської області є знеструмлення через російську збройну агресію.",
+    "d1648bb1f309b4ed": "Воювала за рф, а потім приїхала до України, щоб зробити паспорт для виїзду до ЄС. У готелі на Волині затримали російську сержантку. ",
+    "b86c83213501d88f": "На Волині затримали мешканку Донецька, яка воювала за Росію та хотіла виїхати до ЄС. Служба безпеки України затримала на Волині мешканку Донецька, яка воювала у складі російської армії проти України, а згодом повернулася, щоб відновити український закордонний паспорт і виїхати до Євросоюзу. Про це 23 жовтня повідомило управління СБУ у Волинській області. За даними слідства, до...",
+    "768adfe5e4f6a17e": "На Волині затримали ексвійськову РФ, яка приїхала оформити закордонний паспорт. Правоохоронці затримали жительку Донецька, яка воювала проти України у складі російської армії, а після звільнення зі служби планувала виїхати до Євросоюзу. Жінці повідомили про підозру в державній зраді. Про це повідомили в Службі безпеки України. За даними слідства, до повномасштабного вторгнення жінка працювала медсестрою в Донецькій обласній клінічній психіатричній лікарні. Наприкінці лютого 2022 року вона … Continue reading На Волині затримали ексвійськову РФ, яка приїхала оформити закордонний паспорт →",
+    "9b9643b8a8cc05c9": "На Волині затримали ветеранку армії рф з Донецька: намагалася втекти до ЄС. На Волині правоохоронці затримали колишню військовослужбовицю російської армії з Донецька, яка планувала виїхати до Європейського Союзу. Для цього жінка намагалася оформити український закордонний паспорт. Про [...] Запис На Волині затримали ветеранку армії рф з Донецька: намагалася втекти до ЄС спершу з'явиться на Останні новини України | Бахмут IN.UA .",
+    "44dd8c5aec4eb815": "На Волині затримали жительку Донецька, яка воювала на боці Росії та збиралася виїхати до ЄС. Контррозвідка СБУ затримала у Волинській області жительку тимчасово окупованого Донецька, яка, за даними слідства, воювала на боці Росії.",
+    "036dd1644ddf9ea8": "У Луцьку відновили подачу гарячої води після атаки РФ. У Луцьку відновили подачу гарячої води майже на всі центральні теплові пункти, водночас у місті тривають роботи зі стабілізації холодного водопостачання.",
+    "61208608f4e3192e": "На Волині вилучили сигарети без акцизу і вейпи на 1,8 мільйона гривень. У 37-річного жителя Володимира детективи вилучили цигарки і вейпи на 1,8 мільйона гривень, які він незаконно реалізовував оптом і вроздріб",
+    "c3df75f732eff40e": "На Старокостянтинівщині відкрили меморіальну дошку загиблому захиснику Віталію Пастуху. Воїн загинув 29 жовтня 2025 року під час виконання бойового завдання на Запоріжжі.",
+    "943f8cbe77599494": "У Києві відновили рух поїздів між станціями Видубичі та Славутич — КМДА. У Києві відновили рух поїздів на зеленій гілці метро між станціями Видубичі та Славутич.",
+    "4d61272796c440eb": "У Києві відновили рух поїздів між станціями метро «Видубичі» та «Славутич». У Києві відновили рух поїздів на зеленій лінії метро між станціями \"Видубичі\" та \"Славутич\".",
+    "6df44e13c26e6f41": "У Києві відновили рух поїздів метро між станціями \"Видубичі\" та \"Славутич\". Зелена лінія столичного метро працює у звичайному режимі після ліквідації наслідків російського обстрілу.",
+    "08765d5f6345c248": "На Хмельниччині чоловік віддав шахраям 14 тисяч за оренду квартири. Житель Старокостянтинова переказав завдаток за житло, після чого псевдоорендодавець заблокував його.",
+    "38560f809374ff08": "У Мукачеві в останню дорогу провели полеглого воїна Андрія Сальникова. Валерія Рубаняк пт, 23/10/2026 - 15:08 У пʼятницю, 23 жовтня, у Мукачеві відбулося прощання із полеглим 43-річним захисником – солдатом Андрієм Сальниковим. Військовий із перших днів повномасштабного вторгнення добровільно став до лав ЗСУ, боронив Україну на передових позиціях. Родина майже три роки чекала на його повернення додому. Як повідомили у Мукачівській міській раді, народився Андрій Сальников 5 жовтня 1980 року. Рідні згадують Андрія як добру, світлу та позитивну людину. Для сестри Наталії він був опорою, підтримкою та найближчою людиною.",
+    "e652c03b25302567": "У Мукачеві попрощалися із 43-річним захисником Андрієм Сальниковим. У Мукачеві попрощалися із 43-річним військовослужбовцем Андрієм Сальниковим. Захисник загинув 15 січня 2024 року на Донецькому напрямку.",
+    "523d3fa1695e4741": "Завдали збитків на понад 285 тисяч грн на ремонті тротуару: на Закарпатті двом посадовцям повідомили про підозру. У місті Берегово керівнику комунального підприємства та посадовцю Управління міського господарства й благоустрою міськради повідомили про підозру у привласненні понад 285 тисяч гривень під час капітального ремонту тротуару.",
+    "f554946f83cb1f5e": "Посадовця міськради у Берегові підозрюють у махінаціях на ремонті тротуару. Валерія Рубаняк пт, 23/10/2026 - 16:04 Посадовця Управління міського господарства та благоустрою Берегівської міськради та керівника комунального підприємства, що спеціалізується на ремонті та будівництві доріг підозрюють у махінаціях з понад понад 285 тис. грн бюджетних коштів під час капітального ремонту тротуару на вулиці Стефаника у Берегові. Вартість деяких робіт завищили, а ще частину – не виконали. Як у пʼятницю, 23 жовтня, повідомили у Закарпатській обласній прокуратурі, на ремонт тротуару виділили майже 800 тис. гривень.",
+    "98175daa675d6bdc": "На Закарпатті чоловік «купив» чотирьох дітей і втік за кордон — Лубінець. Корупція під час мобілізації в Україні набирає усе жахливіших форм, розповів омбудсмен Дмитро Лубінець."
+  },
+  "checks": {
+    "date": "2026-10-24",
+    "stories_included": 21,
+    "sentences": 39,
+    "verified": 37,
+    "needs_review": 2,
+    "confirmed_by_editor": 2,
+    "unsupported": 0,
+    "script_sha256": "42d22c374c3b19465609c2531fd63dbbc6292daff4e3e6cb0191ff9d5f796104"
+  }
+}
