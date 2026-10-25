@@ -1,8 +1,8 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-25T01:11:44+00:00",
+  "generated_at": "2026-10-25T06:07:38+00:00",
   "source_count": 102,
-  "item_count": 2014,
+  "item_count": 2015,
   "items": [
     {
       "id": "802c4100447af06c",
@@ -388,23 +388,6 @@
       "status": "new"
     },
     {
-      "id": "4df28a6e2309928a",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1436175-sibiga-poperediv-pro-nebezpeku-vidnovlenna-postacanna-gazu-z-rosii-v-evropu-2",
-      "title": "Сибіга попередив про небезпеку відновлення постачання газу з Росії в Європу",
-      "published_at": "2026-10-24T20:30:20+00:00",
-      "published_raw": "Sat, 24 Oct 2026 23:30:20 +0300",
-      "fetched_at": "2026-10-24T20:48:56+00:00",
-      "description": "Відновлення продажів російського газу до Європи є небезпечною та недосконалою ідеєю, яка поверне енергетичний шантаж. Будь-які поступки Москві призведуть лише до нових воєн і криз",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "7437ac50dc155a52",
       "source_id": "nv",
       "source": "NV",
@@ -748,6 +731,23 @@
       "categories": [
         "Війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9b596ef384a0c40",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436165-u-castini-oblastej-25-zovtna-diatimut-grafiki-vidklucen-svitla",
+      "title": "У частині областей 25 жовтня діятимуть графіки відключень світла",
+      "published_at": "2026-10-24T19:51:39+00:00",
+      "published_raw": "Sat, 24 Oct 2026 22:51:39 +0300",
+      "fetched_at": "2026-10-24T20:48:56+00:00",
+      "description": "У частині областей України в неділю, 25 жовтня, графіки погодинних відключень світла діятимуть для всіх категорій споживачів із 07:00 до 23:59",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1155,7 +1155,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/world/geopolitics/ilon-mask-zayaviv-pro-porushennya-umov-vikoristannya-starlink-ukrajinskimi-viyskovimi-shcho-vidomo-50653111.html",
-      "title": "«Минулого тижня лазівку закрили». Маск звинуватив українськиї військових у порушенні умов використання Starlink",
+      "title": "«Минулого тижня лазівку закрили». Маск звинуватив українських військових у порушенні умов використання Starlink",
       "published_at": "2026-10-24T19:24:00+00:00",
       "published_raw": "Sat, 24 Oct 2026 22:24:00 +0300",
       "fetched_at": "2026-10-24T20:48:56+00:00",
@@ -1926,6 +1926,23 @@
       "status": "new"
     },
     {
+      "id": "505626ce28268d00",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436145-na-sumsini-predstavili-nacalnika-stepanivskoi-selisnoi-vijskovoi-administracii",
+      "title": "На Сумщині представили начальника Степанівської селищної військової адміністрації",
+      "published_at": "2026-10-24T18:49:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 21:49:02 +0300",
+      "fetched_at": "2026-10-24T20:48:56+00:00",
+      "description": "Степанівську селищну військову адміністрацію на Сумщині очолив Андрій Ніколенко. Про це повідомили в Сумській обласній військовій адміністрації.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e988dacacb9f0dfa",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -2452,6 +2469,25 @@
       "status": "new"
     },
     {
+      "id": "e2363bf4dbea9107",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/24/775934_rivnenschini_vnaslidok.html",
+      "title": "На Рівненщині внаслідок російської атаки пошкоджене цивільне підприємство",
+      "published_at": "2026-10-24T18:23:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 21:23:00 +0300",
+      "fetched_at": "2026-10-25T06:07:38+00:00",
+      "description": "Наразі інформації про постраждалих не надходило.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4244d89823a0e5c4",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -2728,6 +2764,23 @@
         "рівненщина події",
         "Сарни"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb724fbcaabf1f3b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1435937-asno-j-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-25-zovtna",
+      "title": "Ясно й без опадів: прогноз погоди у Донецькій і Луганській областях на 25 жовтня",
+      "published_at": "2026-10-24T18:14:41+00:00",
+      "published_raw": "Sat, 24 Oct 2026 21:14:41 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Яка буде погода в Донецькій і Луганській областях у неділю, 25 жовтня? Прогноз Укргідрометцентру: малообласно, без опадів, температура повітря вдень до +14°C",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3758,6 +3811,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4df28a6e2309928a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436175-sibiga-poperediv-pro-nebezpeku-vidnovlenna-postacanna-gazu-z-rosii-v-evropu-2",
+      "title": "Сибіга попередив про небезпеку відновлення постачання газу з Росії в Європу",
+      "published_at": "2026-10-24T17:30:20+00:00",
+      "published_raw": "Sat, 24 Oct 2026 20:30:20 +0300",
+      "fetched_at": "2026-10-24T20:48:56+00:00",
+      "description": "Відновлення продажів російського газу до Європи є небезпечною та недосконалою ідеєю, яка поверне енергетичний шантаж. Будь-які поступки Москві призведуть лише до нових воєн і криз",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5071,23 +5141,6 @@
       "status": "new"
     },
     {
-      "id": "a9b596ef384a0c40",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1436165-u-castini-oblastej-25-zovtna-diatimut-grafiki-vidklucen-svitla",
-      "title": "У частині областей 25 жовтня діятимуть графіки відключень світла",
-      "published_at": "2026-10-24T16:51:39+00:00",
-      "published_raw": "Sat, 24 Oct 2026 19:51:39 +0300",
-      "fetched_at": "2026-10-24T20:48:56+00:00",
-      "description": "У частині областей України в неділю, 25 жовтня, графіки погодинних відключень світла діятимуть для всіх категорій споживачів із 07:00 до 23:59",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "af7e144b120f1ffe",
       "source_id": "nv",
       "source": "NV",
@@ -5211,8 +5264,8 @@
       "description": "Підтвердилася загибель захисника Петра Гереджука з Івано-Франківщини, 1971 року народження, який понад три роки вважався зниклим безвісти, пише КУРС з посиланням на Печеніжинську громаду. Петро народився в Молодятині, тривалий час його життя було пов’язане із селом Залуччя Матеївецької громади, де він проживав разом із дружиною та сином. У 2023 році став до лав Збройних Сил […]",
       "categories": [
         "Суспільство",
-        "загиблі",
-        "війна"
+        "війна",
+        "загиблі"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6114,8 +6167,8 @@
       "fetched_at": "2026-10-24T18:08:50+00:00",
       "description": "У межах Львівського тижня скульптури на площі перед Оперним встановили новий тимчасовий мистецький об’єкт — “Говерла”. Автор Сергій Радько створив піраміду з цеглинок, яка символізує спільні цінності та стійкість. Про... The post “Говерлу” з цегли встановили у центрі Львові (ФОТО) appeared first on Galka.if.ua .",
       "categories": [
-        "Арт",
         "Новини",
+        "Арт",
         "Біжучий рядок",
         "Життя",
         "Чудасії"
@@ -7048,23 +7101,6 @@
       "status": "new"
     },
     {
-      "id": "505626ce28268d00",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1436145-na-sumsini-predstavili-nacalnika-stepanivskoi-selisnoi-vijskovoi-administracii",
-      "title": "На Сумщині представили начальника Степанівської селищної військової адміністрації",
-      "published_at": "2026-10-24T15:49:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 18:49:02 +0300",
-      "fetched_at": "2026-10-24T20:48:56+00:00",
-      "description": "Степанівську селищну військову адміністрацію на Сумщині очолив Андрій Ніколенко. Про це повідомили в Сумській обласній військовій адміністрації.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "c2a7effd2575423f",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -7935,6 +7971,23 @@
       "status": "new"
     },
     {
+      "id": "03712d7271403274",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1434115-kriticni-ta-ekstreni-vipadki-za-skilki-casu-mae-priihati-svidka-na-viklik",
+      "title": "Критичні та екстрені випадки: за скільки часу має приїхати «швидка» на виклик",
+      "published_at": "2026-10-24T15:28:14+00:00",
+      "published_raw": "Sat, 24 Oct 2026 18:28:14 +0300",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Для «швидкої» існує дві категорії викликів: критичні та екстрені. За скільки часу має приїхати «швидка» і які випадки належать до цих категорій, пояснює гендиректор Львівського обласного центру екстреної медичної допомоги.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "be9352a60561d092",
       "source_id": "nv",
       "source": "NV",
@@ -8562,23 +8615,6 @@
       "status": "new"
     },
     {
-      "id": "cb724fbcaabf1f3b",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1435937-asno-j-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-25-zovtna",
-      "title": "Ясно й без опадів: прогноз погоди у Донецькій і Луганській областях на 25 жовтня",
-      "published_at": "2026-10-24T15:14:41+00:00",
-      "published_raw": "Sat, 24 Oct 2026 18:14:41 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Яка буде погода в Донецькій і Луганській областях у неділю, 25 жовтня? Прогноз Укргідрометцентру: малообласно, без опадів, температура повітря вдень до +14°C",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "867e2574fe65b9c1",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -9196,6 +9232,23 @@
         "Поліція",
         "рівненщина події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "14f48fa15bb53efc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1435961-na-fronti-zaginuv-student-zaporizkogo-nacionalnogo-universitetu-mikola-serbinin",
+      "title": "На фронті загинув студент Запорізького національного університету Микола Щербінін",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 18:00:00 +0300",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Обороняючи незалежність на територіальну цілісність України, на Донецькому напрямку загинув військовослужбовець, студент економічного факультету Запорізького національного університету Микола Щербінін",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14546,6 +14599,23 @@
       "status": "new"
     },
     {
+      "id": "0b61fb46da6b24b7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1435977-u-pp-krakivec-viavili-v-avtomobili-11-nezadeklarovanih-iphone-duo",
+      "title": "У ПП «Краківець» виявили в автомобілі 11 незадекларованих «iPhone Duo»",
+      "published_at": "2026-10-24T12:45:51+00:00",
+      "published_raw": "Sat, 24 Oct 2026 15:45:51 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "На українсько-польському кордоні, у пункті пропуску «Краківець», під час огляду автомобіля виявили 11 незадекларованих «iPhone Duo». Загальна вартість товару становить 1,4 млн грн.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "711a6705c0b0f9cd",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -15140,23 +15210,6 @@
         "обстріли Сумщини",
         "повномасштабна війна"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "03712d7271403274",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/lviv/1434115-kriticni-ta-ekstreni-vipadki-za-skilki-casu-mae-priihati-svidka-na-viklik",
-      "title": "Критичні та екстрені випадки: за скільки часу має приїхати «швидка» на виклик",
-      "published_at": "2026-10-24T12:28:14+00:00",
-      "published_raw": "Sat, 24 Oct 2026 15:28:14 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Для «швидкої» існує дві категорії викликів: критичні та екстрені. За скільки часу має приїхати «швидка» і які випадки належать до цих категорій, пояснює гендиректор Львівського обласного центру екстреної медичної допомоги.",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16397,23 +16450,6 @@
       "status": "new"
     },
     {
-      "id": "14f48fa15bb53efc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1435961-na-fronti-zaginuv-student-zaporizkogo-nacionalnogo-universitetu-mikola-serbinin",
-      "title": "На фронті загинув студент Запорізького національного університету Микола Щербінін",
-      "published_at": "2026-10-24T12:00:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 15:00:00 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Обороняючи незалежність на територіальну цілісність України, на Донецькому напрямку загинув військовослужбовець, студент економічного факультету Запорізького національного університету Микола Щербінін",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "55d65027b0fe1f38",
       "source_id": "nv",
       "source": "NV",
@@ -16532,23 +16568,6 @@
         "олександр коваль",
         "Рівненщина війна"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "b3f54b8c32fdfeea",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/dnipro/1435959-vijska-rf-atakuvali-nikopolsinu-bezpilotnikom-poraneni-troe-doroslih-i-ditina",
-      "title": "Війська РФ атакували Нікопольщину безпілотником: двоє загиблих, поранені троє дорослих і дитина",
-      "published_at": "2026-10-24T11:59:39+00:00",
-      "published_raw": "Sat, 24 Oct 2026 14:59:39 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Вдень 24 жовтня війська РФ вдарили безпілотником по Покровській громаді Нікопольщини. Внаслідок атаки двоє людей загинули, четверо — дістали поранення, серед них — дитина",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -21394,8 +21413,8 @@
       "description": "У Лікувально-діагностичному центрі «Клініка святого Луки» в Івано-Франківську виконують нейрохірургічні операції різної складності. Коли йдеться про цей напрям оперативного втручання – ціна кожного рішення вимірюється не тільки міліметрами, а в... The post Нейрохірургія: можливості оперативного лікування у Клініці святого Луки appeared first on Galka.if.ua .",
       "categories": [
         "Новини",
-        "Франківські новини",
         "Здоров'я",
+        "Франківські новини",
         "Життя",
         "Клініка святого Луки"
       ],
@@ -22665,23 +22684,6 @@
       "published_raw": "Sat, 24 Oct 2026 12:46:49 +0300",
       "fetched_at": "2026-10-24T14:32:17+00:00",
       "description": "Міністерство оборони Молдови підтвердило, що безпілотник, який 23 жовтня порушив повітряний простір країни та впав у Теленештському районі, був російською Геранню-4",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "0b61fb46da6b24b7",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/lviv/1435977-u-pp-krakivec-viavili-v-avtomobili-11-nezadeklarovanih-iphone-duo",
-      "title": "У ПП «Краківець» виявили в автомобілі 11 незадекларованих «iPhone Duo»",
-      "published_at": "2026-10-24T09:45:51+00:00",
-      "published_raw": "Sat, 24 Oct 2026 12:45:51 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "На українсько-польському кордоні, у пункті пропуску «Краківець», під час огляду автомобіля виявили 11 незадекларованих «iPhone Duo». Загальна вартість товару становить 1,4 млн грн.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -24715,6 +24717,23 @@
         "Крим",
         "Російсько-Українська війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3f54b8c32fdfeea",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1435959-vijska-rf-atakuvali-nikopolsinu-bezpilotnikom-poraneni-troe-doroslih-i-ditina",
+      "title": "Війська РФ атакували Нікопольщину безпілотником: двоє загиблих, поранені троє дорослих і дитина",
+      "published_at": "2026-10-24T08:59:39+00:00",
+      "published_raw": "Sat, 24 Oct 2026 11:59:39 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Вдень 24 жовтня війська РФ вдарили безпілотником по Покровській громаді Нікопольщини. Внаслідок атаки двоє людей загинули, четверо — дістали поранення, серед них — дитина",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -37434,7 +37453,7 @@
       "published_at": "2026-10-24T01:33:00+00:00",
       "published_raw": "Sat, 24 Oct 2026 04:33:00 +0300",
       "fetched_at": "2026-10-24T05:53:07+00:00",
-      "description": "Знаєте, що спільного між iPhone зятя Трампа, російською розвідкою та мільярдами доларів? Історія, у якій гучних звинувачень поки більше, ніж відкритих доказів.",
+      "description": "Привіт, user_name! 👾",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -39161,6 +39180,12 @@
       "at": "2026-10-25T01:11:44+00:00",
       "fetched": 1329,
       "added": 3,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-25T06:07:38+00:00",
+      "fetched": 1224,
+      "added": 1,
       "errors": 3
     }
   ]
