@@ -1,9 +1,26 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T23:13:47+00:00",
+  "generated_at": "2026-10-25T01:11:44+00:00",
   "source_count": 102,
-  "item_count": 2011,
+  "item_count": 2014,
   "items": [
+    {
+      "id": "802c4100447af06c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436177-mask-zvinuvativ-ukrainskih-vijskovih-u-porusenni-pravil-starlink-fles-nagadav-jomu-pro-obmezenna-servisu",
+      "title": "Маск звинуватив українських військових у порушенні правил Starlink. Флеш нагадав йому про обмеження сервісу",
+      "published_at": "2026-10-24T20:58:28+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:58:28 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Засновник SpaceX Ілон Маск 24 жовтня написав, що цивільний Starlink не можна використовувати для наступальних ударів дронами. За його словами, без цього сервісу фронт в Україні негайно обвалився б",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "d37fe5908e364fbd",
       "source_id": "lb",
@@ -101,6 +118,23 @@
       "categories": [
         "Спорт/Футбол"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "551f04c839ec7a9f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436179-na-danij-moment-plani-rosian-po-ohoplennu-kramatorska-ta-slovanska-povnistu-zirvani-zastupnik-komandira-3-go-ak",
+      "title": "На даний момент плани росіян по охопленню Краматорська та Словʼянська повністю зірвані — заступник командира 3-го АК",
+      "published_at": "2026-10-24T20:50:20+00:00",
+      "published_raw": "Sat, 24 Oct 2026 23:50:20 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Операція «Вівальді» зірвала російські плани щодо оточення Краматорська та Слов'янська. За словами Максима Жоріна, українські військові не лише зупинили ворога, а й змусили його перейти до оборони",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -491,7 +525,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/culture/1436149-ditace-evrobacenna-2026-ak-vistupila-erika-kolesnicenko-u-finali-pisennogo-konkursu-na-malti",
-      "title": "«Дитяче Євробачення-2026»: як виступила Еріка Колесніченко у фіналі пісенного конкурсу на Мальті",
+      "title": "«Дитяче Євробачення 2026»: як виступила Еріка Колесніченко у фіналі пісенного конкурсу на Мальті",
       "published_at": "2026-10-24T20:16:45+00:00",
       "published_raw": "Sat, 24 Oct 2026 23:16:45 +0300",
       "fetched_at": "2026-10-24T20:48:56+00:00",
@@ -714,23 +748,6 @@
       "categories": [
         "Війна"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a9b596ef384a0c40",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1436165-u-castini-oblastej-25-zovtna-diatimut-grafiki-vidklucen-svitla",
-      "title": "У частині областей 25 жовтня діятимуть графіки відключень світла",
-      "published_at": "2026-10-24T19:51:39+00:00",
-      "published_raw": "Sat, 24 Oct 2026 22:51:39 +0300",
-      "fetched_at": "2026-10-24T20:48:56+00:00",
-      "description": "У частині областей України в неділю, 25 жовтня, графіки погодинних відключень світла діятимуть для всіх категорій споживачів із 07:00 до 23:59",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1055,6 +1072,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6fffd64dfbac1443",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436201-ditace-evrobacenna-2026-hto-buv-u-skladi-nacionalnogo-zuri-ukraini",
+      "title": "«Дитяче Євробачення 2026»: хто був у складі національного журі України",
+      "published_at": "2026-10-24T19:30:31+00:00",
+      "published_raw": "Sat, 24 Oct 2026 22:30:31 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "До складу національного журі пісенного конкурсу «Дитячого Євробачення 2026» увійшли музикант Пилип Коляденко, артистка Kazhanna та хореографка Анна Бондаренко",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1749,6 +1783,25 @@
       "status": "new"
     },
     {
+      "id": "a02f704739e8e67a",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/u-diyi-ta-cnapax-na-vixidnix-ne-pracyuvatime-nizka-poslug-perelik-obmezhen",
+      "title": "У «Дії» та ЦНАПах на вихідних не працюватиме низка послуг: перелік обмежень",
+      "published_at": "2026-10-24T19:01:01+00:00",
+      "published_raw": "Sat, 24 Oct 2026 21:01:01 +0200",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Із вечора 23 жовтня до ранку 26 жовтня на порталі та в застосунку «Дія», а також у ЦНАПах тимчасово обмежили доступ до частини держпослуг. Причина — планові технічні роботи Мін’юсту та податкової служби у реєстрах. Про це повідомили на сайті застосунку «Дія». Які послуги обмежені на порталі? бізнес-послуги та ЄДР; будівництво та нерухомість; житлові програми та є Відновлення; соціальні сервіси та довідки; старлінк; послуги, пов’язані з військовим обліком та бронюванням; заяви до Міжнародного Реєстру збитків.",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "22401558d6b53058",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -1868,23 +1921,6 @@
       "categories": [
         "Суспільство"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "505626ce28268d00",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1436145-na-sumsini-predstavili-nacalnika-stepanivskoi-selisnoi-vijskovoi-administracii",
-      "title": "На Сумщині представили начальника Степанівської селищної військової адміністрації",
-      "published_at": "2026-10-24T18:49:02+00:00",
-      "published_raw": "Sat, 24 Oct 2026 21:49:02 +0300",
-      "fetched_at": "2026-10-24T20:48:56+00:00",
-      "description": "Степанівську селищну військову адміністрацію на Сумщині очолив Андрій Ніколенко. Про це повідомили в Сумській обласній військовій адміністрації.",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2697,23 +2733,6 @@
       "status": "new"
     },
     {
-      "id": "cb724fbcaabf1f3b",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1435937-asno-j-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-25-zovtna",
-      "title": "Ясно й без опадів: прогноз погоди у Донецькій і Луганській областях на 25 жовтня",
-      "published_at": "2026-10-24T18:14:41+00:00",
-      "published_raw": "Sat, 24 Oct 2026 21:14:41 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Яка буде погода в Донецькій і Луганській областях у неділю, 25 жовтня? Прогноз Укргідрометцентру: малообласно, без опадів, температура повітря вдень до +14°C",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "fd7a8a8442732a35",
       "source_id": "map-1070",
       "source": "Кордон.Медіа",
@@ -2944,6 +2963,25 @@
       "status": "new"
     },
     {
+      "id": "5e5d712d52708849",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/yak-diyatimut-chergi-25-zhovtnya-oprilyudnili-grafik-vidklyuchennya-svitla-v-cherkaskij-oblasti",
+      "title": "Як діятимуть черги 25 жовтня: оприлюднили графік відключення світла в Черкаській області",
+      "published_at": "2026-10-24T18:02:52+00:00",
+      "published_raw": "Sat, 24 Oct 2026 20:02:52 +0200",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Графік відключення електроенергії на 25 жовтня для Черкащини сформований і оприлюднений. Відключення проводитимуть відповідно до черг. Про це повідомили в «Черкасиобленерго». Години відсутності електроенергії: 1.1 07:00 – 09:00, 15:00 – 17:00, 21:00 – 22:00; 1.2 15:00 – 17:00, 22:00 – 24:00; 2.1 07:00 – 09:00, 15:00 – 17:00, 21:00 – 22:00; 2.2 09:00 – 11:00, 17:00 – 19:00; 3.1 13:00 – 15:00, 19:00 – 21:00; 3.2 13:00 – 15:00, 19:00 – 21:00; 4.1 13:00 – 15:00, 19:00 – 21:00; 4.2 09:00 – 11:00, 19:00 – 21:00; 5.1 09:00 – 11:00, 16:00 – 17:00, 22:00 – 24:00; 5.2 11:00 – 13:00,",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fc69190c9f416f2a",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -2996,25 +3034,6 @@
         "Херсонська ТЕЦ",
         "борг",
         "суд"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a02f704739e8e67a",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/u-diyi-ta-cnapax-na-vixidnix-ne-pracyuvatime-nizka-poslug-perelik-obmezhen",
-      "title": "У «Дії» та ЦНАПах на вихідних не працюватиме низка послуг: перелік обмежень",
-      "published_at": "2026-10-24T18:01:01+00:00",
-      "published_raw": "Sat, 24 Oct 2026 21:01:01 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Із вечора 23 жовтня до ранку 26 жовтня на порталі та в застосунку «Дія», а також у ЦНАПах тимчасово обмежили доступ до частини держпослуг. Причина — планові технічні роботи Мін’юсту та податкової служби у реєстрах. Про це повідомили на сайті застосунку «Дія». Які послуги обмежені на порталі? бізнес-послуги та ЄДР; будівництво та нерухомість; житлові програми та є Відновлення; соціальні сервіси та довідки; старлінк; послуги, пов’язані з військовим обліком та бронюванням; заяви до Міжнародного Реєстру збитків.",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -4162,6 +4181,25 @@
       "status": "new"
     },
     {
+      "id": "38610bc4a441346c",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/ukrayina-otrimala-ponad-230-tisyach-doz-vakcin-proti-poliomiyelitu-yak-bezoplatno-vakcinuvati-ditinu",
+      "title": "Україна отримала понад 230 тисяч доз вакцин проти поліомієліту: як безоплатно вакцинувати дитину",
+      "published_at": "2026-10-24T17:14:20+00:00",
+      "published_raw": "Sat, 24 Oct 2026 19:14:20 +0200",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "До Всесвітнього дня боротьби з поліомієлітом в Україну доставили 232,5 тисячі доз інактивованої вакцини для безоплатної імунізації дітей. Про це повідомили у Міністерстві охорони здоров’я України. Як йдеться у дописі, вакцини Україна отримує у межах співпраці Міністерства охорони здоров’я з Глобальним альянсом з вакцин та імунізації. Вакцинація від поліомієліту захищає від трьох існуючих типів поліовірусу. Де можна вакцинувати дитину? Щоб вакцинувати дитину, потрібно звернутися до свого сімейного лікаря, педіатра або до найближчого закладу охорони здоров’я.",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e761a05780ca30c8",
       "source_id": "map-940",
       "source": "Букви",
@@ -4607,25 +4645,6 @@
       "status": "new"
     },
     {
-      "id": "5e5d712d52708849",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/yak-diyatimut-chergi-25-zhovtnya-oprilyudnili-grafik-vidklyuchennya-svitla-v-cherkaskij-oblasti",
-      "title": "Як діятимуть черги 25 жовтня: оприлюднили графік відключення світла в Черкаській області",
-      "published_at": "2026-10-24T17:02:52+00:00",
-      "published_raw": "Sat, 24 Oct 2026 20:02:52 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Графік відключення електроенергії на 25 жовтня для Черкащини сформований і оприлюднений. Відключення проводитимуть відповідно до черг. Про це повідомили в «Черкасиобленерго». Години відсутності електроенергії: 1.1 07:00 – 09:00, 15:00 – 17:00, 21:00 – 22:00; 1.2 15:00 – 17:00, 22:00 – 24:00; 2.1 07:00 – 09:00, 15:00 – 17:00, 21:00 – 22:00; 2.2 09:00 – 11:00, 17:00 – 19:00; 3.1 13:00 – 15:00, 19:00 – 21:00; 3.2 13:00 – 15:00, 19:00 – 21:00; 4.1 13:00 – 15:00, 19:00 – 21:00; 4.2 09:00 – 11:00, 19:00 – 21:00; 5.1 09:00 – 11:00, 16:00 – 17:00, 22:00 – 24:00; 5.2 11:00 – 13:00,",
-      "categories": [
-        "Стрічка новин"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "0b0550708f4a4e31",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -5047,6 +5066,23 @@
         "Олешки",
         "Уповноважений ВРУ з прав людини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9b596ef384a0c40",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436165-u-castini-oblastej-25-zovtna-diatimut-grafiki-vidklucen-svitla",
+      "title": "У частині областей 25 жовтня діятимуть графіки відключень світла",
+      "published_at": "2026-10-24T16:51:39+00:00",
+      "published_raw": "Sat, 24 Oct 2026 19:51:39 +0300",
+      "fetched_at": "2026-10-24T20:48:56+00:00",
+      "description": "У частині областей України в неділю, 25 жовтня, графіки погодинних відключень світла діятимуть для всіх категорій споживачів із 07:00 до 23:59",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6049,25 +6085,6 @@
       "status": "new"
     },
     {
-      "id": "38610bc4a441346c",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/ukrayina-otrimala-ponad-230-tisyach-doz-vakcin-proti-poliomiyelitu-yak-bezoplatno-vakcinuvati-ditinu",
-      "title": "Україна отримала понад 230 тисяч доз вакцин проти поліомієліту: як безоплатно вакцинувати дитину",
-      "published_at": "2026-10-24T16:14:20+00:00",
-      "published_raw": "Sat, 24 Oct 2026 19:14:20 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "До Всесвітнього дня боротьби з поліомієлітом в Україну доставили 232,5 тисячі доз інактивованої вакцини для безоплатної імунізації дітей. Про це повідомили у Міністерстві охорони здоров’я України. Як йдеться у дописі, вакцини Україна отримує у межах співпраці Міністерства охорони здоров’я з Глобальним альянсом з вакцин та імунізації. Вакцинація від поліомієліту захищає від трьох існуючих типів поліовірусу. Де можна вакцинувати дитину? Щоб вакцинувати дитину, потрібно звернутися до свого сімейного лікаря, педіатра або до найближчого закладу охорони здоров’я.",
-      "categories": [
-        "Стрічка новин"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "f7ce6e13fa0e32ea",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -6097,8 +6114,8 @@
       "fetched_at": "2026-10-24T18:08:50+00:00",
       "description": "У межах Львівського тижня скульптури на площі перед Оперним встановили новий тимчасовий мистецький об’єкт — “Говерла”. Автор Сергій Радько створив піраміду з цеглинок, яка символізує спільні цінності та стійкість. Про... The post “Говерлу” з цегли встановили у центрі Львові (ФОТО) appeared first on Galka.if.ua .",
       "categories": [
-        "Новини",
         "Арт",
+        "Новини",
         "Біжучий рядок",
         "Життя",
         "Чудасії"
@@ -7031,6 +7048,23 @@
       "status": "new"
     },
     {
+      "id": "505626ce28268d00",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436145-na-sumsini-predstavili-nacalnika-stepanivskoi-selisnoi-vijskovoi-administracii",
+      "title": "На Сумщині представили начальника Степанівської селищної військової адміністрації",
+      "published_at": "2026-10-24T15:49:02+00:00",
+      "published_raw": "Sat, 24 Oct 2026 18:49:02 +0300",
+      "fetched_at": "2026-10-24T20:48:56+00:00",
+      "description": "Степанівську селищну військову адміністрацію на Сумщині очолив Андрій Ніколенко. Про це повідомили в Сумській обласній військовій адміністрації.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c2a7effd2575423f",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -7901,23 +7935,6 @@
       "status": "new"
     },
     {
-      "id": "03712d7271403274",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/lviv/1434115-kriticni-ta-ekstreni-vipadki-za-skilki-casu-mae-priihati-svidka-na-viklik",
-      "title": "Критичні та екстрені випадки: за скільки часу має приїхати «швидка» на виклик",
-      "published_at": "2026-10-24T15:28:14+00:00",
-      "published_raw": "Sat, 24 Oct 2026 18:28:14 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Для «швидкої» існує дві категорії викликів: критичні та екстрені. За скільки часу має приїхати «швидка» і які випадки належать до цих категорій, пояснює гендиректор Львівського обласного центру екстреної медичної допомоги.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "be9352a60561d092",
       "source_id": "nv",
       "source": "NV",
@@ -8144,6 +8161,25 @@
       "description": "Спочатку здається, що перед нами розгортається щось світле, майже пасторальне й романтичне. Ось-ось зазвучить м'яка мелодія скрипки, у затінку дерев промайне легкий силует музи, що надихає на творчість, а на обрії пропливуть знайомі обриси давніх міст, сповнених затишку та спокою.",
       "categories": [
         "Блоги"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2cebee25117ee2d6",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/pishov-iz-zhittya-kolishnij-nachalnik-viddilu-prokuraturi-cherkaskoyi-oblasti-vasil-suk",
+      "title": "Пішов із життя колишній начальник відділу прокуратури Черкаської області Василь Сук",
+      "published_at": "2026-10-24T15:23:14+00:00",
+      "published_raw": "Sat, 24 Oct 2026 17:23:14 +0200",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Після тривалої хвороби 23 жовтня помер колишній начальник організаційно-контрольного відділу прокуратури Черкащини Василь Сук, який присвятив роботі в органах 20 років. Про це повідомили у Черкаській обласній прокуратурі. Що відомо про Василя Івановича? Працював у прокуратурі протягом 20 років роботи на різних посадах Попрощалися з чоловіком рощання жовтня в його рідному селі Шарнопіль Монастирищенської міської громади Уманського району.",
+      "categories": [
+        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -8526,6 +8562,23 @@
       "status": "new"
     },
     {
+      "id": "cb724fbcaabf1f3b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1435937-asno-j-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-25-zovtna",
+      "title": "Ясно й без опадів: прогноз погоди у Донецькій і Луганській областях на 25 жовтня",
+      "published_at": "2026-10-24T15:14:41+00:00",
+      "published_raw": "Sat, 24 Oct 2026 18:14:41 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Яка буде погода в Донецькій і Луганській областях у неділю, 25 жовтня? Прогноз Укргідрометцентру: малообласно, без опадів, температура повітря вдень до +14°C",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "867e2574fe65b9c1",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -8555,6 +8608,25 @@
       "fetched_at": "2026-10-24T18:08:50+00:00",
       "description": "На Кіровоградщині всі базові станції мобільного зв'язку забезпечені автономним живленням. Оператори мають підтримувати роботу мереж під час відключень світла протягом шести годин",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fcca8445f16fa4c2",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/24/rosijskij-bezpilotnik-atakuvav-transportne-pidpriyemstvo-v-dergachah-troye-postrazhdalih",
+      "title": "Російський безпілотник атакував транспортне підприємство в Дергачах: троє постраждалих",
+      "published_at": "2026-10-24T15:12:12+00:00",
+      "published_raw": "Sat, 24 Oct 2026 17:12:12 +0200",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Медики госпіталізували чоловіків до лікарень.",
+      "categories": [
+        "Війна"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9045,23 +9117,6 @@
       "categories": [
         "Новини України"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "14f48fa15bb53efc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1435961-na-fronti-zaginuv-student-zaporizkogo-nacionalnogo-universitetu-mikola-serbinin",
-      "title": "На фронті загинув студент Запорізького національного університету Микола Щербінін",
-      "published_at": "2026-10-24T15:00:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 18:00:00 +0300",
-      "fetched_at": "2026-10-24T18:08:50+00:00",
-      "description": "Обороняючи незалежність на територіальну цілісність України, на Донецькому напрямку загинув військовослужбовець, студент економічного факультету Запорізького національного університету Микола Щербінін",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10428,25 +10483,6 @@
       "status": "new"
     },
     {
-      "id": "2cebee25117ee2d6",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/pishov-iz-zhittya-kolishnij-nachalnik-viddilu-prokuraturi-cherkaskoyi-oblasti-vasil-suk",
-      "title": "Пішов із життя колишній начальник відділу прокуратури Черкаської області Василь Сук",
-      "published_at": "2026-10-24T14:23:14+00:00",
-      "published_raw": "Sat, 24 Oct 2026 17:23:14 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Після тривалої хвороби 23 жовтня помер колишній начальник організаційно-контрольного відділу прокуратури Черкащини Василь Сук, який присвятив роботі в органах 20 років. Про це повідомили у Черкаській обласній прокуратурі. Що відомо про Василя Івановича? Працював у прокуратурі протягом 20 років роботи на різних посадах Попрощалися з чоловіком рощання жовтня в його рідному селі Шарнопіль Монастирищенської міської громади Уманського району.",
-      "categories": [
-        "Стрічка новин"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "a33ef7db13e2c2fb",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -10872,25 +10908,6 @@
       "categories": [
         "війна",
         "Ізюмський район"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "fcca8445f16fa4c2",
-      "source_id": "map-683",
-      "source": "Харків Times",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://times.kharkiv.ua/2026/10/24/rosijskij-bezpilotnik-atakuvav-transportne-pidpriyemstvo-v-dergachah-troye-postrazhdalih",
-      "title": "Російський безпілотник атакував транспортне підприємство в Дергачах: троє постраждалих",
-      "published_at": "2026-10-24T14:12:12+00:00",
-      "published_raw": "Sat, 24 Oct 2026 17:12:12 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Медики госпіталізували чоловіків до лікарень.",
-      "categories": [
-        "Війна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12918,6 +12935,25 @@
       "status": "new"
     },
     {
+      "id": "9ac176a58b6d0068",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/nebezpechnij-obgin-na-avtodorozi-bilya-korsunya-zitknulisya-dva-legkoviki-troye-lyudej-u-likarni",
+      "title": "Небезпечний обгін: на автодорозі біля Корсуня зіткнулися два легковики, троє людей у лікарні",
+      "published_at": "2026-10-24T13:22:47+00:00",
+      "published_raw": "Sat, 24 Oct 2026 15:22:47 +0200",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Увечері 23 жовтня на трасі «Київ – Знам’янка» біля Корсунь-Шевченківського сталася дорожньо-транспортна пригода за участі двох автомобілів. Унаслідок лобового зіткнення травмувалися троє людей, їх госпіталізували до лікарні. про це повідомили у Поліції Черкаської області. Як йдеться в дописі, автотроща сталася близько 19:00. «22-річна водійка Volkswagen CC під час обгону не обрала безпечну швидкість руху, виїхала на смугу зустрічного руху та зіткнулася з Geely MK Cross під керуванням 28-річної водійки», – повідомили у поліції.",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "cc5b35b6e5003e2b",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -14510,23 +14546,6 @@
       "status": "new"
     },
     {
-      "id": "0b61fb46da6b24b7",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/lviv/1435977-u-pp-krakivec-viavili-v-avtomobili-11-nezadeklarovanih-iphone-duo",
-      "title": "У ПП «Краківець» виявили в автомобілі 11 незадекларованих «iPhone Duo»",
-      "published_at": "2026-10-24T12:45:51+00:00",
-      "published_raw": "Sat, 24 Oct 2026 15:45:51 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "На українсько-польському кордоні, у пункті пропуску «Краківець», під час огляду автомобіля виявили 11 незадекларованих «iPhone Duo». Загальна вартість товару становить 1,4 млн грн.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "711a6705c0b0f9cd",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -14656,6 +14675,25 @@
         "вирок",
         "колаборантка",
         "колабораціонізм"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e8c1180ecacb3335",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/24/vnochi-ukrayina-perehodit-na-zimovij-chas",
+      "title": "Вночі Україна переходить на зимовий час",
+      "published_at": "2026-10-24T12:41:36+00:00",
+      "published_raw": "Sat, 24 Oct 2026 14:41:36 +0200",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "О 03:00 годинники слід переставити на годину НАЗАД.",
+      "categories": [
+        "Країна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15107,6 +15145,23 @@
       "status": "new"
     },
     {
+      "id": "03712d7271403274",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1434115-kriticni-ta-ekstreni-vipadki-za-skilki-casu-mae-priihati-svidka-na-viklik",
+      "title": "Критичні та екстрені випадки: за скільки часу має приїхати «швидка» на виклик",
+      "published_at": "2026-10-24T12:28:14+00:00",
+      "published_raw": "Sat, 24 Oct 2026 15:28:14 +0300",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Для «швидкої» існує дві категорії викликів: критичні та екстрені. За скільки часу має приїхати «швидка» і які випадки належать до цих категорій, пояснює гендиректор Львівського обласного центру екстреної медичної допомоги.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d87033fa25226c77",
       "source_id": "nv",
       "source": "NV",
@@ -15282,25 +15337,6 @@
       "description": "Під час обміну військовополоненими 23 жовтня 2026 року з російського полону повернувся Олександр Мандзак із села Бургунка Тягинської громади Бериславського району Херсонщини.",
       "categories": [
         "Новини"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "9ac176a58b6d0068",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/nebezpechnij-obgin-na-avtodorozi-bilya-korsunya-zitknulisya-dva-legkoviki-troye-lyudej-u-likarni",
-      "title": "Небезпечний обгін: на автодорозі біля Корсуня зіткнулися два легковики, троє людей у лікарні",
-      "published_at": "2026-10-24T12:22:47+00:00",
-      "published_raw": "Sat, 24 Oct 2026 15:22:47 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Увечері 23 жовтня на трасі «Київ – Знам’янка» біля Корсунь-Шевченківського сталася дорожньо-транспортна пригода за участі двох автомобілів. Унаслідок лобового зіткнення травмувалися троє людей, їх госпіталізували до лікарні. про це повідомили у Поліції Черкаської області. Як йдеться в дописі, автотроща сталася близько 19:00. «22-річна водійка Volkswagen CC під час обгону не обрала безпечну швидкість руху, виїхала на смугу зустрічного руху та зіткнулася з Geely MK Cross під керуванням 28-річної водійки», – повідомили у поліції.",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -16016,6 +16052,25 @@
       "status": "new"
     },
     {
+      "id": "30efa77e0732b071",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/24/rosijski-raketi-atakuvali-lozovu-na-harkivshhini-ta-vbili-lyudinu",
+      "title": "Російські ракети атакували Лозову на Харківщині та вбили людину (доповнено фото)",
+      "published_at": "2026-10-24T12:07:25+00:00",
+      "published_raw": "Sat, 24 Oct 2026 14:07:25 +0200",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Відомо про трьох постраждалих та пожежу на місці влучання.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8b00a4ecd19ff55c",
       "source_id": "lb",
       "source": "LB.ua",
@@ -16337,6 +16392,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "14f48fa15bb53efc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1435961-na-fronti-zaginuv-student-zaporizkogo-nacionalnogo-universitetu-mikola-serbinin",
+      "title": "На фронті загинув студент Запорізького національного університету Микола Щербінін",
+      "published_at": "2026-10-24T12:00:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 15:00:00 +0300",
+      "fetched_at": "2026-10-24T18:08:50+00:00",
+      "description": "Обороняючи незалежність на територіальну цілісність України, на Донецькому напрямку загинув військовослужбовець, студент економічного факультету Запорізького національного університету Микола Щербінін",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16847,6 +16919,25 @@
         "main",
         "війна",
         "жертви"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5af3ac42619aaa98",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/saperi-vodiyi-buxgalteri-cherkashhan-zaklikayut-doluchitisya-do-zaxistu-neba-nad-oblastyu",
+      "title": "Класичні «шахеди» повертаються: чим обстрілюють росіяни Черкащину",
+      "published_at": "2026-10-24T11:55:09+00:00",
+      "published_raw": "Sat, 24 Oct 2026 13:55:09 +0200",
+      "fetched_at": "2026-10-24T10:58:59+00:00",
+      "description": "У небі Черкаської області за минулий тиждень, крім реактивних БпЛА, зафіксували 77 класичних ударних дронів типу «Шахед». Про це в коментарі «18000» розповів начальник штабу 642 озкб Максим Полішкевич. За його словами, росіяни разом із реактивними безпілотниками знову запускають по Україні класичні «шахеди». - У 642 окремому зенітному кулеметному батальйоні, який захищає небо Черкащини, вважають, що ця тенденція збережеться, тому мобільні вогневі групи та дрони-перехоплювачі залишаються однією з найдієвіших відповідей, – зазначив Максим Полішкевич.",
+      "categories": [
+        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -17482,25 +17573,6 @@
       "categories": [
         "Infocrime. Харків",
         "Новини"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "e8c1180ecacb3335",
-      "source_id": "map-683",
-      "source": "Харків Times",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://times.kharkiv.ua/2026/10/24/vnochi-ukrayina-perehodit-na-zimovij-chas",
-      "title": "Вночі Україна переходить на зимовий час",
-      "published_at": "2026-10-24T11:41:36+00:00",
-      "published_raw": "Sat, 24 Oct 2026 14:41:36 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "О 03:00 годинники слід переставити на годину НАЗАД.",
-      "categories": [
-        "Країна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -18903,25 +18975,6 @@
       "status": "new"
     },
     {
-      "id": "30efa77e0732b071",
-      "source_id": "map-683",
-      "source": "Харків Times",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://times.kharkiv.ua/2026/10/24/rosijski-raketi-atakuvali-lozovu-na-harkivshhini-ta-vbili-lyudinu",
-      "title": "Російські ракети атакували Лозову на Харківщині та вбили людину (доповнено фото)",
-      "published_at": "2026-10-24T11:07:25+00:00",
-      "published_raw": "Sat, 24 Oct 2026 14:07:25 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Відомо про трьох постраждалих та пожежу на місці влучання.",
-      "categories": [
-        "Війна"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "049b960e5245f626",
       "source_id": "map-896",
       "source": "Прихист",
@@ -19464,6 +19517,23 @@
       "status": "new"
     },
     {
+      "id": "9ebb03f16e372784",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/naslidky-na-desyatky-rokiv-yak-rosijsko-ukrayinska-vijna-vplyvaye-na-chorne-more",
+      "title": "Наслідки на десятки років: як російсько-українська війна впливає на Чорне море?",
+      "published_at": "2026-10-24T11:00:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 13:00:00 +0200",
+      "fetched_at": "2026-10-24T10:58:59+00:00",
+      "description": "Повномасштабна війна має як опосередкований, так і безпосередній вплив на морське довкілля. Якщо говорити про прибережні території, то на них впливають наявність особового складу і різноманітної військової техніки. Негативний вплив також чинить будівництво різних фортифікаційних споруд, зокрема протитанкових ровів, траншей, бункерів та інших земляних конструкцій. Спутниками бойових дій є бомбардування, обстріли та вибухи, які відбуваються, [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5eef453bcb609d5d",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -19699,25 +19769,6 @@
         "Новини",
         "війна",
         "Донецька область"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "5af3ac42619aaa98",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/saperi-vodiyi-buxgalteri-cherkashhan-zaklikayut-doluchitisya-do-zaxistu-neba-nad-oblastyu",
-      "title": "Класичні «шахеди» повертаються: чим обстрілюють росіяни Черкащину",
-      "published_at": "2026-10-24T10:55:09+00:00",
-      "published_raw": "Sat, 24 Oct 2026 13:55:09 +0300",
-      "fetched_at": "2026-10-24T10:58:59+00:00",
-      "description": "У небі Черкаської області за минулий тиждень, крім реактивних БпЛА, зафіксували 77 класичних ударних дронів типу «Шахед». Про це в коментарі «18000» розповів начальник штабу 642 озкб Максим Полішкевич. За його словами, росіяни разом із реактивними безпілотниками знову запускають по Україні класичні «шахеди». - У 642 окремому зенітному кулеметному батальйоні, який захищає небо Черкащини, вважають, що ця тенденція збережеться, тому мобільні вогневі групи та дрони-перехоплювачі залишаються однією з найдієвіших відповідей, – зазначив Максим Полішкевич.",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -20717,6 +20768,25 @@
       "status": "new"
     },
     {
+      "id": "89216768c1a21585",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/cherkashhanin-zberigav-kanabis-u-sebe-vdoma-shhob-tamuvati-bil-adzhe-ne-pye-30-rokiv-vin-zaplatit-shtraf",
+      "title": "Черкащанин зберігав канабіс у себе вдома, щоб «тамувати біль, адже не пʼє 30 років». Він заплатить штраф",
+      "published_at": "2026-10-24T10:31:23+00:00",
+      "published_raw": "Sat, 24 Oct 2026 12:31:23 +0200",
+      "fetched_at": "2026-10-24T10:58:59+00:00",
+      "description": "На Черкащині судили чоловіка за незаконне зберігання канабісу. Він сказав, що тримав його вдома для власного вживання. Обвинуваченому призначили 17 тисяч гривень штрафу. Про це йдеться у вироку Христинівського районного суду, пише «18000». Під час судового засідання обвинувачений розповів, що побачив на сміттєзвалищі кущі канабісу та назбирав собі. Зберігав у пакетах у коробці з‑під взуття. Черкащанин зазначив, що зберігав наркотики для власного вживання. За його словами, він приймає канабіс, аби втамувати біль, бо вже 30 років не п’є. Також додав, що вже відмовився від вживання наркотиків.",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0382636ba05de7e4",
       "source_id": "lb",
       "source": "LB.ua",
@@ -21324,8 +21394,8 @@
       "description": "У Лікувально-діагностичному центрі «Клініка святого Луки» в Івано-Франківську виконують нейрохірургічні операції різної складності. Коли йдеться про цей напрям оперативного втручання – ціна кожного рішення вимірюється не тільки міліметрами, а в... The post Нейрохірургія: можливості оперативного лікування у Клініці святого Луки appeared first on Galka.if.ua .",
       "categories": [
         "Новини",
-        "Здоров'я",
         "Франківські новини",
+        "Здоров'я",
         "Життя",
         "Клініка святого Луки"
       ],
@@ -21464,23 +21534,6 @@
         "ai-train": "no",
         "use": "reference"
       },
-      "status": "new"
-    },
-    {
-      "id": "3a9b85f3d7448fcc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/lviv/1435863-na-lvivsini-stalasa-dtp-za-ucasti-rejsovogo-avtobusa-patero-ludej-otrimali-travmi",
-      "title": "На Львівщині сталася ДТП за участі рейсового автобуса: п'ятеро людей отримали травми",
-      "published_at": "2026-10-24T10:14:07+00:00",
-      "published_raw": "Sat, 24 Oct 2026 13:14:07 +0300",
-      "fetched_at": "2026-10-24T14:32:17+00:00",
-      "description": "Вранці 24 жовтня на трасі «Львів-Краковець» сталася аварія за участі легкового автомобіля та рейсового автобуса. Обидва водії та троє пасажирів автобуса отримали травми.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
       "status": "new"
     },
     {
@@ -22146,23 +22199,6 @@
       "status": "new"
     },
     {
-      "id": "9ebb03f16e372784",
-      "source_id": "map-418",
-      "source": "Informer.od.ua",
-      "geography": "regional",
-      "source_region": "odesa",
-      "url": "https://informer.od.ua/news/naslidky-na-desyatky-rokiv-yak-rosijsko-ukrayinska-vijna-vplyvaye-na-chorne-more",
-      "title": "Наслідки на десятки років: як російсько-українська війна впливає на Чорне море?",
-      "published_at": "2026-10-24T10:00:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 13:00:00 +0300",
-      "fetched_at": "2026-10-24T10:58:59+00:00",
-      "description": "Повномасштабна війна має як опосередкований, так і безпосередній вплив на морське довкілля. Якщо говорити про прибережні території, то на них впливають наявність особового складу і різноманітної військової техніки. Негативний вплив також чинить будівництво різних фортифікаційних споруд, зокрема протитанкових ровів, траншей, бункерів та інших земляних конструкцій. Спутниками бойових дій є бомбардування, обстріли та вибухи, які відбуваються, [...]",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "2755007113b1b65e",
       "source_id": "map-660",
       "source": "Кременчуцький Телеграф",
@@ -22629,6 +22665,23 @@
       "published_raw": "Sat, 24 Oct 2026 12:46:49 +0300",
       "fetched_at": "2026-10-24T14:32:17+00:00",
       "description": "Міністерство оборони Молдови підтвердило, що безпілотник, який 23 жовтня порушив повітряний простір країни та впав у Теленештському районі, був російською Геранню-4",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0b61fb46da6b24b7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1435977-u-pp-krakivec-viavili-v-avtomobili-11-nezadeklarovanih-iphone-duo",
+      "title": "У ПП «Краківець» виявили в автомобілі 11 незадекларованих «iPhone Duo»",
+      "published_at": "2026-10-24T09:45:51+00:00",
+      "published_raw": "Sat, 24 Oct 2026 12:45:51 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "На українсько-польському кордоні, у пункті пропуску «Краківець», під час огляду автомобіля виявили 11 незадекларованих «iPhone Duo». Загальна вартість товару становить 1,4 млн грн.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -23283,25 +23336,6 @@
       "description": "З російського полону звільнили військового Павла Сисуна, уродженця Комишан Херсонської громади. Про його повернення повідомила сестра захисника у соцмережах. Павло Сисун потрапив у полон 12 квітня 2022 року під час оборони Маріуполя. Його звільнили під час обміну військовополоненими 23 жотвня 2026 року. Чоловік захищає Україну з 2015 року. Загалом під час третього етапу масштабного обміну [...] Запис З російського полону звільнили захисника з Комишан спершу з'явиться на Мост .",
       "categories": [
         "Новина"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "89216768c1a21585",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/cherkashhanin-zberigav-kanabis-u-sebe-vdoma-shhob-tamuvati-bil-adzhe-ne-pye-30-rokiv-vin-zaplatit-shtraf",
-      "title": "Черкащанин зберігав канабіс у себе вдома, щоб «тамувати біль, адже не пʼє 30 років». Він заплатить штраф",
-      "published_at": "2026-10-24T09:31:23+00:00",
-      "published_raw": "Sat, 24 Oct 2026 12:31:23 +0300",
-      "fetched_at": "2026-10-24T10:58:59+00:00",
-      "description": "На Черкащині судили чоловіка за незаконне зберігання канабісу. Він сказав, що тримав його вдома для власного вживання. Обвинуваченому призначили 17 тисяч гривень штрафу. Про це йдеться у вироку Христинівського районного суду, пише «18000». Під час судового засідання обвинувачений розповів, що побачив на сміттєзвалищі кущі канабісу та назбирав собі. Зберігав у пакетах у коробці з‑під взуття. Черкащанин зазначив, що зберігав наркотики для власного вживання. За його словами, він приймає канабіс, аби втамувати біль, бо вже 30 років не п’є. Також додав, що вже відмовився від вживання наркотиків.",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -24229,6 +24263,25 @@
       "description": "У Коломиї на Івано-Франківщині понад сотня учасників готуються виконати у Страсну п’ятницю твір Джоаккіно Россіні «Страждальна Мати» у костелі Святого Ігнатія Лойоли.",
       "categories": [
         "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7623daeaddf23fd8",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/vazhlivo/ponad-dva-roki-nevoli-z-rosijskogo-polonu-povernuli-morpixa-z-cherkashhini-dmitra-cikalova",
+      "title": "Понад два роки неволі: з російського полону повернули морпіха з Черкащини Дмитра Цикалова",
+      "published_at": "2026-10-24T09:11:27+00:00",
+      "published_raw": "Sat, 24 Oct 2026 11:11:27 +0200",
+      "fetched_at": "2026-10-24T09:28:38+00:00",
+      "description": "Під час масштабного обміну полоненими 23 жовтня додому повернувся воїн зі Шполянської громади — морський піхотинець Дмитро Цикалов. Про це повідомили у Шполянській міській раді. Що відомо про Цикалова Сергія? Дмитро у грудні 2021 року підписав контракт і став до лав морської піхоти. У квітні 2022-го воїн потрапив у ворожий полон. У Миколаєві на Дмитра чекає дівчина Тетяна, а в селі Сигнаївка проживає мама захисника — Світлана. Нагадаємо, що у межах чергового обміну полоненими додому повернулися воїн із Черкащини Микола Шейко та старший матрос Владислав Скляров.",
+      "categories": [
+        "Важливо"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -26177,6 +26230,23 @@
       "status": "new"
     },
     {
+      "id": "938908f338b2391e",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/zasudzheno-odesyta-yakyj-organizuvav-kontrabandu-na-7-mln-grn-do-rumuniyi",
+      "title": "Засуджено одесита, який організував контрабанду на 7 млн грн до Румунії",
+      "published_at": "2026-10-24T08:28:00+00:00",
+      "published_raw": "Sat, 24 Oct 2026 10:28:00 +0200",
+      "fetched_at": "2026-10-24T09:28:38+00:00",
+      "description": "У квітні 2025 року прикордонники Ізмаїльського загону в поромному пункті пропуску «Орлівка» припинили масштабну схему контрабанди до Румунії. Під час перевірки вантажівки, яка за документами перевозила морозиво, охоронці кордону виявили, що значна частина пластикових контейнерів насправді була заповнена сигаретами та алкоголем. Загалом прикордонники виявили близько 34 тис. пачок тютюнових виробів з марками акцизного податку України [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d71440fcbc69a0de",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -26999,25 +27069,6 @@
       "status": "new"
     },
     {
-      "id": "7623daeaddf23fd8",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/vazhlivo/ponad-dva-roki-nevoli-z-rosijskogo-polonu-povernuli-morpixa-z-cherkashhini-dmitra-cikalova",
-      "title": "Понад два роки неволі: з російського полону повернули морпіха з Черкащини Дмитра Цикалова",
-      "published_at": "2026-10-24T08:11:27+00:00",
-      "published_raw": "Sat, 24 Oct 2026 11:11:27 +0300",
-      "fetched_at": "2026-10-24T09:28:38+00:00",
-      "description": "Під час масштабного обміну полоненими 23 жовтня додому повернувся воїн зі Шполянської громади — морський піхотинець Дмитро Цикалов. Про це повідомили у Шполянській міській раді. Що відомо про Цикалова Сергія? Дмитро у грудні 2021 року підписав контракт і став до лав морської піхоти. У квітні 2022-го воїн потрапив у ворожий полон. У Миколаєві на Дмитра чекає дівчина Тетяна, а в селі Сигнаївка проживає мама захисника — Світлана. Нагадаємо, що у межах чергового обміну полоненими додому повернулися воїн із Черкащини Микола Шейко та старший матрос Владислав Скляров.",
-      "categories": [
-        "Важливо"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "ccd3284b57e7b96c",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -27380,6 +27431,25 @@
       "fetched_at": "2026-10-24T09:28:38+00:00",
       "description": "Дев’ять громад Вінницької області отримали нові шкільні автобуси. Транспорт передали Барській, Бершадській, Дашівській, Оратівській, Копайгородській, Піщанській, Агрономічній, Вендичанській та Мурованокуриловецькій громадам. Про це повідомила начальниця Вінницької обласної військової адміністрації Наталя Заболотна. За її словами, загалом упродовж 2026 року для Вінниччини закупили 51 шкільний автобус. На придбання транспорту держава спрямувала понад 170 мільйонів гривень субвенції. Ще понад 35 мільйонів гривень додали з місцевих бюджетів.",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "32b5549df892be2c",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/24/obstrili-harkova-ta-oblasti-za-dobu-7-postrazhdalih-2",
+      "title": "Обстріли Харкова та області за добу: 7 постраждалих",
+      "published_at": "2026-10-24T08:04:47+00:00",
+      "published_raw": "Sat, 24 Oct 2026 10:04:47 +0200",
+      "fetched_at": "2026-10-24T09:28:38+00:00",
+      "description": "Ворожих ударів зазнали Харків і 15 населених пунктів Харківської області.",
+      "categories": [
+        "Війна"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -28649,6 +28719,25 @@
       "status": "new"
     },
     {
+      "id": "1b310ad03a031757",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/cherkaski-zabudovniki-posidili-u-sizo-cherez-biznes-z-okupantami",
+      "title": "Черкаські забудовники посиділи у СІЗО через бізнес з окупантами",
+      "published_at": "2026-10-24T07:44:39+00:00",
+      "published_raw": "Sat, 24 Oct 2026 09:44:39 +0200",
+      "fetched_at": "2026-10-24T09:28:38+00:00",
+      "description": "Вирок за співпрацю з росією отримали бенефіціари компанії «Агростройсервіс», яка звела у Черкасах не одну багатоповерхівку, та пов’язані з нею особи. Хоча спочатку вони перебували в СІЗО, після фінального засідання суду – поїхали додому, а один із них – навіть із російським паспортом. Про це «18000» розповідає у відеоматеріалі про забудовників Черкас. Бізнес у Луганську та зв’язки з російським фондом: що встановило слідство Українська компанія «Агростройсервіс» була зареєстрована у 1994 році. Її основні виробничі потужності та майно розташовувалися у Луганську.",
+      "categories": [
+        "Важливо"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b01ede2dfb40210e",
       "source_id": "hromadske-radio",
       "source": "Громадське радіо",
@@ -29581,23 +29670,6 @@
       "status": "new"
     },
     {
-      "id": "938908f338b2391e",
-      "source_id": "map-418",
-      "source": "Informer.od.ua",
-      "geography": "regional",
-      "source_region": "odesa",
-      "url": "https://informer.od.ua/news/zasudzheno-odesyta-yakyj-organizuvav-kontrabandu-na-7-mln-grn-do-rumuniyi",
-      "title": "Засуджено одесита, який організував контрабанду на 7 млн грн до Румунії",
-      "published_at": "2026-10-24T07:28:00+00:00",
-      "published_raw": "Sat, 24 Oct 2026 10:28:00 +0300",
-      "fetched_at": "2026-10-24T09:28:38+00:00",
-      "description": "У квітні 2025 року прикордонники Ізмаїльського загону в поромному пункті пропуску «Орлівка» припинили масштабну схему контрабанди до Румунії. Під час перевірки вантажівки, яка за документами перевозила морозиво, охоронці кордону виявили, що значна частина пластикових контейнерів насправді була заповнена сигаретами та алкоголем. Загалом прикордонники виявили близько 34 тис. пачок тютюнових виробів з марками акцизного податку України [...]",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "ed9a65b8e8346025",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -30070,6 +30142,23 @@
       "status": "new"
     },
     {
+      "id": "3a9b85f3d7448fcc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1435863-na-lvivsini-stalasa-dtp-za-ucasti-rejsovogo-avtobusa-patero-ludej-otrimali-travmi",
+      "title": "На Львівщині сталася ДТП за участі рейсового автобуса: п'ятеро людей отримали травми",
+      "published_at": "2026-10-24T07:14:07+00:00",
+      "published_raw": "Sat, 24 Oct 2026 10:14:07 +0300",
+      "fetched_at": "2026-10-24T14:32:17+00:00",
+      "description": "Вранці 24 жовтня на трасі «Львів-Краковець» сталася аварія за участі легкового автомобіля та рейсового автобуса. Обидва водії та троє пасажирів автобуса отримали травми.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6b654a3e81e4faf8",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -30384,25 +30473,6 @@
         "інтерв'ю",
         "народний колектив",
         "пісня"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "32b5549df892be2c",
-      "source_id": "map-683",
-      "source": "Харків Times",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://times.kharkiv.ua/2026/10/24/obstrili-harkova-ta-oblasti-za-dobu-7-postrazhdalih-2",
-      "title": "Обстріли Харкова та області за добу: 7 постраждалих",
-      "published_at": "2026-10-24T07:04:47+00:00",
-      "published_raw": "Sat, 24 Oct 2026 10:04:47 +0300",
-      "fetched_at": "2026-10-24T09:28:38+00:00",
-      "description": "Ворожих ударів зазнали Харків і 15 населених пунктів Харківської області.",
-      "categories": [
-        "Війна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -31488,25 +31558,6 @@
       "status": "new"
     },
     {
-      "id": "1b310ad03a031757",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/cherkaski-zabudovniki-posidili-u-sizo-cherez-biznes-z-okupantami",
-      "title": "Черкаські забудовники посиділи у СІЗО через бізнес з окупантами",
-      "published_at": "2026-10-24T06:44:39+00:00",
-      "published_raw": "Sat, 24 Oct 2026 09:44:39 +0300",
-      "fetched_at": "2026-10-24T09:28:38+00:00",
-      "description": "Вирок за співпрацю з росією отримали бенефіціари компанії «Агростройсервіс», яка звела у Черкасах не одну багатоповерхівку, та пов’язані з нею особи. Хоча спочатку вони перебували в СІЗО, після фінального засідання суду – поїхали додому, а один із них – навіть із російським паспортом. Про це «18000» розповідає у відеоматеріалі про забудовників Черкас. Бізнес у Луганську та зв’язки з російським фондом: що встановило слідство Українська компанія «Агростройсервіс» була зареєстрована у 1994 році. Її основні виробничі потужності та майно розташовувалися у Луганську.",
-      "categories": [
-        "Важливо"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "fafe9ef679399f5f",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -31648,6 +31699,25 @@
       "description": "Серед тварин, які потрапляють в об’єктиви камер прикордонників, є й рідкісні червонокнижні види.",
       "categories": [
         "Новини Чернівців"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "80666abd9790266c",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/24/u-harkovi-timchasovo-zminili-marshruti-tramvayiv-i-trolejbusiv-cherez-pereboyi-v-elektropostachanni",
+      "title": "У Харкові тимчасово змінили маршрути трамваїв і тролейбусів через перебої в електропостачанні",
+      "published_at": "2026-10-24T06:39:38+00:00",
+      "published_raw": "Sat, 24 Oct 2026 08:39:38 +0200",
+      "fetched_at": "2026-10-24T05:53:07+00:00",
+      "description": "На час відсутності трамвайного сполучення працює тимчасовий автобусний маршрут.",
+      "categories": [
+        "Війна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -32386,6 +32456,23 @@
       "published_raw": "Sat, 24 Oct 2026 09:26:09 +0300",
       "fetched_at": "2026-10-24T14:32:17+00:00",
       "description": "24 жовтня у Чернівецькій області прощаються з військовим Олександром Забурянним. Він був воїном Національної гвардії України. Загинув 26 лютого 2026 року під час виконання бойового завдання у Донецькій області",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f7b3473b749dcc39",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/sogodni-odeskyj-zoopark-zachynenyj-dlya-vidviduvachiv-cherez-osinnyu-toloku",
+      "title": "Сьогодні Одеський зоопарк зачинений для відвідувачів через осінню толоку",
+      "published_at": "2026-10-24T06:25:56+00:00",
+      "published_raw": "Sat, 24 Oct 2026 08:25:56 +0200",
+      "fetched_at": "2026-10-24T05:53:07+00:00",
+      "description": "Про таке попереджає КУ “Одеський зоопарк”. Цього дня працівники зоопарку та волонтери прибиратимуть територію та впорядковуватимуть простір, щоб забезпечити належні санітарні умови для тварин і комфорт для відвідувачів, – сказано у повідомленні. – Уже в неділю, 25 жовтня, зоопарк працюватиме у звичайному режимі. Просимо врахувати цю інформацію під час планування вихідних. До зустрічі в Одеському [...]",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -34206,25 +34293,6 @@
       "status": "new"
     },
     {
-      "id": "80666abd9790266c",
-      "source_id": "map-683",
-      "source": "Харків Times",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://times.kharkiv.ua/2026/10/24/u-harkovi-timchasovo-zminili-marshruti-tramvayiv-i-trolejbusiv-cherez-pereboyi-v-elektropostachanni",
-      "title": "У Харкові тимчасово змінили маршрути трамваїв і тролейбусів через перебої в електропостачанні",
-      "published_at": "2026-10-24T05:39:38+00:00",
-      "published_raw": "Sat, 24 Oct 2026 08:39:38 +0300",
-      "fetched_at": "2026-10-24T05:53:07+00:00",
-      "description": "На час відсутності трамвайного сполучення працює тимчасовий автобусний маршрут.",
-      "categories": [
-        "Війна"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "3c070c908d9d4bf0",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -34830,23 +34898,6 @@
       "published_raw": "Sat, 24 Oct 2026 08:26:06 +0300",
       "fetched_at": "2026-10-24T05:53:07+00:00",
       "description": "У суботу, 24 жовтня, у Чернівцях синоптики прогнозують хмарну з проясненнями погоду, опадів не прогнозують, але буде туманно.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "f7b3473b749dcc39",
-      "source_id": "map-418",
-      "source": "Informer.od.ua",
-      "geography": "regional",
-      "source_region": "odesa",
-      "url": "https://informer.od.ua/news/sogodni-odeskyj-zoopark-zachynenyj-dlya-vidviduvachiv-cherez-osinnyu-toloku",
-      "title": "Сьогодні Одеський зоопарк зачинений для відвідувачів через осінню толоку",
-      "published_at": "2026-10-24T05:25:56+00:00",
-      "published_raw": "Sat, 24 Oct 2026 08:25:56 +0300",
-      "fetched_at": "2026-10-24T05:53:07+00:00",
-      "description": "Про таке попереджає КУ “Одеський зоопарк”. Цього дня працівники зоопарку та волонтери прибиратимуть територію та впорядковуватимуть простір, щоб забезпечити належні санітарні умови для тварин і комфорт для відвідувачів, – сказано у повідомленні. – Уже в неділю, 25 жовтня, зоопарк працюватиме у звичайному режимі. Просимо врахувати цю інформацію під час планування вихідних. До зустрічі в Одеському [...]",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -39104,6 +39155,12 @@
       "at": "2026-10-24T23:13:47+00:00",
       "fetched": 1150,
       "added": 9,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-25T01:11:44+00:00",
+      "fetched": 1329,
+      "added": 3,
       "errors": 3
     }
   ]

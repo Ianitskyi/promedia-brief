@@ -1,9 +1,26 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-24T23:13:47+00:00",
-  "source_count": 13,
-  "item_count": 46,
+  "generated_at": "2026-10-25T01:11:44+00:00",
+  "source_count": 16,
+  "item_count": 68,
   "items": [
+    {
+      "id": "52ce3f4308ac58a5",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/25/novyna/polityka/tramp-zayavyv-ssha-vestymut-biznes-ukrayinoyu-ta-rosiyeyu-pislya-vijny",
+      "title": "Трамп заявив, що США вестимуть бізнес з Україною та росією після війни",
+      "published_at": "2026-10-25T01:33:56+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:33:56 +0200",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Дональд Трамп заявив, що після завершення війни США планують вести бізнес з Україною та Росією. Також він допустив можливий візит Меланії Трамп до України.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "4dc816cf35539b67",
       "source_id": "map-875",
@@ -12,8 +29,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/mediki-v-shoci-vid-kilkosti-otruyen-gribami-na-chernigivshini-article",
       "title": "Медики в шоці від кількості отруєнь грибами на Чернігівщині",
-      "published_at": "2026-10-25T00:13:02+00:00",
-      "published_raw": "Sun, 25 Oct 2026 02:13:02 +0200",
+      "published_at": "2026-10-25T01:11:02+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:11:02 +0200",
       "fetched_at": "2026-10-24T23:13:47+00:00",
       "description": "",
       "categories": [
@@ -22,6 +39,101 @@
       "date_issues": [
         "future-date"
       ],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0e3e7634281cb2e7",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/obstril-slov-yanska-rf-vdarila-po-mistu-fabami-zruynovano-shkoli-ta-budinki-poraneno-lyudey-50653125.html",
+      "title": "Росіяни атакували Слов’янськ ФАБами: пошкоджено й зруйновано багатоповерхівки, заклади освіти та адмінбудівлю, є поранені",
+      "published_at": "2026-10-25T01:03:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:03:00 +0200",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Ввечері суботи, 24 жовтня, російські війська вдарили ФАБами по Слов’янську на Донеччині. Внаслідок атаки в різних частинах міста було пошкоджено та зруйновано багатоповерхові будинки, два заклади освіти, адміністративну будівлю, об’єкт інфраструктури, кафе й автомобілі.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7437ac50dc155a52",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-24-na-25-zhovtnya-vsi-podrobici-onlayn-50653104.html",
+      "title": "Нічна атака РФ: у низці областей оголошено повітряну тривогу через загрозу БПЛА, у Харкові внаслідок удару є загиблий та поранені",
+      "published_at": "2026-10-25T01:02:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:02:00 +0200",
+      "fetched_at": "2026-10-24T23:13:47+00:00",
+      "description": "У ніч проти неділі, 25 жовтня, російські війська продовжили атаку на Україну ударними безпілотниками. У низці областей оголосили повітряну тривогу. У Харкові внаслідок атаки є загиблий та постраждалі.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5356cb14620f7703",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4174477-ukraina-perejsla-na-zimovij-cas.html",
+      "title": "Україна перейшла на зимовий час",
+      "published_at": "2026-10-25T01:01:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:01:00 +0200",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Українці в ніч на 25 жовтня перейшли на зимовий час, перевівши о четвертій годині ранку стрілки годинника на одну годину назад.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7f0b9b7465b1d5e6",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/dnk-bez-kistok-vcheni-zrobili-nezvichajne-vidkrittja-v-pecheri-ispaniji.html",
+      "title": "ДНК без кісток: вчені зробили незвичайне відкриття в печері Іспанії",
+      "published_at": "2026-10-25T00:46:57+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:46:57 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "У печерному ґрунті знайшли ДНК людей льодовикового періоду.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "95d2198e6a086bf3",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/v-italiji-stalisja-sutichki-pid-chas-novoji-khvili-protestiv-reuters.html",
+      "title": "В Італії сталися сутички під час нової хвилі протестів — Reuters",
+      "published_at": "2026-10-25T00:42:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:42:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Магазини зачинялися через ризик погромів, влада вивела на вулиці посилені поліцейські сили.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
       "content_signals": {},
       "status": "new"
     },
@@ -68,6 +180,212 @@
       "status": "new"
     },
     {
+      "id": "1d9cf1658dee323e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/masovi-zavorushennja-u-frantsiji-majzhe-tisjacha-zatrimanikh-pohromi-ta-sutichki-the-guardian.html",
+      "title": "Масові заворушення у Франції: майже тисяча затриманих, погроми та сутички — The Guardian",
+      "published_at": "2026-10-25T00:02:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 03:02:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Правоохоронці застосували сльозогінний газ і водомети, майже тисячу людей затримали.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cabbefc4d627cbe5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436211-v-italii-vidbulisa-novi-protesti-u-troh-mistah-stalisa-suticki-z-policieu",
+      "title": "В Італії відбулися нові протести: у трьох містах сталися сутички з поліцією",
+      "published_at": "2026-10-24T23:57:55+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:57:55 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "24 жовтня італійська влада посилила охорону міст. Сутички сталися також у Болоньї, а в Мілані акції минули здебільшого мирно. Поліція затримала людину, нібито причетну до організації заворушень 17–18 жовтня",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7054afaa34de124f",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/business/325450-analityky-poperedyly-podorozhchannia-svynyny-ukraini-afrykansku-chumu",
+      "title": "Аналітики попередили про подорожчання свинини в Україні через африканську чуму",
+      "published_at": "2026-10-24T23:56:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:56:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "В Україні через втрати поголів’я через африканську чуму свиней приблизно за рік може виникнути дефіцит свиней для переробки",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "c7f8ef7a7676d122",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436207-ak-ukraina-golosuvala-na-ditacomu-evrobacenni-2026-ta-vid-akih-krain-otrimala-bali",
+      "title": "Як Україна голосувала на «Дитячому Євробаченні-2026» та від яких країн отримала бали",
+      "published_at": "2026-10-24T23:55:22+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:55:22 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Кому українське журі віддало 12 балів на «Дитячому Євробаченні-2026», хто оцінював конкурсантів і чим глядацьке голосування відрізняється від дорослого конкурсу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "adb1d4ec35b2316a",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/25/8059589",
+      "title": "Трамп заявив, що США після війни вестимуть бізнес як з Україною, так і з РФ",
+      "published_at": "2026-10-24T23:49:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:49:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Президент США Дональд Трамп заявив про намір вести співпрацю з Києвом і Москвою після завершення війни між Україною та Росією.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1bd3bc1d29a4627c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4177894-poblizu-maetku-trampa-u-floridi-perehopili-civilnij-litak.html",
+      "title": "Поблизу маєтку Трампа у Флориді перехопили цивільний літак",
+      "published_at": "2026-10-24T23:48:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:48:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Військові США перехопили цивільний літак, який порушив тимчасові обмеження польотів над маєтком Мар-а-Лаго у Флориді, де розташована резиденція президента Трампа.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1e28b1e23560b3d4",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225678.html",
+      "title": "Унаслідок удару РФ по енергооб'єкту на Вінниччині частину області знеструмлено – ОВА",
+      "published_at": "2026-10-24T23:43:32+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:43:32 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Унаслідок влучання по енергетичному об'єкту на Вінниччині сталося аварійне відключення електропостачання в одному з районів області, постраждалих немає, повідомила начальниця Вінницької обласної військової адміністрації Наталя Заболотна.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "185e3bc0304c3768",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-sports/4177893-nazvano-najkrasih-legkoatletiv-evropi-2026-roku.html",
+      "title": "На церемонії Golden Tracks назвали найкращих легкоатлетів Європи 2026 року",
+      "published_at": "2026-10-24T23:37:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:37:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Швейцарка Одрі Верро та італієць Джанмарко Тамбері отримали нагороди найкращих легкоатлетів Європи 2026 року.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3fcb2c92c9bc7768",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436183-mi-vistupili-divovizno-erika-kolesnicenko-pro-final-ditacogo-evrobacenna-2026",
+      "title": "«Ми виступили дивовижно»: Еріка Колесніченко про фінал «Дитячого Євробачення 2026»",
+      "published_at": "2026-10-24T23:33:18+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:33:18 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Еріка Колесніченко назвала свій виступ «дивовижним» та подякувала українцям за підтримку. Співачка зазначила, що пишається виступом та своєю командою",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e360815ca3408ffc",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/donald-tramp-zayaviv-shcho-ssha-pislya-viyni-planuyut-biznes-z-ukrajinoyu-i-rosiyeyu-50653123.html",
+      "title": "Після завершення війни США вестимуть бізнес як з Україною, так і з Росією — Трамп",
+      "published_at": "2026-10-24T23:33:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:33:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Президент США Дональд Трамп заявив, що після завершення війни в Україні Сполучені Штати планують вести бізнес як із Києвом, так і з Москвою.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "253d20bdfa3d65e5",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177883-na-tli-krahu-vugilnoi-galuzi-rosiani-obicaut-robotizaciu-saht-na-tot-donbasu-cpd.html",
+      "title": "На тлі краху вугільної галузі росіяни обіцяють «роботизацію шахт» на ТОТ Донбасу - ЦПД",
+      "published_at": "2026-10-24T23:19:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 02:19:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "На тлі занепаду вугільної галузі на тимчасово окупованій території Донецької області російська пропаганда обіцяє \"роботизацію шахт\" у найближчі десятиліття.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "1039e50247b92083",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -82,6 +400,23 @@
       "categories": [
         "США"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3482d6a218211c6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436205-poslanec-papi-rimskogo-persim-z-inozemnih-predstavnikiv-vidvidav-ukrainskih-polonenih",
+      "title": "Посланець Папи Римського першим з іноземних представників відвідав українських полонених",
+      "published_at": "2026-10-24T22:59:52+00:00",
+      "published_raw": "Sun, 25 Oct 2026 01:59:52 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Представники російської омбудсманки Яни Лантратової також почали навідуватися до українських полонених. З нею Дмитро Лубінець 23 жовтня знову обговорив, як повертати громадян України, яких утримує Росія",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -161,25 +496,6 @@
       "status": "new"
     },
     {
-      "id": "7437ac50dc155a52",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-24-na-25-zhovtnya-vsi-podrobici-onlayn-50653104.html",
-      "title": "Нічна атака РФ: у низці областей оголошено повітряну тривогу через загрозу БПЛА, у Харкові внаслідок удару є загиблий та поранені",
-      "published_at": "2026-10-24T22:46:00+00:00",
-      "published_raw": "Sun, 25 Oct 2026 01:46:00 +0300",
-      "fetched_at": "2026-10-24T23:13:47+00:00",
-      "description": "У ніч проти неділі, 25 жовтня, російські війська продовжили атаку на Україну ударними безпілотниками. У низці областей оголосили повітряну тривогу. У Харкові внаслідок атаки є загиблий та постраждалі.",
-      "categories": [
-        "Україна/Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "32cc8c1254102bee",
       "source_id": "map-890",
       "source": "Місто і річка",
@@ -218,6 +534,25 @@
       "description": "В Україні в неділю, 25 жовтня, буде хмарно з проясненнями, дощі прогнозуються в Житомирській, Вінницькій, Одеській, Рівненській та Хмельницький областях, уночі 6-11°, вдень 13-18°.",
       "categories": [
         "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7751eb3b38ba1942",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4177892-u-cernivcah-vidkrivsa-festival-zoloti-opleski-bukovini.html",
+      "title": "У Чернівцях відкрився фестиваль «Золоті оплески Буковини»",
+      "published_at": "2026-10-24T22:31:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 01:31:00 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "У Чернівцях 24 жовтня розпочався 28-й театральний фестиваль комедій «Золоті оплески Буковини».",
+      "categories": [
+        "Культура"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -530,6 +865,23 @@
       "status": "new"
     },
     {
+      "id": "dcfad114db478fdf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436181-virmenia-peremogla-na-ditacomu-evrobacenni-2026",
+      "title": "Вірменія перемогла на «Дитячому Євробаченні 2026», Україна — в десятці",
+      "published_at": "2026-10-24T21:24:49+00:00",
+      "published_raw": "Sun, 25 Oct 2026 00:24:49 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Країну представляла Naré з піснею BOO!, яка отримала 202 бала від журі та глядачів. Україна посіла 9 місце, отримавши 106 балів, представницею була Еріка Колесніченко з піснею Not A Lullaby",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d508a5c103ac234e",
       "source_id": "map-588",
       "source": "Накипіло",
@@ -585,6 +937,23 @@
       "status": "new"
     },
     {
+      "id": "cd3c1d93e2391229",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436185-rf-vdarila-bezpilotnikom-po-odnomu-z-rajoniv-harkova-e-zagiblij-ta-poraneni",
+      "title": "РФ вдарила безпілотником по одному з районів Харкова: є загиблий та поранені",
+      "published_at": "2026-10-24T21:19:21+00:00",
+      "published_raw": "Sun, 25 Oct 2026 00:19:21 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Близько опівночі 24 жовтня росіяни вдарили реактивним безпілотником по Новобаварському району Харкова, повідомив міський голова Ігор Терехов. Щонайменше одна людина загинула, ще четверо, за його даними, постраждали",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a99b5e0cd5dfac01",
       "source_id": "lb",
       "source": "LB.ua",
@@ -599,6 +968,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "463d1cefdb4741cf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436171-strilanina-v-kievi-starlink-vidnoviv-robotu-bez-obmezen-svidkosti-1705-den-vijni",
+      "title": "Стрілянина в Києві, Starlink відновив роботу без обмежень швидкості. 1705 день війни",
+      "published_at": "2026-10-24T21:14:31+00:00",
+      "published_raw": "Sun, 25 Oct 2026 00:14:31 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Обмеження на швидкість роботи Starlink та Starshield скасували, водночас Маск заявив про порушення умов використання з боку українських військових. У Києві сталася стрілянина, є загиблі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -675,6 +1061,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "58dc2c267319cb1d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1416357-zvilnenna-teritorij-bila-limana-boi-za-kostantinivku-front-doneccini-i-lugansini-25-zovtna-2026-roku",
+      "title": "Звільнення територій біля Лимана, бої за Костянтинівку. Фронт Донеччини і Луганщини 25 жовтня 2026 року",
+      "published_at": "2026-10-24T21:01:56+00:00",
+      "published_raw": "Sun, 25 Oct 2026 00:01:56 +0300",
+      "fetched_at": "2026-10-25T01:11:44+00:00",
+      "description": "Що відбувається на фронті на Донбасі, бої за міста Донеччини, лінія фронту на Луганщині, дані Генштабу, коментарі військових, відео та фото",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -901,14 +1304,14 @@
   ],
   "errors": [
     {
-      "source": "Суспільне Новини",
-      "feed": "https://suspilne.media/rss/all.rss",
-      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
-    },
-    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
+    },
+    {
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
     },
     {
       "source": "Еспресо: Біла Церква",
@@ -921,6 +1324,12 @@
       "at": "2026-10-24T23:13:47+00:00",
       "fetched": 46,
       "added": 46,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-25T01:11:44+00:00",
+      "fetched": 66,
+      "added": 22,
       "errors": 3
     }
   ]
