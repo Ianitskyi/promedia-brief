@@ -1,8 +1,8 @@
 {
   "date": "2026-10-26",
-  "generated_at": "2026-10-25T22:32:57+00:00",
-  "source_count": 7,
-  "item_count": 18,
+  "generated_at": "2026-10-26T01:09:38+00:00",
+  "source_count": 14,
+  "item_count": 47,
   "items": [
     {
       "id": "3cc60520d9c07069",
@@ -12,8 +12,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/pishla-u-lis-po-gribi-na-chernigivshini-drugij-den-shukayut-babusyu-article",
       "title": "Пішла у ліс по гриби: на Чернігівщині другий день шукають бабусю",
-      "published_at": "2026-10-25T22:32:02+00:00",
-      "published_raw": "Mon, 26 Oct 2026 00:32:02 +0200",
+      "published_at": "2026-10-26T01:09:02+00:00",
+      "published_raw": "Mon, 26 Oct 2026 03:09:02 +0200",
       "fetched_at": "2026-10-25T22:32:57+00:00",
       "description": "",
       "categories": [
@@ -31,8 +31,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/na-prikordonni-chernigivshini-yunak-na-moticikli-pidirvavsya-na-vibuhivci-article",
       "title": "На прикордонні Чернігівщині юнак на мотициклі підірвався на вибухівці",
-      "published_at": "2026-10-25T22:32:02+00:00",
-      "published_raw": "Mon, 26 Oct 2026 00:32:02 +0200",
+      "published_at": "2026-10-26T01:09:02+00:00",
+      "published_raw": "Mon, 26 Oct 2026 03:09:02 +0200",
       "fetched_at": "2026-10-25T22:32:57+00:00",
       "description": "",
       "categories": [
@@ -50,8 +50,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/gromada-otrimala-pyat-mobilnih-ukrittiv-de-yih-vstanovili-article",
       "title": "Громада отримала п'ять мобільних укриттів: де їх встановили",
-      "published_at": "2026-10-25T22:32:02+00:00",
-      "published_raw": "Mon, 26 Oct 2026 00:32:02 +0200",
+      "published_at": "2026-10-26T01:09:02+00:00",
+      "published_raw": "Mon, 26 Oct 2026 03:09:02 +0200",
       "fetched_at": "2026-10-25T22:32:57+00:00",
       "description": "",
       "categories": [
@@ -69,12 +69,527 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/zhinka-nazbirala-ta-prigotuvala-sobi-gribiv-otruta-vdarila-po-pechinci-j-nirkah-article",
       "title": "Жінка назбирала та приготувала собі грибів: отрута вдарила по печінці й нирках",
-      "published_at": "2026-10-25T22:32:02+00:00",
-      "published_raw": "Mon, 26 Oct 2026 00:32:02 +0200",
+      "published_at": "2026-10-26T01:09:02+00:00",
+      "published_raw": "Mon, 26 Oct 2026 03:09:02 +0200",
       "fetched_at": "2026-10-25T22:32:57+00:00",
       "description": "",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b0e11b06e5e474f5",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/trudovij-dohovir-jak-prizupiniti-vpo-dlja-otrimannja-dopomohi-po-bezrobittju.html",
+      "title": "Трудовий договір: як призупинити ВПО для отримання допомоги по безробіттю",
+      "published_at": "2026-10-26T01:00:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 03:00:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Роз'яснення дали у Держпраці.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a63a6ecf9952b60d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/parlamentski-vibori-v-serbiji-studentskiy-spisok-peremagaye-za-prognozom-vuchich-viznav-porazku-50653256.html",
+      "title": "Вибори у Сербії: за попередніми даними, Студентський список набирає 52,9% голосів, Об'єднана Сербія Вучича — 38,8%",
+      "published_at": "2026-10-26T00:56:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:56:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "За прогнозом Центру вільних виборів і демократії (CeSID) та соціологічної агенції Ipsos, Студентський список набирає 52,9% голосів на позачергових парламентських виборах у Сербії, що відбулися в неділю, 25 жовтня. Об’єднана Сербія експрезидента Александара Вучича, отримує 38,8% голосів.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "95ea02b0339149bb",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/britanija-ta-frantsija-proveli-v-nimechchini-masshtabni-desantni-navchannja-na-tli-zahrozi-rosiji.html",
+      "title": "Британія та Франція провели в Німеччині масштабні десантні навчання на тлі загрози Росії",
+      "published_at": "2026-10-26T00:56:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:56:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Союзники відпрацьовували протидію безпілотникам і засобам радіоелектронної боротьби.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "37dc249e9609e9be",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4178094-gumanitarna-dopomoga-nagadue-ukraincam-so-pro-nih-ne-zabuli-britanska-volonterka.html",
+      "title": "Гуманітарна допомога нагадує українцям, що про них не забули - британська волонтерка",
+      "published_at": "2026-10-26T00:54:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:54:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Британська фотомодель і дизайнерrа Індія Гікс та її сини Конрад і Ейморі розповіли в Українському інституті Америки у Нью-Йорку про свою гуманітарну діяльність в Україні.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "24017794a2457157",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/26/novyna/svit/prezydent-brazyliyi-peremahaye-vyborax-ta-vchetverte-ocholyt-krayinu",
+      "title": "Президент Бразилії перемагає на виборах та вчетверте очолить країну",
+      "published_at": "2026-10-26T00:53:12+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:53:12 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Луїс Інасіу Лула да Сілва перемагає на виборах у Бразилії та піде на четвертий президентський термін. Він випередив Флавіу Болсонару на тлі політичної поляризації та суперечок навколо голосування.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9be91ced7e9595e",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/nezakonno-vylovyly-tovstoloby-pivdenne-vodoskhovyshche",
+      "title": "На Дніпровщині шестеро людей незаконно виловили понад 1,4 тисячі товстолобів",
+      "published_at": "2026-10-26T00:49:56+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:49:56 +0000",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "The post На Дніпровщині шестеро людей незаконно виловили понад 1,4 тисячі товстолобів appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпровщина",
+        "рибалка"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "894419c9709fefb1",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-25-na-26-zhovtnya-2026-roku-vsi-podrobici-onlayn-50653229.html",
+      "title": "РФ атакує Україну шахедами: у низці областей оголошено повітряну тривогу через загрозу БПЛА",
+      "published_at": "2026-10-26T00:25:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:25:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "У ніч проти понеділка, 26 жовтня, війська РФ продовжили атаку на Україну реактивними БПЛА. У низці областей оголосили повітряну тривогу.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "012e69ed6fe9f4c7",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/143849-na-kartku-za-7-dniv-pislia-oformlennia-dadut-po-2000-hryven-pereviriatymut-vik-liudey",
+      "title": "На картку за 7 днів після оформлення дадуть по 2000 гривень: перевірятимуть вік людей",
+      "published_at": "2026-10-26T00:21:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:21:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "В Україні діє спеціальна програма підтримки, яка враховує вік людини. 2000 гривень дають тим, кому виповнилось 40 і більше років.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "caf55c1640b91d2c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4178089-v-aeroportu-shipgol-cerez-storm-skasuvali-desatki-rejsiv.html",
+      "title": "В аеропорту Схіпгол через шторм скасували десятки рейсів",
+      "published_at": "2026-10-26T00:20:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:20:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Через негоду нідерландська компанія KLM скасувала десятки авіарейсів на виліт та приліт в амстердамському аеропорту Схіпгол.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8ca0d826b2bfd6e2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/propaganda-v-okupaciji-yak-rf-perepisuye-ta-militarizuye-pidruchniki-dlya-ditey-50652528.html",
+      "title": "Культи і міфи від Кремля. Про що йдеться у підручниках, випущених в РФ для шкіл на окупованих територіях, і чим вони небезпечні",
+      "published_at": "2026-10-26T00:05:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 02:05:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Запорізькі козаки були зрадниками, Голодомор — це вигадка, а українського народу не існувало — у школи на тимчасово окупованій частині України надійшли нові антиукраїнські підручники з краєзнавства.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73212226ea2e2a57",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/u-portuhaliji-politsija-rozihnala-zhitlovi-protesti-ta-demontuvala-nametovi-tabori.html",
+      "title": "У Португалії поліція розігнала житлові протести та демонтувала наметові табори",
+      "published_at": "2026-10-25T23:59:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:59:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Після нічних операцій правоохоронці заявили про 11 травмованих, а активісти — про понад 20.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "602dc332740637bc",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/325471-rosiia-namahatymetsia-vyvezty-zhyteliv-oleshok-sebe-chas-evakuatsii",
+      "title": "Росія намагатиметься вивезти жителів Олешок до себе під час евакуації, — Зеленський",
+      "published_at": "2026-10-25T23:59:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:59:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Американська сторона запропонувала запровадити режим тиші в районі Олешок,що на Херсонщині, з 27 жовтня для проведення евакуації. Водночас Росія може спробувати спрямувати людей на свою територію.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "d9f06f4a77590125",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/26/novyna/polityka/prorosijska-kandydatka-lidyruye-pershomu-turi-vyboriv-prezydenta-bolhariyi",
+      "title": "Проросійська кандидатка лідирує у першому турі виборів президента Болгарії",
+      "published_at": "2026-10-25T23:57:39+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:57:39 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "На виборах у Болгарії лідирує Іліяна Йотова з 35,3 відсотків голосів. Проукраїнський кандидат Андрей Гюров набирає 32,4 відсотків, свідчать дані екзитполу.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "89fc5ad28e97e58d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4178093-u-cehii-vidbulisa-protesti-proti-planiv-nacionalizacii-suspilnih-zmi.html",
+      "title": "У Чехії відбулися протести проти планів націоналізації суспільних ЗМІ",
+      "published_at": "2026-10-25T23:41:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:41:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "У Празі відбувся велелюдний мітинг «Руки геть від суспільних ЗМІ» на підтримку незалежності Чеського телебачення та Чеського радіо.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "96f82ff0d612ae31",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/vakansiya-redaktor-strichki-novin-50092081.html",
+      "title": "NV шукає редакторку чи редактора стрічки новин",
+      "published_at": "2026-10-25T23:32:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:32:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Відділ новин сайту NV.ua шукає редакторку чи редактора стрічки новин. Великою перевагою буде наявність прикладів написаних вами новин — надсилайте разом із резюме!",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b4259e346808424f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1225796.html",
+      "title": "ЗСУ зірвали плани РФ щодо оточення на Донбасі та звільнили майже 280 кв. км під Лиманом – ISW",
+      "published_at": "2026-10-25T23:26:33+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:26:33 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Сили оборони України рішуче розгромили основний російський наступ, спрямований на повне захоплення Донецької області у 2026 році, та утримували ініціативу в ключових секторах лінії фронту протягом більшої частини року, повідомляє Інститут вивчення війни (ISW).",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c7e3e5a2772330d3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/viyska-rf-prosunulis-u-doneckiy-ta-zaporizkiy-oblastyah-situaciya-u-na-fronti-50653255.html",
+      "title": "Війська РФ просунулися поблизу Костянтинівки на Донеччині та Воздвижівки на Запоріжжі — DeepState",
+      "published_at": "2026-10-25T23:21:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:21:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Російські окупанти просунулися поблизу Костянтинівки на Донеччині та села Воздвижівка Гуляйпільського району Запорізької області.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "12261cb207fa71fc",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/26/novyna/polityka/sybiha-prypustyv-yakoyi-umovy-rosiya-bude-hotova-serjoznyx-perehovoriv",
+      "title": "Сибіга припустив, за якої умови росія буде готова до серйозних переговорів",
+      "published_at": "2026-10-25T23:15:37+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:15:37 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Андрій Сибіга заявив, що росія буде готова до серйозних переговорів лише під тиском. Глава МЗС наголосив, що Москва має зупинити атаки на Україну.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "137573f63375a8b1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4178091-rosiani-atakuvali-obekt-energetiki-na-hmelniccini-e-avarijni-vidklucenna-svitla.html",
+      "title": "Росіяни атакували об’єкт енергетики на Хмельниччині, є аварійні відключення світла",
+      "published_at": "2026-10-25T23:03:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 01:03:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "У Кам’янець-Подільському районі Хмельницької області війська РФ атакували об’єкт енергетики, що призвело до аварійних відключень електрики.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e5df9d41798d9668",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/na-anthropic-podali-pozov-cherez-imovirne-vikoristannja-274-pisen-elvisa-presli-dlja-navchannja-modelej-shi.html",
+      "title": "На Anthropic подали позов через використання пісень Елвіса Преслі для навчання моделей ШІ",
+      "published_at": "2026-10-25T22:58:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:58:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Позивачі просять по 150 тисяч доларів за кожен твір, який нібито використали без згоди.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e78c845877984bdb",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rf-spustyly-na-vodu-novyj-korvet-dlya-tyhookeanskogo-flotu",
+      "title": "РФ спустили на воду новий корвет для Тихоокеанського флоту",
+      "published_at": "2026-10-25T22:45:43+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:45:43 +0000",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Амурський суднобудівний завод спустив на воду корвет «Грозний», який будують для Тихоокеанського флоту ВМФ Росії. Корабель став п’ятим представником проєкту 20380, призначеним для цього флоту. Запис РФ спустили на воду новий корвет для Тихоокеанського флоту спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Війна в Україні",
+        "російський корвет",
+        "російсько-українсько війна",
+        "Тихоокеанського флот"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1a55478c30de65f2",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/700294-kubok-ukrajini-z-futbolu-rezultati-usikh-matchiv-18-finalu-video-holiv-onovljujetsja.html",
+      "title": "Кубок України з футболу: результати усіх матчів 1/8 фіналу, відео голів (оновлюється)",
+      "published_at": "2026-10-25T22:43:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:43:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Команди визначать чвертьфіналістів турніру.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bdaccb4fe0f0ec33",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/dopomih-rozholos-zelenskij-prokomentuvav-vidnovlennja-roboti-starlink-na-shvidkosti.html",
+      "title": "«Допоміг розголос»: Зеленський прокоментував відновлення роботи Starlink на швидкості",
+      "published_at": "2026-10-25T22:41:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:41:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Робота Starlink на швидкості відновилася в суботу о 5:20 ранку.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "01ef382f76196df0",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/26/novyna/bezpeka/rosiyany-mozhut-spryamovuvaty-meshkancziv-oleshok-rf-evakuacziyi-zelenskyj",
+      "title": "Росіяни можуть спрямовувати мешканців Олешок до рф під час евакуації – Зеленський",
+      "published_at": "2026-10-25T22:40:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:40:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Володимир Зеленський припустив, що росія розміновуватиме дороги в Олешках так, щоб мешканці виїжджали до рф. Президент наголосив на необхідності евакуації людей в Україну.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "09fa20200c285bc9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4177994-v-ukraini-u-ponedilok-podekudi-dositime-vden-do-16.html",
+      "title": "В Україні у понеділок подекуди дощитиме, вдень до +16°",
+      "published_at": "2026-10-25T22:38:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:38:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "У понеділок, 26 жовтня, в Україні збережеться хмарна із проясненнями погода, у західних, в Житомирській, Вінницькій, Київській та Одеській областях очікуються дощі.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d4d9fb1b90d40d3b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/273166-petytsiiu-pro-zaboronu-tiktok-v-ukrayini-ne-peredaly-na-rozhliad-nabrala-vsyoho-289-pidpysiv",
+      "title": "Петицію про заборону TikTok в Україні не передали на розгляд — набрала всього 289 підписів",
+      "published_at": "2026-10-25T22:37:00+00:00",
+      "published_raw": "2026-10-26T00:37:00+02:00",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfe2234d291d28db",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/bizinterview/reforma-probaciji-v-ukrajini-chomu-vona-vazhliva-dlya-yes-i-yak-vidbuvati-pokarannya-bez-uv-yaznennya-50651624.html",
+      "title": "Пробація як частина шляху до ЄС: що це таке, чому вона нам потрібна та що вже зроблено",
+      "published_at": "2026-10-25T22:35:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:35:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Україна продовжує свій шлях євроінтеграції. Серед зобов’язань, які наша держава має виконати для цього, і реформа пробації – зміни у системі кримінальних покарань, які передбачають не ізоляцію людини, а пошук альтернативних способів допомогти. Сьогодні цей процес триває.",
+      "categories": [
+        "Бізнес/Інтерв'ю"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -113,6 +628,25 @@
       "description": "У давнину вірили, що на свято добігає кінця землеробський рік.",
       "categories": [
         "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "345a8ddf6b31d269",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/sport/2026/10/26/776124_real_z_luninim_peremig_barselonu.html",
+      "title": "«Реал» з Луніним переміг «Барселону» в Ла Лізі",
+      "published_at": "2026-10-25T22:24:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:24:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "Долю матчу вирішив Кіліан Мбаппе.",
+      "categories": [
+        "Спорт"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -230,6 +764,25 @@
       "fetched_at": "2026-10-25T22:32:57+00:00",
       "description": "Для споживачів ЦЕК на Дніпропетровщині за розпорядженням НЕК «Укренерго» змінили графік погодинних відключень електроенергії на 26 жовтня. Оновлення діє з 07:00. Про це повідомили у ЦЕК. Відключення застосовуватимуть за таким графіком: Черга 1.1: 21:30–00:00. Черга 1.2: 21:30–00:00. Черга 2.1: 11:00–14:30. Черга 2.2: 11:00–14:30. Черга 4.1: 14:30–18:00. Черга 4.2: 14:30–18:00. Черга 5.1: 07:00–11:00. Черга 5.2: 07:00–11:00. […] The post На Дніпропетровщині 26 жовтня оновили графіки відключень для ЦЕК appeared first on Dnipro.media .",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f910bae2b0b25d12",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/prezidentski-vibori-u-bolgariji-yotova-i-gyurov-lidiruyut-za-danimi-ekzitpoliv-50653253.html",
+      "title": "У першому турі виборів президента Болгарії лідирує Йотова — дані екзитполів",
+      "published_at": "2026-10-25T22:11:00+00:00",
+      "published_raw": "Mon, 26 Oct 2026 00:11:00 +0200",
+      "fetched_at": "2026-10-26T01:09:38+00:00",
+      "description": "У неділю, 25 жовтня, у Болгарії відбувся перший тур президентських виборів. Виконувачка обов’язків президента Іліяна Йотова набирає 35,3% голосів, а її суперник — проукраїнський експрем’єр Андрей Гюров — 32,4%.",
+      "categories": [
+        "Світ/Країни"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -375,6 +928,12 @@
       "at": "2026-10-25T22:32:57+00:00",
       "fetched": 18,
       "added": 18,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-26T01:09:38+00:00",
+      "fetched": 46,
+      "added": 29,
       "errors": 3
     }
   ]
