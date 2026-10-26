@@ -1,8 +1,8 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-26T01:09:38+00:00",
+  "generated_at": "2026-10-26T06:12:55+00:00",
   "source_count": 101,
-  "item_count": 1729,
+  "item_count": 1884,
   "items": [
     {
       "id": "517cd31152f34103",
@@ -38,6 +38,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b376e6735187de52",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436687-norvegia-vidstij-tramp-oburivsa-cerez-te-so-ne-otrimav-nobelivsku-premiu-miru",
+      "title": "«Норвегія — відстій»: Трамп обурився через те, що не отримав Нобелівську премію миру",
+      "published_at": "2026-10-25T21:56:51+00:00",
+      "published_raw": "Sun, 25 Oct 2026 23:56:51 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Президент США Дональд Трамп обурився тим, що не отримав Нобелівську премію миру та висловив образливий коментар в бік Норвегії, де буде проходити вручення",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -149,6 +166,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f8636ae1b88d7b80",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436675-ce-ne-prosanna-trener-mu-vidreaguvav-na-mozlive-zvilnenna-na-tli-serii-bez-peremog",
+      "title": "«Це не прощання»: тренер МЮ відреагував на можливе звільнення на тлі серії без перемог",
+      "published_at": "2026-10-25T21:27:24+00:00",
+      "published_raw": "Sun, 25 Oct 2026 23:27:24 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Майкл Каррік: головний тренер «Манчестер Юнайтед», поразка проти «Борнмута», можлива заміна наставника в команді, кандидати на заміну",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -274,6 +308,23 @@
       "status": "new"
     },
     {
+      "id": "66e32558a2325439",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1436665-planovi-vidklucenna-svitla-na-mikolaivsini-26-zovtna",
+      "title": "Планові відключення світла на Миколаївщині 26 жовтня",
+      "published_at": "2026-10-25T21:19:17+00:00",
+      "published_raw": "Sun, 25 Oct 2026 23:19:17 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Миколаївщині 26 жовтня деякі вулиці залишаться без електропостачання. Це пов'язано із капітальними та поточними ремонтами, технічними обслуговуваннями і реконструкціями",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ed570f8e6785066d",
       "source_id": "map-940",
       "source": "Букви",
@@ -359,7 +410,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/europa/273164-zrozumilo-shcho-studentskyy-rukh-peremih-vuchych-vyznav-porazku-na-parlametskykh-vyborakh-u-serbiyi",
-      "title": "Вучич визнав поразку на дострокових виборах у Сербії. Студентський рух може отримали до 140 місць у парламенті",
+      "title": "Вучич визнав поразку на дострокових виборах у Сербії. Студентський рух може отримати до 140 місць у парламенті",
       "published_at": "2026-10-25T21:05:00+00:00",
       "published_raw": "2026-10-25T23:05:00+02:00",
       "fetched_at": "2026-10-25T22:32:57+00:00",
@@ -808,6 +859,23 @@
       "status": "new"
     },
     {
+      "id": "6dc04638fd5e67a2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436603-grafiki-pogodinnih-vidklucen-ak-vimikatimut-svitlo-na-harkivsini-26-zovtna",
+      "title": "Графіки погодинних відключень: як вимикатимуть світло на Харківщині 26 жовтня",
+      "published_at": "2026-10-25T20:54:01+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:54:01 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "26 жовтня на Харківщині застосовуватимуть погодинні відключення світла через складну ситуацію в Об'єднаній енергомережі. Як світло вимикатимуть за чергами",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4608a665c7793f35",
       "source_id": "nv",
       "source": "NV",
@@ -843,6 +911,23 @@
         "Новини",
         "Новини | Важливі"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "223dc0f5a5580bbc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436619-u-zmiivskij-likarni-nezakonno-narahuvali-ponad-429-tisac-grn-zarplat-sistoh-ludej-zasudili",
+      "title": "У Зміївській лікарні незаконно нарахували понад 429 тисяч грн зарплат: шістьох людей засудили",
+      "published_at": "2026-10-25T20:53:06+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:53:06 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Суд визнав винними шістьох людей у справі про незаконне нарахування зарплат у Зміївській лікарні. Збитки становили понад 429 тисяч грн. Яке покарання вони отримали",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -884,6 +969,23 @@
       "status": "new"
     },
     {
+      "id": "e9d94518c625f5d2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436673-v-ohtirci-iniciuvali-zibranna-sodo-vidklikanna-z-posadi-miskogo-golovi-pavla-kuzmenka",
+      "title": "В Охтирці ініціювали зібрання щодо відкликання з посади міського голови Павла Кузьменка",
+      "published_at": "2026-10-25T20:47:57+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:47:57 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "В Охтирці 25 жовтня зібралися містяни, аби розпочати процедуру відставки міського голови Павла Кузьменка. На зустріч прийшов і мер міста. Як відбувалося голосування — у матеріалі Суспільного",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "54aafb206bee2883",
       "source_id": "map-940",
       "source": "Букви",
@@ -902,6 +1004,23 @@
         "енергетика",
         "Кам'янць-Подільський"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1413b6e2e540660c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436681-vucic-viznav-svou-porazku-na-dostrokovih-parlamentskih-viborah-u-serbii",
+      "title": "Вучич визнав свою поразку на дострокових парламентських виборах у Сербії",
+      "published_at": "2026-10-25T20:45:52+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:45:52 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "За словами, Александара Вучича, опозиційний «Студентський список», що виник на хвилі масових антиурядових протестів, отримає від 135 до 140 із 250 депутатських мандатів. Втім, офіційних результатів поки не оприлюднено",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1119,6 +1238,23 @@
       "categories": [
         "Балаклійська громада"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1135e9b6408ef6b7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436659-ukrainskij-pivzahisnik-vunnik-vidznacivsa-debutnim-golom-za-legiu-v-cempionati-polsi",
+      "title": "Український півзахисник В'юнник відзначився дебютним голом за «Легію» в чемпіонаті Польщі",
+      "published_at": "2026-10-25T20:26:20+00:00",
+      "published_raw": "Sun, 25 Oct 2026 22:26:20 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Богдан В'юнник: атакувальний півзахисник польської «Легії», перший гол у складі польської команди, як зіграв український футболіст",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1602,6 +1738,23 @@
       "status": "new"
     },
     {
+      "id": "314c481829b041b0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436661-zelenskij-anonsuvav-zustric-ukraini-ssa-es-i-nato-v-brusseli",
+      "title": "Зеленський анонсував зустріч України, США, ЄС і НАТО в Брюсселі",
+      "published_at": "2026-10-25T19:57:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:57:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Український президент Володимир Зеленський заявив, що 27-28 жовтня у Брюсселі він зустрінеться з лідерами Євросоюзу, американцями та генеральним секретарем НАТО Марком Рютте. Сторони обговорять гарантії безпеки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "9f8c3925276c966f",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -1774,6 +1927,23 @@
       "status": "new"
     },
     {
+      "id": "10db3d83e5b8bfeb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436667-pozeza-u-bagatopoverhivci-v-harkovi-odna-ludina-zaginula-patero-postrazdali",
+      "title": "Пожежа у багатоповерхівці в Харкові: одна людина загинула, п'ятеро постраждали",
+      "published_at": "2026-10-25T19:45:32+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:45:32 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Харкові 25 жовтня сталася пожежа у шестиповерховому будинку в Індустріальному районі. Одна людина загинула, п'ятеро постраждали, вісьмох мешканців врятували",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f4e36cfdbe08c952",
       "source_id": "map-593",
       "source": "Є",
@@ -1888,6 +2058,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "18a4546246f0aa2d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1436239-golovni-novini-dnipra-ta-oblasti-25-zovtna",
+      "title": "Синельникове після атаки, зросла кількість жертв, загинув водій ДТЕК. Головні новини Дніпра та області 25 жовтня",
+      "published_at": "2026-10-25T19:38:15+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:38:15 +0200",
+      "fetched_at": "2026-10-25T06:07:38+00:00",
+      "description": "Оперативні новини Дніпра та Дніпропетровської області за 25 жовтня 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2215,6 +2402,23 @@
       "status": "new"
     },
     {
+      "id": "fe889dcff18ee70b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1433079-ak-zalisatisa-na-zvazku-i-mati-bezperebijnij-internet-pid-cas-vidklucen-svitla-poradi-operatoriv-zvazku-na-volini",
+      "title": "Як залишатися на зв'язку і мати безперебійний інтернет під час відключень світла: поради операторів зв'язку на Волині",
+      "published_at": "2026-10-25T19:25:03+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:25:03 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Оператори зв'язку на Волині пояснили, чому швидкість інтернету «падає», а мобільний зв'язок погіршується. Як залишатися на зв'язку і як підготувати пристрої до блекаутів?",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5992c00d0dba3eb9",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -2294,6 +2498,23 @@
       "categories": [
         "Війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "93cb3ae45efc9152",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436653-ukrainci-plotnickij-i-tonkonog-sinhronno-zdobuli-peremogi-v-drugomu-turi-cempionatu-italii-z-volejbolu",
+      "title": "Українці Плотницький і Тонконог синхронно здобули перемоги в другому турі чемпіонату Італії з волейболу",
+      "published_at": "2026-10-25T19:22:51+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:22:51 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Олег Плотницький та Максим Тонконог: українські волейболісти в чемпіонаті Італії, виступ команд українців у другому турі чемпіонату",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2575,6 +2796,23 @@
       "status": "new"
     },
     {
+      "id": "dfa3688faa12145d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436657-zelenskij-zaaviv-so-proti-skasuvanna-antirosijskih-sankcij-pered-mozlivou-zustriccu-na-rivni-lideriv",
+      "title": "Зеленський заявив, що він проти скасування антиросійських санкцій перед можливою зустріччю на рівні лідерів",
+      "published_at": "2026-10-25T19:09:59+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:09:59 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "За словами президента Володимира Зеленського, РФ може домогтися скасування впроваджених проти неї обмежень заради участі у тристоронньому діалозі, тоді як подальший розвиток подій залишатиметься невизначеним",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6322eeed755aa7cc",
       "source_id": "nv",
       "source": "NV",
@@ -2589,6 +2827,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a6feaf5c3e6c4ae",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1436621-na-ternopilsini-poprosalisa-z-poleglim-andriem-krasuleu",
+      "title": "На Тернопільщині попрощалися з полеглим Андрієм Красулею",
+      "published_at": "2026-10-25T19:07:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 21:07:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Підволочиську на Тернопільщині 25 жовтня попрощалися із загиблим на російсько-українській війні захисником Андрієм Красулею. Йому було 26 років",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2848,6 +3103,40 @@
       "status": "new"
     },
     {
+      "id": "f048797db6f738e8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1436655-na-lvivsini-u-dtp-travmuvalisa-semero-ludej-sered-nih-dvoe-ditej",
+      "title": "На Львівщині у ДТП травмувалися семеро людей, серед них — двоє дітей",
+      "published_at": "2026-10-25T18:56:17+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:56:17 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Львівщині у селі В'язова зіткнулися два автомобілі. Унаслідок ДТП травмувалися семеро людей, серед них — двоє дітей віком 2 та 7 років. Медики встановлюють діагнози травмованим",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fe93337d91f915ec",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1406322-namaluvali-svastiku-na-pamatniku-dvoh-unakiv-z-samaru-pidozruut-u-publicnomu-vikoristanni-nacistskoi-simvoliki",
+      "title": "Намалювали свастику на пам'ятнику. Юнаків з Самара судитимуть за підозрою у використанні нацистської символіки",
+      "published_at": "2026-10-25T18:55:19+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:55:19 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Осквернили меморіал нацистською символікою: поліція Самару викрила двох молодиків. Що загрожує за публічне використання свастики — у матеріалі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e9fcb1566dab3bd6",
       "source_id": "map-103",
       "source": "Inform.zp",
@@ -3018,6 +3307,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7fd99b5a2e7807ac",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436481-sonacno-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-26-zovtna",
+      "title": "Сонячно: прогноз погоди у Донецькій і Луганській областях на 26 жовтня",
+      "published_at": "2026-10-25T18:45:09+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:45:09 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У понеділок, 26 жовтня, у Донецькій і Луганській областях буде сонячно, місцями мінлива хмарність, без опадів. Про це йдеться на сайті Українського гідрометеорологічного центру 25 жовтня",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3198,6 +3504,23 @@
       "status": "new"
     },
     {
+      "id": "0e95e7f351bb50ff",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436647-metou-tristoronnih-peremovin-mae-buti-energeticne-peremira-abo-pripinenna-vognu-u-cornomu-mori-zelenskij",
+      "title": "Метою тристоронніх перемовин має бути енергетичне перемир'я або припинення вогню у Чорному морі — Зеленський",
+      "published_at": "2026-10-25T18:40:39+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:40:39 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Напередодні помічник очільника Кремля Володимира Путіна Юрій Ушаков заявляв, що Росія готова відновити тристоронні мирні переговори із США та Україною після 4 листопада",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "24ebbf7bc1b16187",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -3337,6 +3660,40 @@
       "status": "new"
     },
     {
+      "id": "73ff9ef25c55a0d2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1436485-dosi-j-tuman-prognoz-pogodi-na-ternopilsini-26-zovtna",
+      "title": "Дощі й туман: прогноз погоди на Тернопільщині 26 жовтня",
+      "published_at": "2026-10-25T18:32:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:32:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Тернопільщині в понеділок, 26 жовтня, буде хмарно. Вночі істотних опадів не прогнозують, вдень очікують дощі. Вночі та вранці — туман",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "636e8acaa179bc62",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1436641-castina-novodnistrovska-bula-bez-elektriki-so-vidomo-pro-rosijsku-ataku-reaktivnimi-dronami-u-cerniveckij-oblasti",
+      "title": "Частина Новодністровська була без електрики – що відомо про російську атаку реактивними дронами у Чернівецькій області",
+      "published_at": "2026-10-25T18:31:23+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:31:23 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Чернівецькій області під час повітряної тривоги 25 жовтня зафіксували реактивні безпілотники РФ. У Новодністровську лунали вибухи, а частина міста була тимчасово знеструмлена. Що відомо про атаку РФ дронами",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e7eddf2976b1c552",
       "source_id": "map-1200",
       "source": "ОстроВ",
@@ -3389,6 +3746,23 @@
       "categories": [
         "Стрічка новин"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "93a0ed5a853c80e9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1436461-na-cerkasini-26-zovtna-vimikatimut-svitlo-grafiki",
+      "title": "На Черкащині 26 жовтня вимикатимуть світло: графіки оновили",
+      "published_at": "2026-10-25T18:29:57+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:29:57 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Черкасах та Черкаській області 26 жовтня 2026 року діятимуть графіки погодинних відключень електроенергії. Їх запровадили через удари РФ по обʼєктах енергетики",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3450,6 +3824,23 @@
       "status": "new"
     },
     {
+      "id": "651765f924c2fc14",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1424831-voni-vilikuut-vas-a-vi-vratuete-ih-istoria-rodini-z-lugansini-aka-vsinovila-cotiroh-ditej-pisla-zagibeli-sina",
+      "title": "«Вони вилікують вас, а ви врятуєте їх»: історія родини з Луганщини, яка всиновила чотирьох дітей після загибелі сина",
+      "published_at": "2026-10-25T18:25:01+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:25:01 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Після втрати на війні 21-річного сина родина Карпцових вирішила виконати його прохання й всиновила дитину. Спочатку вони знайшли дівчинку Кіру, й, дізнавшись що в неї є брати й сестри, всиновила всіх чотирьох",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0692ccea708faff7",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -3464,6 +3855,23 @@
       "categories": [
         "Україна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0470d7405bdf777e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436639-ukrainec-tuterov-perervav-seriu-vihodiv-u-startovomu-skladi-sanderlenda",
+      "title": "Українець Тутєров перервав серію виходів у стартовому складі «Сандерленда»",
+      "published_at": "2026-10-25T18:24:27+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:24:27 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Тимур Тутєров: український нападник «Сандерленда», перервана серія виходів у стартовому складі команди, матч восьмого туру АПЛ проти «Лідса»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3581,6 +3989,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "af67b211ccf1e08b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1436347-vibuhi-25-zovtna-na-hmelniccini-so-vidomo",
+      "title": "Пошкоджено об'єкт енергетики та житлові будинки: наслідки чергової російської атаки на Хмельниччину 25 жовтня",
+      "published_at": "2026-10-25T18:19:35+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:19:35 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Сьогодні, 25 жовтня, під час повітряної тривоги на Хмельниччині було чути звуки вибухів. Внаслідок атаки пошкоджено об'єкт енергетики та житлові будинки у Кам'янець-Подільському районі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -3774,6 +4199,23 @@
       "status": "new"
     },
     {
+      "id": "ec3df14a9877c951",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1436367-ak-vidklucatimut-svitlo-na-poltavsini-26-zovtna-grafik",
+      "title": "Як відключатимуть світло на Полтавщині 26 жовтня: графік",
+      "published_at": "2026-10-25T18:11:31+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:11:31 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Полтавській області 26 жовтня діятимуть погодинні відключення світла. Це через атаки РФ. Дізнатися графік для кожної черги можна у матеріалі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "86ad9498583b7328",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -3846,6 +4288,23 @@
       "status": "new"
     },
     {
+      "id": "69b3dd032edb2223",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1436637-nacgvardijci-pokazali-ak-perehopluut-rosijski-reaktivni-bpla-nad-volinnu",
+      "title": "Нацгвардійці показали, як перехоплюють російські реактивні БпЛА над Волинню",
+      "published_at": "2026-10-25T18:08:53+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:08:53 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Волинські нацгвардійці показали, як перехопили і знищили один з російських реактивних ударних дронів, який прямував на важливий для області об'єкт",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5ffedc348c162e5f",
       "source_id": "map-103",
       "source": "Inform.zp",
@@ -3902,6 +4361,40 @@
       "categories": [
         "НОВИНИ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "085232aa8dd5c3dc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436625-persa-raketka-svitu-ribakina-vijsla-v-liderki-sezonu-za-vigranimi-trofemi-wta",
+      "title": "Перша ракетка світу Рибакіна вийшла в лідерки сезону за виграними трофеми WTA",
+      "published_at": "2026-10-25T18:06:27+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:06:27 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Єлєна Рибакіна: перша ракетка світового рейтингу, найбільше виграних трофеїв у 2026 році, турнір WTA в китайському Нінбо, результат Рибакіної",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4a6d9b920e124c1e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436631-bila-uzberezza-niderlandiv-sudno-zirvalosa-z-akora-troe-postrazdalih",
+      "title": "Біля узбережжя Нідерландів судно зірвалося з якоря: троє постраждалих",
+      "published_at": "2026-10-25T18:05:08+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:05:08 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Північному морі біля узбережжя Нідерландів судно для перевезення великогабаритних вантажів зірвалося з якоря та почало дрейфувати через сильний вітер і хвилі. Троє членів екіпажу постраждали",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3986,6 +4479,23 @@
       "status": "new"
     },
     {
+      "id": "1698f70f9b3cc2cc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1436595-ak-minuv-tizden-oseni-na-mikolaivsini-podii-v-svitlinah",
+      "title": "Як минув тиждень осені на Миколаївщині: події в світлинах",
+      "published_at": "2026-10-25T18:01:54+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:01:54 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "З 19 до 25 жовтня на Миколаївщині долали наслідки російських обстрілів та вітали військовослужбовців, які повернулися з полону. Миколаївці рятували тварин та виходили на акції-нагадування про полонених",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d7e55eb179791c65",
       "source_id": "map-940",
       "source": "Букви",
@@ -4020,6 +4530,23 @@
       "published_raw": "Sun, 25 Oct 2026 18:01:06 +0000",
       "fetched_at": "2026-10-25T06:07:38+00:00",
       "description": "Основні новини доби – у хроніці МГ «Об’єктив». 20:01 Увечері 25 жовтня обстріли Харкова продовжилися...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "488afa189b0159bb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1436403-dos-ta-tuman-akou-bude-pogoda-na-ivano-frankivsini-26-zovtna",
+      "title": "Дощ та туман. Якою буде погода на Івано-Франківщині 26 жовтня",
+      "published_at": "2026-10-25T18:00:45+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:00:45 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "26 жовтня в Івано-Франківську та області переважатиме хмарність проясненнями. Вночі — невеликий дощ, вдень — помірний. Вранці синоптики прогнозують слабкий туман",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -4152,6 +4679,23 @@
       "status": "new"
     },
     {
+      "id": "686c4bde047a29d1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1436617-a-nibi-znau-aponsku-kulturu-ale-vona-meni-cuza-istoria-aponca-akij-narodivsa-v-odesi-ta-dopomagae-zsu",
+      "title": "«Я ніби знаю японську культуру, але вона мені чужа»: історія японця, який народився в Одесі та допомагає ЗСУ",
+      "published_at": "2026-10-25T18:00:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 20:00:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Японець Юкі Фунакоші народився й виріс в Одесі, навчався у США, а під час повномасштабної війни повернувся в Україну. Він допомагає ЗСУ та переселенцям, викладає японську мову й планує залишитися в Одесі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d1045d4674432137",
       "source_id": "map-902",
       "source": "Одеське життя",
@@ -4169,6 +4713,23 @@
         "учителя",
         "школы"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1037861d89665857",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436627-peticia-do-uradu-pro-zaboronu-tiktok-v-ukraini-ne-nabrala-neobhidnih-golosiv-dla-rozgladu",
+      "title": "Петиція до уряду про заборону TikTok в Україні не набрала необхідних голосів для розгляду",
+      "published_at": "2026-10-25T17:59:01+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:59:01 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Її авторка Олька Костюк обґрунтовувала заборону TikTok тим, що ця соцмережа наразі становить «пряму загрозу національній безпеці України». Зокрема вона називала її «інструментом дезінформації та ворожих ІПСО»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4193,6 +4754,23 @@
       "status": "new"
     },
     {
+      "id": "7be146a1fd2d7948",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1433415-vulici-v-optovolokni-ta-ruini-fotoreportaz-iz-bilozerskogo-na-doneccini",
+      "title": "Вулиці в оптоволокні та руїни. Фоторепортаж із Білозерського на Донеччині",
+      "published_at": "2026-10-25T17:58:54+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:58:54 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Вулиці в оптоволокні та зруйновані будинки — такий вигляд має місто Білозерське Донецької області. В жовтні 2026 року тут лишалося близько 200-250 жителів. До початку повномасштабної війни жили 15 тисяч. Фото з міста",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f62928db1c727fd6",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -4207,6 +4785,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "24d0b15f4424a315",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1436487-akou-bude-pogoda-na-hersonsini-26-zovtna-3",
+      "title": "Якою буде погода на Херсонщині 26 жовтня",
+      "published_at": "2026-10-25T17:58:06+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:58:06 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Херсонщині 26 жовтня очікується хмарна з проясненнями погода без опадів. Вітер східний 5-10 м/с, вдень до 18°, у Херсоні — 16-18°",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4299,6 +4894,23 @@
       "published_raw": "Sun, 25 Oct 2026 19:56:59 +0200",
       "fetched_at": "2026-10-25T18:32:11+00:00",
       "description": "Офіс омбудсмена з прав людини готує гуманітарну місію до окупованих Олешок задля допомоги місцевим жителям. Він закликав надати його будь-яку інформацію, яка може допомогти в організації операції.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cf358c1fab27faaa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1436635-na-zakarpatti-26-zovtna-poprosautsa-iz-poleglim-vijskovosluzbovcem-ivanom-cenkom",
+      "title": "На Закарпатті 26 жовтня попрощаються із полеглим військовослужбовцем Іваном Ценьком",
+      "published_at": "2026-10-25T17:56:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:56:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Про це повідомили на Facebook-сторінці Хустської міської ради.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -4466,6 +5078,23 @@
       "status": "new"
     },
     {
+      "id": "2fd0a38519d64d8a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1420533-na-sumsini-vveli-grafiki-pogodinnih-vidklucen-svitla-2",
+      "title": "ГПВ у Сумській області: як вимикають світло у жовтні",
+      "published_at": "2026-10-25T17:49:53+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:49:53 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Сумщині 6 жовтня запровадили графіки погодинних відключень світла, повідомляють у «Сумиобленерго». Актуальні графіки можна побачити на сайті «Сумиобленерго» у розділі «Відключення»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "103b33802558099b",
       "source_id": "nv",
       "source": "NV",
@@ -4508,6 +5137,23 @@
       "status": "new"
     },
     {
+      "id": "79b792af42dad694",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1435287-gimnastika-ce-dijsno-persa-lubov-hristina-pogranicna-pro-zaversenna-kareri-ta-plani-na-majbutne",
+      "title": "«Гімнастика — це дійсно перша любов». Христина Погранична про завершення кар'єри та плани на майбутнє",
+      "published_at": "2026-10-25T17:47:01+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:47:01 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Гімнастка Христина Погранична завершує кар'єру у великому спорті. В інтерв'ю Суспільному спортсменка розповіла про труднощі спортивного шляху, рішення завершити кар'єру та плани на майбутнє",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e25fb07320bc1d89",
       "source_id": "map-612",
       "source": "Вільне радіо",
@@ -4525,6 +5171,23 @@
         "Інтерв’ю",
         "Новини Лиманської громади"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1716a5db2aa01e3e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1436633-jmovirno-stribnuv-z-mostu-u-prut-u-cernivcah-zaginuv-pidlitok",
+      "title": "Ймовірно стрибнув з мосту у Прут – у Чернівцях загинув підліток",
+      "published_at": "2026-10-25T17:45:43+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:45:43 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На вулиці Вокзальній у Чернівцях загинув підліток. Ймовірно, він наклав на себе руки, стрибнувши з мосту в річку Прут. Хлопець 2011 року народження",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4679,6 +5342,23 @@
       "categories": [
         "Всi новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "45d94f6eea9d410d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1434933-bezmen-liznik-kovganocka-ocipki-u-seli-na-cernigivsini-miscevi-ziteli-zibrali-kolekciu-recej-minulogo-stolitta",
+      "title": "Безмен, ліжник, ковганочка, очіпки: у селі на Чернігівщині місцеві жителі зібрали колекцію речей минулого століття",
+      "published_at": "2026-10-25T17:38:05+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:38:05 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "В одній із кімнат сільського клубу в Сохачах на Чернігівщині місцеві жителі зібрали колекцію речей минулого століття. Серед експонатів можна побачити безмен, ліжник, ковганочку, очіпки",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4885,7 +5565,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://radiosvoboda.org/a/news-mask-rosiya-ukrayina-viyna/33883987.html",
-      "title": "Маск закликав зупинити загибель українців і росіян та висловив співчуття строковикам РФ",
+      "title": "Маск закликав зупинити загибель українців і росіян та висловив співчуття призовникам РФ",
       "published_at": "2026-10-25T17:31:25+00:00",
       "published_raw": "Sun, 25 Oct 2026 19:31:25 +0200",
       "fetched_at": "2026-10-25T18:32:11+00:00",
@@ -5003,6 +5683,23 @@
       "status": "new"
     },
     {
+      "id": "9c1458fad74adab9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1436343-zaginuv-u-2024-roci-na-doneccini-na-kirovogradsini-poprosalisa-z-vijskovim-oleksandrom-zatulivitrom",
+      "title": "Загинув у 2024 році на Донеччині: на Кіровоградщині попрощалися з військовим Олександром Затуливітром",
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня у селі Костянтинівка Новомиргородської громади Новоукраїнського району Кіровоградської області попрощалися із захисником Олександром Затуливітром. Боєць зник безвісти на Донеччині у 2024 році",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fec1e634dd86e414",
       "source_id": "map-940",
       "source": "Букви",
@@ -5024,6 +5721,40 @@
       "status": "new"
     },
     {
+      "id": "b1261ca85182d49d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1436545-bud-aka-novina-aka-moze-dumkami-nabliziti-dodomu-nadovgo-dodae-sil-oleksandr-kolotovic-pro-rosijskij-polon",
+      "title": "«Будь-яка новина, яка може думками наблизити додому, надовго додає сил»: Олександр Колотович про російський полон",
+      "published_at": "2026-10-25T17:27:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:27:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Луганець Олександр Колотович провів у російському полоні 1113 днів. За його словами, до українців з окупованих територій росіяни ставилися особливо агресивно: душили поліетиленовими пакетами, катували струмом, били гумовими кийками",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4799e47d9751223c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436593-26-zovtna-u-castini-oblastej-ukraini-vimikatimut-svitlo-za-grafikami-ukrenergo",
+      "title": "26 жовтня у частині областей України вимикатимуть світло за графіками — Укренерго",
+      "published_at": "2026-10-25T17:26:48+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:26:48 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У компанії додали, що через обстріли з боку РФ ситуація в енергосистемі може змінитись та порадили українцям стежити за повідомленнями на сторінках операторів систем розподілу (обленерго) кожного конкретного регіону",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b0fc1e0eb87423e0",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -5035,6 +5766,23 @@
       "published_raw": "2026-10-25T19:24:00+02:00",
       "fetched_at": "2026-10-25T18:32:11+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d880791b88a125da",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436613-strasenno-bolace-mancester-unajted-povtoriv-najgirsu-seriu-bez-peremog-za-11-rokiv",
+      "title": "«Страшенно боляче»: «Манчестер Юнайтед» повторив найгіршу серію без перемог за 11 років",
+      "published_at": "2026-10-25T17:23:34+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:23:34 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "«Манчестер Юнайтед»: найгірший старт в чемпіонаті Англії за останні 40 років, матч проти «Борнмута» в англійській Прем'єр-лізі, результат",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -5102,6 +5850,23 @@
         "вулиця",
         "підприємці"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "574ac3fcb06933e2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1436511-prodali-zbrou-ta-boepripasi-majze-na-90-tisac-griven-na-zaporizzi-zatrimali-dvoh-pidozruvanih",
+      "title": "Продали зброю та боєприпаси майже на 90 тисяч гривень: на Запоріжжі затримали двох підозрюваних",
+      "published_at": "2026-10-25T17:20:47+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:20:47 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Двох чоловіків у Запорізькому районі затримали за підозрою у незаконному збуті автоматів, гранат і боєприпасів: за даними слідства, за п'ять місяців вони продали зброї майже на 90 тисяч гривень",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5309,6 +6074,23 @@
       "status": "new"
     },
     {
+      "id": "28778180b879cf48",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1428327-korova-gorod-i-robota-bez-vihidnih-odin-den-iz-zitta-zinok-u-volinskih-selah",
+      "title": "Корова, город і робота без вихідних: один день із життя жінок у волинських селах",
+      "published_at": "2026-10-25T17:13:23+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:13:23 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Як живуть жінки у трьох селах Луцького району: ведуть господарство, працюють у магазині, доглядають худобу та долають труднощі через брак інфраструктури — відео",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "80d6d04c6c424429",
       "source_id": "map-883",
       "source": "20 хвилин. Вінниця",
@@ -5406,6 +6188,23 @@
       "status": "new"
     },
     {
+      "id": "f763540ab681baaa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1436585-ocifruvali-26-hramiv-troh-gromad-na-rivnensini-so-rozpovili-avtori-proekti",
+      "title": "Оцифрували 26 храмів трьох громад на Рівненщині. Що розповіли автори проєкту",
+      "published_at": "2026-10-25T17:10:18+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:10:18 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Проєкт «Культова архітектура Здолбунівщини у цифровому вимірі» 23 жовтня презентували в краєзнавчому музеї на Рівненщині. Команда оцифрувала 26 храмів трьох громад",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0a7f4db28a0a9891",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -5437,6 +6236,40 @@
       "categories": [
         "Україна/Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "de35d976bfeef699",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1420919-dobrij-subin-z-etiketki-stav-pamatnim-tatu-ak-onuka-karikaturistiv-z-donecka-zberigae-pamat-pro-didiv",
+      "title": "Добрий Шубін з етикетки, став пам'ятним тату: як онука карикатуристів з Донецька зберігає пам'ять про дідів",
+      "published_at": "2026-10-25T17:07:23+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:07:23 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Шахтарського духа Шубіна внесли до Національного переліку НКС України. Розповідаємо історію переселенки Ганни Курцановської та її дідів-художників, які намалювали символи Донецька: емблему «Шахтаря» та пивну етикетку з Шубіним",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "efe5102c04287dcf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436599-elajdza-vud-ta-orlando-blum-priednautsa-do-aktorskogo-skladu-serialu-dzentlmeni",
+      "title": "Елайджа Вуд та Орландо Блум приєднаються до акторського складу серіалу «Джентльмени»",
+      "published_at": "2026-10-25T17:05:32+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:05:32 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Зірки фільмів «Володар перстнів» Орландо Блум та Елайджа Вуд знімуться у серіалі від Netflix «Джентльмени». Робота над третій сезоном вже розпочалася у Великій Британії та Марокко",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5475,6 +6308,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "274e7308d4f9aaee",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436607-saudivska-aravia-castkovo-vidnovila-robotu-aeroportu-er-riada-zakritogo-pisla-ataki-husitiv",
+      "title": "Саудівська Аравія частково відновила роботу аеропорту Ер-Ріяда, закритого після атаки хуситів",
+      "published_at": "2026-10-25T17:02:14+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:02:14 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Саудівська Аравія частково відновила роботу двох терміналів міжнародного аеропорту імені короля Халіда в Ер-Ріяді після атаки хуситів 10 жовтня, унаслідок якої загинули 12 людей",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5631,6 +6481,23 @@
         "Нарвянський нацпарк",
         "тварини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f71de0b8e57f7994",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1429145-vin-zavzdi-kazav-ak-dobre-vdoma-na-vinniccini-druzina-poleglogo-voina-virosue-hrizantemi-v-pamat-pro-colovika",
+      "title": "«Він завжди казав: як добре вдома»: на Вінниччині дружина полеглого воїна вирощує хризантеми в пам'ять про чоловіка",
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 19:00:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Тетяна Данілкіна з Крижопільської громади на Вінниччині вирощує понад 700 кущів хризантем, які любив її чоловік Леонід. Військовий загинув у 2024 році. Квітник допомагає жінці зберігати пам'ять про коханого та знаходити спокій.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5992,6 +6859,23 @@
       "status": "new"
     },
     {
+      "id": "58d7848babcb4aaa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1436615-rf-atakuvali-dnipro-ta-oblast-poranena-ludina-e-poskodzenna",
+      "title": "РФ атакували Дніпро та область: поранена людина, є пошкодження",
+      "published_at": "2026-10-25T16:50:03+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:50:03 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Вдень 25 жовтня війська РФ понад 40 разів атакували три райони Дніпропетровщини. Били безпілотниками та артилерією. Поранена одна людина. Пошкоджені приватні оселі, інфраструктура, автобус",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3d820eb1b639ea23",
       "source_id": "map-1176",
       "source": "Репортер",
@@ -6232,6 +7116,23 @@
       "status": "new"
     },
     {
+      "id": "e1c920358ef5bb83",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1435297-vid-ucitelki-matematiki-do-vlasnici-konditerskoi-istoria-nadii-donec-z-andrusivki",
+      "title": "Від учительки математики до власниці кондитерської: історія Надії Донець з Андрушівки",
+      "published_at": "2026-10-25T16:40:50+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:40:50 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Понад 5 років жителька Андрушівки Надія Донець займається кондитерською справою. У 2025 році жінка отримала грант від служби зайнятості і придбала обладнання для кондитерської майстерні",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fbb317103999f13c",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -6330,6 +7231,40 @@
       "status": "new"
     },
     {
+      "id": "74918f769a1209d5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436589-zinoca-zbirna-ukraini-zigrala-dva-pidgotovci-matci-do-startu-evro-2026-z-gandbolu-rezultat",
+      "title": "Жіноча збірна України зіграла два підготовчі матчі до старту Євро-2026 з гандболу: результат",
+      "published_at": "2026-10-25T16:38:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:38:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Жіноча збірна України з гандболу: два товариські матчі «синьо-жовтих» проти Туреччини та Ірану, як пройшли поєдинки, підготовка до Євро",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5a5d63251643fd74",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1435121-na-poltavsini-trivae-epidsezon-gripu-ta-grvi-2026-2027-rokiv-so-varto-znati-ta-ak-uberegtisa",
+      "title": "На Полтавщині триває епідсезон грипу та ГРВІ 2026–2027 років: що варто знати та як уберегтися",
+      "published_at": "2026-10-25T16:37:54+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:37:54 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Полтавщині зростає захворюваність на ГРВІ та COVID-19, випадків грипу поки не реєстрували. Коли вакцинуватися та як розпізнати грип — пояснила інфекціоністка",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a737527b84dba4a3",
       "source_id": "map-694",
       "source": "С4",
@@ -6344,6 +7279,23 @@
       "categories": [
         "Міські новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bfbdfb884cb1d997",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1436609-cerepno-mozkova-travma-ta-oskolkovi-poranenna-19-ricnij-motociklist-naihav-na-nevidomij-pristrij-na-cernigivsini",
+      "title": "Черепно-мозкова травма та осколкові поранення: 19-річний мотоцикліст наїхав на невідомий пристрій на Чернігівщині",
+      "published_at": "2026-10-25T16:36:13+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:36:13 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Поблизу села Путивськ Новгород-Сіверської громади 25 жовтня, близько 16:30, 19-річний мотоцикліст наїхав на невідомий вибуховий пристрій. Унаслідок вибуху чоловік зазнав поранень",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6367,6 +7319,40 @@
         "діти",
         "злочини окупантів"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a0935c6b85d96b7d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436611-rosiani-atakuvali-dronami-osnovanskij-rajon-harkova-so-vidomo",
+      "title": "Росіяни атакували дронами Основ'янський район Харкова: що відомо",
+      "published_at": "2026-10-25T16:35:05+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:35:05 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Росіяни увечері 25 жовтня атакували дронами Основ'янський район Харкова. За попередньою інформацією, під ударом опинився приватний сектор. Екстрені служби працюють в посиленому режимі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd2db346e5b8f7b5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1436269-zivu-ak-u-pervisnomu-vici-comu-v-bagatopoverhivkah-u-brosniv-osadi-na-frankivsini-nemae-vodi-po-20-godin-na-dobu",
+      "title": "«Живу, як у первісному віці». Чому в багатоповерхівках у Брошнів-Осаді на Франківщині немає води по 20 годин на добу",
+      "published_at": "2026-10-25T16:35:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:35:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Упродовж двох місяців мешканці багатоквартирних будинків у мікрорайоні Автоматика селища Брошнів-Осада, що на Франківщині, зберігають воду у бочках, відрах та пляшках. Яка причина — у матеріалі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6425,6 +7411,23 @@
       "published_raw": "Sun, 25 Oct 26 18:33:05 +0200",
       "fetched_at": "2026-10-25T18:32:11+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1cdba6dcf63ce091",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436605-vid-pocatku-2026-roku-v-cornomu-mori-bulo-atakovano-570-suden-zaginulo-sonajmense-40-morakiv-ft",
+      "title": "Від початку 2026 року в Чорному морі було атаковано 570 суден, загинуло щонайменше 40 моряків — FT",
+      "published_at": "2026-10-25T16:32:37+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:32:37 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Журналісти зазначають, що частина суден потрапляє під удари під час атак на порти, інші стають безпосередніми цілями дронів, ракет або безпілотних катерів. За останні 45 днів близько 90% ударів по судноплавству припало на Росію",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -6521,6 +7524,23 @@
       "published_raw": "Sun, 25 Oct 2026 18:29:00 +0200",
       "fetched_at": "2026-10-25T18:32:11+00:00",
       "description": "Рідні українських військовополонених і цивільних, яких незаконно утримує росія, можуть передавати їм листи через українські державні установи. Однак важливо правильно оформити конверт і дотриматися вимог до змісту, адже через помилки лист можуть не доставити адресату.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1e082d89eb2ddaed",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1436601-ponad-15-gvt-dodatkovoi-teplovoi-generacii-planuut-zapustiti-v-kievi-kalasnik",
+      "title": "Понад 1,5 ГВт додаткової теплової генерації планують запустити в Києві – Калашник",
+      "published_at": "2026-10-25T16:26:34+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:26:34 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Києві планують запустити 1,5 ГВт додаткової теплової генерації. Для цього, зокрема, будують резервні котельні, які мають посилити теплопостачання цієї зими",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -6641,6 +7661,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bbb7ebbc62534465",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1435229-ulamki-bpla-i-nerozirvani-boepripasi-casiv-persoi-i-drugoi-svitovih-voen-so-robiti-pri-ih-viavlenni",
+      "title": "Уламки БпЛА і нерозірвані боєприпаси часів Першої і Другої світових воєн: що робити при їх виявленні",
+      "published_at": "2026-10-25T16:20:03+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:20:03 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Львівщині з початку року виявили 320 вибухонебезпечних предметів часів Першої та Другої світових воєн. Також все частіше жителі області натрапляють і на уламки ударних безпілотників після атак РФ.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6916,6 +7953,23 @@
       "status": "new"
     },
     {
+      "id": "ec947396429355cf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1436543-v-okupovanomu-krimu-se-tri-vidomstva-zobovazali-monitoriti-procesi-pid-privodom-borotbi-z-terorizmom-the-insider",
+      "title": "В окупованому Криму ще три відомства зобов'язали моніторити процеси під приводом «боротьби з тероризмом» — The Insider",
+      "published_at": "2026-10-25T16:10:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:10:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Криму підконтрольна РФ влада зобов'язала ще три цивільні відомства моніторити політичні та соціально-економічні процеси під приводом нібито протидії тероризму. Від них також очікують пропозицій щодо усунення причин конфліктів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b4fb11845ae719d0",
       "source_id": "map-593",
       "source": "Є",
@@ -6985,6 +8039,23 @@
       "categories": [
         "Життя"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9f3dc2deaf17cb52",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1424945-v-odesi-reorganizaciu-medzakladiv-perenesli-na-nastupnij-rik-so-zminitsa-dla-likariv-i-pacientiv",
+      "title": "В Одесі реорганізацію медзакладів перенесли на наступний рік: що зміниться для лікарів і пацієнтів",
+      "published_at": "2026-10-25T16:08:18+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:08:18 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Реорганізацію частини лікарень і поліклінік Одеси не завершать до кінця року. Заклади подаватимуть заявки до НСЗУ в нинішній структурі, а об'єднання планують продовжити наступного року",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7062,6 +8133,23 @@
       "categories": [
         "Новина"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5eead64b7fb2b2e3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1434351-dumav-naberut-i-pidemo-sturmuvati-ak-vesper-sluzit-tatu-majstrom-u-63-ombr",
+      "title": "«Думав, наберуть і підемо штурмувати». Як «Веспер» служить тату-майстром у 63 ОМБр",
+      "published_at": "2026-10-25T16:06:07+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:06:07 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "30-річний Олександр знайшов вакансію татуювальника у війську. Вакансію знайшов у Резерв+. Тепер набиває побратимам символи пам'яті, слухає їхні бойові історії та створює власні ескізи",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7206,6 +8294,23 @@
       "status": "new"
     },
     {
+      "id": "9ca00a68d21e2046",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1436563-organizuvala-psevdoreferendum-u-novooleksandrivci-sud-zaocno-zasudiv-zitelku-hersonsini-do-10-rokiv",
+      "title": "Організувала псевдореферендум у Новоолександрівці: суд заочно засудив жительку Херсонщини до 10 років",
+      "published_at": "2026-10-25T16:01:27+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:01:27 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Суд заочно засудив Тетяну Южаніну з Новоолександрівки за організацію незаконного референдуму у вересні 2022 року. Бюлетені розносили по дворах чотирьох сіл у супроводі російських військових",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2d15e1ca41845b1e",
       "source_id": "map-577",
       "source": "Odesa.Online",
@@ -7241,7 +8346,7 @@
       "fetched_at": "2026-10-25T16:18:06+00:00",
       "description": "«Відносини України з Китаєм є особливо делікатними не лише тому, що Китай є найбільшим торговельним партнером України»",
       "categories": [
-        "Війна",
+        "Вибір редакції: світ",
         "Україна",
         "Світ",
         "Політика",
@@ -7341,6 +8446,23 @@
         "Рівненщина війна",
         "Сарни Війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9cc55b00f8896e92",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1435013-pereziv-drugu-svitovu-vijnu-ta-evakuaciu-istoria-100-ricnogo-isaaka-veretina-z-hmelnickogo",
+      "title": "Пережив Другу світову війну та евакуацію: історія 100-річного Ісаака Веретіна з Хмельницького",
+      "published_at": "2026-10-25T16:00:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 18:00:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Ісаак Веретін — 100-річний корінний житель Хмельницького. Чоловік пережив Другу світову війну та евакуацію, а зараз полюбляє гуляти рідним містом та пригадувати минуле",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7555,6 +8677,40 @@
       "status": "new"
     },
     {
+      "id": "b9b11c8f9a1df44a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436531-na-anthropic-podali-do-sudu-za-vikoristanna-muziki-elvisa-presli-dla-navcanna-modelej-stucnogo-intelektu",
+      "title": "На Anthropic подали до суду за використання музики Елвіса Преслі для навчання моделей штучного інтелекту",
+      "published_at": "2026-10-25T15:53:23+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:53:23 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Власники музики Елвіса Преслі подали до суду на компанію Anthropic, що займається штучним інтелектом, звинувативши її у навчанні своїх моделей піснями виконавця без дозволу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "570ae1057c6b42f6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436565-britaniu-nakriv-storm-boelo-ponad-80-tisac-budinkiv-zalisilisa-bez-svitla",
+      "title": "Британію накрив шторм «Боело»: понад 80 тисяч будинків залишилися без світла",
+      "published_at": "2026-10-25T15:53:18+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:53:18 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Шторм «Боело» накрив Велику Британію, залишивши понад 80 тисяч будинків без електроенергії у Шотландії, Північній Ірландії та на півночі Англії. Негода також спричинила перебої в роботі залізниці та авіасполучення",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b6a7241d8b3af906",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -7677,6 +8833,40 @@
       "status": "new"
     },
     {
+      "id": "3cf9fedb101fb42a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436581-navit-ne-znau-ak-zvati-hlopciv-petrakov-rozpoviv-ak-za-tri-dni-pidgotuvav-krivbas-do-matcu-v-upl",
+      "title": "«Навіть не знаю, як звати хлопців». Петраков розповів, як за три дні підготував «Кривбас» до матчу в УПЛ",
+      "published_at": "2026-10-25T15:48:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:48:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Олександр Петраков: головний тренер «Кривбаса», перший матч на новій посаді, гра української Прем'єр-ліги проти «Буковини», результат",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6dae16ed8f848829",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1436583-9-ricnij-sahist-z-dnipra-miron-netrebka-stav-cempionom-svitu-so-vin-rozpoviv-pro-turnir",
+      "title": "9-річний шахіст з Дніпра Мирон Нетребка став чемпіоном світу: що він розповів про турнір",
+      "published_at": "2026-10-25T15:47:14+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:47:14 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Шахіст з Дніпра, 9-річний Мирон Нетребка, став чемпіоном світу з класичних шахів. Змагання проходили в іспанському місті Рокетас-де-Мар",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e14b3cae1a3bc634",
       "source_id": "map-397",
       "source": "Східний Варіант",
@@ -7773,6 +8963,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8df5148815eea135",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1435211-na-poltavsini-gromad-navcitimut-stvoruvati-municipalni-energeticni-plani-comu-voni-vazlivi",
+      "title": "На Полтавщині громади навчатимуть створювати муніципальні енергетичні плани: чому вони важливі",
+      "published_at": "2026-10-25T15:43:38+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:43:38 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "До січня 2027 року громади Полтавщини мають ухвалити муніципальні енергетичні плани. Чому без них можуть обмежити доступ до державних субвенцій і грантів та як пройти безплатне навчання",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8106,6 +9313,57 @@
       "status": "new"
     },
     {
+      "id": "d71b99348fab7502",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1436521-do-15-tepla-sinoptik-rozpoviv-pro-pogodu-na-cerkasini-naprikinci-zovtna",
+      "title": "До 15º тепла: синоптик розповів про погоду на Черкащині наприкінці жовтня",
+      "published_at": "2026-10-25T15:31:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:31:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Черкаській області 26, 27, 28 та 29 жовтня синоптики прогнозують до 15 градусів тепла. В регіоні пройдкть невеликі дощі та будуть тумани",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c8f040b813401cb2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1436561-u-mikolaevi-zitknulisa-legkovik-i-motocikl-gospitalizuvali-dvoh-ludej",
+      "title": "У Миколаєві зіткнулися легковик і мотоцикл: госпіталізували двох людей",
+      "published_at": "2026-10-25T15:30:13+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:30:13 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Миколаєві 25 жовтня сталась аварія між автомобілем та мотоциклом. Унаслідок цього двох людей госпіталізували. Аварія сталася близько 10:10 в районі будинку № 81 по вулиці Силікатній",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "747106808b330b94",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1435803-vsi-nasi-vistavi-pro-nas-ak-teatr-tetra-bezplatno-pokazue-lalkovi-vistavi-v-ukrittah-harkova",
+      "title": "«Всі наші вистави про нас». Як «Театр Тетра» безплатно показує лялькові вистави в укриттях Харкова",
+      "published_at": "2026-10-25T15:30:08+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:30:08 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Харківський «Театр Тетра» безкоштовно показує лялькові вистави в укриттях, безпечних просторах і тимчасових місцях перебування переселенців. У репертуарі — ліцензійна вистава про мумі-тролів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "97f5a0dc4c98efa7",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -8157,6 +9415,40 @@
         "Новини",
         "Біжучий рядок"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "039c42588879ba33",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1432299-fabrika-kuhna-dla-skilnih-obidiv-naviso-hocut-organizuvati-na-bukovini-ta-skilki-ce-moze-vartuvati",
+      "title": "Фабрика-кухня для шкільних обідів: навіщо хочуть організувати на Буковині та скільки це може вартувати",
+      "published_at": "2026-10-25T15:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Чернівецькій області шукають місце для фабрики-кухні, яка зможе забезпечувати харчуванням 20–30 тисяч учнів. Де вже працюють фабрики-кухні, скільки може коштувати будівництво та як планують фінансувати проєкт?",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70a4a82b6c04a23a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1436375-vid-bojovih-viizdiv-do-perevirki-avtivok-istoria-prikordonnika-z-vinniccini",
+      "title": "Від бойових виїздів до перевірки автівок: історія прикордонника з Вінниччини",
+      "published_at": "2026-10-25T15:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "До Дня автомобіліста у Могилів-Подільському прикордонному загоні розповіли історію прикордонника, який раніше доправляв снайперів на позиції та евакуйовував військових, а нині відповідає за технічний стан службових автомобілів",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8361,6 +9653,23 @@
       "status": "new"
     },
     {
+      "id": "002b61c1b4343204",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1436559-rover-buboh-i-kovtba-u-dibrovi-na-zitomirsini-proveli-movnij-batl-miz-moloddu-ta-starsim-pokolinnam",
+      "title": "«Ровєр», «бубох» і «ковтьба»: у Діброві на Житомирщині провели мовний батл між молоддю та старшим поколінням",
+      "published_at": "2026-10-25T15:23:20+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:23:20 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Дібрівському клубі Малинської громади відбувся мовний батл між молодшими та старшими учасниками. Команди «Вундеркінди» та «Хранителі традицій» змагалися у знанні української мови, значень слів і поліських діалектизмів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b352c9b8e6207b41",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -8391,6 +9700,23 @@
       "published_raw": "Sun, 25 Oct 2026 15:23:00 +0000",
       "fetched_at": "2026-10-25T16:18:06+00:00",
       "description": "Департамент благоустрою та інфраструктури Дніпровської міської ради оголосив закупівлю послуг з утримання вулиць, мостів, шляхопроводів і переходів. Очікувана вартість становить 25 млн грн без ПДВ. Окрім прибирання сміття, передбачені очищення доріг від снігу та протиожеледна обробка. Про це журналісти Dnipro.media дізналися з оголошення про закупівлю та тендерної документації. Торги оголосили 23 жовтня. Послуги замовляють для […] The post На прибирання вулиць, мостів і переходів у п’яти районах Дніпра планують витратити 25 млн грн appeared first on Dnipro.media .",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2241bfe7414b278c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1432413-na-cernigivsini-zasudili-colovika-akij-na-traktori-zaihav-u-desnu-vnaslidok-cogo-potonula-pasazirka",
+      "title": "На Чернігівщині засудили чоловіка, який на тракторі заїхав у Десну, внаслідок чого потонула пасажирка",
+      "published_at": "2026-10-25T15:20:31+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:20:31 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Менський районний суд Чернігівської області виніс вирок чоловіку, який у стані алкогольного сп'яніння керував трактором та, порушивши правила дорожнього руху, заїхав у річку Десна. Внаслідок цього потонула пасажирка",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -8433,6 +9759,23 @@
       "categories": [
         "НОВИНИ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "564a5045a011c052",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1432277-zadonativ-700-tisac-na-zsu-j-uniknuv-turmi-sudili-ekspatrulnogo-z-lucka-za-shemu-z-invalidnistu",
+      "title": "Задонатив 700 тисяч на ЗСУ й уникнув тюрми — судили експатрульного з Луцька за схему з інвалідністю",
+      "published_at": "2026-10-25T15:19:13+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:19:13 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Експоліцейського з Луцька судили за схему з виїздом чоловіка до Молдови за 14 тисяч доларів США. Перш ніж суд оголосив вирок, патрульний задонатив на армію 700 тис. грн",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8499,6 +9842,40 @@
       "status": "new"
     },
     {
+      "id": "c91208a4cd296655",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436577-u-serbskij-progresivnij-partii-zaavili-pro-napad-na-matir-vucica",
+      "title": "У «Сербській прогресивній партії» заявили про напад на матір Вучича",
+      "published_at": "2026-10-25T15:17:03+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:17:03 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Там кажуть, що ці молоді люди дотримуються «проблокадних політичних поглядів» й коли матір Вучича поверталась із магазину, вони штовхнули її, розірвали пакети з продуктами та накричали на жінку",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f28e708bb543a560",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1436525-na-ternopilsini-v-ostannu-dorogu-proveli-poleglogo-vasila-levenca",
+      "title": "На Тернопільщині в останню дорогу провели полеглого Василя Левенця",
+      "published_at": "2026-10-25T15:17:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:17:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Тернопільщині у селі Буданів Білобожницької громади 24 жовтня попрощалися із загиблим військовослужбовцем Василем Левенцем. Майже півтора року його вважали зниклим безвіст",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "95f40cfabcc982dd",
       "source_id": "map-93",
       "source": "Новини Донбасу",
@@ -8547,6 +9924,23 @@
       "status": "new"
     },
     {
+      "id": "7b141670e89b03f6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1436575-sili-oboroni-urazili-punkt-upravlinna-ta-misca-zoseredzenna-vijsk-rf-na-tot-zaporizkoi-oblasti",
+      "title": "Сили оборони уразили пункт управління та місця зосередження військ РФ на ТОТ Запорізької області",
+      "published_at": "2026-10-25T15:15:08+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:15:08 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "В ніч на 25 жовтня Сили оборони України уразили пункт управління російських військ у районі Тарасівки та місця зосередження живої сили РФ у районах Бердянська, Охрімівки й Тарасівки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8dd849e935e0a238",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -8580,6 +9974,23 @@
       "categories": [
         "Світ/Геополітика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c677ee3fdeef8ba9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436547-ukraina-vperse-za-13-rokiv-bez-medalej-zaversila-cempionat-svitu-zi-sportivnoi-gimnastiki",
+      "title": "Україна вперше за 13 років без медалей завершила чемпіонат світу зі спортивної гімнастики",
+      "published_at": "2026-10-25T15:14:58+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:14:58 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Чемпіонат світу зі спортивної гімнастики: завершення виступів українських атлетів, вперше за 13 років без медалей, найкращий результат українців",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8640,6 +10051,23 @@
       "status": "new"
     },
     {
+      "id": "3d96efc8ae155567",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1428799-reaktivnij-bpla-na-ivano-frankivsini-u-galickij-gromadi-prolunali-vibuhi",
+      "title": "Реактивний БпЛА на Івано-Франківщині — у Галицькій громаді пролунали вибухи",
+      "published_at": "2026-10-25T15:13:05+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:13:05 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня 2026 року у Галицькій громаді на Франківщині під час повітряної тривоги пролунали вибухи. Про реактивний БпЛА на території області попередили у Повітряних силах України",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "821509c253ecf2e2",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -8660,6 +10088,23 @@
         "ai-train": "no",
         "use": "reference"
       },
+      "status": "new"
+    },
+    {
+      "id": "b116850aef77e239",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1433301-pribirau-poki-nogi-nosat-83-ricnij-mihajlo-voznij-iz-malina-pracue-dvirnikom",
+      "title": "«Прибираю, поки ноги носять»: 83-річний Михайло Возний із Малина працює двірником",
+      "published_at": "2026-10-25T15:12:46+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:12:46 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "83-річний Михайло Возний 4 роки працює двірником у Малинському центрі культури і дозвілля на Житомирщині. Його робочий день починається близько 7 ранку й завершується, коли чоловік прибере територію: чому працює на пенсії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -8799,6 +10244,23 @@
       "categories": [
         "Політика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "13904a088c4a6218",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1436573-cotiri-tisaci-pacok-sigaret-bez-akciznih-marok-viavili-prikordonniki-u-vantaznomu-potazi-na-zakarpatti",
+      "title": "Чотири тисячі пачок сигарет без акцизних марок виявили прикордонники у вантажному потязі на Закарпатті",
+      "published_at": "2026-10-25T15:10:04+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:10:04 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У пункті пропуску «Павлово» прикордонники Чопського загону виявили 4000 пачок сигарет без марок акцизного податку України. Їх сховали у вантажі потяга, який прямував зі Закарпаття до Словаччини.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9110,6 +10572,40 @@
       "status": "new"
     },
     {
+      "id": "5935f6a6dfe60e55",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436537-karatisti-iz-doneccini-viboroli-tri-medali-na-cempionati-svitu-v-horvatii",
+      "title": "Каратисти із Донеччини вибороли три медалі на чемпіонаті світу в Хорватії",
+      "published_at": "2026-10-25T15:01:49+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:01:49 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Хорватії завершився чемпіонат світу із карате серед дорослих, молоді, юніорів та юнаків. Спортсмени із Донеччини вибороли три медалі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9f19eb0062f85f2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1436579-u-hersoni-u-likarni-pomer-colovik-tazko-poranenij-cerez-udar-drona-po-marsrutci",
+      "title": "У Херсоні у лікарні помер чоловік, тяжко поранений через удар дрона по маршрутці",
+      "published_at": "2026-10-25T15:01:37+00:00",
+      "published_raw": "Sun, 25 Oct 2026 17:01:37 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня близько 15:10 російський дрон влучив у маршрутку в Центральному районі Херсона. Шестеро пасажирів отримали поранення, один із них — чоловік 1959 року народження — помер у лікарні",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dc7f3bef9b42dae0",
       "source_id": "nv",
       "source": "NV",
@@ -9401,6 +10897,23 @@
       "status": "new"
     },
     {
+      "id": "576e8f4650e8ad6c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1435487-voni-zivut-za-rahunok-posmiski-majze-piv-sotni-lalok-stvorila-majstrina-z-rivnogo-svitlana-tarasova",
+      "title": "«Вони живуть за рахунок посмішки»: майже пів сотні ляльок створила майстриня з Рівного Світлана Тарасова",
+      "published_at": "2026-10-25T14:55:07+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:55:07 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Відьмочки, гноми, домовики та інші ляльки створює майстриня з Рівного Світлана Тарасова. Ляльками вона захопилася два роки тому. Відтоді створила приблизно 50 виробів. Більшість з них мають власників та імена",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "1f613f58ff1ed9b3",
       "source_id": "lb",
       "source": "LB.ua",
@@ -9561,6 +11074,23 @@
       "status": "new"
     },
     {
+      "id": "f059b33f597c3530",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1434885-u-poltavi-vijskovogo-zvilnili-vid-vidpovidalnosti-za-szc-na-ponad-sim-misaciv",
+      "title": "У Полтаві військового звільнили від відповідальності за СЗЧ на понад сім місяців",
+      "published_at": "2026-10-25T14:51:54+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:51:54 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Військовий із Полтавщини був відсутній на службі понад сім місяців. Суд звільнив його від кримінальної відповідальності за СЗЧ після того, як він заявив про намір повернутися до служби, а командир погодився його поновити",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "479300a4f3a30787",
       "source_id": "lb",
       "source": "LB.ua",
@@ -9698,6 +11228,23 @@
       "status": "new"
     },
     {
+      "id": "d95936fa04688983",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436527-u-parizi-pered-prostestami-24-zovtna-zakrili-nizku-muzeiv-turistam-ne-dozvolili-vidvidati-castinu-kulturnogo-sektoru",
+      "title": "У Парижі перед простестами 24 жовтня закрили низку музеїв: туристам не дозволили відвідати частину культурного сектору",
+      "published_at": "2026-10-25T14:46:26+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:46:26 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Лувр та кілька інших великих паризьких музеїв були закриті, 24 жовтня, оскільки влада запобігає відновленню насильства під час запланованих протестів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a91951fe5784f31a",
       "source_id": "map-931",
       "source": "Перший Запорізький",
@@ -9775,6 +11322,40 @@
       "categories": [
         "Світ/Країни"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f675573053b6c8f4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436567-u-sumah-rozpocavsa-veteranskij-futzalnij-sezon",
+      "title": "У Сумах розпочався ветеранський футзальний сезон",
+      "published_at": "2026-10-25T14:43:27+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:43:27 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Сумах ветеранський футзальний сезон 2026–2027 років розпочався розіграшем «Кубка пам'яті Миколи Абрамова» серед гравців віком від 55 років",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "56f73d113f6d8291",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1436555-na-kordoni-z-polseu-na-lvivsini-utvorilisa-cergi-de-najbilse-transportu",
+      "title": "На кордоні з Польщею на Львівщині утворилися черги: де найбільше транспорту",
+      "published_at": "2026-10-25T14:42:19+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:42:19 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На українсько-польському кордоні на Львівщині фіксують черги на виїзд з України. Найбільше автомобілів — у пункті пропуску «Краківець». На в'їзд в Україну черги є на ПП «Краківець» та «Шегині».",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9894,6 +11475,23 @@
       "status": "new"
     },
     {
+      "id": "35e25aa22045ef6d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1436439-brakue-izi-likiv-vodi-boec-iz-kropivnickogo-ta-pobratimi-z-159-i-brigadi-prosat-pro-evakuaciu-z-otocenna",
+      "title": "Бракує їжі, ліків, води: боєць із Кропивницького та побратими з 159-ї бригади просять про евакуацію з оточення",
+      "published_at": "2026-10-25T14:40:54+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:40:54 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Військовослужбовець другого механізованого батальйону 159 окремої механізованої бригади Сергій Бородай з Кропивницького разом з побратимами записав відеозвернененя до командування, у якому розповів, що перебувають на позиціях у Ха",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f1ddcc4fc9cbcd86",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -9972,6 +11570,23 @@
         "Війна",
         "росія"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ded105ba216b61a3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1436503-u-zitomiri-proveli-poliskij-napivmarafon-ponad-1500-ucasnikiv-i-100-tisac-griven-dla-zsu",
+      "title": "У Житомирі провели Поліський напівмарафон: понад 1500 учасників і 100 тисяч гривень для ЗСУ",
+      "published_at": "2026-10-25T14:38:28+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:38:28 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня у Житомирі відбувся Поліський напівмарафон, у якому взяли участь понад півтори тисячі людей із різних міст України. Бігуни долали дистанції 21.5, 10 і 5 кілометрів. Також у межах заходу провели благодійний забіг",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10297,6 +11912,23 @@
       "status": "new"
     },
     {
+      "id": "4be703ac8826e884",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1434823-niva-propustila-gol-na-93-j-hvilini-matcu-z-vilhivcami",
+      "title": "«Нива» пропустила гол на 93-й хвилині матчу з «Вільхівцями»",
+      "published_at": "2026-10-25T14:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Вінницька «Нива» 25 жовтня зіграла з «Вільхівцями» у 12-му турі Другої ліги ПФЛ. Назар Попов забив на 17-й хвилині, а господарі зрівняли рахунок на 93-й. Наступний матч вінничани проведуть 1 листопада проти «Брацлава»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "645c82661ffba6d8",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -10330,6 +11962,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4ad68c0f89d22d50",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1436467-odeskij-limonarij-vidkrili-dla-vidviduvaciv-derevam-ponad-70-rokiv",
+      "title": "Одеський лимонарій відкрили для відвідувачів: деревам понад 70 років",
+      "published_at": "2026-10-25T14:28:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:28:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "В Одеському ботанічному саду 24 та 25 жовтня відкрили лимонарій для самостійного огляду. У теплиці ростуть лимони, мандарини, апельсини та інші цитрусові, вік деяких дерев перевищує 70 років",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10478,6 +12127,23 @@
       "status": "new"
     },
     {
+      "id": "7fbba012e88d5f42",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436529-u-kremli-zaavili-so-rf-gotova-vidnoviti-peregovori-iz-ssa-ta-ukrainou-pisla-4-listopada",
+      "title": "У Кремлі заявили, що РФ готова відновити переговори із США та Україною після 4 листопада",
+      "published_at": "2026-10-25T14:25:09+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:25:09 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Раніше український президент Володимир Зеленський казав, що тристоронню зустріч на рівні переговорних команд щодо завершення війни РФ проти України планують провести у першій половині листопада",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "61f4fb980470d6a8",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -10537,6 +12203,40 @@
       "status": "new"
     },
     {
+      "id": "aecd5da674f33df6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436539-u-litvi-aeroport-kaunasa-prizupinav-robotu-cerez-povitrani-kuli-z-bilorusi",
+      "title": "У Литві аеропорт Каунаса призупиняв роботу через повітряні кулі з Білорусі",
+      "published_at": "2026-10-25T14:24:25+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:24:25 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Аеропорт Каунаса в Литві тимчасово зупиняв роботу через повітряні кулі з Білорусі, які могли перевозити контрабанду. Через це затримали два рейси, що вплинуло на 366 пасажирів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e8265bead33905a4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1436395-a-znala-so-vin-vitrimae-z-rosijskogo-polonu-zvilnili-mihajla-poznaka-z-kirovogradsini",
+      "title": "«Я знала, що він витримає»: з російського полону звільнили Михайла Позняка з Кіровоградщини",
+      "published_at": "2026-10-25T14:24:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:24:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Під час обміну полоненими 23 жовтня з російського полону звільнили військовослужбовця Михайла Позняка з села Михайлівка Новоукраїнського району Кіровоградської області. Боєць зник безвісти у червні 2022 року на Луганщині",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "21a0bcb34ae9f43c",
       "source_id": "map-844",
       "source": "Ірта-fax",
@@ -10574,6 +12274,23 @@
       "categories": [
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0c096bd01a2b01bb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1436433-policia-rozsukue-vodia-akij-vtik-pisla-smertelnoi-dtp-na-zakarpatti",
+      "title": "Поліція розшукує водія, який втік після смертельної ДТП на Закарпатті",
+      "published_at": "2026-10-25T14:22:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:22:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У селі Костилівка Рахівського району автомобіль BMW врізався в металевий відбійник. 20-річний пасажир загинув, а водій утік з місця аварії. Поліція його розшукує.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10637,6 +12354,40 @@
       "status": "new"
     },
     {
+      "id": "82c0c5873bd2b959",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436557-rosijskij-reaktivnij-bpla-vdariv-po-novobavarskomu-rajonu-harkova-so-vidomo",
+      "title": "Російський реактивний БпЛА вдарив по Новобаварському району Харкова: постраждав 14-річний хлопець",
+      "published_at": "2026-10-25T14:19:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:19:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Близько 16:10 25 жовтня російський реактивний БпЛА вдарив по Новобаварському району Харкова. 14-річний хлопець зазнав гострої реакції на стрес внаслідок російського удару",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fad62ee57b72ecb7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1436551-54-ricna-zinka-zaznala-opikiv-ta-akubarotravmi-rosijski-vijska-atakuvali-zernoshovise-na-prikordonni-cernigivsini",
+      "title": "54-річна жінка зазнала опіків та акубаротравми: російські війська атакували зерносховище на прикордонні Чернігівщини",
+      "published_at": "2026-10-25T14:18:03+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:18:03 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Російські війська 25 жовтня, близько 15:20, атакували село Мамекине, що на прикордонні Чернігівщини, безпілотником (попередньо, типу «Герань»). 54-річна жінка зазнала опіків та акубаротравми",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "97360cee946e2776",
       "source_id": "map-1114",
       "source": "Інформатор Коломия",
@@ -10651,6 +12402,23 @@
       "categories": [
         "НОВИНИ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cc0864b000e63d0f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1436523-kiberbezpeka-inkluzivnist-ta-vpiznavani-lokacii-oblasti-ak-na-ivano-frankivsini-stvoruvali-multserial-meni-nudno",
+      "title": "Кібербезпека, інклюзивність та впізнавані локації області. Як на Івано-Франківщині створювали мультсеріал «Мені нудно»",
+      "published_at": "2026-10-25T14:16:56+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:16:56 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Франківець Василь Гошовський створив мультсеріал «Мені нудно» у межах проєкту «Код освіти» за підтримки Українського культурного фонду. Що відомо — у матеріалі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10734,6 +12502,23 @@
       "status": "new"
     },
     {
+      "id": "bcca6b03515bca14",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1436397-matc-fk-bukovina-proti-klubu-krivbas-zaversivsa-nulovou-nicieu",
+      "title": "Матч ФК «Буковина» проти клубу «Кривбас» завершився нульовою нічиєю",
+      "published_at": "2026-10-25T14:15:12+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:15:12 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Матч футбольних клубів «Буковина» - «Кривбас» завершився нічию з рахунком 0:0. Це був матч 10-го туру Української Прем'єр-ліги. Що відомо про гру",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "69642f7e1a13ae77",
       "source_id": "pravda",
       "source": "Українська правда",
@@ -10790,6 +12575,40 @@
         "Оборона",
         "Рішення"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "852c7c09ec1edd2b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436493-vtrata-ocok-sahtarem-novij-lider-i-debut-petrakova-na-coli-krivbasa-rezultati-10-go-turu-upl-ta-turnirna-tablica",
+      "title": "Втрата очок «Шахтарем», новий лідер і дебют Петракова на чолі «Кривбаса»: результати 10-го туру УПЛ та турнірна таблиця",
+      "published_at": "2026-10-25T14:14:01+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:14:01 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Результати десятого туру УПЛ 2026/27: «Полісся» очолило турнірну таблицю після втрати очок «Шахтарем», дебютна перемога Кєндзьорека в «Динамо» та чотири матчі без забитих м'ячів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "82b85664e42d947c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1436553-dron-vluciv-u-marsrutku-v-centralnomu-rajoni-hersona-sestero-poranenih",
+      "title": "Дрон влучив у маршрутку в Центральному районі Херсона: шестеро поранених",
+      "published_at": "2026-10-25T14:13:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:13:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня близько 15:10 російський дрон влучив у маршрутне таксі у Центральному районі Херсона. Шестеро пасажирів отримали мінно-вибухові травми, 67-річний чоловік у тяжкому стані",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10867,6 +12686,23 @@
       "published_raw": "2026-10-25T16:12:00+02:00",
       "fetched_at": "2026-10-25T16:18:06+00:00",
       "description": "Мешканці вулиці Механізаторів у Гайсині зібрали підписи під колективним зверненням до міської ради та заявою до поліції через стан дороги. Люди скаржаться на численні ями й відсутність тротуарів. За словами ініціаторки звернення Оксани Семенюк, капітальний ремонт вартістю понад 50 мільйонів гривень ще попереду, а безпечного пересування жителям потрібно домогтися вже зараз. Про зустріч, яка відбулася 23 жовтня, Оксана Семенюк повідомила на своїй сторінці у Facebook. За її словами, до зібрання долучилися мешканці вулиці та інші жителі громади, яких непокоїть стан дороги.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ae1626f953fc4999",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1436535-u-vinnici-opracuvali-ponad-40-zvernen-vid-postrazdalih-vnaslidok-ataki-rf",
+      "title": "У Вінниці опрацювали понад 40 звернень від постраждалих внаслідок атаки РФ",
+      "published_at": "2026-10-25T14:11:55+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:11:55 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Вінниці опрацювали понад 40 звернень від постраждалих унаслідок російської атаки вночі 25 жовтня. Мешканці можуть отримати матеріальну допомогу з бюджету громади. Публікуємо телефони управління соціального захисту населення.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -10974,6 +12810,23 @@
       "status": "new"
     },
     {
+      "id": "97256b564046a503",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1436541-iz-prifrontovih-kusugumu-ta-zalivnogo-na-zaporizzi-evakuuvali-troh-zinok-nacpolicia",
+      "title": "Із прифронтових Кушугуму та Заливного на Запоріжжі евакуювали трьох жінок — Нацполіція",
+      "published_at": "2026-10-25T14:10:41+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:10:41 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "24 жовтня правоохоронці евакуювали трьох жінок із прифронтових населених пунктів Запорізького району — двох із Кушугуму та одну із Заливного",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "acee94c0ce9baf47",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -11007,6 +12860,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9dc99a6221ec75c4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1434009-buv-radij-so-viziv-istoria-veterana-akij-pisla-poranenna-dopomagae-pobratimam",
+      "title": "«Був радий, що вижив». Історія ветерана, який після поранення допомагає побратимам",
+      "published_at": "2026-10-25T14:07:43+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:07:43 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Олексій Гущин пішов служити у Нацгвардію після початку повномасштабної війни. На фронті втратив ногу, але після реабілітації знову навчився ходити й бігати на протезі. Тепер він допомагає ветеранам адаптуватися до цивільного життя",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11416,6 +13286,40 @@
       "status": "new"
     },
     {
+      "id": "f7dc765a05f40058",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1436501-derzzrada-terorizm-i-viroki-krimskim-tataram-represii-v-okupovanomu-krimu-za-tizden",
+      "title": "«Держзрада», «тероризм» і вироки кримським татарам: репресії в окупованому Криму за тиждень",
+      "published_at": "2026-10-25T14:00:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:00:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Нові кримінальні справи за коментарі в соцмережах, 18 років ув'язнення для Володимира Ананьєва та вироки шістьом кримським татарам у справі Хізб ут-Тахрір. Головні випадки репресій у Криму за тиждень — у матеріалі Суспільне Криму",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "87d159219623f555",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1436417-dos-i-tuman-pogoda-26-zovtna-na-hmelniccini",
+      "title": "Дощ і туман: погода 26 жовтня на Хмельниччині",
+      "published_at": "2026-10-25T14:00:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 16:00:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Завтра, 26 жовтня, на Хмельниччині буде хмарно з проясненням. За прогнозами синоптиків, вночі буде без опадів, вдень — дощ, а вночі та вранці — туман",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "50787e85dcb5f1f5",
       "source_id": "babel",
       "source": "Бабель",
@@ -11466,6 +13370,23 @@
       "categories": [
         "Антифейк"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "88f050a8f661daaa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436469-u-dnipri-vidkriut-misce-timcasovogo-prozivanna-dla-vpo-zokrema-iz-dobropilskoi-gromadi-so-vidomo",
+      "title": "У Дніпрі відкриють місце тимчасового проживання для ВПО, зокрема із Добропільської громади: що відомо",
+      "published_at": "2026-10-25T13:58:22+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:58:22 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Добропільська МВА повідомила, що у Дніпрі відкриють нова місце для тимчасового проживання ВПО, яким зможуть скористатися із переселенці із громади. Умови поселення опублікували на сторінці адміністрації",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11663,6 +13584,23 @@
       "status": "new"
     },
     {
+      "id": "dc05973e120ae4f5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1436517-na-dnipropetrovsini-z-vodojmi-vitagli-16-rakolovok-dovzinou-112-metriv",
+      "title": "На Дніпропетровщині з водойми витягли 16 раколовок довжиною 112 метрів",
+      "published_at": "2026-10-25T13:52:05+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:52:05 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Шолоховському водосховищі річки Базавлук, що на Нікопольщині, рибоохоронний патруль вилучив 16 безхазяйних раколовок загальною довжиною 112 метрів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "44940dc5ea78686a",
       "source_id": "map-535",
       "source": "МОСТ",
@@ -11697,6 +13635,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "192d623ee618d176",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1436497-pobitta-10-ricnogo-hlopcika-na-kiivsini-lubinec-zvernuvsa-z-zapitom-do-policii-ta-borispilskoi-miskradi",
+      "title": "Побиття 10-річного хлопчика на Київщині: Лубінець звернувся з запитом до поліції та Бориспільської міськради",
+      "published_at": "2026-10-25T13:51:06+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:51:06 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Уповноважений Верховної Ради з прав людини Дмитро Лубінець відреагував на випадок систематичного побиття дитини у Бориспільському районі Київської області",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11758,6 +13713,40 @@
         "Новини",
         "Соціум"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "db251c158d4714c5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436519-nazar-cepurnij-rozdiliv-cetverte-misce-u-finali-cs-2026-zi-sportivnoi-gimnastiki-v-opornomu-stribku",
+      "title": "Назар Чепурний розділив четверте місце у фіналі ЧС-2026 зі спортивної гімнастики в опорному стрибку",
+      "published_at": "2026-10-25T13:49:28+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:49:28 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "ЧС-2026 зі спортивної гімнастики: результат Назара Чепурного у фіналі опорного стрибка серед чоловіків, як пройшли змагання, трійка призерів чемпіонату світу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7081cf67db4cfdf1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1429453-u-kremencuci-pereselenka-z-doneccini-vidkrila-kavarnu-de-dopomagae-psihologicno-vidnovluvatis",
+      "title": "У Кременчуці переселенка з Донеччини відкрила кав'ярню, де допомагає психологічно відновлюватись",
+      "published_at": "2026-10-25T13:49:20+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:49:20 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Вікторія Гончарова евакуювалася до Кременчука через російські обстріли та відкрила кав'ярню за грантові кошти. Тут проводять творчі майстер-класи й зустрічі для психологічного відновлення",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12025,6 +14014,23 @@
       "status": "new"
     },
     {
+      "id": "7ee27e70ae70bcf2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436509-miznarodna-federacia-vazkoi-atletiki-priznacila-rosiu-gospodarkou-cempionatu-svitu-u-2030-roci",
+      "title": "Росію призначили господаркою ЧС-2030 з важкої атлетики: вперше в олімпійському спорті за часів повномасштабної війни",
+      "published_at": "2026-10-25T13:41:49+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:41:49 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "IWF обрала господарів чотирьох чемпіонатів світу з важкої атлетики на 2028-2030 роки; дорослий турнір 2030 року призначили Москві — це перший такий випадок в олімпійських видах від початку повномасштабного вторгнення РФ в Україну",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "590c9192448a8a0e",
       "source_id": "map-1176",
       "source": "Репортер",
@@ -12075,6 +14081,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9eb76a291cb6e030",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1436453-akou-bude-pogoda-v-odesi-ta-oblasti-26-zovtna-prognoz-sinoptikiv",
+      "title": "Якою буде погода в Одесі та області 26 жовтня: прогноз синоптиків",
+      "published_at": "2026-10-25T13:41:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:41:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Одещині 26 жовтня прогнозують до 19° тепла, хмарність із проясненнями та місцями невеликий дощ. Уночі й уранці на автошляхах області можливий туман із видимістю 200–500 метрів",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12295,6 +14318,23 @@
       "status": "new"
     },
     {
+      "id": "41fd7720c785826a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436515-u-premer-ministra-ukraini-sergia-koreckogo-cotiri-radniki-na-gromadskih-zasadah",
+      "title": "У прем'єр-міністра України Сергія Корецького чотири радники на громадських засадах",
+      "published_at": "2026-10-25T13:31:14+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:31:14 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Радниками очільника уряду України Сергія Корецького на громадських засадах є Анна Козярська, Олег Крижанівський, Руслан Квітін та Олександр Шевельов",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2639168efc5a26a4",
       "source_id": "map-586",
       "source": "Вгору",
@@ -12446,9 +14486,9 @@
       "description": "На Івано-Франківщині в Надвірнянському районі відвели 2,7 га під охоронну зону пізньоцвіту осіннього — особливо вразливого виду рослин, які занесені до Червоної книги, пише КУРС. Як повідомила Українська природоохоронна група (UNCG), яка безпосередньо займалася розробкою та впровадженням цієї ініціативи, на Прикарпатті створили першу охоронну зону для збереження рідкісних рослин. “На Івано-Франківщині створили першу охоронну зону […]",
       "categories": [
         "Суспільство",
-        "екологія",
         "Червона книга",
-        "охорона природи"
+        "охорона природи",
+        "екологія"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12652,6 +14692,23 @@
       "status": "new"
     },
     {
+      "id": "ff28528fc9b6c426",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1436465-zaginuv-vid-udaru-rosijskogo-drona-u-misti-na-cerkasini-poprosalisa-iz-zahisnikom",
+      "title": "Загинув від удару російського дрона: у місті на Черкащині попрощалися із захисником",
+      "published_at": "2026-10-25T13:24:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:24:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Тальному 25 жовтня 2026 року провели в останню путь загиблого на російсько-українській війні захисника Ярослава Ротаня. Йому було 40 років",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a4a79e0c81edd5b8",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -12746,6 +14803,40 @@
       "categories": [
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6fe5fc385991a98a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1436513-persa-liga-ingulec-peremig-kolos-2-z-kiivsini-u-matci-susidiv-po-turnirnij-tablici",
+      "title": "Перша ліга: «Інгулець» переміг «Колос-2» з Київщини у матчі сусідів по турнірній таблиці",
+      "published_at": "2026-10-25T13:20:55+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:20:55 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У 13-му турі Першої ліги чемпіонату України з футболу сезону 2026-2027«Інгулець» із селища Петрове Олександрійського району Кіровоградської області переміг команду «Колос-2» з Київщини з рахунком 2:0",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "51dcf414745e29b6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1436483-viizdzae-tehnika-zbirati-vrozaj-i-pidrivaetsa-ocilnik-balaklijskoi-mva-rozpoviv-pro-pastki-rf-na-polah",
+      "title": "«Виїжджає техніка збирати врожай і підривається»: очільник Балаклійської МВА розповів про пастки РФ на полях",
+      "published_at": "2026-10-25T13:20:47+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:20:47 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Балаклійській громаді на Харківщині обстеження потребують 95 тис. га земель. Начальник МВА Віталій Карабанов розповів про пастки РФ для аграріїв, втрати бюджету та хід розмінування громади.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12890,6 +14981,23 @@
         "Спорт",
         "Україна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dad28a4abd9dbeea",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1432971-vid-tazkih-poranen-unaslidok-obstrilu-rf-pomer-nacalnik-karaulu-gu-dsns-zaporizkoi-oblasti-urij-ilcenko",
+      "title": "Від тяжких поранень унаслідок обстрілу РФ помер начальник караулу ГУ ДСНС Запорізької області Юрій Ільченко",
+      "published_at": "2026-10-25T13:14:12+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:14:12 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня у лікарні від тяжких поранень, яких дістав унаслідок російського обстрілу, помер начальник караулу двадцятої державної пожежно-рятувальної частини Запорізької області Юрій Ільченко",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13128,6 +15236,23 @@
       "status": "new"
     },
     {
+      "id": "0a21730a329f43d6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1436413-stucnij-intelekt-ne-vijde-do-200-ditej-i-ne-trimatime-ihnu-uvagu-godinu-maria-burmaka-prezentuvala-v-ternopoli-proekt2",
+      "title": "«Штучний інтелект не вийде до 200 дітей і не триматиме їхню увагу годину»: Марія Бурмака презентувала в Тернополі проєкт",
+      "published_at": "2026-10-25T13:08:25+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:08:25 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Співачка Марія Бурмака приїхала до Тернополя з проєктом «Зелена Шапочка збирає друзів», який поєднує дитячі пісні, мультфільми з караоке та співаник із нотами",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "851f10bfa649736d",
       "source_id": "map-687",
       "source": "Гривна",
@@ -13145,6 +15270,23 @@
         "Херсон",
         "Херсонщина"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d77f9697109c4490",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436505-u-lipeckij-oblasti-rf-prolunali-vibuhi-jmovirno-urazeno-zavod-energia",
+      "title": "У Липецькій області РФ пролунали вибухи: ймовірно, уражено оборонний завод «Енергія»",
+      "published_at": "2026-10-25T13:07:07+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:07:07 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У російському Єльці Липецької області пролунали вибухи, після яких над містом помітили чорний дим. За попередніми даними, під удар міг потрапити завод «Енергія», який виробляє батареї та акумулятори для ракетних комплексів РФ",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13225,6 +15367,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "be96bb8ec69d98c9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1435281-metriv-500-do-linii-zitknenna-prikordonnik-rozpoviv-pro-evakuaciu-poranenogo-na-nrk-na-limanskomu-napramku",
+      "title": "«Метрів 500 до лінії зіткнення». Прикордонник розповів про евакуацію пораненого на НРК на Лиманському напрямку",
+      "published_at": "2026-10-25T13:05:32+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:05:32 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Боєць підрозділу «Страж» Віталій «Липень» розповів про роботу роботизованих комплексів біля Рідкодуба на Донеччині: евакуацію важкопоранених, вивезення полеглих та знешкодження дронів «ждунів».",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13350,6 +15509,23 @@
         "Краєзнавчий музей",
         "лекція"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fa6816d581a0b99c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1435319-novij-inkluzivnij-proekt-realizovuut-na-poltavsini",
+      "title": "Новий інклюзивний проєкт реалізовують на Полтавщині",
+      "published_at": "2026-10-25T13:01:34+00:00",
+      "published_raw": "Sun, 25 Oct 2026 15:01:34 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Полтавщині реалізовують проєкти STEM-inclusion і STEAM-Inclusion 2.0. Як діти з особливими освітніми потребами працюють із 3D-ручками та іншим STEAM-обладнанням і який досвід напрацювали для педагогів",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13733,6 +15909,23 @@
         "війна",
         "Ізюм"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f18317d556c560e2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1436507-u-mikolaivskomu-zooparku-sukaut-tigrena-ake-vteklo-z-volera",
+      "title": "У Миколаївському зоопарку знайшли тигреня, яке втекло з вольєра",
+      "published_at": "2026-10-25T12:57:35+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:57:35 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Миколаївському зоопарку шукають чотиримісячну амурську тигрицю, яка втекла з вольєра в ніч проти неділі. До пошуків залучили кінолога з мисливськими собаками",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14217,6 +16410,23 @@
       "status": "new"
     },
     {
+      "id": "41c664ead8748adb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1436459-u-mikolaevi-na-akcii-nagaduvanni-privitali-vijskovogo-akij-povernuvsa-z-polonu",
+      "title": "У Миколаєві на акції-нагадуванні привітали військового, який повернувся з полону",
+      "published_at": "2026-10-25T12:41:20+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:41:20 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Миколаєві 25 жовтня понад 150 людей долучилися до акції-нагадування про військовополонених і зниклих безвісти. Учасники телефоном привітали військового, який повернувся з полону",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d9f067c137c3af38",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -14250,6 +16460,23 @@
       "categories": [
         "Міські новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6cf49273c071bf81",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436499-rosijski-vijska-obstrilali-selise-donecke-poranenna-distav-civilnij",
+      "title": "Російські війська обстріляли селище Донецьке, поранення дістав цивільний",
+      "published_at": "2026-10-25T12:39:02+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:39:02 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Зранку російські війська завдали удари по селищу Донецьке у Миколаївській громаді. Поранення дістав цивільний чоловік. Про це Суспільне Донбас повідомив начальник Миколаївської міської військової адміністрації Володимир Проскунін",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14350,6 +16577,23 @@
       "status": "new"
     },
     {
+      "id": "0eb5670943028fda",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1431737-zefirni-kviti-zamist-trivoznih-dumok-majstrina-z-vinniccini-stvorue-solodki-buketi",
+      "title": "Зефірні квіти замість тривожних думок: майстриня з Вінниччини створює солодкі букети",
+      "published_at": "2026-10-25T12:36:22+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:36:22 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Тетяна Вознюк із Клембівки на Вінниччині майже три з половиною роки створює букети із зефіру. Захоплення допомогло їй пережити тривогу за чоловіка-військового, а нині її солодкі композиції замовляють в Україні та за кордоном.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2e73b0bd42d4a50c",
       "source_id": "lb",
       "source": "LB.ua",
@@ -14364,6 +16608,74 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dfee67c60539dc8e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1436447-knizku-artura-drona-gemingvej-nicogo-ne-znae-podaruvali-papi-levu",
+      "title": "Книжку Артура Дроня «Гемінґвей нічого не знає» подарували Папі Леву",
+      "published_at": "2026-10-25T12:35:58+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:35:58 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Ватикані глава УГКЦ подарував книгу ветерана російсько-української війни Артура Дроня «Гемінґвей нічого не знає» Папі Римському. Автор висловив честь бути дотичним до поширення свідчень про російську війну в церкві",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0bad56a20dce0f5a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436495-urad-spramuvav-ponad-180-mln-grn-na-vidnovlenna-bagatopoverhivok-u-sumskij-dniprovskij-ta-kiivskij-oblastah",
+      "title": "Уряд спрямував понад 180 млн грн на відновлення багатоповерхівок у Сумській, Дніпровській та Київській областях",
+      "published_at": "2026-10-25T12:35:38+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:35:38 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Уряд виділив 187,6 млн грн із фонду ліквідації наслідків збройної агресії на відновлення 33 багатоквартирних будинків, пошкоджених внаслідок російських обстрілів у Дніпропетровській, Сумській та Київській областях",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "854a13220ac46754",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436451-u-serbii-prohodat-dostrokovi-parlamentski-vibori",
+      "title": "У Сербії проходять дострокові парламентські вибори",
+      "published_at": "2026-10-25T12:35:17+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:35:17 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Сербії відбуваються дострокові парламентські вибори на тлі майже дворічних студентських протестів. Попередні підсумки очікуються через 2 години після закриття дільниць о 20:00 за місцевим часом (21:00 за Києвом)",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fb609419466224c4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1436401-do-24-ta-23-rokiv-uvaznenna-v-rf-zasudili-romana-zarubaeva-ta-artura-nesterenka-iz-okupovanogo-melitopola-za-terakti",
+      "title": "До 24 та 23 років ув'язнення: в РФ засудили Романа Зарубаєва та Артура Нестеренка із окупованого Мелітополя за «теракти»",
+      "published_at": "2026-10-25T12:35:15+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:35:15 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Жителів тимчасово окупованого Мелітополя Запорізької області Романа Зарубаєва та Артура Нестеренка засудили в Росії до 24 та 23 років позбавлення волі за нібито організацію терактів під час так званого референдуму у 2022 році",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14537,6 +16849,40 @@
       "status": "new"
     },
     {
+      "id": "8268b6689a1b7ed4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1436317-na-vijni-zaginuli-troe-vijskovih-z-odesini-5",
+      "title": "На війні загинули троє військових з Одещини",
+      "published_at": "2026-10-25T12:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Одещині повідомили про загибель трьох військовослужбовців — Сергія Кайсина, Олександра Свічкаря та Максима Возіяна. Олександр Свічкар загинув від удару російського FPV-дрона на Донеччині",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd408561beb2e08d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1436431-mozut-dosagati-do-40-sm-u-diametri-novij-lokalitet-cervonokniznoznogo-griba-znajsli-na-hmelniccini",
+      "title": "«Можуть досягати до 40 см у діаметрі»: новий локалітет червонокнижножного гриба знайшли на Хмельниччині",
+      "published_at": "2026-10-25T12:30:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:30:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Хмельниччині виявили новий локалітет червонокнижного гриба листочні кучерявої. Він росте біля основи стовбурів або на корінні хвойних дерев",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5d9871442036e594",
       "source_id": "lb",
       "source": "LB.ua",
@@ -14678,6 +17024,23 @@
       "status": "new"
     },
     {
+      "id": "6469a1cc21eb6c71",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1435127-hudoznik-iz-zitomirsini-napisav-ponad-70-ikon-dla-hramiv-berdicivskoi-gromadi",
+      "title": "Художник із Житомирщини написав понад 70 ікон для храмів Бердичівської громади",
+      "published_at": "2026-10-25T12:26:14+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:26:14 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Михайло Довбищук із села Мирославка на Житомирщині з 1992 року створив понад 70 ікон для храмів Бердичівської громади. Також у його доробку — понад 200 картин",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "289d3a501f73e8d4",
       "source_id": "map-1200",
       "source": "ОстроВ",
@@ -14755,6 +17118,23 @@
       "status": "new"
     },
     {
+      "id": "613c6ebacd107dc5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1436473-premer-britanii-pragne-peregovoriv-z-es-sodo-vilnoi-migracii-pracivnikiv",
+      "title": "Премʼєр Британії прагне переговорів з ЄС щодо вільної міграції працівників",
+      "published_at": "2026-10-25T12:24:16+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:24:16 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Премʼєр Британії Енді Бернем прагне повернутися до обговорення з Євросоюзом питання щодо вільної міграції, повʼязаної з роботою. Після Brexit громадяни ЄС не могли вільно переїжджати до Великої Британії з метою роботи",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "eda1146acc39660f",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -14796,6 +17176,23 @@
       "status": "new"
     },
     {
+      "id": "4e3a8eceaaa96876",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1436489-na-dnipropetrovsini-cerez-ataku-rf-zaginuv-vodij-dtek-vitalij-serbina",
+      "title": "На Дніпропетровщині через атаку РФ загинув водій ДТЕК Віталій Щербина",
+      "published_at": "2026-10-25T12:21:27+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:21:27 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На Дніпропетровщині через російський обстріл загинув водій ДТЕК Віталій Щербина. У ніч проти 25 жовтня РФ атакувала одне з вугледобувних підприємств. Дрон поцілив у вантажний автомобіль",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8bdf204d66bb4226",
       "source_id": "nv",
       "source": "NV",
@@ -14810,6 +17207,23 @@
       "categories": [
         "Спорт/Футбол"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "311146f94e8ab053",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1436479-na-fronti-zaginuv-zakarpatec-ivan-ignatik",
+      "title": "На фронті загинув закарпатець Іван Ігнатик",
+      "published_at": "2026-10-25T12:20:42+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:20:42 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "На фронті загинув 46-річний житель села Кам'яниця Оноківської громади, військовослужбовець Іван Ігнатик. Тривалий час він вважався зниклим безвісти.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15243,6 +17657,23 @@
       "status": "new"
     },
     {
+      "id": "2755cacee1cc7d50",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436471-rosijska-armia-obstrilala-sumsinu-trici-poranena-ludina",
+      "title": "Російська армія обстріляла Сумщину тричі. Поранена людина",
+      "published_at": "2026-10-25T12:11:10+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:11:10 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня російська армія атакувала об'єкт цивільної інфраструктури, нежитлову споруду та приватний будинок на Сумщині. Відомо про поранену людину",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b8aab83bc5acbd0f",
       "source_id": "map-664",
       "source": "Курс",
@@ -15427,6 +17858,23 @@
       "status": "new"
     },
     {
+      "id": "c86693fb46d7b622",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1434507-mi-vihodili-tri-misaci-270-dniv-pospil-na-pozicii-istoria-troh-bijciv-volinskoi-14-brigadi",
+      "title": "«Ми виходили три місяці»: 270 днів поспіль на позиції — історія трьох бійців волинської 14 бригади",
+      "published_at": "2026-10-25T12:04:55+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:04:55 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Євген, Олексій та Сергій із 44 бригади провели на позиції 9 місяців. 270 днів військові були на лінії зіткнення, під обстрілами та спробами штурму росіян. Як їм вдалося вийти з поля бою та чому ротація була складною і тривалою?",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a970132894cfc39e",
       "source_id": "map-943",
       "source": "PMG.ua",
@@ -15460,6 +17908,40 @@
       "categories": [
         "Відбудова"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e100bb0d289c0e2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1435383-u-kremencuci-patrulni-otrimali-dva-novi-motocikli-dla-cogo-ih-vikoristovuvatimut",
+      "title": "У Кременчуці патрульні отримали два нові мотоцикли: для чого їх використовуватимуть",
+      "published_at": "2026-10-25T12:03:43+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:03:43 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Кременчуці патрульна поліція отримала два мотоцикли Yamaha Tracer 9 2026 року випуску. Їх використовуватимуть для реагування на виклики, оформлення ДТП і контролю за водіями. На придбання спрямували понад 1,65 млн грн",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "82ccf4b30465d0d5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1436463-u-dniprovskomu-rajoni-hersona-cerez-ataku-drona-rf-poranena-zinka",
+      "title": "У Дніпровському районі Херсона через атаку дрона РФ поранена жінка",
+      "published_at": "2026-10-25T12:03:11+00:00",
+      "published_raw": "Sun, 25 Oct 2026 14:03:11 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Дрон РФ 25 жовтня близько 9:00 атакував Дніпровський район Херсона. До лікарні у стані середньої тяжкості доправили поранену жінку",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15826,6 +18308,23 @@
       "status": "new"
     },
     {
+      "id": "4958e943b557641d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436455-ukrainskij-tandem-vistupiv-u-dovilnij-programi-na-etapi-gran-pri-z-figurnogo-katanna-rezultat",
+      "title": "Український тандем виступив у довільній програмі на етапі Гран-прі з фігурного катання: результат",
+      "published_at": "2026-10-25T11:58:58+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:58:58 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Ганна Еррера та Іван Хобта посіли восьме місце в довільній програмі та за сумою двох прокатів на етапі Гран-прі з фігурного катання у Франції: українська спортивна пара отримала 88.23 бала за довільний виступ і 141.96 у підсумку",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "556e1b389afb4839",
       "source_id": "map-1176",
       "source": "Репортер",
@@ -15940,6 +18439,23 @@
       "status": "new"
     },
     {
+      "id": "54c0eeabb72df132",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1428143-sob-zahistiti-vid-opadiv-do-kapremontu-u-cernivcah-potocno-vidremontuut-poskodzenij-pozezeu-dah-gimnazii-no8",
+      "title": "Щоб захистити від опадів до капремонту: у Чернівцях поточно відремонтують пошкоджений пожежею дах гімназії №8",
+      "published_at": "2026-10-25T11:55:28+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:55:28 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Чернівецькій гімназії №8 планують поточно відремонтувати дах, пошкоджений внаслідок пожежі 2 вересня. Це потрібно, щоб недопустити руйнування будівлі до проведення капітального ремонту",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "762768d440c70cc9",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -15994,6 +18510,23 @@
         "Україна",
         "військові"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "078ef65d519c54f0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1436415-ponad-350-ucasnikiv-dolucilisa-do-blagodijnogo-zabigu-running-rave-20-u-lvovi",
+      "title": "Понад 350 учасників долучилися до благодійного забігу Running Rave 2.0 у Львові",
+      "published_at": "2026-10-25T11:54:36+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:54:36 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Львові відбувся благодійний забіг Running Rave 2.0, до якого долучилися понад 350 учасників. Під час заходу зібрали понад 50 тисяч гривень на придбання пікапа для 67-ї окремої механізованої бригади ЗСУ.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16144,6 +18677,23 @@
       "status": "new"
     },
     {
+      "id": "573dff19cb7ffa4b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1433915-nedosipanna-cerez-povitrani-trivogi-ak-zmensiti-vtomu-ta-stres-rozpovila-psihologina-z-rivnensini",
+      "title": "Недосипання через повітряні тривоги: як зменшити втому та стрес, розповіла психологиня з Рівненщини",
+      "published_at": "2026-10-25T11:50:11+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:50:11 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Через нічні повітряні тривоги багато жителів Рівненщини недосипають. За словами психологині, брак сну погіршує увагу й пам'ять, посилює втому та ускладнює подолання стресу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e3c59fabbe4c9ea3",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -16254,6 +18804,23 @@
         "Викриття",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b376acf0e5a7b986",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1434083-inzenerku-z-tehnagladu-aku-sudili-za-sluzbovu-nedbalist-pid-cas-remontu-likarni-u-kozelci-viznali-nevinuvatou",
+      "title": "Інженерку з технагляду, яку судили за службову недбалість під час ремонту лікарні у Козельці, визнали невинуватою",
+      "published_at": "2026-10-25T11:44:12+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:44:12 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Інженерку з технагляду, яку судили за службову недбалість під час ремонту лікарні в Козельці, що на Чернігівщині, визнали невинуватою.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16404,6 +18971,40 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "508be10ca1de3af8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1436427-a-jogo-golos-teper-u-cerkasah-proveli-akciu-na-pidtrimku-polonenih-ta-zniklih-bezvisti",
+      "title": "«Я його голос тепер»: у Черкасах провели акцію на підтримку полонених та зниклих безвісти",
+      "published_at": "2026-10-25T11:38:34+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:38:34 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "У Черкасах 25 жовтня 2026 року рідні зниклих безвісти та полонених військовослужбовців зібралися на акцію «Не мовчи — полон вбиває»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "53af57301d1d8295",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1436429-dvici-geroj-radanskogo-souzu-106-rokiv-tomu-narodivsa-krimskotatarskij-pilot-as-amet-han-sultan",
+      "title": "Двічі Герой Радянського Союзу: 106 років тому народився кримськотатарський пілот-ас Амет-Хан Султан",
+      "published_at": "2026-10-25T11:38:00+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:38:00 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "106 років тому, 25 жовтня 1920 року, у Криму народився Амет-Хан Султан — двічі Герой Радянського Союзу, кримськотатарський пілот-ас у Другій світовій війні. Після депортації кримських татар активно виступав на захист їхніх прав",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16625,6 +19226,40 @@
       "status": "new"
     },
     {
+      "id": "acf4d15dc1f858aa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1434693-okupanti-zavdali-udaru-fpv-dronom-poblizu-zupinki-u-zaporizzi-naslidki-obstrilu",
+      "title": "Окупанти завдали удару FPV-дроном поблизу зупинки у Запоріжжі: наслідки обстрілу",
+      "published_at": "2026-10-25T11:33:19+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:33:19 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "25 жовтня, російські війська завдали удару FPV-дроном поблизу зупинку громадського транспорту у Запоріжжі Внаслідок обстрілу три людини дістали поранення Пошкоджений муніципальний автобус та територія зупинки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ca20b817b02e6fba",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1436419-kitajskij-olimpijskij-prizeu-czau-onoviv-svitovij-rekord-na-distancii-50-metriv-na-spini",
+      "title": "Китайський олімпійський призею Цзяю оновив світовий рекорд на дистанції 50 метрів на спині",
+      "published_at": "2026-10-25T11:32:09+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:32:09 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Китайський плавець Сю Цзяю встановив світовий рекорд на 50 м на спині у короткому басейні — 22.03 секунди: спортсмен перевершив досягнення Пітера Коетце під час виступу на чемпіонаті Китаю",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "28c0f326c66d7149",
       "source_id": "map-612",
       "source": "Вільне радіо",
@@ -16746,6 +19381,23 @@
       "status": "new"
     },
     {
+      "id": "b9e86ebaa2407236",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1436449-diti-zi-sumsini-mozut-bezoplatno-vidpociti-u-tabori-za-proektom-karpatska-zmina-so-potribno-dla-ucasti",
+      "title": "Діти зі Сумщини можуть безоплатно відпочити у таборі за проєктом «Карпатська зміна»: що потрібно для участі",
+      "published_at": "2026-10-25T11:27:33+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:27:33 +0200",
+      "fetched_at": "2026-10-26T06:12:55+00:00",
+      "description": "Діти віком від 7 до 18 років із Сумської та ще кількох прифронтових і прикордонних областей можуть долучитися до Всеукраїнського проєкту «Карпатська зміна». Для цього батькам або законним представникам потрібно подати заяву",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "9615a433f8ff9822",
       "source_id": "map-984",
       "source": "#ШОТАМ",
@@ -16840,6 +19492,23 @@
         "Китай",
         "Політика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0cc9ec7af2f56e33",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1436437-genstab-zsu-na-doneccini-urazili-dvi-lokacii-iz-vijskovimi-rf",
+      "title": "Генштаб ЗСУ: на Донеччині уразили дві локації із військовими РФ",
+      "published_at": "2026-10-25T11:25:16+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:25:16 +0200",
+      "fetched_at": "2026-10-25T11:27:48+00:00",
+      "description": "Генеральний штаб ЗСУ підтвердив, що Сили оборони України атакували дві локації армії РФ у Донецькій області. Зосередження окупантів уразили в Миколаївці та Новоукраїнці",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -17220,6 +19889,23 @@
         "Дніпро",
         "Добропілля"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c18db7bfeec40b2b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1436443-poskodzeni-pokrivli-ta-vikna-naslidki-rosijskoi-ataki-na-hmelniccinu",
+      "title": "Пошкоджені покрівлі та вікна: наслідки російської атаки на Хмельниччину 25 жовтня",
+      "published_at": "2026-10-25T11:15:14+00:00",
+      "published_raw": "Sun, 25 Oct 2026 13:15:14 +0200",
+      "fetched_at": "2026-10-25T11:27:48+00:00",
+      "description": "Пошкоджено покрівлі та вікна семи приватних домогосподарств у Шепетівському районі, що на Хмельниччині, внаслідок російської атаки. Про це повідомив голова Хмельницької ОВА Сергій Тюрін",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -18566,23 +21252,6 @@
         "правозахист",
         "росія"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "18a4546246f0aa2d",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/dnipro/1436239-golovni-novini-dnipra-ta-oblasti-25-zovtna",
-      "title": "Синельникове після атаки, зросла кількість загиблих. Головні новини Дніпра та області 25 жовтня",
-      "published_at": "2026-10-25T10:41:26+00:00",
-      "published_raw": "Sun, 25 Oct 2026 12:41:26 +0200",
-      "fetched_at": "2026-10-25T06:07:38+00:00",
-      "description": "Оперативні новини Дніпра та Дніпропетровської області за 25 жовтня 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -22068,23 +24737,6 @@
       "status": "new"
     },
     {
-      "id": "0cc9ec7af2f56e33",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1436437-genstab-zsu-na-doneccini-urazili-dvi-lokacii-iz-vijskovimi-rf",
-      "title": "Генштаб ЗСУ: на Донеччині уразили дві локації із військовими РФ",
-      "published_at": "2026-10-25T09:25:16+00:00",
-      "published_raw": "Sun, 25 Oct 2026 11:25:16 +0200",
-      "fetched_at": "2026-10-25T11:27:48+00:00",
-      "description": "Генеральний штаб ЗСУ підтвердив, що Сили оборони України атакували дві локації армії РФ у Донецькій області. Зосередження окупантів уразили в Миколаївці та Новоукраїнці",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "6296f049edff4414",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -22584,23 +25236,6 @@
       "categories": [
         "Події"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "c18db7bfeec40b2b",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/khmelnytskiy/1436443-poskodzeni-pokrivli-ta-vikna-naslidki-rosijskoi-ataki-na-hmelniccinu",
-      "title": "Пошкоджені покрівлі та вікна: наслідки російської атаки на Хмельниччину 25 жовтня",
-      "published_at": "2026-10-25T09:15:14+00:00",
-      "published_raw": "Sun, 25 Oct 2026 11:15:14 +0200",
-      "fetched_at": "2026-10-25T11:27:48+00:00",
-      "description": "Пошкоджено покрівлі та вікна семи приватних домогосподарств у Шепетівському районі, що на Хмельниччині, внаслідок російської атаки. Про це повідомив голова Хмельницької ОВА Сергій Тюрін",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -33929,6 +36564,12 @@
       "at": "2026-10-26T01:09:38+00:00",
       "fetched": 1089,
       "added": 3,
+      "errors": 3
+    },
+    {
+      "at": "2026-10-26T06:12:55+00:00",
+      "fetched": 1161,
+      "added": 155,
       "errors": 3
     }
   ]
