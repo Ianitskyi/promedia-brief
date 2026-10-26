@@ -1,10 +1,10 @@
 {
   "date": "2026-10-26",
   "title": "BRIEF — 2026-10-26",
-  "published_at": "2026-10-26T11:11:07+00:00",
+  "published_at": "2026-10-26T20:53:37+00:00",
   "approved": true,
   "approval": "auto",
-  "script_sha256": "e139e8792dc55227414adfbd0f1618609dbd53f14ddcda152cbbeef8aaa56370",
+  "script_sha256": "aadceee8b0390adcaab308152c54b60e145c6d49dcc09fbf6e32b4f18dce612e",
   "voice": {
     "provider": "styletts2",
     "voice": "male_2"
@@ -15,7 +15,7 @@
     "outro": "audio/outro.mp3"
   },
   "full_audio": "editions/2026-10-26/audio/brief-2026-10-26.mp3",
-  "duration_sec": 185.03,
+  "duration_sec": 162.43,
   "regions": [
     {
       "id": "khmelnytskyi",
@@ -66,549 +66,704 @@
       "sound": null
     },
     {
-      "id": "national-c-10dcd3653be583b8",
+      "id": "national-c-0b00264b290a02e1",
       "kind": "story",
       "block": "national",
       "region": null,
-      "title": "Масована атака РФ на Умань: померла літня жінка",
+      "title": "У Харкові обстріляли Новобаварський район: двоє загиблих",
       "topics": [
         "Війна та безпека",
         "Суспільство"
       ],
       "must_include": true,
       "text": [
-        "Лікарі п'ять днів боролися за її життя."
-      ],
-      "sources": [
-        {
-          "name": "18000",
-          "url": "https://18000.com.ua/strichka-novin/v-umani-pomerla-86-richna-postrazhdala-vnaslidok-rosijskogo-udaru",
-          "title": "В Умані померла 86-річна постраждала внаслідок російського удару",
-          "published_at": "2026-10-26T09:33:33+00:00"
-        },
-        {
-          "name": "ЗMI.ck.ua",
-          "url": "https://zmi.ck.ua/oblast/v-uman-pomerla-jnka-yaka-postrajdala-vnasldok-rosyskogo-obstrlu.html",
-          "title": "В Умані померла жінка, яка постраждала внаслідок російського обстрілу",
-          "published_at": "2026-10-26T09:44:00+00:00"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1226041.html",
-          "title": "В Умані в лікарні померла жінка, що зазнала поранень 21 жовтня під час ворожого обстрілу",
-          "published_at": "2026-10-26T10:33:19+00:00"
-        },
-        {
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/masovana-ataka-rf-na-uman-zahinula-litnja-zhinka-.html",
-          "title": "Масована атака РФ на Умань: померла літня жінка",
-          "published_at": "2026-10-26T10:34:00+00:00"
-        },
-        {
-          "name": "Радіо Свобода Україна",
-          "url": "https://radiosvoboda.org/a/news/33884421.html",
-          "title": "Атака РФ на Умань: у лікарні померла 86-річна жінка, поранена минулого тижня",
-          "published_at": "2026-10-26T10:47:10+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/national-c-10dcd3653be583b8.mp3",
-      "duration_sec": 3.4,
-      "sound": null
-    },
-    {
-      "id": "national-c-285b1a517b37d75e",
-      "kind": "story",
-      "block": "national",
-      "region": null,
-      "title": "Загинула людина, восьмеро поранених: російські війська обстріляли 31 населений пункт Херсонщини",
-      "topics": [
-        "Війна та безпека",
-        "Суспільство"
-      ],
-      "must_include": true,
-      "text": [
-        "На Херсонщині упродовж минулої доби через російські обстріли загинула людина, восьмеро поранених.",
-        "Війська РФ атакували 31 населений пункт області."
+        "Унаслідок російського обстрілу Новобаварського району Харкова 26 жовтня загинули двоє людей, ще четверо постраждали, повідомляє Район.in.ua.",
+        "Пошкоджені будинки, автомобілі та дитячий заклад."
       ],
       "sources": [
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/kherson/1436693-zaginula-ludina-vosmero-poranenih-rosijski-vijska-obstrilali-31-naselenij-punkt-hersonsini-2",
-          "title": "Загинула людина, восьмеро поранених: російські війська обстріляли 31 населений пункт Херсонщини",
-          "published_at": "2026-10-26T06:04:52+00:00"
+          "url": "https://suspilne.media/kharkiv/1437451-vibuhi-u-harkovi-vveceri-26-zovtna-rosiani-atakuut-novobavarskij-rajon-mista",
+          "title": "Вибухи у Харкові ввечері 26 жовтня: росіяни атакують Новобаварський район міста, є загиблі",
+          "published_at": "2026-10-26T16:18:48+00:00"
         },
         {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/10/26/776132_lyudina_zaginula_sche_vosmero.html",
-          "title": "Одна людина загинула, і ще восьмеро поранені через російські обстріли Херсонщини",
-          "published_at": "2026-10-26T06:10:00+00:00"
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/oblast-online/harkiv/obstril-harkova-u-novobavarskomu-rajoni-e-zagibli-ta-postrazdali.html",
+          "title": "Є загиблі та постраждалі: росіяни завдали кількох ударів по Новобаварському району Харкова",
+          "published_at": "2026-10-26T16:45:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226318.html",
+          "title": "Серія ударів по Харкову спровокувала пожежу, є загиблі і постраждалі",
+          "published_at": "2026-10-26T16:50:18+00:00"
+        },
+        {
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/p-iat-udariv-za-dvi-hodyny-zavdala-rosiia-po-kharkovu-ie-zahybli-na-postrazhdali",
+          "title": "П’ять ударів за дві години завдала росія по Харкову: є загиблі та постраждалі",
+          "published_at": "2026-10-26T16:50:23+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226333.html",
+          "title": "У Харкові одна людина загинула, ще дві постраждали",
+          "published_at": "2026-10-26T17:00:48+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226344.html",
+          "title": "У Харкові вже двоє загиблих і четверо постраждалих",
+          "published_at": "2026-10-26T17:21:52+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/26/8059817",
+          "title": "Росіяни вдарили по Харкову, в результаті чого загинули 2 людини",
+          "published_at": "2026-10-26T17:28:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/26/novyna/bezpeka/rosijski-vijska-zavdaly-seriyi-udariv-po-xarkovu-ye-zhertvy-poraneni",
+          "title": "Російські війська завдали серії ударів по Харкову, є жертви і поранені",
+          "published_at": "2026-10-26T17:35:05+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/26/rosiiany-vdaryly-po-kharkovu-ie-zahybli-poshkodzheni-zhytlovi-budynky",
+          "title": "Росіяни вдарили по Харкову: є загиблі, пошкоджені житлові будинки",
+          "published_at": "2026-10-26T17:36:17+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/26/u-harkovi-ye-zagybli",
+          "title": "У Харкові є загиблі та поранені після атаки рф, у Запоріжжі постраждали двоє людей після удару по АЗС",
+          "published_at": "2026-10-26T17:36:20+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kharkiv-ataka-rf-postrazhdali-zahybli/33884663.html",
+          "title": "Сили РФ вдарили по Харкову, є загиблі та поранені – влада",
+          "published_at": "2026-10-26T17:36:57+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosija-vdarila-po-kharkovu-dvoje-zahiblikh-i-chetvero-poranenikh.html",
+          "title": "Росія вдарила по Харкову: двоє загиблих і четверо поранених",
+          "published_at": "2026-10-26T17:40:00+00:00"
+        },
+        {
+          "name": "Накипіло",
+          "url": "https://nakypilo.ua/novyny/raketnyi-udar-po-kharkovu-dvoie-zahyblykh-chetvero-postrazhdalykh",
+          "title": "Ракетний удар по Харкову: двоє загиблих, четверо постраждалих",
+          "published_at": "2026-10-26T17:46:05+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/26/rosiiany-vbyly-dvokh-liudey-u-novobavarskomu-rayoni-kharkova",
+          "title": "Росіяни вбили двох людей у Новобаварському районі Харкова",
+          "published_at": "2026-10-26T18:08:14+00:00"
         },
         {
           "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4178114-vorog-za-dobu-obstrilav-ponad-30-naselenih-punktiv-na-hersonsini-odin-zagiblij-vosmero-poranenih.html",
-          "title": "Ворог за добу обстріляв понад 30 населених пунктів на Херсонщині - один загиблий, восьмеро поранених",
-          "published_at": "2026-10-26T06:10:18+00:00"
+          "url": "https://ukrinform.ua/rubric-regions/4178380-vijska-rf-udarili-po-harkovu-e-zagibli-ta-postrazdali.html",
+          "title": "Війська РФ ударили по Харкову, є загиблі та постраждалі",
+          "published_at": "2026-10-26T18:37:00+00:00"
         },
         {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/325476-obstrily-khersonshchyni-zahynula-odna-liudyna-vosmero-postrazhdaly",
-          "title": "Через обстріли на Херсонщині загинула одна людина, ще восьмеро постраждали",
-          "published_at": "2026-10-26T07:25:00+00:00"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776308_rosiyani_zavdali_udariv_harkovu.html",
+          "title": "Росіяни завдали ударів по Харкову: є загиблі та постраждалі (оновлено)",
+          "published_at": "2026-10-26T18:40:00+00:00"
         },
         {
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/u-khersoni-okupanti-vdarili-po-marshruttsi-pasazhir-pomer-u-likarni",
-          "title": "У Херсоні окупанти вдарили по маршрутці: пасажир помер у лікарні",
-          "published_at": "2026-10-26T07:35:56+00:00"
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/26/z-yavilisya-foto-naslidkiv-vechirnih-udariv-po-novobavarskomu-rajonu",
+          "title": "З’явилися фото наслідків вечірніх ударів по Новобаварському району",
+          "published_at": "2026-10-26T18:44:48+00:00"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1111697-rosiiska-ataka-na-xarkiv-dvoje-liudei-zaginuli-cetvero-postrazdali",
+          "title": "У Харкові обстріляли Новобаварський район: двоє загиблих",
+          "published_at": "2026-10-26T18:47:00+00:00"
+        },
+        {
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/dvoie-liudey-zahynuly-vid-udaru-po-kharkovu-26-zhovtnia-foto-z-mistsia-obstrilu",
+          "title": "Двоє людей загинули від удару по Харкову 26 жовтня: фото з місця обстрілу",
+          "published_at": "2026-10-26T19:11:28+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/26/harkiv-znovu-pid-udarom-shho-vidomo",
+          "title": "Харків знову під ударом, є загиблі: що відомо",
+          "published_at": "2026-10-26T19:23:28+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/national-c-285b1a517b37d75e.mp3",
-      "duration_sec": 10.03,
+      "audio": "editions/2026-10-26/audio/national-c-0b00264b290a02e1.mp3",
+      "duration_sec": 12.12,
       "sound": null
     },
     {
-      "id": "national-c-68e78e86426efc1c",
+      "id": "national-c-0eccc3fee86f64be",
       "kind": "story",
       "block": "national",
       "region": null,
-      "title": "Дрони атакували Воронеж: під ударом опинилися нафтохімічне підприємство та авіазавод",
+      "title": "У Павлограді внаслідок російського удару загинула людина, серед поранених є діти",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": true,
+      "text": [
+        "Сьогодні, 26 жовтня, російські загарбники атакували безпілотником Павлоград Дніпропетровської області, внаслідок чого одна людина загинула.",
+        "Також серед поранених є діти."
+      ],
+      "sources": [
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/u-pavlogradi-cherez-ataku-bpla-ye-zagyblyj-i-poraneni",
+          "title": "У Павлограді через атаку БпЛА є загиблий і поранені",
+          "published_at": "2026-10-26T13:03:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1437207-vijska-rf-vdarili-bezpilotnikom-po-pavlogradu-zaginula-ludina-sered-poranenih-diti",
+          "title": "Війська РФ вдарили безпілотником по Павлограду: загинула людина, серед поранених діти",
+          "published_at": "2026-10-26T13:03:30+00:00"
+        },
+        {
+          "name": "Прихист",
+          "url": "https://prikhist.com/2026/10/26/na-dnipropetrovshchyni-vnaslidok-ataky-rosijskoho-bezpilotnyka-zahynula-liudyna-sered-poranenykh-dvoie-ditej",
+          "title": "На Дніпропетровщині внаслідок атаки російського безпілотника загинула людина, серед поранених двоє дітей",
+          "published_at": "2026-10-26T13:13:59+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-pavlohrad-ataka-rf-postrazhdali/33884509.html",
+          "title": "Ганжа: через удар РФ по Павлограду загинула людина, серед поранених є двоє 10-річних дітей",
+          "published_at": "2026-10-26T13:14:19+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/26/8059765",
+          "title": "Росіяни дроном атакували Павлоград: один загиблий, серед поранених двоє дітей",
+          "published_at": "2026-10-26T13:17:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/26/novyna/suspilstvo/pavlohradi-vnaslidok-rosijskoho-udaru-zahynula-lyudyna-sered-poranenyx-ye-dity",
+          "title": "У Павлограді внаслідок російського удару загинула людина, серед поранених є діти",
+          "published_at": "2026-10-26T13:36:53+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776250_rosiyani_atakuvali_pavlograd.html",
+          "title": "Росіяни атакували Павлоград. Загинула людина, серед поранених – двоє дівчат 10 років (оновлено)",
+          "published_at": "2026-10-26T13:40:00+00:00"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/udar-po-pavlohradu-26-zhovtnia-2",
+          "title": "У Павлограді через удар російського дрона загинула людина, поранені дві 10-річні дівчинки",
+          "published_at": "2026-10-26T13:53:40+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-pavlogradi-cherez-rashystskyj-obstril-zagynula-lyudyna-ye-poraneni-poshkodzheno-zhytlo-i571386",
+          "title": "У Павлограді через рашистський обстріл загинула людина, є поранені, пошкоджено житло",
+          "published_at": "2026-10-26T14:07:00+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/shakhed-atakuvav-pavlohrad-zahinula-ljudina-sered-poranenikh-diti-.html",
+          "title": "\"Шахед\" атакував Павлоград: зросла кількість поранених, серед них — діти",
+          "published_at": "2026-10-26T14:09:15+00:00"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/kilkist-poranenyh-cherez-udar-po-pavlogradu-zrosla-do-semy-dvoye-ditej-u-tyazhkomu-stani",
+          "title": "Кількість поранених через удар по Павлограду зросла до семи: двоє дітей у тяжкому стані",
+          "published_at": "2026-10-26T14:22:28+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/26/zahynula-liudyna-ie-vazhkoporaneni-dity-rosiia-obstriliala-pavlohrad",
+          "title": "Загинула людина, є важкопоранені діти: Росія обстріляла Павлоград",
+          "published_at": "2026-10-26T14:43:33+00:00"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/rosiiskyi-udar-po-pavlohradu-odna-liudyna-zahynula-semero-postrazhdaly-sered-nykh-dvoie-ditei",
+          "title": "Російський удар по Павлограду: одна людина загинула, семеро постраждали, серед них двоє дітей",
+          "published_at": "2026-10-26T14:53:03+00:00"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/rf-vdaryla-dronom-po-dnipropetrovshhyni-ye-zagyblyj-sered-poranenyh-dity",
+          "title": "рф вдарила дроном по Дніпропетровщині: є загиблий, серед поранених — діти",
+          "published_at": "2026-10-26T14:55:15+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/26/novyna/bezpeka/pavlohradi-zrosla-kilkist-postrazhdalyx-vazhkyx-poranen-zaznaly-dvoye-ditej",
+          "title": "У Павлограді зросла кількість постраждалих: важких поранень зазнали двоє дітей",
+          "published_at": "2026-10-26T15:20:46+00:00"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/odna-lyudyna-zagynula-i-10-postrazhdaly-cherez-rosijski-ataky-na-dnipropetrovshhynu",
+          "title": "Одна людина загинула і 10 постраждали через російські атаки на Дніпропетровщину",
+          "published_at": "2026-10-26T16:48:09+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/udar-bezpilotnika-po-pavlogradu-zhertvi-ta-ruynuvannya-vnaslidok-ataki-50653499.html",
+          "title": "Росія вдарила безпілотником по Павлограду: загинув шахтар ДТЕК, семеро поранених, серед них 10-річні дівчата",
+          "published_at": "2026-10-26T18:36:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1437545-vnaslidok-udaru-rf-po-pavlogradu-26-zovtna-zaginuv-sahtar-valentin-kotelevskij",
+          "title": "Внаслідок удару РФ по Павлограду 26 жовтня загинув шахтар Валентин Котелевський",
+          "published_at": "2026-10-26T18:44:33+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/national-c-0eccc3fee86f64be.mp3",
+      "duration_sec": 10.79,
+      "sound": null
+    },
+    {
+      "id": "national-c-1cd7667046b2dac9",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Загинув чоловік, ще 10 людей зазнали поранень: наслідки російських атак на Донеччині",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": true,
+      "text": [
+        "Під вогнем перебували 11 населених пунктів: міста Дружківка, Краматорськ, Слов’янськ, селища Донецьке, Олександрівка, села Дмитро-Дар'ївка, Долина, Михайлівка, Надія, Очеретине, Сергіївка, повідомляє Вчасно."
+      ],
+      "sources": [
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404448-na-donechchyni-za-dobu-zagynula-odna-lyudyna-shhe-10-poraneno",
+          "title": "На Донеччині за добу загинула одна людина, ще 10 поранено",
+          "published_at": "2026-10-26T06:12:15+00:00"
+        },
+        {
+          "name": "Вчасні Новини",
+          "url": "https://vchasno.news/kramatorsk-i-slovyansk-zaznaly-masovanyh-atak-ye-zagyblyj-i-poraneni",
+          "title": "Краматорськ і Слов’янськ зазнали масованих атак: є загиблий і поранені",
+          "published_at": "2026-10-26T07:57:49+00:00"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/za-dobu-rosijski-vijska-atakuvaly-11-naselenyh-punktiv-donechchyny-ye-poraneni-ta-zagyblyj-foto",
+          "title": "За добу російські війська атакували 11 населених пунктів Донеччини: є поранені та загиблий (фото)",
+          "published_at": "2026-10-26T08:06:06+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/zaginuv-colovik-shhe-10-liudei-zaznali-poranen-naslidki-rosiiskix-atak-na-doneccini",
+          "title": "Загинув чоловік, ще 10 людей зазнали поранень: наслідки російських атак на Донеччині",
+          "published_at": "2026-10-26T08:09:00+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404465-naslidky-rosijskyh-obstriliv-donechchyny-pid-udarom-budynky-hram-avto-zaklad-osvity",
+          "title": "Наслідки російських обстрілів Донеччини: під ударом — будинки, храм, авто, заклад освіти",
+          "published_at": "2026-10-26T08:17:35+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/na-donechchyni-za-dobu-pid-vognem-perebuvalo-11-naselenyh-punktiv-zagynuv-cholovik-shhe-10-lyudej-i571345",
+          "title": "На Донеччині за добу під вогнем перебувало 11 населених пунктів: загинув чоловік, ще 10 людей поранені",
+          "published_at": "2026-10-26T08:43:01+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/unaslidok-rosiiskikh-udariv-po-doniechchini-vidomo-pro-1-zaghiblogho-10-poranienikh-i-ruinuvannia-79-tsivilnikh-obiektiv-foto",
+          "title": "Унаслідок російських ударів по Донеччині відомо про 1 загиблого, 10 поранених і руйнування 79 цивільних об'єктів (фото)",
+          "published_at": "2026-10-26T08:59:00+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/cherez-obstrily-zahynuv-cholovik-poraneni-shche-10-tsyvilnykh-iak-mynulo-25-zhovtnia-na-donechchyni-zvedennyu",
+          "title": "Через обстріли загинув чоловік, поранені ще 10 цивільних: як минуло 25 жовтня на Донеччині (ЗВЕДЕННЯ)",
+          "published_at": "2026-10-26T09:24:37+00:00"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/okupanti-obstriliali-11-nasielienikh-punktiv-doniechchini-zaghinula-odna-liudina-shchie-10-poranieno",
+          "title": "Окупанти обстріляли 11 населених пунктів Донеччини. Загинула одна людина, ще 10 поранено",
+          "published_at": "2026-10-26T11:01:56+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/onaimenshe-odna-liudyna-zahynula-shche-10-poraneni-cherez-obstrily-kramatorskoi-hromady",
+          "title": "Щонайменше одна людина загинула, ще 10 — поранені через обстріли Краматорської громади",
+          "published_at": "2026-10-26T11:42:56+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/404535-udar-po-yasnogirczi-odna-lyudyna-zagynula-i-10-poraneni",
+          "title": "Удар по Ясногірці: одна людина загинула і 10 поранені",
+          "published_at": "2026-10-26T11:44:14+00:00"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/ye-zagyblyj-ta-poraneni-okupanty-atakuvaly-kramatorsku-gromadu-foto",
+          "title": "Є загиблий та поранені: окупанти атакували Краматорську громаду (фото)",
+          "published_at": "2026-10-26T11:45:45+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiani-cotiri-razi-vdarili-po-iasnogirci-na-doneccini-je-zagibla-ta-poraneni-sered-nix-ditina",
+          "title": "Росіяни чотири рази вдарили по Ясногірці на Донеччині: є загибла та поранені, серед них дитина",
+          "published_at": "2026-10-26T11:52:00+00:00"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/okupanty-zavdaly-chotyrokh-udariv-po-kramatorskiy-hromadi-ie-zahyblyy-ta-poraneni",
+          "title": "Окупанти завдали чотирьох ударів по Краматорській громаді: є загиблий та поранені",
+          "published_at": "2026-10-26T11:57:51+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226112.html",
+          "title": "Росіяни вдарили по Краматорській громаді, одна людина загинула, 10 поранені – ОВА",
+          "published_at": "2026-10-26T11:58:09+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/naslidki-vorozhikh-udariv-po-kramatorsku-1-liudina-zaghinula-i-10-poranieni",
+          "title": "Серед 10 поранених У Краматорську — 13-річна дівчина, 1 людина загинула внаслідок ворожих обстрілів",
+          "published_at": "2026-10-26T12:00:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/kramatorsk-ataka-na-gromadu-ye-zagibliy-ta-poraneni-poshkodzheni-hrami-50653424.html",
+          "title": "Росіяни вдарили по Краматорській громаді: загинула людина, серед 10 поранених — дитина",
+          "published_at": "2026-10-26T12:16:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-donechchyna-zahyblyy-postrazhdali-ataky-rf/33884477.html",
+          "title": "Філашкін: через російські удари по Ясногірці загинула людина, серед поранених є дитина",
+          "published_at": "2026-10-26T12:18:37+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/26/8059754",
+          "title": "Росіяни вдарили по Ясногірці: загинула людина, серед поранених – підлітка",
+          "published_at": "2026-10-26T12:25:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4178274-u-kramatorskij-gromadi-cerez-obstrili-rf-odna-ludina-zaginula-se-10-poraneni.html",
+          "title": "У Краматорській громаді через обстріли РФ одна людина загинула, ще 10 - поранені",
+          "published_at": "2026-10-26T12:36:21+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/26/2-unaslidok-rosiiskykh-udariv",
+          "title": "Унаслідок російських ударів по Ясногірці загинула людина, ще 10 поранені, зокрема 13-річна дівчина",
+          "published_at": "2026-10-26T12:45:37+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosija-zavdala-masovanikh-udariv-po-donechchini-zahinula-ljudina-je-poraneni.html",
+          "title": "Росія завдала масованих ударів по Донеччині: загинула людина, є поранені",
+          "published_at": "2026-10-26T12:46:00+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273207-rosiiany-zavdaly-chotyryokh-udariv-po-kramatorskiy-hromadi-ye-zahyblyy-ta-10-poranenykh",
+          "title": "росіяни завдали чотирьох ударів по Краматорській громаді — є загиблий та 10 поранених",
+          "published_at": "2026-10-26T13:00:00+00:00"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/udary-po-donechchyni-u-kramatorskij-hromadi-ta-slov-iansku-ie-zahybli",
+          "title": "Удари по Донеччині: у Краматорській громаді та Слов’янську є загиблі",
+          "published_at": "2026-10-26T13:58:51+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/national-c-1cd7667046b2dac9.mp3",
+      "duration_sec": 12.15,
+      "sound": null
+    },
+    {
+      "id": "national-c-00ca00d2a3e69496",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Наземна евакуація була неможливою: дрон StarGate повітрям вивіз двох тяжкопоранених бійців",
       "topics": [
         "Війна та безпека",
         "Бізнес"
       ],
-      "must_include": true,
+      "must_include": false,
       "text": [
-        "Вночі 26 жовтня безпілотники атакували російський Воронеж, де спалахнули пожежі на кількох промислових підприємствах, під ударом опинилися завод \"Воронежсинтезкаучук\" та авіазавод ВАСО."
+        "Безпілотник StarGate допоміг бійцям 475 окремого штурмового полку CODE 9.2 врятувати двох військових, до яких неможливо було дістатися наземним транспортом.",
+        "Під час однієї з операцій дрон подолав майже 60 км в обидва боки попри спроби росіян придушити супутниковий сигнал."
       ],
       "sources": [
         {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/na-harkivshhini-znovu-evakuyuvali-poranenih-vijskovih-dronom",
+          "title": "На Харківщині знову евакуювали поранених військових дроном",
+          "published_at": "2026-10-26T09:45:00+00:00"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131274-biyci-475-shturmovogo-polku-za-tizhden-evakuyuvali-dvoh-poranenih-iz-polya-boyu-novim-povitryanim-dronom-stargate",
+          "title": "Бійці 475 штурмового полку за тиждень евакуювали двох поранених з поля бою новим повітряним дроном StarGate",
+          "published_at": "2026-10-26T16:27:00+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/26/dron-stargate",
+          "title": "Наземна евакуація була неможливою: дрон StarGate повітрям вивіз двох тяжкопоранених бійців",
+          "published_at": "2026-10-26T16:54:24+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/26/evakuatsijnij-dron-vryatuvav-shhe-kilkoh-poranenih-na-harkivshhini-video",
+          "title": "Евакуаційний дрон врятував ще кількох поранених на Харківщині: відео",
+          "published_at": "2026-10-26T17:21:49+00:00"
+        },
+        {
           "name": "NV",
-          "url": "https://nv.ua/ukr/world/countries/ataka-droniv-na-voronezh-pozhezhi-ta-vibuhi-v-biznes-centri-galereya-chizhova-50653264.html",
-          "title": "У Воронежі спалахнули пожежі в житлових кварталах на тлі атаки дронів — фото",
-          "published_at": "2026-10-26T05:36:00+00:00"
+          "url": "https://nv.ua/ukr/ukraine/events/stargate-evakuaciya-poranenih-dronami-z-siroji-zoni-bilya-kordonu-z-rosiyeyu-50653551.html",
+          "title": "Безпілотник StarGate за тиждень евакуював повітрям двох тяжко поранених бійців, до яких не могла дістатися техніка",
+          "published_at": "2026-10-26T17:48:00+00:00"
         },
         {
-          "name": "Галка",
-          "url": "https://galka.if.ua/u-rosiyskomu-voronezhi-pislia-ataky-droniv-spalakhnuly-pozhezhi-povidomliaiut-pro-vluchannia-v-biznes-tsentr",
-          "title": "У російському Воронежі після атаки дронів спалахнули пожежі: повідомляють про влучання в бізнес-центр",
-          "published_at": "2026-10-26T06:12:45+00:00"
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/26/viiskovi-code-9-2-za-dopomohoiu-dronamy-dvichi-za-tyzhden-evakuiuvaly",
+          "title": "Оператори CODE 9.2 двічі за тиждень повітрям евакуювали поранених із передової",
+          "published_at": "2026-10-26T17:56:49+00:00"
         },
         {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/10/26/8059693",
-          "title": "Дрони атакували Воронеж: під ударом опинилися нафтохімічне підприємство та авіазавод",
-          "published_at": "2026-10-26T06:27:00+00:00"
+          "name": "#ШОТАМ",
+          "url": "https://shotam.info/nazemnyy-poriatunok-buv-nemozhlyvym-dvokh-poranenykh-biytsiv-evakuiuvaly-z-polia-boiu-dronom",
+          "title": "Наземний порятунок був неможливим: двох поранених бійців евакуювали з поля бою дроном",
+          "published_at": "2026-10-26T18:05:41+00:00"
         },
         {
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/droni-atakuvali-rosiiskii-voroniezh-povidomliaiut-pro-udari-po-aviazavodu-i-zavodu-voroniezhsintiezkauchuk",
-          "title": "Дрони атакували російський Воронеж: повідомляють про удари по авіазаводу і заводу «Воронежсинтезкаучук»",
-          "published_at": "2026-10-26T08:27:28+00:00"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/countries/voronezh-atakuvali-ukrajinski-droni-fp-1-naslidki-udaru-po-voronezhsintezkauchuku-50653341.html",
-          "title": "Дрони FP-1 уразили нафтохімічне підприємство у Воронежі",
-          "published_at": "2026-10-26T09:21:00+00:00"
-        },
-        {
-          "name": "hromadske",
-          "url": "https://hromadske.ua/viyna/273180-u-rf-zaiavyly-pro-masovanu-ataku-na-voronez-pid-udarom-mohly-buty-mist-aviazavod-ta-naftokhimichne-pidpryyemstvo",
-          "title": "У рф заявили про масовану атаку на Воронеж. Під ударом могли бути міст, авіазавод та нафтохімічне підприємство",
-          "published_at": "2026-10-26T09:44:00+00:00"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776344_buli_5_km_vid_kordonu_z_rosiieyu.html",
+          "title": "«Були за 5 км від кордону з Росією»: CODE 9.2 за тиждень повітряним дроном евакуював двох поранених із поля бою",
+          "published_at": "2026-10-26T18:49:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/national-c-68e78e86426efc1c.mp3",
-      "duration_sec": 11.36,
+      "audio": "editions/2026-10-26/audio/national-c-00ca00d2a3e69496.mp3",
+      "duration_sec": 18.31,
       "sound": null
     },
     {
-      "id": "national-c-02264349cfe5ee35",
+      "id": "national-c-275c37b0eeafca94",
       "kind": "story",
       "block": "national",
       "region": null,
-      "title": "Лубінець закликав надати інформацію про людей з окупованих Олешків, які потребують допомоги",
+      "title": "Росіяни вдарили по Запоріжжю: є поранені, пошкоджені приватні будинки й автомобілі",
       "topics": [
-        "Міжнародне",
-        "Війна та безпека"
+        "Війна та безпека",
+        "Політика"
       ],
       "must_include": false,
       "text": [
-        "Уповноважений Верховної Ради з питань захисту прав людини Дмитро Лубінець закликав надати його офісу будь-яку інформацію, яка може допомогти в організації гуманітарної місії в окуповані Олешки Херсонської області.",
-        "Відповідний допис омбудсман оприлюднив у неділю, 25 жовтня."
+        "Унаслідок російського удару по Запоріжжю поранені люди, зазнали пошкоджень приватні будинки, виникла пожежа."
       ],
       "sources": [
         {
           "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-society/4178034-lubinec-zaklikav-nadati-informaciu-pro-ludej-aki-perebuvaut-v-oleskah-i-potrebuut-dopomogi.html",
-          "title": "Лубінець закликав надати інформацію про людей, які перебувають в Олешках і потребують допомоги",
-          "published_at": "2026-10-25T16:00:00+00:00"
+          "url": "https://ukrinform.ua/rubric-regions/4178098-rosiani-vdarili-po-zaporizzu-e-poranenij-poskodzeni-privatni-budinki-j-avtomobili.html",
+          "title": "Росіяни вдарили по Запоріжжю: є поранені, пошкоджені приватні будинки й автомобілі",
+          "published_at": "2026-10-26T02:09:00+00:00"
         },
         {
-          "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/lubinets-zbiraje-informatsiju-pro-zhiteliv-okupovanih-oleshok-jaki-potrebujut-dopomogi",
-          "title": "Лубінець збирає інформацію про жителів Олешок, які потребують допомоги",
-          "published_at": "2026-10-25T16:07:47+00:00"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/ukraine/events/gumanitarna-misiya-v-oleshkah-lubinec-zaklikav-povidomlyati-pro-tih-hto-potrebuye-dopomogi-50653212.html",
-          "title": "Лубінець закликав передавати до його офісу інформацію про людей, які потребують допомоги в Олешках",
-          "published_at": "2026-10-25T16:08:00+00:00"
-        },
-        {
-          "name": "Вгору",
-          "url": "https://vgoru.org/novini/lubinec-zbiraje-informaciiu-pro-ziteliv-olesok-iaki-potrebuiut-dopomogi",
-          "title": "Лубінець збирає інформацію про жителів Олешок, які потребують допомоги",
-          "published_at": "2026-10-25T16:20:56+00:00"
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1225804.html",
+          "title": "У Запоріжжі внаслідок ударів РФ пошкоджено будинки, відомо про двох поранених – ОВА",
+          "published_at": "2026-10-26T04:06:28+00:00"
         },
         {
           "name": "ОстроВ",
-          "url": "https://ostro.org/news/lubinets-oprylyudnyv-kontakty-ta-zaklykav-gromadyan-nadaty-yakomoga-bilshe-informatsiyi-pro-i571307",
-          "title": "Лубінець оприлюднив контакти та закликав громадян надати якомога більше інформації про мешканців в Олешках",
-          "published_at": "2026-10-25T16:23:02+00:00"
+          "url": "https://ostro.org/news/vazhlyve-za-nich-i571320",
+          "title": "ВАЖЛИВЕ ЗА НІЧ",
+          "published_at": "2026-10-26T05:17:13+00:00"
         },
         {
-          "name": "С4",
-          "url": "https://c4.com.ua/novyny/v-oleshkax-planuyut-gumanitarnu-misiyu-i-zbirayut-informaciyu-lyudej-yaki-perebuvayut-u-misti-ta-potrebuyut-dopomogi",
-          "title": "В Олешках планують гуманітарну місію і збирають інформацію людей, які перебувають у місті та потребують допомоги",
-          "published_at": "2026-10-25T16:36:59+00:00"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776302_rosiyani_atakuvali_azs.html",
+          "title": "Росіяни атакували АЗС у Запоріжжі, є поранені",
+          "published_at": "2026-10-26T16:16:00+00:00"
         },
         {
           "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/10/25/8059655",
-          "title": "Омбудсман попросив поділитись інформацією про жителів Олешок, які потребують допомоги",
-          "published_at": "2026-10-25T17:01:00+00:00"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-lubinets-oleshky-humanitarna-misiya/33883972.html",
-          "title": "«Надзвичайно важливо»: Лубінець звернувся до жителів Олешок щодо гуманітарної місії",
-          "published_at": "2026-10-25T17:02:00+00:00"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/10/25/lubinets-zaklykav-nadaty-informatsiiu-pro-liudei-z-okupovanykh",
-          "title": "Лубінець закликав надати інформацію про людей з окупованих Олешків, які потребують допомоги",
-          "published_at": "2026-10-25T17:51:18+00:00"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/10/25/novyna/suspilstvo/ombudsmen-zaklykav-nadaty-informacziyu-pro-zhyteliv-okupovanyx-oleshok-yaki-potrebuyut-dopomohy",
-          "title": "Омбудсмен закликав надати інформацію про жителів окупованих Олешок, які потребують допомоги",
-          "published_at": "2026-10-25T17:56:59+00:00"
-        },
-        {
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/lubinets-zvernuvsia-do-ukraintsiv-cherez-situatsiiu-v-okupovanikh-oleshkakh",
-          "title": "Лубінець звернувся до українців через ситуацію в окупованих Олешках",
-          "published_at": "2026-10-25T18:58:49+00:00"
-        },
-        {
-          "name": "Точка Сходу",
-          "url": "https://cxid.media/news/ukraina-hotuietsia-do-humanitarnoi-misii-v-oleshkakh-ombudsman-zaklykav-nadaty-informatsiiu-pro-meshkantsiv-mista",
-          "title": "Україна готується до гуманітарної місії в Олешках: омбудсман закликав надати інформацію про мешканців міста",
-          "published_at": "2026-10-26T08:13:49+00:00"
-        },
-        {
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/v-okupovanikh-olieshkakh-ghotuiut-ievakuatsiiu-lubiniets-zaklikav-povidomliati-pro-liudiei-iaki-potriebuiut-dopomoghi",
-          "title": "В окупованих Олешках готують евакуацію: Лубінець закликав повідомляти про людей, які потребують допомоги",
-          "published_at": "2026-10-26T09:09:50+00:00"
-        },
-        {
-          "name": "У Полтаві",
-          "url": "https://upoltavi.com.ua/2026/10/26/ukrayina-gotuye-gumanitarnu-misiyu-do-oleshok-zbyrayut-informacziyu-pro-zhyteliv-yaki-potrebuyut-dopomogy",
-          "title": "Україна готує гуманітарну місію до Олешок: збирають інформацію про жителів, які потребують допомоги",
-          "published_at": "2026-10-26T09:58:00+00:00"
-        },
-        {
-          "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/na-vsij-teritoriji-hersonschini-majut-pripiniti-vogon-dlja-gumanitarnoji-misiji-do-oleshok-lubinets",
-          "title": "На всій території Херсонщини мають припинити вогонь для гуманітарної місії до Олешок, — Лубінець",
-          "published_at": "2026-10-26T10:57:06+00:00"
+          "url": "https://pravda.com.ua/news/2026/10/26/8059806",
+          "title": "РФ атакувала АЗС в Запоріжжі: двоє людей отримали поранення",
+          "published_at": "2026-10-26T16:44:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/national-c-02264349cfe5ee35.mp3",
-      "duration_sec": 16.12,
+      "audio": "editions/2026-10-26/audio/national-c-275c37b0eeafca94.mp3",
+      "duration_sec": 6.87,
       "sound": null
     },
     {
-      "id": "national-c-0df81ac36b1033ba",
+      "id": "national-c-0cbc9900c2224460",
       "kind": "story",
       "block": "national",
       "region": null,
-      "title": "Зеленський вніс до Ради законопроєкти про продовження воєнного стану та загальної мобілізації",
+      "title": "ВАКС зменшив заставу для Тимошенко з 33 млн до 266 тисяч",
       "topics": [
         "Політика",
         "Війна та безпека"
       ],
       "must_include": false,
       "text": [
-        "Глава держави Володимир Зеленський вніс на розгляд Верховної Ради проєкти законів про продовження ще на 90 днів строку дії воєнного стану та продовження загальної мобілізації в Україні – до 29 січня 2027 року.",
-        "Відповідні проєкти законів зареєстровано під номерами №16182 та №16183, передає Рубрика."
+        "Вищий антикорупційний суд зменшив заставу для лідерки фракції \"Батьківщина\" Юлії Тимошенко з 33 мільйонів гривень до 266 тисяч гривень, повідомляє Українська правда."
       ],
       "sources": [
         {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/10/26/776144_zelenskiy_podav_radi.html",
-          "title": "Зеленський подав до Ради законопроєкти про продовження воєнного стану і мобілізації",
-          "published_at": "2026-10-26T06:44:00+00:00"
-        },
-        {
           "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/10/26/8059699",
-          "title": "Зеленський пропонує Раді продовжити воєнний стан і мобілізацію до 29 січня",
-          "published_at": "2026-10-26T07:08:00+00:00"
-        },
-        {
-          "name": "Нове життя",
-          "url": "https://novezittya.com.ua/voiennyj-stan-proponuiut-prodovzhyty-do-sichnia",
-          "title": "Воєнний стан пропонують продовжити до січня",
-          "published_at": "2026-10-26T07:12:58+00:00"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/10/26/novyna/suspilstvo/zelenskyj-zaproponuvav-radi-prodovzhyty-voyennyj-stan-mobilizacziyu",
-          "title": "Зеленський запропонував Раді продовжити воєнний стан і мобілізацію",
-          "published_at": "2026-10-26T07:23:50+00:00"
-        },
-        {
-          "name": "20 хвилин. Тернопіль",
-          "url": "https://te.20minut.ua/Podii/voenniy-stan-i-mobilizatsiyu-v-ukrayini-znovu-prodovzhat-novi-termini-12011002.html",
-          "title": "Воєнний стан і мобілізацію в Україні знову продовжать: нові терміни",
-          "published_at": "2026-10-26T07:30:00+00:00"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-zelenskyi-rada-mobilizatsia-voennyi-stan/33884316.html",
-          "title": "Зеленський пропонує Раді продовжити воєнний стан і мобілізацію ще на 90 днів",
-          "published_at": "2026-10-26T07:36:52+00:00"
-        },
-        {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/10/26/prodovzhennya-voyennogo-stanu-2",
-          "title": "Зеленський вніс до Ради законопроєкти про продовження воєнного стану та загальної мобілізації",
-          "published_at": "2026-10-26T07:39:24+00:00"
-        },
-        {
-          "name": "PMG.ua",
-          "url": "https://pmg.ua/life/143863-voyennyy-stan-i-mobilizatsiiu-prodovzhat-do-iakoho-chysla",
-          "title": "Воєнний стан і мобілізацію продовжать: до якого числа",
-          "published_at": "2026-10-26T07:47:50+00:00"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/10/26/ukraina-vkotre-hotuietsia-prodovzhyty-voiennyj-stan-i-mobilizatsiiu",
-          "title": "Україна вкотре готується продовжити воєнний стан і мобілізацію",
-          "published_at": "2026-10-26T07:55:58+00:00"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-polytics/4178169-zelenskij-proponue-radi-prodovziti-voennij-stan-i-mobilizaciu-se-na-90-dniv.html",
-          "title": "Зеленський пропонує Раді продовжити воєнний стан і мобілізацію ще на 90 днів",
-          "published_at": "2026-10-26T08:16:00+00:00"
-        },
-        {
-          "name": "Твоє місто",
-          "url": "https://tvoemisto.tv/uk/news/12773-zelenskyy-proponuye-prodovzhyty-voyennyy-stan-i-mobilizatsiyu-do-kintsya-sichnya-2027-roku",
-          "title": "Зеленський пропонує продовжити воєнний стан і мобілізацію до кінця січня 2027 року",
-          "published_at": "2026-10-26T08:42:00+00:00"
-        },
-        {
-          "name": "Mind.ua",
-          "url": "https://mind.ua/news/20311387-voennij-stan-i-mobilizaciyu-v-ukrayini-znovu-prodovzhat",
-          "title": "Воєнний стан і мобілізацію в Україні знову продовжать",
-          "published_at": "2026-10-26T08:57:00+00:00"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1225980.html",
-          "title": "Раді рекомендують продовжити дію воєнного стану та проведення загальної мобілізації",
-          "published_at": "2026-10-26T09:18:23+00:00"
-        },
-        {
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1111450-vojennii-stan-ta-mobilizaciiu-v-ukrayini-planuiut-prodovziti-do-29-sicnia-2027-roku",
-          "title": "Зеленський ініціював продовження воєнного стану в Україні",
-          "published_at": "2026-10-26T10:18:00+00:00"
-        },
-        {
-          "name": "Ірта-fax",
-          "url": "https://irtafax.com/zelenskyj-zaproponuvav-prodovzhyty-voiennyj-stan-i-mobilizatsiiu-do-29-sichnia-2027-roku",
-          "title": "Зеленський запропонував продовжити воєнний стан і мобілізацію до 29 січня 2027 року",
-          "published_at": "2026-10-26T10:19:18+00:00"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-polytics/4178230-rada-prodovzila-voennij-stan-se-na-90-dniv.html",
-          "title": "Рада продовжила воєнний стан ще на 90 днів",
-          "published_at": "2026-10-26T10:43:00+00:00"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/news/2026/10/26/776204_verhovna_rada_prodovzhila.html",
-          "title": "Верховна Рада продовжила воєнний стан ще на 90 діб",
-          "published_at": "2026-10-26T10:43:00+00:00"
+          "url": "https://pravda.com.ua/news/2026/10/26/8059784",
+          "title": "ВАКС зменшив заставу для Тимошенко з 33 млн до 266 тисяч",
+          "published_at": "2026-10-26T15:05:00+00:00"
         },
         {
           "name": "hromadske",
-          "url": "https://hromadske.ua/viyna/273190-verkhovna-rada-prodovzyla-voyennyy-stan-i-mobilizatsiiu-shche-na-90-dniv",
-          "title": "Верховна Рада продовжила воєнний стан ще на 90 днів",
-          "published_at": "2026-10-26T10:44:00+00:00"
+          "url": "https://hromadske.ua/personaliyi/273213-vaks-zmenshyv-zastavu-dlia-tymoshenko-z-33-milyoniv-do-266-tysiach-hryven",
+          "title": "ВАКС зменшив заставу для Тимошенко з 33 мільйонів до 266 тисяч гривень",
+          "published_at": "2026-10-26T15:25:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1437415-vaks-zmensiv-zastavu-dla-timosenko-z-33-miljoniv-do-266-tisac-griven",
+          "title": "ВАКС зменшив заставу для Тимошенко з 33 мільйонів до 266 тисяч гривень",
+          "published_at": "2026-10-26T15:42:34+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/10/26/776292_vaks_zmenshiv_zastavu_yuliyi.html",
+          "title": "ВАКС зменшив заставу для Юлії Тимошенко в 125 разів - з 33 млн до 266 тисяч гривень",
+          "published_at": "2026-10-26T15:45:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/26/vaks-suttievo-znyzyv-zastavu-dlia-yulii-tymoshenko-na-ii-prokhannia",
+          "title": "ВАКС суттєво знизив заставу для Юлії Тимошенко на її прохання",
+          "published_at": "2026-10-26T15:46:49+00:00"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131272-vaks-zmenshiv-zastavu-dlya-timoshenko-z-33-milyoniv-do-266-tisyach-griven",
+          "title": "ВАКС зменшив заставу для Тимошенко з 33 мільйонів до 266 тисяч гривень",
+          "published_at": "2026-10-26T15:48:31+00:00"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12809-sud-zmenshyv-zastavu-dlya-nardepky-yuliyi-tymoshenko-z-33-mln-do-266-tysyach-hryven",
+          "title": "Суд зменшив заставу для нардепки Юлії Тимошенко з 33 млн до 266 тисяч гривень",
+          "published_at": "2026-10-26T16:14:00+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/26/sud-zmenshyv-zastavu-iulii-tymoshenko-u-125-raziv",
+          "title": "Суд зменшив заставу Юлії Тимошенко у 125 разів",
+          "published_at": "2026-10-26T16:18:32+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vaks-zmenshyv-zastavu-dlya-yuliyi-tymoshenko-z-ponad-33-miljoniv-do-ponad-266-tysyach-gryven-i571408",
+          "title": "ВАКС зменшив заставу для Юлії Тимошенко з понад 33 мільйонів до понад 266 тисяч гривень",
+          "published_at": "2026-10-26T16:20:00+00:00"
         },
         {
           "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/POLITICS/verkhovna-rada-prodovzhila-vojennij-stan-v-ukrajini-do-kintsja-sichnja.html",
-          "title": "Верховна Рада продовжила воєнний стан в Україні до кінця січня",
-          "published_at": "2026-10-26T10:44:00+00:00"
+          "url": "https://zn.ua/ukr/anticorruption/vaks-zmenshiv-rozmir-zastavi-dlja-timoshenko-u-125-raziv-zastavodavtsjam-majut-povernuti-majzhe-33-miljoni.html",
+          "title": "ВАКС зменшив розмір застави для Тимошенко у 125 разів: заставодавцям мають повернути майже 33 мільйони",
+          "published_at": "2026-10-26T17:00:00+00:00"
         },
         {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1226051.html",
-          "title": "Рада продовжила строк дії воєнного стану на 90 діб",
-          "published_at": "2026-10-26T10:50:56+00:00"
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/26/novyna/polityka/sud-zmenshyv-rozmir-zastavy-yuliyi-tymoshenko-125-raziv",
+          "title": "Суд зменшив розмір застави для Юлії Тимошенко у 125 разів",
+          "published_at": "2026-10-26T17:00:46+00:00"
         },
         {
-          "name": "Точка Сходу",
-          "url": "https://cxid.media/news/verkhovna-rada-pidtrymala-prodovzhennia-dii-voiennoho-stanu-v-ukraini-shche-na-90-dniv",
-          "title": "Верховна Рада підтримала продовження дії воєнного стану в Україні ще на 90 днів",
-          "published_at": "2026-10-26T10:55:27+00:00"
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-vaks-tymoshenko-zastava/33884649.html",
+          "title": "ВАКС значно зменшив заставу для Тимошенко",
+          "published_at": "2026-10-26T17:23:45+00:00"
         },
         {
-          "name": "Кременчуцький Телеграф",
-          "url": "https://telegraf.in.ua/popular/shhe-na-90-dniv-verhovna-rada-vkotre-prodovzhyla-voyennyj-stan-i-mobilizacziyu.html",
-          "title": "Ще на 90 днів: Верховна Рада вкотре продовжила воєнний стан і мобілізацію",
-          "published_at": "2026-10-26T10:55:37+00:00"
+          "name": "hromadske",
+          "url": "https://hromadske.ua/suspilstvo/273230-v-ukrayini-prodovzyly-voyennyy-stan-ta-mobilizatsiiu-a-vaks-zmenshyv-zastavu-dlia-tymoshenko-holovne-za-26-zovtnia",
+          "title": "В Україні продовжили воєнний стан та мобілізацію, а ВАКС зменшив заставу для Тимошенко — головне за 26 жовтня",
+          "published_at": "2026-10-26T20:00:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/national-c-0df81ac36b1033ba.mp3",
-      "duration_sec": 22.36,
+      "audio": "editions/2026-10-26/audio/national-c-0cbc9900c2224460.mp3",
+      "duration_sec": 10.71,
       "sound": null
     },
     {
-      "id": "national-c-1f681e636289507f",
+      "id": "national-c-45c03daf56185ba4",
       "kind": "story",
       "block": "national",
       "region": null,
-      "title": "Через обстріли РФ є нові знеструмлення у шести областях - Укренерго",
+      "title": "Росія вдарила реактивним дроном по енергетиці Буковини: у частині Чернівців зникло світло",
       "topics": [
         "Війна та безпека",
         "Економіка"
       ],
       "must_include": false,
       "text": [
-        "Станом на ранок 26 жовтня через російські обстріли є знеструмлені споживачі у шести областях; графіки відключення світла обсягом до 2 черг застосовуються на частині території України."
+        "Увечері понеділка, 26 жовтня, російський реактивний безпілотник атакував Чернівецьку область і пошкодив один з енергетичних об'єктів."
       ],
       "sources": [
         {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-economy/4178195-cerez-obstrili-rf-e-novi-znestrumlenna-u-sesti-oblastah-ukrenergo.html",
-          "title": "Через обстріли РФ є нові знеструмлення у шести областях - Укренерго",
-          "published_at": "2026-10-26T09:21:45+00:00"
+          "name": "А.С.С.",
+          "url": "https://acc.cv.ua/news/chernivtsi/vorozhiy-bpla-vluchiv-v-obekt-energetiki-na-bukovini-region-bez-elektropostachannya-122977",
+          "title": "Уламки ворожого БпЛА влучили в об'єкт енергетики на Буковині: регіон без електропостачання",
+          "published_at": "2026-10-26T18:59:10+00:00"
         },
         {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1226011.html",
-          "title": "Частина споживачів у шести областях залишилася без світла через атаки РФ – \"Укренерго\"",
-          "published_at": "2026-10-26T09:50:26+00:00"
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernivtsi/1437555-reaktivnij-bezpilotnik-atakuvav-energeticnij-obekt-na-bukovini-uveceri-26-zovtna-so-vidomo",
+          "title": "Реактивний безпілотник атакував енергетичний обʼєкт на Буковині увечері 26 жовтня: що відомо",
+          "published_at": "2026-10-26T19:01:41+00:00"
         },
         {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-ukrenerho-znestrumlennia/33884397.html",
-          "title": "«Укренерго» повідомляє про нові знеструмлення через атаки РФ у шести областях",
-          "published_at": "2026-10-26T09:56:04+00:00"
+          "name": "С4",
+          "url": "https://c4.com.ua/novyny/unaslidok-ataki-bpla-na-bukovini-poshkodzheno-obekt-energetiki-v-oblasti-vimusheni-vidklyuchennya-elektroenergii",
+          "title": "Унаслідок атаки БпЛА на Буковині пошкоджено об’єкт енергетики: в області вимушені відключення електроенергії",
+          "published_at": "2026-10-26T19:06:22+00:00"
         },
         {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/10/26/cherez-rosiyski-ataky-znestrumleno-spozhyvachiv-u-6-oblastiakh",
-          "title": "Через російські атаки знеструмлено споживачів у 6 областях",
-          "published_at": "2026-10-26T09:58:25+00:00"
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-drona-na-chernivecku-oblast-poshkodzheno-energoob-yekt-ta-zniklo-svitlo-50653576.html",
+          "title": "Росія вдарила реактивним дроном по енергетиці Буковини: у частині Чернівців зникло світло",
+          "published_at": "2026-10-26T19:33:00+00:00"
         },
         {
-          "name": "Mind.ua",
-          "url": "https://mind.ua/news/20311392-cherez-rosijski-ataki-u-shesti-oblastyah-ukrayini-zafiksuvali-novi-znestrumlennya",
-          "title": "Через російські атаки у шести областях України зафіксували нові знеструмлення",
-          "published_at": "2026-10-26T10:08:00+00:00"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/10/26/novyna/suspilstvo/shesty-oblastyax-zafiksuvaly-znestrumlennya-vnaslidok-vorozhyx-obstriliv",
-          "title": "У шести областях зафіксували знеструмлення внаслідок ворожих обстрілів",
-          "published_at": "2026-10-26T10:48:14+00:00"
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/26/bukovynu-atakuvav-reaktyvnyj-bezpilotnyk-ulamky-bpla-poshkodyly-obyekt-energetyky",
+          "title": "Буковину атакував реактивний безпілотник: уламки БпЛА пошкодили об’єкт енергетики",
+          "published_at": "2026-10-26T19:35:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/national-c-1f681e636289507f.mp3",
-      "duration_sec": 11.28,
-      "sound": null
-    },
-    {
-      "id": "national-c-257b8b545c48cadd",
-      "kind": "story",
-      "block": "national",
-      "region": null,
-      "title": "Прем’єр Молдови прибув до Києва: заплановані зустрічі із Зеленським та керівництвом парламенту",
-      "topics": [
-        "Політика",
-        "Економіка"
-      ],
-      "must_include": false,
-      "text": [
-        "У понеділок, 26 жовтня, прем'єр-міністр Молдови Василе Тофан перебуває з робочим візитом у Києві.",
-        "У програмі – переговори з керівництвом України, обговорення двосторонньої співпраці та участь у Київському міжнародному економічному форумі."
-      ],
-      "sources": [
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/news/2026/10/26/776142_premier-ministr_moldovi_tofan.html",
-          "title": "Премʼєр-міністр Молдови Тофан приїхав до Києва",
-          "published_at": "2026-10-26T06:45:00+00:00"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1225949.html",
-          "title": "Прем'єр-міністр Молдови прибув до України з робочим візитом",
-          "published_at": "2026-10-26T07:58:39+00:00"
-        },
-        {
-          "name": "Mind.ua",
-          "url": "https://mind.ua/news/20311382-premer-ministr-moldovi-pribuv-do-kieva-z-troma-ministrami",
-          "title": "Прем'єр-міністр Молдови прибув до Києва з трьома міністрами",
-          "published_at": "2026-10-26T08:10:00+00:00"
-        },
-        {
-          "name": "Твоє місто",
-          "url": "https://tvoemisto.tv/uk/news/12774-do-kyyeva-z-vizytom-prybuv-premyer-ministr-moldovy-vasyle-tofan",
-          "title": "До Києва з візитом прибув прем'єр-міністр Молдови Василе Тофан",
-          "published_at": "2026-10-26T08:12:00+00:00"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/10/26/novyna/polityka/ukrayinu-prybuv-premyer-moldovy-vasyle-tofan-troma-ministramy",
-          "title": "До України прибув прем’єр Молдови Василе Тофан з трьома міністрами",
-          "published_at": "2026-10-26T08:44:12+00:00"
-        },
-        {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/10/26/moldovy-prybuv-do-kyyeva",
-          "title": "Прем’єр Молдови прибув до Києва: заплановані зустрічі із Зеленським та керівництвом парламенту",
-          "published_at": "2026-10-26T08:58:08+00:00"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-tofan-premyer-moldovy-vizyt-kyyiv/33884407.html",
-          "title": "Прем’єр Молдови Тофан прибув з робочим візитом до Києва",
-          "published_at": "2026-10-26T10:19:37+00:00"
-        },
-        {
-          "name": "Ірта-fax",
-          "url": "https://irtafax.com/bezpeka-torhivlia-ta-ievrointehratsiia-prem-ier-moldovy-rozpochav-vizyt-do-ukrainy",
-          "title": "Безпека, торгівля та євроінтеграція: прем’єр Молдови розпочав візит до України",
-          "published_at": "2026-10-26T10:48:05+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/national-c-257b8b545c48cadd.mp3",
-      "duration_sec": 14.65,
+      "audio": "editions/2026-10-26/audio/national-c-45c03daf56185ba4.mp3",
+      "duration_sec": 8.8,
       "sound": null
     },
     {
@@ -660,14 +815,227 @@
       "sound": null
     },
     {
+      "id": "regional-c-0c3fce33b43518df",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Україна запроваджує режим тиші з 03:00 27 жовтня виключно для гуманітарної операції в Олешках — Генштаб",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Україна запровадить режим припинення вогню в районі тимчасово окупованих Олешок Херсонської області з 03:00 27 жовтня за київським часом.",
+        "Це необхідно для проведення гуманітарної операції та надання допомоги цивільним."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4178412-ukraina-zaprovadzue-vnoci-27-zovtna-rezim-pripinenna-vognu-v-rajoni-olesok.html",
+          "title": "Україна запроваджує вночі 27 жовтня режим припинення вогню в районі Олешок",
+          "published_at": "2026-10-26T19:05:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/oleshki-ukrajina-zaprovadit-rezhim-tishi-viklyuchno-dlya-gumanitarnoji-operaciji-50653569.html",
+          "title": "Україна запроваджує режим тиші з 03:00 27 жовтня виключно для гуманітарної операції в Олешках — Генштаб",
+          "published_at": "2026-10-26T19:09:00+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/26/henshtab-2",
+          "title": "Генштаб ЗСУ оголосив про початок режиму тиші біля Олешок із 03:00 27 жовтня для гуманітарної операції",
+          "published_at": "2026-10-26T19:09:17+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/26/8059829",
+          "title": "В Генштабі закликали не поширювати чутки про маршрути евакуації з Олешок",
+          "published_at": "2026-10-26T19:13:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776350_ukrayina_zaprovadzhuie_rezhim.html",
+          "title": "Україна запроваджує режим припинення вогню, щоб провести гуманітарну операцію в Олешках",
+          "published_at": "2026-10-26T19:15:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226401.html",
+          "title": "Україна запровадить режим тиші в районі окупованих Олешків із 3:00 вівторка для доставки допомоги й виїзду цивільних",
+          "published_at": "2026-10-26T19:16:04+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/ukrayina-zaprovadyt-rezhym-tyshi-v-okupovanyh-oleshkah-iz-27-zhovtnya-genshtab",
+          "title": "Україна запровадить режим тиші в окупованих Олешках із 27 жовтня – Генштаб",
+          "published_at": "2026-10-26T19:21:06+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/regional-c-0c3fce33b43518df.mp3",
+      "duration_sec": 13.79,
+      "sound": null
+    },
+    {
+      "id": "regional-c-10dcd3653be583b8",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Масована атака РФ на Умань: померла літня жінка",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Лікарі п'ять днів боролися за її життя."
+      ],
+      "sources": [
+        {
+          "name": "18000",
+          "url": "https://18000.com.ua/strichka-novin/v-umani-pomerla-86-richna-postrazhdala-vnaslidok-rosijskogo-udaru",
+          "title": "В Умані померла 86-річна постраждала внаслідок російського удару",
+          "published_at": "2026-10-26T09:33:33+00:00"
+        },
+        {
+          "name": "ЗMI.ck.ua",
+          "url": "https://zmi.ck.ua/oblast/v-uman-pomerla-jnka-yaka-postrajdala-vnasldok-rosyskogo-obstrlu.html",
+          "title": "В Умані померла жінка, яка постраждала внаслідок російського обстрілу",
+          "published_at": "2026-10-26T09:44:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1226041.html",
+          "title": "В Умані в лікарні померла жінка, що зазнала поранень 21 жовтня під час ворожого обстрілу",
+          "published_at": "2026-10-26T10:33:19+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/masovana-ataka-rf-na-uman-zahinula-litnja-zhinka-.html",
+          "title": "Масована атака РФ на Умань: померла літня жінка",
+          "published_at": "2026-10-26T10:34:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/news/33884421.html",
+          "title": "Атака РФ на Умань: у лікарні померла 86-річна жінка, поранена минулого тижня",
+          "published_at": "2026-10-26T11:05:46+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/regional-c-10dcd3653be583b8.mp3",
+      "duration_sec": 3.4,
+      "sound": null
+    },
+    {
+      "id": "regional-c-285b1a517b37d75e",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Загинула людина, восьмеро поранених: російські війська обстріляли 31 населений пункт Херсонщини",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "На Херсонщині упродовж минулої доби через російські обстріли загинула людина, восьмеро поранених.",
+        "Війська РФ атакували 31 населений пункт області."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1436693-zaginula-ludina-vosmero-poranenih-rosijski-vijska-obstrilali-31-naselenij-punkt-hersonsini-2",
+          "title": "Загинула людина, восьмеро поранених: російські війська обстріляли 31 населений пункт Херсонщини",
+          "published_at": "2026-10-26T06:04:52+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/26/776132_lyudina_zaginula_sche_vosmero.html",
+          "title": "Одна людина загинула, і ще восьмеро поранені через російські обстріли Херсонщини",
+          "published_at": "2026-10-26T06:10:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4178114-vorog-za-dobu-obstrilav-ponad-30-naselenih-punktiv-na-hersonsini-odin-zagiblij-vosmero-poranenih.html",
+          "title": "Ворог за добу обстріляв понад 30 населених пунктів на Херсонщині - один загиблий, восьмеро поранених",
+          "published_at": "2026-10-26T06:10:18+00:00"
+        },
+        {
+          "name": "IPC-Південь",
+          "url": "https://ipc.org.ua/uk/2026/10/za-dobu-cherez-obstrily-rosiyan-na-hersonshhyni-odna-lyudyna-zagynalu-shhe-vosmero-distaly-poranennya",
+          "title": "За добу через обстріли росіян на Херсонщині одна людина загинула, ще восьмеро – дістали поранення",
+          "published_at": "2026-10-26T07:00:39+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/325476-obstrily-khersonshchyni-zahynula-odna-liudyna-vosmero-postrazhdaly",
+          "title": "Через обстріли на Херсонщині загинула одна людина, ще восьмеро постраждали",
+          "published_at": "2026-10-26T07:25:00+00:00"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/u-khersoni-okupanti-vdarili-po-marshruttsi-pasazhir-pomer-u-likarni",
+          "title": "У Херсоні окупанти вдарили по маршрутці: пасажир помер у лікарні",
+          "published_at": "2026-10-26T07:35:56+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/regional-c-285b1a517b37d75e.mp3",
+      "duration_sec": 10.03,
+      "sound": null
+    },
+    {
+      "id": "regional-c-1b850cc6185cd3d1",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Чернівцях частина проспекту та вулиці Головної залишиться без води через ремонт: де ще будуть відключення",
+      "topics": [
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У Чернівцях через ремонт на проспекті Незалежності відключать водопостачання на понад десяти вулицях.",
+        "Також на трьох вулицях воду подаватимуть зі зниженим тиском."
+      ],
+      "sources": [
+        {
+          "name": "С4",
+          "url": "https://c4.com.ua/novyny/u-chernivcyax-na-majzhe-dva-misyaci-obmezhat-rux-na-dvox-vulicyax",
+          "title": "У Чернівцях на майже два місяці обмежать рух на двох вулицях",
+          "published_at": "2026-10-26T08:10:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernivtsi/1437217-cerez-provedenna-remontu-na-ponad-desati-vulicah-u-cernivcah-vidklucat-vodu-perelik",
+          "title": "У Чернівцях частина проспекту та вулиці Головної залишиться без води через ремонт: де ще будуть відключення",
+          "published_at": "2026-10-26T13:22:46+00:00"
+        },
+        {
+          "name": "Шпальта",
+          "url": "https://shpalta.media/2026/10/26/u-chernivcyax-cherez-remont-prizupinyat-vodopostachannya-na-nizci-vulic",
+          "title": "У Чернівцях через ремонт призупинять водопостачання на низці вулиць",
+          "published_at": "2026-10-26T16:09:45+00:00"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/chernivtsi_news/365620-zavtra-u-chernivciakh-pryzupyniat-vodopostachannia-na-nyzci-vulyc-perelik-adres.html",
+          "title": "Завтра у Чернівцях призупинять водопостачання на низці вулиць: перелік адрес",
+          "published_at": "2026-10-26T17:00:06+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-26/audio/regional-c-1b850cc6185cd3d1.mp3",
+      "duration_sec": 9.74,
+      "sound": null
+    },
+    {
       "id": "regional-c-22274df8abae1baf",
       "kind": "story",
       "block": "regional",
       "region": null,
       "title": "За минулу добу на Прикарпатті стались три ДТП – двоє загиблих, четверо травмованих",
       "topics": [
-        "Війна та безпека",
-        "Суспільство"
+        "Суспільство",
+        "Війна та безпека"
       ],
       "must_include": false,
       "text": [
@@ -709,260 +1077,16 @@
           "url": "https://kurs.if.ua/u-roshnevi-pomer-19-richnyj-motoczyklist-yakyj-vrizavsya-v-ogorozhu-mostu",
           "title": "На Прикарпатті помер 19-річний мотоцикліст, який врізався в огорожу мосту",
           "published_at": "2026-10-26T10:41:00+00:00"
+        },
+        {
+          "name": "РАІ",
+          "url": "https://rai.ua/novyny/dvoie-mototsyklistiv-zahynuly-shche-chetvero-liudei-travmuvalysia-v-dtp",
+          "title": "Двоє мотоциклістів загинули, ще четверо людей травмувалися в ДТП",
+          "published_at": "2026-10-26T12:00:00+00:00"
         }
       ],
       "audio": "editions/2026-10-26/audio/regional-c-22274df8abae1baf.mp3",
       "duration_sec": 7.84,
-      "sound": null
-    },
-    {
-      "id": "regional-c-1cd7667046b2dac9",
-      "kind": "story",
-      "block": "regional",
-      "region": null,
-      "title": "За добу російські війська атакували 11 населених пунктів Донеччини: є поранені та загиблий (фото)",
-      "topics": [
-        "Війна та безпека",
-        "Міжнародне"
-      ],
-      "must_include": false,
-      "text": [
-        "Протягом 25 жовтня російські війська атакували 11 населених пунктів Донеччини.",
-        "Загинув чоловік та ще десять жителів отримали поранення Запис За добу російські війська атакували 11 населених пунктів Донеччини: є поранені та загиблий (фото) спершу з'явиться на Антикризовий медіа-центр ."
-      ],
-      "sources": [
-        {
-          "name": "Новини Донбасу",
-          "url": "https://novosti.dn.ua/news/404448-na-donechchyni-za-dobu-zagynula-odna-lyudyna-shhe-10-poraneno",
-          "title": "На Донеччині за добу загинула одна людина, ще 10 поранено",
-          "published_at": "2026-10-26T06:12:15+00:00"
-        },
-        {
-          "name": "Вчасні Новини",
-          "url": "https://vchasno.news/kramatorsk-i-slovyansk-zaznaly-masovanyh-atak-ye-zagyblyj-i-poraneni",
-          "title": "Краматорськ і Слов’янськ зазнали масованих атак: є загиблий і поранені",
-          "published_at": "2026-10-26T07:57:49+00:00"
-        },
-        {
-          "name": "Антикризовий медіа-центр",
-          "url": "https://acmc.ua/za-dobu-rosijski-vijska-atakuvaly-11-naselenyh-punktiv-donechchyny-ye-poraneni-ta-zagyblyj-foto",
-          "title": "За добу російські війська атакували 11 населених пунктів Донеччини: є поранені та загиблий (фото)",
-          "published_at": "2026-10-26T08:06:06+00:00"
-        },
-        {
-          "name": "Вчасно",
-          "url": "https://vchasnoua.com/news/zaginuv-colovik-shhe-10-liudei-zaznali-poranen-naslidki-rosiiskix-atak-na-doneccini",
-          "title": "Загинув чоловік, ще 10 людей зазнали поранень: наслідки російських атак на Донеччині",
-          "published_at": "2026-10-26T08:09:00+00:00"
-        },
-        {
-          "name": "Новини Донбасу",
-          "url": "https://novosti.dn.ua/news/404465-naslidky-rosijskyh-obstriliv-donechchyny-pid-udarom-budynky-hram-avto-zaklad-osvity",
-          "title": "Наслідки російських обстрілів Донеччини: під ударом — будинки, храм, авто, заклад освіти",
-          "published_at": "2026-10-26T08:17:35+00:00"
-        },
-        {
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/na-donechchyni-za-dobu-pid-vognem-perebuvalo-11-naselenyh-punktiv-zagynuv-cholovik-shhe-10-lyudej-i571345",
-          "title": "На Донеччині за добу під вогнем перебувало 11 населених пунктів: загинув чоловік, ще 10 людей поранені",
-          "published_at": "2026-10-26T08:43:01+00:00"
-        },
-        {
-          "name": "Східний Варіант",
-          "url": "https://v-variant.com.ua/unaslidok-rosiiskikh-udariv-po-doniechchini-vidomo-pro-1-zaghiblogho-10-poranienikh-i-ruinuvannia-79-tsivilnikh-obiektiv-foto",
-          "title": "Унаслідок російських ударів по Донеччині відомо про 1 загиблого, 10 поранених і руйнування 79 цивільних об'єктів (фото)",
-          "published_at": "2026-10-26T08:59:00+00:00"
-        },
-        {
-          "name": "Вільне радіо",
-          "url": "https://freeradio.com.ua/cherez-obstrily-zahynuv-cholovik-poraneni-shche-10-tsyvilnykh-iak-mynulo-25-zhovtnia-na-donechchyni-zvedennyu",
-          "title": "Через обстріли загинув чоловік, поранені ще 10 цивільних: як минуло 25 жовтня на Донеччині (ЗВЕДЕННЯ)",
-          "published_at": "2026-10-26T09:24:37+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/regional-c-1cd7667046b2dac9.mp3",
-      "duration_sec": 17.48,
-      "sound": null
-    },
-    {
-      "id": "regional-c-137573f63375a8b1",
-      "kind": "story",
-      "block": "regional",
-      "region": null,
-      "title": "Пошкоджено об'єкт енергетики та житлові будинки: наслідки чергової російської атаки на Хмельниччину 25 жовтня",
-      "topics": [
-        "Війна та безпека",
-        "Економіка"
-      ],
-      "must_include": false,
-      "text": [
-        "Сьогодні, 25 жовтня, під час повітряної тривоги на Хмельниччині було чути звуки вибухів.",
-        "Внаслідок атаки пошкоджено об'єкт енергетики та житлові будинки у Кам'янець-Подільському районі."
-      ],
-      "sources": [
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/khmelnytskiy/1436347-vibuhi-25-zovtna-na-hmelniccini-so-vidomo",
-          "title": "Пошкоджено об'єкт енергетики та житлові будинки: наслідки чергової російської атаки на Хмельниччину 25 жовтня",
-          "published_at": "2026-10-25T18:19:35+00:00"
-        },
-        {
-          "name": "Є",
-          "url": "https://ye.ua/syspilstvo/80854_Vnaslidok_povitryanoyi_ataki_u_Kam_yanec_Podilskomu_rayoni_poshkodzheno_ob_yekt_energetiki.html",
-          "title": "Внаслідок повітряної атаки у Кам'янець-Подільському районі пошкоджено об'єкт енергетики",
-          "published_at": "2026-10-25T19:45:21+00:00"
-        },
-        {
-          "name": "Букви",
-          "url": "https://bukvy.org/rosiyany-atakuvaly-ob-yekt-energetyky-pid-kam-yantsem-podilskym",
-          "title": "Росіяни атакували об’єкт енергетики під Кам’янцем-Подільським",
-          "published_at": "2026-10-25T20:47:07+00:00"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4178091-rosiani-atakuvali-obekt-energetiki-na-hmelniccini-e-avarijni-vidklucenna-svitla.html",
-          "title": "Росіяни атакували об’єкт енергетики на Хмельниччині, є аварійні відключення світла",
-          "published_at": "2026-10-25T23:03:00+00:00"
-        },
-        {
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/energetics/okupanti-atakuvali-enerhetiku-v-khmelnitskij-oblasti-dijut-avarijni-vidkljuchennja-svitla.html",
-          "title": "Окупанти атакували енергетику в Хмельницькій області: діють аварійні відключення світла",
-          "published_at": "2026-10-26T08:58:17+00:00"
-        },
-        {
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1111434-na-xmelniccini-cerez-ataku-rf-poskodzeno-objekt-energetiki-je-vidkliucennia-svitla",
-          "title": "На Хмельниччині через атаку РФ пошкоджено об'єкт енергетики: є відключення світла",
-          "published_at": "2026-10-26T09:28:00+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/regional-c-137573f63375a8b1.mp3",
-      "duration_sec": 11.39,
-      "sound": null
-    },
-    {
-      "id": "regional-c-40007b38a1ef8030",
-      "kind": "story",
-      "block": "regional",
-      "region": null,
-      "title": "Росіяни атакували вугледобувне підприємство на Дніпропетровщині: загинув водій",
-      "topics": [
-        "Війна та безпека",
-        "Бізнес"
-      ],
-      "must_include": false,
-      "text": [
-        "У ніч проти 25 жовтня ворог атакував одне з вугледобувних підприємств “ДТЕК Енерго” на Дніпропетровщині, внаслідок чого загинув водій Віталій Щербина."
-      ],
-      "sources": [
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/10/25/776040_rf_atakuvala_odne_z.html",
-          "title": "РФ атакувала одне з вугледобувних підприємств \"ДТЕК Енерго\" на Дніпропетровщині",
-          "published_at": "2026-10-25T11:54:00+00:00"
-        },
-        {
-          "name": "Місто і річка",
-          "url": "https://mistorichka.media/novyny/zahynuv-vodii-dtek-dniprovshchyna",
-          "title": "На Дніпровщині російський дрон влучив у вантажівку: загинув водій ДТЕК",
-          "published_at": "2026-10-25T12:20:14+00:00"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/dnipro/1436489-na-dnipropetrovsini-cerez-ataku-rf-zaginuv-vodij-dtek-vitalij-serbina",
-          "title": "На Дніпропетровщині через атаку РФ загинув водій ДТЕК Віталій Щербина",
-          "published_at": "2026-10-25T12:21:27+00:00"
-        },
-        {
-          "name": "Dnipro.media",
-          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshchyni-cherez-rosiysku-ataku-na-pidpryyemstvo-dtek-2026",
-          "title": "На Дніпропетровщині через російську атаку на підприємство ДТЕК загинув працівник",
-          "published_at": "2026-10-25T12:31:44+00:00"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1225739.html",
-          "title": "Унаслідок нічної атаки на вугледобувне підприємство на Дніпропетровщині загинув працівник ДТЕК",
-          "published_at": "2026-10-25T12:38:59+00:00"
-        },
-        {
-          "name": "Прихист",
-          "url": "https://prikhist.com/2026/10/25/na-dnipropetrovshchyni-vnaslidok-ataky-rosijskoho-drona-zahynuv-vodij-dtek",
-          "title": "На Дніпропетровщині внаслідок атаки російського дрона загинув водій ДТЕК",
-          "published_at": "2026-10-25T14:25:30+00:00"
-        },
-        {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/10/25/rf-atakuvala-vuhledobuvne-pidpryiemstvo-dtek-na-dnipropetrovshchyni-zahynuv-vodiy",
-          "title": "РФ атакувала вугледобувне підприємство ДТЕК на Дніпропетровщині: загинув водій",
-          "published_at": "2026-10-25T15:56:30+00:00"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/10/25/rosiiany-atakuvaly-vuhledobuvne-pidpryiemstvo-na-dnipropetrovshchyni",
-          "title": "Росіяни атакували вугледобувне підприємство на Дніпропетровщині: загинув водій",
-          "published_at": "2026-10-25T16:53:36+00:00"
-        },
-        {
-          "name": "Місто і річка",
-          "url": "https://mistorichka.media/novyny/hrafiky-vidkliuchennia-svitla-dniprovshchyna-26-zhovtnia",
-          "title": "На Дніпровщині 26 жовтня вимикатимуть світло: графіки ДТЕК і ЦЕК",
-          "published_at": "2026-10-26T07:07:46+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/regional-c-40007b38a1ef8030.mp3",
-      "duration_sec": 9.69,
-      "sound": null
-    },
-    {
-      "id": "regional-c-3b570bd798758282",
-      "kind": "story",
-      "block": "regional",
-      "region": null,
-      "title": "Від тяжких поранень унаслідок обстрілу РФ помер начальник караулу ГУ ДСНС Запорізької області Юрій Ільченко",
-      "topics": [
-        "Війна та безпека",
-        "Суспільство"
-      ],
-      "must_include": false,
-      "text": [
-        "25 жовтня у лікарні від тяжких поранень, яких дістав унаслідок російського обстрілу, помер начальник караулу двадцятої державної пожежно-рятувальної частини Запорізької області Юрій Ільченко."
-      ],
-      "sources": [
-        {
-          "name": "Inform.zp",
-          "url": "https://inform.zp.ua/uk/2026/10/25/400661_u-zaporizhzhi-vid-tyazhkyh-poranen-pislya-obstrilu-pomer-ryatuvalnyk-yurij-ilchenko",
-          "title": "У Запоріжжі від тяжких поранень після обстрілу помер рятувальник Юрій Ільченко",
-          "published_at": "2026-10-25T11:21:14+00:00"
-        },
-        {
-          "name": "Перший Запорізький",
-          "url": "https://1news.zp.ua/likari-borolysya-za-jogo-zhyttya-pyat-dniv-cherez-rosijskyj-obstril-zagynuv-zaporizkyj-ryatuvalnyk-yurij-ilchenko",
-          "title": "Лікарі боролися за його життя п’ять днів: через російський обстріл загинув запорізький рятувальник Юрій Ільченко",
-          "published_at": "2026-10-25T11:52:52+00:00"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/zaporizhzhia/1432971-vid-tazkih-poranen-unaslidok-obstrilu-rf-pomer-nacalnik-karaulu-gu-dsns-zaporizkoi-oblasti-urij-ilcenko",
-          "title": "Від тяжких поранень унаслідок обстрілу РФ помер начальник караулу ГУ ДСНС Запорізької області Юрій Ільченко",
-          "published_at": "2026-10-25T13:14:12+00:00"
-        },
-        {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/10/25/p-iat-dniv-likari-borolysia-za-yoho-zhyttia-u-likarni-pomer-riatuvalnyk-yuriy-ilchenko-poranenyy-vnaslidok-obstrilu-rf",
-          "title": "«П’ять днів лікарі боролися за його життя»: У лікарні помер рятувальник Юрій Ільченко, поранений внаслідок обстрілу РФ",
-          "published_at": "2026-10-25T13:58:20+00:00"
-        },
-        {
-          "name": "Локатор медіа",
-          "url": "https://lokatormedia.online/vid-poranen-vnaslidok-obstrilu-pomer-zaporizkyj-ofitser-riatuvalnyk-iurij-ilchenko",
-          "title": "Від поранень внаслідок обстрілу помер запорізький офіцер-рятувальник Юрій Ільченко",
-          "published_at": "2026-10-25T16:07:54+00:00"
-        }
-      ],
-      "audio": "editions/2026-10-26/audio/regional-c-3b570bd798758282.mp3",
-      "duration_sec": 11.6,
       "sound": null
     },
     {
@@ -982,80 +1106,102 @@
       "sound": null
     },
     {
-      "id": "local-volyn-c-fe889dcff18ee70b",
+      "id": "local-volyn-c-3400776752cdbc56",
       "kind": "story",
       "block": "local:volyn",
       "region": "volyn",
-      "title": "Як залишатися на зв'язку і мати безперебійний інтернет під час відключень світла: поради операторів зв'язку на Волині",
+      "title": "Волинянина підозрюють у незаконному переправленні чоловіків у ЄС",
       "topics": [
-        "Економіка",
-        "Технології та AI"
+        "Міжнародне",
+        "Війна та безпека"
       ],
       "must_include": false,
       "text": [
-        "Оператори зв'язку на Волині пояснили, чому швидкість інтернету «падає», а мобільний зв'язок погіршується."
+        "48-річного волиннина підозрюють у незаконному переправлені чоловіків до Польщі.",
+        "За свої послуги брав 15 тисяч ддарів США."
       ],
       "sources": [
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/lutsk/1433079-ak-zalisatisa-na-zvazku-i-mati-bezperebijnij-internet-pid-cas-vidklucen-svitla-poradi-operatoriv-zvazku-na-volini",
-          "title": "Як залишатися на зв'язку і мати безперебійний інтернет під час відключень світла: поради операторів зв'язку на Волині",
-          "published_at": "2026-10-25T19:25:03+00:00"
+          "url": "https://suspilne.media/lutsk/1437295-volinanina-pidozruut-u-nezakonnomu-perepravlenni-colovikiv-u-es",
+          "title": "Волинянина підозрюють у незаконному переправленні чоловіків у ЄС",
+          "published_at": "2026-10-26T14:34:48+00:00"
+        },
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/na-volyni-zatrymaly-pidozriuvanoho-u-perepravlenni-cholovikiv",
+          "title": "На Волині затримали підозрюваного у переправленні чоловіків",
+          "published_at": "2026-10-26T15:08:08+00:00"
+        },
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/na-volyni-policzejski-zatrymaly-pidozryuvanogo-v-organizacziyi-nezakonnogo-perepravlennya-cholovikiv-za-kordon",
+          "title": "На Волині поліцейські затримали підозрюваного в організації незаконного переправлення чоловіків за кордон",
+          "published_at": "2026-10-26T19:17:32+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-volyn-c-fe889dcff18ee70b.mp3",
-      "duration_sec": 6.58,
+      "audio": "editions/2026-10-26/audio/local-volyn-c-3400776752cdbc56.mp3",
+      "duration_sec": 9.06,
       "sound": null
     },
     {
-      "id": "local-volyn-c-e78e1c3ca8912484",
+      "id": "local-volyn-c-46bce5ae754b936b",
       "kind": "story",
       "block": "local:volyn",
       "region": "volyn",
-      "title": "Солдата з Волині нагородили медаллю «За поранення»",
+      "title": "У Луцьку попрощалися з захисником Артемом Тютюнником",
       "topics": [
         "Війна та безпека",
-        "Політика"
+        "Суспільство"
       ],
       "must_include": false,
       "text": [
-        "Солдата в запасі Олександра Копитка нагородили відзнакою Міністра оборони України – медаллю «За поранення»."
+        "У Луцькому кафедральному соборі Святої Трійці відбулось прощання з 29-річним загиблим військовослужбовцем Артемом Тютюнником.",
+        "Він загинув на Харківщині 16 жовтня."
       ],
       "sources": [
         {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1437131-u-lucku-poprosalisa-z-zahinikom-artemom-tutunnikom",
+          "title": "У Луцьку попрощалися з захисником Артемом Тютюнником",
+          "published_at": "2026-10-26T14:08:23+00:00"
+        },
+        {
           "name": "Волинь Оnline",
-          "url": "https://volynonline.com/soldata-z-volyni-nagorodyly-medallyu-za-poranennya",
-          "title": "Солдата з Волині нагородили медаллю «За поранення»",
-          "published_at": "2026-10-26T10:07:21+00:00"
+          "url": "https://volynonline.com/u-luczku-poproshhalysya-iz-zahysnykom-ukrayiny-artemom-tyutyunnykom",
+          "title": "У Луцьку попрощалися із захисником України Артемом Тютюнником",
+          "published_at": "2026-10-26T20:16:37+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-volyn-c-e78e1c3ca8912484.mp3",
-      "duration_sec": 6.61,
+      "audio": "editions/2026-10-26/audio/local-volyn-c-46bce5ae754b936b.mp3",
+      "duration_sec": 11.13,
       "sound": null
     },
     {
-      "id": "local-volyn-c-5b1ea7673aa14dc1",
+      "id": "local-volyn-c-35f852628415ff4f",
       "kind": "story",
       "block": "local:volyn",
       "region": "volyn",
-      "title": "У Луцьку відновили рух тролейбусів за двома маршрутами",
+      "title": "Пенсіонера та вчителя фізкультури з Волині суд визнав винним у розбещені семикласниці",
       "topics": [
+        "Політика",
         "Економіка"
       ],
       "must_include": false,
       "text": [
-        "Тролейбуси за двома маршрутами знову курсують."
+        "Пенсіонера і вчителя фізкультури ліцею у селі Суходоли визнали винним у розбещені семикласниці.",
+        "Дівчина намагадась втекти, а він її не вілпускав."
       ],
       "sources": [
         {
-          "name": "Волинь Оnline",
-          "url": "https://volynonline.com/u-luczku-vidnovyly-ruh-trolejbusiv-za-dvoma-marshrutamy-2",
-          "title": "У Луцьку відновили рух тролейбусів за двома маршрутами",
-          "published_at": "2026-10-25T21:00:56+00:00"
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1437185-pensionera-ta-vcitela-fizkulturi-z-volini-sud-viznav-vinnim-u-rozbeseni-semiklasnici",
+          "title": "Пенсіонера та вчителя фізкультури з Волині суд визнав винним у розбещені семикласниці",
+          "published_at": "2026-10-26T16:05:58+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-volyn-c-5b1ea7673aa14dc1.mp3",
-      "duration_sec": 3.66,
+      "audio": "editions/2026-10-26/audio/local-volyn-c-35f852628415ff4f.mp3",
+      "duration_sec": 9.09,
       "sound": null
     },
     {
@@ -1079,29 +1225,16 @@
       "kind": "story",
       "block": "local:khmelnytskyi",
       "region": "khmelnytskyi",
-      "title": "Пошкоджено об'єкт енергетики та житлові будинки: наслідки чергової російської атаки на Хмельниччину 25 жовтня",
+      "title": "Росіяни атакували об’єкт енергетики на Хмельниччині, є аварійні відключення світла",
       "topics": [
         "Війна та безпека",
         "Економіка"
       ],
       "must_include": false,
       "text": [
-        "Сьогодні, 25 жовтня, під час повітряної тривоги на Хмельниччині було чути звуки вибухів.",
-        "Внаслідок атаки пошкоджено об'єкт енергетики та житлові будинки у Кам'янець-Подільському районі."
+        "У Кам’янець-Подільському районі Хмельницької області війська РФ атакували об’єкт енергетики, що призвело до аварійних відключень електрики."
       ],
       "sources": [
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/khmelnytskiy/1436347-vibuhi-25-zovtna-na-hmelniccini-so-vidomo",
-          "title": "Пошкоджено об'єкт енергетики та житлові будинки: наслідки чергової російської атаки на Хмельниччину 25 жовтня",
-          "published_at": "2026-10-25T18:19:35+00:00"
-        },
-        {
-          "name": "Є",
-          "url": "https://ye.ua/syspilstvo/80854_Vnaslidok_povitryanoyi_ataki_u_Kam_yanec_Podilskomu_rayoni_poshkodzheno_ob_yekt_energetiki.html",
-          "title": "Внаслідок повітряної атаки у Кам'янець-Подільському районі пошкоджено об'єкт енергетики",
-          "published_at": "2026-10-25T19:45:21+00:00"
-        },
         {
           "name": "Букви",
           "url": "https://bukvy.org/rosiyany-atakuvaly-ob-yekt-energetyky-pid-kam-yantsem-podilskym",
@@ -1128,58 +1261,65 @@
         }
       ],
       "audio": "editions/2026-10-26/audio/local-khmelnytskyi-c-137573f63375a8b1.mp3",
-      "duration_sec": 11.39,
+      "duration_sec": 8.8,
       "sound": null
     },
     {
-      "id": "local-khmelnytskyi-c-9cc55b00f8896e92",
+      "id": "local-khmelnytskyi-c-177d6fc41f0ada93",
       "kind": "story",
       "block": "local:khmelnytskyi",
       "region": "khmelnytskyi",
-      "title": "Пережив Другу світову війну та евакуацію: історія 100-річного Ісаака Веретіна з Хмельницького",
+      "title": "Бігун із Німеччини присвятив забіг у Хмельницькому пам'яті полеглого бійця Олексія Осадчого",
       "topics": [
-        "Війна та безпека"
+        "Міжнародне"
       ],
       "must_include": false,
       "text": [
-        "Ісаак Веретін — 100-річний корінний житель Хмельницького.",
-        "Чоловік пережив Другу світову війну та евакуацію, а зараз полюбляє гуляти рідним містом та пригадувати минуле."
+        "Німецький бігун Свен, який живе неподалік Фрайбурга, присвятив свою участь у забігу в Хмельницькому пам'яті українського військовослужбовця Олексія Осадчого.",
+        "Чоловік загинув 12 квітня 2026 року на Донеччині."
       ],
       "sources": [
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/khmelnytskiy/1435013-pereziv-drugu-svitovu-vijnu-ta-evakuaciu-istoria-100-ricnogo-isaaka-veretina-z-hmelnickogo",
-          "title": "Пережив Другу світову війну та евакуацію: історія 100-річного Ісаака Веретіна з Хмельницького",
-          "published_at": "2026-10-25T16:00:00+00:00"
+          "url": "https://suspilne.media/khmelnytskiy/1436869-bigun-iz-nimeccini-prisvativ-zabig-u-hmelnickomu-pamati-poleglogo-bijca-oleksia-osadcogo",
+          "title": "Бігун із Німеччини присвятив забіг у Хмельницькому пам'яті полеглого бійця Олексія Осадчого",
+          "published_at": "2026-10-26T16:30:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-khmelnytskyi-c-9cc55b00f8896e92.mp3",
-      "duration_sec": 10.29,
+      "audio": "editions/2026-10-26/audio/local-khmelnytskyi-c-177d6fc41f0ada93.mp3",
+      "duration_sec": 13.45,
       "sound": null
     },
     {
-      "id": "local-khmelnytskyi-c-e1d71c60de68682b",
+      "id": "local-khmelnytskyi-c-a79f982ea1ed7642",
       "kind": "story",
       "block": "local:khmelnytskyi",
       "region": "khmelnytskyi",
-      "title": "У Хмельницькому в аварії постраждав 52-річний мотоцикліст",
+      "title": "«Надіялись зустріти з почестями після війни»: із В'ячеславом Ткаченком і Михайлом Троцишиним попрощалися у Хмельницькому",
       "topics": [
         "Війна та безпека"
       ],
       "must_include": false,
       "text": [
-        "Чоловік зіткнувся з автомобілем на вулиці Степана Бандери."
+        "Сьогодні, 26 жовтня, у Хмельницькому попрощалися із загиблими військовослужбовцями 38-річним В'ячеславом Ткаченком та 37-річним Михайлом Троцишиним.",
+        "Поховали героїв на Алеї Слави у мікрорайоні Ракове."
       ],
       "sources": [
         {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1436993-nadialis-zustriti-z-pocestami-pisla-vijni-iz-vaceslavom-tkacenkom-i-mihajlom-trocisinim-poprosalisa-u-hmelnickomu",
+          "title": "«Надіялись зустріти з почестями після війни»: із В'ячеславом Ткаченком і Михайлом Троцишиним попрощалися у Хмельницькому",
+          "published_at": "2026-10-26T15:30:00+00:00"
+        },
+        {
           "name": "Є",
-          "url": "https://ye.ua/cruminal/80858_U_Hmelnickomu_v_avariyi_postrazhdav_52_richniy_motociklist.html",
-          "title": "У Хмельницькому в аварії постраждав 52-річний мотоцикліст",
-          "published_at": "2026-10-26T10:07:59+00:00"
+          "url": "https://ye.ua/syspilstvo/80863_U_Hmelnickomu_v_ostannyi_zemnu_dorogu_proveli_Vyacheslava_Tkachenka_ta_Mihayla_Trocishina.html",
+          "title": "У Хмельницькому в останню земну дорогу провели Вячеслава Ткаченка та Михайла Троцишина",
+          "published_at": "2026-10-26T16:33:50+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-khmelnytskyi-c-e1d71c60de68682b.mp3",
-      "duration_sec": 4.1,
+      "audio": "editions/2026-10-26/audio/local-khmelnytskyi-c-a79f982ea1ed7642.mp3",
+      "duration_sec": 13.69,
       "sound": null
     },
     {
@@ -1199,7 +1339,7 @@
       "sound": null
     },
     {
-      "id": "local-zakarpattia-c-a1c9d0d9954aba5c",
+      "id": "local-zakarpattia-c-7ee4cdc1eb852a61",
       "kind": "story",
       "block": "local:zakarpattia",
       "region": "zakarpattia",
@@ -1219,62 +1359,69 @@
           "url": "https://zaholovok.com.ua/na-vynohradivshchyni-sohodni-proshchayutsya-iz-polehlym-voyinom-oleksandrom-pakhotoyu",
           "title": "На Виноградівщині сьогодні прощаються із полеглим воїном Олександром Пахотою",
           "published_at": "2026-10-26T07:27:38+00:00"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/u-vynohradovi-poproshchayutsya-iz-viyskovym-mykhaylom-kukulem",
+          "title": "У Виноградові попрощаються із військовим Михайлом Кукулем",
+          "published_at": "2026-10-26T12:54:06+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-a1c9d0d9954aba5c.mp3",
+      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-7ee4cdc1eb852a61.mp3",
       "duration_sec": 16.74,
       "sound": null
     },
     {
-      "id": "local-zakarpattia-c-3bf071fe46e76457",
+      "id": "local-zakarpattia-c-c04fa718f28bdd46",
       "kind": "story",
       "block": "local:zakarpattia",
       "region": "zakarpattia",
-      "title": "Скільки на Закарпатті пенсіонерів та який середній розмір пенсії",
+      "title": "Скільки коштує оренда житла у Мукачеві: ціни на одно- та двокімнатні квартири",
       "topics": [
-        "Політика",
-        "Економіка"
+        "Економіка",
+        "Суспільство"
       ],
       "must_include": false,
       "text": [
-        "Упродовж року в регіоні провели п’ять основних масових перерахунків пенсій відповідно до вимог законодавства та урядових рішень."
+        "У Мукачеві за останні місяці оренда житла зросла на 10-20%.",
+        "Попит перевищує пропозицію, а ціни ускладнюють пошук квартир для переселенців і місцевих жителів."
       ],
       "sources": [
         {
           "name": "PMG.ua",
-          "url": "https://pmg.ua/economy/143854-skilky-na-zakarpatti-pensioneriv-ta-iakyy-seredniy-rozmir-pensiyi",
-          "title": "Скільки на Закарпатті пенсіонерів та який середній розмір пенсії",
-          "published_at": "2026-10-25T18:21:38+00:00"
+          "url": "https://pmg.ua/economy/143857-skilky-koshtuye-orenda-zhytla-u-mukachevi-tsiny-na-odno-ta-dvokimnatni-kvartyry",
+          "title": "Скільки коштує оренда житла у Мукачеві: ціни на одно- та двокімнатні квартири",
+          "published_at": "2026-10-26T14:58:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-3bf071fe46e76457.mp3",
-      "duration_sec": 8.02,
+      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-c04fa718f28bdd46.mp3",
+      "duration_sec": 10.71,
       "sound": null
     },
     {
-      "id": "local-zakarpattia-c-13904a088c4a6218",
+      "id": "local-zakarpattia-c-5d316be47d4c4d7b",
       "kind": "story",
       "block": "local:zakarpattia",
       "region": "zakarpattia",
-      "title": "Чотири тисячі пачок сигарет без акцизних марок виявили прикордонники у вантажному потязі на Закарпатті",
+      "title": "Приготувати борщ в Ужгороді: які ціни на продукти та прогнози експертів",
       "topics": [
         "Економіка"
       ],
       "must_include": false,
       "text": [
-        "У пункті пропуску «Павлово» прикордонники Чопського загону виявили 4000 пачок сигарет без марок акцизного податку України.",
-        "Їх сховали у вантажі потяга, який прямував зі Закарпаття до Словаччини."
+        "Приготування каструлі борщу об’ємом 4-5 літрів для родини з 4–5 осіб обійдеться ужгородцям у понад 400 гривень.",
+        "Такі витрати на основні інгредієнти зафіксували під час закупів на центральному ринку міста."
       ],
       "sources": [
         {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/uzhhorod/1436573-cotiri-tisaci-pacok-sigaret-bez-akciznih-marok-viavili-prikordonniki-u-vantaznomu-potazi-na-zakarpatti",
-          "title": "Чотири тисячі пачок сигарет без акцизних марок виявили прикордонники у вантажному потязі на Закарпатті",
-          "published_at": "2026-10-25T15:10:04+00:00"
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/life/143858-skilky-koshtuye-pryhotuvaty-borshch-v-uzhhorodi-tsiny-na-produkty-ta-prohnozy-ekspertiv",
+          "title": "Приготувати борщ в Ужгороді: які ціни на продукти та прогнози експертів",
+          "published_at": "2026-10-26T14:17:00+00:00"
         }
       ],
-      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-13904a088c4a6218.mp3",
-      "duration_sec": 12.46,
+      "audio": "editions/2026-10-26/audio/local-zakarpattia-c-5d316be47d4c4d7b.mp3",
+      "duration_sec": 13.27,
       "sound": null
     },
     {
