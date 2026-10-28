@@ -1,9 +1,587 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-27T21:18:56+00:00",
+  "generated_at": "2026-10-28T01:21:13+00:00",
   "source_count": 124,
-  "item_count": 2940,
+  "item_count": 2991,
   "items": [
+    {
+      "id": "e91b397144f96d96",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/27/776608_golovne_vivtorok_27_zhovtnya.html",
+      "title": "Головне за вівторок, 27 жовтня: атаки на Дніпро та Харків, майже 180 боєзіткнень, меморандум між урядом і таксистами",
+      "published_at": "2026-10-27T21:59:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:59:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Бойові дії на Донеччині, 178 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1707-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "253ec731b2489fb2",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4178782-v-odesi-zatrimali-studenta-pidozruvanogo-u-pidgotovci-diversij-i-provokacij-na-zamovlenna-rf.html",
+      "title": "В Одесі затримали студента, підозрюваного у підготовці диверсій і провокацій на замовлення РФ",
+      "published_at": "2026-10-27T21:58:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Служба безпеки України затримала в Одесі 21-річного студента, якого підозрюють у зборі розвідданих для підготовки диверсій та плануванні інформаційних провокацій на замовлення спецслужб РФ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "45b072b043a9b46c",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/localgovernment/2026/v-odesi-vdesiatero-skorotili-nanesennia-plastikovoi-rozmitki",
+      "title": "В Одесі вдесятеро скоротили нанесення пластикової розмітки",
+      "published_at": "2026-10-27T21:56:04+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:56:04 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "В Одесі різко скоротили обсяги нанесення пластикової дорожньої розмітки. Якщо у 2022 році на вулицях міста нанесли 41,5 км такої розмітки, то у 2026 році цей показник поки становить лише 4 км",
+      "categories": [
+        "Одеса",
+        "Одеська міська рада",
+        "Постійні комісії",
+        "депутат"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6c08402117c296b6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/kubok-ukrajini-shahtar-peremig-dinamo-dmitro-riznik-vislovivsya-pro-rozgrom-50653961.html",
+      "title": "«Вилучення полегшило гру, але це Динамо». Голкіпер Шахтаря Різник прокоментував розгром у Класичному",
+      "published_at": "2026-10-27T21:54:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:54:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У вівторок, 27 жовтня, донецький Шахтар переміг Динамо (3:0) в 1/8 фіналу Кубка України.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ea18d80b3ddbc149",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/27/776602_seredu_ukrayini_podekudi.html",
+      "title": "В середу в Україні подекуди дощитиме, повітря прогріється до +17°",
+      "published_at": "2026-10-27T21:52:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:52:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "В Карпатах місцями туман.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3b3475b5328efd5b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/273299-rosiiany-vdaryly-po-zytlovomu-budynku-u-kharkovi-sered-postrazdalykh-4-richna-dytyna",
+      "title": "росіяни вдарили по житловому будинку у Харкові — серед постраждалих 4-річна дитина",
+      "published_at": "2026-10-27T21:48:00+00:00",
+      "published_raw": "2026-10-27T23:48:00+02:00",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8224ef5dd4244d58",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/27/776598_rosiyani_vdarili.html",
+      "title": "Росіяни вдарили по багатоповерхівці в Харкові: є постраждалі (оновлено)",
+      "published_at": "2026-10-27T21:46:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:46:00 +0200",
+      "fetched_at": "2026-10-27T21:18:56+00:00",
+      "description": "За попередніми даними, в будинку заблоковані люди.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c55a4e0cdd46336f",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/mer-oslo-zaklykala-zaboronyty-v-yizd-rosijskym-lyzhnykam-na-kubok-svitu",
+      "title": "Мер Осло закликала заборонити в’їзд російським лижникам на Кубок світу",
+      "published_at": "2026-10-27T21:45:56+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:45:56 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Міська голова Осло Анне Ліндбу закликала уряд Норвегії заборонити в’їзд російським спортсменам, які можуть виступити на етапах Кубка світу з лижних видів спорту в Голменколлені в сезоні 2026/27. Запис Мер Осло закликала заборонити в’їзд російським лижникам на Кубок світу спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "заборона вʼїзду",
+        "кубок світу",
+        "Осло"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cf28ff75f228e40d",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/10/27/rosiyani-vdarili-po-bagatopoverhivtsi-u-harkovi-sered-postrazhdalih-ditina",
+      "title": "Росіяни вдарили по багатоповерхівці у Харкові, серед постраждалих – дитина",
+      "published_at": "2026-10-27T21:45:48+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:45:48 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Росіяни атакували БпЛА багатоповерхівку в Основ’янському районі Харкова, повідомив начальник ХОВА Олег Синєгубов. Доповнено о...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "90cc5a4e8c7b39e2",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4178778-rosiani-vdarili-po-bagatopoverhivci-u-harkovi-e-postrazdali.html",
+      "title": "Росіяни вдарили по двоповерхівці у Харкові - четверо постраждалих",
+      "published_at": "2026-10-27T21:45:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:45:00 +0200",
+      "fetched_at": "2026-10-27T21:18:56+00:00",
+      "description": "Російські війська вдарили по багатоквартирному будинку в Основ’янському районі Харкова. Четверо людей постраждали.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "021097de3a0b0432",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-genshtab-zsu-vechirne-zvedennja/33885466.html",
+      "title": "На фронті відбулося 178 боїв з початку доби – Генштаб ЗСУ",
+      "published_at": "2026-10-27T21:44:50+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:44:50 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Американський Інститут вивчення війни (ISW) у звіті за 14 жовтня писав, що українська операція «Вівальді» спричинила каскадний ефект для російських операцій на північ від Лиману в напрямку Борової, одночасно гальмуючи російські спроби просунутися до Слов’янська і Краматорська зі сходу",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "52f7ef7f742a90b9",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/10/27/rosijskij-bezpilotnik-znovu-vdariv-po-osnov-yanskomu-rajonu-harkova",
+      "title": "Російський безпілотник знову вдарив по Основ’янському району Харкова",
+      "published_at": "2026-10-27T21:43:15+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:43:15 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "На місці влучання велика пожежа. Відомо вже про чотирьох постраждалих, серед яких 4-річна дитина.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c08921ac635d9472",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1227037.html",
+      "title": "Валерій Копійка переміг на виборах ректора КНУ ім. Шевченка",
+      "published_at": "2026-10-27T21:42:07+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:42:07 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "На виборах ректора Київського національного університету імені Тараса Шевченка, які відбулися 27 жовтня, переміг голова Вченої ради вишу Валерій Копійка.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7456ea6e0f2f3ab7",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/27/776600_vibori_izrayili_zyavilis_pershi.html",
+      "title": "Вибори в Ізраїлі: з'явились перші результати екзитполів",
+      "published_at": "2026-10-27T21:42:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:42:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Партія Нетаньягу посідає перше місце, однак не набирає більшості.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c2637d48d3b328fb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1438585-uhim-konopla-vperse-vijsov-u-startovomu-skladi-borussii-menhengladbah-ak-zigrav-ukrainec",
+      "title": "Юхим Конопля вперше вийшов у стартовому складі «Боруссії» Менхенгладбах: як зіграв українець",
+      "published_at": "2026-10-27T21:41:35+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:41:35 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Юхим Конопля: український захисник «Боруссії» Менхенгладбах, матч Кубка Німеччини, як зіграв український футболіст, результат поєдинку",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "30979b13a4211aa7",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/kubok-angliyskoji-ligi-match-flitvud-taun-ta-arsenal-zupinili-cherez-dron-50653958.html",
+      "title": "Через дрон над стадіоном зупинили матч Арсенала в Кубку англійської ліги — відео",
+      "published_at": "2026-10-27T21:41:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:41:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Матч 1/8 фіналу Кубку англійської ліги між Флітвуд Таун та Арсеналом призупинили вже на другій хвилині через дрон, який помітили над стадіоном клубу з четвертого дивізіону країни.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "221c3fd7e309eee0",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/zasudzhenoho-v-ukrajini-eksdeputata-svjatasha-zatrimali-u-shvetsiji.html",
+      "title": "Засудженого в Україні ексдепутата Святаша затримали у Швеції",
+      "published_at": "2026-10-27T21:40:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:40:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Колишній народний депутат прибув до Стокгольма на концерт Стіві Вандера, однак йому відмовили у в’їзді.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f45c74b9a03986fc",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/27/novyna/suspilstvo/rosiyany-vdaryly-po-bahatopoverxivczi-xarkovi-ye-postrazhdali",
+      "title": "Росіяни вдарили по багатоповерхівці у Харкові, є постраждалі",
+      "published_at": "2026-10-27T21:38:43+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:38:43 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Ввечері 27 жовтня російські окупанти завдали удару по багатоквартирному будинку в Харкові, у будівлі є заблоковані люди. Щонайменше трьом мирним мешканцям знадобилася допомога медиків.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b413991cc6b68706",
+      "source_id": "map-645",
+      "source": "CBN",
+      "geography": "regional",
+      "source_region": "kirovohrad",
+      "url": "https://cbn.com.ua/news/na-viini-z-rf-zahynuly-shestero-viiskovykh-iz-kirovohradshchyny",
+      "title": "На війні з рф загинули шестеро військових із Кіровоградщини",
+      "published_at": "2026-10-27T21:35:15+00:00",
+      "published_raw": "Tue, 27 Oct 26 23:35:15 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "На війні з росією загинули шестеро військових з Кіровоградської області: Сергій Плешаков з Олександрійської громади, Олександр Павленко з Компаніївської, Роман Безноско з Перегонівської, Дмитро Ляшенко із Соколівської, Максим Громов зі Знам’янської та Владислав Третяк із Голованівської громади.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0b5605d1c93791c4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/tramp-zaproponuvav-zrobiti-venesuelu-51-m-shtatom-ssha-reakciya-venesueli-50653967.html",
+      "title": "Трамп запропонував зробити Венесуелу 51-м штатом США",
+      "published_at": "2026-10-27T21:32:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:32:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Президент США Дональд Трамп запропонував включити Венесуелу до складу Сполучених Штатів як 51-й штат. Замість президента країни, за його задумом, обирали б губернатора.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0e704fa4e1fdb133",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1438595-vnaslidok-avarii-travmuvalis-dva-pidlitka-v-pervomajsku-policia",
+      "title": "Внаслідок аварії травмувались двоє підлітків в Первомайську — поліція",
+      "published_at": "2026-10-27T21:31:13+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:31:13 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У Первомайську, що на Миколаївщині, зназнали травм неповнолітні водій та пасажир мотоцикла. Аварія трапилась 27 жовтня за участі легковика та мототранспорту",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "26e278c8d6964ddc",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/273298-partiia-netaniahu-lidyruye-na-parlamentskykh-vyborakh-v-izrayili-odnak-zoden-iz-blokiv-ne-maye-bilshosti-ekzytpoly",
+      "title": "Партія Нетаньягу лідирує на парламентських виборах в Ізраїлі, однак жоден із блоків не має більшості — екзитполи",
+      "published_at": "2026-10-27T21:31:00+00:00",
+      "published_raw": "2026-10-27T23:31:00+02:00",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2d4050a2762fb05f",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/popscience/problema-tomsona-vcheni-vpershe-vizualizuvali-roztashuvannya-zaryadiv-na-sferi-50653842.html",
+      "title": "Столітня математична загадка. Науковці візуалізували проблему Томсона за допомогою золота та гелію",
+      "published_at": "2026-10-27T21:31:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:31:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Дослідники з Інсбруцького університету фізично втілили абстрактну математичну задачу Томсона. За допомогою нанокрапель надплинного гелію та частинок золота вчені вперше зафіксували точне розташування електричних зарядів на сфері.",
+      "categories": [
+        "Техно/Наукпоп"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b8265564ef3012f6",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4178780-u-radi-evropi-predstavili-doslidzenna-pro-vpliv-vijni-na-politicnu-ucast-ukrainok.html",
+      "title": "У Раді Європи представили дослідження про вплив війни на політичну участь українок",
+      "published_at": "2026-10-27T21:30:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:30:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Повномасштабна війна посилила бар’єри для участі жінок у місцевій політиці України. Частина депутаток складає мандати, проте продовжує працювати для громад через волонтерство та громадські організації. Такі висновки дослідження представили 27 жовтня на полях 51-ї сесії Конгресу місцевих і регіональних влад Ради Європи.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8bedd06914e7347b",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/google-deepmind-predstavila-genie-4-si-model-dlya-stvorennya-interaktivnix-svitiv-p23n7r",
+      "title": "Google DeepMind представила Genie 4 — ШІ-модель для створення інтерактивних світів",
+      "published_at": "2026-10-27T21:30:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:30:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Google DeepMind представила Genie 4 — нову модель для генерації інтерактивних світів, які реагують на дії користувачів. Модель запустили у форматі дослідницького попереднього перегляду, повідомляє TechCrunch.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c744ca746d64d9e7",
+      "source_id": "map-588",
+      "source": "Накипіло",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://nakypilo.ua/novyny/cherez-udar-po-zhytlovomu-budynku-v-kharkovi-postrazhdaly-liudy",
+      "title": "Через удар по житловому будинку в Харкові постраждали люди",
+      "published_at": "2026-10-27T21:29:02+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:29:02 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Оновлено 23:52. Пізно ввечері 27 жовтня російські військові вдарили по Основ‘янському району Харкова. Постраждали вже пʼятеро людей. Серед…",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "efe608542dc438ed",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/tramp-hrestomatiyniy-huligan-pro-knigu-hristi-friland-nenadiyniy-hlopec-50653549.html",
+      "title": "Що написала про президента США Христя Фріланд у книзі",
+      "published_at": "2026-10-27T21:26:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:26:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Ексвіцепрем’єрка та міністерка з багаторічним досвідом роботи в уряді Канади Христя Фріланд написала нову книжку з назвою Ненадійний хлопець (Unreliable Boyfriend). Свіженька, вийшла у жовтні",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8187f6bc07545d51",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438591-rezim-tisi-dla-gumanitarnoi-misii-v-oleskah-na-vulicah-hersona-pobilsalo-ludej-video",
+      "title": "Режим тиші для гуманітарної місії в Олешках: на вулицях Херсона побільшало людей (Відео)",
+      "published_at": "2026-10-27T21:24:21+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:24:21 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У перший день режиму тиші в Херсоні медики до 13:00 не отримали викликів через обстріли й атаки дронів. Комунальники й містяни розповіли, що змінилося",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55f25fb99832ac34",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131310-poslidovnist-politiki-shchodo-rosiji-postupilas-miscem-gnuchkosti-svitovi-media-pro-rosiysko-ukrajinsku-viynu-27-zhovtnya",
+      "title": "«Послідовність політики щодо Росії поступилась місцем гнучкості». Світові медіа про російсько-українську війну 27 жовтня",
+      "published_at": "2026-10-27T21:23:23+00:00",
+      "published_raw": "Tue, 27 Oct 26 23:23:23 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "069daf31bfd5e3eb",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/dinamo-zaznaye-rozgromu-vid-shahtarya-v-kubku-ukrajini-obolon-vidreaguvala-u-threads-50653957.html",
+      "title": "«Чи зможемо гідно представити Київ?». Український клуб потролив Динамо після поразки від Шахтаря",
+      "published_at": "2026-10-27T21:23:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:23:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У межах 1/8 фіналу Кубка України Динамо зазнало розгромної поразки від Шахтаря — 0:3.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3ac9b323ecd144a4",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/jevropa-shukaje-sposobi-zmenshiti-tekhnolohichnu-zalezhnist-vid-ssha-pislja-obmezhennja-starlink-v-ukrajini.html",
+      "title": "Європа шукає способи зменшити технологічну залежність від США після обмеження Starlink в Україні",
+      "published_at": "2026-10-27T21:21:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:21:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Союзники обговорюють власні мережі зв’язку й нових постачальників, але швидкої заміни поки немає.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "d68d7202bf037ad9",
       "source_id": "map-875",
@@ -172,6 +750,27 @@
         "Миколаїв",
         "Постійні комісії",
         "депутат"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9992c37a0614757b",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/za-mynulyj-tyzhden-rf-zarobyla-2-76-mlrd-na-eksporti-nafty-bloomberg",
+      "title": "За минулий тиждень РФ заробила $2,76 млрд на експорті нафти — Bloomberg",
+      "published_at": "2026-10-27T21:16:35+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:16:35 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Джерело: Bloomberg За тиждень, що завершився 25 жовтня, вартість морського експорту російської нафти сягнула 2,76 млрд... Запис За минулий тиждень РФ заробила $2,76 млрд на експорті нафти — Bloomberg спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "екпорт нафти",
+        "російська нафта"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -414,6 +1013,23 @@
       "status": "new"
     },
     {
+      "id": "affbd41cd9cd46d9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1438543-sturmoviki-pokazali-zacistku-selisa-mala-dibrova",
+      "title": "Штурмовики показали зачистку селища Мала Діброва",
+      "published_at": "2026-10-27T21:13:52+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:13:52 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "ійці 53 ОМБр та 3-го армійського корпусу провели пошуково-ударні дії та зачистили Малу Діброву від російських військ. Наразі рубежі у селищі тримає 117-та бригада ТрО",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "83ba9b2209eb4cd0",
       "source_id": "map-258",
       "source": "Радіо Свобода Україна",
@@ -428,6 +1044,25 @@
       "categories": [
         "Новини | Події",
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cc2c3724da57b46d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/vidnosini-serbiji-ta-yes-shimkevich-prognozuye-novi-skladnoshchi-pislya-viboriv-50653880.html",
+      "title": "Після перемомоги Студентського списку на виборах у відносинах Сербії та ЄС будуть складнощі - аналітикиня",
+      "published_at": "2026-10-27T21:13:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:13:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Експертка Аналітичного центру балканських досліджень Катерина Шимкевич в інтерв'ю Radio NV прогнозує складнощі у відносинах Сербії та Євросоюзу після перемоги на виборах у цій країні Студентського списку.",
+      "categories": [
+        "Світ/Геополітика"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -456,25 +1091,6 @@
       "status": "new"
     },
     {
-      "id": "90cc5a4e8c7b39e2",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4178778-rosiani-vdarili-po-bagatopoverhivci-u-harkovi-e-postrazdali.html",
-      "title": "Росіяни вдарили по багатоповерхівці у Харкові - є постраждалі",
-      "published_at": "2026-10-27T21:10:00+00:00",
-      "published_raw": "Tue, 27 Oct 2026 23:10:00 +0200",
-      "fetched_at": "2026-10-27T21:18:56+00:00",
-      "description": "Російські війська вдарили по багатоквартирному будинку в Основ’янському районі Харкова. Попередньо є постраждалі.",
-      "categories": [
-        "Регіони"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "0420715a03a7b26b",
       "source_id": "map-902",
       "source": "Одеське життя",
@@ -491,6 +1107,42 @@
         "Статьи",
         "права человека"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "04d016f480370cd3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/rozmova-putina-z-liderami-finlyandiji-ta-norvegiji-diktator-pro-istoriyu-zamist-peregovoriv-50653960.html",
+      "title": "«Читав „лекцію“ про давніх слов’ян». Путін під час розмови зі Стуббом і Стьоре не обговорював припинення вогню — FT",
+      "published_at": "2026-10-27T21:08:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:08:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Диктатор РФ Володимир Путін більшу частину телефонної розмови з президентом Фінляндії Александром Стуббом і прем'єр-міністром Норвегії Йонасом Гаром Стьоре читав їм «лекцію» про середньовічну історію давніх слов’ян.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8892aa88241e7beb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1437601-rosijska-muzika-v-kafe-na-zitomirsini-policia-sklala-protokol",
+      "title": "Російська музика в кафе на Житомирщині — поліція склала протокол",
+      "published_at": "2026-10-27T21:07:59+00:00",
+      "published_raw": "Tue, 27 Oct 2026 23:07:59 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "На Житомирщині поліцейські склали протокол на відповідальних осіб кафе «Світанок» у Хорошеві за те, що у цьому закладі лунала російська музика",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -601,25 +1253,6 @@
       "status": "new"
     },
     {
-      "id": "8224ef5dd4244d58",
-      "source_id": "lb",
-      "source": "LB.ua",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://lb.ua/society/2026/10/27/776598_rosiyani_vdarili.html",
-      "title": "Росіяни вдарили по багатоповерхівці в Харкові: є постраждалі",
-      "published_at": "2026-10-27T21:06:00+00:00",
-      "published_raw": "Tue, 27 Oct 2026 23:06:00 +0200",
-      "fetched_at": "2026-10-27T21:18:56+00:00",
-      "description": "За попередніми даними, в будинку заблоковані люди.",
-      "categories": [
-        "Суспільство"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "eb6efddb24e24c6c",
       "source_id": "nv",
       "source": "NV",
@@ -652,6 +1285,28 @@
       "description": "Науковці з Університету Париж-Сіте провели дослідження, у якому провідні моделі штучного інтелекту виступали в ролі екзаменаторів у зворотних тестах Тюрінга. З’ясувалося, що алгоритми не здатні відрізнити відповіді людини від відповідей іншого ШІ.",
       "categories": [
         "Техно/IT-індустрія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "84eec1525d5e1e95",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/administratsiya-trampa-mozhe-znyaty-sanktsiyi-z-rosijskogo-investytsijnogo-fondu-nyt",
+      "title": "Адміністрація Трампа може зняти санкції з російського інвестиційного фонду— NYT",
+      "published_at": "2026-10-27T21:00:52+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:00:52 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Адміністрація президента США Дональда Трампа розглядає можливість скасування санкцій проти Російського фонду прямих інвестицій (РФПІ), який раніше американська влада вважала одним із ключових інструментів міжнародного впливу кремля. Запис Адміністрація Трампа може зняти санкції з російського інвестиційного фонду— NYT спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "адміністрація Трампа",
+        "зняття санкцій",
+        "санкції проти РФ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -711,6 +1366,29 @@
       "status": "new"
     },
     {
+      "id": "21393d3ad5ef5924",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/vorogh-praghnie-zakhopliennia-odnogho-z-ostannikh-i-naibilshikh-nasielienikh-punktiv-donietskoyi-oblasti",
+      "title": "Ворог прагне захоплення одного з останніх і найбільших населених пунктів Донецької області",
+      "published_at": "2026-10-27T21:00:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:00:00 GMT",
+      "fetched_at": "2026-10-27T21:18:56+00:00",
+      "description": "Ворог не припиняє тиску на Добропілля на Донеччині, ворог пр",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c91e00f2bb9cda57",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -747,24 +1425,18 @@
       "status": "new"
     },
     {
-      "id": "21393d3ad5ef5924",
-      "source_id": "map-397",
-      "source": "Східний Варіант",
-      "geography": "regional",
-      "source_region": "donetsk",
-      "url": "https://v-variant.com.ua/vorogh-praghnie-zakhopliennia-odnogho-z-ostannikh-i-naibilshikh-nasielienikh-punktiv-donietskoyi-oblasti",
-      "title": "Ворог прагне захоплення одного з останніх і найбільших населених пунктів Донецької області",
-      "published_at": "2026-10-27T20:59:19+00:00",
-      "published_raw": "Tue, 27 Oct 2026 20:59:19 GMT",
-      "fetched_at": "2026-10-27T21:18:56+00:00",
-      "description": "Ворог не припиняє тиску на Добропілля на Донеччині, ворог пр",
-      "categories": [
-        "Війна з РФ",
-        "Події",
-        "Донецька область",
-        "Війна",
-        "росія"
-      ],
+      "id": "e6e316c5845202ac",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1438575-pomirala-v-bolu-ta-holodi-na-frankivsini-rozsliduut-smert-olenici-u-zooparku-v-polanici",
+      "title": "«Помирала в болю та холоді». Зоозахисники вимагають розслідування смерті олениці у зоопарку в Поляниці на Франківщині",
+      "published_at": "2026-10-27T20:59:01+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:59:01 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У контактному зоопарку Phoenix Relax Park у Поляниці на Івано-Франківщині померла олениця. Ветеринар відібрав біологічні зразки для встановлення причини смерті після звинувачень у жорстокому поводженні з твариною",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -799,7 +1471,7 @@
       "published_at": "2026-10-27T20:58:00+00:00",
       "published_raw": "Tue, 27 Oct 2026 22:58:00 +0200",
       "fetched_at": "2026-10-27T21:18:56+00:00",
-      "description": "У Харкові зафіксували влучання російських військ у багатоквартирний житловий будинок в Основ’янському районі міста.",
+      "description": "У Харкові внаслідок російського удару зафіксували влучання у багатоквартирний житловий будинок в Основ’янському районі міста.",
       "categories": [
         "Україна/Події"
       ],
@@ -827,6 +1499,27 @@
       "status": "new"
     },
     {
+      "id": "7bcc7fa23e54a009",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/radiodyktant-vpershe-napysaly-v-tsentrah-yednosti-ukrayintsiv-v-troh-krayinah",
+      "title": "Радіодиктант вперше написали в Центрах єдності українців в трьох країнах",
+      "published_at": "2026-10-27T20:57:53+00:00",
+      "published_raw": "Tue, 27 Oct 2026 20:57:53 +0000",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "27 жовтня, у День української писемності та мови, українці долучилися до написання Всеукраїнського радіодиктанту національної єдності. Цього року вперше спільне написання організували в Центрах єдності українців у Берліні, Стокгольмі та Празі. Запис Радіодиктант вперше написали в Центрах єдності українців в трьох країнах спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "всеукраїнський радіодиктант національної єдності",
+        "радіодиктант"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8d8d77dc69371b63",
       "source_id": "map-940",
       "source": "Букви",
@@ -845,6 +1538,23 @@
         "Війна в Україні",
         "евакуація дроном"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6bae586ae20843dc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1438587-rosiani-vdarili-po-budinku-u-harkovi-ludi-zablokovani",
+      "title": "Росіяни вдарили по будинку у Харкові: люди можуть бути заблоковані",
+      "published_at": "2026-10-27T20:57:39+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:57:39 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Ввечері 27 жовтня росіяни атакували багатоквартирний будинок в Основ'янському районі Харкова, повідомив міський голова Ігор Терехов. Є постраждалі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1010,6 +1720,25 @@
         "ai-train": "no",
         "use": "reference"
       },
+      "status": "new"
+    },
+    {
+      "id": "397e220d22d22d4a",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311491-pislya-obmezhen-dlya-zsu-v-indiyi-zaklikayut-zablokuvati-starlink-mask-posvarivsya-z-miscevoyu-vladoyu",
+      "title": "Після обмежень для ЗСУ в Індії закликають заблокувати Starlink — Маск посварився з місцевою владою",
+      "published_at": "2026-10-27T20:48:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:48:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Індійський мільярдер тим часом готує запуск власної мережі з 1650 супутників",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1230,6 +1959,23 @@
       "status": "new"
     },
     {
+      "id": "0e2c9a8cedcf02fd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1438571-praonuk-benito-mussolini-zabiv-persij-gol-u-kareri-v-cempionati-italii-z-futbolu",
+      "title": "Праонук Беніто Муссоліні забив перший гол у кар'єрі в чемпіонаті Італії з футболу",
+      "published_at": "2026-10-27T20:37:35+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:37:35 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Романо Флоріані Муссоліні: праонук ітталійського диктатора Беніто Муссоліні, перший гол в чемпіонаті Італії, гра за італійське «Лаціо»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d984b129ab9a4c02",
       "source_id": "nv",
       "source": "NV",
@@ -1263,6 +2009,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e08bf39138898f04",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1438583-u-harkovi-ta-oblasti-28-zovtna-zastosovuvatimut-grafiki-pogodinnih-vidklucen-rozklad",
+      "title": "У Харкові та області 28 жовтня застосовуватимуть графіки погодинних відключень: розклад",
+      "published_at": "2026-10-27T20:32:38+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:32:38 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Харкові та області 28 жовтня запроваджують графіки погодинних відключень світла через обстріли. Детальний розклад за чергами — Суспільне Харків",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1457,6 +2220,23 @@
       "status": "new"
     },
     {
+      "id": "07e903a14ae0d7ca",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438579-v-izraili-blok-na-coli-z-ajzenkotom-otrimae-bilse-misc-porivnano-z-blokom-cinnogo-premera-netanagu-ekzitpoli",
+      "title": "Вибори в Ізраїлі: ні блок Нетаньягу, ні опозиція не набирають більшості для формування уряду — екзитполи",
+      "published_at": "2026-10-27T20:21:55+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:21:55 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Екзитполи: Лікуд має найбільше місць, блок Айзенкота випереджає блок Нетаньягу, арабські партії — рекордні 17–18 місць. Опозиція заявляє про поразку прем'єра",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "88d2e9f231c257d4",
       "source_id": "map-418",
       "source": "Informer.od.ua",
@@ -1488,6 +2268,23 @@
       "categories": [
         "Новини Чернівців"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c797c39ab2f46016",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1416357-zvilnenna-teritorij-bila-limana-boi-za-kostantinivku-front-doneccini-i-lugansini-28-zovtna-2026-roku",
+      "title": "Звільнення територій біля Лимана, бої за Костянтинівку. Фронт Донеччини і Луганщини 28 жовтня 2026 року",
+      "published_at": "2026-10-27T20:19:47+00:00",
+      "published_raw": "Tue, 27 Oct 2026 22:19:47 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Що відбувається на фронті на Донбасі, бої за міста Донеччини, лінія фронту на Луганщині, дані Генштабу, коментарі військових, відео та фото",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1963,23 +2760,6 @@
       "status": "new"
     },
     {
-      "id": "73de92df43238f8c",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438573-sud-nimeccini-vidmovivsa-zakrivati-spravu-sergia-kuznecova-i-pocav-doslidzuvati-dokazi",
-      "title": "Суд Німеччини відмовився закривати справу Сергія Кузнєцова і почав досліджувати докази",
-      "published_at": "2026-10-27T20:02:28+00:00",
-      "published_raw": "Tue, 27 Oct 2026 22:02:28 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "Суд також повторно відмовив компанії Nord Stream AG у доступі до суду над Сергієм Кузнєцовим як додаткового обвинувача. Ця компанія є офіційним власником газопроводу Північний потік-1",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "d42d241b07fe7de4",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -2233,6 +3013,29 @@
       "status": "new"
     },
     {
+      "id": "ba621ef92a12f88f",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/u-natsghvardiyi-rozpovili-chomu-na-dobropilskomu-napriamku-doniechchini-nie-vdaietsia-zupiniti-prosuvannia-malikh-shturmovikh-vorozhikh",
+      "title": "Блокування малих штурмових груп на Донеччині може загрожувати великими втратами для української сторони, — бригада \"Любарт\" Нацгвардії",
+      "published_at": "2026-10-27T20:00:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 20:00:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Блокування малих груп живої сили ворога може загрожувати в",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c969c5ca315a2056",
       "source_id": "map-258",
       "source": "Радіо Свобода Україна",
@@ -2243,7 +3046,7 @@
       "published_at": "2026-10-27T19:58:54+00:00",
       "published_raw": "Tue, 27 Oct 2026 21:58:54 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "«Твердження Путіна про «один народ» абсолютно хибна. Вона базується на крадіжці» – Лариса Масенко",
+      "description": "«Теза Путіна про «один народ» абсолютно хибна. Вона базується на крадіжці» – Лариса Масенко",
       "categories": [
         "Суспільство",
         "Україна",
@@ -2491,6 +3294,23 @@
       "status": "new"
     },
     {
+      "id": "9aafcd21eb29acb5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1438113-hmarno-ta-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-28-zovtna",
+      "title": "Хмарно та без опадів: прогноз погоди у Донецькій і Луганській областях на 28 жовтня",
+      "published_at": "2026-10-27T19:52:30+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:52:30 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Прогноз погоди на 28 жовтня в Донецькій і Луганській областях. Хмарно, без опадів, температура повітря вдень до +14 °C. Деталі на сайті",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d16b8654766476d5",
       "source_id": "nv",
       "source": "NV",
@@ -2554,7 +3374,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://radiosvoboda.org/a/news-zsu-vidsotokzbyttja-reaktyvnyh-droniv/33885446.html",
-      "title": "«Може складати і 80%» – у ЗСУ заявили про зростання відсотку збиття реактивних дронів",
+      "title": "«Може складати і 80%» – у ЗСУ заявили про зростання відсотка збиття реактивних дронів",
       "published_at": "2026-10-27T19:48:50+00:00",
       "published_raw": "Tue, 27 Oct 2026 21:48:50 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
@@ -2677,8 +3497,8 @@
       "source_region": null,
       "url": "https://ukrinform.ua/rubric-polytics/4178771-zasudzenogo-v-ukraini-do-12-rokiv-eksnardepa-svatasa-zatrimali-v-svecii-kudi-vin-priihav-na-koncert-zmi.html",
       "title": "Засудженого в Україні до 12 років екснардепа Святаша затримали в Швеції, куди він приїхав на концерт - ЗМІ",
-      "published_at": "2026-10-27T19:46:38+00:00",
-      "published_raw": "Tue, 27 Oct 2026 21:46:38 +0200",
+      "published_at": "2026-10-27T19:46:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:46:00 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
       "description": "В Швеції затримали колишнього народного депутата ВР IV-VIII скликань Дмитра Святаша, засудженого в Україні за виправдовування збройної агресії РФ проти України та шахрайство на суму 2,2 млрд грн.",
       "categories": [
@@ -2774,6 +3594,40 @@
       "published_raw": "Tue, 27 Oct 2026 21:44:07 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
       "description": "Олександр Пищур: український нападник «Жирони», дебютний гол у складі іспанської команди, матч Кубка Іспанії з футболу, як зіграв українець",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c52a0e9790418d05",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1438519-gumanitarka-dla-prodazu-na-kiivsini-batka-ta-sina-pidozruut-u-shemi-z-avto-dla-zsu",
+      "title": "«Гуманітарка» для продажу: на Київщині батька та сина підозрюють у схемі з авто для ЗСУ",
+      "published_at": "2026-10-27T19:43:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:43:00 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "На Київщині батька та сина підозрюють у продажі автомобілів, які ввозили під виглядом гуманітарної допомоги для ЗСУ. Слідство задокументувало продаж щонайменше 32 машин на понад 2 млн грн, під час обшуків вилучили ще 48 авто",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9fb4354936b70da1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1438357-stalo-vidomo-pro-smert-dvoh-vijskovih-z-mirnogradskoi-gromadi-na-doneccini",
+      "title": "Стало відомо про смерть двох військових з Мирноградської громади на Донеччині",
+      "published_at": "2026-10-27T19:43:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:43:00 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Мирноградська МВА повідомила про смерть військовослужбовців Михайла Степурка та Олексія Тарана з Донеччини. Що відомо про військових",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -3358,6 +4212,29 @@
         "Соціум",
         "Україна",
         "війна в Україні"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e03304d42ba961df",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/liakh-rozpoviv-chi-budut-zastosovuvati-u-sloviansku-protsieduru-primusovogho-viluchiennia-ditiei-pri-vidmovi-vid-ievakuatsiyi",
+      "title": "Лях розповів, чи будуть застосовувати у Слов'янську процедуру примусового вилучення дітей при відмові від евакуації",
+      "published_at": "2026-10-27T19:30:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 19:30:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У Слов'янську триває обов'язкова евакуація родин із дітьм",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Суспільство",
+        "Донецька область",
+        "Війна"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -4453,6 +5330,23 @@
       "status": "new"
     },
     {
+      "id": "e9d0f0771609d851",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1438487-kerivnika-ekstrenki-ne-vidstoronuvali-na-cas-rozsliduvanna-oblrada",
+      "title": "Керівника екстренки не відсторонили від посади на час розслідування про службову недбалість — Кіровоградська облрада",
+      "published_at": "2026-10-27T19:01:39+00:00",
+      "published_raw": "Tue, 27 Oct 2026 21:01:39 +0200",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Директора Центру екстреної медичної допомоги та медицини катастроф у Кіровоградській області Андрія Табачука не відсторонювали від посади на час досудового розслідування. Про це йдеться у відповіді Кіровоградської облради",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "17a8595d1982246d",
       "source_id": "map-660",
       "source": "Кременчуцький Телеграф",
@@ -4640,6 +5534,29 @@
       "status": "new"
     },
     {
+      "id": "bfa7c92c01689e1d",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/oboviazkova-ievakuatsiia-liakh-povidomiv-shcho-u-rodin-iz-ditmi-ie-dva-misiatsi-shchob-viyikhati-zi-slovianska",
+      "title": "Обов'язкова евакуація: Лях повідомив, що у родин із дітьми є два місяці, щоб виїхати зі Слов'янська",
+      "published_at": "2026-10-27T19:00:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 19:00:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Ворог продовжує атакувати Слов'янськ на Донечині, тому ева",
+      "categories": [
+        "війська рф",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "bc7797d46279a1a9",
       "source_id": "map-586",
       "source": "Вгору",
@@ -4706,6 +5623,23 @@
       "published_raw": "Tue, 27 Oct 2026 20:57:21 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
       "description": "У середу, 28 жовтня, в частині областей України діятимуть погодинні відключення електроенергії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8344e8ef2d7f976f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1438537-persij-radiodiktant-i-poezia-pro-krim-istoria-ulii-askovoi",
+      "title": "Перший радіодиктант і поезія про Крим: історія Юлії Яськової",
+      "published_at": "2026-10-27T18:57:02+00:00",
+      "published_raw": "Tue, 27 Oct 2026 20:57:02 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "Кримчанка Юлія Яськова вперше написала Радіодиктант національної єдності. Історія журналістки та поетки, яка виїхала з окупованого Криму й представлятиме Україну на європейському чемпіонаті з поетичного слему",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -6114,6 +7048,23 @@
       "status": "new"
     },
     {
+      "id": "a1fb3a235839a283",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1438495-indentifikuvali-2500-zagiblih-na-vijni-proti-ukraini-ziteliv-krimu-baza-gruz-200",
+      "title": "Індентифікували 2500 загиблих на війні проти України жителів Криму — база «Груз 200»",
+      "published_at": "2026-10-27T18:24:13+00:00",
+      "published_raw": "Tue, 27 Oct 2026 20:24:13 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "Станом на 27 жовтня 2026 року встановили імена 2500 жителів Криму, які загинули на війні проти України у складі армії РФ. Найбільше загиблих — із Севастополя",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d9b8a3f4971edc19",
       "source_id": "map-960",
       "source": "SPEKA",
@@ -7324,6 +8275,23 @@
       "status": "new"
     },
     {
+      "id": "73de92df43238f8c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438573-sud-nimeccini-vidmovivsa-zakrivati-spravu-sergia-kuznecova-i-pocav-doslidzuvati-dokazi",
+      "title": "Суд Німеччини відмовився закривати справу Сергія Кузнєцова і почав досліджувати докази",
+      "published_at": "2026-10-27T18:02:28+00:00",
+      "published_raw": "Tue, 27 Oct 2026 20:02:28 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "Суд також повторно відмовив компанії Nord Stream AG у доступі до суду над Сергієм Кузнєцовим як додаткового обвинувача. Ця компанія є офіційним власником газопроводу Північний потік-1",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a12aa12c6bd13be5",
       "source_id": "map-1147",
       "source": "ПІК",
@@ -7599,6 +8567,69 @@
       "published_raw": "2026-10-27T20:00:00+02:00",
       "fetched_at": "2026-10-27T20:12:10+00:00",
       "description": "На вулиці працюють дорожники, поруч лежать рулони геосітки та геотекстилю. Ділянка з боку вулиці Митрополита Шептицького вже засипана щебенем. Натомість, якщо йти від площі Героїв Євромайдану, дорога поки розрита: старий асфальт зняли, а з одного боку утворилося заглиблення. З обох боків ділянки встановили дорожні знаки, які попереджають про тимчасове перекриття руху. На вулиці Медовій триває поточний ремонт проїжджої частини та тротуару, розповіли журналістці «20 хвилин» робітники на місці. За їхніми словами, роботи мають завершити до 30 жовтня.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2c643a096baccea2",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/viiskovii-oghliadach-rozpoviv-pro-stratieghichni-i-taktichni-tsili-vorogha-na-doniechchini",
+      "title": "Військовий оглядач розповів про стратегічні і тактичні цілі ворога на Донеччині",
+      "published_at": "2026-10-27T18:00:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 18:00:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "Стратегічна мета ворога — захоплення Донецької області. До",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "13395e63ed96800a",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/viiskovii-oghliadach-rozpoviv-pro-dinamiku-vtrat-vorogha-na-dobropilskomu-napriamku-doniechchini",
+      "title": "Військовий оглядач розповів про динаміку втрат ворога на Добропільському напрямку Донеччини",
+      "published_at": "2026-10-27T18:00:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 18:00:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "На Добропільському напрямку Донеччини окупанти зазнають",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "89fd99e8a1b0b6b2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1438383-akou-bude-pogoda-na-hersonsini-28-zovtna",
+      "title": "Якою буде погода на Херсонщині 28 жовтня",
+      "published_at": "2026-10-27T17:59:54+00:00",
+      "published_raw": "Tue, 27 Oct 2026 19:59:54 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "На Херсонщині 28 жовтня очікується хмарна з проясненнями погода та невеликий дощ. Вітер північно-східний 7-12 м/с, вдень до 18°, у Херсоні — 16-18°",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -8083,23 +9114,6 @@
       "status": "new"
     },
     {
-      "id": "9aafcd21eb29acb5",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1438113-hmarno-ta-bez-opadiv-prognoz-pogodi-u-doneckij-i-luganskij-oblastah-na-28-zovtna",
-      "title": "Хмарно та без опадів: прогноз погоди у Донецькій і Луганській областях на 28 жовтня",
-      "published_at": "2026-10-27T17:52:30+00:00",
-      "published_raw": "Tue, 27 Oct 2026 19:52:30 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Прогноз погоди на 28 жовтня в Донецькій і Луганській областях. Хмарно, без опадів, температура повітря вдень до +14 °C. Деталі на сайті",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "766081c19f5b626c",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -8579,23 +9593,6 @@
       "status": "new"
     },
     {
-      "id": "c52a0e9790418d05",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/kyiv/1438519-gumanitarka-dla-prodazu-na-kiivsini-batka-ta-sina-pidozruut-u-shemi-z-avto-dla-zsu",
-      "title": "«Гуманітарка» для продажу: на Київщині батька та сина підозрюють у схемі з авто для ЗСУ",
-      "published_at": "2026-10-27T17:43:00+00:00",
-      "published_raw": "Tue, 27 Oct 2026 19:43:00 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "На Київщині батька та сина підозрюють у продажі автомобілів, які ввозили під виглядом гуманітарної допомоги для ЗСУ. Слідство задокументувало продаж щонайменше 32 машин на понад 2 млн грн, під час обшуків вилучили ще 48 авто",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "aecdb0f9d4520618",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -8866,23 +9863,6 @@
         "Державний прапор України",
         "новини івано-франківська"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "6ab00fb94a939802",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438417-u-dii-teper-mozna-oplatiti-borgi-ta-povernuti-dostup-do-rahunkiv",
-      "title": "У «Дії» тепер можна оплатити борги та повернути доступ до рахунків",
-      "published_at": "2026-10-27T17:34:44+00:00",
-      "published_raw": "Tue, 27 Oct 2026 19:34:44 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "У додатку тепер можна оплатити борги та повернути доступ до рахунків. Цей сервіс діє для погашення боргів до десяти мінімальних зарплат, що у 2026 році становить 86 470 гривень",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9433,8 +10413,8 @@
       "description": "27 жовтня в центрі Івано-Франківська 47-річна місцева мешканка публічно підпалила Державний прапор України, пише КУРС з посиланням на обласну поліцію. Інцидент стався близько 15:20. Очевидці підпалу викликали поліцію. Правоохоронці прибули на місце, встановили особу жінки та доставили її до Івано-Франківського районного управління поліції для з’ясування обставин. За інформацією поліції, 47-річна франківка раніше не була судима, […]",
       "categories": [
         "Суспільство",
-        "прапор",
-        "кримінал"
+        "кримінал",
+        "прапор"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -9715,6 +10695,23 @@
       "published_raw": "Tue, 27 Oct 2026 19:21:04 +0200",
       "fetched_at": "2026-10-27T20:12:10+00:00",
       "description": "У Краматорську внаслідок атаки російського FPV-дрона загинув канадський волонтер, засновник RainCoast Dog Rescue Society Джессі Адамс. Він рятував тварин разом із командою «Порятунок тварин Харків». Деталі трагедії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8f900137cc654fd7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438475-na-orbiti-zavivsa-persij-suputnik-ukrainskoi-merezi-zvazku-obria-nano",
+      "title": "На орбіті з'явився перший супутник української мережі зв'язку OBRIA NANO",
+      "published_at": "2026-10-27T17:21:02+00:00",
+      "published_raw": "Tue, 27 Oct 2026 19:21:02 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "Планується, що OBRIA NANO працюватиме під контролем українського оператора та обслуговуватиме стратегічні потреби України у сфері безпеки",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -10481,6 +11478,23 @@
       "status": "new"
     },
     {
+      "id": "df136502814c3376",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1438299-primusovo-zalucali-do-rosijskih-propagandistskih-ruhiv-z-tot-hersonsini-evakuuvali-vosmero-ditej",
+      "title": "Примусово залучали до російських пропагандистських рухів: з ТОТ Херсонщини евакуювали восьмеро дітей",
+      "published_at": "2026-10-27T17:06:55+00:00",
+      "published_raw": "Tue, 27 Oct 2026 19:06:55 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "З тимчасово окупованої частини Херсонщини евакуювали ще восьмеро дітей. П'ять дівчат і троє хлопців віком від 7 до 16 років проходять реінтеграцію в центрах «Надії та відновлення»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "89edc7656d40df94",
       "source_id": "map-413",
       "source": "Полтавська хвиля",
@@ -11097,23 +12111,6 @@
         "Новини",
         "відео"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "8344e8ef2d7f976f",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/crimea/1438537-persij-radiodiktant-i-poezia-pro-krim-istoria-ulii-askovoi",
-      "title": "Перший радіодиктант і поезія про Крим: історія Юлії Яськової",
-      "published_at": "2026-10-27T16:57:02+00:00",
-      "published_raw": "Tue, 27 Oct 2026 18:57:02 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "Кримчанка Юлія Яськова вперше написала Радіодиктант національної єдності. Історія журналістки та поетки, яка виїхала з окупованого Криму й представлятиме Україну на європейському чемпіонаті з поетичного слему",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12978,6 +13975,23 @@
       "status": "new"
     },
     {
+      "id": "45d913e8327c40f3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1438425-okupanti-zaavili-so-u-krimu-cerez-deficit-elektroenergii-ne-mozut-dotrimuvatisa-grafikiv-vidklucen",
+      "title": "Окупанти заявили, що у Криму через дефіцит електроенергії не можуть дотримуватися графіків відключень",
+      "published_at": "2026-10-27T16:25:38+00:00",
+      "published_raw": "Tue, 27 Oct 2026 18:25:38 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "У Криму через дефіцит електроенергії не можуть дотримуватися графіків відключень світла. У Севастополі зупинили тролейбуси, а в низці міст тривають відключення",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "be63f0bb15fddf58",
       "source_id": "map-931",
       "source": "Перший Запорізький",
@@ -13042,23 +14056,6 @@
         "скорая помощь",
         "смерть ребенка"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a1fb3a235839a283",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/crimea/1438495-indentifikuvali-2500-zagiblih-na-vijni-proti-ukraini-ziteliv-krimu-baza-gruz-200",
-      "title": "Індентифікували 2500 загиблих на війні проти України жителів Криму — база «Груз 200»",
-      "published_at": "2026-10-27T16:24:13+00:00",
-      "published_raw": "Tue, 27 Oct 2026 18:24:13 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "Станом на 27 жовтня 2026 року встановили імена 2500 жителів Криму, які загинули на війні проти України у складі армії РФ. Найбільше загиблих — із Севастополя",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15108,23 +16105,6 @@
       "status": "new"
     },
     {
-      "id": "89fd99e8a1b0b6b2",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/kherson/1438383-akou-bude-pogoda-na-hersonsini-28-zovtna",
-      "title": "Якою буде погода на Херсонщині 28 жовтня",
-      "published_at": "2026-10-27T15:59:54+00:00",
-      "published_raw": "Tue, 27 Oct 2026 17:59:54 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "На Херсонщині 28 жовтня очікується хмарна з проясненнями погода та невеликий дощ. Вітер північно-східний 7-12 м/с, вдень до 18°, у Херсоні — 16-18°",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "4e43cc1b30aa465a",
       "source_id": "map-397",
       "source": "Східний Варіант",
@@ -16038,6 +17018,29 @@
       "status": "new"
     },
     {
+      "id": "53f2e52b50f55787",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/u-natsghvardiyi-rozpovili-chi-ie-shchie-rieziervi-u-vorogha-na-pokrovsko-dobropilskomu-napriamku",
+      "title": "У Нацгвардії розповіли, чи є ще резерви у ворога на Покровсько-Добропільському напрямку",
+      "published_at": "2026-10-27T15:45:00+00:00",
+      "published_raw": "Tue, 27 Oct 2026 15:45:00 GMT",
+      "fetched_at": "2026-10-28T01:21:13+00:00",
+      "description": "У військ ворога є резерви. Але не такі як були ще 3-4 роки тому. Як п",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Війна",
+        "росія",
+        "Фронт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "829a19030bc06fb7",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -16615,6 +17618,23 @@
       "status": "new"
     },
     {
+      "id": "6ab00fb94a939802",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438417-u-dii-teper-mozna-oplatiti-borgi-ta-povernuti-dostup-do-rahunkiv",
+      "title": "У «Дії» тепер можна оплатити борги та повернути доступ до рахунків",
+      "published_at": "2026-10-27T15:34:44+00:00",
+      "published_raw": "Tue, 27 Oct 2026 17:34:44 +0200",
+      "fetched_at": "2026-10-27T20:12:10+00:00",
+      "description": "У додатку тепер можна оплатити борги та повернути доступ до рахунків. Цей сервіс діє для погашення боргів до десяти мінімальних зарплат, що у 2026 році становить 86 470 гривень",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3d667b09d7804a1c",
       "source_id": "map-694",
       "source": "С4",
@@ -16799,6 +17819,23 @@
       "published_raw": "Tue, 27 Oct 2026 15:31:38 +0000",
       "fetched_at": "2026-10-27T16:38:32+00:00",
       "description": "Правоохоронці викрили шахрайську схему одержання грошей від представників оборонних підприємств, до якої, за їхньою версією, причетні двоє адвокатів. Схему викрили Головне управління внутрішньої безпеки Служби безпеки України спільно з Національною поліцією та прокуратурою. Про це повідомила пресслужба СБУ у вівторок, 27 жовтня. Як сказано в повідомленні, за результатами комплексних заходів у Києві затримано двох адвокатів,... Запис Двох київських адвокатів підозрюють у вимаганні грошей у виробника дронів спершу з'явиться на Громадське радіо .",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "97e5108ebd289ba0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438329-fizicnij-zahist-dla-ponad-600-obektiv-kriticnoi-infrastrukturi-perebuvae-v-procesi-rozbudovi-kalasnik",
+      "title": "Фізичний захист для понад 600 об'єктів критичної інфраструктури перебуває в процесі розбудови — Калашник",
+      "published_at": "2026-10-27T15:31:26+00:00",
+      "published_raw": "Tue, 27 Oct 2026 17:31:26 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Щодо можливого перенесення певних об'єктів під землю, то голова Мінінфраструктури Микола Калашник зазначив, що це потребує «значних коштів», а термін побудови становитиме 1,5-2 роки",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -17706,23 +18743,6 @@
       "status": "new"
     },
     {
-      "id": "8f900137cc654fd7",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438475-na-orbiti-zavivsa-persij-suputnik-ukrainskoi-merezi-zvazku-obria-nano",
-      "title": "На орбіті з'явився перший супутник української мережі зв'язку OBRIA NANO",
-      "published_at": "2026-10-27T15:21:02+00:00",
-      "published_raw": "Tue, 27 Oct 2026 17:21:02 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "Планується, що OBRIA NANO працюватиме під контролем українського оператора та обслуговуватиме стратегічні потреби України у сфері безпеки",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "28d429464d5ba731",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -18183,6 +19203,23 @@
       "status": "new"
     },
     {
+      "id": "f1678ae0802d2b2e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438319-urad-sprostiv-orendu-derzavnogo-ta-komunalnogo-majna-dla-postrazdalogo-biznesu-ta-cifrovoi-infrastrukturi",
+      "title": "Уряд спростив оренду державного та комунального майна для постраждалого бізнесу та цифрової інфраструктури",
+      "published_at": "2026-10-27T15:14:49+00:00",
+      "published_raw": "Tue, 27 Oct 2026 17:14:49 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Уряд дозволив постраждалому від російських атак бізнесу та компаніям, які забезпечують роботу цифрової інфраструктури, орендувати державне й комунальне майно без аукціону, повідомив премʼєр Корецький",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "73c01fc18a650b85",
       "source_id": "map-367",
       "source": "Інтент",
@@ -18541,23 +19578,6 @@
       "status": "new"
     },
     {
-      "id": "df136502814c3376",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/kherson/1438299-primusovo-zalucali-do-rosijskih-propagandistskih-ruhiv-z-tot-hersonsini-evakuuvali-vosmero-ditej",
-      "title": "Примусово залучали до російських пропагандистських рухів: з ТОТ Херсонщини евакуювали восьмеро дітей",
-      "published_at": "2026-10-27T15:06:55+00:00",
-      "published_raw": "Tue, 27 Oct 2026 17:06:55 +0200",
-      "fetched_at": "2026-10-27T20:12:10+00:00",
-      "description": "З тимчасово окупованої частини Херсонщини евакуювали ще восьмеро дітей. П'ять дівчат і троє хлопців віком від 7 до 16 років проходять реінтеграцію в центрах «Надії та відновлення»",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "d0db40b8f9ddae66",
       "source_id": "map-588",
       "source": "Накипіло",
@@ -18823,6 +19843,23 @@
       "categories": [
         "Политика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "411fa1a1f2e7d57e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438267-v-izraili-zafiksuvali-najvisu-avku-na-viborah-z-1973-roku",
+      "title": "В Ізраїлі зафіксували найвищу явку на виборах з 1973 року",
+      "published_at": "2026-10-27T15:04:54+00:00",
+      "published_raw": "Tue, 27 Oct 2026 17:04:54 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Зазначається, що наразі вже проголосувао понад три мільйони осіб. Попередній рекорд о 14:00 був встановлений у 1988 році. Він був на 2,7 процентних пункти нижчим, ніж у 2026 році",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19314,6 +20351,23 @@
       "categories": [
         "Defense Tech"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3f3c4b854eb6d0ee",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1438323-ukrainski-vijska-urazili-na-okupovanih-teritoriah-doneccini-j-lugansini-zoseredzenna-tehniki-rf-ta-skladi-rf-genstab",
+      "title": "Українські війська уразили на окупованих територіях Донеччини й Луганщини зосередження техніки РФ та склади РФ — Генштаб",
+      "published_at": "2026-10-27T14:59:29+00:00",
+      "published_raw": "Tue, 27 Oct 2026 16:59:29 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Сили оборони України уразили склади боєприпасів, озброєння та зосередження російських військ на Луганщині і Донеччині. Деталі від Генштабу ЗСУ",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19856,6 +20910,23 @@
       "status": "new"
     },
     {
+      "id": "62a0bada215ac331",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1438215-sili-oboroni-urazili-zoseredzenna-vijskovih-rf-na-tot-zaporizkoi-oblasti",
+      "title": "Сили оборони уразили зосередження військових РФ на ТОТ Запорізької області",
+      "published_at": "2026-10-27T14:52:34+00:00",
+      "published_raw": "Tue, 27 Oct 2026 16:52:34 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "У ніч проти 27 жовтня Сили оборони завдали удару по зосередженню живої сили російських військових на тимчасово окупованій території Запорізької області",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c21c850673c175a4",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -19924,6 +20995,23 @@
       "published_raw": "Tue, 27 Oct 2026 16:51:51 +0200",
       "fetched_at": "2026-10-27T16:38:32+00:00",
       "description": "У Черкаському національному університеті вдруге обирають ректора. На посаду претендують четверо: Боєчко, Кирилюк, Темченко та Якушев",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0f169bfb36684cd1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1438321-u-pisanskomu-starostati-poranenij-traktorist-cerez-ataku-fpv-dronom",
+      "title": "У Піщанському старостаті поранений тракторист через атаку FPV-дроном",
+      "published_at": "2026-10-27T14:51:01+00:00",
+      "published_raw": "Tue, 27 Oct 2026 16:51:01 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "27 жовтня у Піщанському старостаті на Сумщині поранений тракторист через атаку FPV-дроном. Про це написав начальник Сумської МВА Сергій Кривошеєнко",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -21026,6 +22114,23 @@
       "status": "new"
     },
     {
+      "id": "dd9f616f4da250d7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438253-u-polsi-pid-cas-viprobuvan-vtraceno-dron-vijskovi-kraini-zaklikali-ludej-ne-torkatisa-jogo-u-razi-viavlenna",
+      "title": "У Польщі під час випробувань втрачено дрон: військові країни закликали людей не торкатися його у разі виявлення",
+      "published_at": "2026-10-27T14:38:14+00:00",
+      "published_raw": "Tue, 27 Oct 2026 16:38:14 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "Через це Військова жандармерія Польщі закликала людей у разі виявлення БпЛА, його уламків або будь-якого іншого «невідомого предмета» — не торкатися його та повідомити про це екстрені служби",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "76b93cbe76ac022d",
       "source_id": "map-365",
       "source": "Твоє місто",
@@ -22034,23 +23139,6 @@
       "status": "new"
     },
     {
-      "id": "45d913e8327c40f3",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/crimea/1438425-okupanti-zaavili-so-u-krimu-cerez-deficit-elektroenergii-ne-mozut-dotrimuvatisa-grafikiv-vidklucen",
-      "title": "Окупанти заявили, що у Криму через дефіцит електроенергії не можуть дотримуватися графіків відключень",
-      "published_at": "2026-10-27T14:25:38+00:00",
-      "published_raw": "Tue, 27 Oct 2026 16:25:38 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "У Криму через дефіцит електроенергії не можуть дотримуватися графіків відключень світла. У Севастополі зупинили тролейбуси, а в низці міст тривають відключення",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "abbb9b2cd15139d9",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -22984,6 +24072,23 @@
         "прокуратура",
         "Рівненщина Кримінал"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "685eec49f71a33cd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1438177-cerez-tanenna-lodovikiv-u-dolomitovih-alpah-znajsli-boepripasi-casiv-persoi-svitovoi-vijni",
+      "title": "Через танення льодовиків у Доломітових Альпах знайшли боєприпаси часів Першої світової війни",
+      "published_at": "2026-10-27T14:08:32+00:00",
+      "published_raw": "Tue, 27 Oct 2026 16:08:32 +0200",
+      "fetched_at": "2026-10-27T16:38:32+00:00",
+      "description": "У ході робіт італійська армія вилучила та знешкодила 250 вибухових пристроїв, зокрема 18 італійських 75-міліметрових артилерійських снарядів та 37 мінометних снарядів Тевето французького виробництва",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -25978,23 +27083,6 @@
       "status": "new"
     },
     {
-      "id": "97e5108ebd289ba0",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438329-fizicnij-zahist-dla-ponad-600-obektiv-kriticnoi-infrastrukturi-perebuvae-v-procesi-rozbudovi-kalasnik",
-      "title": "Фізичний захист для понад 600 об'єктів критичної інфраструктури перебуває в процесі розбудови — Калашник",
-      "published_at": "2026-10-27T13:31:26+00:00",
-      "published_raw": "Tue, 27 Oct 2026 15:31:26 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Щодо можливого перенесення певних об'єктів під землю, то голова Мінінфраструктури Микола Калашник зазначив, що це потребує «значних коштів», а термін побудови становитиме 1,5-2 роки",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "02f2fc4cbb039fe6",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -27045,23 +28133,6 @@
       "status": "new"
     },
     {
-      "id": "f1678ae0802d2b2e",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438319-urad-sprostiv-orendu-derzavnogo-ta-komunalnogo-majna-dla-postrazdalogo-biznesu-ta-cifrovoi-infrastrukturi",
-      "title": "Уряд спростив оренду державного та комунального майна для постраждалого бізнесу та цифрової інфраструктури",
-      "published_at": "2026-10-27T13:14:49+00:00",
-      "published_raw": "Tue, 27 Oct 2026 15:14:49 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Уряд дозволив постраждалому від російських атак бізнесу та компаніям, які забезпечують роботу цифрової інфраструктури, орендувати державне й комунальне майно без аукціону, повідомив премʼєр Корецький",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "046fcd4c56d98928",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -27615,23 +28686,6 @@
       "status": "new"
     },
     {
-      "id": "411fa1a1f2e7d57e",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438267-v-izraili-zafiksuvali-najvisu-avku-na-viborah-z-1973-roku",
-      "title": "В Ізраїлі зафіксували найвищу явку на виборах з 1973 року",
-      "published_at": "2026-10-27T13:04:54+00:00",
-      "published_raw": "Tue, 27 Oct 2026 15:04:54 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Зазначається, що наразі вже проголосувао понад три мільйони осіб. Попередній рекорд о 14:00 був встановлений у 1988 році. Він був на 2,7 процентних пункти нижчим, ніж у 2026 році",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "c69f152329e555ad",
       "source_id": "map-367",
       "source": "Інтент",
@@ -28069,23 +29123,6 @@
       "status": "new"
     },
     {
-      "id": "3f3c4b854eb6d0ee",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1438323-ukrainski-vijska-urazili-na-okupovanih-teritoriah-doneccini-j-lugansini-zoseredzenna-tehniki-rf-ta-skladi-rf-genstab",
-      "title": "Українські війська уразили на окупованих територіях Донеччини й Луганщини зосередження техніки РФ та склади РФ — Генштаб",
-      "published_at": "2026-10-27T12:59:29+00:00",
-      "published_raw": "Tue, 27 Oct 2026 14:59:29 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Сили оборони України уразили склади боєприпасів, озброєння та зосередження російських військ на Луганщині і Донеччині. Деталі від Генштабу ЗСУ",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "37446c53c1c9c9d1",
       "source_id": "map-397",
       "source": "Східний Варіант",
@@ -28293,23 +29330,6 @@
       "status": "new"
     },
     {
-      "id": "62a0bada215ac331",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1438215-sili-oboroni-urazili-zoseredzenna-vijskovih-rf-na-tot-zaporizkoi-oblasti",
-      "title": "Сили оборони уразили зосередження військових РФ на ТОТ Запорізької області",
-      "published_at": "2026-10-27T12:52:34+00:00",
-      "published_raw": "Tue, 27 Oct 2026 14:52:34 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "У ніч проти 27 жовтня Сили оборони завдали удару по зосередженню живої сили російських військових на тимчасово окупованій території Запорізької області",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "a684c3c0a78261bc",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -28361,23 +29381,6 @@
       "published_raw": "2026-10-27T12:51:57Z",
       "fetched_at": "2026-10-27T16:38:32+00:00",
       "description": "[CDATA[ «Нова пошта» створила власну ППО та вже має досвід збиття ударних дронів]]>",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "0f169bfb36684cd1",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1438321-u-pisanskomu-starostati-poranenij-traktorist-cerez-ataku-fpv-dronom",
-      "title": "У Піщанському старостаті поранений тракторист через атаку FPV-дроном",
-      "published_at": "2026-10-27T12:51:01+00:00",
-      "published_raw": "Tue, 27 Oct 2026 14:51:01 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "27 жовтня у Піщанському старостаті на Сумщині поранений тракторист через атаку FPV-дроном. Про це написав начальник Сумської МВА Сергій Кривошеєнко",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -29244,23 +30247,6 @@
       "categories": [
         "НОВИНИ"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "dd9f616f4da250d7",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438253-u-polsi-pid-cas-viprobuvan-vtraceno-dron-vijskovi-kraini-zaklikali-ludej-ne-torkatisa-jogo-u-razi-viavlenna",
-      "title": "У Польщі під час випробувань втрачено дрон: військові країни закликали людей не торкатися його у разі виявлення",
-      "published_at": "2026-10-27T12:38:14+00:00",
-      "published_raw": "Tue, 27 Oct 2026 14:38:14 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "Через це Військова жандармерія Польщі закликала людей у разі виявлення БпЛА, його уламків або будь-якого іншого «невідомого предмета» — не торкатися його та повідомити про це екстрені служби",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -31123,23 +32109,6 @@
         "тестовий режим",
         "хвилина мовчання"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "685eec49f71a33cd",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1438177-cerez-tanenna-lodovikiv-u-dolomitovih-alpah-znajsli-boepripasi-casiv-persoi-svitovoi-vijni",
-      "title": "Через танення льодовиків у Доломітових Альпах знайшли боєприпаси часів Першої світової війни",
-      "published_at": "2026-10-27T12:08:32+00:00",
-      "published_raw": "Tue, 27 Oct 2026 14:08:32 +0200",
-      "fetched_at": "2026-10-27T16:38:32+00:00",
-      "description": "У ході робіт італійська армія вилучила та знешкодила 250 вибухових пристроїв, зокрема 18 італійських 75-міліметрових артилерійських снарядів та 37 мінометних снарядів Тевето французького виробництва",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -56796,6 +57765,12 @@
       "fetched": 1658,
       "added": 74,
       "errors": 4
+    },
+    {
+      "at": "2026-10-28T01:21:13+00:00",
+      "fetched": 1800,
+      "added": 51,
+      "errors": 3
     }
   ]
 }
