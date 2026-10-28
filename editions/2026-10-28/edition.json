@@ -1,0 +1,1246 @@
+{
+  "date": "2026-10-28",
+  "title": "BRIEF — 2026-10-28",
+  "published_at": "2026-10-28T20:41:25+00:00",
+  "approved": true,
+  "approval": "auto",
+  "script_sha256": "0b503a5c41dcb8a05040b08473da01bf0d1583fd093da9aae6c3a56c7ec9354b",
+  "voice": {
+    "provider": "styletts2",
+    "voice": "male_2"
+  },
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "bumper": "audio/bumper.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "full_audio": "editions/2026-10-28/audio/brief-2026-10-28.mp3",
+  "duration_sec": 166.16,
+  "regions": [
+    {
+      "id": "khmelnytskyi",
+      "name": "Хмельниччина"
+    },
+    {
+      "id": "volyn",
+      "name": "Волинь"
+    },
+    {
+      "id": "zakarpattia",
+      "name": "Закарпаття"
+    }
+  ],
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+        "Повний список джерел доступний на сайті BRIEF.",
+        "Випуск за двадцять восьме жовтня."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/intro.mp3",
+      "duration_sec": 9.64,
+      "sound": null
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Новини України."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/national-heading.mp3",
+      "duration_sec": 1.46,
+      "sound": null
+    },
+    {
+      "id": "national-c-065b60d8417de820",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Міністр транспорту Іспанії назвав причиною зіткнення поїздів, у якому загинули щонайменше 68 людей, «незбагненну» помилку",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": true,
+      "text": [
+        "Міністр транспорту Іспанії Оскар Пуенте заявив, що причиною залізничної катастрофи 28 жовтня в провінції Толедо, під час якої зіткнулися два поїзди, стало «незбагненне» помилкове розпорядження диспетчерів."
+      ],
+      "sources": [
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/svit/ispaniyi-zitknulysya-dva-shvydkisni-potyahy-piv-sotni-zahyblyx",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, близько пів сотні загиблих",
+          "published_at": "2026-10-28T10:54:35+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/incidents/325597-ispanii-zitknulysia-dva-shvydkisni-potiahy-narazi-vidomo",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, наразі відомо про щонайменше пів сотні загиблих",
+          "published_at": "2026-10-28T11:53:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/video-v-ispaniyi-zitknulysya-dva-shvydkisni-potyahy/33885966.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, загинули десятки людей (відео)",
+          "published_at": "2026-10-28T12:33:23+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/28/8060099",
+          "title": "Кількість загиблих внаслідок залізничної катастрофи в Іспанії зросла до 64",
+          "published_at": "2026-10-28T13:31:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/10/28/776682_ispaniyi_zitknulisya_dva.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: десятки загиблих, понад сотня – поранені (оновлено)",
+          "published_at": "2026-10-28T13:50:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1438849-v-ispanii-zitknulisa-dva-svidkisni-potagi-vidomo-pro-postrazdalih",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, відомо про 64 загиблих",
+          "published_at": "2026-10-28T14:32:53+00:00"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/world/365736-v-ispanii-zitknulysia-dva-shvydkisni-potiagy-64-ludyny-zagynuly.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: 64 людини загинули",
+          "published_at": "2026-10-28T15:33:06+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/svit/ispaniyi-zrosla-kilkist-zahyblyx-vnaslidok-zitknennya-shvydkisnyx-poyizdiv",
+          "title": "В Іспанії зросла кількість загиблих внаслідок зіткнення швидкісних поїздів",
+          "published_at": "2026-10-28T15:40:54+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-world/4179034-zitknenna-svidkisnih-potagiv-v-ispanii-kilkist-zagiblih-zrosla-do-64.html",
+          "title": "Зіткнення швидкісних потягів в Іспанії: кількість загиблих зросла до 68",
+          "published_at": "2026-10-28T15:50:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/avariya-na-zaliznici-ispaniji-zitknulisya-dva-shvidkisni-potyagi-mizh-mistami-mora-ta-orgas-50654057.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: 68 людей загинули, понад 150 поранених — головне",
+          "published_at": "2026-10-28T15:51:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/28/68-liudey-zahynuly-u-zaliznychniy-katastrofi-v-ispanii",
+          "title": "68 людей загинули у залізничній катастрофі в Іспанії",
+          "published_at": "2026-10-28T16:06:16+00:00"
+        },
+        {
+          "name": "Тексти",
+          "url": "https://texty.org.ua/fragments/118586/kilkist-zahyblyx-vnaslidok-zaliznychnoyi-katastrofy-v-ispaniyi-zrosla-do-64",
+          "title": "Кількість загиблих внаслідок залізничної катастрофи в Іспанії зросла до 64",
+          "published_at": "2026-10-28T16:34:21+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/zitknennya-pojizdiv-u-ispaniji-sistema-dala-zbiy-zaginuli-68-osib-skazav-golova-mintransu-50654287.html",
+          "title": "Міністр транспорту Іспанії назвав причиною зіткнення поїздів, у якому загинули щонайменше 68 людей, «незбагненну» помилку",
+          "published_at": "2026-10-28T17:34:00+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/v-ispaniyi-vnaslidok-zitknennya-dvoh-poyizdiv-zagynulo-68-lyudej-i571643",
+          "title": "В Іспанії внаслідок зіткнення двох поїздів загинуло 68 людей",
+          "published_at": "2026-10-28T18:15:11+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-065b60d8417de820.mp3",
+      "duration_sec": 12.51,
+      "sound": null
+    },
+    {
+      "id": "national-c-08a6c9d5bd9bbd58",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Росіяни атакували Основ'янський район Харкова 28 жовтня: одна людина загинула, є постраждалі",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": true,
+      "text": [
+        "У Харкові через удар російського бойового дрона по Основ'янському району 28 жовтня загинула людина, ще четверо постраждали.",
+        "На місці влучання виникла пожежа, повідомив мер Ігор Терехов."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1438587-rosiani-vdarili-po-budinku-u-harkovi-ludi-zablokovani",
+          "title": "Росіяни вдарили по будинку у Харкові: люди можуть бути заблоковані",
+          "published_at": "2026-10-27T20:57:39+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/obstril-harkova-rosiyski-viyska-vluchili-u-bagatokvartirniy-budinok-50653959.html",
+          "title": "У Харкові росіяни влучили в багатоквартирний будинок, заблоковані люди, серед постраждалих дитина",
+          "published_at": "2026-10-27T20:58:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227033.html",
+          "title": "Росіяни вдарили по житловому будинку в Харкові, там можуть бути заблоковані люди",
+          "published_at": "2026-10-27T20:59:47+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/27/8060007",
+          "title": "У Харкові росіяни атакували житловий будинок: двоє постраждалих, серед них дитина",
+          "published_at": "2026-10-27T21:06:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227035.html",
+          "title": "Доросла людина і 4-річний хлопчик постраждали внаслідок удару по Харкову",
+          "published_at": "2026-10-27T21:14:24+00:00"
+        },
+        {
+          "name": "Накипіло",
+          "url": "https://nakypilo.ua/novyny/cherez-udar-po-zhytlovomu-budynku-v-kharkovi-postrazhdaly-liudy",
+          "title": "Через удар по житловому будинку в Харкові постраждали люди",
+          "published_at": "2026-10-27T21:29:02+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/27/novyna/suspilstvo/rosiyany-vdaryly-po-bahatopoverxivczi-xarkovi-ye-postrazhdali",
+          "title": "Росіяни вдарили по багатоповерхівці у Харкові, є постраждалі",
+          "published_at": "2026-10-27T21:38:43+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4178778-rosiani-vdarili-po-bagatopoverhivci-u-harkovi-e-postrazdali.html",
+          "title": "Росіяни вдарили по двоповерхівці у Харкові - четверо постраждалих",
+          "published_at": "2026-10-27T21:45:00+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/27/rosiyani-vdarili-po-bagatopoverhivtsi-u-harkovi-sered-postrazhdalih-ditina",
+          "title": "Росіяни вдарили по багатоповерхівці у Харкові, серед постраждалих – дитина",
+          "published_at": "2026-10-27T21:45:48+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/27/776598_rosiyani_vdarili.html",
+          "title": "Росіяни вдарили по багатоповерхівці в Харкові: є постраждалі (оновлено)",
+          "published_at": "2026-10-27T21:46:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1438601-kharkiv-osnovyanskyi-raion-udar-budynok-27-zhovtnya-poraneni",
+          "title": "Помаранчове небо: як рятувальники гасили масштабну пожежу у Харкові після влучання реактивного БпЛА (фото)",
+          "published_at": "2026-10-27T23:30:00+00:00"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiyani-atakuvali-osnovyanskij-rajon-harkova-ye-postrazhdali",
+          "title": "Росіяни атакували Основ’янський район Харкова: є постраждалі",
+          "published_at": "2026-10-28T03:17:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kharkiv-ataka/33885706.html",
+          "title": "У Харкові до 5 зросла кількість постраждалих від російського удару – ДСНС",
+          "published_at": "2026-10-28T04:30:01+00:00"
+        },
+        {
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/kharkiv-atakuvala-reaktyvna-heran-postrazhdaly-p-iatero-liudey",
+          "title": "Харків атакувала реактивна «Герань»: постраждали п’ятеро людей",
+          "published_at": "2026-10-28T07:20:50+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/28/rosiiany-potsilyly-v-budynok-u-kharkovi-i-poranyly-p-iatokh-liudej",
+          "title": "Росіяни поцілили в будинок у Харкові і поранили п’ятьох людей",
+          "published_at": "2026-10-28T08:05:09+00:00"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiyani-atakuvali-osnovyanskij-rajon-harkova-ye-zagibla-ta-postrazhdali",
+          "title": "Росіяни атакували Основ’янський район Харкова: є загибла та постраждалі — оновлено",
+          "published_at": "2026-10-28T09:32:24+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1438995-rosiani-atakuvali-osnovanskij-rajon-harkova-28-zovtna-so-vidomo",
+          "title": "Росіяни атакували Основ'янський район Харкова 28 жовтня: одна людина загинула, є постраждалі",
+          "published_at": "2026-10-28T11:05:21+00:00"
+        },
+        {
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/armiia-rf-atakuvala-osnov-ianskyy-rayon-kharkova-ie-poraneni-stalasia-pozhezha",
+          "title": "Армія рф атакувала Основ’янський район Харкова: є загиблий та поранені",
+          "published_at": "2026-10-28T11:14:19+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/28/8060077",
+          "title": "Росія вдарила дроном по Харкову: одна людина загинула, 4 постраждали",
+          "published_at": "2026-10-28T11:46:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/28/rosiiany-vdaryly-po-osnov-ianskomu-rayonu-kharkova-ie-zahyblyy-ta-poraneni",
+          "title": "Росіяни вдарили по Основ'янському району Харкова: є загиблий та поранені",
+          "published_at": "2026-10-28T12:08:48+00:00"
+        },
+        {
+          "name": "Накипіло",
+          "url": "https://nakypilo.ua/novyny/naslidky-udaru-po-kharkovu-fotoreportazh-2",
+          "title": "Наслідки удару по Харкову: фоторепортаж",
+          "published_at": "2026-10-28T14:17:13+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-08a6c9d5bd9bbd58.mp3",
+      "duration_sec": 11.99,
+      "sound": null
+    },
+    {
+      "id": "national-c-0d2a797aad739824",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Зняв відео про окуповані Олешки, яке облетіло світ: загинув морпіх Володимир Обертас",
+      "topics": [
+        "Війна та безпека",
+        "Медіа"
+      ],
+      "must_include": true,
+      "text": [
+        "У Херсоні загинув морський піхотинець Володимир Обертас на псевдо «Фінч».",
+        "Він створив відео про окуповані Олешки, яке облетіло світ, та супроводжував журналістів під час роботи у прифронтовому місті."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-society/4178864-u-hersoni-zaginuv-medijnik-i-vijskovij-z-olesok-volodimir-obertas.html",
+          "title": "У Херсоні загинув медійник і військовий з Олешок Володимир Обертас",
+          "published_at": "2026-10-28T08:15:00+00:00"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/u-khersoni-vibukh-zabrav-zhittia-viiskovogo-ta-mediinika",
+          "title": "У Херсоні вибух забрав життя військового медійника",
+          "published_at": "2026-10-28T08:41:00+00:00"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/volodimir-obertas-jakij-zaginuv-u-hersoni-buv-avtorom-video-z-drona-scho-pokazalo-svitu-tragediju-oleshok",
+          "title": "Володимир Обертас, який загинув у Херсоні, був автором відео з дрона, що показало світу трагедію Олешок",
+          "published_at": "2026-10-28T10:20:04+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1438875-znav-video-pro-okupovani-oleski-ake-obletilo-svit-zaginuv-morpih-volodimir-obertas",
+          "title": "Зняв відео про окуповані Олешки, яке облетіло світ: загинув морпіх Володимир Обертас",
+          "published_at": "2026-10-28T11:24:18+00:00"
+        },
+        {
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/viiskovii-z-olesok-zniav-video-pro-okupovane-misto-iake-pobaciv-svit",
+          "title": "Світ побачив відео загиблого захисника про окуповані Олешки",
+          "published_at": "2026-10-28T17:38:04+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-0d2a797aad739824.mp3",
+      "duration_sec": 12.28,
+      "sound": null
+    },
+    {
+      "id": "national-c-19443af20a3af2a3",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Двоє саперів загинули на Сумщині через детонацію російського боєприпасу",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Під час розмінування у Шосткинському районі Сумської області здетонував російський боєприпас, в результаті чого загинули двоє саперів."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/sumy/1439377-na-sumsini-pid-cas-gumanitarnogo-rozminuvanna-zaginuli-dvoe-ratuvalnikiv",
+          "title": "На Сумщині під час гуманітарного розмінування загинули двоє рятувальників",
+          "published_at": "2026-10-28T15:26:33+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/pid-chas-gumanitarnogo-rozminuvannya-na-sumshhyni-zagynuly-dvoye-ryatuvalnykiv-i571616",
+          "title": "Під час гуманітарного розмінування на Сумщині загинули двоє рятувальників",
+          "published_at": "2026-10-28T15:27:00+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/na-sumshhyni-pid-chas-gumanitarnogo-rozminuvannya-zagynuly-dvoye-fahivtsiv-dsns",
+          "title": "На Сумщині під час гуманітарного розмінування загинули двоє фахівців ДСНС",
+          "published_at": "2026-10-28T15:55:37+00:00"
+        },
+        {
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/na-sumshhyni-pid-chas-rozminuvannya-zagynuly-dvoye-saperiv",
+          "title": "На Сумщині під час розмінування загинули сапери",
+          "published_at": "2026-10-28T15:56:04+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/28/pid-chas-rozminuvannia-na-sumshchyni-zahynuly-sapery-oleksandr",
+          "title": "Під час розмінування на Сумщині загинули сапери Олександр Ковальчук і Денис Сидорич",
+          "published_at": "2026-10-28T16:27:59+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/28/8060138",
+          "title": "На Сумщині в результаті детонації російського боєприпасу загинули два сапери",
+          "published_at": "2026-10-28T16:49:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/28/dvoie-saperiv-zahynuly-na-sumshchyni-cherez-detonatsiiu-rosiyskoho-boieprypasu",
+          "title": "Двоє саперів загинули на Сумщині через детонацію російського боєприпасу",
+          "published_at": "2026-10-28T17:46:42+00:00"
+        },
+        {
+          "name": "Ворскла",
+          "url": "https://vorskla1930.com.ua/nashi-heroi/na-sumshchyni-zahynuly-sapery-dsns-miny-snariady-drony-v-lisi",
+          "title": "На Сумщині загинули двоє саперів ДСНС.",
+          "published_at": "2026-10-28T18:00:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/bezpeka/sumshhyni-rozminuvannya-zdetonuvav-rosijskyj-boyeprypas-zahynuly-sapery",
+          "title": "На Сумщині під час розмінування здетонував російський боєприпас, загинули сапери",
+          "published_at": "2026-10-28T18:07:38+00:00"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1112368-na-sumshhini-pid-cas-rozminuvannia-zaginuli-dvoje-saperiv-dsns",
+          "title": "На Сумщині під час розмінування загинули два сапери ДСНС",
+          "published_at": "2026-10-28T18:10:00+00:00"
+        },
+        {
+          "name": "На межі",
+          "url": "https://mezha.city/news/36001",
+          "title": "Трагедія під час розмінування та аферисти, що наживаються на болю: 28 жовтня на Шосткинщині",
+          "published_at": "2026-10-28T19:18:45+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-19443af20a3af2a3.mp3",
+      "duration_sec": 8.23,
+      "sound": null
+    },
+    {
+      "id": "national-c-462217afbb3e3ff4",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Ми з Трампом на одному боці у питанні завершення російської війни – Зеленський",
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Президент Володимир Зеленський заявив, що на одному боці із Трампом у питанні завершення російської війни.",
+        "Проте, Україна краще розуміє менталітет людей з росії та путіна."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/28/776650_zelenskiy_rosiya_povyazuie.html",
+          "title": "Зеленський: Росія пов'язує закінчення війни з питанням територій. Україна була готова проговорювати буферну зону",
+          "published_at": "2026-10-28T07:38:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4178860-zelenskij-pitanna-teritorij-mozut-obgovoruvati-lise-lideri-ukraini-ta-rosii.html",
+          "title": "Зеленський: Питання територій можуть обговорювати лише лідери України та Росії",
+          "published_at": "2026-10-28T08:10:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/polityka/yakshho-ukrayiny-ye-nebezpechni-zahrozy-ya-mayu-zaxyshhaty-svoyu-krayinu-zelenskyj",
+          "title": "Ми з Трампом на одному боці у питанні завершення російської війни – Зеленський",
+          "published_at": "2026-10-28T09:20:44+00:00"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/trump-zelenskyy-putin-zustrich/33885877.html",
+          "title": "Трамп, Зеленський, Путін. Що відомо про дати переговорів, умови України та вимоги Кремля",
+          "published_at": "2026-10-28T11:59:08+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273375-zelenskyy-upershe-dopustyv-obhovorennia-harantiy-bezpeky-dlia-rosiyi-pislia-zavershennia-viyny-ft",
+          "title": "Зеленський уперше допустив обговорення гарантій безпеки для росії після завершення війни — FT",
+          "published_at": "2026-10-28T19:18:00+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/politics/325619-zelenskyi-zaiavyv-harantii-bezpeky-rosii-mozhna-obhovoriuvaty",
+          "title": "Зеленський заявив, що гарантії безпеки для Росії можна обговорювати після завершення війни",
+          "published_at": "2026-10-28T19:56:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-462217afbb3e3ff4.mp3",
+      "duration_sec": 10.37,
+      "sound": null
+    },
+    {
+      "id": "national-c-12b90d1848641c10",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Скільки дітей зараз залишаються на Донеччині, де триває примусова евакуація та скількох вивезли за тиждень",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У 15 населених пунктах Донецької області, де триває примусова евакуація, досі залишаються 1746 дітей.",
+        "Найбільше неповнолітніх — у Слов'янській і Краматорській громадах."
+      ],
+      "sources": [
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/u-zoni-prymusovoi-evakuatsii-na-donechchyni-zalyshaiutsia-1746-ditei-skilky-vyvezly-z-nebezpeky-za-tyzhden",
+          "title": "У зоні примусової евакуації на Донеччині залишаються 1 746 дітей: скільки вивезли з небезпеки за тиждень",
+          "published_at": "2026-10-28T15:38:29+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1439371-skilki-ditej-zaraz-zalisautsa-na-doneccini-de-trivae-primusova-evakuacia-ta-skilkoh-vivezli-za-tizden-3",
+          "title": "Скільки дітей зараз залишаються на Донеччині, де триває примусова евакуація та скількох вивезли за тиждень",
+          "published_at": "2026-10-28T15:46:47+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/28/776868_donechchini_zoni_primusovoyi.html",
+          "title": "На Донеччині у зоні примусової евакуації залишаються 1 746 дітей",
+          "published_at": "2026-10-28T17:25:00+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-zoni-prymusovoyi-evakuatsiyi-na-donechchyni-zalyshayetsya-ponad-1700-ditej-i571640",
+          "title": "У зоні примусової евакуації на Донеччині залишається понад 1700 дітей",
+          "published_at": "2026-10-28T17:53:42+00:00"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12915-na-donechchyni-u-zoni-prymusovoyi-evakuatsiyi-dosi-zalyshayutsya-ponad-17-tysyachi-ditey",
+          "title": "На Донеччині у зоні примусової евакуації досі залишаються понад 1,7 тисячі дітей",
+          "published_at": "2026-10-28T19:54:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-12b90d1848641c10.mp3",
+      "duration_sec": 11.99,
+      "sound": null
+    },
+    {
+      "id": "national-c-0b1f8d23ef3b9fbe",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Режим тиші в Олешках: у місті розміновують маршрути для евакуації цивільних",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "В Олешках продовжується розмінування маршрутів для доставки гуманітарної допомоги та евакуації цивільних, повідомив омбудсман Лубінець."
+      ],
+      "sources": [
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/lubinets-povidomyv-pro-sytuatsiyu-navkolo-gumanitarnoyi-misiyi-v-oleshkah-i571621",
+          "title": "Лубінець повідомив про ситуацію навколо гуманітарної місії в Олешках",
+          "published_at": "2026-10-28T15:53:57+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227594.html",
+          "title": "В Олешках продовжується розмінування маршрутів – Лубінець",
+          "published_at": "2026-10-28T16:01:47+00:00"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/na-marshrutah-gumanitarnoji-misiji-do-oleshok-trivaje-rozminuvannja-lubinets",
+          "title": "На маршрутах гуманітарної місії до Олешок триває розмінування, – Лубінець",
+          "published_at": "2026-10-28T16:03:47+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/public/325611-khersonshchyni-tryvaie-rozminuvannia-marshrutiv-oleshok-humanitarnoi",
+          "title": "На Херсонщині триває розмінування маршрутів до Олешок для гуманітарної місії, — Лубінець",
+          "published_at": "2026-10-28T16:11:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/28/776850_lubinets_oleshkah_trivaie.html",
+          "title": "Лубінець: В Олешках триває розмінування маршрутів для гуманітарної місії",
+          "published_at": "2026-10-28T16:36:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-lubinets-rozminuvannia-marshrutiv-oleshky/33886160.html",
+          "title": "Лубінець повідомив, що розмінування маршрутів для гуманітарної місії в Олешках триває",
+          "published_at": "2026-10-28T17:56:06+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/suspilstvo/rezhym-tyshi-oleshkax-misti-rozminovuyut-marshruty-evakuacziyi-cyvilnyx",
+          "title": "Режим тиші в Олешках: у місті розміновують маршрути для евакуації цивільних",
+          "published_at": "2026-10-28T19:44:03+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/national-c-0b1f8d23ef3b9fbe.mp3",
+      "duration_sec": 7.94,
+      "sound": null
+    },
+    {
+      "id": "reminder",
+      "kind": "reminder",
+      "block": "reminder",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+        "Посилання на всі джерела — на сайті BRIEF.",
+        "Там само можна обрати теми й регіон — і випуск підлаштується під вас."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/reminder.mp3",
+      "duration_sec": 11.73,
+      "sound": null
+    },
+    {
+      "id": "transition",
+      "kind": "transition",
+      "block": "transition",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [],
+      "sources": [],
+      "audio": null,
+      "duration_sec": 0,
+      "sound": "bumper"
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — новини регіонів."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/regional-heading.mp3",
+      "duration_sec": 2.17,
+      "sound": null
+    },
+    {
+      "id": "regional-c-00f2292332b86389",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Через удари РФ по Дніпропетровщині постраждали 6 людей, серед них підліток",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "На Синельниківщині у важкому стані госпіталізований 73-річний чоловік.",
+        "У стані середньої тяжкості госпіталізували чоловіка 40 років."
+      ],
+      "sources": [
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/p-yatero-lyudej-postrazhdaly-vnaslidok-rosijskyh-udariv-po-dnipropetrovshhyni",
+          "title": "П’ятеро людей постраждали внаслідок ударів по Дніпропетровщині",
+          "published_at": "2026-10-28T16:33:05+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227615.html",
+          "title": "Дніпропетровщина: станом на 18.30 п'ятеро постраждалих, серед них – підліток",
+          "published_at": "2026-10-28T16:41:41+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/28/776866_dnipropetrovschini_cherez.html",
+          "title": "На Дніпропетровщині через російські атаки поранені п’ятеро людей",
+          "published_at": "2026-10-28T17:19:00+00:00"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/ataky-na-dniprovshchynu-28-zhovtnia-2026",
+          "title": "П’ятеро поранених, серед них підліток: росіяни понад 40 разів атакували Дніпровщину",
+          "published_at": "2026-10-28T18:00:11+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/28/uprodovzh-dnya-rosiyany-ponad-40-raziv-atakuvaly-dnipropetrovshhynu-foto",
+          "title": "Упродовж дня росіяни понад 40 разів атакували Дніпропетровщину (ФОТО)",
+          "published_at": "2026-10-28T18:20:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-udary-rf-dnipropetrovshcyna-5-postrazhdalyh/33886170.html",
+          "title": "Через удари РФ по Дніпропетровщині постраждали 6 людей, серед них підліток",
+          "published_at": "2026-10-28T18:30:40+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/regional-c-00f2292332b86389.mp3",
+      "duration_sec": 8.78,
+      "sound": null
+    },
+    {
+      "id": "regional-c-7d063f47dbd32dfc",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Чи буде вода у Чернівцях під час блекауту: що зміниться за добу, три та 14 днів",
+      "topics": [
+        "Економіка",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У Чернівцях розробили алгоритм дій з подачі води на випадок відключення електроенергії тривалістю від 1 до 14 діб.",
+        "Чи будуть запроваджувати графіки подачі води та які джерела резервоно живлення наявні."
+      ],
+      "sources": [
+        {
+          "name": "А.С.С.",
+          "url": "https://acc.cv.ua/news/chernivtsi/vodokanal-za-povnogo-blekautu-voda-v-chernivcyah-bude-ale---za-grafikom-123002",
+          "title": "Водоканал: за повного блекауту вода в Чернівцях буде, але - за графіком",
+          "published_at": "2026-10-28T10:04:38+00:00"
+        },
+        {
+          "name": "С4",
+          "url": "https://c4.com.ua/novyny/chernivcivodokanal-mae-algoritm-dij-na-vipadok-blekautu-shho-bude-z-vodopostachannyam-u-misti",
+          "title": "«Чернівціводоканал» має алгоритм дій на випадок блекауту: що буде з водопостачанням у місті",
+          "published_at": "2026-10-28T11:16:07+00:00"
+        },
+        {
+          "name": "Шпальта",
+          "url": "https://shpalta.media/2026/10/28/yak-podavatimut-vodu-v-chernivcyax-u-razi-povnogo-vidklyuchennya-svitla-poyasnennya-direktora-vodokanalu",
+          "title": "Як подаватимуть воду в Чернівцях у разі повного відключення світла – пояснення директора водоканалу",
+          "published_at": "2026-10-28T12:19:48+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernivtsi/1438933-ci-bude-voda-u-cernivcah-pid-cas-blekautu-so-zminitsa-za-dobu-tri-ta-14-dniv",
+          "title": "Чи буде вода у Чернівцях під час блекауту: що зміниться за добу, три та 14 днів",
+          "published_at": "2026-10-28T12:28:37+00:00"
+        },
+        {
+          "name": "С4",
+          "url": "https://c4.com.ua/novyny/u-chernivcyax-vodokanal-gotuetsya-do-zimi-rezervne-zhivlennya-borgi-ta-mozhlive-pidvishhennya-tarifu",
+          "title": "У Чернівцях водоканал готується до зими: резервне живлення, борги та можливе підвищення тарифу",
+          "published_at": "2026-10-28T16:48:19+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/regional-c-7d063f47dbd32dfc.mp3",
+      "duration_sec": 12.56,
+      "sound": null
+    },
+    {
+      "id": "regional-c-7692d717353536f9",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Завагітніла і народила: у Львові 23-річного чоловіка засудили до 15 років за сексуальні злочини щодо дітей",
+      "topics": [
+        "Політика",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У Львові 23-річний чоловік отримав 15 років ув'язнення за сексуальні злочини щодо чотирьох дівчат віком від 11 до 15 років.",
+        "Одна з них народила від нього дитину."
+      ],
+      "sources": [
+        {
+          "name": "РАІ",
+          "url": "https://rai.ua/novyny/u-lvovi-cholovika-zasudyly-do-15-rokiv-za-seksualni-zlochyny-shchodo-chotyrokh-divchat",
+          "title": "У Львові чоловіка засудили до 15 років за сексуальні злочини щодо чотирьох дівчат",
+          "published_at": "2026-10-28T10:25:00+00:00"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12884-lvivyanyna-zasudyly-do-15-rokiv-uvyaznennya-za-seksualni-zlochyny-proty-malolitnikh-divchat",
+          "title": "Львів’янина засудили до 15 років ув’язнення за сексуальні злочини проти малолітніх дівчат",
+          "published_at": "2026-10-28T10:57:17+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1439095-seksualni-zlocini-sodo-ditej-u-lvovi-23-ricnogo-colovika-zasudili-do-15-rokiv",
+          "title": "Завагітніла і народила: у Львові 23-річного чоловіка засудили до 15 років за сексуальні злочини щодо дітей",
+          "published_at": "2026-10-28T13:00:00+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/28/u-lvovi-zasudyly-cholovika-vid-iakoho-nepovnolitnia-narodyla-dytynu",
+          "title": "У Львові засудили чоловіка, від якого неповнолітня народила дитину",
+          "published_at": "2026-10-28T16:47:24+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/regional-c-7692d717353536f9.mp3",
+      "duration_sec": 11.31,
+      "sound": null
+    },
+    {
+      "id": "regional-c-2640cacdff77314e",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Харкові 28 жовтня аварійно вимкнули світло",
+      "topics": [
+        "Економіка",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "У Харкові 28 жовтня ввели графіки аварійних відключень світла.",
+        "Причиною стала складна ситуація в об'єднаній енергосистемі: що відомо."
+      ],
+      "sources": [
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/u-harkovi-zaprovadili-avarijni-vidklyuchennya-svitla-cherez-obstril-energosistemi",
+          "title": "У Харкові запровадили аварійні відключення світла через обстріл енергосистеми",
+          "published_at": "2026-10-28T13:50:17+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1423057-u-harkovi-28-zovtna-avarijno-vimknuli-svitlo",
+          "title": "У Харкові 28 жовтня аварійно вимкнули світло",
+          "published_at": "2026-10-28T15:24:10+00:00"
+        },
+        {
+          "name": "Накипіло",
+          "url": "https://nakypilo.ua/novyny/u-kharkovi-avariini-vidkliuchennia-svitla",
+          "title": "У Харкові — аварійні відключення світла",
+          "published_at": "2026-10-28T15:30:46+00:00"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/10/28/u-harkovi-zaprovadili-avarijni-vidklyuchennya-elektroenergiyi",
+          "title": "У Харкові запровадили аварійні відключення електроенергії",
+          "published_at": "2026-10-28T16:32:41+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/regional-c-2640cacdff77314e.mp3",
+      "duration_sec": 9.14,
+      "sound": null
+    },
+    {
+      "id": "regional-c-4eba44f9a7bd557a",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "По дорозі до Дружківки у машину волонтерів, які їхали за пораненим, влучив FPV-дрон",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "По дорозі до Дружківки на Донеччині в автомобіль волонтерів, які їхали за пораненим, влучив FPV-дрон.",
+        "Екіпаж дивом врятувався, ночував у землянці, а зранку автівку евакуювали."
+      ],
+      "sources": [
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/nocuvali-v-blindazi-pid-zagrozoiu-droniv-rosiiani-atakuvali-avtomobil-volonteriv-iaki-yixali-evakuiuvati-poranenogo-z-druzkivki",
+          "title": "Ночували в бліндажі під загрозою дронів: росіяни атакували автомобіль волонтерів, які їхали евакуювати пораненого з Дружківки",
+          "published_at": "2026-10-28T14:15:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1439285-po-dorozi-do-druzkivki-u-masinu-volonteriv-aki-ihali-za-poranenim-vluciv-fpv-dron",
+          "title": "По дорозі до Дружківки у машину волонтерів, які їхали за пораненим, влучив FPV-дрон",
+          "published_at": "2026-10-28T14:59:32+00:00"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/u-druzhkivtsi-fpv-dron-atakuvav-volonteriv-iaki-ikhaly-po-poranenoho",
+          "title": "У Дружківці FPV-дрон атакував волонтерів, які їхали по пораненого",
+          "published_at": "2026-10-28T15:50:31+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-vdaryly-dronom-po-avto-volonteriv-iaki-ikhaly-do-druzhkivky-im-dovelosia-nochuvaty-u-blindazhi",
+          "title": "Росіяни вдарили дроном по авто волонтерів, які їхали до Дружківки: їм довелося ночувати у бліндажі",
+          "published_at": "2026-10-28T16:28:40+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/regional-c-4eba44f9a7bd557a.mp3",
+      "duration_sec": 11.13,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — Волинь."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/local-volyn-heading.mp3",
+      "duration_sec": 1.78,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-df91eec37225b6e4",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "На Волині працюють 256 пунктів незламності",
+      "topics": [
+        "Економіка",
+        "Технології та AI"
+      ],
+      "must_include": false,
+      "text": [
+        "Зігрітися, зарядити телефон і скористатися інтернетом під час тривалих відключень електроенергії волиняни можуть у 256 пунктах незламності.",
+        "Ще 100 пунктів готові до відкриття: за потреби їх мають розгорнути протягом двох годин."
+      ],
+      "sources": [
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/na-volyni-pratsiuiut-256-punktiv-nezlamnosti",
+          "title": "На Волині працюють 256 пунктів незламності",
+          "published_at": "2026-10-28T07:23:19+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-volyn-c-df91eec37225b6e4.mp3",
+      "duration_sec": 14.26,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-30a35a0ad7df68cb",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "У Луцькій громаді попрощалися з військовослужбовцем Вадимом Ляшуком, якого майже два роки вважали зниклим безвісти",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У селі Дачне Луцької громади провели в останню путь 39-річного військовослужбовця Вадима Ляшука.",
+        "Захисника майже два роки вважали зниклим безвісти."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1438807-u-luckij-gromadi-poprosalisa-z-vijskovosluzbovcem-vadimom-lasukom-akogo-majze-dva-roki-vvazali-zniklim-bezvisti",
+          "title": "У Луцькій громаді попрощалися з військовослужбовцем Вадимом Ляшуком, якого майже два роки вважали зниклим безвісти",
+          "published_at": "2026-10-28T14:05:01+00:00"
+        },
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/u-dachnomu-poproshhalysya-iz-zahysnykom-vadymom-lyashukom-yakyj-majzhe-dva-roky-vvazhavsya-znyklym-bezvisty",
+          "title": "У Дачному попрощалися із захисником Вадимом Ляшуком, який майже два роки вважався зниклим безвісти",
+          "published_at": "2026-10-28T15:49:35+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-volyn-c-30a35a0ad7df68cb.mp3",
+      "duration_sec": 9.87,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-a1d8f4ab803af7aa",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "На Волині судитимуть двох посадовців і підприємця через збитки під час ліквідації шахти",
+      "topics": [
+        "Політика",
+        "Бізнес"
+      ],
+      "must_include": false,
+      "text": [
+        "На Волині судитимуть трьох посадовців, яких обвинувачують у заволодінні понад 2,7 мільйона гривень під час ліквідації шахти №1 «Нововолинська»."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1438825-na-volini-suditimut-dvoh-posadovciv-i-pidpriemca-cerez-zbitki-pid-cas-likvidacii-sahti",
+          "title": "На Волині судитимуть двох посадовців і підприємця через збитки під час ліквідації шахти",
+          "published_at": "2026-10-28T13:23:24+00:00"
+        },
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/zbytky-blyzko-troh-miljoniv-pry-realizacziyi-proyektu-likvidacziyi-shaht-na-volyni-sudyat-troh-posadovcziv",
+          "title": "Збитки близько трьох мільйонів при реалізації проєкту ліквідації шахт – на Волині судять трьох посадовців",
+          "published_at": "2026-10-28T15:49:35+00:00"
+        },
+        {
+          "name": "Сила правди",
+          "url": "https://sylapravdy.com/sudytymut-troh-posadovcziv-u-spravi-pro-roztratu-27-milyona-na-likvidacziyi-shahty-v-novovolynsku",
+          "title": "Судитимуть трьох посадовців у справі про розтрату 2,7 мільйона на ліквідації шахти в Нововолинську",
+          "published_at": "2026-10-28T15:58:34+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-volyn-c-a1d8f4ab803af7aa.mp3",
+      "duration_sec": 9.64,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Далі — новини регіону: Хмельниччина."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/local-khmelnytskyi-heading.mp3",
+      "duration_sec": 2.72,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-5a288c34b316baae",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Одна людина загинула та пʼять травмувалися: наслідки ДТП на Хмельниччині",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Вчора, 27 жовтня, на на трасі «Житомир — Чернівці» поблизу села Веселівка, що на Хмельниччині, сталась дорожньо-транспортна пригода.",
+        "Внаслідок аварії одна людина загинула та пʼять — травмувалися."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1438751-odna-ludina-zaginula-ta-pat-travmuvalisa-naslidki-dtp-na-hmelniccini",
+          "title": "Одна людина загинула та пʼять травмувалися: наслідки ДТП на Хмельниччині",
+          "published_at": "2026-10-28T10:30:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-khmelnytskyi-c-5a288c34b316baae.mp3",
+      "duration_sec": 11.91,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-a28b98fcf6a90251",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "«Двічі рятував поранених побратимів»: у Хмельницькому попрощалися із Миколою Бедраком",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "28 жовтня у Свято-Георгіївському храмі у Хмельницькому попрощалися з 46-річним Миколою Бедраком.",
+        "До служби займався ремонтом швейних виробів."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1438911-dvici-ratuvav-poranenih-pobratimiv-u-hmelnickomu-poprosalisa-iz-mikolou-bedrakom",
+          "title": "«Двічі рятував поранених побратимів»: у Хмельницькому попрощалися із Миколою Бедраком",
+          "published_at": "2026-10-28T13:00:00+00:00"
+        },
+        {
+          "name": "Є",
+          "url": "https://ye.ua/syspilstvo/80879_Neodnorazovo_vityaguvav_poranenih_pobratimiv_z_polya_boyi___u_Hmelnickomu_poproschalisya_z_Geroyem_Mikoloyi_Bedrakom.html",
+          "title": "«Неодноразово витягував поранених побратимів з поля бою»: у Хмельницькому попрощалися з Героєм Миколою Бедраком",
+          "published_at": "2026-10-28T14:29:59+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-khmelnytskyi-c-a28b98fcf6a90251.mp3",
+      "duration_sec": 10.03,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-deaeda25928f0b43",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Чи всі школи Хмельниччини забезпеченні укриттями",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Наразі освітня мережа Хмельниччини налічує 457 закладів загальної середньої освіти."
+      ],
+      "sources": [
+        {
+          "name": "Є",
+          "url": "https://ye.ua/syspilstvo/80877_Chi_vsi_shkoli_Hmelnichchini_zabezpechenni_ukrittyami.html",
+          "title": "Чи всі школи Хмельниччини забезпеченні укриттями",
+          "published_at": "2026-10-28T10:20:50+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-khmelnytskyi-c-deaeda25928f0b43.mp3",
+      "duration_sec": 6.56,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Закарпаття: головне за добу."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/local-zakarpattia-heading.mp3",
+      "duration_sec": 2.06,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-f53b3ca2cce0f682",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "Жінка з дитиною потрапили під колеса авто на Тячівщині",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "На Тячівщині під колесами авто загинула 46-річна жінка, а 10-річну дитину доправили до лікарні."
+      ],
+      "sources": [
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/crime/143926-zhinka-z-dytynoiu-potrapyly-pid-kolesa-avto-na-tiachivshchyni",
+          "title": "Жінка з дитиною потрапили під колеса авто на Тячівщині",
+          "published_at": "2026-10-28T18:19:30+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-zakarpattia-c-f53b3ca2cce0f682.mp3",
+      "duration_sec": 7.08,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-1dad34fb0e07e6f0",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "На Ужгородщині 7-річний хлопчик потрапив до лікарні через падіння шафи",
+      "topics": [
+        "Суспільство",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "На Ужгородщині на 7-річного хлопчика впала шафа.",
+        "Дитину з переломами госпіталізували до лікарні."
+      ],
+      "sources": [
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/life/143908-na-dytynu-vpala-shafa-khlopchyka-zabraly-do-likarni",
+          "title": "На дитину впала шафа: хлопчика забрали до лікарні",
+          "published_at": "2026-10-28T07:48:52+00:00"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/na-uzhhorodshchyni-7-richnyy-khlopchyk-potrapyv-do-likarni-cherez-padinnya-shafy",
+          "title": "На Ужгородщині 7-річний хлопчик потрапив до лікарні через падіння шафи",
+          "published_at": "2026-10-28T10:21:53+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-zakarpattia-c-1dad34fb0e07e6f0.mp3",
+      "duration_sec": 6.66,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-6fae671bcb746ff7",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "Із полеглим 40-річним воїном Валентином Балогою попрощалися в Ужгороді",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "В Ужгороді у середу, 28 жовтня, в останню дорогу провели полеглого захисника – 40-річного молодшого сержанта Валентина Балогу.",
+        "Військовий загинув під час боїв на Донеччині 11 серпня 2026 року."
+      ],
+      "sources": [
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/iz-polehlym-40-richnym-voyinom-valentynom-balohoyu-poproshchalysya-v-uzhhorodi",
+          "title": "Із полеглим 40-річним воїном Валентином Балогою попрощалися в Ужгороді",
+          "published_at": "2026-10-28T14:51:27+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-28/audio/local-zakarpattia-c-6fae671bcb746ff7.mp3",
+      "duration_sec": 13.69,
+      "sound": null
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це були новини BRIEF за двадцять восьме жовтня.",
+        "Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-28/audio/outro.mp3",
+      "duration_sec": 6.11,
+      "sound": null
+    }
+  ]
+}
