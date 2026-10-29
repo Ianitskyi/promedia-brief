@@ -175,12 +175,12 @@ def lead_sentences(item, max_sentences, max_words, opening="headline"):
     it is the fallback and the check that the item is news rather than a teaser.
     """
     head = headline_sentence(item["title"])
-    if not head:
+    if not head and opening != "lead_only":
         # Annotations usually continue the headline ("...район міста") and are not
         # understandable alone, so a story without a speakable headline is skipped.
         return []
     sentences = split_sentences(item.get("description", ""))
-    if opening == "lead":
+    if opening in ("lead", "lead_only"):
         out, words = [], 0
         for s in sentences:
             if not _usable_lead(s, first=not out):
@@ -196,6 +196,8 @@ def lead_sentences(item, max_sentences, max_words, opening="headline"):
                 break
         if out:
             return out
+        if opening == "lead_only":
+            return []  # never substitute a duplicated headline for absent source lead
     out, words = [head], len(head.split())
     for s in sentences:
         n = len(s.split())
@@ -274,7 +276,7 @@ def build_story(cl, items_by_id, ed_cfg, templates, sensitive_cfg, lexicon, orde
     max_w = ed_cfg.get("key_story_words", ed_cfg["max_words_per_story"]) if key else ed_cfg["max_words_per_story"]
     leads = lead_sentences(rep, max_s, max_w, ed_cfg.get("story_opening", "headline"))
     if not leads:
-        return None, "headline is not speakable (question, label-style or too short)"
+        return None, "no independent source lead (strict spoken-news mode)"
     evidence = {m["id"]: f"{m['title']}. {m.get('description', '')}" for m in members}
     sentences = []
     for i, lead in enumerate(leads):
