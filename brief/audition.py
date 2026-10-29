@@ -48,7 +48,7 @@ def load_audition_script(script):
     if document.get("status") != "DRAFT_REQUIRES_EDITOR_REVIEW":
         raise ValueError("Only explicit editorial draft auditions are supported")
     date = document.get("date")
-    if not re.fullmatch(r"20\\d{2}-\\d{2}-\\d{2}", date or ""):
+    if not re.fullmatch(r"20\d{2}-\d{2}-\d{2}", date or ""):
         raise ValueError("Invalid edition date")
     parts = []
     for segment in document["segments"]:
