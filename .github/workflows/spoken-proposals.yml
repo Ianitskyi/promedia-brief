@@ -1,0 +1,46 @@
+name: Spoken-language draft proposals (editor review)
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Existing draft date (YYYY-MM-DD)"
+        required: true
+      max_stories:
+        description: "Maximum number of stories to adapt"
+        required: true
+        default: "10"
+      confirm_paid:
+        description: "I approve paid AI rewriting for this test"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  propose:
+    if: inputs.confirm_paid
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate proposals (does not change approved script or publish)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          BRIEF_ALLOW_PAID_REWRITE: "1"
+          EDITION_DATE: ${{ inputs.date }}
+          STORY_LIMIT: ${{ inputs.max_stories }}
+        run: |
+          test -n "$OPENAI_API_KEY" || (echo "Missing OPENAI_API_KEY secret" && exit 1)
+          test -f "editions/$EDITION_DATE/draft.json" || (echo "Draft not found" && exit 1)
+          python -m brief spoken-propose --date "$EDITION_DATE" --max-stories "$STORY_LIMIT"
+      - name: Download suggestions for editor review
+        uses: actions/upload-artifact@v4
+        with:
+          name: spoken-proposals-${{ inputs.date }}
+          path: editions/${{ inputs.date }}/spoken-proposals.json
+          retention-days: 7
