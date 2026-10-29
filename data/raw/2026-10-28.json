@@ -1,27 +1,1033 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T21:03:49+00:00",
+  "generated_at": "2026-10-29T00:55:48+00:00",
   "source_count": 124,
-  "item_count": 2814,
+  "item_count": 2866,
   "items": [
     {
-      "id": "6d881926d5cb1fa3",
+      "id": "e3cf0296b9466f9c",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/28/776926_golovne_seredu_28_zhovtnya_ataka.html",
+      "title": "Головне за середу, 28 жовтня: атака на Харків, понад 180 боєзіткнень, ухвалення закону про «дропів»",
+      "published_at": "2026-10-28T21:59:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:59:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Бойові дії на Донеччині, 181 бойове зіткнення, ворожі обстріли, підготовка гуманітарної місії в Олешках. Яким запам’ятається 1708-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "61f184383879c51a",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/28/novyna/svit/lavrov-vizme-uchast-zustrichi-ministriv-g20-ssha-bloomberg",
+      "title": "Лавров візьме участь у зустрічі міністрів G20 в США – Bloomberg",
+      "published_at": "2026-10-28T21:56:17+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:56:17 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Глава МЗС росії Сергій Лавров їде до США попри міжнародні санкції. Візит відбудеться на тлі спроб відновити переговори щодо України.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f37f2a5551de0645",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4179048-u-kirgizstani-cerez-rizik-sankcij-pripinili-robotu-ponad-50-kompanij.html",
+      "title": "У Киргизстані через ризик санкцій припинили роботу понад 50 компаній",
+      "published_at": "2026-10-28T21:56:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:56:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Станом на 20 жовтня у Киргизстані 52 підприємства припинили свою діяльність з метою зниження ризиків, пов’язаних з ухиленням від міжнародних санкцій.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3fccf3733c68605",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/messi-prohrav-holosuvannja-stalo-vidomo-khto-stav-volodarem-zolotoho-mjacha-vsikh-chasiv.html",
+      "title": "Мессі програв голосування: стало відомо, хто став володарем \"Золотого м’яча\" всіх часів",
+      "published_at": "2026-10-28T21:52:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:52:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Перше місце посів головний суперник аргентинця за всю його кар’єру.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "76421deb32493bc3",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/economics/2026/10/28/776916_minyusti_poyasnili_chi_mozhut.html",
+      "title": "В Мін'юсті пояснили, чи можуть в українців забрати житло за комунальні борги",
+      "published_at": "2026-10-28T21:50:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:50:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Сума боргу має становити понад 430 тис.грн, проте і це не означає автоматичного стягнення житла.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3f48a4c583086104",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179189-gromadi-zitomirsini-otrimali-pat-skilnih-avtobusiv.html",
+      "title": "Громади Житомирщини отримали п’ять шкільних автобусів",
+      "published_at": "2026-10-28T21:49:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:49:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Громадам Житомирщини передали п’ять шкільних автобусів.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f9f7279a06b2c40e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/hodinnik-tsokaje-ssha-j-kitaj-zaklikali-ne-zvolikati-z-kontrolem-nad-shi.html",
+      "title": "«Годинник цокає»: США й Китай закликали не зволікати з контролем над ШІ",
+      "published_at": "2026-10-28T21:49:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:49:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Шеньчжені Трамп і Сі можуть узгодити мінімальні правила для штучного інтелекту та обмін даними про небезпечні збої.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7e41e9b2a4973d18",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-trump-brazylija-bolsonaru/33886199.html",
+      "title": "Трамп заявив, що «не втручатиметься» в ситуацію в Бразилії після виїзду Болсонару до США",
+      "published_at": "2026-10-28T21:48:53+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:48:53 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Літак, у якому прилетів Болсонару разом із дружиною та двома дочками, приземлився у спеціальному аеропорту Опа-лока неподалік Маямі, штат Флорида",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1392e55e6d1f14da",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/medal-imeni-ljudini-jaka-hotuvala-povalennja-hitlera-zelenskij-otrimaje-osoblivu-nahorodu-v-nimechchini.html",
+      "title": "Медаль імені людини, яка готувала повалення Гітлера: Зеленський отримає особливу нагороду в Німеччині",
+      "published_at": "2026-10-28T21:47:37+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:47:37 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Німеччині вирішили нагородити не лише Зеленського, а й увесь український народ.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3c88c9a9b9c81ef",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/medicine/osinniy-bil-u-suglobah-prichini-sezonni-simptomi-ta-poradi-dlya-polegshennya-50653369.html",
+      "title": "Не списуйте на вік. Експерти розказали, чому суглоби болять восени і як їм насправді допомогти",
+      "published_at": "2026-10-28T21:47:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:47:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Щороку з першим переведенням годинників на зимовий час та ранковими заморозками в кабінетах лікарів починається знайомий наплив пацієнтів. Скарги завжди звучать однаково, адже тіло саме починає підказувати про наближення морозів.",
+      "categories": [
+        "Техно/Медицина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "560854e7b57e105e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/273379-u-nimechchyni-zatrymaly-dvokh-bilorusiv-za-pidozroiu-v-dyversiiakh-na-zamovlennia-rosiyi-der-spiegel",
+      "title": "У Німеччині затримали двох білорусів за підозрою в диверсіях на замовлення росії — Der Spiegel",
+      "published_at": "2026-10-28T21:46:00+00:00",
+      "published_raw": "2026-10-28T23:46:00+02:00",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "38f10ce3c37f6a35",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/vidomo-koli-i-komu-vimikatimut-svitlo-29-zhovtnya-na-cherkashhini",
+      "title": "Відомо, коли і кому вимикатимуть світло 29 жовтня на Черкащині (оновлено)",
+      "published_at": "2026-10-28T21:45:44+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:45:44 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Енергетики підготували графік вимкнень електроенергії на четвер, 29 жовтня. Про це повідомили у «Черкасиобленерго». Години відсутності електроенергії: 1.1 09:00 – 10:00, 14:00 – 16:00, 18:00 – 20:00; 1.2 10:00 – 12:00, 16:00 – 18:00, 20:00 – 21:00; 2.1 10:00 – 12:00, 14:00 – 16:00, 18:00 – 20:00; 2.2 12:00 – 14:00, 16:00 – 18:00, 20:00 – 21:00; 3.1 10:00 – 12:00, 14:00 – 16:00, 20:00 – 22:00; 3.2 08:00 – 10:00, 12:00 – 14:00, 16:00 – 18:00, 22:00 – 24:00; 4.1 08:00 – 10:00, 14:00 – 16:00, 18:00 – 20:00; 4.2 06:00 – 08:00, 14:00 – 16:00, 22:00 – 24:00;",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c6c21f7f54c24fbe",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179188-na-zakarpatti-perekrili-avarijnij-mist-bila-kurortnogo-velatina.html",
+      "title": "На Закарпатті перекрили аварійний міст біля курортного Велятина",
+      "published_at": "2026-10-28T21:43:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:43:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "На Закарпатті через пошкодження та загрозу надзвичайної ситуації тимчасово припинили автомобільний рух аварійним мостом через річку Тису поблизу курортного села Велятино у Хустському районі.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0700a3365ded36ed",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179186-z-budzetu-lvivsini-skerovuut-se-majze-40-miljoniv-na-pidtrimku-ukrainskih-oboronciv.html",
+      "title": "З бюджету Львівщини скеровують ще майже ₴40 мільйонів на підтримку українських оборонців",
+      "published_at": "2026-10-28T21:36:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:36:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "З Львівського обласного бюджету скеровують ще майже 40 млн грн на підтримку українських оборонців – допомогу отримають 18 військових формувань.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d2ca77691495a0c1",
       "source_id": "map-940",
       "source": "Букви",
       "geography": "regional",
       "source_region": "kyiv",
-      "url": "https://bukvy.org/u-kyyevi-prooperuvaly-vivcharku-yaku-politsiyant-pidstrelyv-v-ukrytti",
-      "title": "У Києві прооперували вівчарку, яку поліціянт підстрелив в укритті",
-      "published_at": "2026-10-28T21:03:52+00:00",
-      "published_raw": "Wed, 28 Oct 2026 21:03:52 +0000",
-      "fetched_at": "2026-10-28T21:03:49+00:00",
-      "description": "У Києві прооперували чорну вівчарку, яку 27 жовтня підстрелив поліцейський в укритті житлового будинку на проспекті Європейського Союзу, 94. Запис У Києві прооперували вівчарку, яку поліціянт підстрелив в укритті спершу з'явиться на Букви .",
+      "url": "https://bukvy.org/slidstvo-info-pryv-yazani-do-nomeriv-arahamiyi-akaunty-rokamy-hvalyly-jogo-vin-vse-zaperechuye",
+      "title": "Слідство. Інфо:Прив’язані до номерів Арахамії акаунти роками хвалили його, він все заперечує",
+      "published_at": "2026-10-28T21:34:06+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:34:06 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Telegram виявили акаунти, зареєстровані на особисті номери голови фракції «Слуга Народу» Давида Арахамії. Протягом кількох років із них публікували коментарі на захист політика та стверджували, що він впливає на кадрові призначення в державі. Арахамія заперечує, що писав ці повідомлення. Запис Слідство. Інфо:Прив’язані до номерів Арахамії акаунти роками хвалили його, він все заперечує спершу з'явиться на Букви .",
       "categories": [
         "Новини",
-        "ГО \"Плюшка\"",
-        "Київ",
-        "поліція Києва",
-        "собака"
+        "Давид Арахамія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "edb5188038a86559",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/niderlandi-nadadut-ukrajini-1-2-mlrd-jevro-nevijskovoji-dopomohi.html",
+      "title": "Нідерланди нададуть Україні 1,2 млрд євро невійськової допомоги",
+      "published_at": "2026-10-28T21:34:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:34:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Корецький і Шурдсма обговорили захист критичної інфраструктури та залучення інвестицій.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7fe0ebb7bd47d550",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179183-u-vinnici-oblastuvali-bezbarernij-prostir-v-odnomu-z-centriv-pervinnoi-medicnoi-dopomogi.html",
+      "title": "У Вінниці облаштували безбар’єрний простір в одному з центрів первинної медичної допомоги",
+      "published_at": "2026-10-28T21:32:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:32:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Вінниці облаштували безбар’єрний простір в Центрі первинної медико-санітарної допомоги №2.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cac6bea353d933d1",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rezhim-tishi-u-hersoni-lyudi-povertayutsya-na-vulici-pislya-pripinennya-obstriliv-50654290.html",
+      "title": "«Здається, що закінчилась війна». Як Херсон живе без обстрілів через олешківське перемир’я — BBC News Україна",
+      "published_at": "2026-10-28T21:30:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:30:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "\"Те, що у небі немає дронів, дуже відчутно - люди почали більше виходити на вулиці. Спочатку не вірили, що режим тиші справді буде, а зараз людей вже побільшало\". Так про свої враження про понад добу життя у Херсоні без обстрілів Діані Куришко, BBC News Україна, розповідає Микола Буцула, пресофіцер ДСНС у Херсонській області",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "88d3e83c85fffff2",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/sport/325577-mykolaivska-sportsmenka-zdobula-bronzu-chempionatu-ukrainy-borotby",
+      "title": "Миколаївська спортсменка здобула бронзу чемпіонату України з боротьби",
+      "published_at": "2026-10-28T21:29:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:29:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Спортсменка з Миколаївської області Дар’я Ярмощук здобула бронзову медаль на чемпіонаті України з вільної боротьби серед спортсменів віком до 16 років.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "544f6110f5b0a250",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/tennis/marta-kostyuk-nazvala-golovnu-metu-svoyeji-kar-yeri-vigrati-turnir-velikogo-shlema-50654320.html",
+      "title": "«Це дуже далеко». Марта Костюк назвала головну мету в тенісі",
+      "published_at": "2026-10-28T21:28:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:28:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Українська тенісистка Марта Костюк поділилася планами на майбутнє.",
+      "categories": [
+        "Спорт/Теніс"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f672a53a5c41ce9b",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311544-azov-uraziv-ponad-100-poyizdiv-okupantiv",
+      "title": "«Азов» уразив понад 100 поїздів окупантів",
+      "published_at": "2026-10-28T21:28:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:28:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Для роботи БПЛА підрозділи отримали 440 терміналів Starlink Mini за підтримки фонду «Повернись живим»",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4f9deeae0b4b35ec",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/sankciji-minfinu-ssha-obmezhennya-dlya-rosiyan-i-pivnichnokoreyskih-it-struktur-50654324.html",
+      "title": "США запровадили санкції проти двох росіян через допомогу ІТ-фахівцям із КНДР",
+      "published_at": "2026-10-28T21:27:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:27:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Міністерство фінансів США запровадило санкції проти двох громадян Росії, звинувативши їх у сприянні північнокорейським структурам, причетним до шахрайських схем працевлаштування ІТ-фахівців в американські компанії.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "59b7867c07865b93",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4179182-v-ispanii-sered-zniklih-bezvisti-cerez-avariu-na-zaliznici-e-kolisna-ministerka.html",
+      "title": "В Іспанії серед зниклих безвісти через аварію на залізниці є колишня міністерка",
+      "published_at": "2026-10-28T21:26:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:26:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Колишня міністерка праці Іспанії, за часів уряду Маріано Рахоя, Фатіма Баньєс значиться серед зниклих безвісти внаслідок зіткнення двох потягів у провінції Толедо.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cef60b71d03427d1",
+      "source_id": "map-764",
+      "source": "Локатор медіа",
+      "geography": "regional",
+      "source_region": "zaporizhzhia",
+      "url": "https://lokatormedia.online/ikona-ta-ordeny-dlia-znyshchenykh-posipak-do-enerhodaru-prybuv-sierhiej-kiriienko",
+      "title": "Ордени для знищених посіпак та ікона: до Енергодару прибув Сєргєй Кірієнко",
+      "published_at": "2026-10-28T21:25:13+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:25:13 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Через майже постійну відсутність світла, води та опалення на тимчасово окупованій території, соціальна напруга та невдоволення населення Запорізької області досягли свого піку. Щоб ознайомитись з реальним станом речей та перевірити, наскільки доповіді Євгена Балицького відповідають дійсності, 28 жовтня туди прибув перший заступник керівника адміністрації президента росії Сєргєй Кірієнко. Свій вояж політичний куратор ТОТ розпочав з […] Сообщение Ордени для знищених посіпак та ікона: до Енергодару прибув Сєргєй Кірієнко появились сначала на Локатор-Медіа .",
+      "categories": [
+        "Новини",
+        "Окупація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "417085a4569242d1",
+      "source_id": "hromadske-radio",
+      "source": "Громадське радіо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.radio/news/2026/10/28/pravozakhysnytsia-rozpovila-pro-trudnoshchi-z-povernenniam-vykradenykh-rosiieiu-ukrainskykh-ditey",
+      "title": "Правозахисниця розповіла про труднощі з поверненням викрадених Росією українських дітей",
+      "published_at": "2026-10-28T21:24:06+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:24:06 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Повністю розмову з Катериною Рашевською слухайте в доданому аудіофайлі Запис Правозахисниця розповіла про труднощі з поверненням викрадених Росією українських дітей спершу з'явиться на Громадське радіо .",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "144aa23ca264a109",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/dani-zakrytyh-startapiv-dlya-shi-938r66",
+      "title": "Дані збанкрутілих стартапів купують лабораторії ШІ: за що платять",
+      "published_at": "2026-10-28T21:24:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:24:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Засновник криптостартапу не вірив, що архіви закритої компанії чогось варті. Їх купили за десятки тисяч доларів лабораторії штучного інтелекту.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9a3c0278e2b5fe31",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131333-te-shcho-vi-os-os-pobachite-z-oleshkiv-brehnya-svitovi-media-pro-rosiysko-ukrajinsku-viynu-28-zhovtnya",
+      "title": "«Те, що ви ось-ось побачите з Олешків, — брехня». Світові медіа про російсько-українську війну 28 жовтня",
+      "published_at": "2026-10-28T21:23:00+00:00",
+      "published_raw": "Wed, 28 Oct 26 23:23:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ba9e68fad63fb8a1",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/28/776918_29_zhovtnya_ukrayini_mistsyami.html",
+      "title": "29 жовтня в Україні місцями дощитиме, температура вночі опуститься до +2°",
+      "published_at": "2026-10-28T21:22:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:22:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "В західних областях через сильний туман оголосили І рівень небезпечності.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ad9fe803eb3f433b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179180-u-dnipri-vidkrili-centr-reabilitacii-pri-travmah-spinnogo-mozku.html",
+      "title": "У Дніпрі відкрили центр реабілітації при травмах спинного мозку",
+      "published_at": "2026-10-28T21:20:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:20:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Дніпрі відкрили регіональний центр реабілітації при травмах спинного мозку, розрахований на 34 стаціонарні місця.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73b4eb474bde3a27",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1227679.html",
+      "title": "\"Лава\" вперше в історії провела успішну місію НРК під керуванням штучного інтелекту в бойових умовах",
+      "published_at": "2026-10-28T21:14:47+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:14:47 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "На Харківському напрямку полк безпілотних систем \"Лава\" 2-го корпусу НГУ \"Хартія\" провів автономну логістичну місію наземного роботизованого комплексу (НРК) зі штучним інтелектом.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e059420a23d6a714",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/vstup-ukrajini-do-yes-posol-sprostuvav-blokuvannya-vidkrittya-klasteriv-ugorshchinoyu-50654273.html",
+      "title": "Угорщина не блокувала відриття останніх двох переговорних кластерів про вступ України до ЄС — Шандор",
+      "published_at": "2026-10-28T21:14:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:14:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Посол України в Угорщині Федір Шандор в інтерв'ю Radio NV заявив, що Угорщина не блокувала відкриття двох останніх кластерів переговорів про вступ України у Євросоюз.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9e0b7c546c55b439",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/grupa-dvadcyati-lavrov-ocholit-delegaciyu-rosiji-na-zustrichi-v-atlanti-30-31-zhovtnya-50654318.html",
+      "title": "Лавров, який перебуває під санкціями, поїде до США на зустріч міністрів закордонних справ G20 — Bloomberg",
+      "published_at": "2026-10-28T21:13:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:13:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Міністр закордонних справ Росії Сергій Лавров очолить російську делегацію на зустрічі глав МЗС країн Групи двадцяти, яка відбудеться 30−31 жовтня в американській Атланті.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c5b265701a67f42a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/kolishnij-futbolist-shakhtarja-prodovzhiv-karjeru-v-bolhariji-pislja-pojavi-informatsiji-pro-mobilizatsiju-do-zsu.html",
+      "title": "Колишній футболіст \"Шахтаря\" продовжив кар'єру в Болгарії після появи інформації про мобілізацію до ЗСУ",
+      "published_at": "2026-10-28T21:12:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:12:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Владислав Вакула виїхав з України.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "62f85bdffcd9aa50",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-hersoni-na-tli-rezhymu-tyshi-pomityly-pozhvavlennya-na-vulytsyah-mista",
+      "title": "У Херсоні на тлі режиму тиші помітили пожвавлення на вулицях міста",
+      "published_at": "2026-10-28T21:11:35+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:11:35 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Херсоні ввечері 28 жовтня помітили пожвавлення руху на вулицях. Зокрема, на межі Центрального та Корабельного районів, у районі Європорту, о 17:00 було людно. Запис У Херсоні на тлі режиму тиші помітили пожвавлення на вулицях міста спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Війна в Україні",
+        "мер Херсона",
+        "припинення вогню",
+        "режим тиші"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a45c3d42642901b1",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/virgin-galactic-delta-spaceship-reveal-pn410w",
+      "title": "Virgin Galactic Delta: коли космоплан почне возити туристів",
+      "published_at": "2026-10-28T21:11:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:11:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Virgin Galactic 28 жовтня показує перший космоплан Delta і везе його до Spaceport America, де чекає наступний етап.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "82560fa674242df1",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-biznesmen-kamenshchyk-domodedovo-israel/33886198.html",
+      "title": "Бізнесмен, у якого в РФ забрали аеропорт «Домодєдово», отримав громадянство Ізраїлю",
+      "published_at": "2026-10-28T21:10:29+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:10:29 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Дмитро Каменщик фактично контролював «Домодєдово» з початку 1990-х років",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b5e4bcb10c4272a8",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1227677.html",
+      "title": "Сенатор США вимагає від грецької компанії відкликати танкер з російським дизелем, що прямує до США",
+      "published_at": "2026-10-28T21:10:03+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:10:03 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Сенатор США від демократичної партії Річард Блюменталь вимагає від грецької судноплавної компанії Eastern Mediterranean Maritime (EASTMED) відкликати танкер Agioi Fanendes, який, за його даними, везе російське дизпаливо до порту Нью-Йорка і Нью-Джерсі.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dc95e6b768b060e7",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/v-odesi-evakuyuvatymut-avtivky-yaki-blokuyut-ruh-tramvayiv-i-trolejbusiv",
+      "title": "В Одесі евакуюватимуть автівки, які блокують рух трамваїв і тролейбусів,",
+      "published_at": "2026-10-28T21:10:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:10:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "На їхніх власників чекають штрафи та компенсація збитків за простій, – повідомили в Одеській міськраді. Хаотичне паркування та залишені на коліях щодня паралізують рух електротранспорту, змушуючи тисячі одеситів чекати на зупинках та завдаючи місту значних збитків. Аби розв’язати цю проблему, Одеська міська рада затвердила Порядок дій на випадок блокування міського електротранспорту сторонніми автомобілями. Інспектори з [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bb1aabdc9b103f1f",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-dvoh-medychnyh-zakladah-luczka-utvoryly-naglyadovi-rady-ta-zatverdyly-yihnij-sklad",
+      "title": "У двох медичних закладах Луцька утворили наглядові ради та затвердили їхній склад",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Відповідне рішення депутати ухвалили у середу, 28 жовтня, під час пленарного засідання 101-ї сесії міської ради. Про це повідомляють на сайті Луцькради. Наглядові ради утворили у комунальних підприємствах «Медичне об’єднання Луцької міської територіальної громади» та «Медичний центр реабілітації учасників бойових дій Луцької міської територіальної громади». До складу наглядових рад строком на п’ять років увійшли незалежні […] The post У двох медичних закладах Луцька утворили наглядові ради та затвердили їхній склад appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e6a4f5c198bcb34f",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-luczku-rozpochynayetsya-pidgotovka-do-opalyuvalnogo-sezonu",
+      "title": "У Луцьку розпочинається підготовка до опалювального сезону",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Від завтра, 29 жовтня, вранці ДКП «Луцьктепло» розпочне переведення системи централізованого теплопостачання з літнього на зимовий режим роботи. У зв’язку з цим продовж дня можливі перебої з постачанням гарячої води. Про це повідомляють на сторінці Луцької міської ради у “Фейсбук”. Надалі відстежуватимуть середньодобову температуру зовнішнього повітря, щоб своєчасно розпочати подачу опалення. У першу чергу тепло […] The post У Луцьку розпочинається підготовка до опалювального сезону appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "997aff1f74f0a877",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/zaklady-osvity-volodymyrskoyi-gromady-napysaly-radiodyktant-naczionalnoyi-yednosti",
+      "title": "Заклади освіти Володимирської громади написали Радіодиктант національної єдності",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "27 жовтня, у День української писемності та мови, учні, вихованці, вчителі, вихователі та керівники закладів освіти долучилися до найбільшого єднального флешмобу країни, одночасно взявши до рук ручки, щоб продемонструвати всьому світові: українська мова – це наш генетичний код, наша зброя та символ незламності. Про це повідомляють на сайті міста Володимира. Цьогорічний текст під назвою «Лист, […] The post Заклади освіти Володимирської громади написали Радіодиктант національної єдності appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8f3cfd1c3d455b77",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/naperedodni-profesijnogo-svyata-na-volyni-pryvitaly-fahivcziv-soczialnoyi-sfery",
+      "title": "Напередодні професійного свята на Волині привітали фахівців соціальної сфери",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "У першу неділю листопада в Україні відзначають День працівника соціальної сфери. Напередодні свята т.в.о. начальника Волинської ОВА Роман Романюк привітав фахівців соціальної сфери області та вручив їм відзнаки за сумлінну працю. Про це повідомляють на сайті Волинської ОВА. «Дякую кожному з вас за відданість своїй справі. Нехай добро, яке ви щодня даруєте людям, повертається до […] The post Напередодні професійного свята на Волині привітали фахівців соціальної сфери appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "235b14e86a614953",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/bezpechne-sporyadzhennya-dlya-yunogo-rajdera-yak-kupyty-pidlitkovyj-motosholom-dlya-zahystu",
+      "title": "Безпечне спорядження для юного райдера: як купити підлітковий мотошолом для захисту*",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Перша поїздка на мотоциклі чи скутері дарує емоції та свободу. Однак необхідно подбати і про екіпірування для юних мотоциклістів. Любителі-початківці роблять помилку, роблячи свій вибір тільки за забарвленням корпусу. У цьому матеріалі розповімо, як грамотно купити підлітковий мотошолом з гарантією надійності. Також розберемо інформацію про підбір розмірів, перевірку матеріалів та характеристики виробів. Адже надійне спорядження […] The post Безпечне спорядження для юного райдера: як купити підлітковий мотошолом для захисту* appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e632f358f5ffdac",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-novovolynsku-veterany-mozhut-skorystatysya-inklyuzyvnym-avtomobilem",
+      "title": "У Нововолинську ветерани можуть скористатися інклюзивним автомобілем",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Ветеран 100-ї ОМБр Олександр Марчук скористався інклюзивним автомобілем, щоб дістатися на операцію до Тернопільської обласної клінічної лікарні та повернутися додому. Каже, що автобусом доїхати було складно, тому звернувся до фахівців із супроводу ветеранів та демобілізованих осіб. Про це повідомляють на сторінці Нововолинської міської ради у “Фейсбук”. “Автомобіль просторий, обладнаний пандусом і пристосований для перевезення людей, […] The post У Нововолинську ветерани можуть скористатися інклюзивним автомобілем appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "326031119627272e",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/teatr-10-ryad-10-miscze-zaproshuye-kovelchan-na-premyeru-vystavy-2",
+      "title": "Театр «10 ряд 10 місце» запрошує ковельчан на прем’єру вистави",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Зразковий дитячий театр-студія “10 ряд 10 місце” запрошує на нову сімейну виставу для дітей та дорослих — казку-притчу “Біля ковчега о восьмій” за однойменним твором Ульріха Хуба. Про це повідомляє Ковельська міська рада. “Це цікава, дотепна, але водночас — дуже зворушлива історія про справжню дружбу, заради якої можна усім ризикнути. Історія про віру і сумніви, […] The post Театр «10 ряд 10 місце» запрошує ковельчан на прем’єру вистави appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e70beb2117793694",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/na-dnipropetrovshhyni-zagynuv-geroj-iz-kamenya-kashyrskogo-volodymyr-lishhuk",
+      "title": "На Дніпропетровщині загинув Герой із Каменя-Каширського Володимир Ліщук",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "25 жовтня 2026 року, захищаючи Україну поблизу н. п. Межова Синельниківського району Дніпропетровської області, загинув наш краянин з Каменя-Каширського – Ліщук Володимир Миколайович, 1989 року народження. Про це повідомляють на сторінці Камінь-Каширської громади у “Фейсбук”. Майже чотири роки мужній Захисник боронив українську землю від російського окупанта. Нині – Володимир навіки в строю Небесного воїнства. “Камінь-Каширська […] The post На Дніпропетровщині загинув Герой із Каменя-Каширського Володимир Ліщук appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b6c0dd944798c538",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/na-volyni-vyyavyly-netverezogo-kermanycha",
+      "title": "На Волині виявили нетверезого керманича",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T20:29:03+00:00",
+      "description": "Сьогодні вранці, 28 жовтня, в селі Великий Омеляник патрульні зупинили автомобіль Volkswagen, який рухався з порушенням ПДР, а саме водій не користувався ременем безпеки. Про це повідомляють на сторінці патрульних у “Фейсбук”. Під час спілкування з керманичем ми помітили у нього ознаки алкогольного сп’яніння. Чоловік пройшов огляд на місці за допомогою приладу Драгер. Результат огляду […] The post На Волині виявили нетверезого керманича appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "deac000ca964f4f2",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/na-volyni-pryjnyaly-rishennya-shhodo-podalshyi-roboty-doshkilnogo-viddilennya-sonechko-krupivskogo-nrcz",
+      "title": "На Волині прийняли рішення щодо подальшї роботи дошкільного відділення «Сонечко» Крупівського НРЦ",
+      "published_at": "2026-10-28T21:08:25+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:08:25 +0200",
+      "fetched_at": "2026-10-28T21:03:49+00:00",
+      "description": "Сьогодні, 28 жовтня 2026 року, під керівництвом т.в.о. начальника ОВА Романа Романюка, голови обласної ради Григорія Недопада відбулась нарада за участі депутатів обласної ради, трудового колективу, батьків та керівництва Ківерцівської громади, де прийняли рішення щодо дошкільного відділення «Сонечко» Крупівського НРЦ. Про це провідомляють на сайті Волинської ОВА. Нагадаємо, зміни в бюджетному законодавстві зумовили необхідність переглянути […] The post На Волині прийняли рішення щодо подальшї роботи дошкільного відділення «Сонечко» Крупівського НРЦ appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8a15ec42972cae6e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/273378-povynni-vrakhovuvaty-interesy-zovnishnyoyi-polityky-rishennia-pro-rik-upa-na-lvivshchyni-dosi-ne-pidpysaly-kozytskyy",
+      "title": "«Повинні враховувати інтереси зовнішньої політики». Рішення про «рік УПА» на Львівщині досі не підписали — голова ОВА",
+      "published_at": "2026-10-28T21:08:00+00:00",
+      "published_raw": "2026-10-28T23:08:00+02:00",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1889b467235c5dda",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://life.nv.ua/ukr/krasota-i-moda/dzhinsi-yaki-obozhnyuyut-modnici-voseni-trendovi-fasoni-dlya-stilnih-obraziv-foto-50653114.html",
+      "title": "Свіжий погляд на класику. Трендові джинси, які освіжать гардероб восени",
+      "published_at": "2026-10-28T21:07:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:07:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Коричневі джинси — це свіжий погляд на класику та обов’язковий елемент вашого осіннього гардероба. Від моделей із широкими штанинами до ультрамодного силуету «барило» — ви з легкістю знайдете ідеальну пару коричневих джинсів.",
+      "categories": [
+        "Life/Краса та мода"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b126a6fd4cd19cb6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/evakuaciya-z-oleshok-shcho-zadumala-rosiya-i-yaki-vigodi-dlya-trampa-ocinka-molchanova-novini-ukrajini-50654228.html",
+      "title": "«Росіяни люблять двоходівки». Як РФ використовує перемир’я в Олешках і чого чекати після закінчення режиму тиші — інтерв'ю з Молчановим",
+      "published_at": "2026-10-28T21:06:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:06:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Військовослужбовець, політолог Володимир Молчанов розповів в ефірі Radio NV, чому насправді РФ погодилася на припинення вогню і евакуацію з окупованих Олешків, які є ризики та що відомо про американський супровід цієї операції.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ad2673b89910f6f4",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4179179-ukraina-domovlaetsa-z-evropejskimi-regionami-pro-avtobusi-j-generatori-bezgin.html",
+      "title": "Україна домовляється з європейськими регіонами про автобуси й генератори - Безгін",
+      "published_at": "2026-10-28T21:05:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:05:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Під час зустрічей у Раді Європи в Страсбурзі українська сторона обговорила з європейськими партнерами нагальні потреби громад та можливу допомогу їм генераторами, шкільними автобусами, облаштуванням шкільних укриттів та поповненням парку комунальної техніки.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2170023471632130",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/samsung-vipustila-nezvicni-navusniki-za-229-iz-gemini-ta-keruvannyam-zestami-pjzn2o",
+      "title": "Samsung випустила незвичні навушники за $229 із Gemini та керуванням жестами",
+      "published_at": "2026-10-28T21:05:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:05:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Samsung оголосила ціну нових бездротових навушників Galaxy Buds On у США — $229. Вони мають конструкцію відкритого типу, яка дає змогу слухати музику й подкасти, не ізолюючись від навколишніх звуків. Передзамовлення стартували 28 жовтня, а доставлення очікується на початку листопада 2026 року.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5bcce187e2c909cd",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/newsmax-i-fox-news-dopustili-do-oleshok-rosiya-organizuye-kontrolovaniy-vizit-zhurnalistiv-50654319.html",
+      "title": "«Це штучно створене пекло». Росія влаштує пропагандистське шоу в окупованих Олешках — The Atlantic",
+      "published_at": "2026-10-28T21:04:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:04:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Росія дозволить обраним американським журналістам телеканалу Newsmax та Fox News відвідати окуповані Олешки на Херсонщині під супроводом російських військових, однак така поїздка може стати інструментом кремлівської пропаганди.",
+      "categories": [
+        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -180,6 +1186,25 @@
       "status": "new"
     },
     {
+      "id": "f9ffe61221b92721",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/blogs/stravi-zi-slivami-5-receptiv-peremozhnici-mastershef-natalki-nikishinoji-50654302.html",
+      "title": "Встигніть до кінця сезону. Що приготувати зі сливами",
+      "published_at": "2026-10-28T21:03:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:03:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Поки ще можна знайти соковиті плоди з легкою кислинкою, раджу спробувати кілька нових поєднань",
+      "categories": [
+        "Блоги.Life"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "85d7fad7bd76157c",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -216,6 +1241,48 @@
       "status": "new"
     },
     {
+      "id": "1f301e955ec81c55",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/ukraina-shagnula-k-sobstvennomu-starlink-na-orbite-zarabotal-pervyj-ukrainskij-sputnik-svyazi",
+      "title": "Украина шагнула к собственному Starlink: на орбите заработал первый украинский спутник связи",
+      "published_at": "2026-10-28T21:00:01+00:00",
+      "published_raw": "Wed, 28 Oct 2026 21:00:01 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Украина начала испытания спутниковой технологии, которая в перспективе должна снизить зависимость страны от иностранных систем связи. Первый аппарат будущей сети OBRIA уже работает на орбите, однако до создания полноценной системы предстоит пройти несколько этапов. Сообщение Украина шагнула к собственному Starlink: на орбите заработал первый украинский спутник связи появились сначала на Одеське життя .",
+      "categories": [
+        "Positive News",
+        "Новости Одессы",
+        "новые технологии",
+        "связь",
+        "технологии"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "24904b451acfd17d",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/the-atlantic-te-shcho-vi-pobachite-z-oleshok-brekhnja.html",
+      "title": "The Atlantic: «Те, що ви побачите з Олешок, — брехня»",
+      "published_at": "2026-10-28T21:00:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 23:00:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Авторка колонки вважає, що Кремль хоче використати гуманітарну місію для власної пропаганди.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "30a37baf02f1755c",
       "source_id": "map-365",
       "source": "Твоє місто",
@@ -229,6 +1296,63 @@
       "description": "Сьогодні мешканці вулиць Княгині Ольги та Володимира Великого зафіксували диких тварин неподалік домівок. Фахівці обласного центру контролю та профілактики хвороб пояснюють, як захистити себе та домашніх улюбленців.",
       "categories": [
         "Здоровʼя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "462780aa20fc254d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/plani-rf-shchodo-yes-ta-ukrajini-scenariji-kremlya-pislya-viboriv-u-ssha-50654157.html",
+      "title": "Розмова Стубба з Путіним: жодних мирних переговорів у найближчі місяці",
+      "published_at": "2026-10-28T20:59:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 22:59:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "У Росії розглядають два базові сценарії, які поки не передбачають жодної деескалації. Варіанти сценаріїв залежать перш за все від результатів виборів у США",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e31ffd2ddf2f5e3a",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/news/2026/10/28/776914_mikita_poturaiev_ocholiv.html",
+      "title": "Микита Потураєв очолив Парламентську асамблею ОБСЄ",
+      "published_at": "2026-10-28T20:59:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 22:59:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Він виконуватиме обов'язки президента до обрання нового очільника в липні 2027 року.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0c6bb29a736d0beb",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/goroskopy/365733-levam-zminy-skorpionam-surpryz-goroskop-na-zavtra-29-zhovtnia.html",
+      "title": "Левам - зміни, Скорпіонам - сюрприз: гороскоп на завтра, 29 жовтня",
+      "published_at": "2026-10-28T20:58:29+00:00",
+      "published_raw": "Wed, 28 Oct 2026 22:58:29 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Астрологи розповіли, що пророкують зірки на 29 жовтня всім знакам зодіаку.",
+      "categories": [
+        "Гороскопи"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -306,6 +1430,48 @@
       "fetched_at": "2026-10-28T21:03:49+00:00",
       "description": "Російські військові почали використовували для ударів по Запоріжжю новий тип FPV-дрона з кільцевим крилом «Князь Володимир Святославович»",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8216ba860cee589c",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311543-ssha-ne-vimagatimut-vid-ukrayini-teritorialnih-postupok-na-peregovorah-v-abu-dabi-ft",
+      "title": "США не вимагатимуть від України територіальних поступок на переговорах в Абу-Дабі — FT",
+      "published_at": "2026-10-28T20:55:00+00:00",
+      "published_raw": "Wed, 28 Oct 2026 22:55:00 +0200",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "США та росія також обговорюють спільне американо-російське підприємства біля узбережжя острова Сахалін",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6d881926d5cb1fa3",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-kyyevi-prooperuvaly-vivcharku-yaku-politsiyant-pidstrelyv-v-ukrytti",
+      "title": "У Києві прооперували вівчарку, яку поліціянт підстрелив в укритті",
+      "published_at": "2026-10-28T20:53:52+00:00",
+      "published_raw": "Wed, 28 Oct 2026 20:53:52 +0000",
+      "fetched_at": "2026-10-28T21:03:49+00:00",
+      "description": "У Києві прооперували чорну вівчарку, яку 27 жовтня підстрелив поліцейський в укритті житлового будинку на проспекті Європейського Союзу, 94. Запис У Києві прооперували вівчарку, яку поліціянт підстрелив в укритті спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "ГО \"Плюшка\"",
+        "Київ",
+        "поліція Києва",
+        "собака"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -540,206 +1706,6 @@
       "status": "new"
     },
     {
-      "id": "bb1aabdc9b103f1f",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-dvoh-medychnyh-zakladah-luczka-utvoryly-naglyadovi-rady-ta-zatverdyly-yihnij-sklad",
-      "title": "У двох медичних закладах Луцька утворили наглядові ради та затвердили їхній склад",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Відповідне рішення депутати ухвалили у середу, 28 жовтня, під час пленарного засідання 101-ї сесії міської ради. Про це повідомляють на сайті Луцькради. Наглядові ради утворили у комунальних підприємствах «Медичне об’єднання Луцької міської територіальної громади» та «Медичний центр реабілітації учасників бойових дій Луцької міської територіальної громади». До складу наглядових рад строком на п’ять років увійшли незалежні […] The post У двох медичних закладах Луцька утворили наглядові ради та затвердили їхній склад appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "e6a4f5c198bcb34f",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-luczku-rozpochynayetsya-pidgotovka-do-opalyuvalnogo-sezonu",
-      "title": "У Луцьку розпочинається підготовка до опалювального сезону",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Від завтра, 29 жовтня, вранці ДКП «Луцьктепло» розпочне переведення системи централізованого теплопостачання з літнього на зимовий режим роботи. У зв’язку з цим продовж дня можливі перебої з постачанням гарячої води. Про це повідомляють на сторінці Луцької міської ради у “Фейсбук”. Надалі відстежуватимуть середньодобову температуру зовнішнього повітря, щоб своєчасно розпочати подачу опалення. У першу чергу тепло […] The post У Луцьку розпочинається підготовка до опалювального сезону appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "997aff1f74f0a877",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/zaklady-osvity-volodymyrskoyi-gromady-napysaly-radiodyktant-naczionalnoyi-yednosti",
-      "title": "Заклади освіти Володимирської громади написали Радіодиктант національної єдності",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "27 жовтня, у День української писемності та мови, учні, вихованці, вчителі, вихователі та керівники закладів освіти долучилися до найбільшого єднального флешмобу країни, одночасно взявши до рук ручки, щоб продемонструвати всьому світові: українська мова – це наш генетичний код, наша зброя та символ незламності. Про це повідомляють на сайті міста Володимира. Цьогорічний текст під назвою «Лист, […] The post Заклади освіти Володимирської громади написали Радіодиктант національної єдності appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "8f3cfd1c3d455b77",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/naperedodni-profesijnogo-svyata-na-volyni-pryvitaly-fahivcziv-soczialnoyi-sfery",
-      "title": "Напередодні професійного свята на Волині привітали фахівців соціальної сфери",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "У першу неділю листопада в Україні відзначають День працівника соціальної сфери. Напередодні свята т.в.о. начальника Волинської ОВА Роман Романюк привітав фахівців соціальної сфери області та вручив їм відзнаки за сумлінну працю. Про це повідомляють на сайті Волинської ОВА. «Дякую кожному з вас за відданість своїй справі. Нехай добро, яке ви щодня даруєте людям, повертається до […] The post Напередодні професійного свята на Волині привітали фахівців соціальної сфери appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "235b14e86a614953",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/bezpechne-sporyadzhennya-dlya-yunogo-rajdera-yak-kupyty-pidlitkovyj-motosholom-dlya-zahystu",
-      "title": "Безпечне спорядження для юного райдера: як купити підлітковий мотошолом для захисту*",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Перша поїздка на мотоциклі чи скутері дарує емоції та свободу. Однак необхідно подбати і про екіпірування для юних мотоциклістів. Любителі-початківці роблять помилку, роблячи свій вибір тільки за забарвленням корпусу. У цьому матеріалі розповімо, як грамотно купити підлітковий мотошолом з гарантією надійності. Також розберемо інформацію про підбір розмірів, перевірку матеріалів та характеристики виробів. Адже надійне спорядження […] The post Безпечне спорядження для юного райдера: як купити підлітковий мотошолом для захисту* appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "5e632f358f5ffdac",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-novovolynsku-veterany-mozhut-skorystatysya-inklyuzyvnym-avtomobilem",
-      "title": "У Нововолинську ветерани можуть скористатися інклюзивним автомобілем",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Ветеран 100-ї ОМБр Олександр Марчук скористався інклюзивним автомобілем, щоб дістатися на операцію до Тернопільської обласної клінічної лікарні та повернутися додому. Каже, що автобусом доїхати було складно, тому звернувся до фахівців із супроводу ветеранів та демобілізованих осіб. Про це повідомляють на сторінці Нововолинської міської ради у “Фейсбук”. “Автомобіль просторий, обладнаний пандусом і пристосований для перевезення людей, […] The post У Нововолинську ветерани можуть скористатися інклюзивним автомобілем appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "326031119627272e",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/teatr-10-ryad-10-miscze-zaproshuye-kovelchan-na-premyeru-vystavy-2",
-      "title": "Театр «10 ряд 10 місце» запрошує ковельчан на прем’єру вистави",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Зразковий дитячий театр-студія “10 ряд 10 місце” запрошує на нову сімейну виставу для дітей та дорослих — казку-притчу “Біля ковчега о восьмій” за однойменним твором Ульріха Хуба. Про це повідомляє Ковельська міська рада. “Це цікава, дотепна, але водночас — дуже зворушлива історія про справжню дружбу, заради якої можна усім ризикнути. Історія про віру і сумніви, […] The post Театр «10 ряд 10 місце» запрошує ковельчан на прем’єру вистави appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "e70beb2117793694",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/na-dnipropetrovshhyni-zagynuv-geroj-iz-kamenya-kashyrskogo-volodymyr-lishhuk",
-      "title": "На Дніпропетровщині загинув Герой із Каменя-Каширського Володимир Ліщук",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "25 жовтня 2026 року, захищаючи Україну поблизу н. п. Межова Синельниківського району Дніпропетровської області, загинув наш краянин з Каменя-Каширського – Ліщук Володимир Миколайович, 1989 року народження. Про це повідомляють на сторінці Камінь-Каширської громади у “Фейсбук”. Майже чотири роки мужній Захисник боронив українську землю від російського окупанта. Нині – Володимир навіки в строю Небесного воїнства. “Камінь-Каширська […] The post На Дніпропетровщині загинув Герой із Каменя-Каширського Володимир Ліщук appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "b6c0dd944798c538",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/na-volyni-vyyavyly-netverezogo-kermanycha",
-      "title": "На Волині виявили нетверезого керманича",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Сьогодні вранці, 28 жовтня, в селі Великий Омеляник патрульні зупинили автомобіль Volkswagen, який рухався з порушенням ПДР, а саме водій не користувався ременем безпеки. Про це повідомляють на сторінці патрульних у “Фейсбук”. Під час спілкування з керманичем ми помітили у нього ознаки алкогольного сп’яніння. Чоловік пройшов огляд на місці за допомогою приладу Драгер. Результат огляду […] The post На Волині виявили нетверезого керманича appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "deac000ca964f4f2",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/na-volyni-pryjnyaly-rishennya-shhodo-podalshyi-roboty-doshkilnogo-viddilennya-sonechko-krupivskogo-nrcz",
-      "title": "На Волині прийняли рішення щодо подальшї роботи дошкільного відділення «Сонечко» Крупівського НРЦ",
-      "published_at": "2026-10-28T20:39:32+00:00",
-      "published_raw": "Wed, 28 Oct 2026 22:39:32 +0200",
-      "fetched_at": "2026-10-28T21:03:49+00:00",
-      "description": "Сьогодні, 28 жовтня 2026 року, під керівництвом т.в.о. начальника ОВА Романа Романюка, голови обласної ради Григорія Недопада відбулась нарада за участі депутатів обласної ради, трудового колективу, батьків та керівництва Ківерцівської громади, де прийняли рішення щодо дошкільного відділення «Сонечко» Крупівського НРЦ. Про це провідомляють на сайті Волинської ОВА. Нагадаємо, зміни в бюджетному законодавстві зумовили необхідність переглянути […] The post На Волині прийняли рішення щодо подальшї роботи дошкільного відділення «Сонечко» Крупівського НРЦ appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "6b8607fb6e002102",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -855,11 +1821,11 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/ukraine/politics/david-arahamiya-komentari-z-nomera-nardepa-rozhvalyuvali-yogo-v-merezhi-rozsliduvannya-50654314.html",
-      "title": "«Впливає на Верховний суд та Укроборонпром». Прив’язані до номерів Арахамії акаунти роками хвалили його. Він все заперечує — Слідство. Інфо",
+      "title": "«Впливає на Верховний суд та Укроборонпром». Прив’язані до номерів Арахамії акаунти роками хвалили його, він все заперечує — Слідство. Інфо",
       "published_at": "2026-10-28T20:33:00+00:00",
       "published_raw": "Wed, 28 Oct 2026 22:33:00 +0200",
       "fetched_at": "2026-10-28T21:03:49+00:00",
-      "description": "У Telegram-чатах з акаунтів, прив’язані до телефонних номерів голови фракції Слуга народа в парламенті Давида Арахамії, залишали коментарі, в яких його просували як особу, здатну впливати на ключові кадрові призначення в країні.",
+      "description": "У Telegram-чатах з акаунтів, прив’язаних до телефонних номерів голови фракції Слуга народу в парламенті Давида Арахамії, залишали коментарі, в яких його просували як особу, здатну впливати на ключові кадрові призначення в країні.",
       "categories": [
         "Україна/Політика"
       ],
@@ -1171,7 +2137,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://ukrinform.ua/rubric-ato/4179171-na-fronti-za-dobu-stalosa-181-zitknenna-najgaracisij-pokrovskij-napramok.html",
-      "title": "На фронті за добу сталося 181 зіткнення, найгарячіший - покровський Напрямок",
+      "title": "На фронті за добу сталося 181 зіткнення, найгарячіший - Покровський напрямок",
       "published_at": "2026-10-28T20:21:00+00:00",
       "published_raw": "Wed, 28 Oct 2026 22:21:00 +0200",
       "fetched_at": "2026-10-28T20:29:03+00:00",
@@ -1465,6 +2431,29 @@
       "fetched_at": "2026-10-28T21:03:49+00:00",
       "description": "",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd07274ee1d8dbf1",
+      "source_id": "map-1116",
+      "source": "Львівський портал",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://portal.lviv.ua/news/2026/10/28/ekskomanduvach-syl-bezpilotnykh-system-sukharevskyj-ocholyv-morsku-pikhotu-vms",
+      "title": "Екскомандувач Сил безпілотних систем Сухаревський очолив морську піхоту ВМС",
+      "published_at": "2026-10-28T20:08:45+00:00",
+      "published_raw": "Wed, 28 Oct 2026 20:08:45 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Колишній командувач Сил безпілотних систем ЗСУ, Герой України полковник Вадим Сухаревський став новим командувачем морської піхоти Військово-морських сил України. На цій посаді він замінив генерал-майора Дмитра Делятицького. Про це повідомляє «Інтерфакс-Україна» з посиланням на поінформовані джерела, передає Львівський портал. Причини нових кадрових змін офіційно не повідомляли. Що відомо про Вадима Сухаревського Вадим Сухаревський, відомий за … Continue reading Екскомандувач Сил безпілотних систем Сухаревський очолив морську піхоту ВМС →",
+      "categories": [
+        "Війна",
+        "Новини",
+        "Події",
+        "Світ",
+        "Україна"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2250,6 +3239,29 @@
       "description": "У Сумській області масштабують процес переведення навчального формату в безпечний підземний простір: окрім 13 підземних шкіл, які вже працюють, ще дев'ять перебувають на стадії будівництва, а для 14 об'єктів підготовлена документація.",
       "categories": [
         "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a1f9bb1659b153b2",
+      "source_id": "map-1116",
+      "source": "Львівський портал",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://portal.lviv.ua/news/2026/10/28/peremyshl-pryzupyniaie-spivpratsiu-zi-lvovom-cherez-shukhevycha",
+      "title": "Перемишль призупиняє співпрацю зі Львовом «через Шухевича»",
+      "published_at": "2026-10-28T19:45:52+00:00",
+      "published_raw": "Wed, 28 Oct 2026 19:45:52 +0000",
+      "fetched_at": "2026-10-29T00:55:48+00:00",
+      "description": "Міська рада польського Перемишля одностайно підтримала рішення про призупинення партнерських відносин зі Львовом. Причиною стала постанова Львівської обласної ради про проголошення 2027 року Роком Української повстанської армії, Романа Шухевича та Олега Ольжича. Про це повідомляє польське видання Przemysl Nasze Miasto, передає Львівський портал. Ініціаторами рішення стали 11 депутатів міської ради Перемишля, зокрема представники політичних сил … Continue reading Перемишль призупиняє співпрацю зі Львовом «через Шухевича» →",
+      "categories": [
+        "Курйози",
+        "Львів",
+        "Львівщина",
+        "Новини",
+        "Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -5244,25 +6256,6 @@
       "description": "Через постійні ворожі обстріли та наслідки попередніх ракетно-дронових атак за розпорядженням НЕК «Укренерго» 29 жовтня з 06:00 до 24:00 у Черкаській області будуть застосовані графіки погодинних відключень (ГПВ). Про це повідомляє пресслужба АТ \"Черкасиобленерго\". Години відсутності електропостачання: 1.1 09:00 - 10:00, 14:00 - 16:00, 18:00 - 20:00 1.2 10:00 - 12:00, 16:00 - 18:00, 20:00 - 21:00 2.1 10:00 - 12:00, 14:00 - 16:00, 18:00 - 20:00 2.2 12:00 - 14:00, 16:00 - 18:00, 20:00 - 21:00 3.1 10:00 - 12:00, 14:00 - 16:00, 20...",
       "categories": [
         "Политика"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "38f10ce3c37f6a35",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/vidomo-koli-i-komu-vimikatimut-svitlo-29-zhovtnya-na-cherkashhini",
-      "title": "Відомо, коли і кому вимикатимуть світло 29 жовтня на Черкащині",
-      "published_at": "2026-10-28T18:36:44+00:00",
-      "published_raw": "Wed, 28 Oct 2026 20:36:44 +0200",
-      "fetched_at": "2026-10-28T20:29:03+00:00",
-      "description": "Енергетики підготували графік вимкнень електроенергії на четвер, 29 жовтня. Про це повідомили у «Черкасиобленерго». Години відсутності електроенергії: 1.1 09:00 – 10:00, 14:00 – 16:00, 18:00 – 20:00; 1.2 10:00 – 12:00, 16:00 – 18:00, 20:00 – 21:00; 2.1 10:00 – 12:00, 14:00 – 16:00, 18:00 – 20:00; 2.2 12:00 – 14:00, 16:00 – 18:00, 20:00 – 21:00; 3.1 10:00 – 12:00, 14:00 – 16:00, 20:00 – 22:00; 3.2 08:00 – 10:00, 12:00 – 14:00, 16:00 – 18:00, 22:00 – 24:00; 4.1 08:00 – 10:00, 14:00 – 16:00, 18:00 – 20:00; 4.2 06:00 – 08:00, 14:00 – 16:00, 22:00 – 24:00;",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -54542,6 +55535,12 @@
       "fetched": 1859,
       "added": 129,
       "errors": 2
+    },
+    {
+      "at": "2026-10-29T00:55:48+00:00",
+      "fetched": 1603,
+      "added": 52,
+      "errors": 4
     }
   ]
 }
