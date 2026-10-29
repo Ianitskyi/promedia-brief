@@ -21,3 +21,14 @@ def test_audition_requires_paid_consent(monkeypatch, tmp_path):
     monkeypatch.delenv("BRIEF_ALLOW_PAID_TTS", raising=False)
     with pytest.raises(RuntimeError, match="BRIEF_ALLOW_PAID_TTS"):
         audition(tmp_path / "demo.mp3")
+
+
+def test_dated_source_script_is_loaded():
+    from brief.audition import load_audition_script
+    parts, date = load_audition_script(Path("docs/tts/brief-2026-10-29.json"))
+    assert date == "2026-10-29"
+    assert len(parts) == 10
+    assert parts[0][0] == "Yaroslava"
+    assert parts[2][0] == "Yevhen"
+    assert "Чотирнадцять людей загинули" in parts[2][1]
+    assert parts[-1][0] == "Yaroslava"
