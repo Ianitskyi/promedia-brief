@@ -39,11 +39,35 @@ def parse_script(md):
     ]
 
 
+def load_audition_script(script):
+    """Accept a sourced dated script or the legacy comparison Markdown."""
+    script = pathlib.Path(script)
+    if script.suffix != ".json":
+        return parse_script(script.read_text(encoding="utf-8")), None
+    document = json.loads(script.read_text(encoding="utf-8"))
+    if document.get("status") != "DRAFT_REQUIRES_EDITOR_REVIEW":
+        raise ValueError("Only explicit editorial draft auditions are supported")
+    date = document.get("date")
+    if not re.fullmatch(r"20\\d{2}-\\d{2}-\\d{2}", date or ""):
+        raise ValueError("Invalid edition date")
+    parts = []
+    for segment in document["segments"]:
+        if segment["speaker"] not in ("Yevhen", "Yaroslava"):
+            raise ValueError("Unexpected voice in script")
+        text = segment["text"].strip()
+        if not text:
+            raise ValueError("Empty spoken segment")
+        if segment["role"] == "story" and not segment.get("sources"):
+            raise ValueError("News stories need linked source evidence")
+        parts.append((segment["speaker"], text))
+    return parts, date
+
+
 def audition(output, *, script=SCRIPT):
     """Explicit paid consent; private audio artifact only, no automatic publication."""
     if os.environ.get("BRIEF_ALLOW_PAID_TTS") != "1":
         raise RuntimeError("Paid speech audition requires BRIEF_ALLOW_PAID_TTS=1")
-    parts = parse_script(pathlib.Path(script).read_text(encoding="utf-8"))
+    parts, edition_date = load_audition_script(script)
     male = tts.get("elevenlabs", voice=MALE_ID)
     female = tts.get("elevenlabs", voice=FEMALE_ID)
     chars = sum(len(text) for _, text in parts)
@@ -70,12 +94,13 @@ def audition(output, *, script=SCRIPT):
         audio.assemble(timeline, output, tmp / "work")
     info = {
         "type": "UNAPPROVED_PRIVATE_AUDITION",
+        "edition_date": edition_date,
         "published": False,
         "script": str(script),
         "script_sha256": hashlib.sha256(pathlib.Path(script).read_bytes()).hexdigest(),
         "male": {"name": "Yevhen", "voice_id": MALE_ID, "tempo": male_speed},
         "female": {"name": "Yaroslava", "voice_id": FEMALE_ID, "tempo": female_speed},
-        "stories": 12,
+        "stories": sum(1 for _, text in parts if text not in ("Новини України.", "Головні новини України.", "А тепер — новини регіонів.")) - 2,
         "characters": chars,
         "estimated_cost_usd": round(cost, 4),
         "audio": output.name,
@@ -87,9 +112,10 @@ def audition(output, *, script=SCRIPT):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--output", default="audition/brief-2026-10-22-spoken.mp3")
+    parser.add_argument("--output", default="audition/brief-2026-10-29-spoken.mp3")
+    parser.add_argument("--script", default="docs/tts/brief-2026-10-29.json")
     args = parser.parse_args()
-    print(json.dumps(audition(args.output), ensure_ascii=False, indent=2))
+    print(json.dumps(audition(args.output, script=args.script), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":
