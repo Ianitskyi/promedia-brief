@@ -1,0 +1,1502 @@
+{
+  "date": "2026-10-29",
+  "title": "BRIEF — 2026-10-29",
+  "published_at": "2026-10-29T11:40:35+00:00",
+  "approved": true,
+  "approval": "auto",
+  "script_sha256": "d6dec90b80d6c12786854cf6068b909193911ca605bc51af3a1b478eea8bd3fb",
+  "voice": {
+    "provider": "styletts2",
+    "voice": "male_2"
+  },
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "bumper": "audio/bumper.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "full_audio": "editions/2026-10-29/audio/brief-2026-10-29.mp3",
+  "duration_sec": 167.81,
+  "regions": [
+    {
+      "id": "khmelnytskyi",
+      "name": "Хмельниччина"
+    },
+    {
+      "id": "volyn",
+      "name": "Волинь"
+    },
+    {
+      "id": "zakarpattia",
+      "name": "Закарпаття"
+    }
+  ],
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це BRIEF — добірка новин з перевірених медіа, яким можна довіряти.",
+        "Повний список джерел доступний на сайті BRIEF.",
+        "Випуск за двадцять дев'яте жовтня."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/intro.mp3",
+      "duration_sec": 9.59,
+      "sound": null
+    },
+    {
+      "id": "national-heading",
+      "kind": "heading",
+      "block": "national",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Новини України."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/national-heading.mp3",
+      "duration_sec": 1.46,
+      "sound": null
+    },
+    {
+      "id": "national-c-08b2146ad3d39a5a",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Росіяни атакували залізничний вокзал у Дніпрі: є загиблі та поранені",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": true,
+      "text": [
+        "Російські війська завдали удару реактивним безпілотником по залізничному вокзалу в Дніпрі, повідомляє С4.",
+        "Удар припав на одну з платформ, де в цей час перебував поїзд № 866 сполученням Дніпро — Запоріжжя."
+      ],
+      "sources": [
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiya-vdarila-po-platformi-na-zaliznichnomu-vokzali-dnipra-ponad-10-lyudej-zaginuli",
+          "title": "Росія вдарила по платформі на залізничному вокзалі Дніпра: понад 10 людей загинули",
+          "published_at": "2026-10-29T08:01:26+00:00"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/rosiyany-atakuvaly-ob-transportnoyi-infrastruktury-u-dnipri",
+          "title": "Росіяни атакували об’єкт транспортної інфраструктури у Дніпрі: загинуло 13 людей",
+          "published_at": "2026-10-29T09:13:14+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060223",
+          "title": "Окупанти вдарили дроном по платформі вокзалу Дніпра: 13 загиблих, ще 10 поранених",
+          "published_at": "2026-10-29T09:24:00+00:00"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/ataka-na-dnipro-29-zhovtnia",
+          "title": "Росіяни атакували залізничний вокзал у Дніпрі: 13 загиблих і 10 поранених",
+          "published_at": "2026-10-29T09:27:50+00:00"
+        },
+        {
+          "name": "Прихист",
+          "url": "https://prikhist.com/2026/10/29/rosijska-ataka-na-dnipro-13-zahyblykh-shchonajmenshe-p-iatero-poranenykh",
+          "title": "Російська атака на Дніпро: 13 загиблих, щонайменше п’ятеро поранених",
+          "published_at": "2026-10-29T09:32:19+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273401-rosiiany-atakuvaly-elektropotiah-v-dnipri-13-liudey-zahynuly",
+          "title": "росіяни атакували електропотяг у Дніпрі — 13 людей загинули, серед поранених є дитина (ДОПОВНЕНО)",
+          "published_at": "2026-10-29T09:34:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dnipro-ataka-rf-zahybli/33886530.html",
+          "title": "У Дніпрі через атаку РФ загинули 13 людей. Мер каже про удар по поїзду",
+          "published_at": "2026-10-29T09:35:53+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/29/u-dnipri-pislya-rosijskogo-udaru-zagynuly-13-lyudej-shho-vidomo",
+          "title": "У Дніпрі після російського удару загинули 13 людей: що відомо",
+          "published_at": "2026-10-29T09:42:18+00:00"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/rosiyany-vdaryly-dronom-po-vokzalu-u-dnipri-ye-zahybli-ta-poraneni",
+          "title": "Росіяни вдарили дроном по вокзалу у Дніпрі, є загиблі та поранені",
+          "published_at": "2026-10-29T09:44:57+00:00"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/rf-vdaryla-dronom-po-zaliznychnomu-vokzalu-v-dnipri",
+          "title": "Унаслідок атаки рф по залізниці у Дніпрі загинуло 13 людей",
+          "published_at": "2026-10-29T09:47:52+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/29/novyna/suspilstvo/rosiyany-vdaryly-dronom-po-elektropotyahu-dnipri-shhonajmenshe-13-zahyblyx",
+          "title": "Росіяни вдарили дроном по електропотягу у Дніпрі, щонайменше 13 загиблих (оновлено)",
+          "published_at": "2026-10-29T09:48:14+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/u-dnipri-rosiiani-atakuvali-pasazirskii-potiag-je-zagibli-ta-poraneni",
+          "title": "У Дніпрі росіяни атакували пасажирський потяг: є загиблі та поранені",
+          "published_at": "2026-10-29T09:49:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/29/rosiiany-atakuvaly-zaliznychnyy-vokzal-u-dnipri-ie-zahybli",
+          "title": "Росіяни атакували залізничний вокзал у Дніпрі, є загиблі",
+          "published_at": "2026-10-29T09:49:46+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/325640-rosiiskyi-dron-atakuvav-elektropotiah-dnipri-13-liudei-zahynuly",
+          "title": "Російський дрон атакував електропотяг у Дніпрі: 13 людей загинули",
+          "published_at": "2026-10-29T09:50:00+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/29/rosiiany-atakuvaly-elektropotiah-u-dnipri-shchonaimenshe-13-liudei",
+          "title": "Росіяни атакували електропотяг у Дніпрі: щонайменше 13 людей загинули, є поранені",
+          "published_at": "2026-10-29T09:51:08+00:00"
+        },
+        {
+          "name": "С4",
+          "url": "https://c4.com.ua/novyny/rosiyani-atakuvali-zaliznichnij-vokzal-u-dnipri-e-zagibli-ta-poraneni",
+          "title": "Росіяни атакували залізничний вокзал у Дніпрі: є загиблі та поранені",
+          "published_at": "2026-10-29T09:54:27+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/29/okupanty-zavdaly-udaru-po-elektropotyagu-v-dnipri-zagynuly-13-lyudej-ye-poraneni",
+          "title": "Окупанти завдали удару по електропотягу в Дніпрі: загинули 13 людей, є поранені",
+          "published_at": "2026-10-29T09:54:44+00:00"
+        },
+        {
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/rf-udarila-po-elektropotyagu-u-dnipri-zaginuli-13-lyudey-onovlyuetsya-12011321.html",
+          "title": "РФ ударила по електропотягу у Дніпрі. Загинули 13 людей (оновлюється)",
+          "published_at": "2026-10-29T09:55:00+00:00"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1112501-reaktivnii-bpla-vdariv-po-vokzalu-v-dnipri-13-zagiblix-je-poraneni",
+          "title": "Реактивний БПЛА вдарив по вокзалу в Дніпрі: 13 загиблих, є поранені",
+          "published_at": "2026-10-29T09:55:00+00:00"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/10/29/403883_13-zagyblyh-rosiyany-atakuvaly-poyizd-dnipro-zaporizhzhya",
+          "title": "13 загиблих: росіяни атакували поїзд Дніпро – Запоріжжя (ОНОВЛЕНО, ФОТО)",
+          "published_at": "2026-10-29T09:55:21+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-zaliznychnyj-vokzal-u-dnipri-13-lyudej-zagynuly-ye-poraneni",
+          "title": "РФ атакувала залізничний вокзал у Дніпрі: 13 людей загинули, є поранені (ОНОВЛЕНО)",
+          "published_at": "2026-10-29T09:59:49+00:00"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/zagynuly-13-lyudey-vorog-vdaryv-bpla-poruch-z-elektrychkoyu-yaka-mala-vyrushaty-do-zaporizhzhya",
+          "title": "Загинули 13 людей: ворог вдарив БпЛА поруч з електричкою, яка мала вирушати до Запоріжжя",
+          "published_at": "2026-10-29T10:00:44+00:00"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiski-viiskovi-vdaryly-po-zaliznychnomu-vokzalu-v-dnipri-zahynuly-shchonaimenshe-13-liudei-ie-poraneni",
+          "title": "Російські військові вдарили по залізничному вокзалу в Дніпрі: загинули щонайменше 13 людей, є поранені",
+          "published_at": "2026-10-29T10:04:50+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/405131-rosijskyj-reaktyvnyj-bpla-vluchyv-u-platformu-vokzalu-dnipra-ye-zagybli",
+          "title": "Російський реактивний БпЛА влучив у платформу вокзалу Дніпра — є загиблі",
+          "published_at": "2026-10-29T10:15:41+00:00"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/rosiiany-vdaryly-po-zaliznychnomu-vokzalu-v-dnipri-13-zahyblykh-ie-poraneni",
+          "title": "Росіяни вдарили по залізничному вокзалу в Дніпрі: 13 загиблих, є поранені",
+          "published_at": "2026-10-29T10:17:14+00:00"
+        },
+        {
+          "name": "Репортер",
+          "url": "https://report.if.ua/viyna/okupanty-vdaryly-dronom-po-platformi-vokzalu-dnipra-13-zagyblyh-i-shhonajmenshe-5-poranenyh",
+          "title": "Окупанти вдарили дроном по платформі вокзалу Дніпра: 13 загиблих і щонайменше 5 поранених",
+          "published_at": "2026-10-29T10:20:15+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/776994_vorog_atakuvav_platformu_vokzalu.html",
+          "title": "Ворог атакував платформу вокзалу в Дніпрі. Загинули 13 людей (оновлено)",
+          "published_at": "2026-10-29T10:22:00+00:00"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/rosiia-vdaryla-dronom-po-zaliznychnomu-vokzalu-v-dnipri-13-zahyblykh-i-10-postrazhdalykh",
+          "title": "Росія вдарила дроном по залізничному вокзалу в Дніпрі — 13 загиблих і 10 постраждалих",
+          "published_at": "2026-10-29T10:24:18+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/29/okupanty-vdaryly-po-elektropoizdu-v-dnipri-zahynuly-13-liudej",
+          "title": "Окупанти вдарили по електропоїзду в Дніпрі: загинули 13 людей",
+          "published_at": "2026-10-29T10:30:42+00:00"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20311557-vorozhij-dron-atakuvav-civilnij-elektropotyag-u-dnipri-zaginuli-13-lyudej",
+          "title": "Ворожий дрон атакував цивільний електропотяг у Дніпрі, загинули 13 людей",
+          "published_at": "2026-10-29T10:31:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060244",
+          "title": "У Дніпрі росіяни атакували дроном перон, де стояли звичайна електричка і пасажирський потяг",
+          "published_at": "2026-10-29T10:31:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227950.html",
+          "title": "Зеленський: 13 загиблих й 10 поранених у Дніпрі внаслідок удару по електричці",
+          "published_at": "2026-10-29T10:35:40+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4179302-rosiani-atakuvali-transportnu-infrastrukturu-dnipra-e-poraneni.html",
+          "title": "Росіяни атакували залізничний вокзал Дніпра: щонайменше 13 загиблих і 13 поранених",
+          "published_at": "2026-10-29T10:52:00+00:00"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/u-dnipri-rosijskij-dron-vluchiv-v-elektropotjah-13-zahiblikh-.html",
+          "title": "У Дніпрі дрон влучив у потяг на залізничному вокзалі: 13 загиблих, зросла кількість поранених",
+          "published_at": "2026-10-29T10:54:03+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227987.html",
+          "title": "В Дніпрі вже 13 поранених, з них 4 у важкому стані, в тому числі дитина – обладміністрація",
+          "published_at": "2026-10-29T11:00:16+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-dnipri-vnaslidok-udaru-po-zaliznychnomu-vokzalu-zagynulo-shhonajmenshe-13-osib-i571702",
+          "title": "У Дніпрі внаслідок удару по залізничному вокзалу загинуло щонайменше 13 осіб",
+          "published_at": "2026-10-29T11:01:15+00:00"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/poranenykh-na-vokzali-dnipro-29-zhovtnia",
+          "title": "У Дніпрі вже 13 поранених через російську атаку на вокзал: четверо у важкому стані",
+          "published_at": "2026-10-29T11:03:30+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-vdarila-po-potyagu-u-dnipri-zaginuli-bagato-lyudey-filatov-50654424.html",
+          "title": "Росія атакувала залізничний вокзал у Дніпрі, дрон влучив по платформі біля потягу та електрички, 13 загиблих — що відомо",
+          "published_at": "2026-10-29T11:05:00+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiskii-teror-u-dnipri-udar-po-zaliznicnomu-vokzalu-zabrav-zittia-13-liudei",
+          "title": "Російський терор у Дніпрі: удар по залізничному вокзалу забрав життя 13 людей",
+          "published_at": "2026-10-29T11:12:00+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/v-dnipri-vzhe-13-zagyblyh-i-13-poranenyh-cherez-udar-rf-po-vokzalu",
+          "title": "В Дніпрі вже 13 загиблих і 13 поранених через удар РФ по вокзалу",
+          "published_at": "2026-10-29T11:17:24+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-08b2146ad3d39a5a.mp3",
+      "duration_sec": 13.51,
+      "sound": null
+    },
+    {
+      "id": "national-c-065b60d8417de820",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "В Іспанії кількість загиблих через зіткнення поїздів зросла до 68",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": true,
+      "text": [
+        "Аварія сталася вранці 28 жовтня в центральному регіоні Кастилія-Ла-Манча на залізничній лінії, що з’єднує Мадрид із південним регіоном Андалусія: поїзд оператора Renfe врізався в хвостову частину іншого поїзда – перевізника Iryo, – який у той момент стояв на колії."
+      ],
+      "sources": [
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/incidents/325597-ispanii-zitknulysia-dva-shvydkisni-potiahy-narazi-vidomo",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, наразі відомо про щонайменше пів сотні загиблих",
+          "published_at": "2026-10-28T11:53:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/video-v-ispaniyi-zitknulysya-dva-shvydkisni-potyahy/33885966.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, загинули десятки людей (відео)",
+          "published_at": "2026-10-28T12:33:23+00:00"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131325-v-ispaniji-zishtovhnulisya-dva-shvidkisnih-potyagi-50-lyudey-zaginuli-ta-shche-shchonaymenshe-179-postrazhdali",
+          "title": "В Іспанії зіштовхнулися два швидкісні потяги — 50 людей загинули, ще щонайменше 179 постраждали",
+          "published_at": "2026-10-28T12:37:10+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/28/8060099",
+          "title": "Кількість загиблих внаслідок залізничної катастрофи в Іспанії зросла до 64",
+          "published_at": "2026-10-28T13:31:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/10/28/776682_ispaniyi_zitknulisya_dva.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: десятки загиблих, понад сотня – поранені (оновлено)",
+          "published_at": "2026-10-28T13:50:00+00:00"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/world/365736-v-ispanii-zitknulysia-dva-shvydkisni-potiagy-64-ludyny-zagynuly.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: 64 людини загинули",
+          "published_at": "2026-10-28T15:33:06+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/28/novyna/svit/ispaniyi-zrosla-kilkist-zahyblyx-vnaslidok-zitknennya-shvydkisnyx-poyizdiv",
+          "title": "В Іспанії зросла кількість загиблих внаслідок зіткнення швидкісних поїздів",
+          "published_at": "2026-10-28T15:40:54+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-world/4179034-zitknenna-svidkisnih-potagiv-v-ispanii-kilkist-zagiblih-zrosla-do-64.html",
+          "title": "Зіткнення швидкісних потягів в Іспанії: кількість загиблих зросла до 68",
+          "published_at": "2026-10-28T15:50:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/avariya-na-zaliznici-ispaniji-zitknulisya-dva-shvidkisni-potyagi-mizh-mistami-mora-ta-orgas-50654057.html",
+          "title": "В Іспанії зіткнулися два швидкісні потяги: 68 людей загинули, понад 150 поранених — головне",
+          "published_at": "2026-10-28T15:51:00+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/28/68-liudey-zahynuly-u-zaliznychniy-katastrofi-v-ispanii",
+          "title": "68 людей загинули у залізничній катастрофі в Іспанії",
+          "published_at": "2026-10-28T16:06:16+00:00"
+        },
+        {
+          "name": "Тексти",
+          "url": "https://texty.org.ua/fragments/118586/kilkist-zahyblyx-vnaslidok-zaliznychnoyi-katastrofy-v-ispaniyi-zrosla-do-64",
+          "title": "Кількість загиблих внаслідок залізничної катастрофи в Іспанії зросла до 64",
+          "published_at": "2026-10-28T16:34:21+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1438849-v-ispanii-zitknulisa-dva-svidkisni-potagi-vidomo-pro-postrazdalih",
+          "title": "В Іспанії зіткнулися два швидкісні потяги, відомо про 68 загиблих",
+          "published_at": "2026-10-28T17:28:19+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/zitknennya-pojizdiv-u-ispaniji-sistema-dala-zbiy-zaginuli-68-osib-skazav-golova-mintransu-50654287.html",
+          "title": "Міністр транспорту Іспанії назвав причиною зіткнення поїздів, у якому загинули щонайменше 68 людей, «незбагненну» помилку",
+          "published_at": "2026-10-28T17:34:00+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/v-ispaniyi-vnaslidok-zitknennya-dvoh-poyizdiv-zagynulo-68-lyudej-i571643",
+          "title": "В Іспанії внаслідок зіткнення двох поїздів загинуло 68 людей",
+          "published_at": "2026-10-28T18:15:11+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ispania-zitknennia-poizdiv/33886416.html",
+          "title": "В Іспанії кількість загиблих через зіткнення поїздів зросла до 68",
+          "published_at": "2026-10-29T05:59:04+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-065b60d8417de820.mp3",
+      "duration_sec": 15.75,
+      "sound": null
+    },
+    {
+      "id": "national-c-0b945d1ee332aed5",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Кременчуці російський дрон влучив у будинок: є загиблі та поранені. ОНОВЛЕНО",
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "must_include": true,
+      "text": [
+        "29 жовтня вдень у Кременчуці ворожий БпЛА влучив у багатоквартирний житловий будинок, повідомляє У Полтаві.",
+        "Внаслідок атаки двоє людей загинули, дев’ятеро – отримали травми."
+      ],
+      "sources": [
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131352-rosiyani-vdarili-po-vokzalu-u-dnipri-13-lyudey-zaginuli-ye-postrazhdali",
+          "title": "Росіяни вдарили по вокзалу у Дніпрі, багатоповерхівці у Кременчуку, центру Чернігова й Запоріжжя. Майже 20 людей загинули (оновлено)",
+          "published_at": "2026-10-29T09:42:58+00:00"
+        },
+        {
+          "name": "Полтавська хвиля",
+          "url": "https://poltavawave.com.ua/rosiiani-vluchili-u-baghatopovierkhivku-u-kriemienchutsi-ie-poranieni",
+          "title": "Росіяни влучили у багатоповерхівку у Кременчуці: є поранені (оновлено)",
+          "published_at": "2026-10-29T10:13:19+00:00"
+        },
+        {
+          "name": "Кременчуцький Телеграф",
+          "url": "https://telegraf.in.ua/topnews/u-kremenchuczi-rosiyany-poczilyly-u-bagatokvartyrnyj-budynok-pova.html",
+          "title": "У Кременчуці росіяни поцілили у багатоквартирний будинок – ПОВА",
+          "published_at": "2026-10-29T10:13:58+00:00"
+        },
+        {
+          "name": "Полтавська думка",
+          "url": "https://dumka.poltava.ua/rosiiany-vdaryly-po-kremenchuku-ie-poraneni",
+          "title": "Росіяни вдарили по Кременчуку, є поранені",
+          "published_at": "2026-10-29T10:14:46+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060235",
+          "title": "У Кременчуці російський дрон влучив у житловий будинок: 2 загиблих, серед травмованих дитина",
+          "published_at": "2026-10-29T10:24:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-kremenchuk-poltava-postrazhdali-zahybli/33886559.html",
+          "title": "Сили РФ атакували Кременчук і Чернігів, є загиблі, серед поранених є діти – влада",
+          "published_at": "2026-10-29T10:24:01+00:00"
+        },
+        {
+          "name": "Полтавська хвиля",
+          "url": "https://poltavawave.com.ua/vid-rosiiskoyi-ataki-po-kriemienchuku-ie-zaghibli",
+          "title": "Від російської атаки по Кременчуку є загиблі (оновлено)",
+          "published_at": "2026-10-29T10:24:02+00:00"
+        },
+        {
+          "name": "Кременчуцький Телеграф",
+          "url": "https://telegraf.in.ua/topnews/u-kremenchuczi-vnaslidok-vluchannya-zagynuly-dvoye-lyudej-ova.html",
+          "title": "У Кременчуці внаслідок влучання загинули двоє людей – ОВА",
+          "published_at": "2026-10-29T10:25:25+00:00"
+        },
+        {
+          "name": "Полтавська думка",
+          "url": "https://dumka.poltava.ua/rosiiany-vbyly-dvokh-liudej-u-kremenchutsi",
+          "title": "Росіяни вбили двох людей у Кременчуці",
+          "published_at": "2026-10-29T10:29:01+00:00"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-vdaryla-dronom-po-bagatokvartyrnomu-budynku-v-kremenchutsi-dvoye-zagyblyh",
+          "title": "РФ вдарила дроном по багатоквартирному будинку в Кременчуці: двоє загиблих",
+          "published_at": "2026-10-29T10:32:28+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227958.html",
+          "title": "В Кременчуці російський БПЛА влучив в житловий будинок, загинули двоє людей – ОВА",
+          "published_at": "2026-10-29T10:35:01+00:00"
+        },
+        {
+          "name": "Кременчуцький Телеграф",
+          "url": "https://telegraf.in.ua/accidents/kilkist-travmovanyh-vnaslidok-vluchannya-u-kremenchuczi-zrosla-do-devyaty-ova.html",
+          "title": "Кількість травмованих внаслідок влучання у Кременчуці зросла до дев’яти — ОВА",
+          "published_at": "2026-10-29T10:56:07+00:00"
+        },
+        {
+          "name": "Полтавська думка",
+          "url": "https://dumka.poltava.ua/u-kremenchutsi-zrosla-kilkist-poranenykh-vnaslidok-rosijskoho-udaru",
+          "title": "У Кременчуці зросла кількість поранених внаслідок російського удару (доповнюється)",
+          "published_at": "2026-10-29T10:56:29+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/kremenchuk-obstril-29-zhovtnya-rosiyani-vdarili-dronom-po-bagatopoverhivci-ye-poraneni-50654447.html",
+          "title": "РФ вдарила дроном по багатоповерхівці у Кременчуці: двоє людей загинули, серед 11 поранених — троє дітей",
+          "published_at": "2026-10-29T11:06:00+00:00"
+        },
+        {
+          "name": "У Полтаві",
+          "url": "https://upoltavi.com.ua/2026/10/29/u-kremenchuczi-rosijskyj-dron-vluchyv-u-bagatokvartyrnyj-zhytlovyj-budynok",
+          "title": "У Кременчуці російський дрон влучив у будинок: є загиблі та поранені. ОНОВЛЕНО",
+          "published_at": "2026-10-29T11:07:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1228003.html",
+          "title": "В Кременчуку вже 9 поранених через удар по багатоповерхівці, серед них 2 дітей – обладміністрація",
+          "published_at": "2026-10-29T11:08:01+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/777018_rosiyani_vdarili.html",
+          "title": "Росіяни вдарили в багатоповерхівку в Кременчуці. Є жертви і поранені (оновлено)",
+          "published_at": "2026-10-29T11:10:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4179324-u-kremencuci-rosijskij-dron-vluciv-u-bagatokvartirnij-budinok.html",
+          "title": "У Кременчуці внаслідок російської атаки загинули двоє людей, кількість постраждалих зросла до 11",
+          "published_at": "2026-10-29T11:12:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-0b945d1ee332aed5.mp3",
+      "duration_sec": 11.76,
+      "sound": null
+    },
+    {
+      "id": "national-c-02ff28e930d67c46",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "У Слов'янську через російські обстріли загинув чоловік, пошкоджені будинки та підприємства",
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "must_include": false,
+      "text": [
+        "28 жовтня російські війська обстріляли Слов'янськ з різних видів озброєння.",
+        "Загинув чоловік 1967 року народження, пошкоджені приватні та багатоповерховий будинки, магазин, автівки й підприємства."
+      ],
+      "sources": [
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/rosijski-obstrily-slovyanska-zabraly-zhyttya-cholovika-poshkodzheni-budynky-ta-pidpryyemstva",
+          "title": "Російські обстріли Слов’янська забрали життя чоловіка, пошкоджені будинки та підприємства",
+          "published_at": "2026-10-29T06:56:55+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/405081-armiya-rf-vdaryla-po-slovyansku-poshkodzheni-pidpryyemstva-ye-zagyblyj",
+          "title": "Армія РФ вдарила по Слов’янську: пошкоджені підприємства, є загиблий",
+          "published_at": "2026-10-29T06:57:55+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1439643-u-slovansku-cerez-rosijski-obstrili-zaginuv-colovik-poskodzeni-budinki-ta-pidpriemstva",
+          "title": "У Слов'янську через російські обстріли загинув чоловік, пошкоджені будинки та підприємства",
+          "published_at": "2026-10-29T06:58:18+00:00"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiani-obstriliali-sloviansk-zaginuv-colovik-poskodzeno-zitlovi-budinki-ta-pidprijemstva",
+          "title": "Росіяни обстріляли Слов’янськ: загинув чоловік, пошкоджено житлові будинки та підприємства",
+          "published_at": "2026-10-29T07:48:45+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/odyn-myrnyj-zhytel-zagynuv-unaslidok-rosijskyh-udariv-po-slov-yansku-28-zhovtnya-i571682",
+          "title": "Один мирний житель загинув унаслідок російських ударів по Слов’янську 28 жовтня",
+          "published_at": "2026-10-29T09:05:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-02ff28e930d67c46.mp3",
+      "duration_sec": 13.56,
+      "sound": null
+    },
+    {
+      "id": "national-c-01896128678a7904",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Лубінець вирушив до Олешок із гуманітарною місією",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Українська делегація на чолі з омбудсменом Дмитром Лубінцем 29 жовтня, виїхала в напрямку Олешок на Херсонщині для гуманітарної місії, повідомляє Район.in.ua."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/776976_ukrayinska_delegatsiya_viyihala.html",
+          "title": "Українська делегація виїхала в Олешки (оновлено)",
+          "published_at": "2026-10-29T08:10:00+00:00"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/ukrajinska-delegatsija-na-choli-z-ombudsmenom-virushila-v-naprjamku-oleshok",
+          "title": "Українська делегація на чолі з омбудсменом вирушила в напрямку Олешок",
+          "published_at": "2026-10-29T08:11:03+00:00"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/public/325631-ukrainska-delehatsiia-choli-lubintsem-vyrushyla-napriamku-oleshok",
+          "title": "Українська делегація на чолі з Лубінцем вирушила в напрямку Олешок, — Арахамія",
+          "published_at": "2026-10-29T08:15:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060214",
+          "title": "Лубінець із делегацією вирушив до Олешок",
+          "published_at": "2026-10-29T08:19:00+00:00"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/405095-ukrayinska-delegacziya-prybula-do-punktu-propusku-nova-guta-v-bilorusi",
+          "title": "Українська делегація прибула до пункту пропуску «Нова Гута» в Білорусі",
+          "published_at": "2026-10-29T08:23:07+00:00"
+        },
+        {
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/ombudsman-lubinec-virusiv-u-napriamku-olesok-dlia-gumanitarnoyi-misiyi",
+          "title": "Омбудсман Лубінець вирушив у напрямку Олешок для гуманітарної місії",
+          "published_at": "2026-10-29T08:43:48+00:00"
+        },
+        {
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/ukrayinska-delegaciya-vyrushyla-do-oleshkiv-hto-shhe-yide-na-tot-i-shho-narazi-vidomo-pro-gumanitarnu-misiyu",
+          "title": "Українська делегація вирушила до Олешків: хто ще їде на ТОТ і що наразі відомо про гуманітарну місію",
+          "published_at": "2026-10-29T08:45:41+00:00"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/273396-ukrayinska-delehatsiia-razom-iz-ombudsmenom-lubintsem-vyrushyla-v-oleshky",
+          "title": "Українська делегація разом із омбудсменом Лубінцем вирушила в Олешки",
+          "published_at": "2026-10-29T08:47:00+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-lubinets-oleshky/33886495.html",
+          "title": "Українська делегація вирушила в Олешки – Лубінець",
+          "published_at": "2026-10-29T08:48:50+00:00"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1112472-ukrayinska-delegaciia-viyixala-v-napriamku-olesok",
+          "title": "Лубінець вирушив до Олешок із гуманітарною місією",
+          "published_at": "2026-10-29T09:14:00+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/29/vyrushyla-do-oleshok",
+          "title": "Українська делегація вирушила до Олешок для гуманітарної місії",
+          "published_at": "2026-10-29T09:19:21+00:00"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/ukrainska-delehatsiia-vyrushyla-do-oleshok-dlia-humanitarnoi-misii",
+          "title": "Українська делегація вирушила до Олешок для гуманітарної місії",
+          "published_at": "2026-10-29T09:34:26+00:00"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/10/29/ukrainska-delehatsiia-vyrushyla-do-oleshok-cherez-bilorus",
+          "title": "Українська делегація вирушила до Олешок через Білорусь",
+          "published_at": "2026-10-29T10:11:47+00:00"
+        },
+        {
+          "name": "Bilozerka.info",
+          "url": "https://bilozerka.info/gumanitarna-misiya-v-oleshkah-ombudsman-lubinecz-vyyihav-u-napryamku-mista",
+          "title": "Гуманітарна місія в Олешках: Омбудсман Лубінець виїхав у напрямку міста",
+          "published_at": "2026-10-29T11:04:40+00:00"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/ukrainska-delehatsiia-vyrushyla-do-okupovanykh-oleshok",
+          "title": "Українська делегація вирушила до окупованих Олешок",
+          "published_at": "2026-10-29T11:26:05+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-01896128678a7904.mp3",
+      "duration_sec": 9.98,
+      "sound": null
+    },
+    {
+      "id": "national-c-2e8cf45a9cbf555e",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Туреччина готова сприяти відновленню дипломатії між Україною та росією, – Ердоган",
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Президент Туреччини Реджеп Тайїп Ердоган провів телефонну розмову з президентом США Дональдом Трампом, під час якої заявив про готовність Анкари долучитися до зусиль із відновлення дипломатичного процесу між Україною та росією, а також сприяти припиненню війни."
+      ],
+      "sources": [
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227683.html",
+          "title": "Ердоган заявив Трампу про готовність Туреччини сприяти відновленню переговорів між Україною та Росією",
+          "published_at": "2026-10-28T22:11:47+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060182",
+          "title": "Ердоган заявив Трампу, що Туреччина готова долучитися до відновлення дипломатії між Україною та Росією",
+          "published_at": "2026-10-28T22:28:00+00:00"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/turechchina-pidtrimala-diplomatichniy-proces-ukrajina-rosiya-zayava-erdogana-50654335.html",
+          "title": "Туреччина готова допомогти відновити переговори між Україною та Росією — Ердоган",
+          "published_at": "2026-10-29T01:24:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1439583-tureccina-gotova-dopomagati-iz-zaversennam-vijni-rosii-proti-ukraini-erdogan-pogovoriv-z-trampom",
+          "title": "Туреччина готова допомагати із завершенням війни Росії проти України: Ердоган поговорив з Трампом",
+          "published_at": "2026-10-29T02:15:53+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4179215-erdogan-i-tramp-obgovorili-zaversenna-vijni-rosii-proti-ukraini-diplomaticnim-slahom.html",
+          "title": "Ердоган і Трамп обговорили завершення війни Росії проти України дипломатичним шляхом",
+          "published_at": "2026-10-29T02:28:00+00:00"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/10/29/novyna/polityka/turechchyna-hotova-dopomohty-vidnovyty-dyplomatiyu-mizh-ukrayinoyu-ta-rosiyeyu-erdohan",
+          "title": "Туреччина готова допомогти відновити дипломатію між Україною та росією – Ердоган",
+          "published_at": "2026-10-29T05:52:07+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/29/turechchyna-gotova-spryyaty-vidnovlennyu-dyplomatiyi-mizh-ukrayinoyu-ta-rosiyeyu-erdogan",
+          "title": "Туреччина готова сприяти відновленню дипломатії між Україною та росією, – Ердоган",
+          "published_at": "2026-10-29T09:42:46+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-2e8cf45a9cbf555e.mp3",
+      "duration_sec": 14.58,
+      "sound": null
+    },
+    {
+      "id": "national-c-318a933bab9ab71b",
+      "kind": "story",
+      "block": "national",
+      "region": null,
+      "title": "Нідерланди виділяють Україні пакет військової допомоги на 500 мільйонів євро",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "Прем’єр-міністр Нідерландів Роб Єттен оголосив про надання Україні додаткового пакета допомоги у розмірі 500 млн євро."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/10/28/776818_niderlandi_ogolosili_pro_noviy.html",
+          "title": "Нідерланди оголосили про новий пакет військової допомоги Україні на €500 млн",
+          "published_at": "2026-10-28T15:08:00+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227563.html",
+          "title": "Нідерланди оголосили про додатковий пакет допомоги України в розмірі EUR500 млн",
+          "published_at": "2026-10-28T15:26:13+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/zelenskyj-podyakuvav-prem-yeru-niderlandiv-za-paket-vijskovoyi-pidtrymky-ta-obgovoryv-pidgotovku-do-i571633",
+          "title": "Зеленський подякував премʼєру Нідерландів за пакет військової підтримки та обговорив підготовку до переговорів з РФ",
+          "published_at": "2026-10-28T16:45:08+00:00"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/10/28/niderlandy-vydiliaiut-ukraini-paket-viyskovoi-dopomohy-na-500-milyoniv-ievro",
+          "title": "Нідерланди виділяють Україні пакет військової допомоги на 500 мільйонів євро",
+          "published_at": "2026-10-28T16:46:06+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/29/ukraina-otrymaie-vid-niderlandiv-vijskovu-dopomohu-na-500-mln-ievro",
+          "title": "Україна отримає від Нідерландів військову допомогу на 500 млн євро",
+          "published_at": "2026-10-29T09:06:51+00:00"
+        },
+        {
+          "name": "#ШОТАМ",
+          "url": "https://shotam.info/zamist-ochikuvannia-raket-do-patriot-ukraina-stvoriuie-novu-ppo-za-pidtrymky-niderlandiv",
+          "title": "Замість очікування ракет до Patriot: Україна створює нову ППО за підтримки Нідерландів",
+          "published_at": "2026-10-29T09:20:49+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/national-c-318a933bab9ab71b.mp3",
+      "duration_sec": 8.25,
+      "sound": null
+    },
+    {
+      "id": "reminder",
+      "kind": "reminder",
+      "block": "reminder",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.",
+        "Посилання на всі джерела — на сайті BRIEF.",
+        "Там само можна обрати теми й регіон — і випуск підлаштується під вас."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/reminder.mp3",
+      "duration_sec": 11.73,
+      "sound": null
+    },
+    {
+      "id": "transition",
+      "kind": "transition",
+      "block": "transition",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [],
+      "sources": [],
+      "audio": null,
+      "duration_sec": 0,
+      "sound": "bumper"
+    },
+    {
+      "id": "regional-heading",
+      "kind": "heading",
+      "block": "regional",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — новини регіонів."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/regional-heading.mp3",
+      "duration_sec": 2.17,
+      "sound": null
+    },
+    {
+      "id": "regional-c-a849f68000f714a4",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Російський дрон атакував центр Чернігова - загинули двоє дітей, 11 поранених",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Внаслідок атаки БПЛА по центральній частині Чернігова загинули двоє людей, ще 11 постраждали."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4179331-dron-rf-atakuvav-centr-cernigova-e-zagibli-ta-postrazdali.html",
+          "title": "Російський дрон атакував центр Чернігова - загинули двоє дітей, 11 поранених",
+          "published_at": "2026-10-29T10:47:00+00:00"
+        },
+        {
+          "name": "Прихист",
+          "url": "https://prikhist.com/2026/10/29/rosijski-ataky-na-dnipro-chernihiv-i-kremenchuk-shchonajmenshe-17-zahyblykh-sered-nykh-dvi-15-richni-divchyny",
+          "title": "Російські атаки на Дніпро, Чернігів і Кременчук: щонайменше 17 загиблих, серед них дві 15-річні дівчини",
+          "published_at": "2026-10-29T11:02:39+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1228008.html",
+          "title": "Обидві загиблі в Чернігові були неповнолітніми – міськрада",
+          "published_at": "2026-10-29T11:13:18+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/regional-c-a849f68000f714a4.mp3",
+      "duration_sec": 6.35,
+      "sound": null
+    },
+    {
+      "id": "regional-c-683cf838a990518c",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "У Києві в частині Голосіївського та Соломʼянського районів ввели екстрені відключення світла",
+      "topics": [
+        "Економіка",
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У Києві у четвер, 29 жовтня, ввели екстрені відключення світла у частині Голосіївського та Соломʼянського районів, графіки не діють."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/u-kiyevi-v-chastini-golosijivskogo-ta-solom-yanskogo-rayoniv-vveli-ekstreni-vidklyuchennya-svitla-50654354.html",
+          "title": "У Києві в частині Голосіївського та Соломʼянського районів ввели екстрені відключення світла",
+          "published_at": "2026-10-29T06:49:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/776954_chastini_kiieva_zastosuvali.html",
+          "title": "Для частини Києва застосували екстрені відключення світла",
+          "published_at": "2026-10-29T06:51:00+00:00"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/10/29/8060201",
+          "title": "ДТЕК: У Києві ввели екстрені відключення в частині Голосіївського та Соломʼянського районів",
+          "published_at": "2026-10-29T06:52:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4179232-u-dvoh-rajonah-kieva-ekstreni-vidklucenna-svitla.html",
+          "title": "У двох районах Києва - екстрені відключення світла",
+          "published_at": "2026-10-29T06:55:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1439641-u-castini-kieva-zaprovadzeni-ekstreni-vidklucenna-elektriki",
+          "title": "У частині Києва запроваджені екстрені відключення електрики",
+          "published_at": "2026-10-29T06:55:13+00:00"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1227725.html",
+          "title": "У частині двох районів Києва запровадили екстрені відключення світла – ДТЕК",
+          "published_at": "2026-10-29T06:55:33+00:00"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20311548-u-chastini-golosiyivskogo-ta-solomyanskogo-rajoniv-kieva-zaprovadili-ekstreni-vidklyuchennya-svitla",
+          "title": "У частині Голосіївського та Солом'янського районів Києва запровадили екстрені відключення світла",
+          "published_at": "2026-10-29T07:28:00+00:00"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12923-u-dvokh-rayonakh-kyyeva-zaprovadyly-ekstreni-vidklyuchennya-svitla-hrafiky-ne-diyut",
+          "title": "У двох районах Києва запровадили екстрені відключення світла: графіки не діють",
+          "published_at": "2026-10-29T07:31:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/regional-c-683cf838a990518c.mp3",
+      "duration_sec": 8.7,
+      "sound": null
+    },
+    {
+      "id": "regional-c-082898bd7f4bbe34",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Сили оборони зупинили 42 атаки на Покровському напрямку, за добу на фронті - 189 зіткнень",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "На фронті минулої доби, 28 жовтня, були зафіксовані 189 бойових зіткнень Сил оборони України з російськими загарбниками, найбільше ворог тисне на Покровському напрямку."
+      ],
+      "sources": [
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1112406-masovani-sturmi-ta-tisiaci-droniv-genstab-povidomiv-pro-situaciiu-na-fronti-stanom-na-ranok-29-zovtnia",
+          "title": "Масовані штурми та тисячі дронів: Генштаб повідомив про ситуацію на фронті станом на ранок 29 жовтня",
+          "published_at": "2026-10-29T06:16:00+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4179226-sili-oboroni-zupinili-42-ataki-na-pokrovskomu-napramku-za-dobu-na-fronti-189-zitknen.html",
+          "title": "Сили оборони зупинили 42 атаки на Покровському напрямку, за добу на фронті - 189 зіткнень",
+          "published_at": "2026-10-29T06:19:35+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1439627-na-fronti-za-dobu-vidbulosa-189-boiv-najbilse-atak-rf-na-pokrovskomu-napramku-zvedenna-genstabu",
+          "title": "На фронті за добу відбулося 189 боїв, найбільше атак РФ — на Покровському напрямку: зведення Генштабу",
+          "published_at": "2026-10-29T06:23:25+00:00"
+        },
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/10/29/genshtab-zsu-zupynyly-42-ataky-na-pokrovskomu-napryamku-ta-usogo-znyshhyly-bilshe-pivtory-tysyachi-rosiyan",
+          "title": "Генштаб: ЗСУ зупинили 42 атаки на Покровському напрямку та усього знищили більше півтори тисячі росіян",
+          "published_at": "2026-10-29T06:42:21+00:00"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/10/29/zafiksovano-majzhe-190-boyiv",
+          "title": "На фронті протягом доби зафіксовано майже 190 боїв: ЗСУ знищили літак, 25 артсистем, 5 ББМ та 1560 окупантів",
+          "published_at": "2026-10-29T06:59:14+00:00"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-henshtab-front/33886455.html",
+          "title": "Генштаб: на фронті за добу було 189 боєзіткнень, 42 з них – на Покровському напрямку",
+          "published_at": "2026-10-29T07:37:20+00:00"
+        },
+        {
+          "name": "Бахмут IN.UA",
+          "url": "https://bahmut.in.ua/na-pokrovskomu-ta-kostyantynivskomu-napryamkah-zagostrylas-sytuacziya-genshtab-zsu",
+          "title": "На Покровському та Костянтинівському напрямках загострилась ситуація — Генштаб ЗСУ",
+          "published_at": "2026-10-29T07:55:00+00:00"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/na-fronti-za-dobu-vidbulosya-189-bojovyh-zitknen-i571664",
+          "title": "На фронті за добу відбулося 189 бойових зіткнень",
+          "published_at": "2026-10-29T07:59:00+00:00"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/na-fronti-zafiksovali-189-boiovikh-zitknien-z-rosiiskoiu-okupatsiinoiu-armiieiu-zviediennia-gienshtabu-zsu",
+          "title": "На фронті зафіксовали 189 бойових зіткнень з російською окупаційною армією: зведення Генштабу ЗСУ",
+          "published_at": "2026-10-29T08:59:00+00:00"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/777044_golovne_nich_ranok_chetverga_29.html",
+          "title": "Головне за ніч та ранок четверга, 29 жовтня: удар по вокзалу у Дніпрі, влучання в центрі Чернігова, гуманітарна місія в Олешках",
+          "published_at": "2026-10-29T11:11:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/regional-c-082898bd7f4bbe34.mp3",
+      "duration_sec": 11.21,
+      "sound": null
+    },
+    {
+      "id": "regional-c-41e63ba2dec40748",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Двоє жителів Львівщини загинули від отруєння чадним газом",
+      "topics": [
+        "Економіка"
+      ],
+      "must_include": false,
+      "text": [
+        "У Львівській області двоє людей загинули через отруєння чадним газом."
+      ],
+      "sources": [
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/10/29/dvoye-lyudej-na-lvivshhyni-zagynuly-vid-otruyennya-chadnym-gazom",
+          "title": "Двоє людей на Львівщині загинули від отруєння чадним газом",
+          "published_at": "2026-10-29T09:18:39+00:00"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/10/29/dvoie-zhyteliv-lvivshchyny-zahynuly-vid-otruiennia-chadnym-hazom",
+          "title": "Двоє жителів Львівщини загинули від отруєння чадним газом",
+          "published_at": "2026-10-29T10:53:23+00:00"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/12938-hazovu-plytu-vykorystovuvaly-dlya-obihrivu-na-lvivshchyni-chadnyy-haz-zabrav-zhyttya-dvokh-lyudey",
+          "title": "Газову плиту використовували для обігріву: на Львівщині чадний газ забрав життя двох людей",
+          "published_at": "2026-10-29T10:58:00+00:00"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/10/29/dvoye-lyudej-zagynuly-na-lvivshhyni-vnaslidok-otruyennya-chadnym-gazom",
+          "title": "Двоє людей загинули на Львівщині внаслідок отруєння чадним газом",
+          "published_at": "2026-10-29T10:59:49+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/regional-c-41e63ba2dec40748.mp3",
+      "duration_sec": 4.78,
+      "sound": null
+    },
+    {
+      "id": "regional-c-638f08aba9214c41",
+      "kind": "story",
+      "block": "regional",
+      "region": null,
+      "title": "Росіяни атакували Малу Данилівку на Харківщині: серед поранених дитина",
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "must_include": false,
+      "text": [
+        "Росіяни атакували «Геранню» приватний будинок у Малій Данилівці на Харківщині близько 05:00 29 жовтня.",
+        "Поранень дістали 13-річна дівчинка та 42-річна жінка."
+      ],
+      "sources": [
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/na-harkivshhini-vnaslidok-obstriliv-zaginula-lyudina-shhe-vosmero-postrazhdali",
+          "title": "На Харківщині внаслідок обстрілів загинула людина, ще восьмеро постраждали",
+          "published_at": "2026-10-29T04:55:42+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1439647-danilivk",
+          "title": "Росіяни атакували Малу Данилівку на Харківщині: серед поранених дитина",
+          "published_at": "2026-10-29T07:01:33+00:00"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/10/29/rosijska-sheran-vdarila-po-budinku-v-malij-danilivtsi-postrazhdala-divchinka",
+          "title": "Російська “герань” вдарила по будинку в Малій Данилівці: постраждала дівчинка",
+          "published_at": "2026-10-29T07:16:59+00:00"
+        },
+        {
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/u-maliy-danylivtsi-vid-obstrilu-postrazhdala-rodyna-v-kharkovi-51-richna-zhinka",
+          "title": "У Малій Данилівці від обстрілу постраждала родина, в Харкові — 51-річна жінка",
+          "published_at": "2026-10-29T08:47:23+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/regional-c-638f08aba9214c41.mp3",
+      "duration_sec": 11.62,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-heading",
+      "kind": "heading",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "А тепер — Волинь."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/local-volyn-heading.mp3",
+      "duration_sec": 1.78,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-50f9b2368da7b4a6",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Чотирьох Захисників з Нововолинської громади нагородили посмертно",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "У четвер, 29 жовтня, відбулася церемонія вручення нагород рідним загиблих Героїв.",
+        "Посмертні відзнаки вручили міський голова Борис Карпус та офіцер цивільно-військового співробітництва Другого відділу Володимирського РТЦК та СП старший сержант Юрій Бутмерчук."
+      ],
+      "sources": [
+        {
+          "name": "Нове життя",
+          "url": "https://novezittya.com.ua/batkam-polehloho-voina-vruchyly-posmertnu-nahorodu-syna",
+          "title": "Батькам полеглого воїна вручили посмертну нагороду сина",
+          "published_at": "2026-10-29T07:40:47+00:00"
+        },
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/chotyroh-zahysnykiv-z-novovolynskoyi-gromady-nagorodyly-posmertno",
+          "title": "Чотирьох Захисників з Нововолинської громади нагородили посмертно",
+          "published_at": "2026-10-29T11:22:55+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-volyn-c-50f9b2368da7b4a6.mp3",
+      "duration_sec": 15.28,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-57fe74581698e6fa",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "Мобільна гінекологічна бригада у листопаді відвідає чотири громади на Волині: графік виїздів",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "У листопаді мобільна гінекологічна бригада безплатно оглядатиме жінок у селах Самарівської, ратнівської, луцької і Забродівської громад."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lutsk/1439031-mobilna-ginekologicna-brigada-u-listopadi-vidvidae-cotiri-gromadi-na-volini-grafik-viizdiv",
+          "title": "Мобільна гінекологічна бригада у листопаді відвідає чотири громади на Волині: графік виїздів",
+          "published_at": "2026-10-28T19:05:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-volyn-c-57fe74581698e6fa.mp3",
+      "duration_sec": 8.36,
+      "sound": null
+    },
+    {
+      "id": "local-volyn-c-61ad225d5d1a3a65",
+      "kind": "story",
+      "block": "local:volyn",
+      "region": "volyn",
+      "title": "У Ковелі облаштовують спортивні локації за підтримки міжнародних партнерів",
+      "topics": [
+        "Війна та безпека",
+        "Спорт"
+      ],
+      "must_include": false,
+      "text": [
+        "На набережній, поруч із веслувальною базою, встановили вуличні тренажери."
+      ],
+      "sources": [
+        {
+          "name": "Волинь Оnline",
+          "url": "https://volynonline.com/u-koveli-oblashtovuyut-sportyvni-lokacziyi-za-pidtrymky-mizhnarodnyh-partneriv",
+          "title": "У Ковелі облаштовують спортивні локації за підтримки міжнародних партнерів",
+          "published_at": "2026-10-28T15:49:35+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-volyn-c-61ad225d5d1a3a65.mp3",
+      "duration_sec": 4.86,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-heading",
+      "kind": "heading",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Далі — новини регіону: Хмельниччина."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/local-khmelnytskyi-heading.mp3",
+      "duration_sec": 2.72,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-f3822bfd35191a97",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Рік після вибуху в будинку на Тернопільській у Хмельницькому: як триває відбудова",
+      "topics": [
+        "Війна та безпека"
+      ],
+      "must_include": false,
+      "text": [
+        "Вибух у будинку на вулиці Тернопільській у Хмельницькому стався 28 жовтня 2025 року."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/khmelnytskiy/1438817-rik-pisla-vibuhu-v-budinku-na-ternopilskij-u-hmelnickomu-ak-trivae-vidbudova",
+          "title": "Рік після вибуху в будинку на Тернопільській у Хмельницькому: як триває відбудова",
+          "published_at": "2026-10-28T17:00:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-khmelnytskyi-c-f3822bfd35191a97.mp3",
+      "duration_sec": 7.24,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-acab2b0448fba054",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "СБУ затримала на Хмельниччині безробітного, якого підозрюють у корегуванні ворожих обстрілів",
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "must_include": false,
+      "text": [
+        "Чоловік наводив комбіновані удари ворога по військових частинах, оборонних заводах та поштових терміналах."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/10/29/777040_sbu_zatrimala_hmelnichchini.html",
+          "title": "СБУ затримала на Хмельниччині безробітного, якого підозрюють у корегуванні ворожих обстрілів",
+          "published_at": "2026-10-29T11:14:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-khmelnytskyi-c-acab2b0448fba054.mp3",
+      "duration_sec": 6.74,
+      "sound": null
+    },
+    {
+      "id": "local-khmelnytskyi-c-b926065dd273ab6a",
+      "kind": "story",
+      "block": "local:khmelnytskyi",
+      "region": "khmelnytskyi",
+      "title": "Чотирьох воїнів провели на вічний спочинок у громадах Хмельниччини",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Обірвалось життя Андрія Семенюка, Віктора Козлюка, Євгена Крамара та Володимира Дудченка..."
+      ],
+      "sources": [
+        {
+          "name": "Є",
+          "url": "https://ye.ua/syspilstvo/80894_Chotiroh_voyiniv_proveli_na_vichniy_spochinok_u_gromadah_Hmelnichchini.html",
+          "title": "Чотирьох воїнів провели на вічний спочинок у громадах Хмельниччини",
+          "published_at": "2026-10-29T10:59:40+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-khmelnytskyi-c-b926065dd273ab6a.mp3",
+      "duration_sec": 5.96,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-heading",
+      "kind": "heading",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Закарпаття: головне за добу."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/local-zakarpattia-heading.mp3",
+      "duration_sec": 2.06,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-7740dab4425de5f0",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "Якою буде погода на Закарпатті 29 жовтня",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "Хмарну погоду з проясненнями та без істотних опадів прогнозують синоптики на Закарпатті 29 жовтня.",
+        "Температура повітря вдень становитиме 12-17° тепла."
+      ],
+      "sources": [
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/do-17deg-tepla-ta-slabkyy-tuman-prohnozuyut-na-zakarpatti",
+          "title": "До 17° тепла та слабкий туман прогнозують на Закарпатті",
+          "published_at": "2026-10-28T15:50:03+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4179063-zavtra-v-ukraini-perevazno-bez-opadiv-miscami-do-17.html",
+          "title": "Завтра в Україні переважно без опадів, до +17°",
+          "published_at": "2026-10-28T15:57:00+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1439597-akou-bude-pogoda-na-zakarpatti-29-zovtna-2",
+          "title": "Якою буде погода на Закарпатті 29 жовтня",
+          "published_at": "2026-10-29T06:18:29+00:00"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Pogoda/morozi-y-snigopadi-vzhe-za-kilka-dniv-sinoptiki-poyasnili-yakoyu-bude--12011285.html",
+          "title": "Морози й снігопади вже за кілька днів? Синоптики пояснили, якою буде погода в Україні",
+          "published_at": "2026-10-29T11:13:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-zakarpattia-c-7740dab4425de5f0.mp3",
+      "duration_sec": 10.92,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-6fae671bcb746ff7",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "В Ужгороді попрощалися із 40-річним Валентином Балогою, який загинув на Донеччині",
+      "topics": [
+        "Суспільство"
+      ],
+      "must_include": false,
+      "text": [
+        "В Ужгороді 28 жовтня попрощалися із 40-річним молодшим сержантом Валентином Балогою.",
+        "Військовослужбовець загинув 11 серпня 2026 року під час бойових дій поблизу міста Дружківка Донецької області."
+      ],
+      "sources": [
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/iz-polehlym-40-richnym-voyinom-valentynom-balohoyu-poproshchalysya-v-uzhhorodi",
+          "title": "Із полеглим 40-річним воїном Валентином Балогою попрощалися в Ужгороді",
+          "published_at": "2026-10-28T14:51:27+00:00"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1439375-v-uzgorodi-poprosalisa-iz-40-ricnim-valentinom-balogou-akij-zaginuv-na-doneccini",
+          "title": "В Ужгороді попрощалися із 40-річним Валентином Балогою, який загинув на Донеччині",
+          "published_at": "2026-10-28T18:35:04+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-zakarpattia-c-6fae671bcb746ff7.mp3",
+      "duration_sec": 14.13,
+      "sound": null
+    },
+    {
+      "id": "local-zakarpattia-c-4a88ae49ebd2b7b6",
+      "kind": "story",
+      "block": "local:zakarpattia",
+      "region": "zakarpattia",
+      "title": "В Ужгороді визначили перших лауреатів мистецької премії імені Володимира Микити",
+      "topics": [
+        "Культура"
+      ],
+      "must_include": false,
+      "text": [
+        "В Ужгороді визначили переможців новозаснованої міської премії імені Володимира Микити у галузі образотворчого та декоративно-прикладного мистецтва у трьох номінаціях."
+      ],
+      "sources": [
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/v-uzhhorodi-nazvaly-peremozhtsiv-mytetskoyi-premiyi-imeni-volodymyra-mykyty",
+          "title": "В Ужгороді назвали переможців митецької премії імені Володимира Микити",
+          "published_at": "2026-10-29T09:18:33+00:00"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-culture/4179316-v-uzgorodi-viznacili-persih-laureativ-misteckoi-premii-imeni-volodimira-mikiti.html",
+          "title": "В Ужгороді визначили перших лауреатів мистецької премії імені Володимира Микити",
+          "published_at": "2026-10-29T09:54:00+00:00"
+        }
+      ],
+      "audio": "editions/2026-10-29/audio/local-zakarpattia-c-4a88ae49ebd2b7b6.mp3",
+      "duration_sec": 10.27,
+      "sound": null
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "region": null,
+      "title": null,
+      "topics": [],
+      "must_include": false,
+      "text": [
+        "Це були новини BRIEF за двадцять дев'яте жовтня.",
+        "Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": [],
+      "audio": "editions/2026-10-29/audio/outro.mp3",
+      "duration_sec": 6.03,
+      "sound": null
+    }
+  ]
+}
