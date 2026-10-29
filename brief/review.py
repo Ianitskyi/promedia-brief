@@ -78,7 +78,7 @@ def check_draft(date, draft=None, save=True):
             _recheck_sentence(s, seg, evidence, ed, lexicon, year)
             if not s["text"].strip():
                 problems.append(f"{s['id']}: порожнє речення")
-            if s.get("spoken_rewrite") and not (s.get("editor_confirmed") and s.get("confirmed_by") not in (None, "auto")):
+            if s.get("spoken_rewrite") and not (s.get("editor_confirmed") and s.get("confirmed_by") != "auto"):
                 problems.append(f"{s['id']}: ШІ-переписування потребує підтвердження редактора")
             if s["status"] == "unsupported":
                 problems.append(f"{s['id']}: непідтверджено — " + "; ".join(s.get("reasons", [])))
