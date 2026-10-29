@@ -5,7 +5,7 @@ from brief.edition import lead_sentences
 def test_lead_only_reads_annotation_not_headline():
     item = {
         "title": "У місті відкрили новий центр допомоги мешканцям",
-        "description": "У місті запрацював центр допомоги мешканцям, де надають безкоштовні консультації. Центр працюватиме щодня.",
+        "description": "У місті запрацював центр допомоги мешканцям, де надають безкоштовні консультації. Центр надаватиме консультації для місцевих мешканців щодня.",
     }
     result = lead_sentences(item, 2, 60, opening="lead_only")
     assert len(result) == 2
