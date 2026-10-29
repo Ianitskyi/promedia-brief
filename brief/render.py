@@ -98,12 +98,12 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
     # Per-voice pace controls. BRIEF_TEMPO remains a global multiplier for backward compatibility.
     # A/B test values are passed as environment variables (do not change production defaults).
     news_tempo = float(os.environ.get("BRIEF_TEMPO", "1.0")) * float(os.environ.get("BRIEF_NEWS_TEMPO", "1.0"))
-    if not 0.80 <= news_tempo <= 1.20:
-        raise ValueError("news tempo must be between 0.80 and 1.20")
+    if not 0.80 <= news_tempo <= 1.40:
+        raise ValueError("news tempo must be between 0.80 and 1.40")
     news_af = audio.voice_filter(news_tempo)
     service_tempo = news_tempo * float(os.environ.get("BRIEF_SERVICE_TEMPO", "1.0"))
-    if not 0.80 <= service_tempo <= 1.20:
-        raise ValueError("service tempo must be between 0.80 and 1.20")
+    if not 0.80 <= service_tempo <= 1.40:
+        raise ValueError("service tempo must be between 0.80 and 1.40")
     service_af = audio.voice_filter(service_tempo, float(os.environ.get("BRIEF_SERVICE_PITCH", "0")))
 
     default_dir = EDITIONS / date / ("variants/" + variant if variant else "audio")
