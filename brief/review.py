@@ -78,6 +78,8 @@ def check_draft(date, draft=None, save=True):
             _recheck_sentence(s, seg, evidence, ed, lexicon, year)
             if not s["text"].strip():
                 problems.append(f"{s['id']}: порожнє речення")
+            if s.get("spoken_rewrite") and not (s.get("editor_confirmed") and s.get("confirmed_by") not in (None, "auto")):
+                problems.append(f"{s['id']}: ШІ-переписування потребує підтвердження редактора")
             if s["status"] == "unsupported":
                 problems.append(f"{s['id']}: непідтверджено — " + "; ".join(s.get("reasons", [])))
             elif s["status"] == "needs_review" and not s.get("editor_confirmed"):
@@ -122,6 +124,9 @@ def approve(date, reviewer, expected_hash=None, now=None, auto=False):
         reviewer = AUTO_REVIEWER
     if not reviewer or not reviewer.strip():
         raise ApprovalError("reviewer is required")
+    if auto and any(s.get("spoken_rewrite") for seg in load_draft(date)["segments"]
+                    for s in seg["sentences"]):
+        raise ApprovalError("AI-rewritten stories cannot be auto-approved")
     if auto:
         # Owner's decision (2026-10-21): sensitive claims (casualties, strikes) from a single
         # outlet are published without a human check. Claims missing from the sources (✗)
