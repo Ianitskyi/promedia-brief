@@ -75,7 +75,7 @@ def audition(output, *, script=SCRIPT):
     output = pathlib.Path(output)
     output.parent.mkdir(parents=True, exist_ok=True)
     male_speed = float(os.environ.get("BRIEF_YEVHEN_TEMPO", "1.0"))
-    female_speed = float(os.environ.get("BRIEF_YAROSLAVA_TEMPO", "1.0"))
+    female_speed = float(os.environ.get("BRIEF_YAROSLAVA_TEMPO", "1.08"))
     if not 0.8 <= male_speed <= 1.2 or not 0.8 <= female_speed <= 1.2:
         raise ValueError("Voice tempo must be between 0.8 and 1.2")
     male_filter = audio.voice_filter(male_speed)
