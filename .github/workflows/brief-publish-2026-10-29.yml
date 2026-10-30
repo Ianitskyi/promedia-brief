@@ -1,0 +1,71 @@
+name: Publish BRIEF audio for 29 October 2026
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm_paid:
+        description: "Authorize ElevenLabs credits and publishing the 29 October edition"
+        type: boolean
+        required: true
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - .github/brief-audio-publish-trigger.txt
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief-2026-10-29-publication
+  cancel-in-progress: false
+
+jobs:
+  publish-audio:
+    if: github.event_name == 'push' || inputs.confirm_paid == true
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install tools
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt
+      - name: Generate MP3 from 29 October script
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          BRIEF_ALLOW_PAID_TTS: '1'
+          BRIEF_MAX_TTS_USD: '0.30'
+          BRIEF_ELEVENLABS_MODEL: eleven_v3
+          BRIEF_ELEVENLABS_STRESS: '0'
+        run: |
+          test -n "$ELEVENLABS_API_KEY" || (echo "Missing ELEVENLABS_API_KEY" && exit 1)
+          python -m brief.audition --script docs/tts/brief-2026-10-29.json --output audio/brief-2026-10-29.mp3
+      - name: Verify MP3 and create a linked release page
+        run: python -m brief.publish_audition
+      - name: Upload complete audio as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: BRIEF-2026-10-29-audio
+          path: |
+            audio/brief-2026-10-29.mp3
+            audio/brief-2026-10-29.json
+            brief-2026-10-29.html
+          retention-days: 30
+      - name: Publish to GitHub Pages repository
+        run: |
+          git config user.name 'BRIEF Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add audio/brief-2026-10-29.mp3 audio/brief-2026-10-29.json brief-2026-10-29.html index.html
+          git diff --cached --quiet && exit 0
+          git commit -m 'Publish BRIEF spoken edition for 29 October 2026'
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
