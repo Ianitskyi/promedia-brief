@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-29",
+  "status": "DRAFT_REQUIRES_EDITOR_REVIEW",
+  "kind": "private_audio_audition",
+  "notes": "Data for 29 Oct 2026; review factual fidelity and pronunciation before public release.",
+  "segments": [
+    {
+      "speaker": "Yaroslava",
+      "role": "intro",
+      "text": "Це BRIEF — добірка новин із медіа Білого списку та Мапи рекомендованих медіа. Головне за двадцять дев'яте жовтня. Повний список джерел — на сайті BRIEF."
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "heading",
+      "text": "Головні новини України."
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Дніпро",
+      "text": "Чотирнадцять людей загинули в Дніпрі внаслідок російського удару дроном по залізничному вокзалу. Понад десять людей поранені. Безпілотник влучив у платформу, де стояв електропоїзд до Запоріжжя. Серед тяжко поранених — одинадцятирічний хлопчик.",
+      "sources": [
+        "https://suspilne.media/dnipro/1439817-dron-rf-atakuvav-elektricku-dnipro-zaporizza-na-zaliznicnomu-vokzali-u-dnipri-zaginuli-14-ludej-e-poraneni/",
+        "https://www.pravda.com.ua/news/2026/10/29/8060297/"
+      ],
+      "order": 1
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Кременчук",
+      "text": "Троє людей загинули, ще тридцять двоє постраждали від російського обстрілу Кременчука. Серед постраждалих — шестеро дітей. У місті пошкоджені житлові будинки. За повідомленнями правоохоронців, Росія атакувала місто ракетами «Бандероль».",
+      "sources": [
+        "https://suspilne.media/poltava/1440359-u-kremencuci-zbilsilas-kilkist-postrazdalih-vnaslidok-rosijskogo-obstrilu/",
+        "https://suspilne.media/poltava/1440039-rosiani-vdarili-po-kremencuku-raketami-banderol-troe-zagiblih-19-poranenih/"
+      ],
+      "order": 2
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Чернігів",
+      "text": "Дві п'ятнадцятирічні школярки загинули від російського удару по центру Чернігова. Ще понад двадцять людей поранені, серед них четверо дітей. Пошкоджені магазини, горіли автомобілі. На тридцяте жовтня в Чернігові оголосили день жалоби.",
+      "sources": [
+        "https://suspilne.media/chernihiv/1440255-dvoe-skolarok-zaginuli-u-centri-cernigovi-vnaslidok-ataki-rosii-banderollu-video/",
+        "https://suspilne.media/chernihiv/1440165-dvoe-ditej-brat-i-sestra-u-vazkomu-stani-so-vidomo-pro-poranenih-vnaslidok-ataki-rf-po-centru-cernigova/"
+      ],
+      "order": 3
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Олешки",
+      "text": "Гуманітарний конвой для окупованих Олешок на Херсонщині готовий до відправлення. Як повідомив омбудсман Дмитро Лубінець, маршрути для його проходження вже розмінували. У місті діє погоджений режим тиші. Допомогу планують доправити тридцятого жовтня.",
+      "sources": [
+        "https://suspilne.media/1440397-rozminuvanna-marsrutiv-v-oleskah-zaverseno-gumanitarnij-konvoj-gotovij-do-vidpravlenna-lubinec/",
+        "https://suspilne.media/1439917-lubinec-virusiv-na-tot-hersonsini-gotuetsa-vidpravlenna-gumdopomogi-so-vidomo-pro-rezim-tisi-v-oleskah/"
+      ],
+      "order": 4
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Облікова ставка",
+      "text": "Нацбанк підвищив облікову ставку до шістнадцяти з половиною відсотків річних. Причина — зростання цінового тиску та інфляційних очікувань. Регулятор також погіршив економічний прогноз і тепер очікує інфляцію за підсумками цього року на рівні дванадцяти з половиною відсотків.",
+      "sources": [
+        "https://suspilne.media/1440085-nbu-pidnalo-oblikovu-stavku-ta-pogirsilo-makroekonomicnij-prognoz-na-2027-rik/"
+      ],
+      "order": 5
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Світло",
+      "text": "У частині областей України тридцятого жовтня знову діятимуть графіки відключення світла. За повідомленням Укренерго, обмеження планують із шостої ранку до кінця доби. Причина — пошкодження енергосистеми через російські атаки. Актуальний графік варто перевіряти у свого обленерго.",
+      "sources": [
+        "https://lb.ua/economics/2026/10/29/777124_ukrenergo_poperedilo_pro.html"
+      ],
+      "order": 6
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Польща",
+      "text": "Польща вирішила передати Україні два винищувачі МіГ-двадцять дев'ять. У польському Міністерстві оборони повідомили, що рішення вже ухвалене, але точної дати передачі не назвали. Один літак придатний до польотів, інший Україна зможе використати на запчастини.",
+      "sources": [
+        "https://suspilne.media/1440041-minoboroni-polsi-planue-peredati-ukraini-dva-vinisuvaci-mig-29/"
+      ],
+      "order": 7
+    },
+    {
+      "speaker": "Yevhen",
+      "role": "story",
+      "title": "Нічна атака",
+      "text": "У ніч проти двадцять дев'ятого жовтня Росія запустила по Україні сто дванадцять безпілотників, із них сорок — реактивні. За ранковими даними Повітряних сил, протиповітряна оборона збила або подавила дев'яносто сім дронів. Влучання зафіксували в семи місцях.",
+      "sources": [
+        "https://suspilne.media/1439631-rosia-atakuvala-ukrainu-112-dronami-zokrema-40-reaktivnimi-skilki-zbila-ppo/"
+      ],
+      "order": 8
+    },
+    {
+      "speaker": "Yaroslava",
+      "role": "outro",
+      "text": "Це був BRIEF. Підсумки двадцять дев'ятого жовтня. Посилання на першоджерела — на сайті BRIEF."
+    }
+  ]
+}

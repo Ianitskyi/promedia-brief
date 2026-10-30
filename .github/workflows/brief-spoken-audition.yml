@@ -1,0 +1,33 @@
+name: BRIEF spoken audition
+on:
+  workflow_dispatch:
+    inputs:
+      confirm_paid:
+        description: "Approve paid ElevenLabs speech generation"
+        required: true
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  audition:
+    if: inputs.confirm_paid
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt
+      - name: Render archived story rewrite (private)
+        run: python -m brief.audition
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          BRIEF_ALLOW_PAID_TTS: '1'
+          BRIEF_ELEVENLABS_MODEL: eleven_v3
+      - uses: actions/upload-artifact@v4
+        with:
+          name: spoken-audition
+          path: audition/
+          retention-days: 7

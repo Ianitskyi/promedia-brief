@@ -22,13 +22,16 @@ on:
         default: eleven_v3
       tempo:
         description: "Speed of all voices (1.0 = as synthesized; free post-processing)"
-        default: "1.2"
+        default: "1.0"
+      news_tempo:
+        description: "Extra speed for Yevhen (1.0 = unchanged)"
+        default: "1.0"
       service_tempo:
         description: "Extra speed for the service voice (intro, reminder, outro)"
-        default: "1.08"
+        default: "1.0"
       service_pitch:
         description: "Pitch of the service voice in semitones (negative = lower)"
-        default: "-2"
+        default: "0"
       stress:
         description: "Mark every word's stress from the Ukrainian stress dictionary"
         type: boolean
@@ -36,7 +39,11 @@ on:
       alternate:
         description: "The two voices take turns reading stories"
         type: boolean
-        default: true
+        default: false
+      spoken_audition:
+        description: "Generate the updated spoken-news test script; no publishing"
+        type: boolean
+        default: false
       confirm_paid:
         description: "I approve spending API credits on this demo (≈6K ElevenLabs credits; ≈$0.50 pay-as-you-go)"
         type: boolean
@@ -51,6 +58,7 @@ concurrency:
 
 jobs:
   demo:
+    if: ${{ !inputs.spoken_audition }}
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
@@ -111,17 +119,18 @@ jobs:
           BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '1.00' }}
           BRIEF_ELEVENLABS_MODEL: ${{ inputs.model }}
           BRIEF_TEMPO: ${{ inputs.tempo }}
+          BRIEF_NEWS_TEMPO: ${{ inputs.news_tempo }}
           BRIEF_SERVICE_TEMPO: ${{ inputs.service_tempo }}
           BRIEF_SERVICE_PITCH: ${{ inputs.service_pitch }}
           BRIEF_ALTERNATE_VOICES: ${{ inputs.alternate && '1' || '0' }}
           BRIEF_ELEVENLABS_STRESS: ${{ inputs.stress && '1' || '0' }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID }}  # either place works
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID || secrets.ELEVENLABS_VOICE_ID || 'TEyBWD5tAHAWqAGEv6yI' }}
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
           AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
         run: |
           SV=""
-          if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID || secrets.ELEVENLABS_SERVICE_VOICE_ID }}"; fi
+          if [ "${{ inputs.provider }}" = "elevenlabs" ]; then SV="${{ vars.ELEVENLABS_SERVICE_VOICE_ID || secrets.ELEVENLABS_SERVICE_VOICE_ID || '0ZQZuw8Sn4cU0rN1Tm2K' }}"; fi
           python -m brief render --date "${{ steps.cfg.outputs.date }}" --provider "${{ inputs.provider }}" \
             --variant "demo-${{ inputs.provider }}" ${SV:+--service-voice "$SV"}
       - name: Save voiced sentences, also when the run failed half-way
@@ -155,3 +164,27 @@ jobs:
           echo "Demo page: https://brief.promedia.report/demo.html" >> "$GITHUB_STEP_SUMMARY"
           f="editions/${{ steps.cfg.outputs.date }}/render-demo-${{ inputs.provider }}.json"
           test -f "$f" && python -c "import json;d=json.load(open('$f'));print('Duration', d['duration_sec'], 's; characters', d['characters'], '; est. cost $', d['estimated_cost_usd'], '; ASR', d.get('asr',{}).get('mean_cer'))" >> "$GITHUB_STEP_SUMMARY" || true
+
+  spoken_audition:
+    if: ${{ inputs.spoken_audition && inputs.confirm_paid }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install -r requirements.txt
+      - name: Synthesize private archive script with Yevhen and Yaroslava
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          BRIEF_ALLOW_PAID_TTS: '1'
+          BRIEF_ELEVENLABS_MODEL: eleven_v3
+          BRIEF_MAX_TTS_USD: '1.00'
+        run: python -m brief.audition
+      - uses: actions/upload-artifact@v4
+        with:
+          name: updated-BRIEF-spoken-audition
+          path: audition/
+          retention-days: 7

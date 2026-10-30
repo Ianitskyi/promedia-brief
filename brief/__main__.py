@@ -38,6 +38,17 @@ def cmd_draft(a):
           f"{s['needs_review']} need editor confirmation, {s['excluded']} excluded")
 
 
+def cmd_spoken_propose(a):
+    from .spoken import build_proposals
+    print(build_proposals(a.date, model=a.model, max_stories=a.max_stories))
+
+
+def cmd_spoken_apply(a):
+    from .spoken import apply_proposals
+    result = apply_proposals(a.date, accept_ids=set(a.ids))
+    print(json.dumps(result["summary"], ensure_ascii=False, indent=2))
+
+
 def cmd_check(a):
     from . import review
 
@@ -109,6 +120,17 @@ def main(argv=None):
     d = sub.add_parser("draft", help="build editions/<date>/draft.json")
     d.add_argument("--date")
     d.set_defaults(fn=cmd_draft)
+
+    sp = sub.add_parser("spoken-propose", help="Generate optional AI spoken drafts for editor review")
+    sp.add_argument("--date", required=True)
+    sp.add_argument("--model", default="gpt-4.1-mini")
+    sp.add_argument("--max-stories", type=int, default=30)
+    sp.set_defaults(fn=cmd_spoken_propose)
+
+    sa = sub.add_parser("spoken-apply", help="Apply reviewed spoken proposals by story id")
+    sa.add_argument("--date", required=True)
+    sa.add_argument("--ids", nargs="+", required=True)
+    sa.set_defaults(fn=cmd_spoken_apply)
 
     c = sub.add_parser("check", help="re-run fact checks on the (edited) draft")
     c.add_argument("--date", required=True)

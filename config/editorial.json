@@ -16,7 +16,7 @@
     "must_include_national": 3,
     "max_sentences_per_story": 2,
     "max_words_per_story": 60,
-    "story_opening": "lead",
+    "story_opening": "lead_only",
     "key_story_sentences": 4,
     "key_story_words": 100,
     "approval_mode": "auto",
