@@ -1,0 +1,21 @@
+{
+  "type": "UNAPPROVED_PRIVATE_AUDITION",
+  "edition_date": "2026-10-29",
+  "published": false,
+  "script": "docs/tts/brief-2026-10-29.json",
+  "script_sha256": "304ef85c56c93a91084299c03b5e247645c1de6213dd213d83d9e9eaa88107b3",
+  "male": {
+    "name": "Yevhen",
+    "voice_id": "TEyBWD5tAHAWqAGEv6yI",
+    "tempo": 1.0
+  },
+  "female": {
+    "name": "Yaroslava",
+    "voice_id": "0ZQZuw8Sn4cU0rN1Tm2K",
+    "tempo": 1.0
+  },
+  "stories": 8,
+  "characters": 2297,
+  "estimated_cost_usd": 0.1838,
+  "audio": "brief-2026-10-29.mp3"
+}
