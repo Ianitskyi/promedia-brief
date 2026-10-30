@@ -1,8 +1,8 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-30T00:58:41+00:00",
+  "generated_at": "2026-10-30T07:05:35+00:00",
   "source_count": 124,
-  "item_count": 2973,
+  "item_count": 2977,
   "items": [
     {
       "id": "9d574367bc45f544",
@@ -202,11 +202,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/iak-vimikatimut-svitlo-na-poltavshchini-30-zhovtnia",
-      "title": "Poltava Region Power Outage Schedule for October 30: Hourly Times by Group",
+      "title": "Як вимикатимуть світло на Полтавщині 30 жовтня",
       "published_at": "2026-10-29T21:51:22+00:00",
       "published_raw": "Thu, 29 Oct 2026 21:51:22 GMT",
       "fetched_at": "2026-10-30T00:58:41+00:00",
-      "description": "Hourly power outages will be in effect in Poltava Oblast on October 30, according to Poltavaoblenergo. The schedule lists times for each of the subgroups 1.1 to 6.2 and may change during the day.",
+      "description": "Розповідаємо, як вимикатимуть світло на Полтавщині 30 жовтня.",
       "categories": [
         "Соціум",
         "Новини"
@@ -938,7 +938,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/kino/273446-pomer-aktor-patrik-stiuart-vidomyy-za-roliamy-u-zorianomu-shliakhu-ta-v-liudiakh-iks",
-      "title": "Помер актор Патрік Стюарт, відомий за ролями у «Зоряному шляху» та в «Людях Ікс»",
+      "title": "Помер актор Патрік Стюарт, відомий за ролями в «Зоряному шляху» та «Людях Ікс»",
       "published_at": "2026-10-29T21:08:00+00:00",
       "published_raw": "2026-10-29T23:08:00+02:00",
       "fetched_at": "2026-10-30T00:58:41+00:00",
@@ -1141,6 +1141,29 @@
       "description": "Угорський прем'єр розкритикував ідею призначити Орбана на посаду Генсека ООН.",
       "categories": [
         "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cf75c3ff05c6569b",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/otrimati-piensiiu-za-propushchienii-pieriod-u-zviazku-z-pieriebuvanniam-na-tot-mozhlivo",
+      "title": "Отримати пенсію за пропущений період у звʼязку з перебуванням на ТОТ можливо: умова",
+      "published_at": "2026-10-29T21:00:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:00:00 GMT",
+      "fetched_at": "2026-10-30T07:05:35+00:00",
+      "description": "Отримати пенсію за пропущений період у звʼязку з перебуван",
+      "categories": [
+        "Суспільство",
+        "ТОТ",
+        "виплати",
+        "Донецька область",
+        "Луганська область"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -2687,6 +2710,29 @@
         "Дубровиця",
         "Рівне Події",
         "Рівненська обласна рада"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f8efd33d36509ccf",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/okupanti-povidomili-skilki-vidzhatikh-kvartir-rozdali-v-mariupoli",
+      "title": "Окупанти повідомили, скільки \"віджатих\" квартир роздали в Маріуполі",
+      "published_at": "2026-10-29T20:00:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:00:00 GMT",
+      "fetched_at": "2026-10-30T07:05:35+00:00",
+      "description": "У Маріуполі відрапортували, що \"завершують розподіл компе",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -4984,6 +5030,29 @@
         "Війна Росії з Україною",
         "Запоріжжя",
         "Запорізька область"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b62d77f38671a9ab",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/okupanti-viznali-shcho-u-tak-zvanii-dnr-zafiksovano-ponad-430-niesanktsionovanikh-zvalishch",
+      "title": "Окупанти визнали, що у так званій \"днр\" зафіксовано понад 430 несанкціонованих звалищ",
+      "published_at": "2026-10-29T19:00:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 19:00:00 GMT",
+      "fetched_at": "2026-10-30T07:05:35+00:00",
+      "description": "У так званій \"днр\" окупанти зафіксували 436 несанкціоновани",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "ТОТ",
+        "Окупація"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -7872,7 +7941,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://objectiv.tv/uk/objectively/2026/10/29/viter-ta-16-prognoz-pogodi-na-29-zhovtnya-u-harkovi-ta-oblasti",
-      "title": "Вітер та +16: прогноз погоди на 29 жовтня у Харкові та області",
+      "title": "Вітер та +16: прогноз погоди на 30 жовтня у Харкові та області",
       "published_at": "2026-10-29T18:02:32+00:00",
       "published_raw": "Thu, 29 Oct 2026 18:02:32 +0000",
       "fetched_at": "2026-10-29T20:17:15+00:00",
@@ -8113,6 +8182,29 @@
       "fetched_at": "2026-10-29T20:17:15+00:00",
       "description": "До закладу прийшло багато людей. Черги вишикувалися аж надвір. Відвідувачі також збиралися біля кас, розглядали меню та чекали на замовлення. Ми порівняли ціни в новому закладі з цінами у двох інших мережах швидкого харчування в Тернополі. Скільки коштують бургери Для порівняння взяли чізбургери в трьох закладах. У KFC та McDonald’s чізбургер коштує по 78 гривень, а в Big Burger — 75 гривень. Крильця, нагетси та картопля Окремо порівняли курячі снеки. У KFC дев’ять нагетсів коштують 159 гривень, а пʼять гострих крилець — 168 гривень. У McDonald’s дев’ять нагетсів коштують теж 159 гривень.",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3518f1b2f87c193",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/u-tak-zvanii-dnr-vinik-diefitsit-potuzhnosti-ieliektroienierghiyi",
+      "title": "У так званій \"днр\" виник дефіцит потужності електроенергії",
+      "published_at": "2026-10-29T18:00:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 18:00:00 GMT",
+      "fetched_at": "2026-10-30T07:05:35+00:00",
+      "description": "В енергосистемі так званої \"днр\" виник дефіцит потужності",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "ТОТ",
+        "\"днр\""
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9107,7 +9199,7 @@
         "Франківські новини",
         "Біжучий рядок",
         "Сама топова новина",
-        "Фото"
+        "Освіта"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -13892,7 +13984,7 @@
       "fetched_at": "2026-10-29T07:04:58+00:00",
       "description": "Пригадуємо весь шлях обрання голови Черкаської обласної ради та що було до цього",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -17376,10 +17468,10 @@
       "description": "Наприкінці жовтня на підконтрольній Україні частині Донеччини залишаються близько 67,6 тисячі цивільних, із них приблизно 57 тисяч перебувають у зоні активних бойових дій. Евакуація сповільнилася у найнаселеніших громадах області, Краматорській і Слов’янській, натомість із територій поза зоною активних боїв люди почали виїжджати частіше. Про це…",
       "categories": [
         "Новини",
-        "Новини Миколаївської громади",
-        "Новини Дружківської громади",
-        "Новини Краматорської громади",
-        "Новини Новодонецької громади"
+        "Новини Слов’янської громади",
+        "Новини Олександрівської громади",
+        "Новини Костянтинівської громади",
+        "Новини Лиманської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -17874,7 +17966,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://2day.kh.ua/ua/kharkow/z-pid-zavaliv-zruynovanoho-budynku-v-izyumi-vryatuvaly-dvokh-lyudey",
-      "title": "З-під завалів зруйнованого будинку в Ізюмі врятували двох людей",
+      "title": "З-під завалів зруйнованої будівлі в Ізюмі врятували двох людей",
       "published_at": "2026-10-29T14:58:00+00:00",
       "published_raw": "Thu, 29 Oct 2026 16:58:00 +0200",
       "fetched_at": "2026-10-29T20:17:15+00:00",
@@ -20539,10 +20631,10 @@
       "description": "Комунальні служби Івано-Франківської громади переходять на зимове утримання міста. З 2 до 6 листопада «Муніципальна дорожня компанія» переобладнуватиме техніку для прибирання снігу та боротьби з ожеледицею, пише КУРС з посиланням на заступника міського голови Михайла Смушака. Йдеться про встановлення та заміну навісного обладнання та іншу підготовку машин до механізованого прибирання снігу та посипання протиожеледними матеріалами. […]",
       "categories": [
         "Суспільство",
+        "Івано-Франківськ",
         "сніг",
         "прибирання",
-        "дороги",
-        "Івано-Франківськ"
+        "дороги"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -58182,6 +58274,12 @@
       "at": "2026-10-30T00:58:41+00:00",
       "fetched": 1581,
       "added": 99,
+      "errors": 4
+    },
+    {
+      "at": "2026-10-30T07:05:35+00:00",
+      "fetched": 1329,
+      "added": 4,
       "errors": 4
     }
   ]
