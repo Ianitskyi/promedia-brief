@@ -1,9 +1,1987 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-29T20:17:15+00:00",
+  "generated_at": "2026-10-30T00:58:41+00:00",
   "source_count": 124,
-  "item_count": 2874,
+  "item_count": 2973,
   "items": [
+    {
+      "id": "9d574367bc45f544",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4179560-u-skriningu-zdorova-40-viavlatimut-diabet-i-pidvisenij-arterialnij-tisk-lasko.html",
+      "title": "У «Скринінгу здоров’я 40+» виявлятимуть діабет і підвищений артеріальний тиск - Ляшко",
+      "published_at": "2026-10-29T21:59:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:59:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У рамках державної програми «Скринінг здоров’я 40+» виявлятимуть діабет і підвищений артеріальний тиск як фактори виникнення серцево-судинних захворювань.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3e32688032db2f4",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/29/777164_golovne_chetver_29_zhovtnya.html",
+      "title": "Головне за четвер, 29 жовтня: балістика на Київ, удар по багатоповерхівці в Кременчуці, атака на міський транспорт Запоріжжя",
+      "published_at": "2026-10-29T21:58:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Бойові дії на Донеччині, 191 бойове зіткнення, ворожі обстріли, гуманітарна місія в Олешках. Яким запам’ятається 1709-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c877b8d42e1b91c7",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-economy/4179556-turecki-investicii-v-ukrainu-za-sist-rokiv-zrosli-majze-na-100-miljoniv-posolka.html",
+      "title": "Турецькі інвестиції в Україну за шість років зросли майже на $100 мільйонів - посолка",
+      "published_at": "2026-10-29T21:57:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:57:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Прямі турецькі інвестиції в Україну зросли з $454,7 мільйона у 2019 році до $555,8 мільйона у 2025 році, а турецькі компанії продовжують працювати та інвестувати в українську економіку попри війну.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10a6f36216e13d24",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/vse-blizhche-do-tisjachi-holiv-krishtianu-ronaldu-zabiv-khet-trik-u-saudivskij-araviji.html",
+      "title": "Все ближче до тисячі голів: Кріштіану Роналду оформив хет-трик у Саудівській Аравії",
+      "published_at": "2026-10-29T21:57:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:57:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Португалець став героєм переможного поєдинку.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b63048b4b5483b26",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/vidklyuchennya-svitla-v-dnipri-poshkodzheno-energomerezhi-i-vokzal-ye-zagibli-50654661.html",
+      "title": "У Дніпрі та прилеглих районах зникло світло через російську атаку — ДТЕК",
+      "published_at": "2026-10-29T21:56:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:56:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У четвер, 29 жовтня, внаслідок чергової російської атаки на енергетичну інфраструктуру Дніпра пошкоджено обладнання магістральних мереж. Частина мешканців міста залишилася без електропостачання.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "68dc2d014960b969",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-welt-nimechchyna-eztradycija-bilorusiv-rumunija-dyversiji/33886902.html",
+      "title": "Welt: Німеччина екстрадує до Румунії двох громадян Білорусі, підозрюваних у підготовці диверсій",
+      "published_at": "2026-10-29T21:55:03+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:55:03 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Після початку повномасштабного російського вторгнення в Україну європейські країни неодноразово повідомляли про диверсії, організовані, ймовірно, російськими спецслужбами",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e723cfed84ce5c3e",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4179561-ukrainski-bezpilotniki-zrujnuvali-golovne-postove-viddilenna-lnr-i-znisili-ponad-20-avtivok-u-lugansku.html",
+      "title": "Українські безпілотники зруйнували головне поштове відділення «ЛНР» і знищили понад 20 автівок у Луганську",
+      "published_at": "2026-10-29T21:55:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:55:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Українські безпілотники атакували головний поштовий офіс т. зв. «ЛНР» у Луганську, на стоянці біля центрального ринку міста знищені понад 20 автівок, без світла залишилися 150 тис. абонентів.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "789c9ab75f35fc67",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/britanska-rozvidka-zahubila-tisjachi-fleshok-iz-sekretnimi-danimi.html",
+      "title": "Британська розвідка загубила тисячі флешок із секретними даними",
+      "published_at": "2026-10-29T21:52:39+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:52:39 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Спецслужби не можуть знайти тисячі носіїв інформації.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "709725669a545497",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/29/777158_pyatnitsyu_ukrayini_mistsyami.html",
+      "title": "В п'ятницю в Україні місцями дощитиме, температура повітря підніметься до +12°",
+      "published_at": "2026-10-29T21:52:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:52:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На півдні країни прогріється до +15°.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "824e22a285323273",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1228395.html",
+      "title": "Ворожа атака на Київ забрала життя однієї людини – КМВА",
+      "published_at": "2026-10-29T21:51:39+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:51:39 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Одна людина загинула внаслідок російської повітряної атаки на Київ у четвер увечері, повідомила Київська міська військова адміністрація в Телеграм.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6e275c4606c4a5e1",
+      "source_id": "map-413",
+      "source": "Полтавська хвиля",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://poltavawave.com.ua/iak-vimikatimut-svitlo-na-poltavshchini-30-zhovtnia",
+      "title": "Poltava Region Power Outage Schedule for October 30: Hourly Times by Group",
+      "published_at": "2026-10-29T21:51:22+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:51:22 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Hourly power outages will be in effect in Poltava Oblast on October 30, according to Poltavaoblenergo. The schedule lists times for each of the subgroups 1.1 to 6.2 and may change during the day.",
+      "categories": [
+        "Соціум",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b63d3699fd09961e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/osobysti-finansy/273448-spivzasnovnyk-binance-zaiavyv-shcho-kryptobirza-mohla-zaznaty-khakerskoyi-ataky-utim-zapevniaye-shcho-koshty-korystuvachiv-u-bezpetsi",
+      "title": "Співзасновник Binance заявив, що криптобіржа могла зазнати хакерської атаки. Утім запевняє, що кошти користувачів у безпеці",
+      "published_at": "2026-10-29T21:48:00+00:00",
+      "published_raw": "2026-10-29T23:48:00+02:00",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a27264f7255c07d9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179557-rosiani-atakuvali-kiiv-balistikou-u-darnickomu-rajoni-vlucili-u-skladski-budivli.html",
+      "title": "Росіяни атакували Київ балістикою, є загиблий",
+      "published_at": "2026-10-29T21:48:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:48:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Російські війська атакували Київ балістикою, у Дарницькому районі зафіксували влучання у складські будівлі.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9c6051752da0ecb8",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/donald-tramp-prezident-ssha-rizko-proreaguvav-na-zapitannya-pro-yogo-zdorov-ya-50654668.html",
+      "title": "«Ти хворий і огидний». Трамп розкритикував журналіста, який спитав про його здоров’я — відео",
+      "published_at": "2026-10-29T21:47:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:47:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Президент США Дональд Трамп скасував свій запланований на найближчі вихідні виступ на передвиборчому мітингу у штаті Канзас — і різко прореагував на запитання журналіста про своє здоров’я",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ee589b909f307ff9",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1228393.html",
+      "title": "Уламки ракети в Дніпровському районі Києва частково зруйнували магазин і пошкодили житлові будинки – Кличко",
+      "published_at": "2026-10-29T21:44:19+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:44:19 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Падіння уламків ворожої ракети у дворі житлового комплексу в Дніпровському районі Києва в четвер увечері спричинило часткове руйнування та пожежу в будівлі магазину, а за двома іншими адресами в районі пошкоджені житлові будинки та автомобілі, повідомив міський голова столиці Віталій Кличко у своєму телеграм-каналі.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "871ff347034a92df",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-harkovi-zhinku-zasudyly-do-15-rokiv-uv-yaznennya-za-shpygunstvo-za-vijskovymy",
+      "title": "У Харкові жінку засудили до 15 років ув’язнення за шпигунство за військовими",
+      "published_at": "2026-10-29T21:40:33+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:40:33 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У Харкові жінку, яка збирала розвіддані про позиції Сил оборони та передавала їх російській спецслужбі, засудили до 15 років позбавлення волі з конфіскацією майна. Запис У Харкові жінку засудили до 15 років ув’язнення за шпигунство за військовими спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "агентка РФ",
+        "засуджені жінки",
+        "коригувальниця",
+        "російська агентка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a56168a68a6ae5fa",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/29/777156_bosniyi_rozbivsya_italiyskiy.html",
+      "title": "В Боснії розбився італійський гелікоптер: є загиблі та поранені",
+      "published_at": "2026-10-29T21:36:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:36:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На борту перебувало 15 осіб.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3f18a27d61989ca3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/generali-stadium-milan-ta-inter-predstavili-noviy-stadion-i-datu-vidkrittya-50654667.html",
+      "title": "Generali Stadium: Мілан та Інтер уперше показали новий стадіон, який замінить Сан-Сіро — відео",
+      "published_at": "2026-10-29T21:34:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:34:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Мілан та Інтер офіційно презентували проєкт свого майбутнього стадіону, який отримав назву Generali Stadium.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "718807734cc69a46",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/work-in-it/proshhavai-job-description-yak-navicki-perepisuyut-pravila-naimu-9dmr1e",
+      "title": "Прощавай, job description? Як навички переписують правила найму",
+      "published_at": "2026-10-29T21:34:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:34:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Десятиліттями рекрутинг починався з досить простого запитання: яку саме роль нам потрібно закрити? Hiring manager визначає вакансію. Пишеться job description. Рекрутер виходить на ринок і шукає кандидатів, чий попередній досвід, посади та кар’єрний шлях максимально відповідають заданому профілю.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3a3b20a8bb76244",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/chernivtsi_news/365810-u-chernivciakh-festyval-zoloti-oplesky-bukovyny-zavershyly-komediieu-na-ruinakh.html",
+      "title": "У Чернівцях фестиваль «Золоті оплески Буковини» завершили «Комедією на руїнах»",
+      "published_at": "2026-10-29T21:33:36+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:33:36 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Національний театр імені Івана Франка представив постановку за п’єсою Марка Кропивницького. Загалом за шість днів глядачам показали вісім вистав.",
+      "categories": [
+        "Новини Чернівців / культура, шоу-бізнес / фоторепортаж"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd78b8d957ecf920",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-klychko-padinnja-raket-pozhezhi/33886901.html",
+      "title": "Кличко: в Києві є падіння ракет у двох районах, спалахнули пожежі",
+      "published_at": "2026-10-29T21:33:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:33:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Російські військові регулярно з різних видів озброєння – ударними БпЛА, ракетами, КАБами, РСЗВ – атакують українські міста і цивільну інфраструктуру в усіх регіонах України",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a183f4bf1a5f24f6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/promizhni-vibori-u-ssha-borotba-partiy-i-naslidki-dlya-ukrajini-u-2026-50654655.html",
+      "title": "«Пан або пропав» для Дональда Трампа. 6 найцікавіших моментів проміжних виборів у США — ВВС News Україна",
+      "published_at": "2026-10-29T21:32:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:32:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На екваторі президентської каденції у Сполучених Штатах традиційно відбуваються проміжні вибори, пише Мирослава Пеца, ВВС News Україна.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7106578c54a530b0",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/evakuaciya-z-oleshok-rezhimom-tishi-koristuyutsya-viyskovi-rf-dlya-ukriplennya-novini-ukrajini-50654479.html",
+      "title": "«Ми не знаємо наслідків для Херсона». ЗС РФ використовують режим тиші, щоб укріпитися в Олешках — інтерв'ю з Погомій, яка перебуває на місці подій",
+      "published_at": "2026-10-29T21:31:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:31:00 +0200",
+      "fetched_at": "2026-10-29T14:18:19+00:00",
+      "description": "Депутатка Херсонської міської ради Оксана Погомій в інтерв'ю Radio NV розповіла, як проходить гуманітарна операція з евакуації цивільних з міста Олешки Херсонської області, як російська армія використовує режим тиші у своїх інтересах і що варто робити Україні для людей в окупації.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "965a4df5553637f1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4179558-estonia-ne-dozvolila-vivezti-do-rosii-motocikl-za-15-tisac-cerez-sankcii.html",
+      "title": "Естонія не дозволила вивезти до Росії мотоцикл за €15 тисяч через санкції",
+      "published_at": "2026-10-29T21:29:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:29:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Естонські митники не дозволили громадянину Російської Федерації вивезти до Росії електричний мотоцикл вартістю 15 500 євро через санкції Європейського Союзу.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5ad9d45aaa1db648",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiya-atakuye-kijiv-balistikoyu-u-stolici-prolunali-vibuhi-50654664.html",
+      "title": "Росія масовано атакувала Київ балістикою: у Дарницькому районі влучання в склади, у Дніпровському пошкоджено будинок, загинула людина",
+      "published_at": "2026-10-29T21:25:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:25:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Увечері 29 жовтня в Києві та низці регіонів України було оголошено повітряну тривогу через загрозу балістичних ударів з боку російських окупантів. Згодом у столиці пролунали вибухи.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7eb37255919a27e0",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131362-raptova-tisha-podaruvala-meshkancyam-hersonu-nadzvichayno-ridkisniy-perepochinok-svitovi-media-pro-viynu-29-zhovtnya",
+      "title": "Раптова тиша подарувала мешканцям Херсону надзвичайно рідкісний перепочинок. Світові медіа про війну 29 жовтня",
+      "published_at": "2026-10-29T21:23:00+00:00",
+      "published_raw": "Thu, 29 Oct 26 23:23:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8254e901e8ca1d2e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/sim-tankeriv-iz-rosijskim-dizelem-prjamujut-do-ssha-u-portakh-hotujut-zaboroni.html",
+      "title": "Сім танкерів із російським дизелем прямують до США: у портах готують заборони",
+      "published_at": "2026-10-29T21:22:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:22:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Трамп закликає бізнес купувати російське пальне, але місцева влада та законодавці погрожують заблокувати розвантаження.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e5c35ecde1a51a85",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/yaku-rybu-obyraty-rozmir-maye-znachennya-p23nmy",
+      "title": "Яку рибу обирати: чому розмір має значення, пояснила нутриціологиня",
+      "published_at": "2026-10-29T21:22:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:22:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Велика риба накопичує більше ртуті, а різні види дають різну користь. Нутриціологиня Марія Касас розповіла, на що звертати увагу.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4352ef8a0dc12ee5",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/29/novyna/bezpeka/kyyiv-atakuvaly-balistykoyu-dvox-rajonax-zafiksuvaly-poshkodzhennya-pislya-obstrilu",
+      "title": "Київ атакували балістикою: що відомо про наслідки обстрілу (доповнено)",
+      "published_at": "2026-10-29T21:21:18+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:21:18 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Росія атакувала Київ балістичними ракетами 29 жовтня. У Дарницькому районі горять склади, у Дніпровському – уламки ракети у дворі ЖК, вибухова хвиля вибила вікна.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a57718d513396208",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4179559-pomer-britanskij-aktor-patrik-stuart-zirka-zoranogo-slahu-ta-ludej-iks.html",
+      "title": "Помер британський актор Патрік Стюарт - зірка «Зоряного шляху» та «Людей Ікс»",
+      "published_at": "2026-10-29T21:20:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:20:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Британський актор театру, кіно й телебачення сер Патрік Стюарт помер на 87-му році життя.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e883ad8a69320b5",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/kubok-niderlandiv-fanati-vlashtuvali-biyku-pislya-matchu-utrehta-video-50654665.html",
+      "title": "Фанати влаштували масову бійку після матчу команди українця в Кубку Нідерландів: втрутилася поліція — відео",
+      "published_at": "2026-10-29T21:15:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:15:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Після матчу 1/32 фіналу Кубка Нідерландів між Козаккен Бойз та Утрехтом уболівальники влаштували масову бійку на полі.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bd1cf04b44f914b9",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-gorohovi-provely-v-ostannyu-dorogu-veterana-vijny-vasylya-muravchuka",
+      "title": "У Горохові провели в останню дорогу ветерана війни Василя Муравчука",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Сьогодні, 29 жовтня, громада провела в останню дорогу ветерана війни Василя Муравчука з міста Горохів. Про це повідомляють на сторінці Горохівської міської ради у “Фейсбук”. Частину свого життя Василь присвятив військовій службі. Спершу, під час Антитерористичної операції, а згодом — під час повномасштабного вторгнення, де зазнав поранення. Серце Захисника перестало битися внаслідок тяжкої хвороби. Попрощатися […] The post У Горохові провели в останню дорогу ветерана війни Василя Муравчука appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10762bb71f8a96e5",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-novovolynsku-pryvitaly-praczivnykiv-soczialnoyi-sfery",
+      "title": "У Нововолинську привітали працівників соціальної сфери",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Щороку в першу неділю листопада в Україні відзначають День працівника соціальної сфери. Сьогодні, 29 жовтня, у Нововолинському центрі дитячої та юнацької творчості відбувся урочистий захід. Про це повідомляє Нововолинська міська рада на сторінці у “Фейсбук”. Працівники соціальної сфери щодня допомагають ветеранам, людям з інвалідністю, дітям-сиротам, пенсіонерам, внутрішньо переміщеним особам та всім, хто опинився у складних […] The post У Нововолинську привітали працівників соціальної сфери appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e5cf15a963925483",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/molod-volyni-navchalasya-proyektnomu-menedzhmentu",
+      "title": "Молодь Волині навчалася проєктному менеджменту",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Учора, 28 жовтня, на Волині відбулося навчання з проєктного менеджменту для активної молоді області. Ініціатором та організатором заходу стала Молодіжна рада при Волинській обласній державній адміністрації за підтримки Волинського обласного молодіжного центру. На запрошення Молодіжної ради до заходу долучився очільник області Роман Романюк Про це повідомляють на сайті Волинської ОВА. «Радий, що маємо пряму комунікацію […] The post Молодь Волині навчалася проєктному менеджменту appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "97177cf9b670f7c5",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-koveli-rozpochaly-ochyshhennya-richky-turiyi-vid-nadmirnoyi-vodyanoyi-roslynnosti",
+      "title": "У Ковелі розпочали очищення річки Турії від надмірної водяної рослинності",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "У Ковелі розпочали механічне викошування водяної рослинності на річці Турії. Для цього використовують спеціалізовану техніку — машину-амфібію, яка пересувається водоймою, зрізає рослинність і збирає її на берег. Про це повідомляють на сайті Ковельської міської ради. Роботи стартували від греблі водосховища. Їх планують провести до шляхопроводу на вулиці Сагайдачного. Послугу надає Національний природний парк «Прип’ять-Стохід», з […] The post У Ковелі розпочали очищення річки Турії від надмірної водяної рослинності appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "db9d11f72489f025",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-luczkradi-vruchyly-groshovyj-sertyfikat-vazhkoatletczi-viktoriyi-lytvynecz",
+      "title": "У Луцькраді вручили грошовий сертифікат важкоатлетці Вікторії Литвинець",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "У четвер, 29 жовтня, секретар міської ради, виконувач повноважень міського голови Андрій Разумовський зустрівся з важкоатлеткою Вікторією Литвинець та вручив спортсменці сертифікат на 30 тисяч гривень. Про це повідомляють на сайті Луцькради. Вікторія Литвинець – майстриня спорту України міжнародного класу, багаторазова чемпіонка України та 19-разова рекордсменка України. На чемпіонаті Європи серед юніорів та молоді, що […] The post У Луцькраді вручили грошовий сертифікат важкоатлетці Вікторії Литвинець appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6b1589f39ef12c69",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-luczku-tryvaye-zasidannya-asocziacziyi-mist-ukrayiny-z-pytan-osvity",
+      "title": "У Луцьку триває засідання Асоціації міст України з питань освіти",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Упродовж 29–30 жовтня на базі закладів освіти Луцької громади проходить засідання секції Асоціації міст України на тему нових підходів, інноваційних проєктів, проблемних питань та запровадження реформ у сфері освіти, що реалізуються в нашій громаді. Про це повідомляють на сайті Луцькради. Освітній напрям Асоціації міст України спрямований на захист інтересів громад у формуванні та реалізації державної […] The post У Луцьку триває засідання Асоціації міст України з питань освіти appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "be1ca8d81160378d",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/volodymyrska-gromada-prodovzhuye-spivpraczyu-z-bahmutom",
+      "title": "Володимирська громада продовжує співпрацю з Бахмутом",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Цієї неділі, 25 жовтня, секретар Володимирської міської ради Іван Юхимюк відвідав форум «Бахмут: минуле, сьогодення, майбутнє», який об’єднав представників громад-партнерів Бахмута. Про це повідомляють на сайті міста Володимира. Крім Володимирської громади, у зустрічі взяли участь представники Бахмутської, Гостомельської, Білоцерківської та Полтавської громад, а також благодійних організацій. Учасники обговорили досвід співпраці громад, потреби людей, які постраждали […] The post Володимирська громада продовжує співпрацю з Бахмутом appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4b89bafcccddead0",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/veteranu-vijny-andriyu-matviyuku-vruchyly-sertyfikat-na-prydbannya-zhytla",
+      "title": "Ветерану війни Андрію Матвіюку вручили сертифікат на придбання житла",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Сьогодні, 29 жовтня 2026 року, т.в.о. начальника ОВА Роман Романюк вручив сертифікат на придбання житла Андрію Матвіюку – ветерану з інвалідністю внаслідок важкого поранення. Захисник втратив нижню кінцівку, захищаючи державу на запорізькому напрямку у 2023 році. Про це повідомляють на сайті Волинської ОВА. Нині разом із дружиною з дружиною Вікторією та сином Мирославом, який народився […] The post Ветерану війни Андрію Матвіюку вручили сертифікат на придбання житла appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e3c773ed065b49c",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-luczku-obgovoryly-rozvytok-osvity-ta-bezpechni-umovy-navchannya",
+      "title": "У Луцьку обговорили розвиток освіти та безпечні умови навчання",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Секретар Луцької міської ради зустрівся з експертом з питань освіти Асоціації міст України Михайлом Гончарем і заступником міського голови Кривого Рогу Сергієм Мілютіним. Про це повідомляють на сайті Луцькради. Під час зустрічі обговорили якість освіти, створення безпечних умов для навчання, облаштування укриттів, розвиток інклюзивного простору, бібліотек і закладів культури. Окрему увагу приділили обміну досвідом і […] The post У Луцьку обговорили розвиток освіти та безпечні умови навчання appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fe018ff4187dadb4",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/veteran-rozpochav-stazhuvannya-v-organah-misczevogo-samovryaduvannya-luczkoyi-gromady",
+      "title": "Ветеран розпочав стажування в органах місцевого самоврядування Луцької громади",
+      "published_at": "2026-10-29T21:14:29+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:14:29 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Луцька міська територіальна громада долучилася до програми стажування ветеранів «Від захисників до державотворців», яку реалізує Мережа захисту національних інтересів «А Н Т С» за підтримки Olof Palmes Internationella Center. Про це повідомляють на сайті Луцькради. До програми відібрали 20 ветеранів та 20 громад з різних регіонів України. Її мета — допомогти ветеранам застосувати набутий досвід […] The post Ветеран розпочав стажування в органах місцевого самоврядування Луцької громади appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e426110fa2a8ae88",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-pomer-aktor-patrik-stuart/33886898.html",
+      "title": "Помер британський актор Патрік Стюарт, який зіграв у франшизі «Люди Ікс»",
+      "published_at": "2026-10-29T21:13:26+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:13:26 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Патрік Стюарт відомий, у тому числі, за ролями капітана Жан-Люка Пікара у науково-фантастичному серіалі «Зоряний шлях» та професора Ікс у франшизі «Люди Ікс». Цей персонаж став однією з найвідоміших ролей актора в кіно",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "08f3750947ce9417",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/u-kijevi-pislja-udaru-balistikoju-zahorilisja-skladski-budivli.html",
+      "title": "У Києві після удару балістикою загорілися складські будівлі",
+      "published_at": "2026-10-29T21:13:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:13:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Влучання зафіксували у двох районах.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e1f3b8a7a9558104",
+      "source_id": "map-879",
+      "source": "На межі",
+      "geography": "regional",
+      "source_region": "sumy",
+      "url": "https://mezha.city/news/36029",
+      "title": "Поранені у Шостці і громаді, втрати воїнів та історія волонтера з Середини-Буди: 29 жовтня на Шосткинщині",
+      "published_at": "2026-10-29T21:12:12+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:12:12 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У вечірньому випуску новин «На межі» за 29 жовтня говоримо про головні події дня на території Шосткинського району. Російські війська атакували Шостку, Вовнянський старостат та інші населені пункти району. Також у Глухові й Шостці попрощалися з двома військовослужбовцями, а житель Середини-Буди Василь Мухопад розповів, як допомагає людям під час пожеж та евакуації з прикордоння. У […]",
+      "categories": [
+        "ВИПУСК НОВИН"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5623fafad5dfb323",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/korol-charlz-pryyednavsya-do-tradytsijnogo-paradu-dzhankanu-na-bagamah",
+      "title": "Король Чарльз приєднався до традиційного параду Джанкану на Багамах",
+      "published_at": "2026-10-29T21:12:08+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:12:08 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "77-річний король Великої Британії Чарльз III долучився до святкувань під час традиційного параду Джанкану на Парламентській площі в Нассау, столиці Багамських Островів. Запис Король Чарльз приєднався до традиційного параду Джанкану на Багамах спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Багами",
+        "король Чарльз ІІІ",
+        "параду Джанкану"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70bac65576b4f9fc",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/sport/325643-bokser-benavides-kynuv-vyklyk-usyku-hotovyi-bytysia-poiasiv",
+      "title": "Боксер Бенавідес кинув виклик Усику та готовий битися без поясів",
+      "published_at": "2026-10-29T21:12:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:12:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Американський боксер Девід Бенавідес заявив, що готовий вийти на ринг проти Олександра Усика навіть без чемпіонських поясів.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "c789cd9956aaa584",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/29/pidsumky/udar-rf-po-vokzalu-dnipri-ta-znyshhennya-dvox-vorozhyx-su-34.-holovne-den",
+      "title": "Удар рф по вокзалу у Дніпрі та знищення двох ворожих Су-34. Головне за день",
+      "published_at": "2026-10-29T21:09:31+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:09:31 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Головні новини четверга, 29 жовтня, – ворог завдав удару по вокзалу в Дніпрі, а Сили оборони знищили два російські літаки Су-34.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "36b6e0dcc36e55e0",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/society/2026/vibir-prosichno-vityazhnogo-lista-dlya-nastiliv-i-ogorozh",
+      "title": "Вибір просічно-витяжного листа для настилів і огорож",
+      "published_at": "2026-10-29T21:09:12+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:09:12 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Де використовують просічно-витяжний лист (ПВЛ), які його переваги та характеристики? Як правильно вибрати металевий лист для настилів, сходів і огорож.",
+      "categories": [
+        "Миколаїв",
+        "Одеса",
+        "Херсон",
+        "поради"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "75bfbc7b55f350b9",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/kino/273446-pomer-aktor-patrik-stiuart-vidomyy-za-roliamy-u-zorianomu-shliakhu-ta-v-liudiakh-iks",
+      "title": "Помер актор Патрік Стюарт, відомий за ролями у «Зоряному шляху» та в «Людях Ікс»",
+      "published_at": "2026-10-29T21:08:00+00:00",
+      "published_raw": "2026-10-29T23:08:00+02:00",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2c4c46f09ff64b23",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/apple-zobovyazali-peredavati-dani-koristuvaciv-rosiiskim-specsluzbam-na-zapit-938rm1",
+      "title": "Apple зобов’язали передавати дані користувачів російським спецслужбам на запит",
+      "published_at": "2026-10-29T21:07:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:07:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "росія внесла американські технологічні компанії Apple і Microsoft до реєстру організаторів поширення інформації. За російським законодавством, компанії з цього переліку мають зберігати дані користувачів на території країни та надавати їх спецслужбам на запит. Про це повідомив Bloomberg.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d97d926944e29fe5",
+      "source_id": "map-405",
+      "source": "Район.in.ua",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://rayon.in.ua/news/1112706-29-zovtnia-na-volini-daidzest-golovnix-novin-dnia",
+      "title": "29 жовтня на Волині: головні новини та події дня",
+      "published_at": "2026-10-29T21:05:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:05:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Підсумки дня Волинської області за 29 жовтня: історія жительки Олешок, яка вирвалася з окупації на велосипеді, вшанування полеглих Героїв, дні донора у Ковелі, нові екологічні рішення у Локачинській громаді та інші важливі події з життя міст і громад регіону.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "744b03f5b77d3753",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-rf-zatrymaly-abo-skasuvaly-ponad-460-aviarejsiv-cherez-ataku-droniv-zmi",
+      "title": "У РФ затримали понад 460 авіарейсів через атаку дронів – ЗМІ",
+      "published_at": "2026-10-29T21:04:04+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:04:04 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У четвер, на тлі атаки безпілотників, в аеропортах Москви та Санкт-Петербурга затримали або скасували понад 460 рейсів. Найбільше обмеження вплинули на роботу летовищ «Внуково» та «Шереметьєво». Запис У РФ затримали понад 460 авіарейсів через атаку дронів – ЗМІ спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "авіація РФ",
+        "атака безпілотників",
+        "затримка авіарейсу"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f75bfbbb1180c8b0",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1228387.html",
+      "title": "У Києві внаслідок російської балістичної атаки виникла пожежа – Кличко",
+      "published_at": "2026-10-29T21:03:36+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:03:36 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Мер Києва Віталій Кличко у четвер ввечері повідомив, про влучання російської ракети у складські будівлі у Дарницькому районі, написав він у своєму Телеграм.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1831d69dce8344d4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/blogs/pirig-iz-grushami-prostiy-recept-vid-suddi-mastershef-ektora-himenesa-bravo-50654452.html",
+      "title": "Десерт із характером. Як приготувати ароматну галету з грушею",
+      "published_at": "2026-10-29T21:03:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:03:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Рекомендую подавати теплою, з кулькою ванільного морозива",
+      "categories": [
+        "Блоги.Life"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b2380897e4302e67",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/29/8060364",
+      "title": "РФ атакувала Київ балістикою: уламки ракети впали у дворі ЖК, загинула людина",
+      "published_at": "2026-10-29T21:01:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:01:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "29 жовтня російські сили атакували Київ балістичними ракетами. У Дарницькому та Дніпровському районах пошкоджено склади, будинки та автомобілі.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "354daf50c8304db3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/zamorozheni-rosiyski-aktivi-politiki-yes-i-britaniji-zaklikali-peredati-210-mlrd-ukrajini-50654666.html",
+      "title": "Щоб пережити решту президентства Трампа. Колишні міністерки чотирьох країн закликали передати Україні заморожені російські активи",
+      "published_at": "2026-10-29T21:01:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:01:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Колишня канцлерка казначейства Великої Британії Рейчел Рівз закликала ЄС конфіскувати €210 млрд заморожених російських активів і передати їх Україні для фінансування оборони. За її словами, це допоможе покрити дефіцит українського бюджету в розмірі €70 млрд наступного року та посилить позиції Києва на майбутніх мирних переговорах.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "aab80eea23ac9df5",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/iryna-serohina-pomerla",
+      "title": "Понад 40 років працювала в театрі Дніпра: померла піаністка Ірина Серьогіна",
+      "published_at": "2026-10-29T21:00:48+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:00:48 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "The post Понад 40 років працювала в театрі Дніпра: померла піаністка Ірина Серьогіна appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "культура",
+        "музика",
+        "пам'ять"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "147d384ece4afff5",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/10/29/tragediya-na-vokzali-v-dnipri-udari-po-harkovu-ta-izyumu-pidsumki-29-zhovtnya",
+      "title": "Трагедія на вокзалі в Дніпрі, удари по Харкову та Ізюму – підсумки 29 жовтня",
+      "published_at": "2026-10-29T21:00:22+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:00:22 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Безпілотник вдарив по залізничному вокзалу в Дніпрі: 14 загиблих. У Харкові через нічну атаку спалахнула...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a3fb88a4a269a0b",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/khochete-znishchiti-oon-priznachte-orbana-madjar-prokomentuvav-plani-administratsiji-trampa.html",
+      "title": "«Хочете знищити ООН — призначте Орбана»: Мадяр прокоментував плани адміністрації Трампа",
+      "published_at": "2026-10-29T21:00:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 23:00:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Угорський прем'єр розкритикував ідею призначити Орбана на посаду Генсека ООН.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3f61cb4a26be17e2",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/news/365809-magnitni-buri-2930-zhovtnia-ta-prognoz-soniachnoi-aktyvnosti.html",
+      "title": "Магнітні бурі 29–30 жовтня та прогноз сонячної активності",
+      "published_at": "2026-10-29T20:58:34+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:58:34 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Вимірюється геомагнітна активність за шкалою від 0 до 9.",
+      "categories": [
+        "новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7e46403cdc9578e9",
+      "source_id": "map-332",
+      "source": "Слобідський край",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://slk.kh.ua/news/suspilstvo/u-harkovi-agentku-rosijskoi-rozvidki-zasudili-do-15-rokiv-za-spigunstvo.html",
+      "title": "У Харкові прибиральниця шпигувала за українськими військовими: її засудили до 15 років ув'язнення",
+      "published_at": "2026-10-29T20:58:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:58:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "65-річну жительку Харкова засудили до 15 років позбавлення волі з конфіскацією майна за державну зраду. За даними слідства, жінка працювала на російську воєнну розвідку та під виглядом прибиральниці збирала інформацію про українських військових, їхні позиції та оборонні об'єкти.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0a1c0726de2ba120",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/dodatkovi-1000-krokiv-shhodnya-mozhut-znyzhuvaty-ryzyk-problem-iz-sertsem-doslidzhennya",
+      "title": "Додаткові 1000 кроків щодня можуть знижувати ризик проблем із серцем – дослідження",
+      "published_at": "2026-10-29T20:57:51+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:57:51 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Додаткові 1000 кроків на день можуть бути пов’язані зі зниженням ризику серцево-судинних захворювань, особливо у людей із підвищеним артеріальним тиском. Про це свідчать результати нового дослідження за участю понад 36 тисяч британців середнього та старшого віку. Запис Додаткові 1000 кроків щодня можуть знижувати ризик проблем із серцем – дослідження спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "вчені",
+        "дослідження",
+        "здоров'я серця",
+        "кроки"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9e3d445cc4a81b2e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/CULTURE/romanu-viktjuku-mohlo-b-vipovnitisja-90-rokiv-u-kijevi-vidkrili-vistavku-joho-teatralnoji-spadshchini.html",
+      "title": "Роману Віктюку могло б виповнитися 90 років: у Києві відкрили виставку його театральної спадщини",
+      "published_at": "2026-10-29T20:56:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:56:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Відвідувачі можуть побачити роботи Андрія Александровича-Дочевського, створені для вистав за п’єсами Теренса Реттігана та Жана Кокто.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d73aa3ef836209bb",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/29/777014_vorozhiy_bezpilotnik_vdariv.html",
+      "title": "Ворожий безпілотник вдарив по центру Чернігова: загинули 15-річні дівчата, понад 30 людей поранені (оновлено)",
+      "published_at": "2026-10-29T20:55:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:55:00 +0200",
+      "fetched_at": "2026-10-29T11:28:56+00:00",
+      "description": "Після атаки виникла пожежа в магазинах, також горять автомобілі. Загиблі – двоє неповнолітніх дівчат.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6ea6201c212a2d74",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-kyiv-balistyka-ponad-10-vybuhiv/33886895.html",
+      "title": "Київ зазнав удару балістичних ракет, було понад 10 вибухів",
+      "published_at": "2026-10-29T20:54:45+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:54:45 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Російські військові регулярно з різних видів озброєння – ударними БпЛА, ракетами, КАБами, РСЗВ – атакують українські міста і цивільну інфраструктуру в усіх регіонах України",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "71b7e5b02d531b82",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/pomer-zirka-zoryanogo-shlyahu-ta-lyudej-iks-patrik-styuart-i571761",
+      "title": "Помер зірка «Зоряного шляху» та «Людей Ікс» Патрік Стюарт",
+      "published_at": "2026-10-29T20:53:25+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:53:25 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Патрік Стюарт, капітан ‘Star Trek’ і супергерой ‘X-Men’, помер у віці 86 років. Йому було 86 років, - повідомляє The Hollywood Reporter. «Його тримали в теплих обіймах родини та друзів, у оточенні живої музики, молитов, сліз, сміху та того глибокого почуття, яке...",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "402de57e1a71fdb2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/ssha-ta-iran-kuper-dopoviv-trampu-viyskovi-varianti-diy-pidgotovka-do-eskalaciji-50654663.html",
+      "title": "Головний командувач США на Близькому Сході особисто доповів Трампу про варіанти нових ударів по Ірану — WSJ",
+      "published_at": "2026-10-29T20:52:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:52:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Командувач Центрального командування США адмірал Бред Купер у четвер, 29 жовтня, особисто прибув до Білого дому, щоб доповісти Трампу про військові варіанти дій щодо Ірану.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6b7b5dd94969a14c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4179554-zitknenna-poizdiv-v-ispanii-kilkist-zagiblih-zrosla-do-69.html",
+      "title": "Зіткнення поїздів в Іспанії: кількість загиблих зросла до 69",
+      "published_at": "2026-10-29T20:52:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:52:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Кількість загиблих у результаті зіткнення двох швидкісних поїздів в іспанській провінції Толедо зросла до 69 осіб.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86438019f060daa5",
+      "source_id": "map-365",
+      "source": "Твоє місто",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://tvoemisto.tv/uk/news/12975-yakoyu-bude-pohoda-na-lvivshchyni-ta-u-lvovi",
+      "title": "Якою буде погода на Львівщині та у Львові",
+      "published_at": "2026-10-29T20:49:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:49:00 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На Львівщині очікується хмарна погода з проясненнями.",
+      "categories": [
+        "CityLife"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b52fc49799047d09",
+      "source_id": "hromadske-radio",
+      "source": "Громадське радіо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.radio/news/2026/10/29/chomu-v-ukraini-zrostaiut-borhy-za-komunalku-poiasniuie-advokat",
+      "title": "Чому в Україні зростають борги за комуналку: пояснює адвокат",
+      "published_at": "2026-10-29T20:48:50+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:48:50 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Повністю розмову з Василем Гаращаком слухайте в доданому аудіофайлі Запис Чому в Україні зростають борги за комуналку: пояснює адвокат спершу з'явиться на Громадське радіо .",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "36ef67b8ff96bb79",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/kndr-viprobuvala-blizko-10-balistichnih-raket-zagostrennya-bilya-yaponskogo-morya-50654662.html",
+      "title": "Північна Корея випустила близько десятка балістичних ракет у напрямку Японського моря",
+      "published_at": "2026-10-29T20:46:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:46:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "КНДР у четвер, 29 жовтня, здійснила масований запуск близько десятка балістичних ракет малої дальності у напрямку Японського моря.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a6f95073a78e2310",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1228385.html",
+      "title": "Союзники в НАТО побоюються відтермінування Трампом поставок ракет Patriot Україні до виборів у США – ЗМІ",
+      "published_at": "2026-10-29T20:45:34+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:45:34 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Країни-члени НАТО песимістично оцінюють імовірність отримання Україною американських ракет-перехоплювачів до систем протиповітряної оборони Patriot до проміжних виборів у США 3 листопада на тлі підозр щодо використання президентом Дональдом Трампом військової допомоги як важеля тиску на Київ для примусу до поступок, повідомив телеканал Euronews у четвер із посиланням на джерела в Альянсі.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f25f71c4e60ea2a1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4179553-visim-vistav-za-sist-dniv-zaversivsa-festival-zoloti-opleski-bukovini.html",
+      "title": "Вісім вистав за шість днів: завершився фестиваль «Золоті оплески Буковини»",
+      "published_at": "2026-10-29T20:45:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:45:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У Чернівцях завершився XVIII фестиваль комедії «Золоті оплески Буковини», який тривав із 24 до 29 жовтня. Упродовж шести днів глядачам представили вісім вистав, шість із них — театри з Києва.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "52a1cd6be4f50821",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311601-ukrayina-otrimala-vid-azerbajdzhanu-partiyu-energoobladnannya-majzhe-na-15-miljona",
+      "title": "Україна отримала від Азербайджану партію енергообладнання майже на $1,5 мільйона",
+      "published_at": "2026-10-29T20:45:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:45:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Вантаж містить дев’ять силових трансформаторів, 186 кілометрів електричних кабелів та інше критично важливе обладнання для відновлення української енергосистеми після російських атак",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0286604de31b8047",
+      "source_id": "map-93",
+      "source": "Новини Донбасу",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://novosti.dn.ua/news/405280-z-okupacziyi-evakuyuvaly-shhe-pyatoh-ukrayincziv",
+      "title": "З окупації евакуювали ще п’ятьох українців",
+      "published_at": "2026-10-29T20:44:50+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:44:50 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Сьогодні на підконтрольну уряду територію повернулися п’ятеро громадян України, які перебували на ТОТ. Про це повідомив омбудсман Дмитро Лубінець. Усі вони потребували сторонньої допомоги під час переміщення через тяжкий стан здоров’я та обмежену мобільність. Серед тих, кого евакуювали, — подружжя, яке 11 вересня 2026 року на авто підірвалися на міні. Обоє отримали численні травми й […]",
+      "categories": [
+        "Новини",
+        "Вижити в окупації",
+        "евакуація з ТОТ"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
+      "id": "b2ed41c0c945e964",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/29/777150_prikarpatti_koruptsiyu_suditimut.html",
+      "title": "На Прикарпатті за корупцію судитимуть посадовців Держпраці",
+      "published_at": "2026-10-29T20:44:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:44:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Вони вимагали гроші з підприємців за виготовлення дозволів, ігнорування порушень тощо.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1e4cac2c8159e697",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/ukraine/365808-nadiide-povitria-z-arktyky-synoptyk-rozpoviv-koly-ochikuvaty-pokholodannia-ta-snig.html",
+      "title": "Надійде повітря з Арктики: синоптик розповів, коли очікувати похолодання та сніг",
+      "published_at": "2026-10-29T20:40:34+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:40:34 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Середньодобова температура очікується нижче 8° із тенденцією до подальшого зниженн",
+      "categories": [
+        "Новини України"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "570763f07dbe08b0",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-latviyi-prykordonnykam-dozvolyly-zastosovuvaty-zbroyu-dlya-zahystu-infrastruktury",
+      "title": "У Латвії прикордонникам дозволили застосовувати зброю для захисту інфраструктури",
+      "published_at": "2026-10-29T20:40:24+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:40:24 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Сейм Латвії ухвалив зміни до законодавства, які розширюють повноваження прикордонників. Відтепер вони можуть застосовувати зброю не лише для самооборони, а й для відбиття нападів на об’єкти інфраструктури. Запис У Латвії прикордонникам дозволили застосовувати зброю для захисту інфраструктури спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "захист інфраструктури",
+        "Латвія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c15c3467e691abdd",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-genshtab-zsu-vechirne-zvedennja/33886893.html",
+      "title": "На фронті відбувся 191 бій з початку доби – Генштаб ЗСУ",
+      "published_at": "2026-10-29T20:38:38+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:38:38 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Американський Інститут вивчення війни (ISW) у звіті за 14 жовтня писав, що українська операція «Вівальді» спричинила каскадний ефект для російських операцій на північ від Лиману в напрямку Борової",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3128c231b79a50b4",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/war/2026/na-atakovanomu-v-chornomu-mori-konteinerovozi-perebuvali-chetvero-ukraintsiv",
+      "title": "На атакованому в Чорному морі контейнеровозі перебували четверо українців",
+      "published_at": "2026-10-29T20:34:08+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:34:08 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У Чорному морі в межах виключної економічної зони Болгарії внаслідок атаки морських дронів затонув контейнеровоз CONTSHIP JET. На борту судна перебували четверо українських моряків.",
+      "categories": [
+        "Болгарія",
+        "Чорне море",
+        "дрони",
+        "судно"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bfe3f04f69946f53",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/call-of-duty-modern-warfare-4-review-plq0yd",
+      "title": "Modern Warfare 4 дає зіграти за солдата КНДР: що змінилося в Call of Duty",
+      "published_at": "2026-10-29T20:34:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:34:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Відмова виконати наказ у Modern Warfare 4 коштує життя: пише Eurogamer, гравця в ролі північнокорейця розстрілюють, а місія триває.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "72534fb363e1214b",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/325676-aktor-hry-prestoliv-nikolai-koster-valdau-pryikhav-kyieva",
+      "title": "Актор із «Гри престолів» Ніколай Костер-Вальдау приїхав до Києва",
+      "published_at": "2026-10-29T20:34:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:34:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Данський актор Ніколай Костер-Вальдау, відомий за роллю Джеймі Ланністера в серіалі «Гра престолів», прибув до України. Він також є послом доброї волі Програми розвитку ООН (ПРООН).",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "e698a31ff8b6e159",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4179551-butenko-vidreaguvav-na-vorozij-udar-po-studentskomu-gurtozitku-u-dnipri.html",
+      "title": "Бутенко відреагував на ворожий удар по студентському гуртожитку у Дніпрі",
+      "published_at": "2026-10-29T20:33:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:33:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Міністерство освіти і науки України разом з керівництвом вищого професійного училища у Дніпрі, по гуртожитку якого росіяни вдарили безпілотником, і обласною військовою адміністрацією з'ясовують масштаб пошкоджень.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7f4ae8d6a91a0f13",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/vnaslidok-udaru-rf-po-chernigovu-zagynula-15-richna-gimnastka",
+      "title": "Внаслідок удару РФ по Чернігову загинула 15-річна гімнастка",
+      "published_at": "2026-10-29T20:31:28+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:31:28 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Внаслідок російського удару по центру Чернігова 29 жовтня загинула 15-річна гімнастка Яна Пєшкова. Дівчина займалася художньою гімнастикою у студії Magic sports. Запис Внаслідок удару РФ по Чернігову загинула 15-річна гімнастка спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "воєнні злочини рф",
+        "ворожі обстріли",
+        "обстріл Чернігова",
+        "повномасштабна війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f7ef16a41c5b5b9b",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/pislya-nevdach-rosarmiyi-na-donbasi-rpts-vlashtuvala-oblit-frontu-z-moshhamy-georgiya-pobidonostsya-i571760",
+      "title": "Після невдач росармії на Донбасі РПЦ влаштувала обліт фронту з мощами Георгія Побідоносця",
+      "published_at": "2026-10-29T20:31:13+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:31:13 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Священики Руської православної церкви (РПЦ) провели над Донбасом «повітряну хресну ходу» з мощами Георгія Побідоносця, - повідомив військовий відділ Московського патріархату, як пише The Moscow Times. Зокрема, вони облетіли на армійському вертольоті ділянки фронту, на яких воює...",
+      "categories": [
+        "Донбас"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a56c87fff54edc00",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/273445-u-bosniyi-i-hertsehovyni-rozbyvsia-viyskovyy-helikopter-zahynuly-chetvero-liudey-ye-postrazdali",
+      "title": "У Боснії і Герцеговині розбився військовий гелікоптер — загинули четверо людей, є постраждалі",
+      "published_at": "2026-10-29T20:31:00+00:00",
+      "published_raw": "2026-10-29T22:31:00+02:00",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "669ba904eb603997",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/oleksandr-usik-vidvidav-match-al-nasra-v-er-riyadi-het-trik-krishtianu-ronaldu-50654660.html",
+      "title": "Усик відвідав шалений матч у Саудівській Аравії з 8 голами: Роналду оформив хет-трик — відео",
+      "published_at": "2026-10-29T20:30:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:30:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Колишній чемпіон світу в надважкій вазі Олександр Усик відвідав у Ер-Ріяді матч чемпіонату Саудівської Аравії між Аль-Насром та Аль-Холудом.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c5e6879800e82fc3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/ataka-droniv-paralizuvala-robotu-aeroportiv-moskvi-ta-sankt-peterburga-ponad-460-reysiv-zatrimali-50654658.html",
+      "title": "Понад 460 рейсів затримали або скасували в аеропортах Москви та Санкт-Петербурга через атаку дронів",
+      "published_at": "2026-10-29T20:30:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:30:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У четвер, 29 жовтня, в аеропортах Москви та Санкт-Петербурга затримали або скасували понад 460 рейсів на тлі атаки безпілотників по Росії. Про це повідомляє Telegram-канал Astra з посиланням на дані сервісу airports.ru.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8bf366018b87fae2",
+      "source_id": "map-1253",
+      "source": "Полісся News",
+      "geography": "regional",
+      "source_region": "rivne",
+      "url": "https://polissia.news/rankovyj-tuman-i-do-12c-prognoz-pogody-na-30-zhovtnya",
+      "title": "Ранковий туман і до +12°C: прогноз погоди на 30 жовтня",
+      "published_at": "2026-10-29T20:30:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:30:00 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Сьогодні, 29 жовтня, синоптики оприлюднили прогноз погоди на 30 жовтня по Рівненській області.",
+      "categories": [
+        "Новини",
+        "Погода",
+        "Погода на Рівненщині",
+        "Рівненський обласний центр з гідрометеорології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3a59b4a71001356a",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/starsheklassniki-smogut-douchitsya-v-svoih-shkolah",
+      "title": "Реорганизация школ по-новому: одесские старшеклассники смогут доучиться в родных стенах",
+      "published_at": "2026-10-29T20:27:59+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:27:59 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Верховная Рада приняла закон № 15082-д, который гарантирует десятиклассникам и одиннадцатиклассникам возможность закончить обучение и получить аттестат в родной школе. Это касается и тех случаев, когда школу реорганизуют или превращают в гимназию. Сообщение Реорганизация школ по-новому: одесские старшеклассники смогут доучиться в родных стенах появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "закон",
+        "реформа",
+        "школа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0c8f8a3ba7b8e021",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131371-pomer-aktor-patrik-styuart-vidomiy-za-rolyami-u-zoryanomu-shlyahu-ta-lyudyah-iks",
+      "title": "Помер актор Патрік Стюарт, відомий за ролями в «Зоряному шляху» і «Людях Ікс»",
+      "published_at": "2026-10-29T20:26:18+00:00",
+      "published_raw": "Thu, 29 Oct 26 22:26:18 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f8a739c0054d589d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4179550-na-fronti-za-dobu-stalosa-191-zitknenna-najgaracisi-kostantinivskij-ta-pokrovskij-napramki.html",
+      "title": "На фронті за добу сталося 191 зіткнення, найгарячіші - Костянтинівський та Покровський напрямки",
+      "published_at": "2026-10-29T20:25:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:25:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Протягом 29 жовтня на фронті зафіксовано 191 бойове зіткнення Сил оборони України з російськими загарбниками. 23 рази ворог намагався атакувати на Костянтинівському напрямку, 18 - на Покровському.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "848e8dba1a201b10",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/macroeconomics/derzhborh-ukrajini-sjahnuv-212-mlrd-dolariv-minfin-rozkriv-holovnikh-kreditoriv.html",
+      "title": "Держборг України сягнув 212 млрд доларів: Мінфін розкрив головних кредиторів",
+      "published_at": "2026-10-29T20:25:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:25:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Майже 38% боргу припадає на Євросоюз, а понад 66% становлять довгострокові пільгові позики від міжнародних партнерів.",
+      "categories": [
+        "Макроекономіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "475aab235baaa0e5",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1228382.html",
+      "title": "Російська атака пошкодила магістральні енергомережі і знеструмила частину Дніпра та прилеглих районів – ДТЕК",
+      "published_at": "2026-10-29T20:24:15+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:24:15 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Війська РФ у четвер завдали удару по енергетичній інфраструктурі Дніпропетровської області, внаслідок чого пошкоджене обладнання магістральних мереж та тимчасово припинене електропостачання частини споживачів на правому й лівому берегах Дніпра і в прилеглих до обласного центру районах.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8c9dd8c6572170ee",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/29/novyna/polityka/nato-poboyuyutsya-zatrymky-raket-patriot-ukrayiny-cherez-pozycziyu-trampa-zmi",
+      "title": "У НАТО побоюються затримки ракет Patriot для України через позицію Трампа – ЗМІ",
+      "published_at": "2026-10-29T20:23:53+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:23:53 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Союзники України побоюються, що президент США Дональд Трамп може свідомо затримувати передачу Києву ракет для систем Patriot.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c638e48437eb65ab",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/katastrofa-gelikoptera-ch-47-chinook-u-bosniji-yes-vtratilo-4-viyskovih-11-poraneni-50654659.html",
+      "title": "У Боснії розбився італійський гелікоптер миротворчої місії ЄС: щонайменше четверо загиблих",
+      "published_at": "2026-10-29T20:22:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:22:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У четвер, 29 жовтня, неподалік міста Брчко на півночі Боснії і Герцеговини розбився італійський військовий гелікоптер CH-47 Chinook, який брав участь у миротворчій операції ЄС Althea.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fef9b89140e15f00",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/povernennya-ukrajinciv-z-yes-novi-pravila-2026-i-statistika-rishen-pro-nakazi-vijihati-50654043.html",
+      "title": "Наказ про виїзд. Які країни Європи ухвалили найбільше рішень про повернення українців за час повномасштабного вторгнення — інфографіка NV",
+      "published_at": "2026-10-29T20:21:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:21:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "У вересні 2026 року міністр закордонних справ Німеччини Йоганн Вадефуль заявив про готовність сприяти поверненню українських чоловіків призовного віку в Україну — водночас наголосивши, що не має на увазі примусове повернення.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "421164574ecf2a94",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/politics/325674-petytsii-biznesu-kabmin-obitsiaie-nadaty-bilshe-chasu-oblashtuvannia",
+      "title": "Після петицій бізнесу Кабмін обіцяє надати більше часу на облаштування укриттів",
+      "published_at": "2026-10-29T20:21:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:21:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Кабмін планує змінити правила роботи бізнесу під час жовтої тривоги та дати підприємцям більше часу на облаштування укриттів.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "0554b2158149cbda",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/medicine/mikroplastik-u-chaji-doslidzhennya-viyavilo-nebezpeku-chaynih-paketikiv-50654634.html",
+      "title": "Пакетик із сюрпризом. Вчені підрахували, скільки мікропластику потрапляє в чай під час заварювання",
+      "published_at": "2026-10-29T20:19:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:19:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Дослідники Університету Реджепа Таїпа Ердогана (Туреччина) перевірили 28 марок чаю. Вони з’ясували, які забруднювачі пластикові пакетики вивільняють у напій.",
+      "categories": [
+        "Техно/Медицина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "84567c0903c01b24",
+      "source_id": "map-365",
+      "source": "Твоє місто",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://tvoemisto.tv/uk/news/12971-lvivski-karpaty-vyyshly-do-chvertfinalu-kubka-ukrayiny-yak-proyshov-match-z-oleksandriyeyu",
+      "title": "Львівські \"Карпати\" вийшли до чвертьфіналу Кубка України: як пройшов матч з Олександрією",
+      "published_at": "2026-10-29T20:19:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:19:00 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Львівські \"Карпати\" перемогли \"Олександрію\" та пробилися до чвертьфіналу Кубка України. Як минув матч - читайте далі",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "44c2b0bfd4ac3b58",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/29/777148_genshtab_191_boyove_zitknennya.html",
+      "title": "Генштаб: 191 бойове зіткнення відбулося на фронті від початку доби",
+      "published_at": "2026-10-29T20:18:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:18:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Найбільше атак відбулось на Костянтинівському та Покровському напрямках.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55cf2a2b672fd1c5",
+      "source_id": "map-1030",
+      "source": "Dnipro.media",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://dnipro.media/novyny-dnipro/u-dnipri-ta-pryleglykh-rayonakh-vynykly-pereboyi-zi-2026",
+      "title": "У Дніпрі та прилеглих районах виникли перебої зі світлом через пошкодження мереж",
+      "published_at": "2026-10-29T20:17:34+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:17:34 +0000",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Унаслідок ворожої атаки та пошкодження обладнання магістральних мереж частина мешканців правого й лівого берегів Дніпра, а також прилеглих районів залишилася без електропостачання. Про це повідомили у ДТЕК. Фото: ДТЕК У ДТЕК повідомили, що через атаку пошкоджено обладнання магістральних мереж. Енергетики вже працюють над тим, щоб повернути світло якомога швидше. Дізнавайтесь останні новини Дніпра сьогодні. The post У Дніпрі та прилеглих районах виникли перебої зі світлом через пошкодження мереж appeared first on Dnipro.media .",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "06faaecb2a49096e",
       "source_id": "map-875",
@@ -214,180 +2192,19 @@
       "status": "new"
     },
     {
-      "id": "bd1cf04b44f914b9",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-gorohovi-provely-v-ostannyu-dorogu-veterana-vijny-vasylya-muravchuka",
-      "title": "У Горохові провели в останню дорогу ветерана війни Василя Муравчука",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Сьогодні, 29 жовтня, громада провела в останню дорогу ветерана війни Василя Муравчука з міста Горохів. Про це повідомляють на сторінці Горохівської міської ради у “Фейсбук”. Частину свого життя Василь присвятив військовій службі. Спершу, під час Антитерористичної операції, а згодом — під час повномасштабного вторгнення, де зазнав поранення. Серце Захисника перестало битися внаслідок тяжкої хвороби. Попрощатися […] The post У Горохові провели в останню дорогу ветерана війни Василя Муравчука appeared first on Волинь Online .",
+      "id": "a204d8ed15d1e7e7",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/CULTURE/pishov-z-zhittja-patrik-stjuart-lehenda-zorjanoho-shljakhu-ta-ljudej-iks.html",
+      "title": "Пішов з життя Патрік Стюарт — легенда «Зоряного шляху» та «Людей Ікс»",
+      "published_at": "2026-10-29T20:17:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:17:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Актор підтримував Україну після вторгнення Росії.",
       "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "10762bb71f8a96e5",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-novovolynsku-pryvitaly-praczivnykiv-soczialnoyi-sfery",
-      "title": "У Нововолинську привітали працівників соціальної сфери",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Щороку в першу неділю листопада в Україні відзначають День працівника соціальної сфери. Сьогодні, 29 жовтня, у Нововолинському центрі дитячої та юнацької творчості відбувся урочистий захід. Про це повідомляє Нововолинська міська рада на сторінці у “Фейсбук”. Працівники соціальної сфери щодня допомагають ветеранам, людям з інвалідністю, дітям-сиротам, пенсіонерам, внутрішньо переміщеним особам та всім, хто опинився у складних […] The post У Нововолинську привітали працівників соціальної сфери appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "e5cf15a963925483",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/molod-volyni-navchalasya-proyektnomu-menedzhmentu",
-      "title": "Молодь Волині навчалася проєктному менеджменту",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Учора, 28 жовтня, на Волині відбулося навчання з проєктного менеджменту для активної молоді області. Ініціатором та організатором заходу стала Молодіжна рада при Волинській обласній державній адміністрації за підтримки Волинського обласного молодіжного центру. На запрошення Молодіжної ради до заходу долучився очільник області Роман Романюк Про це повідомляють на сайті Волинської ОВА. «Радий, що маємо пряму комунікацію […] The post Молодь Волині навчалася проєктному менеджменту appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "97177cf9b670f7c5",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-koveli-rozpochaly-ochyshhennya-richky-turiyi-vid-nadmirnoyi-vodyanoyi-roslynnosti",
-      "title": "У Ковелі розпочали очищення річки Турії від надмірної водяної рослинності",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "У Ковелі розпочали механічне викошування водяної рослинності на річці Турії. Для цього використовують спеціалізовану техніку — машину-амфібію, яка пересувається водоймою, зрізає рослинність і збирає її на берег. Про це повідомляють на сайті Ковельської міської ради. Роботи стартували від греблі водосховища. Їх планують провести до шляхопроводу на вулиці Сагайдачного. Послугу надає Національний природний парк «Прип’ять-Стохід», з […] The post У Ковелі розпочали очищення річки Турії від надмірної водяної рослинності appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "db9d11f72489f025",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-luczkradi-vruchyly-groshovyj-sertyfikat-vazhkoatletczi-viktoriyi-lytvynecz",
-      "title": "У Луцькраді вручили грошовий сертифікат важкоатлетці Вікторії Литвинець",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "У четвер, 29 жовтня, секретар міської ради, виконувач повноважень міського голови Андрій Разумовський зустрівся з важкоатлеткою Вікторією Литвинець та вручив спортсменці сертифікат на 30 тисяч гривень. Про це повідомляють на сайті Луцькради. Вікторія Литвинець – майстриня спорту України міжнародного класу, багаторазова чемпіонка України та 19-разова рекордсменка України. На чемпіонаті Європи серед юніорів та молоді, що […] The post У Луцькраді вручили грошовий сертифікат важкоатлетці Вікторії Литвинець appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "6b1589f39ef12c69",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-luczku-tryvaye-zasidannya-asocziacziyi-mist-ukrayiny-z-pytan-osvity",
-      "title": "У Луцьку триває засідання Асоціації міст України з питань освіти",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Упродовж 29–30 жовтня на базі закладів освіти Луцької громади проходить засідання секції Асоціації міст України на тему нових підходів, інноваційних проєктів, проблемних питань та запровадження реформ у сфері освіти, що реалізуються в нашій громаді. Про це повідомляють на сайті Луцькради. Освітній напрям Асоціації міст України спрямований на захист інтересів громад у формуванні та реалізації державної […] The post У Луцьку триває засідання Асоціації міст України з питань освіти appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "be1ca8d81160378d",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/volodymyrska-gromada-prodovzhuye-spivpraczyu-z-bahmutom",
-      "title": "Володимирська громада продовжує співпрацю з Бахмутом",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Цієї неділі, 25 жовтня, секретар Володимирської міської ради Іван Юхимюк відвідав форум «Бахмут: минуле, сьогодення, майбутнє», який об’єднав представників громад-партнерів Бахмута. Про це повідомляють на сайті міста Володимира. Крім Володимирської громади, у зустрічі взяли участь представники Бахмутської, Гостомельської, Білоцерківської та Полтавської громад, а також благодійних організацій. Учасники обговорили досвід співпраці громад, потреби людей, які постраждали […] The post Володимирська громада продовжує співпрацю з Бахмутом appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "4b89bafcccddead0",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/veteranu-vijny-andriyu-matviyuku-vruchyly-sertyfikat-na-prydbannya-zhytla",
-      "title": "Ветерану війни Андрію Матвіюку вручили сертифікат на придбання житла",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Сьогодні, 29 жовтня 2026 року, т.в.о. начальника ОВА Роман Романюк вручив сертифікат на придбання житла Андрію Матвіюку – ветерану з інвалідністю внаслідок важкого поранення. Захисник втратив нижню кінцівку, захищаючи державу на запорізькому напрямку у 2023 році. Про це повідомляють на сайті Волинської ОВА. Нині разом із дружиною з дружиною Вікторією та сином Мирославом, який народився […] The post Ветерану війни Андрію Матвіюку вручили сертифікат на придбання житла appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "5e3c773ed065b49c",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-luczku-obgovoryly-rozvytok-osvity-ta-bezpechni-umovy-navchannya",
-      "title": "У Луцьку обговорили розвиток освіти та безпечні умови навчання",
-      "published_at": "2026-10-29T20:16:27+00:00",
-      "published_raw": "Thu, 29 Oct 2026 22:16:27 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Секретар Луцької міської ради зустрівся з експертом з питань освіти Асоціації міст України Михайлом Гончарем і заступником міського голови Кривого Рогу Сергієм Мілютіним. Про це повідомляють на сайті Луцькради. Під час зустрічі обговорили якість освіти, створення безпечних умов для навчання, облаштування укриттів, розвиток інклюзивного простору, бібліотек і закладів культури. Окрему увагу приділили обміну досвідом і […] The post У Луцьку обговорили розвиток освіти та безпечні умови навчання appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
+        "Культура"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -408,6 +2225,26 @@
       "categories": [
         "Луцьк",
         "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b145dc632e2e4a02",
+      "source_id": "map-298",
+      "source": "Реальна газета",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://realgazeta.com.ua/u-rosiyi-pidtvierdili-zaghibiel-dvokh-viiskovikh-lotchikiv-a-takozh-vtratu-dvokh-su-34-pislia-udaru-nieptunami",
+      "title": "У Росії підтвердили загибель двох військових льотчиків, а також втрату двох Су-34 після удару «Нептунами»",
+      "published_at": "2026-10-29T20:16:20+00:00",
+      "published_raw": "Thu, 29 Oct 2026 20:16:20 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Російський Z-блогер підтвердив втрату двох Су-34 після удару українських ракет «Нептун» по аеродрому «Маринівка».",
+      "categories": [
+        "Удари по РФ",
+        "Російський літак"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -445,6 +2282,42 @@
       "fetched_at": "2026-10-29T20:17:15+00:00",
       "description": "Збірна Норвегії з важкої атлетики: можливий бойкот чемпіонату світу з цього виду спорту в Росії, що відомо про рішення Норвегії, заява президента",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "50914100ce85c6bc",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/bob-uecker-fox-sports-milwaukee-brewers-world-series-9x1xw5",
+      "title": "Боб Юкер «коментує» перший титул Brewers: Fox зібрав відео з архівів",
+      "published_at": "2026-10-29T20:13:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:13:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Milwaukee Brewers вперше стали чемпіонами Світової серії, а Fox Sports під час трансляції «озвучив» їхній шлях голосом покійного Боба Юкера.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3488dadfa1a69f1b",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/news/365807-yak-ochystyty-kylym-vid-zhyrnykh-pliam-dopomozhe-prostyi-domashnii-zasib.html",
+      "title": "Як очистити килим від жирних плям: допоможе простий домашній засіб",
+      "published_at": "2026-10-29T20:12:48+00:00",
+      "published_raw": "Thu, 29 Oct 2026 22:12:48 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Олія, жирні соуси та залишки їжі можуть залишити на килимі стійкі плями, які з часом стає дедалі складніше вивести",
+      "categories": [
+        "новини / Лайфхаки"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1254,6 +3127,25 @@
       "status": "new"
     },
     {
+      "id": "3ad5c77f0927b315",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/10/29/8060357",
+      "title": "Пліснява та \"парниковий ефект\": у Києві демонтують захисні конструкції з пам’ятників",
+      "published_at": "2026-10-29T19:48:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:48:00 +0200",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "Комунальники обстежують пам’ятки мистецтва після часткового демонтажу укриттів. Рішення щодо захисту об’єктів ухвалюють індивідуально.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8ab138be7a223a0e",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -1743,7 +3635,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/world/geopolitics/zvilnennya-u-pentagoni-general-leytenant-silviya-pid-pidozroyu-u-vitoku-danih-50654650.html",
-      "title": "Гегсет звільнив топстратега Пентагону, підозрюваного у витоку секретних даних про війни в Ірані та Україні",
+      "title": "Гегсет звільнив топстратега Пентагону, підозрюваного у витоку секретних даних про війни в Україні та Ірані — ЗМІ",
       "published_at": "2026-10-29T19:30:00+00:00",
       "published_raw": "Thu, 29 Oct 2026 21:30:00 +0200",
       "fetched_at": "2026-10-29T20:17:15+00:00",
@@ -2743,7 +4635,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/world/geopolitics/patriot-dlya-ukrajini-v-nato-pripuskayut-shcho-tramp-mozhe-zvolikati-z-nadannyam-raket-do-3-listopada-50654639.html",
-      "title": "В НАТО побоюються, що Трамп відкладе постачання Patriot Україні до проміжних виборів — Euronews",
+      "title": "В НАТО побоюються, що Трамп відкладе постачання ракет Patriot Україні до проміжних виборів — Euronews",
       "published_at": "2026-10-29T19:02:00+00:00",
       "published_raw": "Thu, 29 Oct 2026 21:02:00 +0200",
       "fetched_at": "2026-10-29T20:17:15+00:00",
@@ -2762,13 +4654,32 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/world/geopolitics/flavio-bolsonaru-utik-do-ssha-pislya-porazki-na-viborah-rol-trampa-ta-spravi-50654636.html",
-      "title": "Син Болсонару, якому заборонили виїзд з Бразилії, утік до США. Трамп дав йому «перепустку»",
+      "title": "Сину Болсонару, якому заборонили виїзд з Бразилії, допомогла втекти в США адміністрація Трампа — NYT",
       "published_at": "2026-10-29T19:02:00+00:00",
       "published_raw": "Thu, 29 Oct 2026 21:02:00 +0200",
       "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Флавіо Болсонару, який у неділю, 25 жовтня, програв президентські вибори в Бразилії і фігурує в кількох кримінальних розслідуваннях, утік до США за допомогою адміністрації Трампа.",
+      "description": "Флавіо Болсонару, який у неділю, 25 жовтня, програв президентські вибори в Бразилії і фігурує в кількох кримінальних розслідуваннях, утік до США за допомогою адміністрації Трампа, пише The New York Times з посиланням на американських посадовців.",
       "categories": [
         "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "46b40a1ca466f0f2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-dnipro-povitryani-sili-sprostuvali-feyki-pro-ppo-ta-pokazali-dokazi-50654641.html",
+      "title": "Повітряні сили показали частину реактивного безпілотника, яким Росія атакувала залізничний вокзал у Дніпрі",
+      "published_at": "2026-10-29T19:02:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 21:02:00 +0200",
+      "fetched_at": "2026-10-29T20:17:15+00:00",
+      "description": "Після російської атаки на Дніпро, через яку загинуло 14 людей, ворожі ресурси поширюють фейки про нібито причетність української ППО до руйнувань. Повітряні сили показали уламки російського реактивного безпілотника на місці удару по цивільних людях.",
+      "categories": [
+        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -3108,11 +5019,11 @@
       "geography": "national",
       "source_region": null,
       "url": "https://rubryka.com/2026/10/29/rosijskyj-dron-atakuvav-avtobusu-gumanitarnoyi-misiyi-na-zaporizhzhi-zagynula-pasazhyrka-ye-poraneni",
-      "title": "Російський дрон атакував автобусу гуманітарної місії на Запоріжжі: загинула пасажирка, є поранені",
+      "title": "Російський дрон атакував автобус гуманітарної місії на Запоріжжі: загинула пасажирка, є поранені",
       "published_at": "2026-10-29T18:59:54+00:00",
       "published_raw": "Thu, 29 Oct 2026 18:59:54 +0000",
       "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Російський FPV-дрон атакував автобус у селі Біленьке на Запоріжжі. Внаслідок атаки загинула пасажирка 1952 року народження. Ще троє людей дістали поранення, зокрема водій автобуса перебуває у важкому стані. Про це повідомив керівник гуманітарної місії \"Проліска\" Євген Каплін, пише Рубрика. \"Сьогодні, близько 14:30 у селі Біленьке Запорізької області російський FPV-дрон атакував соціальний автобус гуманітарної місії \"Проліска\", […] The post Російський дрон атакував автобусу гуманітарної місії на Запоріжжі: загинула пасажирка, є поранені appeared first on Рубрика .",
+      "description": "Російський FPV-дрон атакував автобус у селі Біленьке на Запоріжжі. Внаслідок атаки загинула пасажирка 1952 року народження. Ще троє людей дістали поранення, зокрема водій автобуса перебуває у важкому стані. Про це повідомив керівник гуманітарної місії \"Проліска\" Євген Каплін, пише Рубрика. \"Сьогодні, близько 14:30 у селі Біленьке Запорізької області російський FPV-дрон атакував соціальний автобус гуманітарної місії \"Проліска\", […] The post Російський дрон атакував автобус гуманітарної місії на Запоріжжі: загинула пасажирка, є поранені appeared first on Рубрика .",
       "categories": [
         "Новини",
         "Війна",
@@ -3200,25 +5111,6 @@
         "Політика",
         "Соціум",
         "Україна"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "46b40a1ca466f0f2",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-dnipro-povitryani-sili-sprostuvali-feyki-pro-ppo-ta-pokazali-dokazi-50654641.html",
-      "title": "Окупанти запустили хвилю фейків. Повітряні сили показали частину реактивного безпілотника, яким Росія атакувала залізничний вокзал у Дніпрі",
-      "published_at": "2026-10-29T18:57:00+00:00",
-      "published_raw": "Thu, 29 Oct 2026 20:57:00 +0200",
-      "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "Після російської атаки на Дніпро, через яку загинуло 14 людей, ворожі ресурси поширюють фейки про нібито причетність української ППО до руйнувань. Повітряні сили показали уламки російського реактивного безпілотника на місці удару по цивільних людях.",
-      "categories": [
-        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -3895,8 +5787,7 @@
       "fetched_at": "2026-10-29T20:17:15+00:00",
       "description": "В Івано-Франківському драмтеатрі відбудеться прем’єра вистави “Спитайте Мієчку” за однойменним романом української письменниці Євгенії Кузнецової. Це перша постановка Дмитра Захоженка після призначення на посаду головного режисера театру. Про це розповіли під час пресконференції з нагоди прем’єри, пише КУРС. Вистава вже викликала зацікавлення публіки: квитки на кілька наступних показів розпродані. На прем’єру та подальші покази очікують […]",
       "categories": [
-        "Суспільство",
-        "драмтеатр",
+        "Культура",
         "Франківський драмтеатр"
       ],
       "date_issues": [],
@@ -4491,7 +6382,8 @@
       "description": "Лубінець уточнив, що для людей, які бажають виїхати, така можливість буде забезпечена до 14:00",
       "categories": [
         "Новини | Суспільство",
-        "Новини"
+        "Новини",
+        "Новини | Важливі"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -8062,6 +9954,29 @@
       "status": "new"
     },
     {
+      "id": "4fe626977bc26ea9",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/opieratsiia-vivaldi-na-limansko-borivskomu-napriamku-vorogh-v-aghoniyi-budie-namaghatisia-vidnovliuvati-vtrachienie-polozhiennia",
+      "title": "Операція \"Вівальді\": на Лимансько-Борівському напрямку ворог в агонії, буде намагатися відновлювати втрачене положення",
+      "published_at": "2026-10-29T17:20:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 17:20:00 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На Лимансько-Борівському напрямку після проведеної опер",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Війна",
+        "росія",
+        "Донецька область"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4dd952e35f96fb24",
       "source_id": "texty",
       "source": "Тексти",
@@ -10925,6 +12840,29 @@
       "status": "new"
     },
     {
+      "id": "77dd1edf7e4be48c",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/na-limanskii-napriamok-zayikhalo-diekilka-vorozhikh-pidrozdili-dronariv-zbilshilas-kilkist-zastosuvannia-fpv-droniv",
+      "title": "На Лиманський напрямок заїхало декілька ворожих підрозділи дронарів: збільшилась кількість застосування FPV-дронів",
+      "published_at": "2026-10-29T16:24:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 16:24:00 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На Лиманский напрямок заїхало декілька ворожих підрозділ",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a347e67dc42eb1cc",
       "source_id": "map-397",
       "source": "Східний Варіант",
@@ -12918,6 +14856,29 @@
       "status": "new"
     },
     {
+      "id": "abd09d5115f0bea7",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/na-limanskomu-napriamku-u-vorogha-nie-vikhodit-sformuvati-stalu-liniiu-oboroni",
+      "title": "На Лиманському напрямку у ворога не виходить сформувати сталу лінію оборони",
+      "published_at": "2026-10-29T15:48:00+00:00",
+      "published_raw": "Thu, 29 Oct 2026 15:48:00 GMT",
+      "fetched_at": "2026-10-30T00:58:41+00:00",
+      "description": "На Лиманському напрямку точаться бої. У ворога там не виходи",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Війна",
+        "росія",
+        "Фронт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "104361e7fd770da0",
       "source_id": "map-569",
       "source": "Цукр",
@@ -14153,11 +16114,11 @@
       "published_at": "2026-10-29T15:30:00+00:00",
       "published_raw": "Thu, 29 Oct 2026 15:30:00 +0000",
       "fetched_at": "2026-10-29T20:17:15+00:00",
-      "description": "За доказовою базою контррозвідки та слідчих Служби безпеки 15 років увʼязнення з конфіскацією майна отримала агентка російської воєнної розвідки, яку СБУ викрила у жовтні 2024 року у Харкові, пише КУРС з посиланням на СБУ. У поле зору рф жінка потрапила під час пошуку «швидких» заробітків у профільних Телеграм-каналах. Як з’ясувало розслідування, вона коригувала ракетно-бомбові удари […]",
+      "description": "За доказовою базою контррозвідки та слідчих Служби безпеки 15 років увʼязнення з конфіскацією майна отримала агентка російської воєнної розвідки, яку СБУ викрила у жовтні 2024 року у Харкові, пише КУРС з посиланням на СБУ. У поле зору рф жінка потрапила під час пошуку «швидких» заробітків у профільних телеграм-каналах. Як з’ясувало розслідування, вона коригувала ракетно-бомбові удари […]",
       "categories": [
         "Суспільство",
-        "сбу",
-        "державна зрада"
+        "державна зрада",
+        "сбу"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -16519,25 +18480,6 @@
       "status": "new"
     },
     {
-      "id": "d73aa3ef836209bb",
-      "source_id": "lb",
-      "source": "LB.ua",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://lb.ua/society/2026/10/29/777014_vorozhiy_bezpilotnik_vdariv.html",
-      "title": "Ворожий безпілотник вдарив по центру Чернігова: загинули 15-річні дівчата, понад 20 людей поранені (оновлено)",
-      "published_at": "2026-10-29T14:48:00+00:00",
-      "published_raw": "Thu, 29 Oct 2026 16:48:00 +0200",
-      "fetched_at": "2026-10-29T11:28:56+00:00",
-      "description": "Після атаки виникла пожежа в магазинах, також горять автомобілі. Загиблі – двоє неповнолітніх дівчат.",
-      "categories": [
-        "Суспільство"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "4bb023d97d1ff2f7",
       "source_id": "map-1249",
       "source": "У Полтаві",
@@ -17075,7 +19017,7 @@
       "geography": "regional",
       "source_region": "odesa",
       "url": "https://odessa.online/pobiv-uchnya-ta-vityagnuv-za-shiyu-z-auditoriyi-na-odeshhini-suditimut-vikladacha",
-      "title": "Побив учня та витягнув за шию з аудиторії: На Одещині судитимуть викладача, обвинуваченого в побитті 15-річного учня",
+      "title": "Побив учня та витягнув за шию з аудиторії: на Одещині судитимуть викладача, обвинуваченого в побитті 15-річного учня",
       "published_at": "2026-10-29T14:35:57+00:00",
       "published_raw": "Thu, 29 Oct 2026 14:35:57 +0000",
       "fetched_at": "2026-10-29T20:17:15+00:00",
@@ -18597,10 +20539,10 @@
       "description": "Комунальні служби Івано-Франківської громади переходять на зимове утримання міста. З 2 до 6 листопада «Муніципальна дорожня компанія» переобладнуватиме техніку для прибирання снігу та боротьби з ожеледицею, пише КУРС з посиланням на заступника міського голови Михайла Смушака. Йдеться про встановлення та заміну навісного обладнання та іншу підготовку машин до механізованого прибирання снігу та посипання протиожеледними матеріалами. […]",
       "categories": [
         "Суспільство",
-        "Івано-Франківськ",
         "сніг",
         "прибирання",
-        "дороги"
+        "дороги",
+        "Івано-Франківськ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -19652,8 +21594,8 @@
       "description": "Вхідні металеві двері — один із найважливіших елементів безпеки оселі. Також вони забезпечують звуко- та теплоізоляцію помешкання. Виріб складається зі сталевого короба, рухомого дверного полотна з внутрішніми ребрами жорсткості, ізоляційного наповнювача та замкового комплексу. Якісні металеві вхідні двері запобігаютьзапобігають несанкціонованому проникненню в будинок, квартиру чи комерційне приміщення, захищають від протягів, шуму з під’їзду чи вулиці […]",
       "categories": [
         "Суспільство",
-        "ремонт",
-        "меблі"
+        "меблі",
+        "ремонт"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -23038,25 +24980,6 @@
       "description": "Сумнівно, що окупант Кремля реально очікує, що окупант Білого Дому зможе дати потрібний РФ результат щодо України і європейської безпеки тут і зараз",
       "categories": [
         "Погляди"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "7106578c54a530b0",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/evakuaciya-z-oleshok-rezhimom-tishi-koristuyutsya-viyskovi-rf-dlya-ukriplennya-novini-ukrajini-50654479.html",
-      "title": "«Ми не знаємо наслідків для Херсона». ЗС РФ використовують режим тиші, щоб укріпитися в Олешках — інтерв'ю з Погомій, яка перебуває на місці подій",
-      "published_at": "2026-10-29T13:27:00+00:00",
-      "published_raw": "Thu, 29 Oct 2026 15:27:00 +0200",
-      "fetched_at": "2026-10-29T14:18:19+00:00",
-      "description": "Депутатка Херсонської міської ради Оксана Погомій в інтерв'ю Radio NV розповіла, як проходить гуманітарна операція з евакуації цивільних з міста Олешки Херсонської області, як російська армія використовує режим тиші у своїх інтересах і що варто робити Україні для людей в окупації.",
-      "categories": [
-        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -28309,7 +30232,7 @@
         "ЕКСКЛЮЗИВ",
         "Новини",
         "блоги",
-        "від першої особи"
+        "ексклюзив"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -56254,6 +58177,12 @@
       "fetched": 1837,
       "added": 991,
       "errors": 2
+    },
+    {
+      "at": "2026-10-30T00:58:41+00:00",
+      "fetched": 1581,
+      "added": 99,
+      "errors": 4
     }
   ]
 }
