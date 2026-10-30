@@ -30,7 +30,7 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 async function show(file){
   const d=await (await fetch(file,{cache:'no-store'})).json();
   const min=Math.floor(d.duration_sec/60), sec=String(Math.round(d.duration_sec%60)).padStart(2,'0');
-  document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}"></audio>
+  document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}?v=${esc(d.script_sha256||d.date)}-female108"></audio>
     <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>
     ${typeof d.asr_mean_cer === "number" ? `<span class="tag">звірка аудіо з текстом: ${Math.round((1-d.asr_mean_cer)*100)}% збігу</span>` : ""}<span class="tag">${esc(d.approved_by)}</span></div>
     ${d.provider==='elevenlabs'?'<p class="muted" style="font-size:12px;margin:10px 0 0">Озвучення: <a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a></p>':''}`;
