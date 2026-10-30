@@ -63,7 +63,7 @@ jobs:
         run: |
           git config user.name 'BRIEF Bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add audio/brief-2026-10-29.mp3 audio/brief-2026-10-29.json brief-2026-10-29.html index.html
+          git add audio/brief-2026-10-29.mp3 audio/brief-2026-10-29.json brief-2026-10-29.html demo/2026-10-29-demo-elevenlabs.json index.html
           git diff --cached --quiet && exit 0
           git commit -m 'Publish BRIEF spoken edition for 29 October 2026'
           for i in 1 2 3; do
