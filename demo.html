@@ -19,7 +19,7 @@ audio{width:100%;margin:8px 0}.facts{display:flex;flex-wrap:wrap;gap:7px;margin-
 <body><main class="app">
 <a class="brand" href="./">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a>
 <h1>Демо-випуск</h1>
-<p class="muted">Той самий автоматично зібраний і перевірений випуск, озвучений студійним голосом. Кожне речення — дослівно з публікацій перевірених медіа; джерела — під кожним сюжетом.</p>
+<p class="muted">Тестовий випуск BRIEF за 29 жовтня, озвучений Yevhen та Yaroslava. Новини адаптовані для усного мовлення. Посилання на першоджерела — під кожним сюжетом.</p>
 <div id="pick"></div>
 <div class="card" id="player"><p class="muted">Завантаження…</p></div>
 <div class="card" id="script"></div>
@@ -32,7 +32,7 @@ async function show(file){
   const min=Math.floor(d.duration_sec/60), sec=String(Math.round(d.duration_sec%60)).padStart(2,'0');
   document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}"></audio>
     <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>
-    <span class="tag">звірка аудіо з текстом: ${Math.round((1-(d.asr_mean_cer||0))*100)}% збігу</span><span class="tag">затвердження: ${esc(d.approved_by)}</span></div>
+    ${typeof d.asr_mean_cer === "number" ? `<span class="tag">звірка аудіо з текстом: ${Math.round((1-d.asr_mean_cer)*100)}% збігу</span>` : ""}<span class="tag">${esc(d.approved_by)}</span></div>
     ${d.provider==='elevenlabs'?'<p class="muted" style="font-size:12px;margin:10px 0 0">Озвучення: <a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a></p>':''}`;
   document.getElementById('script').innerHTML='<b>Текст випуску</b>'+d.segments.map(s=>`<div class="seg"><div class="kind">${KIND[s.kind]||esc(s.kind)}</div>
     ${s.text.map(t=>`<p>${esc(t)}</p>`).join('')}
