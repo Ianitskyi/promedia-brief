@@ -9,7 +9,7 @@
   "duration_sec": 143.9,
   "asr_mean_cer": null,
   "approved_by": "Тестовий випуск — редакційне затвердження не підтверджено",
-  "script_sha256": "304ef85c56c93a91084299c03b5e247645c1de6213dd213d83d9e9eaa88107b3",
+  "script_sha256": "98807303c23b71a47629e7db02ad1fe5fcca4c839ce902225d2085982aa2a0e6",
   "segments": [
     {
       "kind": "intro",
@@ -154,5 +154,6 @@
       ],
       "sources": []
     }
-  ]
+  ],
+  "audio_revision": "alternating-female108-20261030"
 }
