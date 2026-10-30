@@ -43,6 +43,8 @@ jobs:
           BRIEF_MAX_TTS_USD: '0.30'
           BRIEF_ELEVENLABS_MODEL: eleven_v3
           BRIEF_ELEVENLABS_STRESS: '0'
+          BRIEF_YEVHEN_TEMPO: '1.00'
+          BRIEF_YAROSLAVA_TEMPO: '1.08'
         run: |
           test -n "$ELEVENLABS_API_KEY" || (echo "Missing ELEVENLABS_API_KEY" && exit 1)
           python -m brief.audition --script docs/tts/brief-2026-10-29.json --output audio/brief-2026-10-29.mp3
