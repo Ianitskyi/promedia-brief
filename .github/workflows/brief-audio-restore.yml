@@ -1,0 +1,66 @@
+name: Restore previously generated BRIEF audio without spending TTS credits
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/brief-artifact-restore-trigger.txt
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: brief-audio-artifact-publish
+  cancel-in-progress: false
+jobs:
+  restore-audio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download paid audio from the completed synthesizer
+        uses: actions/download-artifact@v4
+        with:
+          name: BRIEF-2026-10-29-audio
+          run-id: 40980186161
+          github-token: ${{ github.token }}
+          path: recovered
+      - name: Validate and prepare single existing player
+        run: |
+          test -s recovered/audio/brief-2026-10-29.mp3
+          test -s recovered/audio/brief-2026-10-29.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest=json.loads(Path("recovered/audio/brief-2026-10-29.json").read_text())
+          assert manifest["edition_date"]=="2026-10-29"
+          assert manifest["female"]["tempo"]==1.08
+          assert manifest["male"]["tempo"]==1.0
+          assert manifest["stories"]==8
+          print("Verified the previously synthesized alternating-voice edition.")
+          PY
+          cp recovered/audio/brief-2026-10-29.mp3 audio/brief-2026-10-29.mp3
+          cp recovered/audio/brief-2026-10-29.json audio/brief-2026-10-29.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p=Path("demo/2026-10-29-demo-elevenlabs.json")
+          d=json.loads(p.read_text())
+          manifest=json.loads(Path("audio/brief-2026-10-29.json").read_text())
+          d["script_sha256"]=manifest["script_sha256"]
+          d["audio_revision"]="alternating-female108-20261030"
+          d["voice"]=manifest["male"]["voice_id"]
+          d["service_voice"]=manifest["female"]["voice_id"]
+          p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+"\n")
+          PY
+      - name: Commit replacement to existing player, with safe retry
+        run: |
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add audio/brief-2026-10-29.mp3 audio/brief-2026-10-29.json demo/2026-10-29-demo-elevenlabs.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Replace demo audio with alternating voices and faster Yaroslava"
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort || true
+            sleep $((i * 4))
+          done
+          exit 1
