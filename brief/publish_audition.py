@@ -53,6 +53,15 @@ ol{{padding-left:25px}}li{{padding:18px 5px;border-bottom:1px solid #d9d6cf}}li 
 <p class="note">Редакційний аудіовипуск за 29 жовтня 2026 року. Часові слова у новинах стосуються дати випуску.</p>
 </main></body></html>"""
     PAGE.write_text(page, encoding="utf-8")
+    index = ROOT / "index.html"
+    front = index.read_text(encoding="utf-8")
+    anchor = '<section id="home" class="screen active">'
+    promo = '<section id="latest-brief" style="padding:14px 16px;margin-bottom:16px;background:#171717;color:#fff;border-radius:16px"><strong>Свіжий аудіовипуск · 29 жовтня</strong><p style="margin:8px 0"><a href="/brief-2026-10-29.html" style="color:#fff">Слухати BRIEF за 29 жовтня →</a></p></section>'
+    if 'id="latest-brief"' not in front:
+        if anchor not in front:
+            raise ValueError("Home page injection anchor missing")
+        index.write_text(front.replace(anchor,anchor+"\\n"+promo,1),encoding="utf-8")
+
     print(f"{PAGE}: {len(items)} stories; {seconds:.1f}s; {AUDIO.stat().st_size} bytes")
 
 
