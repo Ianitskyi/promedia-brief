@@ -53,6 +53,16 @@ ol{{padding-left:25px}}li{{padding:18px 5px;border-bottom:1px solid #d9d6cf}}li 
 <p class="note">Редакційний аудіовипуск за 29 жовтня 2026 року. Часові слова у новинах стосуються дати випуску.</p>
 </main></body></html>"""
     PAGE.write_text(page, encoding="utf-8")
+    demo_path = ROOT / "demo" / f"{DATE}-demo-elevenlabs.json"
+    if demo_path.is_file():
+        metadata = json.loads(demo_path.read_text(encoding="utf-8"))
+        manifest_path = AUDIO.with_suffix(".json")
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        metadata["script_sha256"] = manifest["script_sha256"]
+        metadata["duration_sec"] = seconds
+        metadata["voice"] = manifest["male"]["voice_id"]
+        metadata["service_voice"] = manifest["female"]["voice_id"]
+        demo_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
     print(f"{PAGE}: {len(items)} stories; {seconds:.1f}s; {AUDIO.stat().st_size} bytes")
 
 
