@@ -197,7 +197,7 @@ renderTopics(); loadEdition(); loadSources();
     const d=await (await fetch(idx.demos[0].file,{cache:'no-store'})).json();
     const [y,m,dd]=d.date.split('-');
     const dp=document.getElementById('demoPlayer');
-    dp.src=d.audio;
+    dp.src=d.audio+'?v='+encodeURIComponent(d.script_sha256||d.date);
     document.getElementById('demoTitle').textContent=`Випуск за ${dd}.${m}.${y}`;
     document.getElementById('demoMeta').textContent=`${Math.round(d.duration_sec/60)} хв${d.provider==='elevenlabs'?' · озвучення ElevenLabs':''}`;
     document.getElementById('demoCard').style.display='';
