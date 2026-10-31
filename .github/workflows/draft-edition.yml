@@ -1,6 +1,6 @@
 name: Draft BRIEF edition
 
-# Daily edition. Always: collect + draft with fact checks.
+# MANUAL-ONLY pilot edition. Do not create editions without explicit request.
 # approval_mode "auto" (config/editorial.json): stories that would need an editor (⚠) are
 # left out at drafting time, then the edition is approved automatically, voiced
 # (edition.tts_provider, StyleTTS2 since 2026-10-21),
@@ -12,11 +12,6 @@ on:
       date:
         description: "Edition date (YYYY-MM-DD, Kyiv). Empty = today"
         required: false
-  schedule:
-    # Two editions a day; the evening one replaces the morning one, and the morning one
-    # replaces yesterday's (prune below), so the site always has one fresh edition.
-    - cron: "7 5 * * *"     # ≈08:07 Kyiv in summer time, 07:07 in winter time
-    - cron: "37 15 * * *"   # ≈18:37 Kyiv in summer time, 17:37 in winter time
 
 permissions:
   contents: write
