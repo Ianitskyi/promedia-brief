@@ -1,9 +1,299 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T21:33:12+00:00",
+  "generated_at": "2026-11-01T01:09:04+00:00",
   "source_count": 103,
-  "item_count": 1606,
+  "item_count": 1622,
   "items": [
+    {
+      "id": "5e35dee61d752e2c",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777690_golovne_subotu_31_zhovtnya_ataka.html",
+      "title": "Головне за суботу, 31 жовтня: атака дронів на Київ, евакуація з Олешок, 245 боєзіткнень",
+      "published_at": "2026-10-31T21:58:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Бойові дії на Донеччині, 245 бойових зіткнень, ворожі обстріли, Зеленський в Туреччині. Яким запам’ятається 1711-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "65c70d1e69af80e6",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/31/777686_mzs_rumuniyi_zayavilo_pro.html",
+      "title": "МЗС Румунії заявило про вторгнення двох дронів у повітряний простір країни",
+      "published_at": "2026-10-31T21:58:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "У дипвідомстві підкреслили необхідність досягнення справедливого миру в Україні.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4926c35374d4afcb",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/31/novyna/suspilstvo/domovylysya-prodovzhyty-robotu-ombudsmen-dopustyv-provedennya-novyx-humanitarnyx-misij",
+      "title": "«Домовилися продовжити роботу»: омбудсмен допустив проведення нових гуманітарних місій",
+      "published_at": "2026-10-31T21:56:51+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:56:51 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Дмитро Лубінець домовився з російською омбудсманкою Яною Лантратовою продовжити роботу над гуманітарними місіями для цивільних поблизу фронту.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "37acdf9da9d2c5a7",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229260.html",
+      "title": "УЧХ надає комплексну гуманітарну підтримку евакуйованим жителям Олешків",
+      "published_at": "2026-10-31T21:53:48+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:53:48 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Український Червоний Хрест (УЧХ) надає комплексну гуманітарну підтримку жителям Олешків, які виїхали із окупованого росією міста на підконтрольну Україні територію.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a8d006d3978530f9",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/najhirshij-den-ukrajini-armija-ssha-hotuje-shi-do-majbutnoji-velikoji-vijni.html",
+      "title": "«Найгірший день України»: армія США готує ШІ до майбутньої великої війни",
+      "published_at": "2026-10-31T21:53:38+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:53:38 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Військові США в Європі готуються до масованих атак за українським сценарієм.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "af07f8795246ff26",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/other-sport/hit-i-atletik-futzal-vpershe-razom-u-pley-of-ligi-chempioniv-rezultati-grup-50655206.html",
+      "title": "Уперше в історії два клуби з України вийшли у плей-оф Ліги чемпіонів із футзалу",
+      "published_at": "2026-10-31T21:51:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:51:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Київський ХІТ та дніпровський Атлетік Футзал зіграють у плей-оф Ліги чемпіонів.",
+      "categories": [
+        "Спорт/Інше"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dc647ec39b5288a2",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4180134-zelenskij-podakuvav-melanii-tramp-za-poserednictvo-u-pripinenni-vognu-v-oleskah.html",
+      "title": "Зеленський подякував Меланії Трамп за посередництво у припиненні вогню в Олешках",
+      "published_at": "2026-10-31T21:51:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:51:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Президент Володимир Зеленський висловив вдячність першій леді США Меланії Трамп за посередництво в організації припинення вогню в тимчасово окупованих Олешках і заявив, що Україна підтримуватиме продовження цієї ініціативи.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0706dd4910ef1f07",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777688_rosiyani_aviaudarom_znischili.html",
+      "title": "Росіяни авіаударом знищили будівлю міськради у Краматорську",
+      "published_at": "2026-10-31T21:49:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:49:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Будівля виконкому міськради пережила штурми та окупацію у 2014 році, проте була знищена російською авіабомбою.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f0920f25a2bd5512",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/273559-katehorychno-proty-u-polku-aydar-zaklykaly-zelenskoho-ta-drapatoho-ne-zvilniaty-komandyra-oleksandra-kovalenka",
+      "title": "«Категорично проти». У полку «Айдар» закликали Зеленського та Драпатого не звільняти командира Олександра Коваленка",
+      "published_at": "2026-10-31T21:48:00+00:00",
+      "published_raw": "2026-10-31T23:48:00+02:00",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f4141d11b5018021",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/samit-g20-u-mayami-zaproshennya-zelenskogo-zalezhit-vid-rishennya-trampa-povidomiv-rubio-50655208.html",
+      "title": "Рішення про запрошення Зеленського на саміт G20 в Маямі в грудні 2026-го прийматиме Трамп — Рубіо",
+      "published_at": "2026-10-31T21:48:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Державний секретар США Марко Рубіо заявив, що рішення про запрошення президента України Володимира Зеленського на саміт G20 (Великої двадцятки) у Маямі у грудні 2026 року має прийняти особисто президент США Дональд Трамп.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fddaa0c74d5d600a",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/article/net-kadastrovogo-nomera-ili-poteryan-gosudarstvennyj-akt-kak-unasledovat-zemlyu",
+      "title": "Нет кадастрового номера или потерян государственный акт: как унаследовать землю",
+      "published_at": "2026-10-31T21:47:13+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:47:13 +0000",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Старый государственный акт не внесен в реестр, сертификат на пай потерялся, нотариус не может оформить наследство. Однако это не всегда означает, что земля потеряна. Юрист Виктория Гусакова объясняет, где искать подтверждение права собственности, как восстановить документы и в каких случаях придется обращаться в суд. Сообщение Нет кадастрового номера или потерян государственный акт: как унаследовать землю появились сначала на Одеське життя .",
+      "categories": [
+        "По полочкам",
+        "Статьи",
+        "права человека"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4abddb18a0221b0d",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/crime/2026/mikolaivtsia-zvinuvatili-u-shpigunstvi-na-korist-rf",
+      "title": "Миколаївця звинуватили у шпигунстві на користь рф",
+      "published_at": "2026-10-31T21:44:05+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:44:05 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Суд у Миколаєві взяв під варту чоловіка, якого підозрюють у державній зраді. За версією слідства, він передавав представнику рф інформацію про об’єкти критичної інфраструктури міста та розташування українських військових",
+      "categories": [
+        "ЗСУ",
+        "Миколаїв",
+        "державна зрада",
+        "суд"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e4bcbe45eb692b97",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-dnipri-legkovyk-zitknuvsya-z-vantazhivkoyu-zagynuly-chetvero-lyudej",
+      "title": "У Дніпрі легковик зіткнувся з вантажівкою: загинули четверо людей",
+      "published_at": "2026-10-31T21:42:04+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:42:04 +0000",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "У Дніпрі внаслідок зіткнення легкового автомобіля Hyundai з вантажівкою DAF загинули четверо людей, серед них одна дитина. Запис У Дніпрі легковик зіткнувся з вантажівкою: загинули четверо людей спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "дорожньо-транспортна пригода",
+        "ДТП",
+        "загиблі в ДТП"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e089a19fef77a3f8",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777684_dnipri_vnaslidok_zitknennya.html",
+      "title": "У Дніпрі внаслідок зіткнення легковика з вантажівкою загинули четверо людей, серед них дитина",
+      "published_at": "2026-10-31T21:39:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:39:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "На місці ДТП працювали рятувальники.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1019058bf693bc2e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/sevrskiy-protokol-1956-yak-britaniya-spalila-tayemnu-ugodu-z-izrajilem-i-franciyeyu-pro-napad-na-yegipet-50654593.html",
+      "title": "Таємна угода трьох. Як Британія намагалась знищити докази свого союзу з Ізраїлем і Францією проти Єгипту під час Суецької кризи",
+      "published_at": "2026-10-31T21:34:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:34:00 +0200",
+      "fetched_at": "2026-10-31T17:43:03+00:00",
+      "description": "У жовтні 1956 року представники трьох держав підписали під Парижем Севрський протокол – таємну угоду про напад на Єгипет. Коли прем’єр Великобританії Ентоні Іден побачив підпис свого представника на документі, він наказав знищити усі примірники. Адже це мала бути секретна усна домовленість.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "785744b05a57f685",
       "source_id": "map-875",
@@ -138,6 +428,27 @@
       "status": "new"
     },
     {
+      "id": "48bd9290459ef423",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-arhentyna-bank-galici-rahunky-hromadian-rosii/33888078.html",
+      "title": "Аргентинський банк Galicia почав блокувати рахунки громадян Росії",
+      "published_at": "2026-10-31T21:27:52+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:27:52 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "«Їм дозволяють знімати якісь мінімальні суми. Але офіційно нічого не говорять»",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини",
+        "Новини | Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "344ef57609ecdc24",
       "source_id": "map-940",
       "source": "Букви",
@@ -212,6 +523,25 @@
       "description": "",
       "categories": [
         "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a270fd34243d8608",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataki-rosiyskih-shahidiv-na-ukrajinu-flesh-rozpoviv-pro-masovani-ataki-za-hmarnoji-pogodi-50655205.html",
+      "title": "Флеш пояснив, чому окупанти знову почали запускати для атак по Україні десятки бензинових шахедів",
+      "published_at": "2026-10-31T21:18:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:18:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Через те, що в ніч з 31 жовтня на 1 листопада над Україною спостерігається суцільна хмарність, російські окупанти для масових атак використовують багато дронів-шахедів з бензиновим двигуном.",
+      "categories": [
+        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -451,7 +781,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://radiosvoboda.org/a/news-zelensky-zustrich-patriarh-varfolomiy/33888076.html",
-      "title": "Зеленський зустрівся із вселенським патріархом Варфоломієм",
+      "title": "Зеленський зустрівся із Вселенським патріархом Варфоломієм",
       "published_at": "2026-10-31T21:00:35+00:00",
       "published_raw": "Sat, 31 Oct 2026 23:00:35 +0200",
       "fetched_at": "2026-10-31T21:33:12+00:00",
@@ -5110,14 +5440,14 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/ti-dosi-nie-mozhiesh-spati-proidi-kviest-za-motivami-nierozkritogho-zlochinu-na-poltavshchini",
-      "title": "You Still Can't Sleep: Take an Interactive Halloween Quest Based on an Unsolved Crime in Poltava Region",
+      "title": "Ти досі не можеш спати: пройди квест за мотивами нерозкритого злочину на Полтавщині",
       "published_at": "2026-10-31T17:16:28+00:00",
       "published_raw": "Sat, 31 Oct 2026 17:16:28 GMT",
       "fetched_at": "2026-10-31T17:43:03+00:00",
-      "description": "For almost twenty years, you have crossed out the same night in your diary. This Halloween, an interactive quest asks whether you will stay silent or finally tell what you saw.",
+      "description": "Інтерактивний квест «Полтавської хвилі» за мотивами реальної нерозкритої справи з Полтавщини. Одна безсонна ніч, складні вибори і чотири фінали.",
       "categories": [
-        "Кримінал",
-        "Текст"
+        "Історія",
+        "Тексти"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12533,25 +12863,6 @@
       "description": "У понеділок, 2 листопада, Уповноважений ВР з прав людини Дмитро Лубінець проведе брифінг, під час якого розповість деталі української гуманітарної місії в тимчасово окуповані Олешки.",
       "categories": [
         "Суcпільcтво"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "1019058bf693bc2e",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/world/geopolitics/sevrskiy-protokol-1956-yak-britaniya-spalila-tayemnu-ugodu-z-izrajilem-i-franciyeyu-pro-napad-na-yegipet-50654593.html",
-      "title": "Таємна угода трьох. Як Британія намагалась знищити докази свого союзу з Ізраїлем і Францією проти Єгипту під час Суецької кризи",
-      "published_at": "2026-10-31T13:46:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 15:46:00 +0200",
-      "fetched_at": "2026-10-31T17:43:03+00:00",
-      "description": "У жовтні 1956 року представники трьох держав підписали під Парижем Севрський протокол – таємну угоду про напад на Єгипет. Коли прем’єр Великобританії Ентоні Іден побачив підпис свого представника на документі, він наказав знищити усі примірники. Адже це мала бути секретна усна домовленість.",
-      "categories": [
-        "Світ/Геополітика"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -21917,10 +22228,10 @@
       "description": "30 жовтня 2026 року у Слов’янську внаслідок російських ударів загинули двоє людей. Ще 16 цивільних дістали поранень: дванадцятеро — у Слов’янську та по двоє — у Краматорську та Дружківці.",
       "categories": [
         "Новини",
-        "Новини Лиманської громади",
-        "Новини Дружківської громади",
-        "Новини Краматорської громади",
-        "Новини Слов’янської громади"
+        "Новини Слов’янської громади",
+        "Новини Олександрівської громади",
+        "Новини Костянтинівської громади",
+        "Новини Лиманської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -31840,6 +32151,12 @@
       "at": "2026-10-31T21:33:12+00:00",
       "fetched": 1169,
       "added": 220,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-01T01:09:04+00:00",
+      "fetched": 1130,
+      "added": 16,
       "errors": 3
     }
   ]
