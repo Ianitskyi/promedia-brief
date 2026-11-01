@@ -2,7 +2,7 @@
   "version": 1,
   "source": "https://map.detector.media/",
   "edition": "H1 2026",
-  "snapshot_on": "2026-10-21",
+  "snapshot_on": "2026-11-01",
   "count": 305,
   "note": "Знімок офіційної Мапи рекомендованих медіа. Не редагувати вручну: оновлюється `python -m brief registry`.",
   "media": [
@@ -18,7 +18,7 @@
         "https://18000.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -34,7 +34,7 @@
         "https://zmi.ck.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -48,13 +48,9 @@
       "region": "cherkasy",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 467,
@@ -66,13 +62,9 @@
       "region": "cherkasy",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/cherkasy-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 276,
@@ -84,7 +76,7 @@
       "region": "cherkasy",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -98,8 +90,8 @@
       "region": "chernihiv",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.0462.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.0462.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -112,7 +104,7 @@
       "region": "chernihiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -132,9 +124,13 @@
         "https://vestgazeta.com.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 873,
@@ -148,7 +144,7 @@
         "https://mena.org.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -161,14 +157,10 @@
       "map_region": "Чернігівська обл.",
       "region": "chernihiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/chernihiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 424,
@@ -179,14 +171,10 @@
       "map_region": "Чернігівська обл.",
       "region": "chernihiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/chernihiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 1184,
@@ -198,7 +186,7 @@
       "region": "chernihiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -214,7 +202,7 @@
         "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -230,7 +218,7 @@
         "https://cntime.cn.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -246,7 +234,7 @@
         "https://acc.cv.ua/news/feed.rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -262,7 +250,7 @@
         "https://molbuk.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -276,7 +264,7 @@
       "region": "chernivtsi",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -292,7 +280,7 @@
         "https://c4.com.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -306,8 +294,8 @@
       "region": "chernivtsi",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.0372.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.0372.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -319,14 +307,10 @@
       "map_region": "Чернівецька обл.",
       "region": "chernivtsi",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/chernivtsi-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 468,
@@ -337,14 +321,10 @@
       "map_region": "Чернівецька обл.",
       "region": "chernivtsi",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/chernivtsi-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 1095,
@@ -356,7 +336,7 @@
       "region": "chernivtsi",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -370,7 +350,7 @@
       "region": "chernivtsi",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -386,7 +366,7 @@
         "https://shpalta.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -400,7 +380,7 @@
       "region": "crimea",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -416,7 +396,7 @@
         "https://www.voicecrimea.com.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -432,7 +412,7 @@
         "https://ua.krymr.com/api/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -445,14 +425,10 @@
       "map_region": "АР Крим",
       "region": "crimea",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/crimea/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 615,
@@ -463,14 +439,10 @@
       "map_region": "АР Крим",
       "region": "crimea",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/crimea/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 336,
@@ -484,7 +456,7 @@
         "https://1kr.ua/rss/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -497,10 +469,10 @@
       "map_region": "Дніпропетровська обл.",
       "region": "dnipropetrovsk",
       "feeds": [
-        "https://www.dnipro.media/feed/?post_type=novyny_dnipro"
+        "https://www.dnipro.media/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -516,7 +488,7 @@
         "https://vilnohirsk.in.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -528,10 +500,12 @@
       "scope": "Регіональний",
       "map_region": "Дніпропетровська обл.",
       "region": "dnipropetrovsk",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://zhovtivody.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -546,11 +520,12 @@
         "https://mistorichka.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {
         "search": "yes",
-        "ai-train": "no"
+        "ai-train": "no",
+        "use": "reference"
       }
     },
     {
@@ -565,7 +540,7 @@
         "https://www.prikhist.com/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -579,13 +554,9 @@
       "region": "dnipropetrovsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 427,
@@ -597,13 +568,9 @@
       "region": "dnipropetrovsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/dnipropetrovsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 234,
@@ -615,7 +582,7 @@
       "region": "dnipropetrovsk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -629,8 +596,8 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.0629.com.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.0629.com.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -643,8 +610,8 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.62.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.62.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -657,8 +624,8 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.6262.com.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.6262.com.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -671,8 +638,8 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.kramatorskpost.com/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.kramatorskpost.com/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -687,7 +654,7 @@
         "https://acmc.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -703,7 +670,7 @@
         "https://bahmut.in.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -719,7 +686,7 @@
         "https://vchasnoua.com/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -735,7 +702,7 @@
         "https://vchasno.news/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -751,7 +718,7 @@
         "https://freeradio.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -765,7 +732,7 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -781,7 +748,7 @@
         "https://novosti.dn.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {
         "search": "yes",
@@ -801,7 +768,7 @@
         "https://www.ostro.org/rssfeed/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -815,13 +782,9 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 397,
@@ -835,7 +798,7 @@
         "https://v-variant.com.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -849,13 +812,9 @@
       "region": "donetsk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 1114,
@@ -869,7 +828,7 @@
         "https://kl.informator.ua/uk/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -883,7 +842,7 @@
       "region": "ivano-frankivsk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -899,7 +858,7 @@
         "https://galka.if.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -915,7 +874,7 @@
         "https://kurs.if.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -931,7 +890,7 @@
         "https://pik.net.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -947,7 +906,7 @@
         "https://rai.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -959,12 +918,10 @@
       "scope": "Регіональний",
       "map_region": "Івано-Франківська обл.",
       "region": "ivano-frankivsk",
-      "feeds": [
-        "https://report.if.ua/feed/"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://report.if.ua/: HTTP 429 <!DOCTYPE HTML>\n<!--\n    Copyright (c) 2025, eQualit.ie inc.\n    All rights reserved.\n\n    This source code is licensed under the BSD-style license found in the\n    LICENSE file in the root directory of this source tree.\n-->\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; chars",
       "content_signals": {}
     },
     {
@@ -976,10 +933,14 @@
       "map_region": "Івано-Франківська обл.",
       "region": "ivano-frankivsk",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {}
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/ivano-frankivsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
     },
     {
       "map_id": 437,
@@ -990,10 +951,14 @@
       "map_region": "Івано-Франківська обл.",
       "region": "ivano-frankivsk",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {}
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/ivano-frankivsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
     },
     {
       "map_id": 244,
@@ -1005,7 +970,7 @@
       "region": "ivano-frankivsk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1019,7 +984,7 @@
       "region": "ivano-frankivsk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1035,7 +1000,7 @@
         "https://2day.kh.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1047,12 +1012,10 @@
       "scope": "Регіональний",
       "map_region": "Харківська обл.",
       "region": "kharkiv",
-      "feeds": [
-        "https://mediaport.ua/feed/"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://mediaport.ua/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -1067,7 +1030,7 @@
         "https://gwaramedia.com/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1083,7 +1046,7 @@
         "https://api.gromada.group/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1095,10 +1058,12 @@
       "scope": "Регіональний",
       "map_region": "Харківська обл.",
       "region": "kharkiv",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://kupiansk.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1111,7 +1076,7 @@
       "region": "kharkiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -1127,7 +1092,7 @@
         "https://nakypilo.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1143,7 +1108,7 @@
         "https://www.objectiv.tv/uk/feed/gn"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1159,7 +1124,7 @@
         "https://obrii.com.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1175,7 +1140,7 @@
         "https://radio.nakypilo.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1189,8 +1154,8 @@
       "region": "kharkiv",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.057.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.057.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -1205,7 +1170,7 @@
         "https://www.slk.kh.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1219,7 +1184,7 @@
       "region": "kharkiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1232,14 +1197,10 @@
       "map_region": "Харківська обл.",
       "region": "kharkiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/kharkiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 462,
@@ -1250,14 +1211,10 @@
       "map_region": "Харківська обл.",
       "region": "kharkiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/kharkiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 272,
@@ -1269,7 +1226,7 @@
       "region": "kharkiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1285,7 +1242,7 @@
         "https://times.kharkiv.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1301,7 +1258,7 @@
         "https://bilozerka.info/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1317,7 +1274,7 @@
         "https://ipc.org.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1333,7 +1290,7 @@
         "https://vgoru.org/rss-google.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1349,7 +1306,7 @@
         "https://grivna.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1365,7 +1322,7 @@
         "https://most.ks.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1379,7 +1336,7 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -1397,8 +1354,8 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://henichesk.rayon.in.ua/rayon.henichesk: HTTP 404",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://henichesk.rayon.in.ua/rayon.henichesk: HTTP 404 <!DOCTYPE html>\n<html lang=\"uk\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:[\"bam.eu01.nr-data.net\"]},feature_flags:[\"rum_v2\"],distributed_tr",
       "content_signals": {
         "search": "yes",
         "ai-input": "no",
@@ -1415,7 +1372,7 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -1433,7 +1390,7 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -1451,7 +1408,7 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -1469,7 +1426,7 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -1483,13 +1440,9 @@
       "region": "kherson",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "content_signals": {}
     },
     {
       "map_id": 593,
@@ -1503,7 +1456,7 @@
         "https://ye.ua/rss/news.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1515,10 +1468,12 @@
       "scope": "Регіональний",
       "map_region": "Хмельницька обл.",
       "region": "khmelnytskyi",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://horodok.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1533,7 +1488,7 @@
         "https://zhar.org.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1547,8 +1502,8 @@
       "region": "khmelnytskyi",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -1565,8 +1520,8 @@
       "region": "khmelnytskyi",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/khmelnytsky-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -1583,7 +1538,7 @@
       "region": "khmelnytskyi",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1599,7 +1554,7 @@
         "https://cbn.com.ua/ukr-net-feed-rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1615,7 +1570,7 @@
         "https://www.kypur.net/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1627,10 +1582,12 @@
       "scope": "Регіональний",
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://vk.kr.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1643,8 +1600,8 @@
       "region": "kirovohrad",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://gre4ka.info/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://gre4ka.info/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -1655,10 +1612,12 @@
       "scope": "Регіональний",
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://dostyp.com.ua/rss.xml"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1669,10 +1628,12 @@
       "scope": "Регіональний",
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://znamyanka.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1687,7 +1648,7 @@
         "https://persha.kr.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1701,8 +1662,8 @@
       "region": "kirovohrad",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://oleksandrivka.rayon.in.ua/rayon.oleksandrivka: HTTP 404",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://oleksandrivka.rayon.in.ua/rayon.oleksandrivka: HTTP 404 <!DOCTYPE html>\n<html lang=\"uk\">\n<head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:[\"bam.eu01.nr-data.net\"]},feature_flags:[\"rum_v2\"],distributed_tr",
       "content_signals": {
         "search": "yes",
         "ai-input": "no",
@@ -1718,9 +1679,9 @@
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/kirovohrad-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -1736,9 +1697,9 @@
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/kirovohrad-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -1755,7 +1716,7 @@
       "region": "kirovohrad",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1767,10 +1728,12 @@
       "scope": "Регіональний",
       "map_region": "Кіровоградська обл.",
       "region": "kirovohrad",
-      "feeds": [],
-      "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://format.kr.ua/: HTTP 403",
+      "feeds": [
+        "https://format.kr.ua/feed/"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -1785,7 +1748,7 @@
         "https://shotam.info/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1801,7 +1764,7 @@
         "https://ain.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1815,7 +1778,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1829,7 +1792,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1843,7 +1806,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1857,7 +1820,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1873,7 +1836,7 @@
         "https://militarnyi.com/uk/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1885,12 +1848,10 @@
       "scope": "Національний",
       "map_region": "Київська обл.",
       "region": "kyiv",
-      "feeds": [
-        "https://s.mind.ua/rss/ua/all.xml"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://mind.ua/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -1905,7 +1866,7 @@
         "https://mistosite.org.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1921,7 +1882,7 @@
         "https://nv.ua/ukr/rss/all.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1935,7 +1896,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -1951,7 +1912,7 @@
         "https://speka.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1967,7 +1928,7 @@
         "https://thebuchacity.com/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1983,7 +1944,7 @@
         "https://interfax.com.ua/news/last.rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -1999,7 +1960,7 @@
         "https://bukvy.org/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2013,8 +1974,8 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://vechirniy.kyiv.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://vechirniy.kyiv.ua/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -2029,7 +1990,7 @@
         "https://vchysia.media/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2043,7 +2004,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2055,12 +2016,10 @@
       "scope": "Регіональний",
       "map_region": "Київська обл.",
       "region": "kyiv",
-      "feeds": [
-        "https://bc.espreso.tv/rss"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://bc.espreso.tv/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -2075,7 +2034,7 @@
         "https://krv.media/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2089,8 +2048,8 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://nzl.theukrainians.org/: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://nzl.theukrainians.org/: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)",
       "content_signals": {}
     },
     {
@@ -2105,7 +2064,7 @@
         "https://nus.org.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2121,7 +2080,7 @@
         "https://novynarnia.com/feed/rss/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2133,10 +2092,12 @@
       "scope": "Регіональний",
       "map_region": "Київська обл.",
       "region": "kyiv",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://pereiaslav.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -2151,7 +2112,7 @@
         "https://suspilne.media/rss/all.rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2167,7 +2128,7 @@
         "https://www.radiosvoboda.org/api/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2183,9 +2144,13 @@
         "https://rubryka.com/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 370,
@@ -2199,13 +2164,9 @@
         "https://suspilne.media/rss/all.rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "content_signals": {}
     },
     {
       "map_id": 701,
@@ -2219,7 +2180,7 @@
         "https://texty.org.ua/articles/feed.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2233,7 +2194,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2247,7 +2208,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2263,7 +2224,7 @@
         "https://tyzhden.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2275,10 +2236,12 @@
       "scope": "Регіональний",
       "map_region": "Київська обл.",
       "region": "kyiv",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://fastivnews.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -2291,7 +2254,7 @@
       "region": "kyiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -2307,7 +2270,7 @@
         "https://graty.me/rss/all"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2323,7 +2286,7 @@
         "https://irtafax.com/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2339,7 +2302,7 @@
         "https://realgazeta.com.ua/news-archive/rss/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2353,13 +2316,9 @@
       "region": "luhansk",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/donetsk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 581,
@@ -2371,8 +2330,8 @@
       "region": "luhansk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://sd.ua/: HTTP 429",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://sd.ua/: HTTP 429 <!DOCTYPE HTML>\n<!--\n    Copyright (c) 2025, eQualit.ie inc.\n    All rights reserved.\n\n    This source code is licensed under the BSD-style license found in the\n    LICENSE file in the root directory of this source tree.\n-->\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; chars",
       "content_signals": {}
     },
     {
@@ -2385,7 +2344,7 @@
       "region": "luhansk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2397,12 +2356,10 @@
       "scope": "Регіональний",
       "map_region": "Луганська обл.",
       "region": "luhansk",
-      "feeds": [
-        "https://suspilne.media/rss/all.rss"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/luhansk-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -2421,7 +2378,7 @@
         "https://cxid.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2435,7 +2392,7 @@
       "region": "luhansk",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2451,7 +2408,7 @@
         "https://farvatermedia.com/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {
         "search": "yes",
@@ -2471,7 +2428,7 @@
         "https://ngl.media/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2487,7 +2444,7 @@
         "https://zaxid.net/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2503,7 +2460,7 @@
         "https://dyvys.info/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2515,10 +2472,12 @@
       "scope": "Регіональний",
       "map_region": "Львівська обл.",
       "region": "lviv",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://drohobych.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -2531,7 +2490,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2547,7 +2506,7 @@
         "https://portal.lviv.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2561,7 +2520,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -2575,7 +2534,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -2593,7 +2552,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -2611,7 +2570,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -2627,12 +2586,10 @@
       "scope": "Регіональний",
       "map_region": "Львівська обл.",
       "region": "lviv",
-      "feeds": [
-        "https://sykhiv.media/feed"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://sykhiv.media/: HTTP 429 <!DOCTYPE HTML>\n<!--\n    Copyright (c) 2025, eQualit.ie inc.\n    All rights reserved.\n\n    This source code is licensed under the BSD-style license found in the\n    LICENSE file in the root directory of this source tree.\n-->\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; chars",
       "content_signals": {}
     },
     {
@@ -2644,9 +2601,9 @@
       "map_region": "Львівська обл.",
       "region": "lviv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/lviv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -2665,7 +2622,7 @@
         "https://tvoemisto.tv/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2678,9 +2635,9 @@
       "map_region": "Львівська обл.",
       "region": "lviv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/lviv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -2697,7 +2654,7 @@
       "region": "lviv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2711,8 +2668,8 @@
       "region": "mykolaiv",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.0512.com.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.0512.com.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -2725,7 +2682,7 @@
       "region": "mykolaiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -2737,10 +2694,12 @@
       "scope": "Регіональний",
       "map_region": "Миколаївська обл.",
       "region": "mykolaiv",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://thegard.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -2751,12 +2710,10 @@
       "scope": "Регіональний",
       "map_region": "Миколаївська обл.",
       "region": "mykolaiv",
-      "feeds": [
-        "https://nikvesti.com/rss.xml"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://nikvesti.com/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "search": "yes",
         "ai-train": "no"
@@ -2772,7 +2729,7 @@
       "region": "mykolaiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -2790,7 +2747,7 @@
       "region": "mykolaiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -2807,9 +2764,9 @@
       "map_region": "Миколаївська обл.",
       "region": "mykolaiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/mykolaiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -2825,9 +2782,9 @@
       "map_region": "Миколаївська обл.",
       "region": "mykolaiv",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/mykolaiv-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -2844,7 +2801,7 @@
       "region": "mykolaiv",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -2860,7 +2817,7 @@
         "https://informer.od.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2872,12 +2829,10 @@
       "scope": "Регіональний",
       "map_region": "Одеська обл.",
       "region": "odesa",
-      "feeds": [
-        "https://odessa.online/feed"
-      ],
-      "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
-      "notes": "",
+      "feeds": [],
+      "feed_status": "not-found",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://odessa.online/: HTTP 429 <!DOCTYPE HTML>\n<!--\n    Copyright (c) 2025, eQualit.ie inc.\n    All rights reserved.\n\n    This source code is licensed under the BSD-style license found in the\n    LICENSE file in the root directory of this source tree.\n-->\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; chars",
       "content_signals": {}
     },
     {
@@ -2892,7 +2847,7 @@
         "https://intent.press/rss/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2908,7 +2863,7 @@
         "https://anticorruption-vymir.com.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2920,10 +2875,12 @@
       "scope": "Регіональний",
       "map_region": "Одеська обл.",
       "region": "odesa",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://bilyayivka.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -2938,7 +2895,7 @@
         "https://mahala.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2954,9 +2911,13 @@
         "https://moreliudei.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 902,
@@ -2970,7 +2931,7 @@
         "https://odessa-life.od.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -2984,7 +2945,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3002,7 +2963,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3020,7 +2981,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3038,7 +2999,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3056,7 +3017,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3074,7 +3035,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3092,7 +3053,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3110,7 +3071,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "ai-train": "no",
@@ -3128,7 +3089,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "ai-train": "no",
@@ -3146,7 +3107,7 @@
       "region": "odesa",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3162,7 +3123,7 @@
         "https://cpi.org.ua/rss/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3176,7 +3137,7 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3190,8 +3151,8 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://kg.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://kg.ua/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -3206,7 +3167,7 @@
         "https://www.telegraf.in.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3222,7 +3183,7 @@
         "https://mediadokaz.pl.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3238,7 +3199,7 @@
         "https://www.dumka.poltava.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3254,7 +3215,7 @@
         "https://poltavawave.com.ua/news-archive/rss/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3268,7 +3229,7 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3286,9 +3247,13 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
-      "content_signals": {}
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
     },
     {
       "map_id": 456,
@@ -3300,9 +3265,13 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
-      "content_signals": {}
+      "content_signals": {
+        "ai-train": "no",
+        "search": "yes",
+        "ai-input": "yes"
+      }
     },
     {
       "map_id": 1249,
@@ -3316,7 +3285,7 @@
         "https://www.upoltavi.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3330,7 +3299,7 @@
       "region": "poltava",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3346,7 +3315,7 @@
         "https://horyn.info/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3362,7 +3331,7 @@
         "https://polissia.news/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3376,7 +3345,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3394,7 +3363,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -3408,7 +3377,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3426,7 +3395,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3444,7 +3413,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3462,7 +3431,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3480,7 +3449,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3498,7 +3467,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3516,8 +3485,8 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -3534,8 +3503,8 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/rivne-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -3552,7 +3521,7 @@
       "region": "rivne",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3566,7 +3535,7 @@
       "region": "sumy",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3580,7 +3549,7 @@
       "region": "sumy",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -3600,7 +3569,7 @@
         "https://vorskla1930.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3612,10 +3581,12 @@
       "scope": "Регіональний",
       "map_region": "Сумська обл.",
       "region": "sumy",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://hlukhiv.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -3630,9 +3601,13 @@
         "https://kordon.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 879,
@@ -3646,7 +3621,7 @@
         "https://mezha.city/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3662,7 +3637,7 @@
         "https://rama.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3678,7 +3653,7 @@
         "https://svesa.online/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3694,7 +3669,7 @@
         "https://buda.city/?feed=rss2"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3707,14 +3682,10 @@
       "map_region": "Сумська обл.",
       "region": "sumy",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/sumy-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 458,
@@ -3725,14 +3696,10 @@
       "map_region": "Сумська обл.",
       "region": "sumy",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/sumy-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 671,
@@ -3746,7 +3713,7 @@
         "https://trybuna.sumy.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3760,7 +3727,7 @@
       "region": "sumy",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3776,7 +3743,7 @@
         "https://hlukhiv.media/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3792,7 +3759,7 @@
         "https://hutir.news/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3808,7 +3775,7 @@
         "https://cukr.city/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3824,7 +3791,7 @@
         "https://www.yampil.info/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3840,7 +3807,7 @@
         "https://te.20minut.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3853,9 +3820,9 @@
       "map_region": "Тернопільська обл.",
       "region": "ternopil",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/ternopil-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -3871,9 +3838,9 @@
       "map_region": "Тернопільська обл.",
       "region": "ternopil",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/ternopil-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -3890,7 +3857,7 @@
       "region": "ternopil",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3906,7 +3873,7 @@
         "https://vn.20minut.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -3920,7 +3887,7 @@
       "region": "vinnytsia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3932,10 +3899,12 @@
       "scope": "Регіональний",
       "map_region": "Вінницька обл.",
       "region": "vinnytsia",
-      "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feeds": [
+        "https://barnews.city/rss"
+      ],
+      "feed_status": "active",
+      "feed_checked_on": "2026-11-01",
+      "notes": "",
       "content_signals": {}
     },
     {
@@ -3948,8 +3917,8 @@
       "region": "vinnytsia",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://vinnitsa.info/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://vinnitsa.info/: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scal",
       "content_signals": {}
     },
     {
@@ -3962,7 +3931,7 @@
       "region": "vinnytsia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -3975,9 +3944,9 @@
       "map_region": "Вінницька обл.",
       "region": "vinnytsia",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/vinnytsia-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -3994,7 +3963,7 @@
       "region": "vinnytsia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4008,7 +3977,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4022,7 +3991,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no website on the map",
       "content_signals": {}
     },
@@ -4038,7 +4007,7 @@
         "https://volynonline.com/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4052,7 +4021,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4072,9 +4041,13 @@
         "https://novezittya.com.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 768,
@@ -4086,7 +4059,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4104,7 +4077,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4124,7 +4097,7 @@
         "https://static.rayon.in.ua/rss/rayon/map.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {
         "search": "yes",
@@ -4142,7 +4115,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4160,7 +4133,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4178,7 +4151,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4196,7 +4169,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4214,7 +4187,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4232,7 +4205,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4250,7 +4223,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4268,7 +4241,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4286,7 +4259,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4304,7 +4277,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4322,7 +4295,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4340,7 +4313,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4358,7 +4331,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4376,7 +4349,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4394,7 +4367,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4412,7 +4385,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4430,7 +4403,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4448,7 +4421,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4466,7 +4439,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4486,7 +4459,7 @@
         "https://sylapravdy.com/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4499,14 +4472,10 @@
       "map_region": "Волинська обл.",
       "region": "volyn",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/volyn-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 420,
@@ -4517,14 +4486,10 @@
       "map_region": "Волинська обл.",
       "region": "volyn",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/volyn-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
+      "content_signals": {}
     },
     {
       "map_id": 232,
@@ -4536,7 +4501,7 @@
       "region": "volyn",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4552,7 +4517,7 @@
         "https://pmg.ua/rss"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4568,9 +4533,13 @@
         "https://varosh.com.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 957,
@@ -4584,7 +4553,7 @@
         "https://zaholovok.com.ua/rss.xml"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4598,7 +4567,7 @@
       "region": "zakarpattia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4616,7 +4585,7 @@
       "region": "zakarpattia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "search": "yes",
@@ -4634,13 +4603,9 @@
       "region": "zakarpattia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "content_signals": {}
     },
     {
       "map_id": 431,
@@ -4652,13 +4617,9 @@
       "region": "zakarpattia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
-      "content_signals": {
-        "ai-train": "no",
-        "search": "yes",
-        "ai-input": "yes"
-      }
+      "content_signals": {}
     },
     {
       "map_id": 240,
@@ -4670,7 +4631,7 @@
       "region": "zakarpattia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4684,8 +4645,8 @@
       "region": "zaporizhzhia",
       "feeds": [],
       "feed_status": "blocked",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.061.ua/: HTTP 403",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.061.ua/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {}
     },
     {
@@ -4700,7 +4661,7 @@
         "https://www.inform.zp.ua/uk/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4716,7 +4677,7 @@
         "https://www.soda.zp.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4732,7 +4693,7 @@
         "https://www.brd24.com/rss-news"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4748,7 +4709,7 @@
         "https://vidbudova.zp.ua/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4764,7 +4725,7 @@
         "https://incentre.zp.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4780,9 +4741,13 @@
         "https://lokatormedia.online/feed/"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
-      "content_signals": {}
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      }
     },
     {
       "map_id": 931,
@@ -4796,7 +4761,7 @@
         "https://1news.zp.ua/feed"
       ],
       "feed_status": "active",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "",
       "content_signals": {}
     },
@@ -4810,7 +4775,7 @@
       "region": "zaporizhzhia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4824,7 +4789,7 @@
       "region": "zaporizhzhia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "ai-train": "no",
@@ -4842,7 +4807,7 @@
       "region": "zaporizhzhia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {
         "ai-train": "no",
@@ -4860,7 +4825,7 @@
       "region": "zaporizhzhia",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     },
@@ -4874,8 +4839,8 @@
       "region": "zhytomyr",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "website: https://www.zhitomir.info/: HTTP 429",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://www.zhitomir.info/: HTTP 429 <!DOCTYPE HTML>\n<!--\n    Copyright (c) 2025, eQualit.ie inc.\n    All rights reserved.\n\n    This source code is licensed under the BSD-style license found in the\n    LICENSE file in the root directory of this source tree.\n-->\n<html>\n<head>\n    <meta http-equiv=\"content-type\" content=\"text/html; chars",
       "content_signals": {}
     },
     {
@@ -4887,9 +4852,9 @@
       "map_region": "Житомирська обл.",
       "region": "zhytomyr",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/zhytomyr-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -4905,9 +4870,9 @@
       "map_region": "Житомирська обл.",
       "region": "zhytomyr",
       "feeds": [],
-      "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
-      "notes": "no public feed found",
+      "feed_status": "blocked",
+      "feed_checked_on": "2026-11-01",
+      "notes": "website: https://suspilne.media/regions/zhytomyr-region/: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!",
       "content_signals": {
         "ai-train": "no",
         "search": "yes",
@@ -4924,7 +4889,7 @@
       "region": "zhytomyr",
       "feeds": [],
       "feed_status": "not-found",
-      "feed_checked_on": "2026-10-21",
+      "feed_checked_on": "2026-11-01",
       "notes": "no public feed found",
       "content_signals": {}
     }
