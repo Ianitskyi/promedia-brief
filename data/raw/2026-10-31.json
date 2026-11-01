@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-11-01T07:31:37+00:00",
-  "source_count": 103,
-  "item_count": 1624,
+  "generated_at": "2026-11-01T15:07:10+00:00",
+  "source_count": 105,
+  "item_count": 1649,
   "items": [
     {
       "id": "5e35dee61d752e2c",
@@ -11,7 +11,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://lb.ua/society/2026/10/31/777690_golovne_subotu_31_zhovtnya_ataka.html",
-      "title": "Головне за суботу, 31 жовтня: атака дронів на Київ, евакуація з Олешок, 245 боєзіткнень",
+      "title": "Головне за суботу, 31 жовтня: атака дронів на Київ, евакуація з Олешків, 245 боєзіткнень",
       "published_at": "2026-10-31T21:58:00+00:00",
       "published_raw": "Sat, 31 Oct 2026 23:58:00 +0200",
       "fetched_at": "2026-11-01T01:09:04+00:00",
@@ -1304,6 +1304,23 @@
       "status": "new"
     },
     {
+      "id": "74d65370c32f303d",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/polk_aydar_zaklikav_zelenskogo_ta_drapatogo_ne_zvilnyati_geroya_ukrayini_z_posadi_komandira_n1649128",
+      "title": "Полк «Айдар» закликав Зеленського та Драпатого не звільняти Героя України з посади командира",
+      "published_at": "2026-10-31T20:31:00+00:00",
+      "published_raw": "2026-10-31T20:31:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Полк «Айдар» закликав Зеленського та Драпатого не звільняти Героя України з посади командира]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7d5d5c638d8d9f0c",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1848,6 +1865,23 @@
       "categories": [
         "Новини Чернівців"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "79edb5f8b44c4001",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/marko_rubio_dopustiv_zaproshennya_volodimira_zelenskogo_na_samit_g20_u_mayami_n1649127",
+      "title": "Марко Рубіо допустив запрошення Володимира Зеленського на саміт G20 у Маямі",
+      "published_at": "2026-10-31T19:54:40+00:00",
+      "published_raw": "2026-10-31T19:54:40Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Марко Рубіо допустив запрошення Володимира Зеленського на саміт G20 у Маямі]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3148,6 +3182,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb5f03812dded14c",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/prezident_finlyandiyi_peredav_putinu_signal_vid_zelenskogo_shhodo_teritorialnogo_pitannya_n1649126",
+      "title": "Президент Фінляндії передав Путіну сигнал від Зеленського щодо територіального питання",
+      "published_at": "2026-10-31T18:43:00+00:00",
+      "published_raw": "2026-10-31T18:43:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Президент Фінляндії передав Путіну сигнал від Зеленського щодо територіального питання]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4862,6 +4913,23 @@
       "status": "new"
     },
     {
+      "id": "12f87a9fc50db9d3",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/lvivskogo_provokatora_ostapa_stahiva_zatrimali_na_vulitsi__n1649123",
+      "title": "Група оповіщення ТЦК з поліцією затримали львівського провокатора Остапа Стахіва",
+      "published_at": "2026-10-31T17:40:00+00:00",
+      "published_raw": "2026-10-31T17:40:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Група оповіщення ТЦК з поліцією затримали львівського провокатора Остапа Стахіва]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0357d8768bf50f4b",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -5149,6 +5217,23 @@
       "status": "new"
     },
     {
+      "id": "23554a94228d658b",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_lvovi_zapalili_sotni_lampadok_na_mogilah_poleglih_geroyiv_foto_dnya_n1649125",
+      "title": "У Львові запалили сотні лампадок на могилах полеглих Героїв. Фото дня",
+      "published_at": "2026-10-31T17:28:58+00:00",
+      "published_raw": "2026-10-31T17:28:58Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У Львові запалили сотні лампадок на могилах полеглих Героїв. Фото дня ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "94f12d6a149e2cd7",
       "source_id": "map-664",
       "source": "Курс",
@@ -5415,6 +5500,23 @@
       "status": "new"
     },
     {
+      "id": "e5094698241fd2bd",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/volodimir_zelenskiy_ta_tayip_erdogan_spilno_pratsyuvatimut_nad_zernovim_koridorom_u_chornomu_mori_n1649124",
+      "title": "Зеленський та Ердоган домовилися спільно працювати над зерновим коридором у Чорному морі",
+      "published_at": "2026-10-31T17:18:00+00:00",
+      "published_raw": "2026-10-31T17:18:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Зеленський та Ердоган домовилися спільно працювати над зерновим коридором у Чорному морі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2571e0dc1a601ed9",
       "source_id": "map-302",
       "source": "18000",
@@ -5551,9 +5653,9 @@
       "categories": [
         "Суспільство",
         "Культура",
-        "виставка",
         "Краєзнавчий музей",
-        "війна"
+        "війна",
+        "виставка"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -7293,6 +7395,23 @@
       "status": "new"
     },
     {
+      "id": "22f0fa3da12cf28e",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sili_ppo_zbili_udarniy_bezpilotnik_na_lvivshhini_n1649122",
+      "title": "Сили ППО збили ударний безпілотник на Львівщині",
+      "published_at": "2026-10-31T16:28:07+00:00",
+      "published_raw": "2026-10-31T16:28:07Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Сили ППО збили ударний безпілотник на Львівщині]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "094158a82d9bcc0c",
       "source_id": "map-586",
       "source": "Вгору",
@@ -7618,6 +7737,23 @@
         "Війна росії проти України",
         "Україна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e294187e876dde8",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/ministr_mzs_velikoyi_britaniyi_publichno_priniziv_lavrova_na_samiti_u_ssha_n1649121",
+      "title": "Очільник МЗС Великої Британії публічно принизив Сєргєя Лаврова на саміті у США",
+      "published_at": "2026-10-31T16:16:00+00:00",
+      "published_raw": "2026-10-31T16:16:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Очільник МЗС Великої Британії публічно принизив Сєргєя Лаврова на саміті у США]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9243,6 +9379,23 @@
       "status": "new"
     },
     {
+      "id": "395fb523333c4d35",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/kapitan_alyansu_zi_lvova_stav_pershim_gravtsem_komandi_yakogo_viklikano_do_zbirnoyi_z_futzalu_n1649120",
+      "title": "Капітан «Альянсу» зі Львова стане першим гравцем команди, що зіграє за збірну України з футзалу",
+      "published_at": "2026-10-31T15:31:00+00:00",
+      "published_raw": "2026-10-31T15:31:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Капітан «Альянсу» зі Львова стане першим гравцем команди, що зіграє за збірну України з футзалу]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e2cf2ecb6fa2297c",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -9876,7 +10029,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/pivnichna-ameryka/273543-sud-u-ssha-zaboronyv-administratsiyi-trampa-tysk-na-chleniv-vyborchykh-komisiy",
-      "title": "Суд у США заборонив адміністрації Трампа тиск на членів виборчих комісій",
+      "title": "Суд у США заборонив адміністрації Трампа чинити тиск на членів виборчих комісій",
       "published_at": "2026-10-31T15:11:00+00:00",
       "published_raw": "2026-10-31T17:11:00+02:00",
       "fetched_at": "2026-10-31T17:43:03+00:00",
@@ -10703,6 +10856,23 @@
       "status": "new"
     },
     {
+      "id": "d756835a6f2f1e56",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_seli_na_prikarpatti_rozsliduyut_narugu_nad_desyatkami_mogil_viyskovih_n1649119",
+      "title": "У селі на Прикарпатті розслідують наругу над десятками могил військових",
+      "published_at": "2026-10-31T14:50:24+00:00",
+      "published_raw": "2026-10-31T14:50:24Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У селі на Прикарпатті розслідують наругу над десятками могил військових]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "47025b4e9b556dcc",
       "source_id": "map-1147",
       "source": "ПІК",
@@ -11158,6 +11328,23 @@
       "categories": [
         "Технології"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "16f1b9ca94701bff",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/poperedu_morozna_nich_yakoyu_bude_pogoda_u_lvovi_ta_oblasti_1_listopada_n1649118",
+      "title": "Попереду морозна ніч: якою буде погода у Львові та області 1 листопада",
+      "published_at": "2026-10-31T14:38:03+00:00",
+      "published_raw": "2026-10-31T14:38:03Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Попереду морозна ніч: якою буде погода у Львові та області 1 листопада]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13852,6 +14039,23 @@
       "status": "new"
     },
     {
+      "id": "b7454bd29bf5f4c2",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/zhiteli_okupovanih_oleshkiv_pribuli_do_ukrayini_n1649117",
+      "title": "Жителі Олешок прибули на неокуповану територію України",
+      "published_at": "2026-10-31T13:15:00+00:00",
+      "published_raw": "2026-10-31T13:15:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Жителі Олешок прибули на неокуповану територію України]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "20eb47c7350bb2c9",
       "source_id": "map-1154",
       "source": "Bilozerka.info",
@@ -14578,6 +14782,23 @@
       "status": "new"
     },
     {
+      "id": "03776f25cf790788",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/deputati_vid_opzzh_u_kiyivradi_aktivnishe_golosuyut_za_zemlyu_ta_byudzhet_nizh_za_derusifikatsiyu_n1649114",
+      "title": "Депутати від ОПЗЖ у Київраді активніше голосують за землю та бюджет, ніж за дерусифікацію",
+      "published_at": "2026-10-31T12:59:00+00:00",
+      "published_raw": "2026-10-31T12:59:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Депутати від ОПЗЖ у Київраді активніше голосують за землю та бюджет, ніж за дерусифікацію]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d1b8c0cdac5ff483",
       "source_id": "map-588",
       "source": "Накипіло",
@@ -14609,6 +14830,26 @@
       "fetched_at": "2026-10-31T17:43:03+00:00",
       "description": "",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f5065a35b8a6307b",
+      "source_id": "map-413",
+      "source": "Полтавська хвиля",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://poltavawave.com.ua/iak-zhivut-poltavtsi-na-stipiendiiu-piensiiu-ta-minimalnu-zarplatu",
+      "title": "Як живуть полтавці на стипендію, пенсію та мінімальну зарплату",
+      "published_at": "2026-10-31T12:56:06+00:00",
+      "published_raw": "Sat, 31 Oct 2026 12:56:06 GMT",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Історії полтавців, які живуть на стипендію, пенсію та мінімальну зарплату: скільки витрачають на житло, їжу, ліки й на чому змушені економити.",
+      "categories": [
+        "Соціум",
+        "Новини"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15609,6 +15850,23 @@
         "вантажівка",
         "перевищення ваги"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "76161b3fcfb12c1b",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_lvovi_demonstruyut_mistetskiy_proyekt_pro_armiyski_pozivni_n1649116",
+      "title": "У Львові демонструють мистецький проєкт про армійські позивні (фото)",
+      "published_at": "2026-10-31T12:29:44+00:00",
+      "published_raw": "2026-10-31T12:29:44Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У Львові демонструють мистецький проєкт про армійські позивні]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -17061,6 +17319,23 @@
         "Новини",
         "Статтi"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "28b8f08d7df6df2e",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/pershiy_evakuyovaniy_iz_pozitsiyi_na_bpla_viyskoviy_stav_geroyem_ukrayini_n1649113",
+      "title": "Перший евакуйований із позиції на БпЛА військовий став Героєм України",
+      "published_at": "2026-10-31T11:52:38+00:00",
+      "published_raw": "2026-10-31T11:52:38Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Перший евакуйований із позиції на БпЛА військовий став Героєм України]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -20731,6 +21006,23 @@
       "status": "new"
     },
     {
+      "id": "1eb40d874d449171",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/the_economist_otsiniv_zagalni_vtrati_rosiyi_u_viyni_proti_ukrayini_v_21_mln_viyskovih_n1649112",
+      "title": "The Economist оцінив загальні втрати Росії у війні проти України в 2,1 млн військових",
+      "published_at": "2026-10-31T10:27:18+00:00",
+      "published_raw": "2026-10-31T10:27:18Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ The Economist оцінив загальні втрати Росії у війні проти України в 2,1 млн військових]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7d0544a260eba5e4",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -23339,6 +23631,25 @@
       "status": "new"
     },
     {
+      "id": "bdd2e7db74c7bfb2",
+      "source_id": "map-535",
+      "source": "МОСТ",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://most.ks.ua/news/url/antimikrobne-pokrittja-na-chohlah-spravdi-isnuje",
+      "title": "Антимікробне покриття на чохлах справді існує?",
+      "published_at": "2026-10-31T09:27:53+00:00",
+      "published_raw": "Sat, 31 Oct 2026 09:27:53 +0000",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Смартфон постійно контактує з руками, поверхнями, кишенями та сумками, тому на чохлі накопичуються забруднення й мікроорганізми. Саме тому деякі виробники пропонують моделі з антимікробними властивостями. Тим, хто планує купити чохли для телефону оптом, варто розуміти, як працює така технологія та як відрізнити реальний захист від маркетингового ходу. Що таке антимікробне покриття на чохлах? Антимікробні технології [...] Запис Антимікробне покриття на чохлах справді існує? спершу з'явиться на Мост .",
+      "categories": [
+        "Корисні"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5c355d1c611e5426",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -23738,6 +24049,23 @@
       "status": "new"
     },
     {
+      "id": "c6bc30d3ea3cd61a",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/litaki_z_evakuyovanimi_zhitelyami_oleshkiv_pribuli_do_bilorusi_n1649111",
+      "title": "Літаки з евакуйованими жителями Олешків прибули до Білорусі",
+      "published_at": "2026-10-31T09:16:01+00:00",
+      "published_raw": "2026-10-31T09:16:01Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Літаки з евакуйованими жителями Олешків прибули до Білорусі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4e68e09b94118f3d",
       "source_id": "map-99",
       "source": "Дивись.info",
@@ -23979,6 +24307,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "a7f373c69d6ec906",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/shokoladne_pechivo_na_mineralniy_vodi_yak_prigotuvati_pokrokoviy_retsept_n1649057",
+      "title": "Шоколадне печиво на мінеральній воді. Рецепт дня",
+      "published_at": "2026-10-31T09:05:00+00:00",
+      "published_raw": "2026-10-31T09:05:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Шоколадне печиво на мінеральній воді. Рецепт дня]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -24855,6 +25200,25 @@
       "status": "new"
     },
     {
+      "id": "d96dad4ee1576f99",
+      "source_id": "tyzhden",
+      "source": "Український тиждень",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://tyzhden.ua/metelyk",
+      "title": "Метелик",
+      "published_at": "2026-10-31T08:40:19+00:00",
+      "published_raw": "Sat, 31 Oct 2026 08:40:19 +0000",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Проглянув декілька перекладів лауреатки Карсон. Можливо, вади перекладу, але не думаю, що тільки: ні в тому, ні в іншому поезії майже нема. Мертва писанина на основі холодного, невистражданого, неживого, книжного досвіду, в якому нема Любові, того головного, що повинне гріти читача. Розширювати його горизонт життєвого досвіду. Для чого й існує жанр літератури. Робити людину-тіло, земну людину, […]",
+      "categories": [
+        "Опінії"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d9b580c17893338e",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -25453,6 +25817,23 @@
       "published_raw": "Sat, 31 Oct 2026 10:28:00 +0200",
       "fetched_at": "2026-10-31T12:28:13+00:00",
       "description": "Після початку повномасштабного вторгнення до кліматичних проблем півдня України додались й воєнні виклики. До 2022 року основною проблемою аграріїв Одещини були посухи, брак дощів, недостатньо зволожені ґрунти та деградація сільськогосподарських угідь. Паралельно російські атаки та руйнування критичної інфраструктури не дають фермерам адаптуватися до змін навколишнього середовища. Однак науковці Одещини шукають способи й методи, розробляють технології, [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfdd07997eadd6de",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/zhitel_sheptitskogo_provede_v_tyurmi_5_rokiv_za_povtorne_szch_n1649110",
+      "title": "Житель Шептицького проведе в тюрмі 5 років за повторне СЗЧ",
+      "published_at": "2026-10-31T08:27:42+00:00",
+      "published_raw": "2026-10-31T08:27:42Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Житель Шептицького проведе в тюрмі 5 років за повторне СЗЧ]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -26879,6 +27260,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d7835d4450ff980c",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/dva_posli_polshhi_podali_u_vidstavku_cherez_konflikt_navkolo_konstitutsiynogo_tribunalu_n1649109",
+      "title": "Два посли Польщі подали у відставку через конфлікт навколо Конституційного трибуналу",
+      "published_at": "2026-10-31T07:50:00+00:00",
+      "published_raw": "2026-10-31T07:50:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Два посли Польщі подали у відставку через конфлікт навколо Конституційного трибуналу]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -28568,6 +28966,23 @@
       "status": "new"
     },
     {
+      "id": "c1f065f12851d942",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/listopad_zustrine_holodom_yakoyu_bude_pogoda_u_lvovi_ta_oblasti_protyagom_4_dniv_n1649108",
+      "title": "Листопад зустріне заморозками і холодом: якою буде погода на Львівщині протягом 4 днів",
+      "published_at": "2026-10-31T06:53:05+00:00",
+      "published_raw": "2026-10-31T06:53:05Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Листопад зустріне заморозками і холодом: якою буде погода на Львівщині протягом 4 днів]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "cc385e81d358cb59",
       "source_id": "lb",
       "source": "LB.ua",
@@ -28598,6 +29013,23 @@
       "published_raw": "Sat, 31 Oct 2026 08:51:13 +0200",
       "fetched_at": "2026-10-31T12:28:13+00:00",
       "description": "Протягом минулої доби, 30 жовтня, російські війська вдарили по Харкову та 15 населених пунктів області. Постраждали 19 людей. Про це повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов. У Харкові четверо людей отримали поранення внаслідок російських обстрілів, ще шестеро — гостру реакцію на стрес. У Дергачаї поранені чоловіки 52 та 40 років. У Мерефі гострої реакції на стрес зазнали 51- та 48-річний чоловіки. У Барвінковому – 81-річна жінка. У селі Ємці Дергачівської громади — жінка 59 років. У Золочеві — 60-річна жінка.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3fb277d5610b5a43",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/donald_tramp_nazvav_durnimi_lyudmi_prihilnikiv_posilennya_sanktsiy_proti_rosiyi_n1649107",
+      "title": "Дональд Трамп назвав дурними людьми прихильників посилення санкцій проти Росії",
+      "published_at": "2026-10-31T06:50:08+00:00",
+      "published_raw": "2026-10-31T06:50:08Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Дональд Трамп назвав дурними людьми прихильників посилення санкцій проти Росії]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -32202,6 +32634,12 @@
       "fetched": 960,
       "added": 2,
       "errors": 3
+    },
+    {
+      "at": "2026-11-01T15:07:10+00:00",
+      "fetched": 575,
+      "added": 25,
+      "errors": 2
     }
   ]
 }
