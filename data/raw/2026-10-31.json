@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-11-01T15:07:10+00:00",
+  "generated_at": "2026-11-01T19:39:11+00:00",
   "source_count": 105,
-  "item_count": 1649,
+  "item_count": 1650,
   "items": [
     {
       "id": "5e35dee61d752e2c",
@@ -2839,6 +2839,25 @@
       "description": "У списку є представники знака Діва",
       "categories": [
         "Гороскопи"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9faba5c046e819ee",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/velesova-nich-ta-didi-cherkaska-naukovicya-rozpovila-shho-ranishe-svyatkuvali-zamist-gelovinuu",
+      "title": "Велесова ніч та Діди: як раніше споминали предків замість Геловіну",
+      "published_at": "2026-10-31T19:00:53+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:00:53 +0200",
+      "fetched_at": "2026-10-31T12:28:13+00:00",
+      "description": "Велесова ніч є наслідуванням різних давніх обрядів і сучасним витвором. Пориньте у містичний світ!",
+      "categories": [
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -7697,6 +7716,29 @@
       "description": "Глави держав поспілкувались також про залучення до перемовин Анкари та країн Європи.",
       "categories": [
         "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b05d120b7e77e247",
+      "source_id": "map-1154",
+      "source": "Bilozerka.info",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://bilozerka.info/z-kozhnym-obminom-ya-vmyrala-i-narodzhuvalasya-znovu-istoriya-morpiha-andriya-posunka-ta-jogo-mamy-yaka-dochekalasya-syna-z-polonu",
+      "title": "“З кожним обміном я вмирала і народжувалася знову”: історія морпіха Андрія Посунька та його мами, яка дочекалася сина з полону",
+      "published_at": "2026-10-31T16:18:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 16:18:00 +0000",
+      "fetched_at": "2026-11-01T19:39:11+00:00",
+      "description": "Понад чотири роки Андрій Посунько провів у російському полоні. Ворожа сторона не підтверджувала, що він перебуває в неволі, тож офіційно захисник вважався зниклим безвісти. The post “З кожним обміном я вмирала і народжувалася знову”: історія морпіха Андрія Посунька та його мами, яка дочекалася сина з полону first appeared on Білозерка.info .",
+      "categories": [
+        "Спецпроекти",
+        "Андрій Посунько",
+        "війна Росії проти України",
+        "військовополонений",
+        "ЗСУ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -22539,10 +22581,10 @@
       "description": "30 жовтня 2026 року у Слов’янську внаслідок російських ударів загинули двоє людей. Ще 16 цивільних дістали поранень: дванадцятеро — у Слов’янську та по двоє — у Краматорську та Дружківці.",
       "categories": [
         "Новини",
-        "Новини Лиманської громади",
-        "Новини Дружківської громади",
-        "Новини Краматорської громади",
-        "Новини Слов’янської громади"
+        "Новини Слов’янської громади",
+        "Новини Олександрівської громади",
+        "Новини Костянтинівської громади",
+        "Новини Лиманської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -29985,25 +30027,6 @@
       "status": "new"
     },
     {
-      "id": "9faba5c046e819ee",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/velesova-nich-ta-didi-cherkaska-naukovicya-rozpovila-shho-ranishe-svyatkuvali-zamist-gelovinuu",
-      "title": "Велесова ніч та Діди: як раніше споминали предків замість Геловіну",
-      "published_at": "2026-10-31T05:45:53+00:00",
-      "published_raw": "Sat, 31 Oct 2026 07:45:53 +0200",
-      "fetched_at": "2026-10-31T12:28:13+00:00",
-      "description": "Велесова ніч є наслідуванням різних давніх обрядів і сучасним витвором. Пориньте у містичний світ!",
-      "categories": [
-        "Публікації"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "3cb02449583c6fbc",
       "source_id": "map-685",
       "source": "Об'єктив Новини",
@@ -32640,6 +32663,12 @@
       "fetched": 575,
       "added": 25,
       "errors": 2
+    },
+    {
+      "at": "2026-11-01T19:39:11+00:00",
+      "fetched": 467,
+      "added": 1,
+      "errors": 3
     }
   ]
 }
