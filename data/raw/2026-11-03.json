@@ -1,0 +1,784 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-02T23:29:34+00:00",
+  "source_count": 14,
+  "item_count": 40,
+  "items": [
+    {
+      "id": "1a5b585213ec0fdb",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/pidgodovuyut-spivrobitnicyu-kozhnogo-vidviduvacha-kishka-marfa-zustrichaye-bilya-vhodu-v-starostat-article",
+      "title": "Підгодовують «співробітницю»: кожного відвідувача кішка Марфа зустрічає біля входу в старостат",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ad89c3abcdcbae8c",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/zhurnalisti-rozshukali-divchinu-yaka-20-rokiv-tomu-nemovlyam-potrapila-na-storinki-gazeti-article",
+      "title": "Журналісти розшукали дівчину, яка 20 років тому немовлям потрапила на сторінки газети",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73c9907fd4fe5535",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/biloruski-zhurnalisti-pidrahuvali-skilki-lyudej-mogli-vivezti-z-oleshok-article",
+      "title": "Білоруські журналісти підрахували, скільки людей могли вивезти з Олешок",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e8ffa5a4c2356694",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/skandal-cherez-dopis-pro-zgorile-avto-vidomij-chernigivec-poprosiv-vibachennya-article",
+      "title": "Скандал через допис про згоріле авто: відомий чернігівець попросив вибачення",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "87fde96393cfc0ee",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/rosijski-specsluzhbi-zaverbuvali-studenta-u-chernigovi-zatrimali-19-richnogo-hlopcya-article",
+      "title": "Російські спецслужби завербували студента: у Чернігові затримали 19-річного хлопця",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4282e864f3baea2b",
+      "source_id": "map-875",
+      "source": "Час Чернігівський",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://cntime.cn.ua/yaki-gribi-zbirayut-na-chernigivshini-u-listopadi-gribniki-pokazuyut-svoyi-znahidki-article",
+      "title": "Які гриби збирають на Чернігівщині у листопаді: грибники показують свої знахідки",
+      "published_at": "2026-11-02T23:29:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:29:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a8fdc261a71513be",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1443389-poskodzeni-vikna-ta-avtomobil-naslidki-rosijskoi-ataki-na-hmelniccini-3-listopada",
+      "title": "Пошкоджені вікна та автомобіль: наслідки російської атаки на Хмельниччині 3 листопада",
+      "published_at": "2026-11-02T23:23:16+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:23:16 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Сьогодні, 3 листопада, внаслідок російської атаки у Шепетівському районі на Хмельниччині пошкоджено вікна в багатоквартирному житловому будинку та легковий автомобіль.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfc52462e37bd11c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/diversionnye-gruppy-ukrainy-v-hersone-sergey-kozyr-zayavil-chto-informaciyu-obychno-ne-obnaroduyut-50655641.html",
+      "title": "Історій про диверсійні групи, які заходять в Херсон, багато, але вони не розголошуються — нардеп",
+      "published_at": "2026-11-02T23:21:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:21:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Народний депутат та колишній голова Херсонської ОДА Сергій Козир в інтерв'ю Radio NV розповів, що є багато історій про диверсійні групи, які заходять в Херсон, але вони не розголошуються.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "93b9178ac1e04734",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180702-vorog-atakuvav-zaporizza-litna-zinka-zaznala-poranen.html",
+      "title": "Ворог атакував Запоріжжя, літня жінка зазнала поранень",
+      "published_at": "2026-11-02T23:20:28+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:20:28 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Внаслідок атаки на Запоріжжя постраждала жінка, один з будинків частково зруйнований.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a4c065b78a1c874e",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230079.html",
+      "title": "Внаслідок атаки РФ на Запоріжжя поранено 71-річну жінку – ОВА",
+      "published_at": "2026-11-02T23:18:59+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:18:59 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Унаслідок нічної російської атаки на Запоріжжя поранено літню жінку, повідомив начальник Запорізької ОВА Михайло Семікін.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "91d908f4a74123f8",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-2-listopada-rf-zapustila-po-ukrajini-grupi-bezpilotnikiv-mapa-povitryanih-trivog-50655677.html",
+      "title": "Нічна атака РФ: у низці областей оголосили повітряну тривогу через загрозу БПЛА, у Києві впали уламки дрона, є влучання у Запоріжжі",
+      "published_at": "2026-11-02T23:15:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:15:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "У ніч проти вівторка, 3 листопада, російські війська продовжили атаку на Україну ударними безпілотниками. У низці областей оголосили повітряну тривогу.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5caacb436067dfc5",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/03/novyna/suspilstvo/okupanty-atakuvaly-dronamy-zaporizhzhya-ta-oblast-ye-poraneni",
+      "title": "Окупанти атакували дронами Запоріжжя та область, є поранені",
+      "published_at": "2026-11-02T23:12:07+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:12:07 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Росіяни вдарили по будинках у Запоріжжі та одному з міст області, внаслідок чого постраждали щонайменше троє мирних мешканців.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b73cb198fee8c8fd",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230077.html",
+      "title": "СБУ заборонила польському журналісту Важесі в'їзд в Україну на три роки",
+      "published_at": "2026-11-02T23:07:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:07:51 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Польському журналісту Лукашу Важесі, відомому своєю антиукраїнською позицією, Служба безпеки України на три роки заборонила в'їзд до країни.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "636905032012e21e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/svit/273684-niderlandy-ta-soiuznyky-shukaiut-iak-shvydshe-peredaty-ukrayini-rakety-dlia-patriot",
+      "title": "Нідерланди та союзники шукають, як швидше передати Україні ракети для Patriot",
+      "published_at": "2026-11-02T23:07:00+00:00",
+      "published_raw": "2026-11-03T01:07:00+02:00",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b2c5664bb2c1df00",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/03/8060950",
+      "title": "Росіяни обстріляли житлові будинки у Запоріжжі: постраждала літня жінка",
+      "published_at": "2026-11-02T23:07:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 01:07:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "У ніч на 3 листопада росія здійснила обстріл Запоріжжя – пошкоджено приватні будинки, постраждала 71-річна жінка. Зруйновано авто й оселі.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8157225131768564",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1443385-obstrili-zaporizza-ta-oblasti-3-listopada-so-vidomo",
+      "title": "Обстріли Запоріжжя та області 3 листопада: що відомо",
+      "published_at": "2026-11-02T22:55:36+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:55:36 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Російська армія атакує Запоріжжя та область 3 листопада: онлайн-хроніка обстрілів, наслідки влучань, руйнування, оперативна інформація про поранених і роботи рятувальників",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "05c5d0f896a06f58",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/vijskovi-2-ho-korpusu-khartija-neprichetni-do-podij-u-petropavlivskij-borshchahivtsi-butusov.html",
+      "title": "Військові 2-го корпусу \"Хартія\" непричетні до подій у Петропавлівській Борщагівці — Бутусов",
+      "published_at": "2026-11-02T22:54:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:54:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Юрій Бутусов закликав публічно з’ясувати обставини та можливі порушення прав нацгвардійців.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "16c4165875b80e19",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/03/778090_promizhni_vibori_ssha_vitratili.html",
+      "title": "На проміжні вибори у США витратили рекордні 12 мільярдів доларів",
+      "published_at": "2026-11-02T22:47:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:47:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Найбільший спонсор - Ілон Маск.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "926a67b810f796f5",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/03/778086_flesh_nad_kiievom_rozgornuli.html",
+      "title": "\"Флеш\": над Києвом розгорнули систему РЕБ проти російських реактивних дронів",
+      "published_at": "2026-11-02T22:45:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:45:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Ця операція змусила росіян зробити паузу та модернізувати \"Шахеди\".",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b90cc4ace457c8f",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/ja-znaju-shcho-vin-idiot-hendirektor-ryanair-znovu-vismijav-maska.html",
+      "title": "«Я знаю, що він ідіот»: гендиректор Ryanair знову висміяв Маска",
+      "published_at": "2026-11-02T22:43:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:43:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Гендиректор Ryanair знайшов спосіб заробляти на сварках з Ілоном Маском.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1e56f6c1ceca9843",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4180699-melnik-v-oon-zaklikav-kraini-vikonati-orderi-mks-na-arest-putina-ta-insih-rosijskih-posadovciv.html",
+      "title": "Мельник в ООН закликав країни виконати ордери МКС на арешт Путіна та інших російських посадовців",
+      "published_at": "2026-11-02T22:42:18+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:42:18 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Україна закликає всі держави-учасниці Римського статуту виконати ордери Міжнародного кримінального суду на арешт шістьох високопосадовців Росії, зокрема очільника РФ Володимира Путіна.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d69cbb8c469f79ee",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/ne-ignorirujte-trevogi-rossiya-gotovit-novyj-massirovannyj-udar-po-ukraine",
+      "title": "Не игнорируйте тревоги: Россия готовит новый массированный удар по Украине",
+      "published_at": "2026-11-02T22:40:45+00:00",
+      "published_raw": "Mon, 02 Nov 2026 22:40:45 +0000",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Этой ночью Россия готовит новую массированную атаку по Украине с применением стратегической авиации и баллистики. По данным мониторинговых ресурсов, к удару могут привлечь бомбардировщики Ту-95МС и Ту-160. Среди возможных целей называют объекты энергетической и транспортной инфраструктуры. Украинцев призывают не игнорировать сигналы воздушной тревоги. Сообщение Не игнорируйте тревоги: Россия готовит новый массированный удар по Украине появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "атака",
+        "Владимир Зеленский",
+        "война",
+        "обстрел"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "383e3ce9f9438a39",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-dvoh-shtatah-ssha-ogolosyly-evakuatsiyu-cherez-masshtabni-poveni",
+      "title": "У двох штатах США оголосили евакуацію через масштабні повені",
+      "published_at": "2026-11-02T22:39:11+00:00",
+      "published_raw": "Mon, 02 Nov 2026 22:39:11 +0000",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "У США через сильні зливи почалися масштабні повені. Найскладніша ситуація склалася у штатах Аризона та Колорадо, де місцева влада оголосила евакуацію жителів окремих районів. Запис У двох штатах США оголосили евакуацію через масштабні повені спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "повені",
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2438892ca9ed9491",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/aeroporti-moskvi-dva-zakriti-shche-dva-pratsjujut-z-obmezhennjami.html",
+      "title": "Аеропорти Москви: два закриті, ще два працюють з обмеженнями",
+      "published_at": "2026-11-02T22:38:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:38:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Зазвичай такі заходи запроваджують через удари БпЛА, проте мер Москви та влада Підмосков'я про атаки не повідомляли.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fafbb2907eb32511",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/702088-sohodni-v-ukrajini-vidznachajut-den-inzhenernikh-vijsk.html",
+      "title": "Сьогодні в Україні відзначають День інженерних військ",
+      "published_at": "2026-11-02T22:30:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:30:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Це свято набуло особливого значення під час війни.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ce4e68430eb6653b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-sports/4180694-kanada-ne-zgodna-iz-risennam-povernuti-rosiu-do-miznarodnogo-hokeu.html",
+      "title": "Канада не згодна із рішенням повернути Росію до міжнародного хокею",
+      "published_at": "2026-11-02T22:27:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:27:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Канада не підтримує рішення Спортивного арбітражного суду у Лозанні легітимізувати участь Росії в чемпіонатах світу Міжнародної федерації хокею.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f90bca58f696f568",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/derzhzrada-nikopol-15-rokiv",
+      "title": "Передавав ФСБ точки запуску дронів: мешканця Нікополя засудили до 15 років",
+      "published_at": "2026-11-02T22:26:20+00:00",
+      "published_raw": "Mon, 02 Nov 2026 22:26:20 +0000",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "The post Передавав ФСБ точки запуску дронів: мешканця Нікополя засудили до 15 років appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "прокуратура",
+        "РФ"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "ce1b3f61ace7582e",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/03/778084_polschi_vidbudutsya_pershi.html",
+      "title": "У Польщі відбудуться перші військові навчання Коаліції охочих",
+      "published_at": "2026-11-02T22:25:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:25:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Вони розпочнуться 9 листопада та триватимуть до 22 листопада.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "acd9857e83e7ed8a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/evakuaciya-z-oleshkiv-rosiyanam-ne-vdalosya-prosunuti-sviy-narativ-kazhe-reyterovich-50655545.html",
+      "title": "Росіяни багато вклалися у висвітлення евакуації з Олешків, але не змогли просунути свої наративи — політолог",
+      "published_at": "2026-11-02T22:21:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:21:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Політолог Ігор Рейтерович в інтерв’ю Radio NV заявив, що росіяни багато вклалися у висвітлення евакуації з Олешків, але просунути свої наративи їм не вдалося.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "884f5e3d631fd89c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-boi-za-kostantinivku-front-doneccini-ta-lugansini-3-listopada-2026-roku",
+      "title": "Найгарячіша ділянка — Покровська, бої за Костянтинівку. Фронт Донеччини та Луганщини 3 листопада 2026 року",
+      "published_at": "2026-11-02T22:20:40+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:20:40 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео, коментарі з фронту",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f3e3a8a0dd4543f4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/petropavlivska-borshchagivka-denis-prokopenko-zayaviv-shcho-rezonans-navkolo-podiy-graye-na-ruku-rosiji-50655680.html",
+      "title": "Прокопенко про події у Петропавлівській Борщагівці: це грає на руку Росії",
+      "published_at": "2026-11-02T22:15:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:15:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Командувач угруповання військ Азов Денис (Редіс) Прокопенко заявив, що інформаційний резонанс навколо подій у Петропавлівській Борщагівці на Київщині грає на руку Росії.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3dbcee056f33967",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/273680-zinka-iaka-zaiavyla-pro-nezakonne-utrymannia-viyskovykh-na-kyyivshchyni-pryyikhala-na-shvydkiy-iaku-prodaly-shche-u-2024-rotsi-slidstvoinfo",
+      "title": "Жінка, яка заявила про незаконне утримання військових на Київщині, приїхала на швидкій, яку продали ще у 2024 році — «Слідство. Інфо»",
+      "published_at": "2026-11-02T22:12:00+00:00",
+      "published_raw": "2026-11-03T00:12:00+02:00",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5d5444b69f4611de",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/03/778082_nimetskih_deputativ_ministriv.html",
+      "title": "Німецьких депутатів і міністрів попередили про кібератаку на їхні смартфони",
+      "published_at": "2026-11-02T22:12:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:12:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Шпигунські дії виявили системи захисту компанії Apple.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f477afad71c7bef6",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-komanduvach-azov-pro-sutychky-petropavlivska-borshchahivka/33889156.html",
+      "title": "Командувач «Азову» назвав саботажем сутички в Петропавлівській Борщагівці",
+      "published_at": "2026-11-02T22:11:23+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:11:23 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "За словами Прокопенка, Росія зацікавлена в тому, щоб розділити українське суспільство та армію та дискредитувати образ військового",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a54ed69440ef6a19",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4180697-vse-so-vidbuvaetsa-informacijnomu-prostori-dovkola-temi-podij-na-kiivsini-na-ruku-rosianam-prokopenko.html",
+      "title": "Все, що відбувається в інформаційному просторі довкола теми подій на Київщині, на руку росіянам - Прокопенко",
+      "published_at": "2026-11-02T22:11:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:11:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "У той час, коли солдати та сержанти \"Азова\" виконують бойові задачі, проливаючи свою кров, у тилу знаходяться люди, які займаються саботажем, дискредитуючі українських військових.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "218475dcd93f1c3d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1443351-suticki-u-petropavlivskij-borsagivci-bila-budinku-ngu-rosia-gotue-udar-po-energetici-ukraini-1714-j-den-vijni",
+      "title": "Сутички у Петропавлівській Борщагівці біля будинку НГУ, Росія готує удар по енергетиці України. 1714-й день війни",
+      "published_at": "2026-11-02T22:05:16+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:05:16 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "За даними розвідки, РФ готує новий масований удар по Україні, переважно по енергетиці та логістиці. У Петропавлівській Борщагівці відбулися сутички біля місця дислокації військових НГУ",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6eb30edfdf942685",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1443375-situacia-dovkola-petropavlivskoi-borsagivki-vidpovidae-interesam-rosii-komanduvac-azovu-prokopenko",
+      "title": "Ситуація довкола Петропавлівської Борщагівки відповідає інтересам Росії — командувач «Азову» Прокопенко",
+      "published_at": "2026-11-02T22:05:02+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:05:02 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "У відеозверненні Денис Прокопенко заявив, що інформаційна ситуація довкола сутичок біля пункту дислокації Нацгвардії відповідає інтересам Росії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "22f3b3223d23886a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/viperediv-zinchenka-mikolenko-stav-novim-ukrajinskim-rekordsmenom-za-kilkistju-matchiv-u-premjer-lizi.html",
+      "title": "Обійшов Зінченка: Миколенко став новим українським рекордсменом за кількістю матчів в АПЛ",
+      "published_at": "2026-11-02T22:04:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:04:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Футболіст уже тривалий час грає в Англії.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "815b12d897eba173",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1443373-vitalij-mikolenko-stav-rekordsmenom-sered-ukrainciv-za-kilkistu-matciv-v-apl",
+      "title": "Віталій Миколенко став рекордсменом серед українців за кількістю матчів в АПЛ",
+      "published_at": "2026-11-02T22:00:55+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:00:55 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Український захисник «Евертона» Віталій Миколенко встановив рекорд за кількістю матчів в англійській Прем'єр-лізі серед українських футболістів - поєдинок проти «Ньюкасла» став для нього 151-м в АПЛ, Миколенко рекорл АПЛ",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fc903a4f3f03ed8d",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/azov-pro-skandal-pid-kijevom-sabotazh-u-tilu.html",
+      "title": "«Азов» про скандал під Києвом: саботаж у тилу",
+      "published_at": "2026-11-02T22:00:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 00:00:00 +0200",
+      "fetched_at": "2026-11-02T23:29:34+00:00",
+      "description": "Командувач корпусу заявив, що засуджує насильство над військовими, і закликав не заважати роботі військових частин.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    }
+  ],
+  "errors": [
+    {
+      "source": "Еспресо",
+      "feed": "https://espreso.tv/rss",
+      "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
+    },
+    {
+      "source": "Еспресо: Біла Церква",
+      "feed": "https://bc.espreso.tv/rss",
+      "error": "https://bc.espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> "
+    }
+  ],
+  "runs": [
+    {
+      "at": "2026-11-02T23:29:34+00:00",
+      "fetched": 41,
+      "added": 40,
+      "errors": 2
+    }
+  ]
+}
