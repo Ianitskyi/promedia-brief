@@ -1,9 +1,2762 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-01T23:35:28+00:00",
-  "source_count": 15,
-  "item_count": 34,
+  "generated_at": "2026-11-02T06:00:23+00:00",
+  "source_count": 42,
+  "item_count": 176,
   "items": [
+    {
+      "id": "e0570612879990b5",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/life/nikolya-flamel-i-filosofskii-kamin-sekret-serednyovicnogo-magnata-p6wooj",
+      "title": "Ніколя Фламель і філософський камінь: секрет середньовічного магната",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 08:00:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Легенда про середньовічного парижанина, який нібито відкрив секрет безсмертя та навчився перетворювати свинець на золото, понад шість століть хвилює науковців і письменників. Постать Ніколя Фламеля надихала Ісаака Ньютона, Віктора Гюго та Джоан Роулінг, проте нові архівні розвідки повністю перевертають уявлення про його життя.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2565bac36c64b892",
+      "source_id": "map-1253",
+      "source": "Полісся News",
+      "geography": "regional",
+      "source_region": "rivne",
+      "url": "https://polissia.news/2-lystopada-mizhnarodnyj-den-zahystu-zhurnalistiv-ta-cz",
+      "title": "2 листопада – Міжнародний день захисту журналістів та Акиндинів день",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:00:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У понеділок, 2 листопада, розпочинається новий робочий тиждень. Цей день багатий на міжнародні ініціативи, церковні пам'ятні дати та народні спостереження, які здавна допомагали пророкувати погоду на майбутню зиму.",
+      "categories": [
+        "Корисне",
+        "Свята"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "de5df8e9cf402015",
+      "source_id": "map-1142",
+      "source": "20 хвилин. Тернопіль",
+      "geography": "regional",
+      "source_region": "ternopil",
+      "url": "https://te.20minut.ua/Podii/scho-vazhlivo-znati-u-listopadi-pyat-golovnih-novovveden-dlya-ukrayint-12011593.html",
+      "title": "Що важливо знати у листопаді: п'ять головних нововведень для українців",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "published_raw": "2026-11-02T08:00:00+02:00",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У листопаді в Україні продовжує діяти воєнний стан, зміняться умови бронювання працівників окремих підприємств, а українцям потрібно буде враховувати терміни оформлення субсидій та нові правила для посилок до Європейського Союзу. Про важливі зміни повідомляє УНІАН. Військовий стан і мобілізація в листопаді 2026 року Воєнний стан і загальна мобілізація в Україні продовжують діяти — їх продовжили ще на 90 днів. Відповідні рішення Верховна Рада ухвалила 26 жовтня 2026 року. Продовження передбачено до 29 січня 2027 року.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70fc502dca862e17",
+      "source_id": "map-405",
+      "source": "Район.in.ua",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://rayon.in.ua/news/1113150-rosiia-za-dobu-vtratila-na-viini-proti-ukrayini-shhe-2500-zagarbnikiv",
+      "title": "Втрати Росії за добу: 2500 військових і 936 БПЛА",
+      "published_at": "2026-11-02T06:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 08:00:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Загальні бойові втрати російських військ від початку повномасштабного вторгнення в Україну, з 24 лютого 2022 року по 2 листопада 2026 року, становлять близько 1 592 770 осіб, зокрема 2 500 осіб – за минулу добу.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "575603748f9da2e7",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/vorog-byv-po-infrastrukturi-odesy-ye-poraneni-i572012",
+      "title": "Ворог бив по інфраструктурі Одеси, є поранені",
+      "published_at": "2026-11-02T05:59:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:59:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "\"Вночі ворог атакував Одесу. Четверо людей отримали поранення\", - повідомив начальник Одеської МВА Сергій Лисак у Телеграм вранці 2 листопада. Під ударом опинилися об’єкти інфраструктури. Пошкоджено два житлові будинки та гараж. Вибуховою хвилею вибило вікна в сусідніх оселях. На місці...",
+      "categories": [
+        "Країна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1a773452b986921c",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/vtraty-rosiyan-za-dobu-likvidovano-shhe-2500-okupantiv",
+      "title": "Втрати росіян: за добу ліквідовано ще 2500 окупантів",
+      "published_at": "2026-11-02T05:55:36+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:55:36 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Триває 1713-та доба повномасштабної російсько-української війни. За цей час втрати військ РФ в Україні у живій силі (вбиті та поранені) перевищили 1,5 млн осіб. Запис Втрати росіян: за добу ліквідовано ще 2500 окупантів спершу з'явиться на Букви .",
+      "categories": [
+        "Війна Росії проти України",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e92d5317d7aadfc0",
+      "source_id": "map-842",
+      "source": "Фарватер.Схід",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://farvatermedia.com/news/henshtab-zaiavyv-pro-rekordni-dobovi-vtraty-armii-rf-1-lystopada-zneshkodyly-2500-viiskovykh",
+      "title": "Генштаб заявив про рекордні добові втрати армії РФ: 1 листопада знешкодили 2500 військових",
+      "published_at": "2026-11-02T05:55:19+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:55:19 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "The post Генштаб заявив про рекордні добові втрати армії РФ: 1 листопада знешкодили 2500 військових appeared first on Фарватер. Схід .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
+      "id": "893742a583d83960",
+      "source_id": "map-1136",
+      "source": "ПАНОРАМА",
+      "geography": "regional",
+      "source_region": "sumy",
+      "url": "https://rama.com.ua/andrij-listunov-z-sum-zaginuv-pid-kramatorskom",
+      "title": "Андрій Лістунов з Сум загинув під Краматорськом",
+      "published_at": "2026-11-02T05:54:23+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:54:23 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "20 травня 2026 року загинув сержант Андрій Лістунов під час виконання бойового завдання в районі села Костянтинівка Краматорського району Донецької області. До нині вважався зниклим безвісти. До війська став добровільно від початку повномасштабного вторгнення: спочатку у сумському ДФТГ, потім у лавах ЗСУ. Служив на посаді командира механізованого відділення, командира машини механізованого батальйону. Поховали загиблого воїна […]",
+      "categories": [
+        "Новини",
+        "ВІЙНА В УКРАЇНІ-2022",
+        "Місто",
+        "Топновина",
+        "Андрій Лістунов суми загинув"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7fb095426812b614",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/hibni-povidomlennya-pro-yadernu-zagrozu-ta-vulichni-boyi-unochi-mogli-zlamati-zastosunok-povitryana-trivoga",
+      "title": "Хибні повідомлення про ядерну загрозу та вуличні бої: уночі могли зламати застосунок «Повітряна тривога»",
+      "published_at": "2026-11-02T05:54:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:54:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Увечері 1 листопада користувачі застосунку «Повітряна тривога», зокрема в Харкові та Києві, отримали повідомлення про радіаційну й хімічну небезпеку, а також загрозу вуличних боїв. У Повітряних силах ЗСУ заявили про ймовірне вороже втручання в роботу застосунку та наголосили, що радіаційної загрози немає",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e4e0e969f333b129",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180367-u-kievi-ta-oblasti-ekstreni-vidklucenna-svitla.html",
+      "title": "У Києві та області - екстрені відключення світла",
+      "published_at": "2026-11-02T05:53:04+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:53:04 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Києві та Київській області запроваджені екстрені відключення електроенергії.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "87511d7e165e33d4",
+      "source_id": "map-535",
+      "source": "МОСТ",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://most.ks.ua/news/url/na-hersonschini-dvoje-ljudej-poraneni-cherez-pidriv-na-vibuhovomu-pristroji",
+      "title": "На Херсонщині двоє людей поранені через підрив на вибуховому пристрої",
+      "published_at": "2026-11-02T05:52:34+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:52:34 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Минулої доби на Херсонщині двоє людей дістали поранення внаслідок підриву на вибуховому пристрої. Про це начальник Херсонської ОВА Олександр Прокудін написав у своєму Telegram-каналі. З 06:00 1 листопада до 06:00 2 листопада під дроновим терором, авіаційними ударами та артилерійськими обстрілами перебували низка населених пунктів області. Серед них — Антонівка, Понятівка, Новорайськ, Придніпровське, Софіївка, Дніпровське, Новодмитрівка, [...] Запис На Херсонщині двоє людей поранені через підрив на вибуховому пристрої спершу з'явиться на Мост .",
+      "categories": [
+        "Новина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "49162aa3ef189f7d",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144018-tsinu-na-2-dni-znyzyly-na-143-hryvni-v-atb-suttyevo-podeshevshav-populiarnyy-produkt",
+      "title": "Ціну на 2 дні знизили на 143 гривні: в АТБ суттєво подешевшав популярний продукт",
+      "published_at": "2026-11-02T05:51:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:51:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Оновився список продуктів, на які в мережі АТБ суттєво знизили ціни. Частину товарів можна придбати дешевше ще 2 дні – до 3 листопада включно.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e35cacb6ea61917",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131434-u-drugomu-turi-viboriv-u-bolgariji-peremogla-chinna-prezidentka-yotova-yaka-vistupaye-za-dialog-z-rosiyeyu",
+      "title": "У другому турі виборів у Болгарії перемогла чинна президентка Йотова, яка виступає за діалог з Росією",
+      "published_at": "2026-11-02T05:50:58+00:00",
+      "published_raw": "Mon, 02 Nov 26 07:50:58 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3917c22489b58b44",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/02/777876_unochi_zafiksuvali_vluchannya_26.html",
+      "title": "Уночі зафіксували влучання на 26 локаціях, уламки впали у 9 місцях",
+      "published_at": "2026-11-02T05:50:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:50:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Всього росіяни запустили 193 безпілотники.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e198fc8f8862b840",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/bezpeka/rosiyany-vykorystaly-rezhym-tyshi-oleshkax-ukriplennya-svoyix-pozyczij-henshtab",
+      "title": "Росіяни використали режим тиші в Олешках для укріплення своїх позицій – Генштаб",
+      "published_at": "2026-11-02T05:49:55+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:49:55 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Російські війська використали режим тиші в Олешках для укріплення позицій, ротації підрозділів та підвезення боєприпасів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c565c1429f7893a4",
+      "source_id": "map-545",
+      "source": "KHARKIV Today",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://2day.kh.ua/ua/kharkow/reaktyvnyy-dron-vluchyv-u-bahatopoverkhovyy-budynok-u-peredmisti-kharkova",
+      "title": "Реактивний дрон влучив у багатоповерховий будинок у передмісті Харкова",
+      "published_at": "2026-11-02T05:47:25+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:47:25 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "На даху спалахнула пожежа.",
+      "categories": [
+        "Харків"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "644767d49726f194",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-dnipropetrovshchyna-elektryka-vidnovlennya/33888681.html",
+      "title": "ОВА: на Дніпропетровщині майже всім споживачам повернули світло",
+      "published_at": "2026-11-02T05:47:19+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:47:19 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Олександр Ганжа каже, що без електрики залишаються поодинокі споживачі, через безпекову ситуацію ремонтні бригади поки не можуть там розпочати роботи",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cf46c262a383a305",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/timoti-snayder-yak-ukrajina-povertayetsya-v-centr-yevropeyskoji-istoriji-50650107.html",
+      "title": "Коли руйнується світ. Зірковий історик Снайдер про Україну — колиску цивілізації, психологічну незрілість США і те, як зберегти надію",
+      "published_at": "2026-11-02T05:47:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:47:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Професор-інтелектуал Тімоті Снайдер аналізує стан, в якому перебуває сучасний Захід, цілком реалістично прогнозує майбутнє України і розповідає про проєкт свого життя.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "19f88e0fa22495d2",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4180366-ppo-zneskodila-154-zi-193-bezpilotnikiv-akimi-rosiani-z-vecora-atakuvali-ukrainu.html",
+      "title": "ППО знешкодила 154 зі 193 безпілотників, якими росіяни з вечора атакували Україну",
+      "published_at": "2026-11-02T05:47:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:47:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сили протиповітряної оборони знешкодили 154 зі 193 безпілотників, якими російські загарбники атакували Україну з вечора 1 листопада.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "78a1a814c63df765",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-1-na-2-listopada-2026-roku-vsi-podrobici-onlayn-50655321.html",
+      "title": "Нічні атаки РФ: під Харковом був приліт у п’ятиповерхівку, п’ять людей постраждали, у Вінниці чули вибухи — головне",
+      "published_at": "2026-11-02T05:46:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:46:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Ввечері 1 листопада триває масована російська атака реактивними та бензиновими шахедами на територію України.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "093cb0c1fd205c25",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/genshtab-syly-oborony-ukrayiny-zabezpechyly-rezhym-tyshi-na-hersonshhyni-dlya-operatsiyi-v-oleshkah-i572008",
+      "title": "Генштаб: Сили оборони України забезпечили режим тиші на Херсонщині для операції в Олешках, ворог використав це для облаштування своїх позицій",
+      "published_at": "2026-11-02T05:46:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:46:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "\"В рамках запровадженого режиму припинення вогню для гуманітарної операції в Олешках підрозділи Сил оборони України забезпечили дотримання режиму тиші і діяли виключно в межах досягнутих домовленостей\", - повідомив Генштаб ЗСУ 2 жовтня. Зазначається, що в результаті гуманітарні вантажі доставлено...",
+      "categories": [
+        "Країна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8174eb58a395737c",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/bez-istotnyh-opadiv-ta-do-17-prognoz-pogody-na-2-lystopada",
+      "title": "Без істотних опадів та до +17°: прогноз погоди на 2 листопада",
+      "published_at": "2026-11-02T05:45:56+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:45:56 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У понеділок, 2 листопада, в Україні переважатиме хмарна погода, місцями з проясненнями. У більшості областей істотних опадів не очікується. Запис Без істотних опадів та до +17°: прогноз погоди на 2 листопада спершу з'явиться на Букви .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "06f25e578825ff22",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/02/rf-prosunulas-bilya-goptivki-u-deep-state-onovili-karti",
+      "title": "РФ просунулась біля Гоптівки: у Deep State оновили карти",
+      "published_at": "2026-11-02T05:45:24+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:45:24 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Аналітики проєкту Deep State оновили карти бойових дій на Харківщині увечері 1 листопада. За даними...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b000cd4e4ce2e458",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/aviakatastrofa-u-floridi-privatniy-litak-vpav-bilya-mar-a-lago-50655347.html",
+      "title": "«Як ракета, що падає». Поблизу резиденції Трампа в Мар-а-Лаго розбився приватний літак, загинули дев’ятеро людей — відео",
+      "published_at": "2026-11-02T05:45:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:45:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У неділю, 2 листопада, у США, у штаті Флорида, зазнав аварії приватний літак Learjet 60. Усі дев’ятеро людей, які перебували на борту, загинули.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4748ad1e1a932dd9",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/kremenchug/u-poganomu-tehnichnomu-stani-shho-vidbuvayetsya-z-ukryttyam-na-terytoriyi-ktu-v-kremenchuczi.html",
+      "title": "«У поганому технічному стані»: що відбувається з укриттям на території КТУ в Кременчуці",
+      "published_at": "2026-11-02T05:45:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:45:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Працівники АЗС уже вдруге звернулися до редакції через неможливість скористатися сховищем. У міській раді повідомляють, що доступ до споруди обмежили через службову необхідність Сообщение «У поганому технічному стані»: що відбувається з укриттям на території КТУ в Кременчуці появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Кременчук",
+        "Топ новина",
+        "тролейбусне управління",
+        "укриття"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "39e86dd3b9f146fd",
+      "source_id": "map-1147",
+      "source": "ПІК",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://pik.net.ua/2026/11/02/iliyana-jotova-peremagaye-na-prezydentskyh-vyborah-u-bolgariyi-shho-pro-neyi-vidomo",
+      "title": "Іліяна Йотова перемагає на президентських виборах у Болгарії: що про неї відомо",
+      "published_at": "2026-11-02T05:44:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:44:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "За підрахунками понад 90% голосів, перемогла проросійська кандидатка.",
+      "categories": [
+        "Світ",
+        "вибори Болгарія",
+        "Іліяна Йотова"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8b1fb6ec2f578f5b",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/kyiv/2026/11/02/777874_kiievi_oblasti_vveli_ekstreni.html",
+      "title": "У Києві та області ввели екстрені відключення",
+      "published_at": "2026-11-02T05:42:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:42:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Під час екстрених відключень графіки не діють.",
+      "categories": [
+        "Київ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8457aa58527e316a",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/miljoni-na-remonti-a-batki-skarzhatsya-yak-oblashtovani-ukrittya-v-ditsadkax-cherkas",
+      "title": "Мільйони на ремонти, а батьки скаржаться: як облаштовані укриття в дитсадках Черкас",
+      "published_at": "2026-11-02T05:40:39+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:40:39 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сирість, недостатня вентиляція, відсутність спальних місць і туалет за ширмою – на такі умови в укриттях дитячих садків Черкас скаржаться батьки вихованців. Водночас у міській раді повідомили, що від початку повномасштабного вторгнення на ремонт укриттів у садках витратили понад 37,5 млн гривень, а капітальні ремонти провели в усіх закладах. «18000» поспілкувався з батьками та працівниками чотирьох дитсадків у Південно-Західному районі та на Митниці, щоб з’ясувати, в яких умовах діти перебувають під час повітряних тривог, як організовані їхні заняття, сон і харчування.",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "743fa9d9d1dbaac8",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/primiski-poyizdi-2-listopada-na-harkivshini-kursuyut-iz-obmezhennyami-zmineno-kincevi-stanciyi",
+      "title": "Приміські поїзди 2 листопада на Харківщині курсують із обмеженнями: змінено кінцеві станції",
+      "published_at": "2026-11-02T05:40:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:40:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Через безпекову ситуацію та відсутність напруги в контактній мережі приміські поїзди на Харківщині тимчасово змінили маршрути: замість станції Харків-Пасажирський вони прибувають і відправляються з Харків-Левади або Нової Баварії",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d71ea50bf0c92647",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/zastosunok-povitryana-trivoga-zaznav-kiberataki-ci-buli-riziki-vitoku-personalnix-danix-pjzne4",
+      "title": "Застосунок «Повітряна тривога» зазнав кібератаки: чи були ризики витоку персональних даних",
+      "published_at": "2026-11-02T05:40:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:40:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Увечері 1 листопада користувачі застосунку «Повітряна тривога» почали отримувати фейкові повідомлення про нібито ядерну небезпеку, загрозу радіаційної чи хімічної атаки та вуличних боїв.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "376645d996d81162",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/defence/325780-rosiiany-atakuvaly-fpv-dronom-ochakivsku-hromadu-mykolaivshchyni",
+      "title": "Росіяни атакували FPV-дроном Очаківську громаду на Миколаївщині",
+      "published_at": "2026-11-02T05:40:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:40:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Російські військові минулої доби, 1 листопада, атакували FPV-дроном Очаківську громаду Миколаївської області.",
+      "categories": [
+        "Оборона"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "1594012eb8409985",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/innovations/audi-testuye-gumanojidnih-robotiv-dlya-avtomatizaciji-zbirki-detaley-na-zavodi-50655311.html",
+      "title": "Плануються звільнення? Audi тестує мобільних гуманоїдних роботів, які зможуть працювати на заводах компанії",
+      "published_at": "2026-11-02T05:39:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:39:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Компанія Audi тестує мобільних гуманоїдних роботів, розроблених Agile Robots, для автоматизації послідовності деталей на своєму заводі в Німеччині.",
+      "categories": [
+        "Техно/Інновації"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb96dad86759962a",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4180365-rosia-za-dobu-vtratila-za-dobu-na-vijni-proti-ukraini-se-2500-zagarbnikiv.html",
+      "title": "Росія за добу втратила на війні проти України ще 2500 загарбників",
+      "published_at": "2026-11-02T05:39:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:39:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Загальні бойові втрати російських військ від початку повномасштабного вторгнення в Україну, з 24 лютого 2022 року по 2 листопада 2026 року, становлять близько 1 592 770 осіб, зокрема 2 500 осіб – за минулу добу.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e14ea51da8998e36",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/majzhe-600-povitryanih-i-nazemnih-droniv-zneshkodila-brigada-hartiya-za-zhovten-takozh-znishili-10-i-poranili-15-vijskovih-protivnika",
+      "title": "Майже 600 повітряних і наземних дронів знешкодила бригада «Хартія» за жовтень: також знищили 10 і поранили 15 військових противника",
+      "published_at": "2026-11-02T05:39:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:39:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "За жовтень 2026 року бійці 13-ї бригади Національної гвардії України «Хартія» знищили 72 одиниці техніки противника та уразили 156 фортифікацій, із яких 17 зруйновано, а 139 пошкоджено. Підсумки місяця бригада оприлюднила у своєму телеграм-каналі разом із відеороликом.",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a32006c1c1340672",
+      "source_id": "map-842",
+      "source": "Фарватер.Схід",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://farvatermedia.com/news/rosiiski-viiska-vykorystaly-rezhym-tyshi-v-oleshkakh-dlia-posylennia-pozytsii-ok-pivden",
+      "title": "Російські війська використали режим тиші в Олешках для посилення позицій — ОК «Південь»",
+      "published_at": "2026-11-02T05:38:39+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:38:39 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "The post Російські війська використали режим тиші в Олешках для посилення позицій — ОК «Південь» appeared first on Фарватер. Схід .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
+      "id": "f3d6884e90f1b541",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060796",
+      "title": "Прихильниця РФ перемогла на президентських виборах у Болгарії",
+      "published_at": "2026-11-02T05:38:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:38:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У другому турі президентських виборів у Болгарії перемогла виконувачка обов'язків глави держави та соратниця чинного прем'єр-міністра Румена Радева Іліяна Йотова.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7de00ae23b45dde2",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/vazhlyve-za-nich-i572004",
+      "title": "ВАЖЛИВЕ ЗА НІЧ",
+      "published_at": "2026-11-02T05:37:05+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:37:05 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "- ДСНС України повідомляє, що загальнодержавна система оповіщення працює в штатному режимі. - Генштаб ЗСУ: Противник використав гуманітарну паузу в Олешках для укріплення свої позицій, ротації підрозділів та підвезення боєприпасів. - Вночі ворог атакував Одесу: четверо людей поранені,...",
+      "categories": [
+        "Країна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dae7f592abf1f86d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/misiya-v-oleshkah-melaniya-tramp-zayavila-pro-evakuaciyu-mayzhe-800-lyudey-50655346.html",
+      "title": "«Місія була успішною»: Меланія Трамп заявила, що з Олешків було евакуйовано майже 800 людей",
+      "published_at": "2026-11-02T05:36:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:36:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Перша леді США Меланія Трампа назвала успішною гуманітарну місію в тимчасово окупованих Олешках Херсонської області, звідки було евакуйовано майже 800 людей. Про це вона написала у соцмережі Х 1 листопада.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb4bb11067fa4caa",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/02/777870_genshtab_vorog_vikoristav_rezhim.html",
+      "title": "Генштаб: ворог використав режим тиші в Олешках для облаштування позицій",
+      "published_at": "2026-11-02T05:36:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:36:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Зафіксували ротацію російських підрозділів, укріплення позицій, розширення антидронових засобів на дорогах і нарощування логістики, зокрема підвезення боєприпасів.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cafdcb259120cc1a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/dodatok-povitryana-trivoga-ymovirno-bulo-zlamano-radiaciynoji-zagrozi-v-ukrajini-nemaye-povitryani-sili-zsu-50655333.html",
+      "title": "Росіяни зламали застосунок Повітряна тривога, він хибно повідомив про радіаційну загрозу, у відповідь зламали застосунок у РФ — що відомо",
+      "published_at": "2026-11-02T05:34:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:34:00 +0200",
+      "fetched_at": "2026-11-01T23:35:28+00:00",
+      "description": "Увечері 1 листопада Повітряні сили ЗСУ повідомили, що офіційний додаток Повітряна тривога «ймовірно піддався ворожому впливу», тобто був зламаний.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4cdc98bffc627f15",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229403.html",
+      "title": "Війська РФ уночі атакували Одесу і поранили чотирьох людей – МВА",
+      "published_at": "2026-11-02T05:32:19+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:32:19 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Четверо людей дістали поранення та пошкоджені об'єкти інфраструктури і два житлові будинки внаслідок нічної російської атаки на Одесу, повідомив голова Одеської міської військової адміністрації Олександр Лисак у понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "736e9a5251f2fd5a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/rotatsija-pidvezennja-bojepripasiv-i-zakhist-vid-droniv-okupanti-skoristalisja-rezhimom-tishi-v-oleshkakh-henshtab.html",
+      "title": "Ротація, підвезення боєприпасів і захист від дронів: окупанти скористалися режимом тиші в Олешках — Генштаб",
+      "published_at": "2026-11-02T05:31:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:31:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Під час гуманітарної операції в Олешках підрозділи Сил оборони України дотримувалися режиму тиші та діяли відповідно до досягнутих домовленостей.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "70c2c0880fa9ea1c",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/02/novini-harkova-golovne-2-listopada",
+      "title": "Новини Харкова – головне 2 листопада: зламали додаток “Повітряна тривога”",
+      "published_at": "2026-11-02T05:30:52+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:30:52 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Основні новини доби – у хроніці МГ «Об’єктив». 07:30 Радіаційну та хімічну небезпеку оголошували в...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5c234ea96c259874",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/rosijskij-dron-atakuvav-vasisheve-postrazhdali-11-lyudej-sered-nih-tririchna-ditina",
+      "title": "Російський дрон атакував Васищеве: постраждали 11 людей, серед них трирічна дитина",
+      "published_at": "2026-11-02T05:30:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:30:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Увечері 1 листопада російські військові завдали удару по селищу Васищеве Харківського району. Внаслідок атаки постраждали 11 людей, зокрема трирічна дівчинка. Пошкоджено житлові будинки, на даху п’ятиповерхівки виникла пожежа",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c2fd0a308bd03959",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229400.html",
+      "title": "Енергетики повернули світло майже всім знеструмленим споживачам Дніпропетровщини – ОВА",
+      "published_at": "2026-11-02T05:28:09+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:28:09 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Енергетики після майже чотирьох діб безперервних робіт відновили електропостачання майже всім споживачам Дніпропетровської області після масованих російських атак, повідомив голова Дніпропетровської обласної військової адміністрації Олександр Ганжа у понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c405ab617e40c51a",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/02/777868_vchora_sili_oboroni_likviduvali.html",
+      "title": "Вчора Сили оборони ліквідували 2500 окупантів",
+      "published_at": "2026-11-02T05:26:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:26:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Від початку повномасштабного вторгнення втрати російських військ склали близько 1 592 770 солдатів.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d0104198e0332870",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-economy/4180302-grafiki-vidklucenna-svitla-v-ponedilok-diatimut-u-castini-oblastej.html",
+      "title": "Графіки відключення світла у понеділок діятимуть у частині областей",
+      "published_at": "2026-11-02T05:26:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:26:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У частині областей України в понеділок, 2 листопада, із 06:00 до 23:59 буде обмежене споживання електроенергії.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f12f3443e67e5be8",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131433-genshtab-armiya-rf-za-dobu-na-fronti-vtratila-2-500-svojih-viyskovih",
+      "title": "Генштаб: Армія РФ за добу на фронті втратила рекордні 2 500 своїх військових",
+      "published_at": "2026-11-02T05:25:51+00:00",
+      "published_raw": "Mon, 02 Nov 26 07:25:51 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "54ca516741064c69",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rosiyany-vykorystaly-gumanitarnu-pauzu-v-oleshkah-dlya-zmitsnennya-pozytsij-genshtab",
+      "title": "Російські війська зміцнювали позиції під час режиму тиші в Олешках – Генштаб",
+      "published_at": "2026-11-02T05:25:37+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:25:37 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сили оборони України забезпечили дотримання режиму припинення вогню під час гуманітарної операції в тимчасово окупованих Олешках Херсонської області. Водночас російські війська використали цю паузу для зміцнення своїх позицій. Запис Російські війська зміцнювали позиції під час режиму тиші в Олешках – Генштаб спершу з'явиться на Букви .",
+      "categories": [
+        "Війна Росії проти України",
+        "Новини",
+        "Війна в Україні",
+        "гуманітарна пауза",
+        "Олешки"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5851bf6965a370e9",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/povrezhdennye-doma-i-chetvero-ranenyh-poyavilis-podrobnosti-nochnoj-ataki-na-odessu",
+      "title": "Поврежденные дома и четверо раненых: появились подробности ночной атаки на Одессу",
+      "published_at": "2026-11-02T05:24:59+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:24:59 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Ночью российские войска атаковали Одессу, в результате чего пострадали четыре человека. Под удар попали объекты инфраструктуры, также повреждены два жилых дома и гараж. Взрывной волной выбило окна в соседних домах. На месте работают экстренные службы. Сообщение Поврежденные дома и четверо раненых: появились подробности ночной атаки на Одессу появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "атака",
+        "инфраструктура",
+        "обстрел",
+        "раненые"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a027d9f5a65a9f93",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/273609-drony-atakuvaly-samaru-v-rosiyi-ymovirno-urazyly-naftotransportnyy-vuzol",
+      "title": "Дрони атакували Самару в росії — ймовірно, уразили нафтотранспортний вузол",
+      "published_at": "2026-11-02T05:24:00+00:00",
+      "published_raw": "2026-11-02T07:24:00+02:00",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b390745c71363df9",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229398.html",
+      "title": "Сили оборони дотрималися режиму тиші в Олешках на тлі укріплення позицій окупантами – Генштаб",
+      "published_at": "2026-11-02T05:22:44+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:22:44 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Підрозділи Сил оборони України забезпечили повне дотримання режиму припинення вогню для проведення гуманітарної операції в тимчасово окупованому місті Олешки Херсонської області, тоді як російські війська використали паузу для ротації та інженерного облаштування позицій, повідомив Генеральний штаб Збройних сил України у понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b18bc512c76c085c",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229397.html",
+      "title": "Окупанти за добу втратили 936 БпЛА та 2500 осіб – Генштаб",
+      "published_at": "2026-11-02T05:21:54+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:21:54 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сили оборони України за добу ліквідували 2500 окупантів, один танк, сім бойових броньованих машин, 46 артилерійських систем, 936 безпілотних літальних апаратів, а також 371 автомобіль, інформує Генеральний штаб Збройних сил України у ранковому зведенні у Телеграм у понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "021bee56459fa0af",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/dsns-oprylyudnyla-ofitsijne-povidomlennya-shhodo-roboty-system-opovishhennya-i572006",
+      "title": "ДСНС оприлюднила офіційне повідомлення щодо роботи систем оповіщення",
+      "published_at": "2026-11-02T05:19:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:19:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "\"Загальнодержавна система оповіщення працює в штатному режимі. Всі сигнали про загрози передаються до обласних адміністрацій та, відповідно, до вуличних систем оповіщення\", - повідомила ДСНС України в соцмережах 2 листопада. Громадян закликали стежити за офіційною інформацією органів місцевої...",
+      "categories": [
+        "Країна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "00fde63d3778bccd",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/odesa-obstril-2-listopada-rosiyski-viyska-poranili-chotiroh-lyudey-poshkodzheno-zhitlo-foto-50655345.html",
+      "title": "Росіяни вночі атакували Одесу: пошкоджено житлові будинки, четверо людей поранені",
+      "published_at": "2026-11-02T05:18:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:18:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Російські війська у ніч проти понеділка, 2 листопада, атакували Одесу. Внаслідок удару четверо людей отримали поранення, повідомив очільник Одеської міської військової адміністрації Сергій Лисак.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f023176f762f6d57",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/02/777866_unochi_rosiya_poranila_chotiroh.html",
+      "title": "Уночі Росія поранила чотирьох мешканців Одеси",
+      "published_at": "2026-11-02T05:17:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:17:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Під ударом опинилися об’єкти інфраструктури.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b94c4fb19c765e12",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-odesa-ataka-rf-postrazhdali/33888676.html",
+      "title": "Після двох тижнів перерви війська РФ атакували Одесу, є постраждалі – влада",
+      "published_at": "2026-11-02T05:16:31+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:16:31 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Внаслідок атаки поранені четверо людей",
+      "categories": [
+        "Новини | Події",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5af14ef2018d04de",
+      "source_id": "map-577",
+      "source": "Odesa.Online",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa.online/nichna-ataka-na-odesu-postrazhdali-lyudi-ta-zhitlovi-budinki",
+      "title": "Нічна атака на Одесу: постраждали люди та житлові будинки",
+      "published_at": "2026-11-02T05:15:35+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:15:35 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Вночі російські війська атакували Одесу. Поранення отримали четверо людей. Про це повідомили в Одеській міській військовій адміністрації. Унаслідок атаки пошкоджено два житлові будинки та гараж. Вибуховою хвилею вибило вікна в сусідніх оселях. Під ударом також опинилися об’єкти інфраструктури. На місці працюють відповідні служби та оперативний штаб. Триває ліквідація наслідків атаки та допомога постраждалим. Сообщение Нічна атака на Одесу: постраждали люди та житлові будинки появились сначала на Новини Одеси - Odesa Online .",
+      "categories": [
+        "Війна",
+        "Новини",
+        "атака на Одесу",
+        "наслідки прильоту",
+        "НОВИНИ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3e500deb9fd5597",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/02/radiatsijnu-ta-himichnu-nebezpeku-ogoloshuvali-v-ukrayini-shho-stalosya",
+      "title": "Радіаційну та хімічну небезпеку оголошували в Україні: що сталося",
+      "published_at": "2026-11-02T05:15:03+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:15:03 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Увечері 1 листопада додаток «Повітряна тривога» розсилало лячні оповіщення. Писали про нібито радіаційну та хімічну...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1c1303e8cf2df0a0",
+      "source_id": "map-332",
+      "source": "Слобідський край",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://slk.kh.ua/news/suspilstvo/svato-2-listopada-prikmeti-tradicii-ta-zaboroni.html",
+      "title": "Свято 2 листопада: прикмети, традиції та заборони",
+      "published_at": "2026-11-02T05:14:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:14:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Розповідаємо, яке церковне свято відзначається в Україні у понеділок, 2 листопада, за новим стилем, що не можна робити, які народні прикмети, а також у кого іменини.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f273cea51a8696ef",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/politics/144019-premyer-ministr-uhorshchyny-peter-madiar-rozpoviv-pro-pradida-iakyy-pratsiuvav-u-mukachevi",
+      "title": "Прем’єр-міністр Угорщини Петер Мадяр розповів про прадіда, який працював у Мукачеві",
+      "published_at": "2026-11-02T05:14:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:14:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Прадід прем’єр-міністра Угорщини Петера Мадяра працював у Мукачеві. Про своє родинне коріння угорський політик повідомив у дописі на Facebook.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8d0e2d09a4a76590",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/ekonomika-kitayu-kennet-rogoff-pro-bum-tehnologiy-ta-krizu-neruhomosti-50654943.html",
+      "title": "Чим загрожує Китаю криза на ринку нерухомості",
+      "published_at": "2026-11-02T05:13:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:13:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Китайська економіка дуже нагадує культуриста, який накачав лише торс",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "677c22fa4ccaa89c",
+      "source_id": "map-1147",
+      "source": "ПІК",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://pik.net.ua/2026/11/02/pid-harkovom-rosijskyj-dron-vluchyv-u-zhytlovyj-budynok-postrazhdaly-11-lyudej",
+      "title": "Під Харковом російський дрон влучив у житловий будинок: постраждали 11 людей",
+      "published_at": "2026-11-02T05:12:38+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:12:38 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У більшості постраждалих медики діагностували гостру реакцію на стрес.",
+      "categories": [
+        "Війна росії проти України",
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e0e3e6d74f5fc995",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/02/777864_dsns_zagalnoderzhavna_sistema.html",
+      "title": "ДСНС: загальнодержавна система оповіщення працює в штатному режимі",
+      "published_at": "2026-11-02T05:12:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:12:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Всі сигнали про загрози передаються до обласних адміністрацій та до вуличних систем оповіщення.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9cf077830cb29873",
+      "source_id": "map-103",
+      "source": "Inform.zp",
+      "geography": "regional",
+      "source_region": "zaporizhzhia",
+      "url": "https://inform.zp.ua/uk/2026/11/02/404388_masove-vidklyuchennya-svitla-u-zaporizhzhi-cherez-remont-adresy-34",
+      "title": "Масове відключення світла у Запоріжжі через ремонт (АДРЕСИ)",
+      "published_at": "2026-11-02T05:09:49+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:09:49 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сьогодні, 2 листопада, у Запоріжжі низка будинків тимчасово залишиться без світла у зв’язку з аварійним, плановим та терміновим ремонтом електрообладнання. Сообщение Масове відключення світла у Запоріжжі через ремонт (АДРЕСИ) появились сначала на inform.zp.ua .",
+      "categories": [
+        "ЖКГ",
+        "відключення світла",
+        "Війна Росії з Україною",
+        "Запоріжжя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8b2b6fcbec346a45",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-henshtab-zsu-viyska-rf-vtraty/33888674.html",
+      "title": "У перший день листопада Росія втратила 2500 військових – Генштаб ЗСУ",
+      "published_at": "2026-11-02T05:08:04+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:08:04 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "За час повномасштабного вторгнення в Україну Росія втратила близько 1 592 770 солдатів",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0f5adaa5a17df758",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/armiya-rf-za-dobu-vtratyla-2500-vijskovyh-i572003",
+      "title": "Армія РФ за добу втратила 2500 військових",
+      "published_at": "2026-11-02T05:07:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:07:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "\"Загальні бойові втрати противника від початку повномасштабного вторгнення станом на 2 листопада 2026 року - особовий склад: близько 1592770 (+2500) осіб\", - повідомив Генштаб ЗСУ 2 листопада. Знищено й уражено 7 бойових броньованих машин, танк, 46 артилерійських систем, 2 РСЗВ, засіб ППО, 9...",
+      "categories": [
+        "Донбас"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0c4bf74ea8ff31b0",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/texts/131391-melaniya-tramp-obiyshla-papu-rimskogo-i-vryatuvala-zhiteliv-oleshkiv-cyu-istoriyu-svitovi-prodayut-putin-i-mark-bekman-iz-putinim-vse-yasno-a-hto-takiy-bekman-poyasnyuyemo",
+      "title": "Меланія Трамп обійшла Папу Римського і врятувала жителів Олешків — цю історію світові продають Путін і Марк Бекман. Із Путіним все ясно, а хто такий Бекман — пояснюємо",
+      "published_at": "2026-11-02T05:06:36+00:00",
+      "published_raw": "Mon, 02 Nov 26 07:06:36 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У ніч проти 29 жовтня, за пʼять днів до виборів у Конгрес США, Меланія Трамп поширила в X допис спецпредставника Путіна Кирила Дмитрієва. Він вітав журналістів американського телеканалу Newsmax, які вирушили до окупованих Олешків висвітлювати доставку допомоги й евакуацію. Меланія назвала їх «нейтральними спостерігачами», а операцію — «історичною гуманітарною місією». Від її імені про режим тиші в Олешках, доставку допомоги й евакуацію жителів домовлявся Марк Бекман — рекламник і продюсер, який понад двадцять років просуває особистий бренд дружини Трампа.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86935a7d1f92727f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229395.html",
+      "title": "2 листопада: Яке сьогодні свято, все про цей день",
+      "published_at": "2026-11-02T05:05:43+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:05:43 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "2 листопада в Україні та світі відзначають Міжнародний день припинення безкарності за злочини проти журналістів.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "67f580a8f1c112b5",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/chernivtsi_news/365931-pogoda-na-bukovyni-2-lystopada.html",
+      "title": "Погода на Буковині 2 листопада",
+      "published_at": "2026-11-02T05:00:59+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:00:59 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Без істотних опадів.",
+      "categories": [
+        "Новини Чернівців / погода чернівці"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "69beaab5dd7d4603",
+      "source_id": "map-1114",
+      "source": "Інформатор Коломия",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://kl.informator.ua/uk/cey-den-v-kalendari-svyata-imenini-ta-prikmeti-2-listopada",
+      "title": "Цей день в календарі: свята, іменини та прикмети 2 листопада",
+      "published_at": "2026-11-02T05:00:18+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:00:18 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сьогодні відзначають Міжнародний день припинення безкарності за злочини проти журналістів, День «Розфарбуй світ у помаранчевий», День динамічної нешкідливості.",
+      "categories": [
+        "НОВИНИ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7781f1d4aafaa859",
+      "source_id": "map-1147",
+      "source": "ПІК",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://pik.net.ua/2026/11/02/zastosunok-povitryana-tryvoga-chastkovo-vidnovyv-robotu-pislya-kiberataky",
+      "title": "Застосунок «Повітряна тривога» частково відновив роботу після кібератаки",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Користувачам знову надходять push-сповіщення про небезпеку, а на карті доступна інформація про рівні загрози.",
+      "categories": [
+        "Соціум",
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "15884cbb2f0a6a30",
+      "source_id": "map-365",
+      "source": "Твоє місто",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://tvoemisto.tv/uk/news/13072-detali-rosiyskoyi-ataky-po-lvivshchyni-shcho-chekaye-na-lvivyan-u-lystopadi-ta-chy-mobilizuvaly-psevdoaktyvista-stakhiva-klyuchove-za-1-lystopada",
+      "title": "Деталі російської атаки по Львівщині, що чекає на львів’ян у листопаді та чи мобілізували псевдоактивіста Стахіва. Ключове за 1 листопада",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 GMT",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Нині 1 713 доба героїчного спротиву агресії рф.",
+      "categories": [
+        "CityLife"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7e9a8829c3b1e33e",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/municipal/325775-kharchuvannia-ditei-shkolakh-dytsadkakh-mykolaieva-2027-rotsi-potribno",
+      "title": "На харчування дітей у школах і дитсадках Миколаєва у 2027 році потрібно більше ₴393 млн",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У 2027 році на харчування дітей у школах і дитячих садках Миколаєва планують витратити понад 393 мільйони гривень. Більшу частину цієї суми — 236 мільйонів гривень — розраховують покрити з бюджету міста.",
+      "categories": [
+        "Самоврядування"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "86f16581b2b2c948",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/dds/lagidna-ukrayinizacziya-chy-ye-v-ukrayinskij-slovo-oryeshnik.html",
+      "title": "Лагідна українізація: чи є в українській слово «орєшнік»",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Не засмічуйте мову суржиком Сообщение Лагідна українізація: чи є в українській слово «орєшнік» появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Для дому і сім'ї",
+        "лагідна українізація",
+        "мова",
+        "українізація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2ddc26049194ba44",
+      "source_id": "map-1253",
+      "source": "Полісся News",
+      "geography": "regional",
+      "source_region": "rivne",
+      "url": "https://polissia.news/divam-poryadok-skorpionam-rishuchi-kroky-goroskop-na-2-lystopada",
+      "title": "Дівам — порядок, Скорпіонам — рішучі кроки: гороскоп на 2 листопада",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Понеділок, 2 листопада, принесе гарні можливості для запуску нових проєктів, фінансового планування та зміцнення ділових зв'язків. Зорі радять зосередитися на пріоритетах та не витрачати сили на другорядні суперечки.",
+      "categories": [
+        "Гороскоп",
+        "Корисне"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f486b776af878ba",
+      "source_id": "map-1119",
+      "source": "Ворскла",
+      "geography": "regional",
+      "source_region": "sumy",
+      "url": "https://vorskla1930.com.ua/lyudy-nashogo-krayu/pochny-tyzhden-iz-horoshogo-pidtrymaj-vorsklu",
+      "title": "Почни тиждень із хорошого. Підтримай «Ворсклу»!",
+      "published_at": "2026-11-02T05:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Людмила Скляр із-за кордону передплатила «Ворсклу» для земляків-переселенців у Груні. Історія про добро, підтримку та зв’язок із рідним краєм. Запис Почни тиждень із хорошого. Підтримай «Ворсклу»! спершу з'явиться на Медіа \"Ворскла\" .",
+      "categories": [
+        "Люди нашого краю"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3ef6dd1c387940ff",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180246-ponedilok-bude-bez-istotnih-opadiv-podekudi-do-15-tepla.html",
+      "title": "У понеділок без істотних опадів, подекуди до 15° тепла",
+      "published_at": "2026-11-02T04:57:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:57:00 +0200",
+      "fetched_at": "2026-11-01T23:35:28+00:00",
+      "description": "У понеділок, 2 листопада, в Україні очікується хмарна погода без істотних опадів, лише вдень на півдні Одещини пройде невеликий дощ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bd3c09cfac9fee8d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/yak-biznes-ta-vlada-dolayut-naslidki-viyni-y-chomu-strahuvannya-ta-krediti-zminyuyut-ukrajinsku-ekonomik-50654085.html",
+      "title": "«У повітрі витає дух 1919 року». Де владі, банкам і бізнесу знайти 90 млрд грн під час війни",
+      "published_at": "2026-11-02T04:55:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:55:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Чи здатні влада та бізнес знайти спільну мову під час війни? Як зупинити падіння доходів бюджету, подолати тіньовий ринок тютюну, залучити інвестиції та відновити кредитування? Ключові тези другої дискусійної панелі заходу NV.",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bab1287881dc3fb4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/kiberataka-na-domino-v-sloveniji-zlovmisnik-otrimav-dani-ponad-15-tisyach-koristuvachiv-50655341.html",
+      "title": "У Словенії хакер викрав понад 15 тисяч записів із державної інформаційної системи",
+      "published_at": "2026-11-02T04:52:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:52:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Словенії невідомий зловмисник отримав доступ до понад 15 тисяч записів користувачів державної інформаційної системи Domino. Серед викрадених даних — понад 7,2 тисячі записів із хешованими паролями.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "883db294d4bea8e2",
+      "source_id": "map-883",
+      "source": "20 хвилин. Вінниця",
+      "geography": "regional",
+      "source_region": "vinnytsia",
+      "url": "https://vn.20minut.ua/Vid-Chytachiv/rada-diy-vinnichchini-spilna-meta-ta-gotovnist-peretvoryuvati-ideyi-na-12011604.html",
+      "title": "Рада дій Вінниччини: спільна мета та готовність перетворювати ідеї на конкретні рішення.",
+      "published_at": "2026-11-02T04:47:55+00:00",
+      "published_raw": "2026-11-02T06:47:55+02:00",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "До Ради увійшли перші 10 представників різних сфер: місцевого самоврядування, військової справи, освіти, науки, журналістики, права, аграрного сектору, інформаційних технологій, психології та бізнесу. Це люди, які не лише мають вагомий професійний досвід, а й добре розуміють виклики, з якими сьогодні стикається суспільство. Саме їхні знання та практичний досвід стануть основою для напрацювання ініціатив, визначення пріоритетів і пошуку дієвих рішень. Голова Ради дій — Роман Корченюк.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8bdbe3cc3a073648",
+      "source_id": "map-883",
+      "source": "20 хвилин. Вінниця",
+      "geography": "regional",
+      "source_region": "vinnytsia",
+      "url": "https://vn.20minut.ua/Vid-Chytachiv/gelovin-iz-molodizhnim-vaybom-kreativom-i-priemnimi-syurprizami-12011603.html",
+      "title": "Геловін із молодіжним вайбом, креативом і приємними сюрпризами!",
+      "published_at": "2026-11-02T04:43:53+00:00",
+      "published_raw": "2026-11-02T06:43:53+02:00",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "На учасників чекали тематичні розваги, інтерактиви та можливість проявити себе: 🧪 «Таємне зілля Геловіну» — вгадай напій із першого ковтка! 👻 Конкурс костюмів — найкреативніші образи отримали подарунки. 🎡 «Колесо моторошної удачі» — несподівані завдання та веселі випробування 📸 «Дзеркало перевтілень» — тематична фотозона для яскравих кадрів. А ще — солодощі, брендовані подарунки та квитки на концерт LELY45 від партнерів «Вінниця концерт»! Музика, атмосфера, нові знайомства й море студентської енергії — саме таким має бути молодіжний Геловін!",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "996d97727f2790f9",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/fejkovye-soobscheniya-o-radiaczionnoj-ugroze-chto-proizoshlo-s-prilozheniem-vozdushnaya-trevoga",
+      "title": "Фейковые сообщения о радиационной угрозе: что произошло с приложением «Воздушная тревога»",
+      "published_at": "2026-11-02T04:43:38+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:43:38 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Сообщения о радиационной опасности, появившиеся после кибератаки на приложение «Воздушная тревога», могли серьезно напугать украинцев. В Минцифры призвали пользоваться альтернативными источниками информации, а в ГСЧС объяснили, продолжают ли работать привычные системы оповещения. Сообщение Фейковые сообщения о радиационной угрозе: что произошло с приложением «Воздушная тревога» появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "тревога",
+        "фейк"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9a76b309ab5f51a6",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-oleshky-pauza-henshtab-zsu-viyska-rf/33888669.html",
+      "title": "Гуманітарна місія в Олешках: у ЗСУ заявили, що війська РФ використали паузу для облаштування своїх позицій",
+      "published_at": "2026-11-02T04:42:53+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:42:53 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Як повідомляє Генштаб, за час «режиму тиші» було зафіксовано ротацію російських підрозділів, укріплення позицій, розширення антидронових засобів на дорогах і нарощування логістики",
+      "categories": [
+        "Новини | Події",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3549187525614e70",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060790",
+      "title": "Трамп заявив, що США шпигують за Китаєм і Росією краще, ніж ті за Штатами",
+      "published_at": "2026-11-02T04:40:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:40:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Дональд Трамп визнав взаємне шпигунство між США, Китаєм і Росією. Про це він сказав на мітингу в Айові, коментуючи роль розвідки.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2ee44b60e1f762b7",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/life/144016-iak-u-mukachevi-zminiat-shkilnu-merezhu-z-2027-roku",
+      "title": "Як у Мукачеві змінять шкільну мережу з 2027 року",
+      "published_at": "2026-11-02T04:40:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:40:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "З 1 вересня 2027 року освітня мережа Мукачівської громади складатиметься з п’яти академічних ліцеїв, 25 гімназій та однієї початкової школи. Навчання у 10-12 класах стане можливим лише в ліцеях, коледжах або профільних закладах.",
+      "categories": [
+        "Життя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "30d967c543bcd3cc",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/okupanti-atakuvali-izjum-kabami-poshkodzheno-zhitlo-ta-infrastrukturu-poraneno-chotirokh-ljudej.html",
+      "title": "Окупанти атакували Ізюм КАБами: пошкоджено житло та інфраструктуру, є постраждалі",
+      "published_at": "2026-11-02T04:35:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:35:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Дані про наслідки атаки уточнюються.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cdd098af690b18d9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180360-brigada-karadag-otrimala-vid-zaporizkoi-oblasti-tehniku-na-6-miljoniv.html",
+      "title": "Бригада «Кара-Даг» отримала від Запорізької області техніку на ₴6 мільйонів",
+      "published_at": "2026-11-02T04:34:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:34:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Бригаді «Кара-Даг», яка тримає оборону на одному з найважчих напрямків Донеччини, передали техніку на 6 млн грн, придбану за кошти оборонного фонду Запорізької області.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7fdb22939881777b",
+      "source_id": "map-258",
+      "source": "Радіо Свобода Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://radiosvoboda.org/a/vivaldi-nastup-donbas/33887598.html",
+      "title": "«Вони не звикли, що полюють на них»: як операція «Вівальді» зірвала плани Росії на Донбасі",
+      "published_at": "2026-11-02T04:30:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:30:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "«За рахунок цього у противника рухнула величезна ділянка фронту»",
+      "categories": [
+        "Донбас",
+        "Україна",
+        "Суспільство",
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cf6fbdb406680c86",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/nova-sistema-bronyuvannya-pidvishchennya-pensiy-subsidiji-shcho-zminitsya-z-1-listopada-v-ukrajini-50654127.html",
+      "title": "Нові правила бронювання, рання комендатська година на Донеччині, час субсидій: що зміниться в Україні в листопаді",
+      "published_at": "2026-11-02T04:20:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:20:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У листопаді в Україні запрацює основна частина нововведень у бронюванні працівників критичних підприємств, а в Краматорську, Слов’янську та інших районах Донецької області запровадять комендантську годину з 16:00 до 11:00.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "77eec689985c2c0a",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-tramp-iran-pohroza-udar/33888664.html",
+      "title": "Трамп заявив на мітингу, що США, можливо, доведеться завдати Ірану «нищівного удару»",
+      "published_at": "2026-11-02T04:17:38+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:17:38 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "«І єдина причина, чому я ще не покінчив з Іраном, полягає в тому, що я хочу бути добрим», – сказав він своїм прихильникам 1 листопада на мітингу в штаті Айова",
+      "categories": [
+        "Новини | Події",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e8e3eec1a5375d2",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060791",
+      "title": "Росіяни використали \"режим тиші\" в районі Олешків для зміцнення своїх позицій – Генштаб",
+      "published_at": "2026-11-02T04:15:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:15:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Під час гуманітарної паузи в Олешках російські війська провели ротацію, укріпили оборону та посилили антидронові заходи, заявили у Генштабі ЗСУ.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b244a827bc79690d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4180359-sikorskij-polsu-na-samiti-g20-nastupnogo-roku-predstavlatime-tusk.html",
+      "title": "Сікорський: Польщу на саміті G20 наступного року представлятиме Туск",
+      "published_at": "2026-11-02T04:13:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:13:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "На саміті лідерів країн G20 у британському Манчестері наступного року Польщу представлятиме прем’єр-міністр Дональд Туск.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4de43ec383dfb267",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/odesskij-yumor-9",
+      "title": "Любителям осени посвящается: бодрящий одесский юмор в понедельник",
+      "published_at": "2026-11-02T04:11:11+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:11:11 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Второй день ноября встретил нас истинной осенней классикой — когда на улице свежо, а душа требует уюта, горячего чая и хорошей шутки. Любителям шуршать листвой (и тем, кто просто мечтает доспать еще полчасика) посвящается наша свежая порция утреннего юмора. Сообщение Любителям осени посвящается: бодрящий одесский юмор в понедельник появились сначала на Одеське життя .",
+      "categories": [
+        "Positive News",
+        "Новости Одессы",
+        "одесский юмор",
+        "юмор"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "31e4003f9fcb61e3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/gumanitarna-operaciya-v-oleshkah-zsu-dotrimalisya-rezhimu-pripinennya-vognyu-50655344.html",
+      "title": "РФ використала режим тиші в Олешках для посилення своїх позицій — Генштаб",
+      "published_at": "2026-11-02T04:09:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 06:09:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Підрозділи Сил оборони України дотримувалися режиму припинення вогню під час гуманітарної операції в Олешках на Херсонщині та діяли в межах досягнутих домовленостей.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "242c9acee818ceca",
+      "source_id": "map-873",
+      "source": "Менщина",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://mena.org.ua/pohoda-v-meni-na-02-11-2026",
+      "title": "Погода в Мені на 02.11.2026",
+      "published_at": "2026-11-02T04:08:29+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:08:29 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Запис Погода в Мені на 02.11.2026 спершу з'явиться на Менщина .",
+      "categories": [
+        "Погода"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d5a702261e380f7b",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/02/sogodni-2-listopada-2026-yake-svyato-ta-den-v-istoriyi",
+      "title": "Сьогодні 2 листопада 2026: яке свято та день в історії",
+      "published_at": "2026-11-02T04:00:09+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:00:09 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "2 листопада 1938 року відбувся Перший Віденський арбітраж. У тому ж році харків’янка Валентина Гризодубова стала...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "893c078eaf80ef61",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-diaspora/4180356-u-vasingtonskomu-nacionalnomu-sobori-molilisa-za-vikradenih-rosieu-ukrainskih-ditej.html",
+      "title": "У Вашингтонському національному соборі молилися за викрадених Росією українських дітей",
+      "published_at": "2026-11-02T03:49:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:49:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Вашингтонському національному соборі відбулася спільна молитовна служба за викрадених Росією та постраждалих від війни українських дітей.",
+      "categories": [
+        "Діаcпора"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c555c200c4fc5faf",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/kiberataka-na-mns-rf-khakeri-rozislali-spovishchennja-pro-trivohu-cherez-zapusk-jadernikh-bojeholovok.html",
+      "title": "Злам МНС РФ: росіянам розіслали повідомлення про «запуск ядерних боєголовок»",
+      "published_at": "2026-11-02T03:41:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:41:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У відомстві підтвердили, що мобільний застосунок МНС Росії зазнав масштабної кібератаки.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6248154a9c42f9e4",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/prognoz-magnitnyh-bur-na-ponedelnik-2-noyabrya-chego-zhdat-meteochuvstvitelnym",
+      "title": "Будет ли штормить 2 ноября: обновленный прогноз геомагнитной активности",
+      "published_at": "2026-11-02T03:39:38+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:39:38 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "В понедельник, 2 ноября, геомагнитное поле Земли перейдет в стадию стабилизации после небольших возмущений. По данным астрофизиков, уровень солнечной активности будет оставаться низким, а K-индекс не превысит «зеленую» норму. Сообщение Будет ли штормить 2 ноября: обновленный прогноз геомагнитной активности появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "астропрогноз",
+        "магнитные бури",
+        "прогноз"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5cc40700206ce6f8",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/putin-u-pastci-pislya-oleshok-reyterovich-pro-naslidki-peremir-ya-dlya-evakuaciji-50655332.html",
+      "title": "«Політичний хабар». Путін подарував Трампу евакуацію з Олешок, але потрапив у пастку: як Україні цим скористатися — інтерв'ю з Рейтеровичем",
+      "published_at": "2026-11-02T03:37:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:37:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Політолог Ігор Рейтерович в інтерв’ю Radio NV - про наслідки перемир’я заради евакуації з Олешок для України, РФ і США, і як можна використати цей успішний кейс.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "40e4f39b7c9d99e6",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144017-ukrayintsi-iaki-maiut-diiu-na-telefoni-mozhut-otrymaty-bazovu-dopomohu-iak-oformyty",
+      "title": "Українці, які мають Дію на телефоні, можуть отримати базову допомогу: як оформити",
+      "published_at": "2026-11-02T03:34:03+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:34:03 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Українці отримуватимуть виплати по-новому і першим кроком до змін стало запровадження базової соціальної допомоги. Уряд наперед пояснив нові правила оформлення виплати та чи змінено базову величину 4500 гривень.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ceebb6e4229df672",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/torgovelna-ugoda-ssha-ta-kanadi-tramp-i-karni-blizki-do-domovlenostey-50655342.html",
+      "title": "Трамп заявив, що США та Канада близькі до укладення торговельної угоди",
+      "published_at": "2026-11-02T03:32:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:32:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Президент США Дональд Трамп заявив, що Вашингтон і Оттава наблизилися до укладення торговельної угоди.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5a2a62f3dfc9951e",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180357-harkiv-u-zovtni-pereziv-rekordnu-kilkist-atak-mer.html",
+      "title": "Харків у жовтні пережив рекордну кількість атак - мер",
+      "published_at": "2026-11-02T03:18:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:18:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "За минулий місяць у Харкові повітряна тривога тривала 444 години – загалом це понад 18 діб.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6f3169cd1ee57c63",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144013-stari-umovy-zviazku-skasovuiut-iz-seredy-z-4-lystopada-iz-0000-vvodiat-mobilni-zminy",
+      "title": "Старі умови зв’язку скасовують із середи: з 4 листопада із 00:00 вводять мобільні зміни",
+      "published_at": "2026-11-02T03:07:15+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:07:15 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "З 4 листопада два тарифи буде змінено і мобільний оператор Київстар повідомив про нові умови їх використання. Абонентам слід підготуватись до нових правил або ж перейти на інші тарифні плани.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "32020828aa17ed44",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/325774-chas-humanitarnoi-misii-oleshkakh-syly-oborony-evakuiuvaly-167-liudei",
+      "title": "Під час гуманітарної місії в Олешках Сили оборони евакуювали 167 людей із правобережжя Херсонщини, — Генштаб",
+      "published_at": "2026-11-02T03:00:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 05:00:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Під час режиму припинення вогню, запровадженого на визначених ділянках Херсонської області для проведення гуманітарної місії в окупованих Олешках, Сили оборони евакуювали 167 цивільних із правобережжя Херсонщини.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "02d4a2413f9b908b",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/svit/iliyana-jotova-peremahaye-vyborax-bolhariyi-vidomo-pro-yiyi-pozycziyu-shhodo-rosiyi-ta-ukrayiny",
+      "title": "Іліяна Йотова перемагає на виборах у Болгарії: що відомо про її позицію щодо росії та України",
+      "published_at": "2026-11-02T02:56:46+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:56:46 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Іліяна Йотова перемагає у другому турі президентських виборів у Болгарії. Після підрахунку 98,43 відсотків протоколів вона набирає 57,64 відсотків голосів, а її опонент Андрей Гюров визнав поразку.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3c249b2b856482ad",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/prorosiyski-hakeri-atakuyut-civilnu-infrastrukturu-ta-zavodi-u-krajinah-nato-50655310.html",
+      "title": "Пароль «1234» та витік аміаку. Як диверсанти Кремля хакають заводи й водоканали Заходу — Bloomberg",
+      "published_at": "2026-11-02T02:55:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:55:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Кількість кібератак із фізичними наслідками для промисловості стрімко зростає у країнах НАТО. Замість складних операцій ГРУ Кремль активно залучає низькокваліфікованих хакерів, які масовано атакують цивільні об'єкти та сіють паніку.",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c734bfaffee5ac7d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4180358-ukrainskij-kinofestival-u-polsi-navcatime-skolariv-rozpiznavati-dezinformaciu.html",
+      "title": "Український кінофестиваль у Польщі навчатиме школярів розпізнавати дезінформацію",
+      "published_at": "2026-11-02T02:55:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:55:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У межах 11-го фестивалю українського кіно в Польщі вперше запровадили освітню програму для школярів з майстер-класами з розпізнавання дезінформації у відеоконтенті.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "826224458ebeb030",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060789",
+      "title": "У Росії зламали застосунок з \"тривогами\" і сповістили про запуск ядерних боєголовок P1-SUN",
+      "published_at": "2026-11-02T02:45:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:45:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Мобільний застосунок Міністерства надзвичайних справ РФ зазнав кібератаки – невідомі розіслали фейкові попередження про ядерний удар.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d56a6da18cfed2ab",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/kosmichni-tehnologiji-ukrajini-ta-turechchini-zelenskiy-anonsuvav-spilni-proyekti-50655339.html",
+      "title": "Україна та Туреччина обговорюють співпрацю у сфері супутникових технологій — Зеленський",
+      "published_at": "2026-11-02T02:38:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:38:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Україна та Туреччина розглядають можливість спільної роботи над супутниковими технологіями. Відповідні питання вже обговорили під час переговорів між країнами.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c292fa66e82f1ee4",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/suspilstvo/ne-vsim-pensioneram-vpo-potribno-proxodyty-identyfikacziyu-yaki-umovy-diyut-2026-roczi",
+      "title": "Не всім пенсіонерам-ВПО потрібно проходити ідентифікацію: які умови діють у 2026 році",
+      "published_at": "2026-11-02T02:30:59+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:30:59 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Пенсіонерам зі статусом ВПО не завжди потрібно проходити фізичну ідентифікацію до 31 грудня 2026 року. У ПФУ пояснили, від чого це залежить і як оновити адресу виплати пенсії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb3a3e245aad2d1f",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/other-sport/yevgen-sotnikov-zaginuv-u-koloniji-dzyudojist-vidbuvav-pokarannya-za-vbivstvo-18-richnogo-hlopcya-50655296.html",
+      "title": "«Відмовився з ним випити». Український дзюдоїст застрелив 18-річного хлопця — через 12 років його вбили в окупованій колонії",
+      "published_at": "2026-11-02T02:30:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:30:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Євген Сотніков представляв Україну на Олімпіаді-2008, а наступного року вбив 18-річного хлопця у кафе в Запоріжжі та сів за ґрати на 15 років. У 2021 році спортсмен загинув у колонії.",
+      "categories": [
+        "Спорт/Інше"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b894c6e2549d1d34",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4180309-teritorialna-cilisnoist-ukraini-vidpovidae-dovgostrokovim-interesam-tureccini-ekspert.html",
+      "title": "Територіальна цілісність України відповідає довгостроковим інтересам Туреччини - експерт",
+      "published_at": "2026-11-02T02:24:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:24:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Стабільність і збереження територіальної цілісності України відповідають довгостроковим інтересам Туреччини, оскільки безпосередньо впливають на її політику в Чорному морі та тюркському світі.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "80eb2833eab958b5",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229393.html",
+      "title": "Гуманітарна місія під час перемир'я в Олешках дала змогу евакуювати майже 800 людей – Меланія Трамп",
+      "published_at": "2026-11-02T02:06:58+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:06:58 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Планове гуманітарне перемир'я у тимчасово окупованому місті Олешки Херсонської області завершилося успішною доставкою критичної допомоги в регіон та евакуацією майже 800 мирних жителів, повідомила перша леді США Меланія Трамп у ніч на понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "af504d3255debb8b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/auto/articles/salon-avto-namok-pislya-doshchu-yak-shvidko-visushiti-i-pozbutisya-zapahu-50654627.html",
+      "title": "Озеро на задньому сидінні. Що робити, якщо ви забули зачинити вікна авто перед зливою",
+      "published_at": "2026-11-02T02:06:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:06:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Є особливий вид водійського жаху, який не зрівняється навіть із пробитим колесом чи запізненням на роботу.",
+      "categories": [
+        "Авто/Статті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ba2b04f7b0a39c6c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/donald-tramp-zayaviv-shcho-ssha-shpiguyut-za-rosiyeyu-ta-kitayem-poyasnennya-50655337.html",
+      "title": "Трамп заявив, що США шпигують за Росією та Китаєм",
+      "published_at": "2026-11-02T02:03:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 04:03:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Президент США Дональд Трамп заявив, що Вашингтон збирає розвідувальну інформацію про Росію та Китай. За його словами, Москва й Пекін також стежать за Сполученими Штатами, однак американська розвідка робить це ефективніше.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "da838a50cc0d2eb0",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/kitajski-virobniki-robotiv-perekhodjat-vid-skladnikh-rukhiv-do-rozvitku-shi-reuters.html",
+      "title": "Китайські виробники роботів переходять від складних рухів до розвитку ШІ — Reuters",
+      "published_at": "2026-11-02T01:59:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:59:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Розробники прагнуть навчити машини нових завдань без окремого програмування під кожну роботу.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d2721c8ddb9c3b53",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4180203-britanskij-dron-protector-uperse-zalucili-do-stezenna-za-rosijskim-flotom.html",
+      "title": "Британський дрон Protector уперше залучили до стеження за російським флотом",
+      "published_at": "2026-11-02T01:58:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:58:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Безпілотний літальний апарат Protector RG1 Королівських ВПС Великої Британії здійснив свої перші оперативні вильоти у повітряному просторі країни над Ла-Маншем, діючи спільно з бойовими кораблями та гелікоптерами для відстеження російського військового корабля протягом понад 10 годин.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9e5d7442cfaad5e0",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/mural-desantnyk-mystetskyi-provulok-dnipro",
+      "title": "У Мистецькому провулку Дніпра з’явився мурал із десантником, який оберігає ластівчине гніздо",
+      "published_at": "2026-11-02T01:47:09+00:00",
+      "published_raw": "Mon, 02 Nov 2026 01:47:09 +0000",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "The post У Мистецькому провулку Дніпра з’явився мурал із десантником, який оберігає ластівчине гніздо appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "культура",
+        "Мистецький провулок",
+        "мурали"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "ecb9c5eefed2b95c",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/svit/rosiyi-pislya-kiberataky-zastosunok-mns-poshyryly-povidomlennya-pro-yadernu-zahrozu",
+      "title": "У росії після кібератаки на застосунок МНС поширили повідомлення про ядерну загрозу",
+      "published_at": "2026-11-02T01:43:12+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:43:12 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У ніч проти 2 листопада в росії заявили про кібератаку на застосунок МНС та регіональні канали відомства. Користувачів лякали повідомленнями про запуск ядерних боєголовок.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d9f8aeddbffe7b60",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/prezidentski-vibori-v-bolgariji-yotova-lidiruye-pislya-ekzit-poliv-50655318.html",
+      "title": "Президентські вибори в Болгарії: у другому турі перемагає чинна президентка",
+      "published_at": "2026-11-02T01:41:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:41:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Болгарії, де у неділю, 1 листопада, пройшов другий тур президентських виборів, оприлюднили перші результати екзит-полів. Згідно з ними, чинна президентка Іліана Йотова випереджає колишнього тимчасового прем'єр-міністра Андрея Гюрова.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "51499f007d65504f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4180353-poblizu-palmbic-u-floridi-rozbivsa-privatnij-litak-zaginuli-devatero-ludej.html",
+      "title": "Поблизу Палм-Біч у Флориді розбився приватний літак, загинули дев’ятеро людей",
+      "published_at": "2026-11-02T01:25:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:25:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "В американському штаті Флорида у неділю зазнав катастрофи приватний літак Learjet 60, усі дев’ятеро людей, які перебували на борту, загинули.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b4c8074efdbbd999",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/teleskop-habbl-mozhut-pidnjati-na-vishchu-orbitu-nasa-zvernulosja-do-privatnikh-kompanij.html",
+      "title": "Телескоп «Габбл» можуть підняти на вищу орбіту: NASA звернулося до приватних компаній",
+      "published_at": "2026-11-02T01:23:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:23:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Серед варіантів — підняття орбіти, оновлення апарата та керований вхід в атмосферу Землі.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "679ff7a037820397",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060787",
+      "title": "На президентських виборах Болгарії перемогла проросійська кандидатка – ЗМІ",
+      "published_at": "2026-11-02T01:20:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:20:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Проросійська кандидатка Іліяна Йотова набирає 57,36% голосів, Андрей Гюров – 39,68%. Підраховано 92% протоколів за даними ЦВК Болгарії.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f8448660e62e3d51",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/chi-vitrimayut-mosti-kiyeva-udari-rf-ta-navishcho-potribni-perepravi-50654976.html",
+      "title": "Бетон та сталь проти ракет. Чи буде ефект від нових переправ через Дніпро у Києві та чи витримають мости столиці балістику, — аналіз NV",
+      "published_at": "2026-11-02T01:18:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:18:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Експерти з військової та інженерної справ пояснили NV, навіщо росіяни атакують київські мости, та чи ефективно відповідає ворогові на ці удари українська влада.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "95ce8930bb92f457",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/svit/tramp-prypustyv-stane-misterom-veto-yakshho-demokraty-otrymayut-bilshist-konhresi",
+      "title": "Трамп припустив, що стане «містером вето», якщо демократи отримають більшість у Конгресі",
+      "published_at": "2026-11-02T01:12:28+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:12:28 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Дональд Трамп припустив, що активно використовуватиме право вето, якщо демократи здобудуть більшість у Конгресі США на проміжних виборах, які пройдуть 3 листопада.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c08a487aae60c50e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/dodatok-trivoha-jmovirno-zlamano.html",
+      "title": "Застосунок «Тривога» зламано: сервіс поступово відновлює свою роботу",
+      "published_at": "2026-11-02T01:10:17+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:10:17 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Застосунок «Повітряна тривога» зазнав хакерської атаки.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "98caa408b91c9300",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/zlam-mns-rosiji-feykovi-povidomlennya-pro-yadernu-zagrozu-poshirili-u-krajini-50655338.html",
+      "title": "У Росії заявили про злам застосунку МНС: користувачам надсилали повідомлення про ядерну загрозу",
+      "published_at": "2026-11-02T01:05:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 03:05:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Росії невідомі зламали ресурси Міністерства з надзвичайних ситуацій і поширили повідомлення про нібито запуск ядерних боєголовок по всіх регіонах країни. Напередодні подібний злам стався з українським застосунком Повітряна тривога.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7f16c269247ed675",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/imperski-ambiciji-putina-zagroza-stabilnosti-ukrajini-i-svitu-yakiy-spravzhniy-plan-rosiji-na-donbas-50654844.html",
+      "title": "Справа зовсім не в Донбасі. Навіщо Путіну Київ",
+      "published_at": "2026-11-02T00:54:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:54:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Прецедент уже створено, а отже, відкривається шлях для нових агресивних авантюр",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f0596c5e082dcc85",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4180351-u-rosii-zlamali-derzavnu-sistemu-poperedzenna-pro-nadzvicajni-situacii.html",
+      "title": "У Росії зламали державну систему попередження про надзвичайні ситуації",
+      "published_at": "2026-11-02T00:46:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:46:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Російській Федерації невідомі зламали Єдину державну систему попередження та ліквідації надзвичайних ситуацій.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55b2b2edf484c4b3",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229391.html",
+      "title": "Мобільний застосунок \"Повітряна тривога\" поступово відновлює роботу після кібератаки – розробники",
+      "published_at": "2026-11-02T00:27:06+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:27:06 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Мобільний застосунок \"Повітряна тривога\" у ніч на понеділок поступово відновлює функціонування після ворожої кібератаки та знову надсилає сповіщення користувачам, повідомила команда розробників сервісу у ніч на понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5988d6e8b465c97c",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229389.html",
+      "title": "Падіння ворожого БпЛА поранило людину і пошкодило чотири будинки у Кременчуцькому районі – ОВА",
+      "published_at": "2026-11-02T00:24:10+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:24:10 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Одна людина дістала травми та чотири приватні будинки зазнали пошкоджень унаслідок падіння російського безпілотного літального апарата у Градизькій громаді Кременчуцького району Полтавської області, повідомив голова Полтавської обласної військової адміністрації (ОВА) Віталій Дяківнич у неділю.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "431d547d8b71ef6f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229387.html",
+      "title": "Застосунок \"Київ Цифровий\" і вулична система оповіщення столиці працюють у штатному режимі – КМДА",
+      "published_at": "2026-11-02T00:23:32+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:23:32 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Мобільний застосунок \"Київ Цифровий\" та вулична система оповіщення у столиці функціонують у штатному режимі й інформуватимуть громадян про небезпеку в разі виникнення загрози на тлі ворожого втручання в роботу застосунку \"Повітряна тривога\", повідомила Київська міська державна адміністрація у неділю.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8382986ebb9722ba",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229385.html",
+      "title": "Іліяна Йотова лідирує у другому турі виборів президента Болгарії з 58,16% голосів після обробки 72,65% протоколів",
+      "published_at": "2026-11-02T00:20:40+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:20:40 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Кандидатка у президенти Болгарії Іліяна Йотова у тандемі з претендентом на посаду віцепрезидента Кирилом Валчевим впевнено лідирує у другому турі президентських виборів із результатом 58,16% голосів виборців після опрацювання 72,65% протоколів, повідомляє Болгарське національне телебачення з посиланням на дані Центральної виборчої комісії у ніч на понеділок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a09cc8d5ea2e6662",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144005-vyplata-nadiyde-u-lystopadi-ale-ne-1000-zelenskoho-iaku-dopomohu-dadut-na-zymu",
+      "title": "Замість виплати «1000 Зеленського»: яку допомогу отримають українці на зиму",
+      "published_at": "2026-11-02T00:20:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:20:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Якщо минулого року більшість українців оформляли «1000 Зеленського», то у 2026-му допомогу змінили. У листопаді на картки заявників надійде інша «Зимова підтримка».",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b04df57bea9cbc80",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180347-u-novij-kahovci-na-tot-hersonsini-rizko-podorozcali-produkti-zurnalist.html",
+      "title": "У Новій Каховці на ТОТ Херсонщини різко подорожчали продукти - журналіст",
+      "published_at": "2026-11-02T00:19:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:19:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У тимчасово окупованих Новій Каховці й сусідньому Таврійську Херсонської області значно зросли ціни на харчові продукти.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b673ea1a202e6265",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/02/8060786",
+      "title": "Застосунок \"Повітряна тривога\" частково відновив роботу після кібератаки",
+      "published_at": "2026-11-02T00:18:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:18:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Повітряна тривога знову працює після зламу. Команда посилює захист, персональні дані користувачів не постраждали.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "efa7b24403cfb4b4",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/katar-namahajetsja-rozblokuvati-6-mlrd-iranskikh-aktiviv-dlja-vidkrittja-ormuzu.html",
+      "title": "Катар намагається розблокувати $6 млрд іранських активів для відкриття Ормузу",
+      "published_at": "2026-11-02T00:17:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:17:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Тегеран погодився скоротити графік із семи до двох днів, але очікує кроків Вашингтона.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c85c3a28236c6cf7",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229383.html",
+      "title": "Рятувальники ліквідували пожежу після російського авіаудару по складу в Запоріжжі – ДСНС",
+      "published_at": "2026-11-02T00:11:10+00:00",
+      "published_raw": "Mon, 02 Nov 2026 02:11:10 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Працівники Державної служби України з надзвичайних ситуацій у неділю ввечері ліквідували пожежу площею 600 кв.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fda13d3b4cf06256",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/02/novyna/bezpeka/zastosunok-povitryana-tryvoha-pryzupynyav-robotu-cherez-zlam-rozrobnyky-povidomyly-podrobyczi",
+      "title": "Застосунок «Повітряна тривога» призупинив роботу через злам: що відомо",
+      "published_at": "2026-11-01T23:59:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 01:59:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Команда застосунку Повітряна тривога підтвердила хакерське втручання, відключила push-сповіщення та тимчасово зупинила сервіс. Розробники запевнили, що персональні дані користувачів не постраждали.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e6a48579422202b5",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4180346-zastosunok-povitrana-trivoga-prizupiniv-robotu-cerez-zlam.html",
+      "title": "Застосунок «Повітряна тривога» відновлює роботу після зламу",
+      "published_at": "2026-11-01T23:52:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 01:52:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Команда додатка «Повітряна тривога» підтвердила стороннє втручання в його роботу – її було тимчасово призупинено.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4b91a560290f61d0",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/epidemiologichna-situaciya-u-kiyevi-moz-sprostuvalo-zagrozu-epidemiy-cherez-vidklyuchennya-50655336.html",
+      "title": "У МОЗ спростували чутки про загрозу епідемій у Києві на тлі відключень світла",
+      "published_at": "2026-11-01T23:50:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 01:50:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "У Києві не зафіксували спалахів небезпечних інфекційних захворювань, попри чутки про можливу епідемічну загрозу на тлі перебоїв з електропостачанням і водою.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "2a549903a04261b2",
       "source_id": "map-875",
@@ -62,6 +2815,25 @@
       "status": "new"
     },
     {
+      "id": "1d2051564510a068",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4180345-pidsumki-zustrici-g20-ta-kroki-do-deeskalacii-u-vijni-sibiga-proviv-rozmovu-z-glavou-mzs-kanadi.html",
+      "title": "Підсумки зустрічі G20 та кроки до деескалації у війні: Сибіга провів розмову з главою МЗС Канади",
+      "published_at": "2026-11-01T23:35:00+00:00",
+      "published_raw": "Mon, 02 Nov 2026 01:35:00 +0200",
+      "fetched_at": "2026-11-02T06:00:23+00:00",
+      "description": "Міністр закордонних справ Андрій Сибіга назвав продуктивною телефонну розмову, яку провів 1 листопада з канадською колегою Анітою Ананд.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b00c9934e56d98a6",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -104,7 +2876,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://zn.ua/ukr/europe/u-bolhariji-na-prezidentskikh-viborakh-peremohaje-ilijana-jotova-shcho-tse-oznachaje-dlja-ukrajini.html",
-      "title": "У Болгарії на президентських виборах перемогає Іліяна Йотова: що це означає для України",
+      "title": "У Болгарії на президентських виборах перемагає Іліяна Йотова: що це означає для України",
       "published_at": "2026-11-01T23:18:00+00:00",
       "published_raw": "Mon, 02 Nov 2026 01:18:00 +0200",
       "fetched_at": "2026-11-01T23:35:28+00:00",
@@ -401,25 +3173,6 @@
       "status": "new"
     },
     {
-      "id": "3ef6dd1c387940ff",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4180246-ponedilok-bude-bez-istotnih-opadiv-podekudi-do-15-tepla.html",
-      "title": "Понеділок буде без істотних опадів, подекуди до 15° тепла",
-      "published_at": "2026-11-01T22:21:00+00:00",
-      "published_raw": "Mon, 02 Nov 2026 00:21:00 +0200",
-      "fetched_at": "2026-11-01T23:35:28+00:00",
-      "description": "У понеділок, 2 листопада, в Україні очікується хмарна погода без істотних опадів, лише вночі місцями на північному сході, вдень і на півдні Одещини пройде невеликий дощ.",
-      "categories": [
-        "Регіони"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "b0a17fe8dd0dc7ca",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -633,77 +3386,33 @@
       "date_issues": [],
       "content_signals": {},
       "status": "new"
-    },
-    {
-      "id": "cafdcb259120cc1a",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/dodatok-povitryana-trivoga-ymovirno-bulo-zlamano-radiaciynoji-zagrozi-v-ukrajini-nemaye-povitryani-sili-zsu-50655333.html",
-      "title": "Застосунок Повітряна тривога було зламано, радіаційної загрози в Україні немає — що відомо",
-      "published_at": "2026-11-01T22:00:00+00:00",
-      "published_raw": "Mon, 02 Nov 2026 00:00:00 +0200",
-      "fetched_at": "2026-11-01T23:35:28+00:00",
-      "description": "Увечері 1 листопада Повітряні сили ЗСУ повідомили, що офіційний додаток Повітряна тривога «ймовірно піддався ворожому впливу», тобто був зламаний.",
-      "categories": [
-        "Україна/Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
     }
   ],
   "errors": [
+    {
+      "source": "Суспільне Новини",
+      "feed": "https://suspilne.media/rss/all.rss",
+      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
+    },
     {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
     },
     {
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
+    },
+    {
+      "source": "Перша електронна газета",
+      "feed": "https://persha.kr.ua/feed/",
+      "error": "https://persha.kr.ua/feed/: The read operation timed out"
+    },
+    {
       "source": "Еспресо: Біла Церква",
       "feed": "https://bc.espreso.tv/rss",
       "error": "https://bc.espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> "
-    },
-    {
-      "source": "Махала",
-      "feed": "https://mahala.com.ua/feed/",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Кордон.Медіа",
-      "feed": "https://kordon.media/feed/",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "На межі",
-      "feed": "https://mezha.city/feed/",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Свеса.Online",
-      "feed": "https://svesa.online/feed",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Середина-Буда.City",
-      "feed": "https://buda.city/?feed=rss2",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Хроніки прикордоння",
-      "feed": "https://hlukhiv.media/feed/",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Хутір.news",
-      "feed": "https://hutir.news/feed/",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
-    },
-    {
-      "source": "Ямпіль.INFO",
-      "feed": "https://www.yampil.info/feed",
-      "error": "feed parse error: <unknown>:94:2: mismatched tag"
     }
   ],
   "runs": [
@@ -712,6 +3421,12 @@
       "fetched": 34,
       "added": 34,
       "errors": 10
+    },
+    {
+      "at": "2026-11-02T06:00:23+00:00",
+      "fetched": 173,
+      "added": 142,
+      "errors": 5
     }
   ]
 }
