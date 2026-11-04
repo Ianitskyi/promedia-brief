@@ -1,9 +1,1178 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03T20:58:34+00:00",
+  "generated_at": "2026-11-04T01:20:22+00:00",
   "source_count": 125,
-  "item_count": 2311,
+  "item_count": 2369,
   "items": [
+    {
+      "id": "4d61dbb8c084e49b",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/03/778340_golovne_vivtorok_3_listopada.html",
+      "title": "Головне за вівторок, 3 листопада: понад 200 боєзіткнень, удар по ТРЦ в Одесі, Київ без води і світла",
+      "published_at": "2026-11-03T21:59:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:59:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Бойові дії на Донеччині, 201 бойове зіткнення, ворожі обстріли, підозра Юлії Мендель. Яким запам’ятається 1714-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9453dbc765fdb238",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/sport/2026/11/03/778338_shahtar_minimalno_postupivsya.html",
+      "title": "\"Шахтар\" мінімально поступився \"Спортінгу\" у Лізі чемпіонів",
+      "published_at": "2026-11-03T21:59:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:59:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Друга поспіль поразка \"гірників\" у матчі, де все могло скластися на користь донеччан.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "35cda6595380b39b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/barselona-aston-villa-divitisya-bezkoshtovno-onlayn-video-goliv-translyaciya-ligi-chempioniv-50655920.html",
+      "title": "Барселона розгромила Астон Віллу: відео голів та огляд матчу Ліги чемпіонів",
+      "published_at": "2026-11-03T21:58:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "У вівторок, 3 листопада, відбувся матч четвертого туру групового етапу Ліги чемпіонів. Іспанська Барселона на власному полі обіграла англійську Астон Віллу.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4423e89d5f93539b",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/03/novyna/suspilstvo/zhytomyri-stavsya-blekaut-pislya-rosijskoyi-ataky-enerhetyku",
+      "title": "У Житомирі стався блекаут після російської атаки на енергетику",
+      "published_at": "2026-11-03T21:56:07+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:56:07 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Унаслідок російської атаки увесь Житомир залишився без електропостачання. У місті та деяких районах області вже розгорнуті пункти незламності.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d09d1804bb63e1b2",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/najmasovishij-obstril-u-komishuvasi-58-ljudej-vvazhajut-zniklimi-bezvisti.html",
+      "title": "«Наймасовіший обстріл»: у Комишувасі 58 людей вважають зниклими безвісти",
+      "published_at": "2026-11-03T21:56:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:56:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Загинула 31 людина.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "49007e05ddb1da92",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-odesu-rosiyski-viyska-vdarili-po-tc-povidomlyayetsya-pro-pozhezhu-50656051.html",
+      "title": "Війська РФ вдарили по торговельному центру в Одесі, виникла пожежа",
+      "published_at": "2026-11-03T21:55:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:55:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Ввечері вівторка, 3 листопада, російські війська вдарили по будівлі торговельного центру в Одесі. На місці атаки виникла пожежа",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1237193ef04de31c",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/v-odesse-pod-udar-rossijskogo-drona-popal-torgovyj-czentr-voznik-pozhar-chto-izvestno-ob-atake",
+      "title": "В Одессе под удар российского дрона попал торговый центр: возник пожар, что известно об атаке",
+      "published_at": "2026-11-03T21:52:42+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:52:42 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Сегодня вечером, во вторник, 3 ноября 2026 года, российские войска атаковали Одессу ударными дронами. Под удар попало здание торгового центра, после чего там возник пожар. По предварительной информации, пострадавших нет. Последствия атаки уточняются. Сообщение В Одессе под удар российского дрона попал торговый центр: возник пожар, что известно об атаке появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "атака",
+        "война",
+        "обстрел",
+        "пожар"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3ebb70fe68d11e2f",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/shakhtar-zihrav-zi-sportinhom-na-mezhi-svojikh-mozhlivostej-turan.html",
+      "title": "\"Шахтар\" зіграв зі \"Спортінгом\" на межі своїх можливостей — Туран",
+      "published_at": "2026-11-03T21:52:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:52:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Донеччани програли другий поспіль матч у ЛЧ.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e420da449964e80f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4180814-u-latvii-projde-akcia-proti-tranzitu-rosijskogo-zerna.html",
+      "title": "У Латвії пройде акція проти транзиту російського зерна",
+      "published_at": "2026-11-03T21:51:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:51:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "У латвійському місті Єкабпілсі 7 листопада відбудеться акція протесту проти транзиту через Латвію зерна з Росії та з окупованих територій України.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4a4494d1ab089a88",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/03/778336_rosiyski_viyska_vdarili.html",
+      "title": "Російські війська вдарили по торговельному центрі в Одесі",
+      "published_at": "2026-11-03T21:50:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:50:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "На місці влучання виникла пожежа.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "74f04c1505b80e19",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/heopolityka/273748-pryhrozyla-bahatomilyonnymy-shtrafamy-hubernatorka-amerykanskoho-niu-dzersi-zaklykala-porty-shtatu-rozvertaty-tankery-z-rosiyskym-dyzelem",
+      "title": "Пригрозила багатомільйонними штрафами. Губернаторка Нью-Джерсі закликала порти штату не приймати танкери з російським дизелем",
+      "published_at": "2026-11-03T21:47:00+00:00",
+      "published_raw": "2026-11-03T23:47:00+02:00",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "39b62704cdbfdc15",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230844.html",
+      "title": "Tarantino family призупинив власну доставку з ресторанів мережі",
+      "published_at": "2026-11-03T21:45:55+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:45:55 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Мережа ресторанів Tarantino family призупинила роботу власної доставки, пауза може тривати до весни, ресторани продовжують працювати.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e5099193ffe00f7",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/nato-rozhorne-litaki-radari-j-droni-v-chornomu-mori-na-tli-eskalatsiji-vijni.html",
+      "title": "НАТО розгорне літаки, радари й дрони в Чорному морі на тлі ескалації війни",
+      "published_at": "2026-11-03T21:40:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:40:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Румунія та Болгарія опинилися під загрозою через атаки на торговельне судноплавство.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8b2a2f73f427dbe8",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/shahtar-porazka-vid-sportinga-u-lizi-chempioniv-arda-turan-prokomentuvav-match-50656050.html",
+      "title": "«Ми цього не очікували»: Туран назвав причину поразки Шахтаря від Спортінга",
+      "published_at": "2026-11-03T21:38:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:38:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Головний тренер Шахтаря Арда Туран прокоментував поразку від Спортінга (0:1) в матчі четвертого туру загального етапу Ліги чемпіонів.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6082f5f5195003ad",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/vidklyuchennya-svitla-v-zhitomiri-ta-oblasti-3-listopada-ataka-na-energetichnu-infrastrukturu-50656049.html",
+      "title": "Росіяни вдарили по енергетиці на Житомирщині: в обласному центрі і окремих районах зникло світло",
+      "published_at": "2026-11-03T21:37:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:37:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Увечері 3 листопада в Житомирі повністю зникло електропостачання. Крім того, без світла залишилися й окремі райони Житомирської області — внаслідок атак російських окупантів на енергетичну інфраструктуру.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fc2325c7c5c87f37",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/ecology/325851-sim-dubiv-nezakonno-vyrubaly-pervomaisku-zbytky-otsinyly-20-tys",
+      "title": "Сім дубів незаконно вирубали у Первомайську: збитки оцінили майже у ₴20 тис.",
+      "published_at": "2026-11-03T21:36:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:36:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "У Первомайську на вулиці Миколаївській незаконно зрубали сім дубів. Завдані довкіллю збитки оцінили майже у 20 тисяч гривень.",
+      "categories": [
+        "Екологія"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "d727d3643d1168cc",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/energetics/bez-svitla-ta-z-perebojami-vodopostachannja-jak-zhitomirshchina-ohovtujetsja-pislja-rosijskoji-ataki.html",
+      "title": "Житомирщина знеструмлена після атаки РФ: чи буде завтра вода та де зігрітися містянам",
+      "published_at": "2026-11-03T21:35:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:35:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "У Житомирі запускають генератори та готують пункти незламності.",
+      "categories": [
+        "Енергетика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "13584ce8b0f54138",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-henshtab-syly-oborony-24-rosiiskyh-shturmy-kostyantynivskyi-napriamok/33889942.html",
+      "title": "Генштаб: Сили оборони за день відбили 24 російських штурми на Костянтинівському напрямку",
+      "published_at": "2026-11-03T21:33:10+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:33:10 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Командування зазначає, що російська армія не вдавалася до штурмових дій на Олександрівському, Куп’янському та Придніпровському напрямках протягом дня",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3a1f5fe3bd5ae605",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4180984-v-ukraini-zavtra-perevazno-bez-opadiv-vden-do-12.html",
+      "title": "В Україні завтра переважно без опадів, вдень до +12°",
+      "published_at": "2026-11-03T21:32:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:32:00 +0200",
+      "fetched_at": "2026-11-03T15:06:27+00:00",
+      "description": "У середу, 4 листопада, в Україні збережеться хмарна з проясненнями погода, без істотних опадів, лише на крайньому півдні можливий невеликий дощ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5226b3436dcddb64",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/vibori-v-ssha-2026-respublikanska-partiya-otrimala-rekordnu-pozhertvu-vid-ilona-maska-50655820.html",
+      "title": "Найдорожчі проміжні вибори у США: скільки на них витрачено і яку рекордну пожертву республіканцям зробив Ілон Маск — інфографіка NV",
+      "published_at": "2026-11-03T21:32:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:32:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Проміжні вибори, які проходять 3 листопада 2026 року, стануть найдорожчими подібними виборами в історії США. Найвпливовішим донором цих виборів став Ілон Маск.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ea6ef43cbb1f5ec4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/medicine/strah-u-mozku-doslidniki-poyasnili-chomu-lyudi-boyatsya-navit-u-bezpeci-50655936.html",
+      "title": "Парадокс страху. Дослідження пояснило, чому мозок плутає небезпечні та безпечні спогади",
+      "published_at": "2026-11-03T21:29:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:29:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Науковці виявили механізм роботи мозку, який може пояснити, чому страх виникає навіть за безпечних обставин. Експерименти на мишах показали, що загроза здатна стирати межу між небезпечними та безпечними спогадами.",
+      "categories": [
+        "Техно/Медицина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e2050e41410fbfcd",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/03/778334_seredu_ukrayini_zdebilshogo_bez.html",
+      "title": "В середу в Україні здебільшого без опадів, повітря вдень прогріється до +9°",
+      "published_at": "2026-11-03T21:29:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:29:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Вночі стовпчики термометрів опустяться до 0°.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c49ea8e47736d7ba",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181146-vorog-zavdav-udaru-po-torgovelnomu-centru-v-odesi.html",
+      "title": "Ворог завдав удару по торговельному центру в Одесі",
+      "published_at": "2026-11-03T21:25:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:25:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": ", в результаті влучання виникла пожежа.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b019e01744e6132a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/pislja-vprovadzhennja-viz-dlja-rosijan-chornohorija-pochala-chistiti-skhemi-z-otrimannja-posvidok-na-prozhivannja.html",
+      "title": "Після впровадження віз для росіян Чорногорія почала чистити схеми з отримання посвідок на проживання",
+      "published_at": "2026-11-03T21:24:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:24:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "При цьому масово анульовувати законні дозволи на проживання не обіцяють.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d8f5a67d8698a128",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131485-koli-viyna-v-ukrajini-skinchitsya-gonka-ozbroyen-prodovzhitsya-svitovi-media-pro-rosiysko-ukrajinsku-viynu-3-listopada",
+      "title": "«Коли війна в Україні скінчиться, гонка озброєнь продовжиться». Світові медіа про російсько-українську війну 3 листопада",
+      "published_at": "2026-11-03T21:23:23+00:00",
+      "published_raw": "Tue, 03 Nov 26 23:23:23 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9beb5eec18294a5b",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rf-atakuvaly-energoinfrastrukturu-na-zhytomyrshhyni-v-oblasnomu-tsentri-znyklo-svitlo",
+      "title": "РФ атакували енергоінфраструктуру на Житомирщині: в обласному центрі зникло світло",
+      "published_at": "2026-11-03T21:21:32+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:21:32 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "У Житомирі 3 листопада повністю зникла електроенергія. Через атаку Росії на енергетичну інфраструктуру без світла залишилося місто, а також окремі райони Житомирської області. Запис РФ атакували енергоінфраструктуру на Житомирщині: в обласному центрі зникло світло спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "атака на енергетику",
+        "воєнні злочини рф",
+        "електропідстанція",
+        "Житомирська область"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1273d434d2c6bd91",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/03/temnij-pochatok-opalyuvalnogo-sezonu-v-harkovi-pidsumki-3-listopada",
+      "title": "Темний початок опалювального сезону в Харкові – підсумки 3 листопада",
+      "published_at": "2026-11-03T21:18:05+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:18:05 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "«Іскандерами» та ракетою «бандероль» російська армія вдарила по об’єктах теплоенергетики в Харкові. По лікарні в...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "114e96b1429feb56",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/03/8061131",
+      "title": "В Одесі росіяни атакували торгівельний центр",
+      "published_at": "2026-11-03T21:17:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:17:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Російські війська увечері 3 листопада атакували торгівельну інфраструктуру в Одесі.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "faca494ac43d2ffa",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/incident-u-petropavlivskiy-borshchagivci-andriy-gorodnickiy-prognozuye-informaciyniy-tisk-50655990.html",
+      "title": "Росіяни підсвітять ситуацію на Борщагівці як щось катастрофічне — Городницький",
+      "published_at": "2026-11-03T21:16:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:16:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Доктор філософії, політичний експерт Андрій Городницький в інтерв'ю Radio NV спрогнозував, що росіяни поширюватимуть наратив про інцидент у Петропавлівській Борщагівці 2 листопада як про щось катастрофічне.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0a8aa30b7942775a",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230840.html",
+      "title": "ЄБРР та донори підтримали релокацію виробництва художніх наборів TM Ideyka",
+      "published_at": "2026-11-03T21:15:01+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:15:01 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Європейський банк реконструкції та розвитку та його Фонд впливу на малий бізнес (SBIF) підтримали релокацію українського виробника товарів для творчого дозвілля під брендом TM Ideyka (компанія Kiddi-Co) з Дніпра в Калуш, повідомили у пресслужбі установи.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e8db28156adce52f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230838.html",
+      "title": "Зеленський обговорив із президенткою Бундестагу Кльокнер захист енергетики та EUR11,6 млрд допомоги на 2027 рік",
+      "published_at": "2026-11-03T21:13:15+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:13:15 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Президент України Володимир Зеленський під час зустрічі у Берліні з президенткою німецького Бундестагу Юлією Кльокнер обговорив шляхи зміцнення захисту української енергосистеми від російських обстрілів та закладені у проєкті федерального бюджету ФРН на 2027 рік EUR11,6 млрд фінансової допомоги Україні, повідомила пресслужба президента України у вівторок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "539ff68de14cb056",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311788-ugorshchina-zayavila-shcho-vidmovitsya-vid-rosijskogo-gazu-do-oseni-2027-roku",
+      "title": "Угорщина заявила, що відмовиться від російського газу до осені 2027 року",
+      "published_at": "2026-11-03T21:13:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:13:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Натомість країна шукає альтернативи в Греції, Хорватії та терміналах Балтійського моря",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "802a1ff9040823df",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/promizhni-vibori-v-ssha-v-ssha-cherez-pomilku-skinchilisya-byuleteni-dlya-golosuvannya-50656045.html",
+      "title": "Замовили 100 замість 100 тисяч. В одному з округів Канзасу на проміжних виборах раптово скінчилися виборчі бюлетені",
+      "published_at": "2026-11-03T21:09:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:09:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "В окрузі Левенворт, штат Канзас (США) рано закінчилися паперові бюлетені, надруковані для проведення проміжних виборів — через адміністративну помилку окружного секретаря їх замовлено 100 замість 100 тисяч.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2e3cb8275338a5b0",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/promvyrobnytstvo-v-ukrayini-skorotylosya-na-1-9-za-dev-yat-misyatsiv-derzhstat",
+      "title": "Промвиробництво в Україні скоротилося на 1,9% за дев’ять місяців — Держстат",
+      "published_at": "2026-11-03T21:08:11+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:08:11 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "За підсумками січня-вересня 2026 року промислове виробництво в Україні зменшилося на 1,9% порівняно з аналогічним періодом минулого року. Запис Промвиробництво в Україні скоротилося на 1,9% за дев’ять місяців — Держстат спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Держстат",
+        "Промвиробництво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "59a1a041bb4ead64",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/273747-v-uhorshchyni-planuiut-vidmovytysia-vid-rosiyskoho-hazu-do-oseni-2027-roku",
+      "title": "В Угорщині планують відмовитися від російського газу до осені 2027 року",
+      "published_at": "2026-11-03T21:07:00+00:00",
+      "published_raw": "2026-11-03T23:07:00+02:00",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a9e34fe8ef454a4",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/03/778332_vorozhi_droni_atakuvali_volin.html",
+      "title": "Ворожі дрони атакували Волинь: в Ковелі більшість споживачів без електропостачання",
+      "published_at": "2026-11-03T21:07:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:07:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Місцевий водоканал переходить на резервні джерела живлення.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eea75882de14c581",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-komanda-povitriana-tryvoha-nepravdyvi-spovishchennia/33889939.html",
+      "title": "Команда застосунку «Повітряна тривога» розповіла, чому він розсилав неправдиві сповіщення",
+      "published_at": "2026-11-03T21:06:26+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:06:26 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "«Користувачі отримали повідомлення про фейкову радіаційну небезпеку, хімічну атаку та вуличні бої, а також кастомні оповіщення з текстом російською»",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "57714025f8d3b624",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4181009-sili-oboroni-vid-pocatku-povnomasstabnoi-vijni-zneskodili-138-vazkih-vognemetnih-sistem-voroga.html",
+      "title": "Сили оборони від початку повномасштабної війни знешкодили 138 важких вогнеметних систем ворога",
+      "published_at": "2026-11-03T21:06:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:06:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Сили оборони України від початку повномасштабного вторгнення знешкодили 138 важких вогнеметних систем російських загарбників.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f5aaaa31e24b18f5",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1230833.html",
+      "title": "Зеленський обговорив зі Штайнмаєром енергопідтримку і анонсував переговори команд у Брюсселі",
+      "published_at": "2026-11-03T21:05:14+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:05:14 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Президент України Володимир Зеленський провів зустріч із федеральним президентом Німеччини Франком-Вальтером Штайнмаєром щодо мирних зусиль і підтримки енергетики та анонсував проведення в середу переговорів у Брюсселі на рівні команд України, США, Європи й НАТО напередодні зустрічі в Абу-Дабі, повідомив глава Української держави у вівторок.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d5cdc24a0835e4c3",
+      "source_id": "map-405",
+      "source": "Район.in.ua",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://rayon.in.ua/news/1113823-tretje-listopada-na-volini-daidzest-novin",
+      "title": "Третє листопада на Волині: дайджест головних новин",
+      "published_at": "2026-11-03T21:05:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:05:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Дайджест головних новин Волині за 3 листопада: атака на залізничну інфраструктуру в Ковелі, бронза спортсменок з Нововолинська та Любомля, затримання за напад у Луцьку та відкриття екстреної медичної допомоги у Журавичах.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-input": "no",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "e8bf43110457dbd6",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/03/novyna/bezpeka/podiyi-petropavlivskij-borshhahivczi-czpd-zayavyly-pro-skoordynovane-poshyrennya-fejkiv",
+      "title": "Події в Петропавлівській Борщагівці: у ЦПД заявили про скоординоване поширення фейків",
+      "published_at": "2026-11-03T21:04:33+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:04:33 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Центр протидії дезінформації дослідив інформацію стосовно інциденту в Петропавлівській Борщагівці, виявивши ознаки скоординованого поширення фейків, радикальних закликів й пропагандистських наративів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e64b1cc4f5da88d4",
+      "source_id": "map-93",
+      "source": "Новини Донбасу",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://novosti.dn.ua/news/406003-zelenskyj-vidpoviv-chomu-telefonna-rozmova-z-putinym-ne-dopomozhe-zakinchyty-vijnu",
+      "title": "Зеленський відповів, чому телефонна розмова з Путіним не допоможе закінчити війну",
+      "published_at": "2026-11-03T21:04:14+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:04:14 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Росія буде використовувати телефонну розмову між президентом України Володимиром Зеленським та головою Кремля Володимиром Путіним як можливість більше не зустрічатися. Про це заявив сам Зеленський. За його словами, українська сторона розуміє цю гру. «Вона безперспективна. Це буде дуже офіційна, суха розмова телефоном, де я буду слухати черговий раз історичну лекцію від лідера Російської Федерації, а […]",
+      "categories": [
+        "Новини",
+        "Війна",
+        "Война",
+        "Зеленський",
+        "переговори"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
+      "id": "8704cd55f1d18823",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/humanrights/2026/cholovik-zaradi-vidstrochki-oformiv-opiku-ale-ditei-zalishiv-v-internati-mikolaivshchini",
+      "title": "Чоловік заради відстрочки оформив опіку, але дітей залишив в інтернаті Миколаївщини",
+      "published_at": "2026-11-03T21:04:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:04:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Житель Миколаївщини оформив опіку над двома дітьми, позбавленими батьківського піклування, щоб отримати відстрочку від мобілізації. Однак дітей він не забрав з інтернату, а сам отримав ще й понад 63 тисячі гривень державної допомоги",
+      "categories": [
+        "Миколаїв",
+        "ТЦК та СП",
+        "мобілізація",
+        "суд"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ff47a6e303d4baa1",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/blogs/yak-prigotuvati-sirniki-recept-shef-kuharya-volodimira-yaroslavskogo-50656014.html",
+      "title": "Ніжні всередині та з рум’яною скоринкою. Сирники, які завжди вдаються",
+      "published_at": "2026-11-03T21:03:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:03:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Є кілька важливих дрібниць, від яких залежить результа",
+      "categories": [
+        "Блоги.Life"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "45e0b8e1842e2f0f",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/03/ukrayina-zvernulasya-do-shvetsiyi-iz-zapitom-na-ekstraditsiyu-harkivskogo-nardepa-zradnika-svyatasha",
+      "title": "Україна звернулася до Швеції із запитом на екстрадицію харківського нардепа-зрадника Святаша",
+      "published_at": "2026-11-03T21:02:28+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:02:28 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Всі папери в усіх судах були підготовані у найкоротші строки.",
+      "categories": [
+        "Події та кримінал"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0e0c1c4d5a85664c",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-koveli-vorog-poczilyv-v-ob%ca%bcyekt-infrastruktury",
+      "title": "У Ковелі ворог поцілив в обʼєкт інфраструктури",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "У результаті ворожої атаки на Ковель є влучання в об’єкт інфраструктури. Про це повідомив Ковельський міський голова Ігор Чайка на своїй сторінці у «Фейсбук». Наразі більшість споживачів міста залишаються без електропостачання. Енергетики роблять усе можливе, аби якнайшвидше стабілізувати систему. КП «Ковельводоканал» переходить на резервні джерела живлення. Водопостачання наразі відновлене і подаватиметься до 23:15. Якщо централізоване […] The post У Ковелі ворог поцілив в обʼєкт інфраструктури appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b6d9df234f82d24",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-koveli-prosyat-zapastysya-vodoyu",
+      "title": "У Ковелі просять запастися водою",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Мешканців Ковеля просять запастися водою. Про це повідомили на сторінці КП «Ковельводоканал» у «Фейсбук». «У зв’язку з відсутністю електроенергії сьогодні тимчасово подадуть воду в мережу від резервних джерел з 22:15 до 23:15. Рекомендуємо в цей час зробити запас питної води. Якщо ситуація не зміниться, завтра, 4 листопада, зранку воду подамо з 06:00 до 09:00. Дякуємо […] The post У Ковелі просять запастися водою appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "270b1e48e853605f",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-vnu-imeni-lesi-ukrayinky-vpershe-obraly-studentskogo-ombudsmana",
+      "title": "У ВНУ імені Лесі Українки вперше обрали студентського омбудсмана",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Цьогоріч таку посаду в університеті запроваджують уперше, а обраний представник виконуватиме свої повноваження протягом двох років. Про це повідомили на сторінці Волинського національного університету імені Лесі Українки у «Фейсбук. Виборчий процес модерувала голова студентського самоврядування Софія Карпенко. На початку зустрічі учасники сформували лічильну комісію, яка відповідала за підрахунок голосів. Після цього чотири кандидати отримали можливість […] The post У ВНУ імені Лесі Українки вперше обрали студентського омбудсмана appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3890bdea3146334e",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-koveli-prolunaly-vybuhy-2",
+      "title": "У Ковелі пролунали вибухи",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "У Ковелі чули вибухи. Гучно було сьогодні, 3 листопада, орієнтовно о 21:19 під час повітряної тривоги. До цього моніторингові групи повідомляли про два реактивні шахеди у напрямку міста. Після вибухів у Ковелі, Луцьку та інших населених пунктах Волині зникло світло. The post У Ковелі пролунали вибухи appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "684a26de48f6be4e",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-novovolynsku-obgovoryly-yaki-programy-misczevogo-rozvytku-realizovuvatymut-u-nastupni-roky",
+      "title": "У Нововолинську обговорили, які програми місцевого розвитку реалізовуватимуть у наступні роки",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "У Нововолинську обговорили проєкти програм місцевого розвитку на 2027–2029 роки. Про це повідомили на сторінці Нововолинської міськради у «Фейсбук». У вівторок, 3 листопада, у малій залі Палацу культури відбулися громадські слухання щодо проєктів програм місцевого розвитку на 2027–2029 роки. Головувала на слуханнях секретар Нововолинської міської ради Надія Жук. Учасникам представили шість проєктів цільових програм: підтримки […] The post У Нововолинську обговорили, які програми місцевого розвитку реалізовуватимуть у наступні роки appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "af80b8337784481a",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-strumivczi-zavershuyut-oblashtuvannya-avtobusnyh-zupynok-i-pishohidnogo-perehodu",
+      "title": "У Струмівці завершують облаштування автобусних зупинок і пішохідного переходу",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "На автомобільній дорозі міжнародного значення М-19 Доманове (на м. Брест) – Ковель – Чернівці – Тереблече (на м. Бухарест) у селі Струмівка наближаються до завершення роботи з облаштування зупинок громадського транспорту та безпечного переходу через дорогу. Про це повідомили на сторінці Служби відновлення та розвитку інфраструктури у Волинській області у «Фейсбук». Нагадаємо, що ці зміни […] The post У Струмівці завершують облаштування автобусних зупинок і пішохідного переходу appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c6eb37c505a6f593",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/povertavsya-u-bagazhnyku-avto-policziya-volyni-zatrymala-zlovmysnyka-yakyj-z-nozhem-napav-na-volynyanyna",
+      "title": "Повертався у багажнику авто: поліція Волині затримала зловмисника, який з ножем напав на волинянина",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Після зухвалого нападу фігурант намагався переховатися від правоохоронців, змінюючи місця перебування. До його розшуку залучили кілька підрозділів поліції, які встановили маршрут пересування чоловіка та затримали його. Про це повідомили на сайті поліції Волині. Подія трапилася 1 листопада, близько 20 години, на вулиці Липинського у Луцьку. Чоловік під’їхав до тераси одного із закладів громадського харчування та […] The post Повертався у багажнику авто: поліція Волині затримала зловмисника, який з ножем напав на волинянина appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "470c43766adeddf2",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/cherez-poranennya-na-vijni-pomer-voyin-z-volyni",
+      "title": "Через поранення на війні помер воїн з Волині",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Відійшов у засвіти воїн-краянин Анатолій Приходько із села Підкормілля Любешівської громади. Про це повідомили на сторінці Камінь-Каширської РДА у «Фейсбук». Його серце зупинилося внаслідок отриманого поранення. 3, 4, 5 листопада – скорботні днини у районі. Світла пам’ять Герою. Співчуття родині! The post Через поранення на війні помер воїн з Волині appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8cb90645872a1abf",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/vorog-znovu-atakuvav-kovel",
+      "title": "Ворог знову атакував Ковель",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Ковель вкотре пережив ворожу атаку. Найголовніше — минулося без постраждалих. Про це повідомив Ковельський міський голова Ігор Чайка на своїй сторінці у «Фейсбук». Знову зазнали руйнувань об’єкти цивільної інфраструктури одного з підприємств та житловий сектор. Вже до обіду на «Гарячу лінію» надійшло пʼять звернень від ковельчан. Вибуховою хвилею пошкодило дерев’яні вікна у двох п’ятиповерхівках та […] The post Ворог знову атакував Ковель appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f95ec8439de76e08",
+      "source_id": "map-1020",
+      "source": "Волинь Оnline",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://volynonline.com/u-czumanskij-gromadi-poproshhalysya-z-zagyblym-zahysnykom-oleksandrom-denysyukom",
+      "title": "У Цуманській громаді попрощалися з загиблим Захисником Олександром Денисюком",
+      "published_at": "2026-11-03T21:01:51+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:51 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "31 жовтня у Свято-Петро-Павлівському храмі села Карпилівка відбувся чин поховання загиблого Захисника України Денисюка Олександра Павловича (02.09.1989 р. н.). Про це повідомили на сайті Волинської єпархії УПЦ. Військовослужбовець вважався зниклим безвісти з 2024 року. Згодом офіційно встановили, що він загинув 9 травня 2024 року під час виконання бойового завдання поблизу населеного пункту Костянтинівка Покровського району […] The post У Цуманській громаді попрощалися з загиблим Захисником Олександром Денисюком appeared first on Волинь Online .",
+      "categories": [
+        "Луцьк",
+        "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "98b7c05264e81b59",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/popscience/chorniy-vedmid-nagget-introvert-2026-roku-za-vinyatkovu-povedinku-bilya-strumka-anan-50655959.html",
+      "title": "Інтроверт року. На Алясці знайшли ведмедя, який уникає взаємодії із собі подібними",
+      "published_at": "2026-11-03T21:01:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:01:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Самець чорного ведмедя на ім’я Наггет отримав незвичну винагороду за свою любов до усамітнення. Замість того щоб змагатися з іншими тваринами за лосося, він воліє ховатися між камінням і терпляче чекати своєї черги.",
+      "categories": [
+        "Техно/Наукпоп"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d849ba901bd79116",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/03/novini-harkova-golovne-3-listopada",
+      "title": "Новини Харкова – головне 3 листопада: обстріл, немає тепла, води, світла",
+      "published_at": "2026-11-03T21:00:49+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:00:49 +0000",
+      "fetched_at": "2026-11-03T06:46:08+00:00",
+      "description": "Основні новини доби – у хроніці МР «Об’єктив». 23:00 Головні події доби у відеодайджесті 21:00...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4bd39f690d6396d6",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/news/366067-magnitni-buri-4-lystopada-iakou-bude-soniachna-aktyvnist.html",
+      "title": "Магнітні бурі 4 листопада: якою буде сонячна активність",
+      "published_at": "2026-11-03T21:00:28+00:00",
+      "published_raw": "Tue, 03 Nov 2026 23:00:28 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Деякі люди можуть відчувати головний біль, втому та стрес.",
+      "categories": [
+        "новини / Здоров'я"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8f660375e178d3a8",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/article/promo/devichnik-s-syuzhetom-idei-dlya-veselogo-prazdnika-s-podrugami",
+      "title": "Девичник с сюжетом: идеи для веселого праздника с подругами",
+      "published_at": "2026-11-03T21:00:27+00:00",
+      "published_raw": "Tue, 03 Nov 2026 21:00:27 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Платья, фотографии и разговоры о свадьбе — все это прекрасно, но будущей невесте наверняка захочется вспомнить не только красивые кадры, но и историю, над которой подруги будут смеяться еще долго. Сообщение Девичник с сюжетом: идеи для веселого праздника с подругами появились сначала на Одеське життя .",
+      "categories": [
+        "Реклама / Новости партнеров",
+        "квест",
+        "праздники",
+        "развлечения",
+        "свадьба"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb32bda8d2a86566",
+      "source_id": "map-365",
+      "source": "Твоє місто",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://tvoemisto.tv/uk/news/13188-spravy-nkvs-ta-dokumenty-lvivskoyi-politekhniky-na-lvivshchyni-oprylyudnyly-novi-arkhivni-materialy",
+      "title": "Справи НКВС та документи Львівської політехніки: на Львівщині оприлюднили нові архівні матеріали",
+      "published_at": "2026-11-03T20:59:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 20:59:00 GMT",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Державний архів Львівщини відкрив онлайн доступ до тисяч історичних документів, серед яких є матеріали, що дозволяють дослідити маловідомі сторінки минулого.",
+      "categories": [
+        "CityLife"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "fe5e2a2db2383b76",
       "source_id": "map-875",
@@ -220,6 +1389,25 @@
       "status": "new"
     },
     {
+      "id": "5ed2ebb3934a4f91",
+      "source_id": "map-1200",
+      "source": "ОстроВ",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://ostro.org/news/tak-zaraz-vyglyadaye-skver-imeni-geroya-ukrayiny-sergiya-gubanova-v-siverskodonetsku-i572166",
+      "title": "Так зараз виглядає сквер імені Героя України Сергія Губанова в Сіверськодонецьку",
+      "published_at": "2026-11-03T20:55:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 22:55:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Відео, зняте наприкінці жовтня, опублікував Телеграм-канал \"Kitsune/Сєвєродонецьк\" 3 листопада. Раніше повідомлялось, що в Сіверськодонецьку демонтували ще два будинки, які стояли поруч.",
+      "categories": [
+        "Донбас"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3f2329e0d175666d",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -275,6 +1463,63 @@
       "status": "new"
     },
     {
+      "id": "955af75aac777db1",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/tennis/gael-monfis-zavershiv-kar-yeru-prisvyativ-proshchannya-donci-skay-50656043.html",
+      "title": "«Хочу присвятити тобі цей останній шлях»: Монфіс зворушливо звернувся до доньки Скай під час прощання з тенісом",
+      "published_at": "2026-11-03T20:53:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 22:53:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Французький тенісист Гаель Монфіс присвятив завершення професійної кар’єри своїй чотирирічній доньці Скай.",
+      "categories": [
+        "Спорт/Теніс"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "697c72a7cd461790",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/volodimir-uglyev-pomer-odin-iz-tvorciv-novachka-pishov-iz-zhittya-v-anapi-50656044.html",
+      "title": "Помер один із розробників отрути Новачок Володимир Углєв — The Insider",
+      "published_at": "2026-11-03T20:53:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 22:53:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "На 81-му році життя помер російський біохімік Володимир Углєв, один із творців бойової отруйної речовини Новачок.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7b2995ab40360547",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20311787-rozrobniki-pro-te-yak-hakeri-otrimali-dostup-do-povitryanoyi-trivogi-i-rozislali-fejkovi-povidomle",
+      "title": "Розробники – про те, як хакери отримали доступ до «Повітряної тривоги» і розіслали фейкові повідомлення",
+      "published_at": "2026-11-03T20:52:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 22:52:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Хакери отримали доступ до інтерфейсу оператора, а не в застосунок для кінцевих споживачів",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c5b843028c305e3c",
       "source_id": "nv",
       "source": "NV",
@@ -285,7 +1530,7 @@
       "published_at": "2026-11-03T20:48:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 22:48:00 +0200",
       "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Внаслідок російського обстрілу Комишувахи Запорізької області загинула 31 людина, ще 58 вважаються зниклими безвісти. Двадцятьох загиблих наразі не вдалося ідентифікувати.",
+      "description": "Внаслідок російського удару по Комишувасі Запорізької області загинула 31 людина, ще 58 вважаються зниклими безвісти. 20 загиблих наразі не вдалося ідентифікувати.",
       "categories": [
         "Україна/Події"
       ],
@@ -389,6 +1634,25 @@
       "description": "Такі підозри виникли на тлі попередніх кібероперацій Ірану проти об'єктів критичної інфраструктури Сполучених Штатів.",
       "categories": [
         "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "60e1dbac72e48369",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/press-conference/1230835.html",
+      "title": "86,8% українців допускають гуманітарні контакти з РФ – опитування",
+      "published_at": "2026-11-03T20:41:08+00:00",
+      "published_raw": "Tue, 03 Nov 2026 22:41:08 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Прямі контакти української влади з представниками РФ виключно заради гуманітарної допомоги та порятунку цивільного населення вважають допустимими 86,8% опитаних українців, водночас 65,5% допускають використання маршруту евакуації через Росію та Білорусь, свідчать результати дослідження Active Group, представлені у вівторок на пресконференції в агентстві «Інтерфакс-Україна».",
+      "categories": [
+        "Пресконференції"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -503,7 +1767,7 @@
       "geography": "regional",
       "source_region": "donetsk",
       "url": "https://ostro.org/news/na-donetskyh-napryamkah-vid-pochatku-doby-vidbyto-ponad-50-vorozhyh-atak-i572213",
-      "title": "На \"донецьких\" напрямках від початку доби відбито понад 50 ворожих атак",
+      "title": "На \"донецьких\" напрямках за 3 листопада відбито понад 50 ворожих атак",
       "published_at": "2026-11-03T20:33:24+00:00",
       "published_raw": "Tue, 03 Nov 2026 22:33:24 +0200",
       "fetched_at": "2026-11-03T20:58:34+00:00",
@@ -552,186 +1816,6 @@
       "status": "new"
     },
     {
-      "id": "0e0c1c4d5a85664c",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-koveli-vorog-poczilyv-v-ob%ca%bcyekt-infrastruktury",
-      "title": "У Ковелі ворог поцілив в обʼєкт інфраструктури",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "У результаті ворожої атаки на Ковель є влучання в об’єкт інфраструктури. Про це повідомив Ковельський міський голова Ігор Чайка на своїй сторінці у «Фейсбук». Наразі більшість споживачів міста залишаються без електропостачання. Енергетики роблять усе можливе, аби якнайшвидше стабілізувати систему. КП «Ковельводоканал» переходить на резервні джерела живлення. Водопостачання наразі відновлене і подаватиметься до 23:15. Якщо централізоване […] The post У Ковелі ворог поцілив в обʼєкт інфраструктури appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "9b6d9df234f82d24",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-koveli-prosyat-zapastysya-vodoyu",
-      "title": "У Ковелі просять запастися водою",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Мешканців Ковеля просять запастися водою. Про це повідомили на сторінці КП «Ковельводоканал» у «Фейсбук». «У зв’язку з відсутністю електроенергії сьогодні тимчасово подадуть воду в мережу від резервних джерел з 22:15 до 23:15. Рекомендуємо в цей час зробити запас питної води. Якщо ситуація не зміниться, завтра, 4 листопада, зранку воду подамо з 06:00 до 09:00. Дякуємо […] The post У Ковелі просять запастися водою appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "270b1e48e853605f",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-vnu-imeni-lesi-ukrayinky-vpershe-obraly-studentskogo-ombudsmana",
-      "title": "У ВНУ імені Лесі Українки вперше обрали студентського омбудсмана",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Цьогоріч таку посаду в університеті запроваджують уперше, а обраний представник виконуватиме свої повноваження протягом двох років. Про це повідомили на сторінці Волинського національного університету імені Лесі Українки у «Фейсбук. Виборчий процес модерувала голова студентського самоврядування Софія Карпенко. На початку зустрічі учасники сформували лічильну комісію, яка відповідала за підрахунок голосів. Після цього чотири кандидати отримали можливість […] The post У ВНУ імені Лесі Українки вперше обрали студентського омбудсмана appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "3890bdea3146334e",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-koveli-prolunaly-vybuhy-2",
-      "title": "У Ковелі пролунали вибухи",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "У Ковелі чули вибухи. Гучно було сьогодні, 3 листопада, орієнтовно о 21:19 під час повітряної тривоги. До цього моніторингові групи повідомляли про два реактивні шахеди у напрямку міста. Після вибухів у Ковелі, Луцьку та інших населених пунктах Волині зникло світло. The post У Ковелі пролунали вибухи appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "684a26de48f6be4e",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-novovolynsku-obgovoryly-yaki-programy-misczevogo-rozvytku-realizovuvatymut-u-nastupni-roky",
-      "title": "У Нововолинську обговорили, які програми місцевого розвитку реалізовуватимуть у наступні роки",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "У Нововолинську обговорили проєкти програм місцевого розвитку на 2027–2029 роки. Про це повідомили на сторінці Нововолинської міськради у «Фейсбук». У вівторок, 3 листопада, у малій залі Палацу культури відбулися громадські слухання щодо проєктів програм місцевого розвитку на 2027–2029 роки. Головувала на слуханнях секретар Нововолинської міської ради Надія Жук. Учасникам представили шість проєктів цільових програм: підтримки […] The post У Нововолинську обговорили, які програми місцевого розвитку реалізовуватимуть у наступні роки appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "af80b8337784481a",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/u-strumivczi-zavershuyut-oblashtuvannya-avtobusnyh-zupynok-i-pishohidnogo-perehodu",
-      "title": "У Струмівці завершують облаштування автобусних зупинок і пішохідного переходу",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "На автомобільній дорозі міжнародного значення М-19 Доманове (на м. Брест) – Ковель – Чернівці – Тереблече (на м. Бухарест) у селі Струмівка наближаються до завершення роботи з облаштування зупинок громадського транспорту та безпечного переходу через дорогу. Про це повідомили на сторінці Служби відновлення та розвитку інфраструктури у Волинській області у «Фейсбук». Нагадаємо, що ці зміни […] The post У Струмівці завершують облаштування автобусних зупинок і пішохідного переходу appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "c6eb37c505a6f593",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/povertavsya-u-bagazhnyku-avto-policziya-volyni-zatrymala-zlovmysnyka-yakyj-z-nozhem-napav-na-volynyanyna",
-      "title": "Повертався у багажнику авто: поліція Волині затримала зловмисника, який з ножем напав на волинянина",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Після зухвалого нападу фігурант намагався переховатися від правоохоронців, змінюючи місця перебування. До його розшуку залучили кілька підрозділів поліції, які встановили маршрут пересування чоловіка та затримали його. Про це повідомили на сайті поліції Волині. Подія трапилася 1 листопада, близько 20 години, на вулиці Липинського у Луцьку. Чоловік під’їхав до тераси одного із закладів громадського харчування та […] The post Повертався у багажнику авто: поліція Волині затримала зловмисника, який з ножем напав на волинянина appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "470c43766adeddf2",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/cherez-poranennya-na-vijni-pomer-voyin-z-volyni",
-      "title": "Через поранення на війні помер воїн з Волині",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Відійшов у засвіти воїн-краянин Анатолій Приходько із села Підкормілля Любешівської громади. Про це повідомили на сторінці Камінь-Каширської РДА у «Фейсбук». Його серце зупинилося внаслідок отриманого поранення. 3, 4, 5 листопада – скорботні днини у районі. Світла пам’ять Герою. Співчуття родині! The post Через поранення на війні помер воїн з Волині appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "8cb90645872a1abf",
-      "source_id": "map-1020",
-      "source": "Волинь Оnline",
-      "geography": "regional",
-      "source_region": "volyn",
-      "url": "https://volynonline.com/vorog-znovu-atakuvav-kovel",
-      "title": "Ворог знову атакував Ковель",
-      "published_at": "2026-11-03T20:31:06+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:06 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Ковель вкотре пережив ворожу атаку. Найголовніше — минулося без постраждалих. Про це повідомив Ковельський міський голова Ігор Чайка на своїй сторінці у «Фейсбук». Знову зазнали руйнувань об’єкти цивільної інфраструктури одного з підприємств та житловий сектор. Вже до обіду на «Гарячу лінію» надійшло пʼять звернень від ковельчан. Вибуховою хвилею пошкодило дерев’яні вікна у двох п’ятиповерхівках та […] The post Ворог знову атакував Ковель appeared first on Волинь Online .",
-      "categories": [
-        "Луцьк",
-        "Волинь"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "b4c4479b4bddc948",
       "source_id": "map-1020",
       "source": "Волинь Оnline",
@@ -765,25 +1849,6 @@
       "description": "Виверження тропічних вулканів можуть суттєво впливати на температуру Землі. Дослідження показало, що аерозолі після таких подій довше затримуються в атмосфері й частіше спричиняють похолодання в Північній півкулі, ніж виверження вулканів в інших зонах.",
       "categories": [
         "Техно/Наукпоп"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "35cda6595380b39b",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://sport.nv.ua/ukr/football/barselona-aston-villa-divitisya-bezkoshtovno-onlayn-video-goliv-translyaciya-ligi-chempioniv-50655920.html",
-      "title": "Барселона — Астон Вілла: відео голів та огляд матчу Ліги чемпіонів",
-      "published_at": "2026-11-03T20:31:00+00:00",
-      "published_raw": "Tue, 03 Nov 2026 22:31:00 +0200",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "У вівторок, 3 листопада, відбудеться матч четвертого туру групового етапу Ліги чемпіонів.",
-      "categories": [
-        "Спорт/Футбол"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -1361,6 +2426,23 @@
       "status": "new"
     },
     {
+      "id": "4951674232b9b304",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131487-golova-mzs-ugorshchini-zayavila-shcho-vidmovitsya-vid-rosiyskogo-gazu-do-oseni-2027-roku",
+      "title": "Голова МЗС Угорщини заявила, що країна відмовиться від російського газу до осені 2027 року",
+      "published_at": "2026-11-03T20:10:29+00:00",
+      "published_raw": "Tue, 03 Nov 26 22:10:29 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7172ada8f340f393",
       "source_id": "map-1147",
       "source": "ПІК",
@@ -1436,9 +2518,29 @@
       "published_at": "2026-11-03T20:09:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 22:09:00 +0200",
       "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Найбільше атак відбулось на Костянтинівському напрямку.",
+      "description": "Найбільше атак зафіксовано на Костянтинівському напрямку.",
       "categories": [
         "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5ee70d67cac25999",
+      "source_id": "novynarnia",
+      "source": "Новинарня",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://novynarnia.com/2026/11/03/chekap-organizmu-yaki-analizy-potribni-u-30-40-50-rokiv",
+      "title": "Чекап організму: які аналізи справді потрібні у 30, 40 і 50 років ℗",
+      "published_at": "2026-11-03T20:08:07+00:00",
+      "published_raw": "Tue, 03 Nov 2026 20:08:07 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Чекап – це індивідуальний набір профілактичних перевірок, обраних з урахуванням віку, статі, родинної історії та особистих ризиків. У 30, 40 і 50 років його склад відрізняється: поступово стають актуальними окремі скринінги. Здавати всі доступні аналізи без показань не потрібно. Чим чекап відрізняється від спроби “здати все”? Корисний чекап починається з оцінки ризиків, а не з […] The post Чекап організму: які аналізи справді потрібні у 30, 40 і 50 років ℗ first appeared on Новинарня .",
+      "categories": [
+        "Життя",
+        "реклама"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -2094,7 +3196,7 @@
       "published_at": "2026-11-03T19:46:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 21:46:00 +0200",
       "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Це вже п'ята країна, яка відмовилася грати з Росією.",
+      "description": "Це вже шоста країна, яка відмовилася грати з Росією.",
       "categories": [
         "Спорт"
       ],
@@ -3742,23 +4844,6 @@
       "status": "new"
     },
     {
-      "id": "d849ba901bd79116",
-      "source_id": "map-685",
-      "source": "Об'єктив Новини",
-      "geography": "regional",
-      "source_region": "kharkiv",
-      "url": "https://objectiv.tv/uk/objectively/2026/11/03/novini-harkova-golovne-3-listopada",
-      "title": "Новини Харкова – головне 3 листопада: обстріл, немає тепла, води, світла",
-      "published_at": "2026-11-03T19:00:49+00:00",
-      "published_raw": "Tue, 03 Nov 2026 19:00:49 +0000",
-      "fetched_at": "2026-11-03T06:46:08+00:00",
-      "description": "Основні новини доби – у хроніці МР «Об’єктив». 21:00 Бойовики “лнр” знущалися з родини в...",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "0026801c1db4d081",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -4987,6 +6072,26 @@
       "fetched_at": "2026-11-03T20:58:34+00:00",
       "description": "Бойовики “лнр” знущалися з родини в селі Морозівка Ізюмського району в липні 2022 року, повідомляє...",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "81b0eff24579da9e",
+      "source_id": "novynarnia",
+      "source": "Новинарня",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://novynarnia.com/2026/11/03/kreditna-istoriya-bez-mifiv-yak-pereviriti-dani-i-krashe-rozumiti",
+      "title": "Кредитна історія без міфів: як перевірити дані й краще розуміти фінансові рішення ℗",
+      "published_at": "2026-11-03T18:35:30+00:00",
+      "published_raw": "Tue, 03 Nov 2026 18:35:30 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Коли людина отримує несподіване рішення за кредитною заявкою, часто з’являється спокуса шукати одну причину: старе прострочення, помилку банку або низький бал у застосунку. Насправді фінансова репутація складається з багатьох записів, а рішення кредитора не завжди можна пояснити одним показником. Розібратися у власній кредитній історії корисно навіть тоді, коли нова позика не потрібна. Це спосіб перевірити […] The post Кредитна історія без міфів: як перевірити дані й краще розуміти фінансові рішення ℗ first appeared on Новинарня .",
+      "categories": [
+        "Життя",
+        "реклама"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7605,6 +8710,23 @@
       "status": "new"
     },
     {
+      "id": "49f308daa7135258",
+      "source_id": "map-1142",
+      "source": "20 хвилин. Тернопіль",
+      "geography": "regional",
+      "source_region": "ternopil",
+      "url": "https://te.20minut.ua/Kryminal/pidpolkovnik-ttsk-otrimav-2500-za-znyattya-z-rozshuku-yak-pokarav-yogo-12010822.html",
+      "title": "Підполковник ТЦК отримав $2500 за зняття з розшуку. Як покарав його суд?",
+      "published_at": "2026-11-03T17:30:00+00:00",
+      "published_raw": "2026-11-03T19:30:00+02:00",
+      "fetched_at": "2026-11-03T20:58:34+00:00",
+      "description": "Про затримання підполковника Підволочиського ТЦК, якого підозрювали в отриманні 2500 доларів за зняття військовозобов’язаного з розшуку, редакція уже розповідала. Ми також аналізували його декларацію. Тоді «20 хвилин» знайшли дані, що він разом із родиною володіє понад 25 гектарами землі. Згодом ДБР повідомило, що обвинувальний акт скерували до суду. Як встановив суд, 3 червня 2026 року до підполковника звернулися по допомогу зі зняттям військовозобов’язаного з розшуку за статтею 210 КУпАП.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ce600b7722ae629c",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -8156,6 +9278,26 @@
       "status": "new"
     },
     {
+      "id": "2f39499e1519af94",
+      "source_id": "map-588",
+      "source": "Накипіло",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://nakypilo.ua/novyny/patriots-1654-misteriia-v-lisakh-kharkivshchyny",
+      "title": "Patriots 1654 провели містерію в лісах Харківщини. Фоторепортаж",
+      "published_at": "2026-11-03T17:15:14+00:00",
+      "published_raw": "Tue, 03 Nov 2026 17:15:14 +0000",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "Днями в лісах Харківщини Patriots 1654 провели містерію до другої річниці заснування. Це немілітарна організація, яка фокусується на…",
+      "categories": [
+        "Новини",
+        "Фото"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "298b71364d040cb2",
       "source_id": "map-1200",
       "source": "ОстроВ",
@@ -8548,23 +9690,6 @@
         "Різдво для Ба та Ді",
         "турбота"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "49f308daa7135258",
-      "source_id": "map-1142",
-      "source": "20 хвилин. Тернопіль",
-      "geography": "regional",
-      "source_region": "ternopil",
-      "url": "https://te.20minut.ua/Kryminal/pidpolkovnik-ttsk-otrimav-2500-za-znyattya-z-rozshuku-yak-pokarav-yogo-12010822.html",
-      "title": "Підполковник ТЦК отримав $2500 за зняття з розшуку. Як покарав його суд?",
-      "published_at": "2026-11-03T17:01:00+00:00",
-      "published_raw": "2026-11-03T19:01:00+02:00",
-      "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "Про затримання підполковника Підволочиського ТЦК, якого підозрювали в отриманні 2500 доларів за зняття військовозобов’язаного з розшуку, редакція уже розповідала. Ми також аналізували його декларацію. Тоді «20 хвилин» знайшли дані, що він разом із родиною володіє понад 25 гектарами землі. Згодом ДБР повідомило, що обвинувальний акт скерували до суду. Як встановив суд, 3 червня 2026 року до підполковника звернулися по допомогу зі зняттям військовозобов’язаного з розшуку за статтею 210 КУпАП.",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -10279,6 +11404,25 @@
       "description": "Енергетики ремонтуватимуть мережі.",
       "categories": [
         "Харків"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f3cf559ff35e5a7b",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/u-harkovi-4-listopada-zminyatsya-marshruti-chotiroh-tramvayiv",
+      "title": "У Харкові 4 листопада зміняться маршрути чотирьох трамваїв",
+      "published_at": "2026-11-03T16:15:00+00:00",
+      "published_raw": "Tue, 03 Nov 2026 18:15:00 +0200",
+      "fetched_at": "2026-11-04T01:20:22+00:00",
+      "description": "На час ремонтних робіт трамваї курсуватимуть за зміненими маршрутами",
+      "categories": [
+        "Всi новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12543,9 +13687,9 @@
       "description": "В Івано-Франківську розпочались підготовчі роботи зі встановлення ковзанки. Цьогоріч вона буде розміщена у парку імені Тараса Шевченка, поблизу літньої сцени, пише КУРС. За словами директорки КП ”Центру розвитку міста та рекреації” Руслани Василюк, розміщення ковзанки у парку обрали через зміщення всі різдвяних локацій. ”Зараз змінилось розташування центральної ялинки і різдвяного ярмарку, вони тепер у парку […]",
       "categories": [
         "Суспільство",
+        "Центр розвитку міста та рекреації",
         "парк культури і відпочинку ім. Т. Шевченка",
-        "ковзанка",
-        "Центр розвитку міста та рекреації"
+        "ковзанка"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -13707,7 +14851,7 @@
         "Франківські новини",
         "Кримінал",
         "Життя",
-        "поліція Івано-Франківської області"
+        "Івано-Франківська обласна прокуратура"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15831,25 +16975,6 @@
       "description": "Модна дизайнерка Вера Вонг 2 листопада завітала на церемонію CFDA Fashion Awards 2026. 77-річна знаменитість позувала перед камерами у відвертому образі.",
       "categories": [
         "Life/Краса та мода"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "3a1f5fe3bd5ae605",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4180984-v-ukraini-zavtra-perevazno-bez-opadiv-vden-do-12.html",
-      "title": "В Україні завтра переважно без опадів, вдень до +12°",
-      "published_at": "2026-11-03T14:37:00+00:00",
-      "published_raw": "Tue, 03 Nov 2026 16:37:00 +0200",
-      "fetched_at": "2026-11-03T15:06:27+00:00",
-      "description": "У середу, 4 листопада, в Україні збережеться хмарна з проясненнями погода, без істотних опадів, лише на крайньому півдні можливий невеликий дощ.",
-      "categories": [
-        "Регіони"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -30623,8 +31748,8 @@
       "description": "Допомогу на опалювальний сезон можуть отримати волновасці, які живуть у будинках з пічним опаленням. Це разова виплата на родину — 15 тис. грн. Подати заявку можна до 15 грудня. Про можливість журналісти Вільного Радіо дізналися з розпорядження начальника Волноваської МВА Івана Лубінця. Допомога передбачена для…",
       "categories": [
         "Новини",
-        "Можливості для людей з Донеччини",
-        "Новини Волноваської громади"
+        "Новини Волноваської громади",
+        "Можливості для людей з Донеччини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -34366,10 +35491,10 @@
       "description": "Ще 1 714 влучань по лінії фронту та житловому сектору області зафіксували в поліції протягом доби 2 листопада. Не обійшлося без жертв серед цивільних: зокрема загиблі були в Дружківці, Краматорську, Біленькому та Слов’янську. Розповідаємо про наслідки російських атак за добу. Щонайменше п’ять населених пунктів атакували…",
       "categories": [
         "Новини",
-        "Новини Слов’янської громади",
         "Новини Дружківської громади",
         "Новини Краматорської громади",
-        "Новини Білозерської громади"
+        "Новини Білозерської громади",
+        "Новини Слов’янської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -37608,7 +38733,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://mediaport.ua/kharkiv-zaznav-kombinovanoho-udaru-ponad-70-postrazhdalykh-poshkodzheno-medzaklady",
-      "title": "Харків зазнав комбінованого удару: понад 70 постраждалих, пошкоджено медзаклади",
+      "title": "Харків зазнав комбінованого удару: понад 70 постраждалих, пошкоджено лікарню",
       "published_at": "2026-11-03T07:09:57+00:00",
       "published_raw": "Tue, 03 Nov 2026 07:09:57 +0000",
       "fetched_at": "2026-11-03T15:06:27+00:00",
@@ -45497,6 +46622,12 @@
       "fetched": 1602,
       "added": 673,
       "errors": 3
+    },
+    {
+      "at": "2026-11-04T01:20:22+00:00",
+      "fetched": 1535,
+      "added": 58,
+      "errors": 4
     }
   ]
 }
