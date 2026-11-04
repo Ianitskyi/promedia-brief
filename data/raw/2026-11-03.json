@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-04T01:20:22+00:00",
+  "generated_at": "2026-11-04T09:10:51+00:00",
   "source_count": 125,
   "item_count": 2369,
   "items": [
@@ -528,11 +528,11 @@
       "geography": "national",
       "source_region": null,
       "url": "https://pravda.com.ua/news/2026/11/03/8061131",
-      "title": "В Одесі росіяни атакували торгівельний центр",
+      "title": "В Одесі росіяни атакували торговельний центр",
       "published_at": "2026-11-03T21:17:00+00:00",
       "published_raw": "Tue, 03 Nov 2026 23:17:00 +0200",
       "fetched_at": "2026-11-04T01:20:22+00:00",
-      "description": "Російські війська увечері 3 листопада атакували торгівельну інфраструктуру в Одесі.",
+      "description": "Російські війська увечері 3 листопада атакували торговельну інфраструктуру в Одесі.",
       "categories": [
         "Новини"
       ],
@@ -9031,11 +9031,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/iak-vimikatimut-svitlo-na-poltavshchini-4-listopada",
-      "title": "Poltava Region Power Outage Schedule for November 4: Hourly Cuts by Queue",
+      "title": "Як вимикатимуть світло на Полтавщині 4 листопада (оновлено)",
       "published_at": "2026-11-03T17:21:39+00:00",
       "published_raw": "Tue, 03 Nov 2026 17:21:39 GMT",
       "fetched_at": "2026-11-03T20:58:34+00:00",
-      "description": "On Wednesday, November 4, hourly power outage schedules will apply in Poltava Region, based on queues 1.1 to 6.2. The schedule may be updated during the day.",
+      "description": "У середу, 4 листопада, на Полтавщині діятимуть графіки погодинних відключень електроенергії. Публікуємо графік відключень для жителів області.",
       "categories": [
         "Соціум",
         "Новини"
@@ -9290,8 +9290,7 @@
       "fetched_at": "2026-11-04T01:20:22+00:00",
       "description": "Днями в лісах Харківщини Patriots 1654 провели містерію до другої річниці заснування. Це немілітарна організація, яка фокусується на…",
       "categories": [
-        "Новини",
-        "Фото"
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -11332,7 +11331,7 @@
       "geography": "regional",
       "source_region": "odesa",
       "url": "https://intent.press/news/war/2026/na-khersonshchini-boiets-pzrk-zbiv-rosiisku-raketu-kh-101",
-      "title": "На Херсонщині боєць ПЗРК збив російську ракету Х-101",
+      "title": "На Херсонщині боєць з ПЗРК збив російську ракету Х-101",
       "published_at": "2026-11-03T16:17:46+00:00",
       "published_raw": "Tue, 03 Nov 2026 18:17:46 +0200",
       "fetched_at": "2026-11-03T20:58:34+00:00",
@@ -11519,7 +11518,7 @@
       "fetched_at": "2026-11-03T06:46:08+00:00",
       "description": "“18000” проводить невеликий екскурс у контекст того, що ж нині відбувається у міській раді Умані",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -16385,7 +16384,7 @@
       "fetched_at": "2026-11-03T15:06:27+00:00",
       "description": "У Кропивницькому через складну ситуацію з електропостачанням та збільшення тривалості відключень з 17:00 обмежать рух тролейбусів, які працюють від контактної мережі. На маршрутах залишаться лише тролейбуси з автономним ходом. У Кропивницькому з 17:00 обмежать рух тролейбусів - Інтернет-видання Без Купюр Кропивницький. Автор - Без Купюр",
       "categories": [
-        "За кермом",
+        "Головне",
         "Кропивницький",
         "новини"
       ],
@@ -46627,6 +46626,12 @@
       "at": "2026-11-04T01:20:22+00:00",
       "fetched": 1535,
       "added": 58,
+      "errors": 4
+    },
+    {
+      "at": "2026-11-04T09:10:51+00:00",
+      "fetched": 1073,
+      "added": 0,
       "errors": 4
     }
   ]
