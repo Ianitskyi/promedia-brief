@@ -1,8 +1,8 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-04T22:38:27+00:00",
-  "source_count": 10,
-  "item_count": 23,
+  "generated_at": "2026-11-05T03:29:21+00:00",
+  "source_count": 16,
+  "item_count": 100,
   "items": [
     {
       "id": "ae9a8bec6ca0f3db",
@@ -12,8 +12,8 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/u-gromadi-pidtrimuyut-miscevu-likarnyu-tradicijno-zbirayut-ovochi-article",
       "title": "У громаді підтримують місцеву лікарню: традиційно збирають овочі",
-      "published_at": "2026-11-04T22:38:02+00:00",
-      "published_raw": "Thu, 05 Nov 2026 00:38:02 +0200",
+      "published_at": "2026-11-05T03:29:02+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:29:02 +0200",
       "fetched_at": "2026-11-04T22:38:27+00:00",
       "description": "",
       "categories": [
@@ -31,12 +31,1385 @@
       "source_region": "chernihiv",
       "url": "https://cntime.cn.ua/rejting-universitetiv-zhoden-z-vishiv-chernigivshini-ne-uvijshov-do-sotni-krashih-article",
       "title": "Рейтинг університетів: жоден з вишів Чернігівщини не увійшов до сотні кращих",
-      "published_at": "2026-11-04T22:38:02+00:00",
-      "published_raw": "Thu, 05 Nov 2026 00:38:02 +0200",
+      "published_at": "2026-11-05T03:29:02+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:29:02 +0200",
       "fetched_at": "2026-11-04T22:38:27+00:00",
       "description": "",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "21c84e0f53c8cc21",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144081-polovyna-sumy-v-platizhtsi-iak-chastyni-simey-otrymaty-50percent-znyzhky-na-komunalku",
+      "title": "Половина суми в платіжці: як частині сімей отримати 50% знижки на комуналку",
+      "published_at": "2026-11-05T03:22:34+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:22:34 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Українські родини, які виховують трьох і більше дітей, мають законне право платити за житло та комунальні послуги вдвічі менше. Проте таку 50-відсоткову знижку держава дає не всім, а усе залежить від реальних доходів сім’ї.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bf29bd28bdbc292f",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1231373.html",
+      "title": "Канада заборонятиме в'їзд російським і білоруським спортсменам, які виступатимуть під національними символами",
+      "published_at": "2026-11-05T03:22:12+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:22:12 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Канада в індивідуальному порядку заборонятиме в'їзд російським і білоруським спортсменам та офіційним особам, якщо вони мають намір виступати під національними символами, йдеться в спільній заяві глави МЗС Аніти Ананд, міністерки імміграції Ліни Метледж Діаб і держсекретаря зі спорту Адама ван Кувердена.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e361b161235ff51e",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4181470-podatkova-poperedzae-pro-fisingovu-rozsilku-nibito-vid-ii-imeni.html",
+      "title": "Податкова попереджає про фішингову розсилку нібито від її імені",
+      "published_at": "2026-11-05T03:14:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:14:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Платникам масово надходять фейкові електронні листи нібито від імені Державної податкової служби України з повідомленнями про нарахування податкового боргу.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "def23f12588d911e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-4-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50656405.html",
+      "title": "РФ атакує Україну шахедами: у низці областей оголосили повітряну тривогу, у Києві впали уламки БПЛА, на Київщині спалахнув склад",
+      "published_at": "2026-11-05T03:12:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:12:00 +0200",
+      "fetched_at": "2026-11-04T22:38:27+00:00",
+      "description": "У ніч проти четверга, 5 листопада, російські війська атакували Україну безпілотниками. У низці областей оголосили повітряну тривогу. Повідомляється про падіння уламків БПЛА та пожежу у Києві та області.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e63061d8dacefb69",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/sutichka-u-petropavlivskiy-borshchagivci-yaki-visnovki-ta-hto-maye-buti-pokaraniy-novini-ukrajini-50656200.html",
+      "title": "«Президент не став на захист військових». Які висновки з ситуації в Петропавлівській Борщагівці та чому всі зусилля потрібно спрямувати на мобілізацію — ветеран",
+      "published_at": "2026-11-05T03:04:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:04:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ветеран російсько-української війни, народний депутат VIII скликання Андрій Тетерук в інтерв'ю Radio NV — про ситуацію в Петропавлівській Борщагівці, необхідність притягнення до відповідальності організаторів заворушення, проблеми з мобілізацією та відповідальність президента як верховного головнокомандувача.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "65cc2b1b4f397d3e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/moralnij-dukh-na-nuli-reuters-pro-te-shcho-vidbuvajetsja-v-bilomu-domi-pislja-rozhromu-respublikantsiv.html",
+      "title": "«Моральний дух на нулі»: Reuters про те, що відбувається в Білому домі після розгрому республіканців",
+      "published_at": "2026-11-05T03:01:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 05:01:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Адміністрація Трампа готується до розслідувань.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1caab79a2714ed4f",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/273601-prysoromlennia-rosiyskomovnykh-ne-pratsiuye-kulturolohynia-mariam-nayyem-pro-movni-srachi-zakinchennia-viyny-y-prymyrennia-z-rf",
+      "title": "«Присоромлення російськомовних не працює». Культурологиня Маріам Найєм про мовні «срачі», закінчення війни й примирення з рф",
+      "published_at": "2026-11-05T03:00:00+00:00",
+      "published_raw": "2026-11-05T05:00:00+02:00",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "79b21c9da4be6ba6",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/05/778658_prezident_izrayilyu_ofitsiyno.html",
+      "title": "Президент Ізраїлю офіційно запустив процес формування нового уряду",
+      "published_at": "2026-11-05T02:59:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:59:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Спроби Біньяміна Нетаньягу оскаржити результати виборів не мали наслідків.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2830a53dcca50644",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/svit/odnomu-najbilshyx-rosijskyx-npz-pislya-ataky-bpla-vynykla-masshtabna-pozhezha",
+      "title": "На одному із найбільших російських НПЗ після атаки БПЛА виникла масштабна пожежа",
+      "published_at": "2026-11-05T02:58:13+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:58:13 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У ніч проти 5 листопада безпілотники атакували Рязанський НПЗ у росії. На території заводу виникла масштабна пожежа. Підприємство виробляє пальне, зокрема для потреб російської армії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3766f4674a52740d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/binance-golovne-pro-masshtabne-vikradennya-6-mlrd-dolariv-cifrovih-aktiviv-v-infografici-nv-50656378.html",
+      "title": "Що відомо про рекордне пограбування криптовалютної біржі Binance на понад $6 мільярдів — інфографіка NV",
+      "published_at": "2026-11-05T02:58:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:58:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У ніч на 30 жовтня 2026 року з найбільшої криптовалютної біржі Binance зловмисники викрали цифрові активи на понад $6 млрд, що стало найбільшою крадіжкою в історії криптовалюти.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e82de71a2c06eb31",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181518-na-mikolaivsini-viavili-krilatu-raketu-h101-aka-ne-zdetonuvala.html",
+      "title": "На Миколаївщині виявили крилату ракету Х-101, яка не здетонувала",
+      "published_at": "2026-11-05T02:50:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:50:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "На на території Вознесенського району Миколаївської області виявили крилату ракету Х-101, яка не здетонувала.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0ad79e8896db67e2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/ilon-mask-i-rosiya-aviaekspert-pripustiv-shcho-fahivci-maska-konsultuvali-rf-shchodo-zv-yazku-50656311.html",
+      "title": "Фахівці Маска можуть консультувати росіян щодо систем зв’язку — авіаексперт",
+      "published_at": "2026-11-05T02:46:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:46:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Авіаексперт, провідний науковий співробітник Державного музею авіації Валерій Романенко в інтерв'ю Radio NV припустив, що фахівці американського мільярдера і власника SpaceX Ілона Маска можуть консультувати росіян щодо зв’язку.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3063c1b9359c6e09",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/polityka/demokraty-konhresi-ssha-zmozhut-sxvalyty-novu-dopomohu-ukrayini-reuters",
+      "title": "Демократи в Конгресі США зможуть схвалити нову допомогу Україні – Reuters",
+      "published_at": "2026-11-05T02:41:06+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:41:06 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Демократи після отримання контролю над Сенатом і Палатою представників США зможуть ініціювати нову допомогу Україні та блокувати послаблення санкцій проти росії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f8f022c70e1110b6",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/merts-pojasniv-chomu-peremoha-demokrativ-ne-zupinit-trampa.html",
+      "title": "Мерц пояснив, чому перемога демократів не зупинить Трампа",
+      "published_at": "2026-11-05T02:36:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:36:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Канцлер Німеччини не очікує зміни політики Трампа після виборів.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eeb852814e0ecdfe",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/vibori-u-ssha-2026-rezultati-ta-naslidki-prograshu-trampa-dlya-ukrajini-50656319.html",
+      "title": "«Президент жорстко тиснутиме на Київ». Як Штатами пронеслося «блакитне цунамі» та чому Трамп залишається небезпечним для України — інтерв'ю з Клімкіним",
+      "published_at": "2026-11-05T02:32:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:32:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Міністр закордонних справ України у 2014−2019 роках Павло Клімкін в інтерв'ю Radio NV аналізує результати проміжних виборів у США, наслідки перемоги Демократичної партії для України, ризики ескалації довкола Ірану та роль першої леді Меланії Трамп у нових гуманітарних домовленостях.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "438a229b8a29669c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445171-sud-ne-skasuvav-zaboronu-rosijskim-sudam-vhoditi-v-porti-es",
+      "title": "Суд не скасував заборону російським судам входити в порти ЄС",
+      "published_at": "2026-11-05T02:30:01+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:30:01 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Суд ЄС відхилив спробу Російського морського регістру судноплавства домогтися скасування заборони на доступ російських суден до доків і шлюзів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7c0a94d03dd9f22f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181575-u-mikolaevi-cerez-bijku-miz-posadovcami-komunalnogo-pidpriemstva-policia-vidkrila-provadzenna.html",
+      "title": "У Миколаєві через бійку між посадовцями комунального підприємства поліція відкрила провадження",
+      "published_at": "2026-11-05T02:28:47+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:28:47 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У Миколаєві стався конфлікт між двома керівниками комунального підприємства КП «Миколаївводоканал», який переріс у бійку. Правоохоронці відкрили кримінальне провадження.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "40aa806538186330",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/ataka-na-ryazanskiy-npz-pislya-udaru-droniv-spalahnula-masshtabna-pozhezha-50656419.html",
+      "title": "БПЛА атакували Рязанський НПЗ, спалахнула масштабна пожежа",
+      "published_at": "2026-11-05T02:27:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:27:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У ніч проти четверга, 5 листопада, безпілотники атакували Рязанський нафтопереробний завод. На місці удару спалахнула масштабна пожежа.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2629a958dc6f5573",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/demokrati-pislja-peremohi-na-viborakh-u-ssha-mozhut-vidnoviti-prjamu-vijskovu-dopomohu-ukrajini.html",
+      "title": "Демократи після перемоги на виборах у США можуть відновити пряму військову допомогу Україні",
+      "published_at": "2026-11-05T02:27:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:27:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Для подолання можливого президентського вето потрібні дві третини голосів у кожній палаті.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f98113fba08109fd",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/auto/articles/pershi-p-yat-hvilin-prostiy-tryuk-zi-skotchem-yakiy-vryatuye-lobove-sklo-vid-povnoji-zagibeli-50656233.html",
+      "title": "«Клац» на трасі. Що треба зробити в перші п’ять хвилин після удару камінця в лобове скло",
+      "published_at": "2026-11-05T02:26:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:26:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Маленька біла цятка від щебеню на лобовому склі коштує кількасот гривень за швидкий ремонт полімером на найближчому сервісі.",
+      "categories": [
+        "Авто/Статті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3a07f913bae97cf6",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/business/325925-uriad-pryznachyv-doplaty-30-tys-pratsivnykam-avariino-vidnovliuvalnykh",
+      "title": "Уряд призначив доплати по ₴30 тис. працівникам аварійно-відновлювальних бригад",
+      "published_at": "2026-11-05T02:25:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:25:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Фахівцям, які відновлюють критичні об’єкти енергетики, житлово-комунальної інфраструктури та залізниці після російських атак, виплачуватимуть додатково по 30 тисяч гривень. Ці кошти працівники аварійних бригад зможуть отримувати до кінця опалювального сезону.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "dc435199bea98588",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181570-na-odesini-zatrimali-patoh-colovikiv-aki-planuvali-pereplisti-dnister-u-gidrokostumah.html",
+      "title": "На Одещині затримали п’ятьох чоловіків, які планували переплисти Дністер у гідрокостюмах",
+      "published_at": "2026-11-05T02:13:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:13:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У Подільському районі Одеської області прикордонники затримали чоловіків призовного віку, які планували незаконно перетнути Дністер.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "609693af6409d8f0",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/tsini-na-naftu-vpali-pislja-nishchivnoji-porazki-respublikantsiv.html",
+      "title": "Ціни на нафту впали після нищівної поразки республіканців",
+      "published_at": "2026-11-05T02:07:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:07:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "І заяв Джей Ді Венса про війну в Ірані.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "440e11804c706837",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/gadgets/yak-vryatuvati-dani-z-poshkodzhenogo-ssd-pershi-kroki-pri-zboyah-diska-50656132.html",
+      "title": "Вмирають мовчки. П’ять тривожних симптомів, які видають швидку смерть вашого SSD",
+      "published_at": "2026-11-05T02:04:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 04:04:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Старі механічні вінчестери вмирали чесно, голосно і з почуттям власної гідності. Вони починали скреготіти, клацати магнітними головками, видавати жалібне виття під час увімкнення і всім своїм залізним нутром попереджали: шукай флешку і копіюй фотографії, бо ми доживаємо останні дні.",
+      "categories": [
+        "Техно/Гаджети"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "65bb6f2fc2174166",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1231371.html",
+      "title": "Від початку доби на фронті відбулося 179 боїв – Генштаб",
+      "published_at": "2026-11-05T01:59:47+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:59:47 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Від початку доби 4 листопада на фронті зафіксували 179 бойових зіткнень, повідомляє Генштаб ЗСУ.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5ee0713fcb88d228",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/polityka/zmi-nazvaly-imena-jmovirnyx-zatrymanyx-spravi-karfahen-sered-nyx-dvoye-posadovcziv-naczpolicziyi",
+      "title": "ЗМІ назвали імена ймовірних затриманих у справі «Карфаген»: серед них – двоє посадовців Нацполіції",
+      "published_at": "2026-11-05T01:56:19+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:56:19 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "НАБУ, ймовірно, затримало Володимира Ценова, Олександра Дем'янчука та Олександра Рибалка у справі Карфаген. Також затримали генерала СБУ Сергія Дуку.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "60c45fb219125fc2",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/zelenskij-spodivajetsja-na-bilshu-dopomohu-ukrajini-pislja-peremohi-demokrativ-u-ssha.html",
+      "title": "Зеленський сподівається на більшу допомогу Україні після перемоги демократів у США",
+      "published_at": "2026-11-05T01:56:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:56:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Глава держави вважає, що фінансова й військова підтримка Вашингтона може вплинути на Кремль.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3015459b22f30b11",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4181506-niderlandskij-vijskovij-analitik-nato-silnise-za-armiu-rf-ale-golovne-pitanna-ci-gotovi-mi-vouvati.html",
+      "title": "Нідерландський військовий аналітик: НАТО сильніше за армію РФ, але головне питання - чи готові ми воювати",
+      "published_at": "2026-11-05T01:50:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:50:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "НАТО має значну військову перевагу над Росією, однак європейські країни залишаються вразливими через нестачу засобів протиповітряної оборони та бойового досвіду ведення сучасної війни.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "163f11ec52a14979",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/05/778656_reuters_demokrati_mozhut.html",
+      "title": "Reuters: Демократи можуть відновити допомогу Україні завдяки більшості в Конгресі",
+      "published_at": "2026-11-05T01:33:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:33:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Частина республіканців теж виступають за посилення Києва грошима та зброєю.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b664833f64dcf893",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181571-u-lvovi-likari-vratuvali-hlopcika-z-nadvazkou-travmou.html",
+      "title": "У Львові лікарі врятували хлопчика з надважкою травмою",
+      "published_at": "2026-11-05T01:33:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:33:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У Львові лікарі врятували 7-річного хлопчика з надважкою травмою - йому металевий диск від вантажівки влучив у голову.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "47acbba3babdc880",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445173-es-planue-vvesti-novi-zahodi-proti-gruzii-cerez-vidstup-vid-demokratii",
+      "title": "ЄС планує ввести нові заходи проти Грузії через відступ від демократії",
+      "published_at": "2026-11-05T01:22:58+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:22:58 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Кая Каллас заявила, що глави МЗС країн Євросоюзу в січні обговорять нові заходи проти Грузії, щоб не допустити подальшого відступу Тбілісі від демократичних стандартів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3f6688ddd7d903c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/tramp-prograv-vibori-u-senat-i-kongres-chomu-zaraz-pochnetsya-tisk-na-ukrajinu-50656145.html",
+      "title": "Трамп програв обидві палати. Що зараз почнеться",
+      "published_at": "2026-11-05T01:19:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:19:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Чому Україні треба готуватися до посилення тиску",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3300514c3cf867b",
+      "source_id": "map-573",
+      "source": "А.С.С.",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://acc.cv.ua/news/storystorynka/kuhonniy-rushnik-mozhe-buti-dzherelom-bakteriy-123086",
+      "title": "Кухонний рушник може бути джерелом бактерій",
+      "published_at": "2026-11-05T01:16:25+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:16:25 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ми дбаємо про чистоту кухонного столу, ретельно миємо посуд і навіть використовуємо окремі дошки для різних продуктів. Однак про кухонні рушники часто забуваємо, хоча саме на них може накопичуватися чимало забруднень.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "485ef327ca6ec9ee",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181564-kianina-zasudili-do-15-rokiv-uvaznenna-za-peredacu-rosianam-koordinat-pidrozdiliv-teroboroni.html",
+      "title": "Киянина засудили до 15 років ув'язнення за передачу росіянам координат підрозділів тероборони",
+      "published_at": "2026-11-05T01:06:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 03:06:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "До 15 років позбавлення волі з конфіскацією майна засудили 40-річного жителя Києва, який співпрацював з російськими спецслужбами, передавав інформацію про розташування українських військових та поширював матеріали на підтримку збройної агресії РФ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f826b81e1257d1a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/teplopostachannya-ukrajini-problemi-modernizaciji-ta-dosvid-mist-v-opalyuvalniy-sezon-50655902.html",
+      "title": "«Загравання з населенням вбиває галузь». Експерт про загрози опалювального сезону та вихід із глухого кута — інтерв'ю",
+      "published_at": "2026-11-05T00:58:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:58:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Опалювальний сезон розпочався, і він буде непростим. Що не так із системою центрального теплопостачання в Україні та як її рятувати — розповідає досвідчений експерт Михайло Лук’яник з ГО Екоклуб",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b47b4a0da6972c79",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/pivnichna-koreya-viprobuvala-novu-sistemu-ppo-ta-provela-raketni-navchannya-50656418.html",
+      "title": "КНДР випробувала нову систему ППО та провела ракетні навчання з імітацією удару по аеропорту",
+      "published_at": "2026-11-05T00:58:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:58:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Північна Корея випробувала нову систему протиповітряної оборони та провела навчання з відпрацювання удару крилатими ракетами.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d5233847a6a42656",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/tramp-pidtrimav-hehseta-pislja-porazki-respublikantsiv-na-viborakh-do-konhresu.html",
+      "title": "Трамп підтримав Гегсета після поразки республіканців на виборах до Конгресу",
+      "published_at": "2026-11-05T00:58:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:58:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Джерела допускають заміну міністра оборони, а демократи готують розслідування його рішень.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "57d13f6c8ec88953",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/suspilstvo/centru-povernennya-ukrayincziv-berlini-zvernulysya-lyshe-troye-cholovikiv-pryzovnoho-viku-zmi",
+      "title": "До центру повернення українців у Берліні звернулися лише троє чоловіків призовного віку – ЗМІ",
+      "published_at": "2026-11-05T00:54:41+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:54:41 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Центр Unity Hub Berlin за пів року отримав близько 60 звернень щодо повернення українців додому. Серед заявників лише троє чоловіків призовного віку.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "000b37d522114933",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1231369.html",
+      "title": "Експосол України у США Маркарова позитивно оцінила результати американських виборів",
+      "published_at": "2026-11-05T00:44:13+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:44:13 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Колишня посолка України в США Оксана Маркарова відзначила, що серед нових губернаторів і членів Конгресу США від обох партій є чимало людей, які підтримують Україну.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55f99f3851b539a4",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4181568-sili-oboroni-u-zovtni-znisili-ponad-8-tisac-rosijskih-droniv-i-raket.html",
+      "title": "Сили оборони у жовтні знищили понад 8 тисяч російських дронів і ракет",
+      "published_at": "2026-11-05T00:41:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:41:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Сили оборони України у жовтні 2026 року знищили понад 8 тисяч російських безпілотників і ракет під час відбиття масованих ворожих атак, а також знешкодили понад 43 тисячі БпЛА тактичного рівня.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "491e6fc71502a465",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/05/778654_tspd_pogrozi_iranu_vdariti.html",
+      "title": "ЦПД: Погрози Ірану вдарити по містах України в разі атаки США є фейком",
+      "published_at": "2026-11-05T00:40:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:40:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ворог поширює панічні настрої.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1ca3e5ae9588a612",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/pidpaly-avto-kryvyi-rih-zhinky-sud",
+      "title": "Замовлення в месенджері: у Кривому Розі судитимуть двох жінок за підпали автомобілів",
+      "published_at": "2026-11-05T00:36:07+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:36:07 +0000",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "The post Замовлення в месенджері: у Кривому Розі судитимуть двох жінок за підпали автомобілів appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Кривий Ріг",
+        "підпал",
+        "поліція"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "02162b4ea9b2dedc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1445169-na-kiivsini-cerez-udar-rf-spalahnuli-skladi",
+      "title": "На Київщині через удар РФ спалахнули склади",
+      "published_at": "2026-11-05T00:34:02+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:34:02 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Внаслідок атаки на Київщину ввечері 4 листопада, у Бучанському районі сталось займання на території складу, інформація про постраждалих уточнюється",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b1327fc31d926ffd",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/rosiya-na-mezhi-visnazhennya-aviaekspert-romanenko-nagadav-pro-problemi-krajini-okupanta-50656280.html",
+      "title": "Романенко назвав ознаки виснаження Росії",
+      "published_at": "2026-11-05T00:33:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:33:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Авіаексперт Валерій Романенко в ефірі Radio NV назвав ознаки виснаження країни-агресора Росії через її війну проти України.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f74c914fd0271ea4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445165-kitaj-zaaviv-so-pidtrimue-kontakti-sodo-zustrici-putina-trampa-ta-si-czinpina",
+      "title": "Китай заявив, що підтримує контакти щодо зустрічі Путіна, Трампа та Сі Цзіньпіна",
+      "published_at": "2026-11-05T00:13:48+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:13:48 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У Китаї заявили, що країна підтримує контакти зі США та Росією щодо зустрічі президентів Сі Цзіньпіна, Дональда Трампа та очільника Кремля Володимира Путіна на саміті АТЕС",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0d12b709a975e9cd",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181569-u-harkovi-zustrili-peremozca-unackih-olimpijskih-igor-iz-dzudo-hazara-gejdarova.html",
+      "title": "У Харкові зустріли переможця Юнацьких Олімпійських ігор із дзюдо Хазара Гейдарова",
+      "published_at": "2026-11-05T00:11:18+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:11:18 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У Харкові ввечері 4 листопада на залізничному вокзалі урочисто зустріли чемпіона IV літніх Юнацьких Олімпійських ігор із дзюдо 17-річного Хазара Гейдарова.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6c416b5fd285f8f1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4181384-na-doneccini-zatrimali-vijskovogo-akogo-pidozruut-u-prodazi-droniv-priznacenih-dla-zsu.html",
+      "title": "На Донеччині затримали військового, якого підозрюють у продажу дронів, призначених для ЗСУ",
+      "published_at": "2026-11-05T00:04:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:04:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "На Донеччині поліцейські затримали військовослужбовця, якого підозрюють у продажі БПЛА, призначених для потреб ЗСУ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "35c2c48fea728854",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/energetics/oae-rozhljadajut-budivnitstvo-tretoho-naftoprovodu-v-obkhid-ormuzkoji-protoki-bloomberg.html",
+      "title": "ОАЕ розглядають будівництво третього нафтопроводу в обхід Ормузької протоки — Bloomberg",
+      "published_at": "2026-11-05T00:04:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 02:04:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "За одним із варіантів, магістраль простягнеться від західного узбережжя до порту Фуджейра.",
+      "categories": [
+        "Енергетика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dcb9617efb4fc222",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/05/8061321",
+      "title": "Демократи Конгресу США можуть схвалити нову допомогу Україні, подолавши вето Трампа – Reuters",
+      "published_at": "2026-11-04T23:58:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:58:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "ЗМІ повідомляють, що більшість демократів у Конгресі США зможе подолати вето Трампа щодо допомоги Україні.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eed916bad8abf32c",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/svit/mask-vklav-446-mln-vybory-ssha-pidtrymani-nym-respublikanczi-prohraly-politico",
+      "title": "Маск вклав $446 млн у вибори в США, але підтримані ним республіканці програли – Politico",
+      "published_at": "2026-11-04T23:53:17+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:53:17 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ілон Маск витратив рекордні 446 млн доларів на підтримку республіканців під час виборів у США, однак більшість його кандидатів програли. Це може вплинути на плани мільярдера щодо датацентрів у Техасі.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2d79f9774db9dfcf",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/05/778652_vitse-premiera_bavariyi_znayshli.html",
+      "title": "Віце-прем'єра Баварії знайшли мертвим у готелі в Берліні",
+      "published_at": "2026-11-04T23:51:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:51:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Загадкова смерть політика з правої популістичної партії.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2319e9bfe08632e8",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/shakhtar-dinamo-onlajn-transljatsija-holovnoho-matchu-upl.html",
+      "title": "\"Шахтар\" — \"Динамо\": онлайн-трансляція центрального матчу УПЛ",
+      "published_at": "2026-11-04T23:49:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:49:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Поєдинок відбудеться у Львові.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ab2f472d80c41f37",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/237-mists-i-shans-uvijti-v-istoriju-khto-mozhe-stati-novim-spikerom-palati-predstavnikiv-ssha.html",
+      "title": "237 місць і шанс увійти в історію: хто може стати новим спікером Палати представників США",
+      "published_at": "2026-11-04T23:44:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:44:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У США може з'явитися перший темношкірий спікер.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c4927bc9f50eff84",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4181567-pogrozi-iranu-zavdati-raketnih-udariv-po-ukraini-ce-fejk-spramovanij-na-posirenna-panicnih-nastroiv-cpd.html",
+      "title": "Погрози Ірану завдати ракетних ударів по Україні це фейк, спрямований на поширення панічних настроїв - ЦПД",
+      "published_at": "2026-11-04T23:39:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:39:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Розповсюджена у соцмережах інформація про нібито удар Ірану по Україні в разі атаки США ні що інше, як фейк, спрямований на поширення панічних настроїв серед українців.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6f7a2668bb3b44b2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kijivsku-oblast-u-buchanskomu-rayoni-vnaslidok-ataki-rf-spalahnuv-sklad-50656415.html",
+      "title": "На Київщині внаслідок російської атаки спалахнула пожежа на складі — ОВА",
+      "published_at": "2026-11-04T23:31:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:31:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ввечері середи, 4 листопада, у Бучанському районі Київської області внаслідок російської атаки спалахнула пожежа на території складу.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7e338f16a1b79910",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/702560-shakhtar-dinamo-de-i-koli-divitisja-natsionalne-derbi.html",
+      "title": "\"Шахтар\" — \"Динамо\": де і коли дивитися національне дербі",
+      "published_at": "2026-11-04T23:28:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:28:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Суперники проведуть друге очне протистояння за два тижні.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "401d430ab94db21c",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/05/778650_ispaniya_prosit_dopomogi.html",
+      "title": "Іспанія просить допомоги Євросоюзу у розслідуванні залізничної трагедії в Толедо",
+      "published_at": "2026-11-04T23:22:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:22:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Брюссель непокоїть підрив довіри до залізничного транспорту.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6cbebb9832590f67",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4181419-sili-bezpilotnih-sistem-znisili-rosijskij-zenitnij-kompleks-tunguska.html",
+      "title": "Сили безпілотних систем знищили російський зенітний комплекс «Тунгуска»",
+      "published_at": "2026-11-04T23:20:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:20:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Оператори 4-го батальйону 413-го окремого полку Сил безпілотних систем «Рейд» знищили російський зенітний ракетно-гарматний комплекс «Тунгуска».",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e9da9908cfb5697e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/ssha-ta-jevropejski-sojuzniki-obhovorili-z-ukrajinoju-plan-vidbudovi-j-potrebi-oboroni.html",
+      "title": "США та європейські партнери обговорили з Україною план відбудови й потреби оборони",
+      "published_at": "2026-11-04T23:18:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:18:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Зустріч представників Києва й Москви за посередництва Вашингтона заплановано в Абу-Дабі.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9cb507abae3793cb",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/peregovori-u-bryusseli-y-vashingtoni-fesenko-pro-zustrich-arahamiji-z-melaniyeyu-tramp-50656135.html",
+      "title": "Інтрига зустрічі у Вашингтоні за посередництва Меланії Трамп",
+      "published_at": "2026-11-04T23:17:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:17:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Про переговори в 4 листопада в Брюсселі і 5 листопада — у Вашингтоні",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e947a96cc6c9d781",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/325887-openai-liudy-dedali-chastishe-shukaiut-informatsiiu-chatgpt-google",
+      "title": "OpenAI: люди дедалі частіше шукають інформацію через ChatGPT, але Google досі попереду",
+      "published_at": "2026-11-04T23:17:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:17:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Користувачі шукають інформацію через ChatGPT приблизно в п’ять разів рідше, ніж через Google. За даними OpenAI, кількість таких запитів у ChatGPT уже становить близько 20% від показника Google.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "2f4974c334e860b8",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/noviy-etap-operaciji-nabu-karfagen-ta-obshuki-v-sbu-shcho-vidomo-50656385.html",
+      "title": "Генерал, наркотики та кол-центри. Як справа НАБУ Карфаген, через яку втік генпрокурор Кравченко, стала пасткою для посадовців СБУ",
+      "published_at": "2026-11-04T23:14:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 01:14:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "NV розповідає подробиці нового гучного антикорупційного розслідування НАБУ, в якому змішались професійні злочинці та високі чини Нацполіції й СБУ.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b577f5e5c326e9e0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445163-u-litvi-poasnili-comu-zvinuvatili-troh-ukrainciv-u-zagrozi-nacbezpeki",
+      "title": "У Литві пояснили, чому звинуватили трьох українців у загрозі нацбезпеки",
+      "published_at": "2026-11-04T22:56:22+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:56:22 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Глава МВС Мартінас Кателінас пояснив, що збір інформації про стратегічні об'єкти вважається діяльністю проти інтересів Литви та не є сумісним із законним перебуванням тут",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e617f3d52ce6650d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4181515-es-obgovorit-novi-zahodi-proti-gruzii-cerez-zgortanna-demokratii-kallas.html",
+      "title": "ЄС обговорить нові заходи проти Грузії через згортання демократії - Каллас",
+      "published_at": "2026-11-04T22:54:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:54:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Міністри закордонних справ країн ЄС у січні детально обговорять нові заходи проти Грузії, аби зупинити подальше згортання демократії в цій країні.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a7a0b7210b3005e",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1231367.html",
+      "title": "Кушнер відзначив конструктивний підхід Зеленського та його команди до мирного врегулювання",
+      "published_at": "2026-11-04T22:53:53+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:53:53 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Спецпосланець президента США Джаред Кушнер відзначив конструктивний підхід президента України Володимира Зеленського та його команди до пошуку шляху до мирного врегулювання.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dc24534af4f3e438",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/05/778644_vvecheri_okupanti_atakuvali.html",
+      "title": "Ввечері окупанти атакували дронами Київ та область: є постраждалий (оновлено)",
+      "published_at": "2026-11-04T22:49:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:49:00 +0200",
+      "fetched_at": "2026-11-04T22:38:27+00:00",
+      "description": "В Бучанському районі загорілись склади. Постраждав охоронець.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bfff885a7da9da90",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/litva-vislala-troh-ukrajinciv-yaki-za-groshi-vikonuvali-zavdannya-inozemnih-rozvidok-50656414.html",
+      "title": "Литва депортувала трьох українців, яких звинувачують у виконанні завдань для іноземних спецслужб",
+      "published_at": "2026-11-04T22:49:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:49:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Литва депортувала трьох громадян України, яких звинувачують у виконанні доручень іноземних розвідувальних служб за гроші.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "080d236b0bc09aa4",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/05/novyna/bezpeka/kyyivshhyni-pislya-ataky-zahorivsya-sklad-ye-postrazhdalyj",
+      "title": "На Київщині після атаки загорівся склад, є постраждалий",
+      "published_at": "2026-11-04T22:46:51+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:46:51 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У ніч проти 5 листопада російські війська атакували Софіївську Борщагівку на Київщині. Внаслідок влучання по складських приміщеннях виникла пожежа, постраждав охоронець.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "183d80921a9c5d98",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/economics/2026/11/05/778648_amerikanski_tehnogiganti_vigrali.html",
+      "title": "Американські техногіганти виграли від провалу республіканців на виборах у США",
+      "published_at": "2026-11-04T22:45:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:45:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Галузь штучного інтелекту очікують великі зміни.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "187cd2d220cb0996",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/05/778636_frantsiyi_hakeri_zlamali.html",
+      "title": "У Франції хакери зламали холодильники для зберігання крові",
+      "published_at": "2026-11-04T22:45:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:45:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Техніки встигли втрутитись до того, як продукти були пошкоджені.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0cd683eab518f072",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/702508-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-12-ho-turu-video-holiv-onovljujetsja.html",
+      "title": "Українська Прем'єр-ліга: результати всіх матчів 12-го туру, відео голів (оновлюється)",
+      "published_at": "2026-11-04T22:44:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:44:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "В Україні триває футбольний сезон.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1774b19cbac04baf",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/ukrajina-vtratila-vplivovikh-sojuznikiv-u-konhresi-ssha-khto-z-proukrajinskikh-politikiv-zalishivsja.html",
+      "title": "Україна втратила впливових союзників у Конгресі США: хто з проукраїнських політиків залишився",
+      "published_at": "2026-11-04T22:42:17+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:42:17 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Після виборів Україна матиме справу з іншим Конгресом.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bcdec2f2ee660fec",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/liha-chempioniv-rozklad-usikh-matchiv-4-listopada.html",
+      "title": "Ліга чемпіонів: результати усіх матчів 4 листопада, турнірна таблиця",
+      "published_at": "2026-11-04T22:40:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:40:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Триває новий сезон головного клубного турніру Європи.",
+      "categories": [
+        "Спорт"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -157,6 +1530,25 @@
       "status": "new"
     },
     {
+      "id": "1316d184efba0846",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/pereformatuvannja-respublikanskoji-partiji-ta-politichna-stahnatsija-eksposol-u-ssha-sprohnozuvav-naslidki-peremohi-demokrativ.html",
+      "title": "Переформатування Республіканської партії та політична стагнація: експосол у США спрогнозував наслідки перемоги демократів",
+      "published_at": "2026-11-04T22:37:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:37:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Шамшур прогнозує появу нових політичних сил.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fd541d918b6759a1",
       "source_id": "map-844",
       "source": "Ірта-fax",
@@ -172,6 +1564,25 @@
         "ВІЙНА",
         "#події",
         "Партнерський матеріал"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dc8aeb98245af4f6",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/05/8061319",
+      "title": "ВАКС зобов’язав т. в. о. генпрокурора відкрити справу про можливий злочин Арахамії",
+      "published_at": "2026-11-04T22:34:00+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:34:00 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "У ЦПК повідомили, що ВАКС зобов’язав в.о. генпрокурора Ковальського відкрити справу щодо можливого злочину Арахамії.",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -214,6 +1625,23 @@
       "status": "new"
     },
     {
+      "id": "d175feb614a0e694",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445167-konstruktivna-vzaemodia-kusner-prokomentuvav-zustric-iz-zelenskim",
+      "title": "«Конструктивна взаємодія»: Кушнер прокоментував зустріч із Зеленським",
+      "published_at": "2026-11-04T22:26:31+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:26:31 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Зять президента Трампа Джаред Кушнер прокоментував розмову з президентом України Володимиром Зеленським перед трьосторонньою зустріччю в Абу-Дабі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f5995047e8b5e572",
       "source_id": "nv",
       "source": "NV",
@@ -227,25 +1655,6 @@
       "description": "Експерт Української призми Олександр Краєв розповів в ефірі Radio NV, що наразі не можна чітко сказати, хто є повноцінним лідером Демократичної партії США.",
       "categories": [
         "Світ/Країни"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "dc24534af4f3e438",
-      "source_id": "lb",
-      "source": "LB.ua",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://lb.ua/society/2026/11/05/778644_vvecheri_okupanti_atakuvali.html",
-      "title": "Ввечері окупанти атакували дронами Київ та область",
-      "published_at": "2026-11-04T22:20:00+00:00",
-      "published_raw": "Thu, 05 Nov 2026 00:20:00 +0200",
-      "fetched_at": "2026-11-04T22:38:27+00:00",
-      "description": "В Бучанському районі загорілись склади.",
-      "categories": [
-        "Суспільство"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -290,6 +1699,23 @@
       "status": "new"
     },
     {
+      "id": "45afb2ebe76929b6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1445157-sahtar-vibuv-z-top-20-ligi-cempioniv-na-ekvatori-osnovnogo-raundu-rezultati-i-tablica-pisla-cotiroh-turiv",
+      "title": "«Шахтар» вибув з топ-20 Ліги чемпіонів на екваторі основного раунду: результати і таблиця після чотирьох турів",
+      "published_at": "2026-11-04T22:16:36+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:16:36 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Ліга чемпіонів 2026/27 з футболу: всі результати 4-го туру (3-4 листопада 2026), турнірна таблиця Ліги чемпіонів після половини основного раунду, яке місце посідає «Шахтар»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ae277a8926794a3a",
       "source_id": "map-940",
       "source": "Букви",
@@ -313,20 +1739,18 @@
       "status": "new"
     },
     {
-      "id": "def23f12588d911e",
-      "source_id": "nv",
-      "source": "NV",
+      "id": "e00bb3aa1f9cbe14",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
       "geography": "national",
       "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-4-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50656405.html",
-      "title": "РФ атакує Україну шахедами: у низці областей оголосили повітряну тривогу, у Києві впали уламки БПЛА",
-      "published_at": "2026-11-04T22:16:00+00:00",
-      "published_raw": "Thu, 05 Nov 2026 00:16:00 +0200",
-      "fetched_at": "2026-11-04T22:38:27+00:00",
-      "description": "У ніч проти четверга, 5 листопада, російські війська атакували Україну безпілотниками. У низці областей оголосили повітряну тривогу.",
-      "categories": [
-        "Україна/Події"
-      ],
+      "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-boi-za-kostantinivku-front-doneccini-ta-lugansini-5-listopada-2026-roku",
+      "title": "Найгарячіша ділянка — Покровська, бої за Костянтинівку. Фронт Донеччини та Луганщини 5 листопада 2026 року",
+      "published_at": "2026-11-04T22:14:47+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:14:47 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео, коментарі з фронту",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -394,6 +1818,23 @@
       "status": "new"
     },
     {
+      "id": "cf39328ff467b171",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1445141-rf-atakuvala-kiiv-zelenskij-obgovoriv-zi-specpredstavnikami-trampa-majbutni-peregovori-v-abu-dabi-1716-j-den-vijni",
+      "title": "РФ атакувала Київ, Зеленський обговорив зі спецпредставниками Трампа майбутні переговори в Абу-Дабі. 1716-й день війни",
+      "published_at": "2026-11-04T22:06:17+00:00",
+      "published_raw": "Thu, 05 Nov 2026 00:06:17 +0200",
+      "fetched_at": "2026-11-05T03:29:21+00:00",
+      "description": "Російські військові атакували Київ, в одному з районів зайнялась пожежа. В Комишувасі, де РФ скинула авіабомби на школу, досі триває рятувальна операція",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0f25b3256ce19560",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -453,14 +1894,14 @@
   ],
   "errors": [
     {
-      "source": "Суспільне Новини",
-      "feed": "https://suspilne.media/rss/all.rss",
-      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
-    },
-    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
+    },
+    {
+      "source": "УР. Чернігів",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g",
+      "error": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiufRfF1egTZsV96Dc1-o6g: HTTP 404 <!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;paddin"
     },
     {
       "source": "Слобідський край",
@@ -468,14 +1909,14 @@
       "error": "https://www.slk.kh.ua/rss.xml: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" "
     },
     {
-      "source": "Mind.ua",
-      "feed": "https://s.mind.ua/rss/ua/all.xml",
-      "error": "https://s.mind.ua/rss/ua/all.xml: HTTP 403 <!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewpor"
-    },
-    {
       "source": "Еспресо: Біла Церква",
       "feed": "https://bc.espreso.tv/rss",
       "error": "https://bc.espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> "
+    },
+    {
+      "source": "НУШ",
+      "feed": "https://nus.org.ua/feed",
+      "error": "https://nus.org.ua/feed: HTTP 522 error code: 522"
     }
   ],
   "runs": [
@@ -483,6 +1924,12 @@
       "at": "2026-11-04T22:38:27+00:00",
       "fetched": 23,
       "added": 23,
+      "errors": 5
+    },
+    {
+      "at": "2026-11-05T03:29:21+00:00",
+      "fetched": 94,
+      "added": 77,
       "errors": 5
     }
   ]
