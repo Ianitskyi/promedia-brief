@@ -1,8 +1,8 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-08T07:19:12+00:00",
+  "generated_at": "2026-11-08T15:11:31+00:00",
   "source_count": 106,
-  "item_count": 1930,
+  "item_count": 1933,
   "items": [
     {
       "id": "9fef4d826edf7180",
@@ -1836,7 +1836,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://mediaport.ua/u-kharkovi-poproshchalysia-z-kanadskym-volonterom-dzhessi-adamsom-iakyy-zahynuv-pid-chas-evakuatsii-tvaryn",
-      "title": "У Харкові попрощалися з канадським волонтером Джессі Адамсом, який загинув під час евакуації тварин",
+      "title": "У Харкові попрощалися з канадським волонтером, який загинув під час евакуації тварин",
       "published_at": "2026-11-07T20:25:46+00:00",
       "published_raw": "Sat, 07 Nov 2026 20:25:46 +0000",
       "fetched_at": "2026-11-07T20:52:15+00:00",
@@ -3308,7 +3308,7 @@
       "geography": "regional",
       "source_region": "kirovohrad",
       "url": "https://cbn.com.ua/news/hrafiky-vidkliuchennia-svitla-diiatymut-na-kirovohradshchyni-8-lystopada",
-      "title": "Графіки відключення світла діятимуть на Кіровоградщині 8 листопада",
+      "title": "Графіки відключення світла діятимуть на Кіровоградщині 8 листопада (оновлено)",
       "published_at": "2026-11-07T19:08:59+00:00",
       "published_raw": "Sat, 07 Nov 26 21:08:59 +0200",
       "fetched_at": "2026-11-07T20:52:15+00:00",
@@ -3346,11 +3346,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/koli-nie-budie-svitla-na-poltavshchini-8-listopada",
-      "title": "Power Outage Schedule for Poltava Region on November 8: Times by Queue",
+      "title": "Коли не буде світла на Полтавщині 8 листопада",
       "published_at": "2026-11-07T19:07:19+00:00",
       "published_raw": "Sat, 07 Nov 2026 19:07:19 GMT",
       "fetched_at": "2026-11-07T20:52:15+00:00",
-      "description": "Hourly power outage schedules will remain in effect in the Poltava region on November 8. Poltavaoblenergo (the regional power distribution company) has published the outage times for each queue.",
+      "description": "Восьмого листопада на Полтавщині продовжать діяти графіки погодинних відключень світла. Розповідаємо, коли і в якої черги не буде електрики.",
       "categories": [
         "Соціум",
         "Новини"
@@ -3737,7 +3737,7 @@
       "published_at": "2026-11-07T18:51:29+00:00",
       "published_raw": "Sat, 07 Nov 2026 18:51:29 +0000",
       "fetched_at": "2026-11-07T20:52:15+00:00",
-      "description": "У неділю, 8 листопада, по Запорізькій області будуть застосовані графіки погодинних відключень для населення. Про це повідомили у «Запоріжжяобленерго». Години відсутності електропостачання по чергам (з урахуванням 30 хвилин на перемикання): Ситуація зі світлом у Запоріжжі:... The post Відключення світла у Запоріжжі: графік на неділю, 8 листопада first appeared on Перший Запорізький .",
+      "description": "У неділю, 8 листопада, по Запорізькій області будуть застосовані графіки погодинних відключень для населення. Про це повідомили у «Запоріжжяобленерго». Години відсутності електропостачання по чергам (з урахуванням 30 хвилин на перемикання): Оновлено 8 листопада о 13:00:... The post Відключення світла у Запоріжжі: графік на неділю, 8 листопада first appeared on Перший Запорізький .",
       "categories": [
         "Запоріжжя",
         "Події",
@@ -6117,6 +6117,27 @@
       "categories": [
         "війна",
         "Інформація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "943c0bd9063a4be1",
+      "source_id": "map-1074",
+      "source": "Обрії Ізюмщини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://obrii.com.ua/podii/74094-ostannia-volia-memorial-shukaie-rodyny-zahyblykh-zakhysnykiv-iaki-zalyshyly-zapovity.html",
+      "title": "«Остання воля»: Меморіал шукає родини загиблих захисників, які залишили заповіти",
+      "published_at": "2026-11-07T17:37:21+00:00",
+      "published_raw": "Sat, 07 Nov 2026 17:37:21 +0000",
+      "fetched_at": "2026-11-08T15:11:31+00:00",
+      "description": "Платформа пам’яті «Меморіал» розпочала роботу над новим проєктом, присвяченим загиблим українським військовослужбовцям, які перед відправленням на фронт або під час служби залишили своїм рідним останні послання — листи, повідомлення чи відеозвернення із власною останньою волею. Мета проєкту — зберегти пам’ять про захисників і захисниць України через їхні особисті слова, переконання, життєві цінності та турботу про […]",
+      "categories": [
+        "війна",
+        "Інформація",
+        "Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -26604,6 +26625,25 @@
       "status": "new"
     },
     {
+      "id": "7a54f75be78a9e9b",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/oleg-sinyegubov-situaciya-na-harkivshini-stanom-na-7-listopada",
+      "title": "Олег Синєгубов: ситуація на Харківщині станом на 7 листопада",
+      "published_at": "2026-11-07T09:17:00+00:00",
+      "published_raw": "Sat, 07 Nov 2026 11:17:00 +0200",
+      "fetched_at": "2026-11-08T15:11:31+00:00",
+      "description": "на сайті Gromada Group Media | Олег Синєгубов: ситуація на Харківщині станом на 7 листопада",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4b9cd699548c08d1",
       "source_id": "map-545",
       "source": "KHARKIV Today",
@@ -27461,6 +27501,25 @@
       "description": "Смертельна ДТП на Полтавщині сталася в ніч на 7 листопада в місті Глобине Кременчуцького району. Мотоцикліст зіткнувся з бетонною опорою, яка лежала на узбіччі дороги. Від отриманих травм чоловік помер на місці.",
       "categories": [
         "Кримінал"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b50350d4fbb46811",
+      "source_id": "map-535",
+      "source": "МОСТ",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://most.ks.ua/news/url/ditina-vid-donorskoji-jajtseklitini",
+      "title": "Дитина від донорської яйцеклітини",
+      "published_at": "2026-11-07T09:00:00+00:00",
+      "published_raw": "Sat, 07 Nov 2026 09:00:00 +0000",
+      "fetched_at": "2026-11-08T15:11:31+00:00",
+      "description": "Слова «донорська яйцеклітина» багатьом досі здаються чимось із наукової фантастики. Хтось уявляє, що дитина буде «чужою», хтось боїться, що це небезпечно для жінки-донорки. Насправді міфів тут більше, ніж фактів. Ось сім речей, які зазвичай змінюють уявлення. 1. Вагітність проходить так само, як і природна Жінка виношує дитину, відчуває перші поштовхи, народжує, годує грудьми. Цей досвід [...] Запис Дитина від донорської яйцеклітини спершу з'явиться на Мост .",
+      "categories": [
+        "Корисні"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -37465,6 +37524,12 @@
       "fetched": 1137,
       "added": 0,
       "errors": 3
+    },
+    {
+      "at": "2026-11-08T15:11:31+00:00",
+      "fetched": 560,
+      "added": 3,
+      "errors": 2
     }
   ]
 }
