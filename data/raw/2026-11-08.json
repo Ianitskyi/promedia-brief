@@ -1,9 +1,1597 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-08T19:41:00+00:00",
+  "generated_at": "2026-11-08T23:42:21+00:00",
   "source_count": 101,
-  "item_count": 1611,
+  "item_count": 1695,
   "items": [
+    {
+      "id": "ce15adeaadc75921",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-balaklia-troie-postrazhdalyh-rosiiskyi-udar/33893358.html",
+      "title": "Міський голова Балаклії повідомляє про трьох постраждалих через російський удар",
+      "published_at": "2026-11-08T21:59:48+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:59:48 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Очільник МВА закликав місцевих жителів не ігнорувати сигнали повітряної тривоги й перебувати в укриттях",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c557726a34e682d9",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/08/779574_golovne_nedilyu_8_listopada.html",
+      "title": "Головне за неділю, 8 листопада: майже 130 боєзіткнень, обстріли Дніпровщини та Запоріжжя",
+      "published_at": "2026-11-08T21:59:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:59:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Бойові дії на Донеччині, 127 бойових зіткнень, ворожі обстріли, жалоба за жертвами стрілянини в Кракові. Яким запам’ятається 1719-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bfe4b38df5defe48",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/08/novyna/svit/pytannya-impichmentu-hlavy-pentahonu-vynesut-obhovorennya-konhresi-ssha-nazvaly-datu",
+      "title": "Питання імпічменту глави Пентагону винесуть на обговорення в Конгресі США: назвали дату",
+      "published_at": "2026-11-08T21:58:15+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:58:15 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Лідер демократів Гакім Джеффріс підтримав імпічмент глави Пентагону Піта Геґсета. Резолюцію можуть обговорити в Конгресі США 10 листопада.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3060cf2dfc7c2fbe",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/08/8061862",
+      "title": "Хакери після зламу Росстату заявили про близько 400 тисяч загиблих на війні росіян",
+      "published_at": "2026-11-08T21:57:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:57:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Silent Crow і Кіберпартизани BY оприлюднили дані Росстату: з 2022 року понад 410 тисяч смерті, з них частина – небойові та через теракти.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cccbbe038191ee98",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/somij-den-rozboru-zavaliv-shkoli-u-komishuvasi-rosijani-trichi-atakuvali-rjatuvalnikiv.html",
+      "title": "Сьомий день розбору завалів школи у Комишувасі: росіяни тричі атакували рятувальників",
+      "published_at": "2026-11-08T21:56:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:56:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Кількість загиблих після удару російських авіабомб по укриттю зросла до 55 людей.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c9244e0938fdc8d9",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/tennis/kostyuk-prograla-pershiy-match-wta-finals-porazka-noskoviy-u-debyuti-50657404.html",
+      "title": "Костюк програла Носковій у першому матчі Підсумкового турніру WTA — відео",
+      "published_at": "2026-11-08T21:54:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:54:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Друга ракетка України Марта Костюк (10) невдало розпочала виступи на Підсумковому турнірі WTA Finals.",
+      "categories": [
+        "Спорт/Теніс"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9f051043273bba5",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/novaja-hazeta-tsina-kompromisu-z-diktaturoju.html",
+      "title": "«Новая газета»: ціна компромісу з диктатурою",
+      "published_at": "2026-11-08T21:54:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:54:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Видання припиняє роботу після 33 років, а її колишній колега пояснює, де редакція помилилася.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "409b48371df968df",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1233048.html",
+      "title": "Кількість постраждалих внаслідок російського удару в Кременчуці зросла до семи осіб – ОВА",
+      "published_at": "2026-11-08T21:51:41+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:51:41 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Кількість постраждалих в Кременчуці на Полтавщині зросла до семи людей, повідомив очільник Полтавської обласної військової адміністрації Віталій Дяківнич.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b31bfc047e9e00e",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4182753-pidrozdili-7go-korpusu-dsv-cogoric-otrimali-ponad-50-zrazkiv-bezpilotnikiv-i-40-nrk.html",
+      "title": "Підрозділи 7-го корпусу ДШВ цьогоріч отримали понад 50 зразків безпілотників і 40 НРК",
+      "published_at": "2026-11-08T21:49:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:49:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Від початку 2026 року підрозділи у складі 7-го корпусу Десантно-штурмових військ ЗСУ розширили номенклатуру безпілотних систем і наземних роботизованих комплексів. До неї додали понад 50 зразків безпілотників різних типів та більш як 40 зразків наземних роботизованих комплексів.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "510b08cbb8711e3e",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/08/u-harkivskij-oblasti-9-listopada-diyatimut-grafiki-pogodinnih-vidklyuchen-elektriki-2",
+      "title": "У Харківській області 9 листопада діятимуть графіки погодинних відключень електрики",
+      "published_at": "2026-11-08T21:48:28+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:48:28 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Для промисловості та бізнесу з 00:00 до 24:00 діятимуть графіки обмеження потужності.",
+      "categories": [
+        "Регіон"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4b5aaaae01bfd45d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/arda-turan-rozkritikuvav-gravciv-shahtarya-pretenziji-pislya-nichiyeji-z-dinamo-50657403.html",
+      "title": "«Єдине, що мене розчарувало»: Туран розкритикував поведінку гравців Шахтаря після нічиєї з Динамо",
+      "published_at": "2026-11-08T21:48:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Головний тренер донецького Шахтаря Арда Туран залишився незадоволеним поведінкою своїх підопічних після матчу 12-го туру УПЛ проти київського Динамо, який завершився без голів — 0:0.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f9fc8527040d44a0",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/nemaje-nijakoji-komandi-advokat-henerala-duki-prokomentuvav-zbir-hroshej-na-zastavu.html",
+      "title": "«Немає ніякої команди»: адвокат генерала Дуки прокоментував збір грошей на заставу",
+      "published_at": "2026-11-08T21:48:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Сухов підтвердив добровільний збір коштів серед співробітників СБУ, але зазначив, що інформації про його результати поки немає.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb043d4f8b5700bd",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/274037-ultraprava-partiia-afd-khoche-provesty-samit-iz-nimechchynoiu-ssha-ta-rosiyeiu-u-2027-rotsi-ale-bez-ukrayiny",
+      "title": "Ультраправа партія AfD хоче у 2027 році провести саміт щодо війни за участю Німеччини, США та росії — але без України",
+      "published_at": "2026-11-08T21:43:00+00:00",
+      "published_raw": "2026-11-08T23:43:00+02:00",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "189bf3c340f9fd76",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-sybiha-rishennia-iihf-zbirna-rosii-molodizhni-zmahannia/33893357.html",
+      "title": "Сибіга засудив рішення IIHF внести збірну Росії з хокею до молодіжних змагань замість Норвегії",
+      "published_at": "2026-11-08T21:40:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:40:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Cьогодні Норвезька федерація хокею повідомила, що отримала від IIHF інформацію про включення Росії до складу учасників U20 замість Норвегії",
+      "categories": [
+        "Новини | Спорт",
+        "Новини",
+        "Новини | Міжнародні",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "07f9bde95a2626f5",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-komyshuvasi-rosiyany-trychi-za-den-atakuvaly-ryatuvalnykiv-ye-poraneni",
+      "title": "У Комишувасі росіяни тричі за день атакували рятувальників: є поранені",
+      "published_at": "2026-11-08T21:33:17+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:33:17 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Російські війська тричі протягом дня атакували рятувальників, які ліквідовували наслідки авіаудару у Комишувасі Запорізької області. Унаслідок атак травмувалися двоє надзвичайників, також пошкоджено пожежно-рятувальну техніку. Запис У Комишувасі росіяни тричі за день атакували рятувальників: є поранені спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "атака дрона",
+        "Війна в Україні",
+        "ДСНС",
+        "Комишуваха"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "48431b56fb7f73cf",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4182659-ukraini-u-ponedilok-prognozuut-do-9-morozu.html",
+      "title": "Україні у понеділок прогнозують до 9° морозу",
+      "published_at": "2026-11-08T21:30:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:30:00 +0200",
+      "fetched_at": "2026-11-08T15:11:31+00:00",
+      "description": "У понеділок, 9 листопада, в Україні очікується хмарна з проясненнями погода, без опадів.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c42cc232fa3b35f4",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/incidents/326063-yaponii-stavsia-sylnyi-zemletrus-postrazhdaly-ponad-20-liudei",
+      "title": "У Японії стався сильний землетрус — постраждали понад 20 людей",
+      "published_at": "2026-11-08T21:23:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:23:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У неділю, 8 листопада, у центральній частині Японії стався землетрус магнітудою 5,7. Понад 20 людей постраждали у префектурах Айті та Сідзуока. Землетрус назвали одним з найпотужніших за останні 30 років.",
+      "categories": [
+        "Інциденти"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "5406984a1f6cd53b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/karfagen-nove-rozsliduvannya-nabu-ta-sap-sergiy-pritula-pro-pochuttya-zlosti-y-ogidi-50656898.html",
+      "title": "Важко дихати від злості, сорому й огиди",
+      "published_at": "2026-11-08T21:21:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:21:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "На тлі того, як нас щодня вбиває зовнішній ворог, іще болючішим є те, як нас убиває ворог внутрішній",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7178d535422bfb61",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/08/novyna/bezpeka/vijska-rf-vdaryly-dronamy-po-kremenchuku-semero-lyudej-postrazhdaly-sered-nyx-pidlitok",
+      "title": "Війська рф вдарили дронами по Кременчуку: семеро людей постраждали, серед них підліток",
+      "published_at": "2026-11-08T21:19:12+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:19:12 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Російські війська атакували Кременчук дронами 8 листопада. Пошкоджено житловий будинок і готель, виникли пожежі, семеро людей постраждали.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55e1f7fa11bed521",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/ECONOMICS/borshchovij-nabir-deshevshaje-ale-hrechka-bje-po-kisheni-shcho-vidbuvajetsja-z-tsinami.html",
+      "title": "Борщовий набір дешевшає, але гречка б'є по кишені: що відбувається з цінами",
+      "published_at": "2026-11-08T21:19:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:19:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Завдяки хорошому врожаю овочі коштують менше, а соняшникова олія найближчими місяцями може подешевшати.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3d82e218b4c96ce9",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/sirija-hotujetsja-vidpraviti-bijtsiv-do-saudivskoji-araviji-na-tli-atak-khusitiv-ap.html",
+      "title": "Сирія готується відправити бійців до Саудівської Аравії на тлі атак хуситів — AP",
+      "published_at": "2026-11-08T21:16:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:16:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Військові радники вже прибули до королівства й допомагають готувати єменські підрозділи.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "34f90b428ad0ffa3",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rosijski-vijska-atakuvaly-balakliyu-na-harkivshhyni-ye-postrazhdali",
+      "title": "Російські війська атакували Балаклію на Харківщині, є постраждалі",
+      "published_at": "2026-11-08T21:15:01+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:15:01 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Російські війська завдали удару по центру Балаклії Харківської області. Унаслідок атаки постраждали троє людей, також пошкоджені житлові будинки та заклад культури. Запис Російські війська атакували Балаклію на Харківщині, є постраждалі спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Російсько-Українська війна",
+        "Харківщина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e73989d3c985bdbb",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4182757-u-zitomiri-9-listopada-ne-kursuvatime-elektrotransport.html",
+      "title": "У Житомирі 9 листопада не курсуватиме електротранспорт",
+      "published_at": "2026-11-08T21:11:54+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:11:54 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У Житомирі в понеділок, 9 листопада, не курсуватиме електротранспорт.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9f53d9462daf3218",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/innovations/innovaciyna-pakuvalna-plivka-zminyuye-kolir-i-svititsya-pri-psuvanni-m-yasa-50657097.html",
+      "title": "Корисна інновація. Дослідники розробили біорозкладну плівку, що змінює колір у міру псування м’яса",
+      "published_at": "2026-11-08T21:11:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:11:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Дослідники розробили інноваційну пакувальну плівку, яка змінює колір і починає світитися під дією ультрафіолету в міру того, як м’ясо втрачає свіжість. Це забезпечує контроль якості та безпеки продуктів у режимі реального часу.",
+      "categories": [
+        "Техно/Інновації"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "18a5f8cad3228183",
+      "source_id": "map-1179",
+      "source": "ЗMI.ck.ua",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://zmi.ck.ua/sotsium/yak-vimikatimut-svtlo-na-cherkaschin-9-listopada.html",
+      "title": "Як вимикатимуть світло на Черкащині 9 листопада",
+      "published_at": "2026-11-08T21:11:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:11:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Години відсутності електропостачання 9 листопада. Про це інформує Черкасиобленерго. 1.1 00:00 - 01:00, 04:00 - 07:00, 10:00 - 14:00, 16:00 - 20:00, 22:00 - 24:00 1.2 00:00 - 02:00, 05:00 - 09:00, 11:00 - 15:00, 17:00 - 21:00, 23:00 - 24:00 2.1 00:00 - 02:00, 05:00 - 08:00, 10:00 - 14:00, 16:00 - 20:00, 22:00 - 24:00 2.2 00:00 - 02:00, 05:00 - 09:00, 11:00 - 15:00, 17:00 - 21:00, 23:00 - 24:00 3.1 01:00 - 03:00, 06:00 - 10:00, 12:00 - 16:00, 18:00 - 22:00 3.2 02:00 - 04:00, 07:00 - 11:00, 13:00 - 17:00, 19:00 - 22:00 4.1 00:00 - 03:00, 06:00 - 10:00, 12:00 - 16:00, 18:00 - 22:00 4.2 01:00 -…",
+      "categories": [
+        "Политика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2599e539bf348c29",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/koli-j-u-kogo-ne-bude-svitla-na-cherkashhini-grafik-na-9-listopada",
+      "title": "Коли й у кого не буде світла на Черкащині: графік на 9 листопада",
+      "published_at": "2026-11-08T21:10:27+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:10:27 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У Черкаській області оновили графік відключення світла на понеділок, 9 листопада. Про це повідомили в «Черкасиобленерго». Години відсутності електроенергії: 1.1 00:00 – 01:00, 04:00 – 07:00, 10:00 – 14:00, 16:00 – 20:00, 22:00 – 24:00; 1.2 00:00 – 02:00, 05:00 – 09:00, 11:00 – 15:00, 17:00 – 21:00, 23:00 – 24:00; 2.1 00:00 – 02:00, 05:00 – 08:00, 10:00 – 14:00, 16:00 – 20:00, 22:00 – 24:00; 2.2 00:00 – 02:00, 05:00 – 09:00, 11:00 – 15:00, 17:00 – 21:00, 23:00 – 24:00; 3.1 01:00 – 03:00, 06:00 – 10:00, 12:00 – 16:00, 18:00 – 22:00; 3.2 02:00 – 04:00,",
+      "categories": [
+        "Стрічка новин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f68e5eb6d879d74e",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/274036-mozemo-znesty-38-mostiv-za-hodynu-tramp-vkotre-pryhrozyv-iranu-ale-nazvav-ponovlennia-udariv-vkray-maloymovirnym",
+      "title": "«Можемо знести 38 мостів за годину». Трамп укотре пригрозив Ірану, але назвав поновлення ударів «вкрай малоймовірним»",
+      "published_at": "2026-11-08T21:08:00+00:00",
+      "published_raw": "2026-11-08T23:08:00+02:00",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "89e9f5019eb18218",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/ECONOMICS/platni-dorohi-v-ukrajini-chi-dovedetsja-platiti-zvichajnim-vodijam.html",
+      "title": "Платні дороги в Україні: чи доведеться платити звичайним водіям",
+      "published_at": "2026-11-08T21:08:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:08:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Вимога Єврокомісії стосується насамперед вантажівок і автобусів, повідомив перший заступник міністра Сергій Деркач.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2bbb1bc980ee5e24",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1233046.html",
+      "title": "Щонайменше троє людей постраждали внаслідок удару по центру Балаклії – МВА",
+      "published_at": "2026-11-08T21:03:41+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:03:41 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "ЗС РФ завдали удару по центру Балаклії (Харківська обл), є постраждалі, повідомив начальник міської військової адміністрації Віталій Карабанов.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0b89199471babf9d",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4182751-pidrozdili-dsv-zaraz-najbilse-potrebuut-strilciv.html",
+      "title": "Підрозділи ДШВ зараз найбільше потребують стрільців",
+      "published_at": "2026-11-08T21:02:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:02:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Підрозділам Десантно-штурмових військ ЗСУ наразі найбільше бракує стрільців.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f1419dc427855d7",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-8-na-9-listopada-2026-roku-vsi-podrobici-onlayn-50657390.html",
+      "title": "Онлайн російських атак: у Кременчуці два прильоти, є постраждалі, на півночі Одеської області перебої зі світлом",
+      "published_at": "2026-11-08T21:00:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 23:00:00 +0200",
+      "fetched_at": "2026-11-08T19:41:00+00:00",
+      "description": "Ввечері 8 листопада триває російська атака на Україну реактивними і бензиновими шахедами, а також Бандеролями і КАБами. Повідомлялось про вибухи у Сумах та Черкасах та двох прильотах у Кременчуці.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a77ed297584fab97",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-energoob-yekt-dtek-v-odeskiy-oblasti-chastina-regionu-zalishilas-bez-svitla-50657401.html",
+      "title": "Росіяни вдарили по об'єкту ДТЕК в Одеській області, на півночі регіону зникло світло",
+      "published_at": "2026-11-08T20:56:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:56:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ввечері 8 листопада російські окупанти атакував великий енергетичний обʼєкт ДТЕК на півночі Одеської області, внаслідок чого частина споживачів залишилась без світла.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1253722265e55236",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-sered-zahyblyh-krakovi-hromadiany-5-krain/33893355.html",
+      "title": "Серед загиблих у Кракові – громадяни 5 країн. У Польщі триває жалоба",
+      "published_at": "2026-11-08T20:48:54+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:48:54 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У будинку, де жив затриманий, виявили тіла трьох людей: 53-річного чоловіка та двох жінок віком 52 та 21 рік",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c227148c11767b8e",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/08/779568_rosiyani_atakuvali_balakliyu.html",
+      "title": "Росіяни атакували Балаклію на Харківщині, є постраждалі (оновлено)",
+      "published_at": "2026-11-08T20:48:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:48:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Людей закликають не ігнорувати сигнали повітряної тривоги.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b6010853a3e499bd",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/accidents/vnaslidok-dronovogo-udaru-u-kremenchuczi-kilkist-postrazhdalyh-zrosla-do-semy.html",
+      "title": "Внаслідок дронового удару у Кременчуці кількість постраждалих зросла до семи",
+      "published_at": "2026-11-08T20:47:32+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:47:32 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Двох із них госпіталізували до медичних закладів Сообщение Внаслідок дронового удару у Кременчуці кількість постраждалих зросла до семи появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Кременчук",
+        "Надзвичайні новини",
+        "наслідки атаки",
+        "постраждалі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "38a126d4e8897a46",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/society/2026/u-chornomorsku-cholovika-zasudyly-do-piaty-rokiv-za-rozgholoshennia-pozytsii-zsu",
+      "title": "У Чорноморську чоловіка засудили до п’яти років за розголошення позицій ЗСУ",
+      "published_at": "2026-11-08T20:45:54+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:45:54 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Чорноморський міський суд Одеської області засудив жителя села Малодолинське до п’яти років позбавлення волі за поширення інформації про місце розташування підрозділу Збройних сил України. Чоловік повідомив ці дані телефоном іншій особі, використовуючи завуальовані формулювання.",
+      "categories": [
+        "ЗСУ",
+        "Одеса",
+        "Чорноморськ",
+        "зрадники",
+        "колаборанти"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a67dbe2f65df63f2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/yarmolenko-zalishitsya-u-strukturi-dinamo-surkis-pro-maybutnye-futbolista-50657400.html",
+      "title": "«Сподіваюся, що гратиме до кінця сезону»: Суркіс розкрив плани щодо майбутнього Ярмоленка в Динамо",
+      "published_at": "2026-11-08T20:45:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:45:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Президент київського Динамо Ігор Суркіс висловився про майбутнє Андрія Ярмоленка, який продовжує виступати за столичний клуб.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4ffb7dc26d337e3a",
+      "source_id": "map-93",
+      "source": "Новини Донбасу",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://novosti.dn.ua/news/406739-za-pyat-dib-kramatorska-gromada-zaznala-34-obstriliv-devyatero-zagyblyh-i-12-poranenyh",
+      "title": "За п’ять діб Краматорська громада зазнала 34 обстрілів: дев’ятеро загиблих і 12 поранених",
+      "published_at": "2026-11-08T20:44:16+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:44:16 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У період з 3 до 7 листопада російські війська 34 рази обстріляли Краматорську громаду керованими авіабомбами та FPV-дронами. Внаслідок атак загинули дев’ятеро людей, ще 12 дістали поранення. Під ударом опинились приватні й багатоквартирні будинки, автомобілі, об’єкти інфраструктури та громадські заклади, повідомляє пресслужба Краматорської міськради. Зокрема, 3 листопада внаслідок удару чотирма ФАБ-250 по приватному сектору загинула […]",
+      "categories": [
+        "Новини",
+        "головна новина",
+        "Донецька область",
+        "Краматорськ",
+        "наслідки обстрілів"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
+      "id": "8706a577b3b1e310",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/CULTURE/pomer-aktor-teatru-ta-kino-ihor-tjetrujev.html",
+      "title": "Помер актор театру та кіно Ігор Тєтруєв",
+      "published_at": "2026-11-08T20:40:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:40:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Про смерть артиста повідомили в театрі «Замок на горі».",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b186b2db66b9d1c9",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rosiyany-atakuvaly-ob-yekt-dtek-na-pivnochi-odeshhyny",
+      "title": "Росіяни атакували обʼєкт ДТЕК на півночі Одещини",
+      "published_at": "2026-11-08T20:39:15+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:39:15 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ввечері 8 листопада російські війська атакували великий енергетичний обʼєкт ДТЕК на півночі Одещини. Запис Росіяни атакували обʼєкт ДТЕК на півночі Одещини спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "ДТЕК",
+        "енергетика",
+        "обстріл",
+        "Одещина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "070f21cb3160e002",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/lora-lumer-the-post-napisala-shcho-maga-blogerka-otrimuvala-groshi-zv-politichni-dopisi-v-socmerezhah-50657399.html",
+      "title": "MAGA-блогерка Лора Лумер отримувала десятки тисяч доларів за свої політичні дописи — The Washington Post",
+      "published_at": "2026-11-08T20:39:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:39:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Американська ультраправа активістка Лора Лумер ймовірно отримувала чималі гроші від приватних клієнтів за публікацію політичних дописів у соцмережах.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "797e9dd48bac89c9",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/europa/274035-na-zustrichi-g7-planuiut-obhovoryty-prorosiyski-kiberataky-pered-tsym-osobysti-dani-holovy-mzs-italiyi-zlyly-v-darknet",
+      "title": "На зустрічі G7 планують обговорити проросійські кібератаки. Перед цим особисті дані голови МЗС Італії «злили» в даркнет",
+      "published_at": "2026-11-08T20:37:00+00:00",
+      "published_raw": "2026-11-08T22:37:00+02:00",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a91f2c1e18d681c0",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4182746-na-fronti-127-zitknen-pokrovskij-napramok-zalisaetsa-najgaracisim.html",
+      "title": "На фронті 127 зіткнень, Покровський напрямок залишається найгарячішим",
+      "published_at": "2026-11-08T20:36:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:36:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "На фронті 127 бойових зіткнень, на Покровському напрямку ворог втратив понад 60 окупантів.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7a85d420677db603",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/08/779572_nimechchini_zatrimali_cholovika.html",
+      "title": "У Німеччині затримали чоловіка, який підняв палестинський прапор перед будівлею Рейхстагу",
+      "published_at": "2026-11-08T20:32:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:32:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ще двох його спільників після встановлення їхніх особистих даних та винесення припису залишити територію відпустили.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "71c66549e04149c4",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/08/shhob-zberegti-teplo-terehov-rozpoviv-pro-algoritm-komunalnikiv-harkova",
+      "title": "Щоб зберегти тепло – Терехов розповів про алгоритм комунальників Харкова",
+      "published_at": "2026-11-08T20:29:27+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:29:27 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "“У нас, на жаль, уже відпрацьований алгоритм дій”, – сказав мер Харкова Ігор Терехов у...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "96b53836642fdf3c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/u-deyakih-regionah-9-listopada-budut-vidklyuchennya-svitla-do-chotiroh-cherg-novini-ukrajini-50657398.html",
+      "title": "Завтра у частині областей України будуть тривалі відключення світла",
+      "published_at": "2026-11-08T20:26:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:26:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "9 листопада у частині областей України будуть застосовуватись заходи обмеження споживання електроенергії, обсяги погодинних відключень світла будуть до чотирьох черг.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b046aaf96aa14c78",
+      "source_id": "map-593",
+      "source": "Є",
+      "geography": "regional",
+      "source_region": "khmelnytskyi",
+      "url": "https://ye.ua/syspilstvo/81014_Grafik_vidklyichen_elektroenergiyi_u_Hmelnickiy_oblasti_na_9_listopada.html",
+      "title": "Графік відключень електроенергії у Хмельницькій області на 9 листопада",
+      "published_at": "2026-11-08T20:19:57+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:19:57 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Обсяг та час обмежень електроенергії можуть змінюватися.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ecbcadb7e8feda1f",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/08/8061849",
+      "title": "Трамп пригрозив, що США можуть знищити 38 мостів в Ірані за годину",
+      "published_at": "2026-11-08T20:18:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:18:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "США визначили цілі для ударів по Ірану, включаючи мости та електростанції. Трамп наголосив, що ударів хоче уникнути.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "12b53f8b58e0f4e9",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/groshi-tizhnya-ahmetov-prodast-shche-odin-biznes-z-kolomoyskogo-i-bogolyubova-styagnut-3-mlrd-dolariv-50657016.html",
+      "title": "Гроші тижня. Ахметов продасть ще один бізнес, з Коломойського і Боголюбова стягнуть $3 млрд, а російський дизель не допоміг Трампу",
+      "published_at": "2026-11-08T20:17:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:17:00 +0200",
+      "fetched_at": "2026-11-08T07:19:12+00:00",
+      "description": "NV Бізнес вибрав головні новини економіки, найцікавіші заяви та показові цифри тижня, що минає",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "96f5b9a5ff71aa65",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1233044.html",
+      "title": "Росіяни атакували великий енергетичний об'єкт на півночі Одещини – ДТЕК",
+      "published_at": "2026-11-08T20:16:02+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:16:02 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ввечері в неділю, 8 листопада, росіяни атакували великий енергетичний об'єкт ДТЕК на півночі Одеської області.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "126a904162ba8ef0",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-rosia-udar-po-kremenchuku-poraneni/33893351.html",
+      "title": "ОВА: Росія вдарила дронами по Кременчуку, серед поранених – підліток",
+      "published_at": "2026-11-08T20:15:41+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:15:41 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ще трьом людям, які звернулися до медиків, надали допомогу на місці",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2dd839bb95becc06",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/08/779570_sogodni_pokrovskomu_napryamku.html",
+      "title": "Сьогодні на Покровському напрямку захисники ліквідували понад 40 окупантів та 17 – поранили",
+      "published_at": "2026-11-08T20:15:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:15:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "На фронті за добу пройшло 127 боїв.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c59c618fead779bd",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/energetics/ataka-na-dtek-na-odeshchini-na-pivnochi-oblasti-chastkovo-zniklo-svitlo.html",
+      "title": "Атака на ДТЕК на Одещині: на півночі області частково зникло світло",
+      "published_at": "2026-11-08T20:15:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:15:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Роботу ускладнюють повітряні тривоги та загроза нових ударів: обладнання, що вціліло, лише оглядають.",
+      "categories": [
+        "Енергетика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7baf086a0048f0bf",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/tramp-zajaviv-pro-hotovnist-ssha-do-novikh-udariv-po-iranu-ale-vvazhaje-jikh-malojmovirnimi.html",
+      "title": "Трамп заявив про готовність США до нових ударів по Ірану, але вважає їх малоймовірними",
+      "published_at": "2026-11-08T20:14:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:14:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "За словами президента, у регіоні перебувають три авіаносці, один із яких щойно прибув.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "45e9192da491e91a",
+      "source_id": "map-1249",
+      "source": "У Полтаві",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://upoltavi.com.ua/2026/11/08/ataka-na-kremenchuk-8-lystopada-2026",
+      "title": "У Кременчуці БпЛА влучили в будинок і готель: тяжко травмований підліток",
+      "published_at": "2026-11-08T20:13:21+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:13:21 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Атака БпЛА на Кременчук 8 листопада 2026 року призвела до пожеж у багатоквартирному житловому будинку та готелі. За попередньою інформацією, тяжкі травми отримав 16-річний хлопець, якого госпіталізували. Ще троє людей звернулися по медичну допомогу. Про атаку повідомив начальник Полтавської обласної військової адміністрації Віталій Дяківнич. [...] Запис У Кременчуці БпЛА влучили в будинок і готель: тяжко травмований підліток спершу з'явиться на У Полтаві .",
+      "categories": [
+        "Війна",
+        "Вибір редакції",
+        "Топ Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6149d54b38ecf690",
+      "source_id": "map-931",
+      "source": "Перший Запорізький",
+      "geography": "regional",
+      "source_region": "zaporizhzhia",
+      "url": "https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-ponedilok-9-lystopada",
+      "title": "Відключення світла у Запоріжжі: графік на понеділок, 9 листопада",
+      "published_at": "2026-11-08T20:12:29+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:12:29 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У понеділок, 9 листопада, по Запорізькій області будуть застосовані графіки погодинних відключень для населення. Про це повідомили у «Запоріжжяобленерго». Години відсутності електропостачання по чергам (з урахуванням 30 хвилин на перемикання): Оновлено о 23:56 Ситуація зі... The post Відключення світла у Запоріжжі: графік на понеділок, 9 листопада first appeared on Перший Запорізький .",
+      "categories": [
+        "Запоріжжя",
+        "Події",
+        "відключення світла",
+        "відключення світла Вознесенівський",
+        "відключення світла Запоріжжя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5eb8a7d37b16e46c",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/odeshhyna-zaznala-masovanoyi-vorozhoyi-ataky-na-energetyku",
+      "title": "Одещина зазнала масованої ворожої атаки на енергетику",
+      "published_at": "2026-11-08T20:10:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:10:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "На півночі області фіксуються перебої зі світлом, – інформує Одеська ОВА . Фахівці ДТЕК Одеські електромережі вже розпочали роботи з ліквідації наслідків. Попри постійні повітряні тривоги енергетики роблять усе можливе, щоб якнайшвидше повернути людям світло.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "252446ac6a79a353",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/08/pidsumky/strilyanyna-krakovi-ta-zakonoproyekt-zelenskoho-shhodo-deklaruvannya-sbu.-holovne-vyxidni",
+      "title": "Стрілянина у Кракові та законопроєкт Зеленського щодо декларування в СБУ. Головне за вихідні",
+      "published_at": "2026-11-08T20:09:25+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:09:25 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Головні новини вихідних, 7-8 листопада, – у Кракові внаслідок стрілянини загинули шестеро людей, а Зеленський затвердив законопроєкт про відновлення декларування для працівників СБУ.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a07fadc43910c022",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4182735-u-dnipri-pocali-podavati-elektroenergiu-v-budinki.html",
+      "title": "У Дніпрі почали подавати електроенергію в будинки",
+      "published_at": "2026-11-08T20:09:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:09:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У Дніпрі після доби блекауту почали подавати електроенергію в житлові будинки, на лівому березі повністю відновили водопостачання, найскладніша ситуація з опаленням.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "188b380f5dbd5567",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/accidents/u-globynskij-gromadi-dron-vluchyv-u-pryvatne-pidpryyemstvo.html",
+      "title": "У Глобинській громаді дрон влучив у приватне підприємство",
+      "published_at": "2026-11-08T20:07:20+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:07:20 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "За попередньою інформацією, люди не постраждали Сообщение У Глобинській громаді дрон влучив у приватне підприємство появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Війна",
+        "Надзвичайні новини",
+        "Глобино",
+        "наслідки атаки",
+        "підприємство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "676fc6e63be49e89",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/war/2026/zelenskii-zaiaviv-pro-rotatsiiu-viisk-rf-pid-chas-misii-v-oleshkakh",
+      "title": "Зеленський повідомив, як рф використала гуманітарну місію в Олешках",
+      "published_at": "2026-11-08T20:05:56+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:05:56 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Російська армія використала гуманітарну операцію з евакуації жителів окупованих Олешок на Херсонщині для ротації військових і техніки та посилення своїх позицій на лівобережжі.",
+      "categories": [
+        "Володимир Зеленський",
+        "Олешки",
+        "Херсон",
+        "агресія рф",
+        "евакуація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "588e81ad210de73b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/medicine/zubna-shchitka-z-mikrostrumami-naukovci-vidkrili-noviy-sposib-znishchennya-bakteriy-50656919.html",
+      "title": "Актуальна розробка. Вчені створили електричну зубну щітку, яка знищує бактерії та не потребує заряджання",
+      "published_at": "2026-11-08T20:04:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 22:04:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Науковці розробили зубну щітку, яка самостійно генерує мікроструми під час чищення. Новий пристрій ефективно знищує бактерії, зменшує кількість нальоту та покращує стан ясен завдяки «розумному» матеріалу щетинок.",
+      "categories": [
+        "Техно/Медицина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "50d68ce20a3bfa32",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/rosijski-bppa-vdaryly-po-gotelyu-u-kremenchutsi",
+      "title": "Російські БпПА вдарили по готелю у Кременчуці",
+      "published_at": "2026-11-08T20:01:14+00:00",
+      "published_raw": "Sun, 08 Nov 2026 20:01:14 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ввечері 8 листопада російські війська атакували безпілотниками багатоквартирний житловий будинок і будівлю готелю у Кременчуці, що на Полтавщині. Виникли пожежі. Запис Російські БпПА вдарили по готелю у Кременчуці спершу з'явиться на Букви .",
+      "categories": [
+        "Війна Росії проти України",
+        "Новини",
+        "атака",
+        "Кременчук",
+        "наслідки"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "05aaeefe09cdfe6b",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/suspilstvo/274034-u-komyshuvasi-identyfikuvaly-29-zahyblykh-a-u-kyyevi-doruchyly-orhanizuvaty-bezplatnyy-proyizd-u-nazemnomu-transporti-holovne-za-8-lystopada",
+      "title": "У Комишувасі ідентифікували 29 загиблих, а в Києві доручили організувати безплатний проїзд у наземному транспорті — головне за 8 листопада",
+      "published_at": "2026-11-08T20:00:00+00:00",
+      "published_raw": "2026-11-08T22:00:00+02:00",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7de90d6b96f97cee",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/08/povtorni-udary-po-ryatuvalnykah",
+      "title": "Наслідки атак рф: повторні удари по рятувальниках у Комишувасі та обстріли цивільних у Кременчуці й Харкові",
+      "published_at": "2026-11-08T19:59:04+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:59:04 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Упродовж 8 листопада російські війська атакували Полтавську, Харківську та Запорізьку області ударними безпілотниками. Унаслідок ворожих обстрілів постраждали четверо людей, серед них 16-річний хлопець і двоє працівників Державної служби України з надзвичайних ситуацій. Також пошкоджені житлові будинки, готель, автомобілі та пожежно-рятувальна техніка. Про це повідомляють Полтавська ОВА, Харківський міський голова Ігор Терехов, передає Рубрика.",
+      "categories": [
+        "Новини",
+        "ДСНС",
+        "Запорізька область",
+        "Кременчук",
+        "Обстріл"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "26a800b3162bc1ae",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/08/779566_bilya_uzberezhzhya_senegalu.html",
+      "title": "Біля узбережжя Сенегалу затонув човен із мігрантами. Відомо про щонайменше 21 загиблого",
+      "published_at": "2026-11-08T19:59:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:59:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Човен перевозив нелегалів.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6007db590d833d91",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/rosijani-vdarili-po-kremenchuku-horit-bahatopoverkhivka-poshkodzheno-hotel.html",
+      "title": "Росіяни вдарили по Кременчуку: горить багатоповерхівка, пошкоджено готель",
+      "published_at": "2026-11-08T19:59:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:59:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Внаслідок атаки вже четверо постраждалих.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "43ef98efa3585224",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/dinamo-kijiv-igor-surkis-ociniv-komandu-pislya-nichiyeji-z-shahtarem-u-upl-50657397.html",
+      "title": "«Не можемо купити 12−13 бразильців»: Суркіс назвав причини трансферних труднощів Динамо",
+      "published_at": "2026-11-08T19:56:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:56:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Президент київського Динамо Ігор Суркіс прокоментував рівень команди після нічиєї з Шахтарем (0:0) у матчі 12-го туру УПЛ.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c465fe040206bbcf",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/u-prokuraturi-polshchi-kvalifikuvali-striljaninu-v-krakovi-jak-terakt-shcho-vidomo-pro-zahiblikh-ta-poranenikh.html",
+      "title": "У прокуратурі Польщі кваліфікували стрілянину в Кракові як теракт. Що відомо про загиблих та поранених",
+      "published_at": "2026-11-08T19:56:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:56:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Також розслідують убивство родини нападника.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c65243b864b7489c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4182737-tramp-vidnovlenna-vijni-v-irani-duze-malojmovirne-akso-bude-progres-u-peregovorah.html",
+      "title": "Трамп: Відновлення війни в Ірані «дуже малоймовірне», якщо буде прогрес у переговорах",
+      "published_at": "2026-11-08T19:54:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:54:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Глава Білого дому Дональд Трамп заявив, що «дуже малоймовірно», що йому доведеться наказувати військовим США повернутися до війни з Іраном, доки буде прогрес у переговорах щодо ядерної програми Тегерана та відкриття Ормузької протоки.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9196d064c3b20bd3",
+      "source_id": "map-413",
+      "source": "Полтавська хвиля",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://poltavawave.com.ua/iak-vimikatimut-svitlo-na-poltavshchini-9-listopada",
+      "title": "Power Outage Schedule for Poltava Region on November 9: Hourly Cuts by Group",
+      "published_at": "2026-11-08T19:53:49+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:53:49 GMT",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "On November 9, electricity will be switched off in the Poltava region on an hourly schedule, Poltavaoblenerho (the regional power distribution company) reported. The schedule may change during the day.",
+      "categories": [
+        "Соціум",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d56a2c003c152a0f",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/demokraty-gotuyutsya-zablokuvaty-oboronnyj-byudzhet-trampa-na-1-5-trln",
+      "title": "Демократи готуються заблокувати оборонний бюджет Трампа на $1,5 трлн",
+      "published_at": "2026-11-08T19:53:08+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:53:08 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Перемога демократів на проміжних виборах до Конгресу США фактично позбавляє президента Дональда Трампа шансів домогтися схвалення безпрецедентного оборонного бюджету у $1,5 трлн. Запис Демократи готуються заблокувати оборонний бюджет Трампа на $1,5 трлн спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Гегсет",
+        "демократи",
+        "Конгрес",
+        "Пентагон"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b0daf2d349b5fb8c",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1233042.html",
+      "title": "Росіяни вдарили по багатоквартирному будинку в Кременчуці, постраждали четверо людей – ОВА",
+      "published_at": "2026-11-08T19:53:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:53:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У Кременчуці на Полтавщині було зафіксовано влучання ворожих БпЛА на двох локаціях, повідомив очільник Полтавської обласної військової адміністрації Віталій Дяківнич.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5c936912cb4f1ded",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/life/yaki-istoriyi-rozpovidaye-priroda-slobozhanskogo-golosu-spadshini-foto",
+      "title": "Які історії розповідає природа «Слобожанського\" «Голосу спадщини» (ФОТО)",
+      "published_at": "2026-11-08T19:50:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:50:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Чи можна почути, як живе ліс? Як звучать торф’яні болота, вільшняки, про що розповідають птахи та чому навіть звичайний шелест сосен може стати частиною великої мелодії?",
+      "categories": [
+        "Лайф"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "650127c3bc83d4d7",
+      "source_id": "map-660",
+      "source": "Кременчуцький Телеграф",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://telegraf.in.ua/kremenchug/miski-sluzhby-zranku-praczyuvatymut-u-dvorah-postrazhdalyh-budynkiv-mer.html",
+      "title": "Міські служби зранку працюватимуть у дворах постраждалих будинків — мер",
+      "published_at": "2026-11-08T19:49:26+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:49:26 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Рятувальники та правоохоронці працюють на місцях ударів. Із ранку 9 листопада міські служби мають допомагати мешканцям постраждалих будинків Сообщение Міські служби зранку працюватимуть у дворах постраждалих будинків — мер появились сначала на Кременчуцький Телеграф .",
+      "categories": [
+        "Війна",
+        "Кременчук",
+        "Віталій Малецький",
+        "наслідки атаки",
+        "пошкоджене житло"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "84543d6294a665c5",
+      "source_id": "map-844",
+      "source": "Ірта-fax",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://irtafax.com/fejk-ukraintsi-zalyshyly-hrafiti-fashysty-na-fasadi-restoranu-korejskoi-kukhni",
+      "title": "Фейк: Українці залишили графіті «фашисти» на фасаді ресторану корейської кухні",
+      "published_at": "2026-11-08T19:49:03+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:49:03 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Ірта-fax - Інформаційний портал Вердикт: ФЕЙК Твердження Українці залишили графіті «фашисти» на фасаді ресторану корейської кухні Насправді Фото, що поширюється в мережі, було згенеровано за допомогою штучного інтелекту (ШІ). Фото, що поширюється в мережі, було згенеровано за допомогою штучного інтелекту (ШІ). Одразу низка проросійських каналів опублікувала знімок, нібито зроблений у Києві. На ньому — фасад ресторану корейської кухні з написом «фашисти». […] Ірта-Fax STREAM",
+      "categories": [
+        "СТОПФЕЙК",
+        "#події",
+        "Партнерський матеріал"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "304e2826b75cfead",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/chernivtsi_news/366305-grafiky-vidkluchen-na-bukovyni-na-9-lystopada.html",
+      "title": "Графіки відключень на Буковині на 9 листопада",
+      "published_at": "2026-11-08T19:47:57+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:47:57 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У частині областей України вимушено будуть застосовуватись заходи обмеження споживання.",
+      "categories": [
+        "Новини Чернівців"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a65f718a746aad72",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-suputnykovi-znimky-poshkodzhennia-naftovyi-vuzol-samarska-oblast/33893349.html",
+      "title": "Супутникові знімки свідчать про значні пошкодження нафтового вузла в Самарській області РФ",
+      "published_at": "2026-11-08T19:46:38+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:46:38 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Через атаку ЗСУ на станцію Казахстан був змушений ненадовго зупинити прокачування своєї нафти трубопроводом Атирау-Самара",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини",
+        "Новини | Важливі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a889c6bb2fd3166b",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/08/u-harkovi-povtornij-udar-fpv-drona-poshkodiv-pozhezhnij-avtomobil-dsns",
+      "title": "У Харкові повторний удар FPV-дрона пошкодив пожежний автомобіль ДСНС",
+      "published_at": "2026-11-08T19:46:02+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:46:02 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Особовий склад ДСНС не постраждав, оскільки на момент атаки рятувальники перебували в укритті.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "840dd0cbda505e21",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/finances/ukrajintsi-v-zhovtni-kupili-valjuti-majzhe-na-miljard-dolariv-bilshe-nizh-prodali.html",
+      "title": "Українці в жовтні купили валюти майже на мільярд доларів більше, ніж продали",
+      "published_at": "2026-11-08T19:44:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:44:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Це приблизно на третину більше, ніж було у вересні та торік у жовтні.",
+      "categories": [
+        "Фінанси"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "87b410cb51e45b80",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/08/zaboronnij-pripis-spivmeshkantsyu-v-harkovi-politsiya-zahistila-zhinku",
+      "title": "Заборонний припис співмешканцю: в Харкові поліція захистила жінку",
+      "published_at": "2026-11-08T19:41:28+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:41:28 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Факт домашнього насильства зафіксували в Харкові поліціянти. За їхньою інформацією, агресор – 51-річний чоловік. “Повідомлення...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "173ea08af1a26f62",
       "source_id": "map-875",
@@ -138,6 +1726,25 @@
       "status": "new"
     },
     {
+      "id": "735154f5ac48654f",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/08/779554_kremenchutsi_buli_vluchannya.html",
+      "title": "У Кременчуці були влучання ворожих БпЛА на двох локаціях, є постраждалі (оновлено)",
+      "published_at": "2026-11-08T19:40:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:40:00 +0200",
+      "fetched_at": "2026-11-08T19:41:00+00:00",
+      "description": "Пошкоджена багатоповерхівка і готель.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3c918690f2bdfb5c",
       "source_id": "map-1145",
       "source": "Нове життя",
@@ -153,6 +1760,43 @@
         "Суспільство",
         "Варто знати"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ee1bf394eab4db8e",
+      "source_id": "map-1145",
+      "source": "Нове життя",
+      "geography": "regional",
+      "source_region": "volyn",
+      "url": "https://novezittya.com.ua/dopomohy-vahipolohakh-ta-dohliadu-za-dytynoiu-mozhna-oformyty-cherez-diiu",
+      "title": "У «Дії» можна оформити виплати у зв’язку з вагітністю та пологами",
+      "published_at": "2026-11-08T19:39:54+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:39:54 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У застосунку «Дія» доступне оформлення двох видів виплат: допомога у зв’язку з вагітністю та пологами, а також допомога по догляду за дитиною до досягнення нею одного року. Допомога у зв’язку з вагітністю та пологами становить 7000 грн на місяць, інфомує Пенсійний фонд у Вінницькій області. Вона передбачена для вагітних жінок, які не застраховані в системі […]",
+      "categories": [
+        "Суспільство",
+        "Варто знати"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "98cd7e73ed3f3deb",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131606-sutichki-u-petropavlivskiy-borshchagivci-nova-chastina-operaciji-karfagen-ta-strilyanina-u-krakovi-golovne-za-tizhden",
+      "title": "Сутички в Петропавлівській Борщагівці, нова частина операції «Карфаген» і стрілянина в Кракові. Головне за тиждень",
+      "published_at": "2026-11-08T19:39:21+00:00",
+      "published_raw": "Sun, 08 Nov 26 21:39:21 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -358,25 +2002,6 @@
       "status": "new"
     },
     {
-      "id": "2f1419dc427855d7",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/rosiyski-ataki-na-ukrajinu-v-nich-z-8-na-9-listopada-2026-roku-vsi-podrobici-onlayn-50657390.html",
-      "title": "Росія атакує Україну шахедами, Бандеролями і КАБами, у Кременчуці два прильоти — онлайн",
-      "published_at": "2026-11-08T19:38:00+00:00",
-      "published_raw": "Sun, 08 Nov 2026 21:38:00 +0200",
-      "fetched_at": "2026-11-08T19:41:00+00:00",
-      "description": "Ввечері 8 листопада триває російська атака на Україну реактивними і бензиновими шахедами, а також Бандеролями і КАБами. Повідомлялось про вибухи у Сумах та Черкасах та двох прильотах у Кременчуці.",
-      "categories": [
-        "Україна/Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "efcaed860b1351d1",
       "source_id": "map-289",
       "source": "МикВісті",
@@ -429,8 +2054,8 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/UKRAINE/u-khmelnitskomu-pid-chas-zatrimannja-ozbrojenoho-cholovika-vibukhnula-hranata.html",
       "title": "У Хмельницькому під час затримання озброєного чоловіка вибухнула граната",
-      "published_at": "2026-11-08T19:34:37+00:00",
-      "published_raw": "Sun, 08 Nov 2026 21:34:37 +0200",
+      "published_at": "2026-11-08T19:34:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:34:00 +0200",
       "fetched_at": "2026-11-08T19:41:00+00:00",
       "description": "Озброєний чоловік бігав вулицями міста.",
       "categories": [
@@ -448,10 +2073,10 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/SPORT/bokser-iz-rf-sprovokuvav-epichnu-bijku-na-vechori-boksu-v-stambuli.html",
       "title": "Боксер із РФ спровокував епічну бійку на вечорі боксу в Стамбулі",
-      "published_at": "2026-11-08T19:34:24+00:00",
-      "published_raw": "Sun, 08 Nov 2026 21:34:24 +0200",
+      "published_at": "2026-11-08T19:34:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:34:00 +0200",
       "fetched_at": "2026-11-08T19:41:00+00:00",
-      "description": "Мурад Алієв здобув титул, але поводився неадекватно.",
+      "description": "Мурад Алієв здобув титул, але поводився нахабно.",
       "categories": [
         "Спорт"
       ],
@@ -503,6 +2128,29 @@
       "status": "new"
     },
     {
+      "id": "e94e935a945d964f",
+      "source_id": "map-577",
+      "source": "Odesa.Online",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa.online/bez-doshhiv-ale-z-nichnimi-morozami-yakoyu-bude-pogoda-na-odeshhini-9-listopada",
+      "title": "Без дощів, але з нічними морозами: якою буде погода на Одещині 9 листопада",
+      "published_at": "2026-11-08T19:32:22+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:32:22 +0000",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У понеділок, 9 листопада, в Одесі та Одеській області очікується мінлива хмарність. Опадів не прогнозують. В Одесі буде мінлива хмарність, без опадів. Вітер змінних напрямків, 3–8 м/с. Температура повітря вночі становитиме 0–2° тепла, вдень — 6–8° тепла. В Одеській області також прогнозують мінливу хмарність без опадів. Вітер змінних напрямків, 3–8 м/с. Температура повітря вночі коливатиметься від 3° морозу до 2° тепла, Сообщение Без дощів, але з нічними морозами: якою буде погода на Одещині 9 листопада появились сначала на Новини Одеси - Odesa Online .",
+      "categories": [
+        "Новини",
+        "Погода",
+        "9 листопада",
+        "Новини Одеси",
+        "погода в Одесі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e55a2f0e9260ee99",
       "source_id": "hromadske",
       "source": "hromadske",
@@ -533,25 +2181,6 @@
       "description": "Сенатор-демократ Річард Блюменталь заявив, що після перемоги Демократичної партії на проміжних виборах 3 листопада Конгрес має відновити санкції проти РФ і надання Україні військової допомоги, насамперед засобів ППО.",
       "categories": [
         "Світ/Геополітика"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "735154f5ac48654f",
-      "source_id": "lb",
-      "source": "LB.ua",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://lb.ua/society/2026/11/08/779554_kremenchutsi_buli_vluchannya.html",
-      "title": "У Кременчуці були влучання ворожих БпЛА на двох локаціях, є постраждалі (оновлено)",
-      "published_at": "2026-11-08T19:32:00+00:00",
-      "published_raw": "Sun, 08 Nov 2026 21:32:00 +0200",
-      "fetched_at": "2026-11-08T19:41:00+00:00",
-      "description": "Пошкоджена багатоповерхівка і готель.",
-      "categories": [
-        "Суспільство"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -695,6 +2324,25 @@
       "status": "new"
     },
     {
+      "id": "a53333ef74cd68fe",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4182729-zagarbniki-pocilili-po-budinku-i-gotelu-v-kremencuci.html",
+      "title": "Загарбники поцілили по будинку і готелю в Кременчуці, четверо поранених",
+      "published_at": "2026-11-08T19:23:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:23:00 +0200",
+      "fetched_at": "2026-11-08T19:41:00+00:00",
+      "description": "Російська армія завдала ударів безпілотниками по Кременчуку на Полтавщині, у місті пошкоджено житловий будинок і готель, зайнялася пожежа. Відомо про чотирьох поранених",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8474db47a974c9e1",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -755,6 +2403,25 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "2b9934957fd0ce98",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/08/779562_pivnochi_odeschini_cherez.html",
+      "title": "На півночі Одещини через обстріл є перебої зі світлом. РФ атакувала обʼєкт ДТЕК (доповнено)",
+      "published_at": "2026-11-08T19:21:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 21:21:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Енергетики вже працюють над відновленням.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1318,25 +2985,6 @@
         "Єгипет",
         "Події",
         "Потяги"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a53333ef74cd68fe",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4182729-zagarbniki-pocilili-po-budinku-i-gotelu-v-kremencuci.html",
-      "title": "Загарбники поцілили по будинку і готелю в Кременчуці, поранений підліток",
-      "published_at": "2026-11-08T18:59:00+00:00",
-      "published_raw": "Sun, 08 Nov 2026 20:59:00 +0200",
-      "fetched_at": "2026-11-08T19:41:00+00:00",
-      "description": "Російська армія завдала ударів безпілотниками по Кременчуку на Полтавщині, у місті пошкоджено житловий будинок і готель, зайнялася пожежа.",
-      "categories": [
-        "Регіони"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -2015,7 +3663,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/ukraine/events/ataka-droniv-na-kremenchuk-pozhezhi-vinikli-u-goteli-ta-bagatokvartirnomu-budinku-50657391.html",
-      "title": "Російські безпілотники вдарили по багатоквартирному будинку і готелю у Кременчуці, на обох локаціх пожежі",
+      "title": "Російські безпілотники вдарили по багатоквартирному будинку і готелю у Кременчуці, є постраждалі",
       "published_at": "2026-11-08T18:28:00+00:00",
       "published_raw": "Sun, 08 Nov 2026 20:28:00 +0200",
       "fetched_at": "2026-11-08T19:41:00+00:00",
@@ -2560,6 +4208,7 @@
       "fetched_at": "2026-11-08T19:41:00+00:00",
       "description": "Наслідки атаки уточнюються Сообщение У Кременчуці пролунав повторний вибух появились сначала на Кременчуцький Телеграф .",
       "categories": [
+        "Відео",
         "Війна",
         "Топ новина",
         "війна"
@@ -3312,6 +4961,7 @@
       "fetched_at": "2026-11-08T19:41:00+00:00",
       "description": "Моніторингові канали попереджали про реактивний дрон на місто Сообщение У Кременчуці пролунав вибух: що відомо появились сначала на Кременчуцький Телеграф .",
       "categories": [
+        "Відео",
         "Надзвичайні новини",
         "Топ новина",
         "вибухи"
@@ -3853,6 +5503,25 @@
       "description": "Президент Ізраїлю Іцхак Герцог доручив лідеру опозиції та партії \"Яшар\" Ґаді Айзенкоту сформувати уряд, повідомляє The Times of Israel у неділю.",
       "categories": [
         "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "77be3a0da7dc310c",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/life/najvazhlivishogo-ochima-ne-pobachish-grandioznij-uspih-ukrayinskih-majstrin-na-doll-prague-2026",
+      "title": "Найважливішого очима не побачиш. Грандіозний успіх українських майстринь на Doll Prague 2026",
+      "published_at": "2026-11-08T17:17:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 19:17:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "Міжнародна виставка та конкурс Doll Prague 2026 пройшли з6 по 8 листопада 2026 року у Празі",
+      "categories": [
+        "Лайф"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -5168,7 +6837,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/suspilstvo/274024-u-viyskovoho-iakoho-vyzvolialy-u-petropavlivskyy-borshchahivtsi-spravdi-bula-stoma-chastyna-perekonuye-shcho-dopomohu-nadavaly",
-      "title": "У військового, якого «визволяли» в Петропавлівський Борщагівці, справді була стома. Частина переконує, що допомогу надавали",
+      "title": "У військового, якого «визволяли» в Петропавлівській Борщагівці, справді була стома. Частина переконує, що допомогу надавали",
       "published_at": "2026-11-08T16:31:00+00:00",
       "published_raw": "2026-11-08T18:31:00+02:00",
       "fetched_at": "2026-11-08T19:41:00+00:00",
@@ -6866,25 +8535,6 @@
         "почта",
         "ракеты",
         "Укрпочта"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "48431b56fb7f73cf",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4182659-ukraini-u-ponedilok-prognozuut-do-9-morozu.html",
-      "title": "Україні у понеділок прогнозують до 9° морозу",
-      "published_at": "2026-11-08T15:20:00+00:00",
-      "published_raw": "Sun, 08 Nov 2026 17:20:00 +0200",
-      "fetched_at": "2026-11-08T15:11:31+00:00",
-      "description": "У понеділок, 9 листопада, в Україні очікується хмарна з проясненнями погода, без опадів.",
-      "categories": [
-        "Регіони"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -9580,9 +11230,9 @@
       "description": "Два університети Прикарпаття увійшли до 50 найкращих закладів вищої освіти України за рейтингом Education.ua 2026, пише КУРС. Карпатський національний університет імені Василя Стефаника (КНУВС) посів 10-те місце у загальноукраїнському рейтингу, а Івано-Франківський національний медичний університет (ІФНМУ) — 48-ме. Рейтинг сформували на основі комплексного оцінювання діяльності університетів. Зокрема, враховано результати вступної кампанії, кадровий потенціал, наукову та […]",
       "categories": [
         "Суспільство",
+        "Рейтинг",
         "КНУВС",
-        "іфнму",
-        "Рейтинг"
+        "іфнму"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -24273,6 +25923,25 @@
       "status": "new"
     },
     {
+      "id": "effdfe96b7e4b20e",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/video/44-kartini-j-tri-miljoni-dlya-zsu-hudozhniki-volonteri-z-luben-upershe-v-harkovi-video",
+      "title": "44 картини й три мільйони для ЗСУ: художники-волонтери з Лубен уперше в Харкові (ВІДЕО)",
+      "published_at": "2026-11-08T07:53:00+00:00",
+      "published_raw": "Sun, 08 Nov 2026 09:53:00 +0200",
+      "fetched_at": "2026-11-08T23:42:21+00:00",
+      "description": "У Харкові в Інформаційно-виставковому центрі «Бузок» уперше представили творчість художників-близнюків із Лубен - Олександра Мірошніченка та Володимира Мірошниченка.",
+      "categories": [
+        "Відео"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dfb49d8e8bd1b84c",
       "source_id": "hromadske-radio",
       "source": "Громадське радіо",
@@ -26331,25 +28000,6 @@
       "status": "new"
     },
     {
-      "id": "12b53f8b58e0f4e9",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://biz.nv.ua/ukr/economics/groshi-tizhnya-ahmetov-prodast-shche-odin-biznes-z-kolomoyskogo-i-bogolyubova-styagnut-3-mlrd-dolariv-50657016.html",
-      "title": "Гроші тижня. Ахметов продасть ще один бізнес, з Коломойського і Боголюбова стягнуть $3 млрд, а російський дизель не допоміг Трампу",
-      "published_at": "2026-11-08T07:01:00+00:00",
-      "published_raw": "Sun, 08 Nov 2026 09:01:00 +0200",
-      "fetched_at": "2026-11-08T07:19:12+00:00",
-      "description": "NV Бізнес вибрав головні новини економіки, найцікавіші заяви та показові цифри тижня, що минає",
-      "categories": [
-        "Бізнес/Економіка"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "b02a8ce8c95189a9",
       "source_id": "map-1142",
       "source": "20 хвилин. Тернопіль",
@@ -27115,7 +28765,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://grivna.ua/news/pid-rosijskymy-obstrilamy-opynylys-18-mist-ta-sil-hersonshhyny-ye-poraneni",
-      "title": "Під російськими обстрілами опинились 18 міст та сіл Херсонщини: є поранені",
+      "title": "Під російськими обстрілами опинилися 18 міст і сіл Херсонщини: є поранені",
       "published_at": "2026-11-08T06:35:57+00:00",
       "published_raw": "Sun, 08 Nov 2026 06:35:57 +0000",
       "fetched_at": "2026-11-08T07:19:12+00:00",
@@ -31260,6 +32910,12 @@
       "fetched": 1077,
       "added": 354,
       "errors": 3
+    },
+    {
+      "at": "2026-11-08T23:42:21+00:00",
+      "fetched": 1077,
+      "added": 84,
+      "errors": 4
     }
   ]
 }
