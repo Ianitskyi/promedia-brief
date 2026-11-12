@@ -10,7 +10,7 @@ import re
 import subprocess
 
 from .edition import EDITIONS
-from .review import load_approved
+from .review import load_script
 from .speech import load_lexicon, speech_text
 from .util import ROOT, load_json, write_json
 
@@ -49,9 +49,9 @@ def _load_audio(path):
 def verify(date, model_size="small", threshold=DEFAULT_THRESHOLD, model_dir=None, variant=None):
     from faster_whisper import WhisperModel
 
-    approved = load_approved(date)
     manifest = EDITIONS / date / (f"render-{variant}.json" if variant else "render.json")
     render = load_json(manifest)
+    approved = load_script(date, render.get("script", "approved"))
     model = WhisperModel(model_size, device="cpu", compute_type="int8", download_root=model_dir)
     texts = {seg["id"]: " ".join(s["text"] for s in seg["sentences"]) for seg in approved["segments"]}
     results, failed = [], []

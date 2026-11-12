@@ -5,6 +5,19 @@
 <link rel="icon" href="/favicon.svg?v=20261030c" type="image/svg+xml" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>BRIEF — демо-випуск</title>
+<meta name="description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="BRIEF" />
+<meta property="og:title" content="BRIEF — демо-випуск" />
+<meta property="og:description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta property="og:url" content="https://brief.promedia.report/demo.html" />
+<meta property="og:image" content="https://brief.promedia.report/og.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="BRIEF — головні новини дня за 5 хвилин, голосом" />
+<meta property="og:locale" content="uk_UA" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://brief.promedia.report/og.png" />
 <style>
 :root{--bg:#f4f2ec;--card:#fff;--ink:#171717;--muted:#6c6c67;--line:#dedbd2;--soft:#ece9df;--radius:22px}
 *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
@@ -18,8 +31,8 @@ audio{width:100%;margin:8px 0}.facts{display:flex;flex-wrap:wrap;gap:7px;margin-
 </head>
 <body><main class="app">
 <a class="brand" href="./">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a>
-<h1>Демо-випуск</h1>
-<p class="muted">Тестовий випуск BRIEF за 29 жовтня, озвучений Yevhen та Yaroslava. Новини адаптовані для усного мовлення. Посилання на першоджерела — під кожним сюжетом.</p>
+<h1>Випуск BRIEF</h1>
+<p class="muted" id="about">Новини адаптовані для усного мовлення. Посилання на першоджерела — під кожним сюжетом.</p>
 <div id="pick"></div>
 <div class="card" id="player"><p class="muted">Завантаження…</p></div>
 <div class="card" id="script"></div>
@@ -29,6 +42,7 @@ const KIND={intro:'Вступ',heading:'Перехід',story:'Сюжет',remin
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 async function show(file){
   const d=await (await fetch(file,{cache:'no-store'})).json();
+  if(d.description) document.getElementById('about').textContent=d.description;
   const min=Math.floor(d.duration_sec/60), sec=String(Math.round(d.duration_sec%60)).padStart(2,'0');
   document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}?v=${esc(d.script_sha256||d.date)}-female108"></audio>
     <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>

@@ -61,7 +61,7 @@ def cmd_render(a):
     from . import render
 
     manifest = render.render(a.date, provider_name=a.provider, voice=a.voice, variant=a.variant,
-                             service_voice=a.service_voice)
+                             service_voice=a.service_voice, script=a.script)
     keys = ("provider", "voice", "duration_sec", "characters", "estimated_cost_usd", "api_calls", "cached_chunks",
             "elapsed_sec")
     print(json.dumps({k: manifest[k] for k in keys}, indent=2))
@@ -78,6 +78,33 @@ def cmd_demo(a):
     from . import demo
 
     print(demo.save(a.date, a.variant))
+
+
+def cmd_spoken(a):
+    from . import spoken
+
+    s = spoken.build(a.date, use_llm=not a.no_llm, budget=a.budget)
+    print(json.dumps({k: s[k] for k in ("stories", "retold", "characters", "budget_characters")}
+                     | {"rejected": len(s["log"]["rejected"]), "llm_error": s["log"].get("llm_error")},
+                     ensure_ascii=False, indent=2))
+    for r in s["log"]["rejected"]:
+        print("-", r["story_ids"], "; ".join(r["problems"]))
+
+
+def cmd_feature(a):
+    from . import featured
+
+    print(featured.feature(a.date, a.variant))
+
+
+def cmd_usage(a):
+    from . import spoken
+    from .edition import EDITIONS
+    from .util import load_json
+
+    m = load_json(EDITIONS / a.date / f"render-{a.variant}.json")
+    total = spoken.record_usage(a.date, m["characters"], m["provider"])
+    print(f"{m['characters']} characters today; {total} this month")
 
 
 def cmd_publish(a):
@@ -127,7 +154,25 @@ def main(argv=None):
     rn.add_argument("--voice")
     rn.add_argument("--service-voice", help="voice for intro, reminder and outro (default: config, same engine only)")
     rn.add_argument("--variant", help="render an alternative voicing next to the published one (e.g. a paid demo)")
+    rn.add_argument("--script", choices=["approved", "spoken"], default="approved",
+                    help="spoken: the retold daily edition made by `brief spoken`")
     rn.set_defaults(fn=cmd_render)
+
+    sp = sub.add_parser("spoken", help="retell the approved stories for the ear (Claude) and check every claim")
+    sp.add_argument("--date", required=True)
+    sp.add_argument("--no-llm", action="store_true", help="read the approved sentences, no Claude call")
+    sp.add_argument("--budget", type=int, help="characters for the paid voice (default: share of the monthly budget)")
+    sp.set_defaults(fn=cmd_spoken)
+
+    fe = sub.add_parser("feature", help="put the voiced daily edition into the home page player")
+    fe.add_argument("--date", required=True)
+    fe.add_argument("--variant", default="daily")
+    fe.set_defaults(fn=cmd_feature)
+
+    us = sub.add_parser("usage", help="add a render's characters to the monthly TTS budget (data/tts-usage.json)")
+    us.add_argument("--date", required=True)
+    us.add_argument("--variant", default="daily")
+    us.set_defaults(fn=cmd_usage)
 
     v = sub.add_parser("verify-audio", help="optional: transcribe rendered audio and compare with the script")
     v.add_argument("--date", required=True)

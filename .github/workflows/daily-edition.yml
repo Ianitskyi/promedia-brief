@@ -1,0 +1,129 @@
+name: Daily BRIEF edition
+
+# One automatic edition a day (owner, 2026-11-12), in the one home-page player:
+#   collect → draft with fact checks → automatic approval → retold for the ear by Claude, every
+#   number, name and quote checked against the sources (brief/spoken.py) → ElevenLabs
+#   (Yevhen and Yaroslava take turns) → audio check → replaces yesterday's edition.
+# Paid voice only within the day's share of the monthly plan (data/tts-usage.json,
+# config/editorial.json "daily"); when the share or the key is missing, the free StyleTTS2
+# voice reads the same text. Without ANTHROPIC_API_KEY the approved sentences are read
+# as they are. If the audio check fails, nothing is published and yesterday's edition stays.
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Edition date (YYYY-MM-DD, Kyiv). Empty = today"
+        required: false
+  schedule:
+    - cron: "41 5 * * *"  # ≈07:41 Kyiv in winter time, 08:41 in summer time
+
+permissions:
+  contents: write
+
+concurrency:
+  group: brief-repo-write
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
+          pip install -r requirements.txt faster-whisper==1.2.1
+      - name: Edition date and settings
+        id: cfg
+        run: |
+          D="${{ inputs.date }}"
+          [ -n "$D" ] || D=$(TZ=Europe/Kyiv date +%F)
+          echo "date=$D" >> "$GITHUB_OUTPUT"
+          daily() { python -c "import json;print(json.load(open('config/editorial.json'))['daily']['$1'])"; }
+          for k in tts_model voice service_voice service_tempo min_paid_characters; do echo "$k=$(daily $k)" >> "$GITHUB_OUTPUT"; done
+      - name: Collect, draft and approve (same checks as for an editor)
+        run: |
+          python -m brief collect
+          python -m brief draft --date "${{ steps.cfg.outputs.date }}"
+          python -m brief approve --date "${{ steps.cfg.outputs.date }}" --auto
+      - name: Retell for the ear and check every claim
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          set -o pipefail
+          python -m brief spoken --date "${{ steps.cfg.outputs.date }}" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Paid voice within today's budget?
+        id: paid
+        env:
+          HAS_KEY: ${{ secrets.ELEVENLABS_API_KEY != '' }}
+        run: |
+          python - >> "$GITHUB_OUTPUT" <<'PY'
+          import json, os
+          s = json.load(open("editions/${{ steps.cfg.outputs.date }}/spoken.json"))
+          ok = os.environ["HAS_KEY"] == "true" and s["characters"] <= s["budget_characters"] \
+              and s["budget_characters"] >= ${{ steps.cfg.outputs.min_paid_characters }}
+          print("use=" + ("1" if ok else "0"))
+          PY
+      - name: Restore already voiced sentences (a re-run does not pay twice)
+        uses: actions/cache/restore@v4
+        with:
+          path: editions/${{ steps.cfg.outputs.date }}/.tts-cache
+          key: daily-tts-${{ steps.cfg.outputs.date }}-${{ github.run_id }}
+          restore-keys: daily-tts-${{ steps.cfg.outputs.date }}-
+      - name: Voice with ElevenLabs
+        id: eleven
+        if: steps.paid.outputs.use == '1'
+        continue-on-error: true  # e.g. credits used up: the free voice takes over
+        env:
+          BRIEF_ALLOW_PAID_TTS: "1"
+          BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '0.50' }}
+          BRIEF_ELEVENLABS_MODEL: ${{ steps.cfg.outputs.tts_model }}
+          BRIEF_ELEVENLABS_STRESS: "0"
+          BRIEF_ALTERNATE_VOICES: "1"
+          BRIEF_SERVICE_TEMPO: ${{ steps.cfg.outputs.service_tempo }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          python -m brief render --date "${{ steps.cfg.outputs.date }}" --script spoken --variant daily \
+            --provider elevenlabs --voice "${{ steps.cfg.outputs.voice }}" --service-voice "${{ steps.cfg.outputs.service_voice }}"
+          python -m brief usage --date "${{ steps.cfg.outputs.date }}" --variant daily
+      - name: Save voiced sentences, also when the run failed half-way
+        if: always() && steps.cfg.outcome == 'success'
+        uses: actions/cache/save@v4
+        with:
+          path: editions/${{ steps.cfg.outputs.date }}/.tts-cache
+          key: daily-tts-${{ steps.cfg.outputs.date }}-${{ github.run_id }}
+      - name: Free voice (StyleTTS2) when the paid one is not available today
+        if: steps.paid.outputs.use != '1' || steps.eleven.outcome == 'failure'
+        env:
+          BRIEF_ALTERNATE_VOICES: "1"
+          BRIEF_SERVICE_TEMPO: "1.3"
+          BRIEF_SERVICE_PITCH: "-2"
+        run: |
+          pip install -r requirements-styletts2.txt
+          python -m brief render --date "${{ steps.cfg.outputs.date }}" --script spoken --variant daily \
+            --provider styletts2 --voice male_2 --service-voice female_3
+      - name: Audio check (the audio says the checked text)
+        run: python -m brief verify-audio --date "${{ steps.cfg.outputs.date }}" --variant daily
+      - name: Put into the home page player
+        run: python -m brief feature --date "${{ steps.cfg.outputs.date }}"
+      - name: Commit
+        run: |
+          python -m brief prune --keep-days 0
+          git config user.name "BRIEF Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A data editions demo
+          git diff --cached --quiet && exit 0
+          git commit -m "Daily BRIEF edition ${{ steps.cfg.outputs.date }}"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
+          exit 1
+      - name: Summary
+        if: always()
+        run: |
+          f="editions/${{ steps.cfg.outputs.date }}/render-daily.json"
+          test -f "$f" && python -c "import json;d=json.load(open('$f'));print('Voice:', d['provider'], '· duration', d['duration_sec'], 's · characters', d['characters'], '· ASR', (d.get('asr') or {}).get('mean_cer'))" >> "$GITHUB_STEP_SUMMARY" || true
+          echo "Site: https://brief.promedia.report/" >> "$GITHUB_STEP_SUMMARY"
