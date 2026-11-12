@@ -8,7 +8,7 @@
 - Current featured demo: 29 October 2026; generated with ElevenLabs Yevhen and Yaroslava.
 - Editorial/fact-check approval and quality verification remain explicit, not silently assumed.
 
-## Stage 2 — daily BRIEF app
+## Stage 2 — daily BRIEF app (running since 2026-11-12: `.github/workflows/daily-edition.yml`)
 - The same UI player reads a published daily edition, updated on a regular editorial schedule.
 - A daily edition supersedes the previous day in the featured player.
 - The editorial source trail remains available; avoid duplicate parallel player experiences.

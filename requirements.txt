@@ -1,2 +1,3 @@
 # Runtime dependencies of the BRIEF pipeline (stdlib covers the rest).
 feedparser==6.0.14
+anthropic==2.8.0  # daily spoken edition (brief/spoken.py); only used with ANTHROPIC_API_KEY

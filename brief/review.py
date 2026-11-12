@@ -167,3 +167,20 @@ def load_approved(date):
     if recomputed != a["script_sha256"]:
         raise ApprovalError("approved.json was modified after approval (sha256 mismatch)")
     return a
+
+
+def load_script(date, script="approved"):
+    """The text to voice: the approved edition, or the spoken retelling made from it (brief.spoken)."""
+    approved = load_approved(date)
+    if script == "approved":
+        return approved
+    if script != "spoken":
+        raise ValueError(f"unknown script {script!r}")
+    s = load_json(EDITIONS / date / "spoken.json")
+    if s is None:
+        raise ApprovalError(f"no spoken script for {date} (python -m brief spoken --date {date})")
+    if script_hash({"segments": s["segments"]}) != s["script_sha256"]:
+        raise ApprovalError("spoken.json was modified after it was checked (sha256 mismatch)")
+    if s["approved_sha256"] != approved["script_sha256"]:
+        raise ApprovalError("spoken.json was made from a different approved text")
+    return s

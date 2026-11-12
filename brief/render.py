@@ -15,7 +15,7 @@ import time
 
 from . import audio, tts
 from .edition import EDITIONS
-from .review import load_approved
+from .review import load_script
 from .speech import load_lexicon, load_stress, speech_text
 from .util import ROOT, config, iso, now_utc, write_json
 
@@ -74,11 +74,12 @@ def _cache_key(provider, text):
     return hashlib.sha256(f"{provider.name}|{provider.voice}|{text}".encode("utf-8")).hexdigest()[:24]
 
 
-def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None, variant=None, service_voice=None):
+def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None, variant=None, service_voice=None,
+           script="approved"):
     """variant: render an alternative voicing (e.g. a paid demo) next to the published one:
     audio goes to editions/<date>/variants/<variant>/, the manifest to render-<variant>.json."""
     started = time.time()
-    approved = load_approved(date)
+    approved = load_script(date, script)
     provider = tts.get(provider_name, voice=voice)
     lexicon = load_lexicon()
     segments = plan(approved, provider, lexicon)
@@ -178,5 +179,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
     }
     if variant:
         manifest["variant"] = variant
+    if script != "approved":
+        manifest["script"] = script
     write_json(EDITIONS / date / (f"render-{variant}.json" if variant else "render.json"), manifest)
     return manifest

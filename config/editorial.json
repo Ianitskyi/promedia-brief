@@ -516,5 +516,26 @@
     "neutral": {
       "tag": ""
     }
+  },
+  "daily": {
+    "_comment": "Daily spoken edition (owner, 2026-11-12): automatic, retold by Claude with every claim checked against the sources, voiced by ElevenLabs within the monthly plan (Starter: 30K credits). See brief/spoken.py.",
+    "blocks": [
+      "national",
+      "regional"
+    ],
+    "llm_model": "claude-opus-5-5",
+    "tts_provider": "elevenlabs",
+    "tts_model": "eleven_v3",
+    "voice": "TEyBWD5tAHAWqAGEv6yI",
+    "voice_name": "Yevhen",
+    "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+    "service_voice_name": "Yaroslava",
+    "service_tempo": 1.08,
+    "monthly_credits": 30000,
+    "credits_per_char": 1.0,
+    "reserve": 0.1,
+    "min_stories": 2,
+    "min_paid_characters": 600,
+    "outro": "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF."
   }
 }

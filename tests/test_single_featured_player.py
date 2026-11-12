@@ -13,13 +13,14 @@ def test_one_featured_player_no_extra_banner():
     assert 'id="home" class="screen active">\\n' not in html
 
 
-def test_latest_demo_replaces_october_22():
+def test_one_featured_edition_with_its_audio():
+    """The player holds one edition: the 29 October demo until the first daily edition replaces it."""
     index = json.loads((ROOT / "demo" / "index.json").read_text(encoding="utf-8"))
     assert len(index["demos"]) == 1
-    assert index["demos"][0]["date"] == "2026-10-29"
-    demo = json.loads((ROOT / index["demos"][0]["file"]).read_text(encoding="utf-8"))
-    assert demo["audio"] == "audio/brief-2026-10-29.mp3"
-    assert demo["date"] == "2026-10-29"
+    item = index["demos"][0]
+    demo = json.loads((ROOT / item["file"]).read_text(encoding="utf-8"))
+    assert demo["date"] == item["date"] >= "2026-10-29"
+    assert (ROOT / demo["audio"]).is_file()
 
 
 def test_old_standalone_url_uses_same_player():
