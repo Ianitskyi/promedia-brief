@@ -21,5 +21,7 @@ jobs:
       - run: pip install -r requirements-dev.txt
       - name: Validate JSON config
         run: for f in config/*.json; do python -m json.tool "$f" > /dev/null || exit 1; done
+      - name: Verify privacy-safe GA4 and consent controls
+        run: node tests/analytics.mjs . brief.promedia.report
       - name: Tests (no network, no paid APIs)
         run: python -m pytest -q
