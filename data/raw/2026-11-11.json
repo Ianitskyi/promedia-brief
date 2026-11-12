@@ -1,9 +1,48 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-11T21:57:12+00:00",
+  "generated_at": "2026-11-12T02:58:40+00:00",
   "source_count": 126,
-  "item_count": 2506,
+  "item_count": 2512,
   "items": [
+    {
+      "id": "fb13360c5eb23a63",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-rosiji-nemaje-v-gruziji-kobahidze/33895566.html",
+      "title": "«Росії взагалі немає в Грузії» – прем’єр Кобахідзе в Дубліні",
+      "published_at": "2026-11-11T21:59:43+00:00",
+      "published_raw": "Wed, 11 Nov 2026 23:59:43 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "В оприлюдненому 4 листопада розділі «Звіту про розширення», присвяченому Грузії, Єврокомісія зазначила, що кавказька країна номінально залишається країною-кандидаткою на членство в ЄС",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "235c0a39163f6886",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/ljudi-v-serednovichchi-sprichinili-katastrofichni-tsunami-v-ozerakh-i-mi-mozhemo-povtoriti-tse.html",
+      "title": "Люди в Середньовіччі спричинили катастрофічні цунамі в озерах, і ми можемо повторити це",
+      "published_at": "2026-11-11T21:58:00+00:00",
+      "published_raw": "Wed, 11 Nov 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "Вони сталися в озері, яке розташоване в Альпах.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "ba3f545fbbe10a18",
       "source_id": "slovoidilo",
@@ -168,6 +207,25 @@
       "description": "",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "220229734dd183cc",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/11/780362_golovne_seredu_11_listopada.html",
+      "title": "Головне за середу, 11 листопада: майже 150 боєзіткнень, атака на Яготин, переговори в Абу-Дабі",
+      "published_at": "2026-11-11T21:55:00+00:00",
+      "published_raw": "Wed, 11 Nov 2026 23:55:00 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "Бойові дії на Донеччині, 149 бойових зіткнень, ворожі обстріли, нові антиросійські санкції ЄС. Яким запам’ятається 1722-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -658,6 +716,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "003c312da00efd29",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1450751-u-kievi-prolunali-vibuhi-povitrani-sili-poperedzali-pro-balisticni-raketi",
+      "title": "У Києві пролунали вибухи: Повітряні сили попереджали про балістичні ракети",
+      "published_at": "2026-11-11T21:16:51+00:00",
+      "published_raw": "Wed, 11 Nov 2026 23:16:51 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "Повторні вибухи в Києві пролунали о 01:07. Перед тим КМДА закликала всіх терміново пройти в укриття цивільного захисту через ракетну загрозу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1690,7 +1765,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/sport/1450685-svitolina-muhova-onlajn-translacia-matcu-pidsumkovogo-turniru-wta",
-      "title": "Світоліна — Мухова: онлайн-трансляція матчу Підсумкового турніру WTA",
+      "title": "Еліна Світоліна вирвала вольову перемогу над Муховою в другому матчі Підсумкового турніру: як це було",
       "published_at": "2026-11-11T20:29:31+00:00",
       "published_raw": "Wed, 11 Nov 2026 22:29:31 +0200",
       "fetched_at": "2026-11-11T21:57:12+00:00",
@@ -4893,7 +4968,7 @@
       "published_at": "2026-11-11T18:59:00+00:00",
       "published_raw": "Wed, 11 Nov 2026 20:59:00 +0200",
       "fetched_at": "2026-11-11T21:57:12+00:00",
-      "description": "В російському місті понад 8 годин тривала тривога через атаку безпілотників",
+      "description": "В російському місті понад 8 годин тривала тривога через атаку безпілотників.",
       "categories": [
         "Світ"
       ],
@@ -5310,6 +5385,25 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "56a138f9d16dbbe8",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/life/ukrayina-vigrala-istorichne-zoloto-na-yunackih-olimpijskih-igrah",
+      "title": "Україна виграла історичне \"золото\" на юнацьких Олімпійських іграх",
+      "published_at": "2026-11-11T18:43:00+00:00",
+      "published_raw": "Wed, 11 Nov 2026 20:43:00 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "Україна здобула перше в історії «золото» у дівочому футзалі на юнацькій Олімпіаді",
+      "categories": [
+        "Лайф"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -7774,7 +7868,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/chernihiv/1450235-na-cernigivsini-poprosalisa-z-simoma-zahisnikami-ukraini-pat-z-akih-buli-zniklimi-bezvisti",
-      "title": "На Чернігівщині попрощалися з сімома захисниками України, п'ять з яких були зниклими безвісти",
+      "title": "На Чернігівщині попрощались із сімома захисниками України, п'ятеро з яких вважалися зниклими безвісти",
       "published_at": "2026-11-11T17:50:59+00:00",
       "published_raw": "Wed, 11 Nov 2026 19:50:59 +0200",
       "fetched_at": "2026-11-11T21:57:12+00:00",
@@ -9891,9 +9985,9 @@
       "description": "Рогатинський районний суд визнав винним чоловіка, який під час конфлікту через вивезення речей із будинку приставив викрутку до шиї жінки та погрожував її зарізати. Свої дії він пояснив тим, що захищав доньку, пише КУРС. Як йдеться у вироку, 24 квітня цього року приблизно о 10:30 обвинувачений прийшов до будинку, щоб допомогти своїй доньці перевезти речі. […]",
       "categories": [
         "Суспільство",
+        "погрози",
         "вирок",
-        "судова хроніка",
-        "погрози"
+        "судова хроніка"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -25520,9 +25614,9 @@
       "categories": [
         "Суспільство",
         "Спорт",
+        "дизайн",
         "футбол",
-        "збірна України",
-        "дизайн"
+        "збірна України"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -43218,6 +43312,25 @@
       "status": "new"
     },
     {
+      "id": "885d298be939111e",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/vodopostachannya-v-izyumi-teper-bude-zdijsnyuvatisya-za-grafikom-sho-vidomo-pro-ce",
+      "title": "Водопостачання в Ізюмі тепер буде здійснюватися за графіком: що відомо про це ?",
+      "published_at": "2026-11-11T06:35:00+00:00",
+      "published_raw": "Wed, 11 Nov 2026 08:35:00 +0200",
+      "fetched_at": "2026-11-12T02:58:40+00:00",
+      "description": "Так як у електромережі знизилася напруга, водопостачання в Ізюмі тепер буде здійснюватися за графіком",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "94f28f166152334b",
       "source_id": "map-586",
       "source": "Вгору",
@@ -48648,6 +48761,12 @@
       "fetched": 1885,
       "added": 884,
       "errors": 3
+    },
+    {
+      "at": "2026-11-12T02:58:40+00:00",
+      "fetched": 1777,
+      "added": 6,
+      "errors": 5
     }
   ]
 }
