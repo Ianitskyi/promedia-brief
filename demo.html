@@ -28,6 +28,7 @@ audio{width:100%;margin:8px 0}.facts{display:flex;flex-wrap:wrap;gap:7px;margin-
 .seg{padding:12px 0;border-bottom:1px solid var(--line)}.seg:last-child{border:0}.seg .kind{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);font-weight:800}
 .seg p{margin:6px 0}.src a{font-size:12px;color:var(--muted)}select{font:inherit;padding:10px;border-radius:12px;border:1px solid var(--line);background:#fff;width:100%}
 </style>
+<link rel="stylesheet" href="/analytics-consent.css">
 </head>
 <body><main class="app">
 <a class="brand" href="./">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a>
@@ -64,5 +65,6 @@ async function show(file){
   }catch(e){document.getElementById('player').innerHTML='<p class="muted">Демо-випуск ще не створено.</p>'}
 })();
 </script>
+<script defer src="/analytics-consent.js"></script>
 </body>
 </html>
