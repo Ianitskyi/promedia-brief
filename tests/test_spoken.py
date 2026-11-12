@@ -141,6 +141,7 @@ def test_daily_edition_replaces_the_one_player(root, cli, monkeypatch):
     (root / "editions" / DATE / "render-daily.json").write_text(json.dumps(m))
     (root / "demo").mkdir(exist_ok=True)
     (root / "demo" / "2026-10-19-daily.mp3").write_bytes(b"old")
+    (root / "demo" / "2026-10-19-daily").mkdir()
     (root / "demo" / "2026-10-29-demo-elevenlabs.json").write_text("{}")
     featured.feature(DATE)
     idx = json.loads((root / "demo" / "index.json").read_text())
@@ -148,4 +149,8 @@ def test_daily_edition_replaces_the_one_player(root, cli, monkeypatch):
     d = json.loads((root / idx["demos"][0]["file"]).read_text())
     assert (root / d["audio"]).exists() and d["segments"][0]["kind"] == "intro" and d["asr_mean_cer"] == 0.05
     assert not (root / "demo" / "2026-10-19-daily.mp3").exists()  # yesterday's daily audio is gone
+    assert not (root / "demo" / "2026-10-19-daily").exists()
+    stories = [x for x in d["segments"] if x["kind"] == "story"]
+    assert all((root / x["audio"]).is_file() and x["duration_sec"] > 0 for x in d["segments"])
+    assert stories[0]["topics"] and "regions" in stories[0]  # the site orders stories by these
     assert (root / "demo" / "2026-10-29-demo-elevenlabs.json").exists()  # hand-made demos stay

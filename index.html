@@ -29,7 +29,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 
 <section id="home" class="screen active">
 <div class="hero"><h1>Все важливе.<br>За 5 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у щоденному аудіовипуску.</p></div>
-<div class="audio" id="demoCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="demoEyebrow">BRIEF · аудіовипуск</div><h2 style="margin-top:8px" id="demoTitle">Демо-випуск</h2><audio id="demoPlayer" controls preload="metadata" style="width:100%;margin-top:6px"></audio><div class="tiny" style="color:#aaa;margin-top:8px"><span id="demoMeta"></span> · <a href="demo.html" style="color:#fff">текст і джерела →</a></div></div>
+<div class="audio" id="demoCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="demoEyebrow">BRIEF · аудіовипуск</div><h2 style="margin-top:8px" id="demoTitle">Демо-випуск</h2><audio id="demoPlayer" controls preload="metadata" style="width:100%;margin-top:6px"></audio><div id="demoNav" style="display:none;margin-top:8px"><div class="tiny" style="color:#ddd" id="demoNow"></div><div class="audio-row" style="margin-top:8px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="demoStep(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="demoStep(1)">Наступний ⏭</button></div></div><div class="tiny" style="color:#aaa;margin-top:8px"><span id="demoMeta"></span> · <a href="demo.html" style="color:#fff">текст і джерела →</a></div></div>
 <!-- daily automatic edition: hidden on the home page (owner, 2026-10-22); its player still serves the «Бриф» tab -->
 <div class="audio" id="dailyCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="editionDate">завантаження…</div><h2 style="margin-top:8px" id="nowTitle">Випуск BRIEF</h2><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn" aria-label="Відтворити або призупинити">▶</button><div><b id="storyCount">—</b><div class="tiny" style="color:#aaa" id="audioStatus">—</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div>
 <div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
@@ -39,10 +39,10 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 </section>
 
 <section id="topics" class="screen">
-<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Натискайте на тему, щоб змінити її вагу: ★ — цікаво, ★★ — важливо, ★★★ — найважливіше. Що більше зірок, то раніше звучить тема. Найважливіші новини дня звучать завжди, незалежно від вибору.</p>
+<div class="eyebrow">Персоналізація</div><h1 style="font-size:34px">Що для вас важливо?</h1><p class="muted">Натискайте на тему, щоб змінити її вагу: ★ — цікаво, ★★ — важливо, ★★★ — найважливіше. Що більше зірок, то раніше звучить тема. Дві головні новини дня звучать завжди й першими, незалежно від вибору.</p>
 <div class="grid" id="topicGrid"></div>
 <div class="card"><div class="eyebrow">Ваш регіон</div><select id="regionSelect" style="width:100%;margin-top:10px;padding:12px;border-radius:12px;border:1px solid var(--line);font:inherit"></select><p class="tiny" id="regionNote" style="margin-bottom:0"></p></div>
-<label class="tiny" style="display:block;margin:8px 0 14px"><input type="checkbox" id="shortMode"> Коротший випуск: лише теми із зірками + обов'язкові новини</label>
+<label class="tiny" style="display:block;margin:8px 0 14px"><input type="checkbox" id="shortMode"> Коротший випуск: лише головні новини дня і новини ваших тем та регіону</label>
 <button class="primary" onclick="savePrefs()">Зберегти й слухати</button>
 </section>
 
@@ -87,22 +87,27 @@ function renderTopics(){
   TOPICS.forEach(t=>{const w=weightOf(t);const b=document.createElement('button');b.className='topic '+(w?'active':'');b.style.opacity=w?String(0.55+0.15*w):'';b.setAttribute('aria-label',`${t}: ${LEVELS[w]}`);b.innerHTML=`<b>${esc(t)}</b><span class="stars">${LEVELS[w]}</span>`;b.onclick=()=>{weights[t]=(w+1)%4;renderTopics()};g.appendChild(b)});
   document.getElementById('shortMode').checked=shortMode;
 }
+let REGIONS=[];
 function renderRegions(){
   const sel=document.getElementById('regionSelect');
-  const regs=(edition&&edition.regions)||[];
-  sel.innerHTML=`<option value="">Огляд регіонів (вся Україна)</option>`+regs.map(r=>`<option value="${esc(r.id)}" ${r.id===region?'selected':''}>${esc(r.name)}</option>`).join('');
-  document.getElementById('regionNote').textContent=regs.length?'Пілотні регіони з окремим блоком новин. Інші регіони звучать в огляді.':'Регіональні блоки з’являться в наступних випусках.';
+  sel.innerHTML=`<option value="">Уся Україна</option>`+REGIONS.map(r=>`<option value="${esc(r.id)}" ${r.id===region?'selected':''}>${esc(r.name)}</option>`).join('');
+  document.getElementById('regionNote').textContent='Новини з вашого регіону звучать одразу після головних новин дня — якщо вони є в сьогоднішньому випуску.';
+}
+async function loadRegions(){
+  try{REGIONS=(await (await fetch('config/regions.json',{cache:'no-store'})).json()).regions.map(r=>({id:r.id,name:r.name}))}catch(e){}
+  renderRegions(); summary();
 }
 function summary(){
-  const regs=(edition&&edition.regions)||[];const r=regs.find(x=>x.id===region);
+  const r=REGIONS.find(x=>x.id===region);
   const top=TOPICS.filter(t=>weightOf(t)).sort((a,b)=>weightOf(b)-weightOf(a));
-  document.getElementById('prefsSummary').textContent=[top.slice(0,3).join(', ')||'Усі теми', r?r.name:'Огляд регіонів'].join(' · ');
+  document.getElementById('prefsSummary').textContent=[top.slice(0,3).join(', ')||'Усі теми', r?r.name:'Уся Україна'].join(' · ');
   document.getElementById('topicCount').textContent=top.length+' тем';
 }
 function savePrefs(){
   region=document.getElementById('regionSelect').value; shortMode=document.getElementById('shortMode').checked;
   store.set('brief-topic-weights',weights); store.set('brief-region',region); store.set('brief-short',shortMode);
-  go('home');
+  store.set('brief-prefs-saved',true); summary(); go('home');
+  if(featured){setDemo(featured, true); if(demoList.length&&dp.paused) dp.play().catch(()=>{})}
 }
 
 // Personalisation without per-user TTS: one rendered edition, segments re-ordered per listener.
@@ -200,20 +205,58 @@ async function loadSources(){
   }catch(e){}
 }
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
-renderTopics(); loadSources();
-// Demo edition (studio voice) on the home screen; only one player plays at a time.
+renderTopics(); loadSources(); loadRegions();
+// The featured edition (demo/index.json) in the one player on the home screen.
+// A daily edition comes as separate stories: they play in the listener's order — the day's two
+// top stories first, then stories of their region and starred topics, then the rest
+// (left out in the short mode). One rendered edition for everyone, no per-user voicing.
+let featured=null, demoList=[], demoIdx=0;
+const dp=document.getElementById('demoPlayer');
+function personalOrder(d){
+  const segs=d.segments, stories=segs.filter(s=>s.kind==='story');
+  const w=s=>Math.max(0,...(s.topics||[]).map(weightOf))+(region&&(s.regions||[]).includes(region)?4:0);
+  const rest=[...stories.slice(2)].sort((a,b)=>w(b)-w(a));  // stable: equal weight keeps the editorial order
+  const picked=shortMode?rest.filter(s=>w(s)>0):rest;
+  const sonic=d.sonic||{};
+  return [sonic.intro&&{audio:sonic.intro,kind:'sound'}, ...segs.filter(s=>s.kind==='intro'), ...stories.slice(0,2), ...picked,
+          ...segs.filter(s=>s.kind==='outro'), sonic.outro&&{audio:sonic.outro,kind:'sound'}].filter(Boolean);
+}
+function demoLoad(i){
+  demoIdx=Math.max(0,Math.min(i,demoList.length-1));const p=demoList[demoIdx];
+  dp.src=p.audio+'?v='+encodeURIComponent(featured.script_sha256||featured.date);
+  const stories=demoList.filter(x=>x.kind==='story'), n=stories.indexOf(p)+1;
+  document.getElementById('demoNow').textContent=p.kind==='story'?`Новина ${n} з ${stories.length}: ${p.title||''}`:(p.kind==='outro'?'Завершення':'Вступ');
+}
+function demoStep(d){if(!demoList.length)return;const playing=!dp.paused;demoLoad(demoIdx+d);if(playing)dp.play()}
+dp.addEventListener('ended',()=>{if(demoList.length&&demoIdx<demoList.length-1){demoLoad(demoIdx+1);dp.play()}else if(demoList.length){demoLoad(0)}});
+function setDemo(d, keepPosition){
+  const [y,m,dd]=d.date.split('-');
+  document.getElementById('demoTitle').textContent=`Випуск за ${dd}.${m}.${y}`;
+  document.getElementById('demoEyebrow').textContent=d.variant==='daily'?'BRIEF · щоденний випуск':'BRIEF · тестовий аудіовипуск';
+  let sec=d.duration_sec, extra='';
+  if(d.segments.length&&d.segments.every(s=>s.audio)){
+    const current=demoList[demoIdx], wasPlaying=!dp.paused;
+    demoList=personalOrder(d);
+    sec=demoList.reduce((a,p)=>a+(p.duration_sec||0),0)+8;
+    const personal=store.get('brief-prefs-saved',false)&&(TOPICS.some(t=>weightOf(t))||region);
+    extra=personal?' · у порядку ваших тем і регіону':'';
+    document.getElementById('demoNav').style.display='';
+    // after new settings: keep playing the same story if it is still in the list, else start over
+    const at=keepPosition&&current?demoList.indexOf(current):-1;
+    demoLoad(at>=0?at:0); if(wasPlaying) dp.play();
+  }else{
+    demoList=[];
+    dp.src=d.audio+'?v='+encodeURIComponent(d.script_sha256||d.date)+'-female108';
+  }
+  document.getElementById('demoMeta').textContent=`${Math.max(1,Math.round(sec/60))} хв${d.provider==='elevenlabs'?' · озвучення ElevenLabs':''}${extra}`;
+  document.getElementById('demoCard').style.display='';
+}
 (async()=>{
   try{
     const idx=await (await fetch('demo/index.json',{cache:'no-store'})).json();
     if(!idx.demos||!idx.demos.length) return;
-    const d=await (await fetch(idx.demos[0].file,{cache:'no-store'})).json();
-    const [y,m,dd]=d.date.split('-');
-    const dp=document.getElementById('demoPlayer');
-    dp.src=d.audio+'?v='+encodeURIComponent(d.script_sha256||d.date)+'-female108';
-    document.getElementById('demoTitle').textContent=`Випуск за ${dd}.${m}.${y}`;
-    document.getElementById('demoEyebrow').textContent=d.variant==='daily'?'BRIEF · щоденний випуск':'BRIEF · тестовий аудіовипуск';
-    document.getElementById('demoMeta').textContent=`${Math.round(d.duration_sec/60)} хв${d.provider==='elevenlabs'?' · озвучення ElevenLabs':''}`;
-    document.getElementById('demoCard').style.display='';
+    featured=await (await fetch(idx.demos[0].file,{cache:'no-store'})).json();
+    setDemo(featured,false);
     dp.addEventListener('play',()=>{const p=document.getElementById('player');if(p&&!p.paused){p.pause();if(typeof updatePlay==='function')updatePlay()}});
     document.getElementById('player').addEventListener('play',()=>dp.pause());
   }catch(e){}

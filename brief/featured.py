@@ -34,6 +34,25 @@ def feature(date, variant=SUFFIX, require_asr=True):
     name = f"{date}-{SUFFIX}"
     DEMO.mkdir(exist_ok=True)
     shutil.copyfile(ROOT / render["full"]["file"], DEMO / f"{name}.mp3")
+    # Each segment's audio too: the site plays them in the listener's order (topics, region).
+    parts = DEMO / name
+    shutil.rmtree(parts, ignore_errors=True)
+    parts.mkdir()
+    audio = {}
+    for r in render["segments"]:
+        shutil.copyfile(ROOT / r["file"], parts / f"{r['id']}.mp3")
+        audio[r["id"]] = {"audio": f"demo/{name}/{r['id']}.mp3", "duration_sec": r["duration_sec"]}
+    if set(audio) != {seg["id"] for seg in spoken["segments"] if seg["sentences"]}:
+        raise FeatureError("the audio segments do not match the text")
+    approved = {seg["id"]: seg for seg in load_script(date, "approved")["segments"]}
+
+    def about(seg):
+        """Topics and regions of the approved stories a spoken story was made from."""
+        src = [approved[i] for i in seg.get("from_stories", []) if i in approved]
+        topics = list(dict.fromkeys(t for a in src for t in a.get("topics", [])))
+        regions = list(dict.fromkeys(r for a in src for r in a.get("regions", [])))
+        return {"topics": topics, "regions": regions}
+
     retold = spoken["retold"]
     write_json(DEMO / f"{name}.json", {
         "date": date,
@@ -50,14 +69,16 @@ def feature(date, variant=SUFFIX, require_asr=True):
                         "усного мовлення; кожне число, назва й цитата звірені з публікаціями. "
                         "Посилання на першоджерела — під кожним сюжетом."),
         "script_sha256": spoken["script_sha256"],
-        "segments": [{"kind": seg["kind"], "block": seg["block"], "title": seg.get("title"),
+        "sonic": {"intro": "audio/intro.mp3", "outro": "audio/outro.mp3"},
+        "segments": [{"id": seg["id"], "kind": seg["kind"], "block": seg["block"], "title": seg.get("title"),
+                      **audio[seg["id"]], **(about(seg) if seg["kind"] == "story" else {}),
                       "text": [s["text"] for s in seg["sentences"]],
                       "sources": [{"name": x["name"], "url": x["url"]} for x in seg.get("sources", [])]}
                      for seg in spoken["segments"] if seg["sentences"]],
     })
-    for old in DEMO.glob(f"*-{SUFFIX}.*"):  # yesterday's daily edition
-        if not old.name.startswith(name + "."):
-            old.unlink()
+    for old in DEMO.glob(f"*-{SUFFIX}*"):  # yesterday's daily edition: mp3, json and segments
+        if old.name.split(".")[0] != name:
+            shutil.rmtree(old) if old.is_dir() else old.unlink()
     write_json(DEMO / "index.json", {"demos": [{"id": name, "date": date, "variant": SUFFIX,
                                                 "file": f"demo/{name}.json"}]})
     return DEMO / f"{name}.mp3"
