@@ -1,9 +1,299 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T21:33:12+00:00",
-  "source_count": 103,
-  "item_count": 1606,
+  "generated_at": "2026-11-01T19:39:11+00:00",
+  "source_count": 105,
+  "item_count": 1650,
   "items": [
+    {
+      "id": "5e35dee61d752e2c",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777690_golovne_subotu_31_zhovtnya_ataka.html",
+      "title": "Головне за суботу, 31 жовтня: атака дронів на Київ, евакуація з Олешків, 245 боєзіткнень",
+      "published_at": "2026-10-31T21:58:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Бойові дії на Донеччині, 245 бойових зіткнень, ворожі обстріли, Зеленський в Туреччині. Яким запам’ятається 1711-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "65c70d1e69af80e6",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/10/31/777686_mzs_rumuniyi_zayavilo_pro.html",
+      "title": "МЗС Румунії заявило про вторгнення двох дронів у повітряний простір країни",
+      "published_at": "2026-10-31T21:58:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "У дипвідомстві підкреслили необхідність досягнення справедливого миру в Україні.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4926c35374d4afcb",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/10/31/novyna/suspilstvo/domovylysya-prodovzhyty-robotu-ombudsmen-dopustyv-provedennya-novyx-humanitarnyx-misij",
+      "title": "«Домовилися продовжити роботу»: омбудсмен допустив проведення нових гуманітарних місій",
+      "published_at": "2026-10-31T21:56:51+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:56:51 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Дмитро Лубінець домовився з російською омбудсманкою Яною Лантратовою продовжити роботу над гуманітарними місіями для цивільних поблизу фронту.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "37acdf9da9d2c5a7",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1229260.html",
+      "title": "УЧХ надає комплексну гуманітарну підтримку евакуйованим жителям Олешків",
+      "published_at": "2026-10-31T21:53:48+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:53:48 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Український Червоний Хрест (УЧХ) надає комплексну гуманітарну підтримку жителям Олешків, які виїхали із окупованого росією міста на підконтрольну Україні територію.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a8d006d3978530f9",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/najhirshij-den-ukrajini-armija-ssha-hotuje-shi-do-majbutnoji-velikoji-vijni.html",
+      "title": "«Найгірший день України»: армія США готує ШІ до майбутньої великої війни",
+      "published_at": "2026-10-31T21:53:38+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:53:38 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Військові США в Європі готуються до масованих атак за українським сценарієм.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "af07f8795246ff26",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/other-sport/hit-i-atletik-futzal-vpershe-razom-u-pley-of-ligi-chempioniv-rezultati-grup-50655206.html",
+      "title": "Уперше в історії два клуби з України вийшли у плей-оф Ліги чемпіонів із футзалу",
+      "published_at": "2026-10-31T21:51:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:51:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Київський ХІТ та дніпровський Атлетік Футзал зіграють у плей-оф Ліги чемпіонів.",
+      "categories": [
+        "Спорт/Інше"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dc647ec39b5288a2",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4180134-zelenskij-podakuvav-melanii-tramp-za-poserednictvo-u-pripinenni-vognu-v-oleskah.html",
+      "title": "Зеленський подякував Меланії Трамп за посередництво у припиненні вогню в Олешках",
+      "published_at": "2026-10-31T21:51:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:51:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Президент Володимир Зеленський висловив вдячність першій леді США Меланії Трамп за посередництво в організації припинення вогню в тимчасово окупованих Олешках і заявив, що Україна підтримуватиме продовження цієї ініціативи.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0706dd4910ef1f07",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777688_rosiyani_aviaudarom_znischili.html",
+      "title": "Росіяни авіаударом знищили будівлю міськради у Краматорську",
+      "published_at": "2026-10-31T21:49:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:49:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Будівля виконкому міськради пережила штурми та окупацію у 2014 році, проте була знищена російською авіабомбою.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f0920f25a2bd5512",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/viyna/273559-katehorychno-proty-u-polku-aydar-zaklykaly-zelenskoho-ta-drapatoho-ne-zvilniaty-komandyra-oleksandra-kovalenka",
+      "title": "«Категорично проти». У полку «Айдар» закликали Зеленського та Драпатого не звільняти командира Олександра Коваленка",
+      "published_at": "2026-10-31T21:48:00+00:00",
+      "published_raw": "2026-10-31T23:48:00+02:00",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f4141d11b5018021",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/samit-g20-u-mayami-zaproshennya-zelenskogo-zalezhit-vid-rishennya-trampa-povidomiv-rubio-50655208.html",
+      "title": "Рішення про запрошення Зеленського на саміт G20 в Маямі в грудні 2026-го прийматиме Трамп — Рубіо",
+      "published_at": "2026-10-31T21:48:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Державний секретар США Марко Рубіо заявив, що рішення про запрошення президента України Володимира Зеленського на саміт G20 (Великої двадцятки) у Маямі у грудні 2026 року має прийняти особисто президент США Дональд Трамп.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fddaa0c74d5d600a",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/article/net-kadastrovogo-nomera-ili-poteryan-gosudarstvennyj-akt-kak-unasledovat-zemlyu",
+      "title": "Нет кадастрового номера или потерян государственный акт: как унаследовать землю",
+      "published_at": "2026-10-31T21:47:13+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:47:13 +0000",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Старый государственный акт не внесен в реестр, сертификат на пай потерялся, нотариус не может оформить наследство. Однако это не всегда означает, что земля потеряна. Юрист Виктория Гусакова объясняет, где искать подтверждение права собственности, как восстановить документы и в каких случаях придется обращаться в суд. Сообщение Нет кадастрового номера или потерян государственный акт: как унаследовать землю появились сначала на Одеське життя .",
+      "categories": [
+        "По полочкам",
+        "Статьи",
+        "права человека"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4abddb18a0221b0d",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/crime/2026/mikolaivtsia-zvinuvatili-u-shpigunstvi-na-korist-rf",
+      "title": "Миколаївця звинуватили у шпигунстві на користь рф",
+      "published_at": "2026-10-31T21:44:05+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:44:05 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Суд у Миколаєві взяв під варту чоловіка, якого підозрюють у державній зраді. За версією слідства, він передавав представнику рф інформацію про об’єкти критичної інфраструктури міста та розташування українських військових",
+      "categories": [
+        "ЗСУ",
+        "Миколаїв",
+        "державна зрада",
+        "суд"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e4bcbe45eb692b97",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/u-dnipri-legkovyk-zitknuvsya-z-vantazhivkoyu-zagynuly-chetvero-lyudej",
+      "title": "У Дніпрі легковик зіткнувся з вантажівкою: загинули четверо людей",
+      "published_at": "2026-10-31T21:42:04+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:42:04 +0000",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "У Дніпрі внаслідок зіткнення легкового автомобіля Hyundai з вантажівкою DAF загинули четверо людей, серед них одна дитина. Запис У Дніпрі легковик зіткнувся з вантажівкою: загинули четверо людей спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Дніпро",
+        "дорожньо-транспортна пригода",
+        "ДТП",
+        "загиблі в ДТП"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e089a19fef77a3f8",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/10/31/777684_dnipri_vnaslidok_zitknennya.html",
+      "title": "У Дніпрі внаслідок зіткнення легковика з вантажівкою загинули четверо людей, серед них дитина",
+      "published_at": "2026-10-31T21:39:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:39:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "На місці ДТП працювали рятувальники.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1019058bf693bc2e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/sevrskiy-protokol-1956-yak-britaniya-spalila-tayemnu-ugodu-z-izrajilem-i-franciyeyu-pro-napad-na-yegipet-50654593.html",
+      "title": "Таємна угода трьох. Як Британія намагалась знищити докази свого союзу з Ізраїлем і Францією проти Єгипту під час Суецької кризи",
+      "published_at": "2026-10-31T21:34:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:34:00 +0200",
+      "fetched_at": "2026-10-31T17:43:03+00:00",
+      "description": "У жовтні 1956 року представники трьох держав підписали під Парижем Севрський протокол – таємну угоду про напад на Єгипет. Коли прем’єр Великобританії Ентоні Іден побачив підпис свого представника на документі, він наказав знищити усі примірники. Адже це мала бути секретна усна домовленість.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "785744b05a57f685",
       "source_id": "map-875",
@@ -138,6 +428,27 @@
       "status": "new"
     },
     {
+      "id": "48bd9290459ef423",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-arhentyna-bank-galici-rahunky-hromadian-rosii/33888078.html",
+      "title": "Аргентинський банк Galicia почав блокувати рахунки громадян Росії",
+      "published_at": "2026-10-31T21:27:52+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:27:52 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "«Їм дозволяють знімати якісь мінімальні суми. Але офіційно нічого не говорять»",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини",
+        "Новини | Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "344ef57609ecdc24",
       "source_id": "map-940",
       "source": "Букви",
@@ -206,12 +517,31 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/UKRAINE/shtilerman-pro-raketu-fp-7-projshla-bojove-zastosuvannja-ale-nemaje-sensu-jiji-vikoristannja-z-oskolkovo-fuhasnoju-bch.html",
       "title": "Штілерман про ракету FP-7: пройшла бойове застосування, але немає сенсу її використання з осколково-фугасною БЧ",
-      "published_at": "2026-10-31T21:19:28+00:00",
-      "published_raw": "Sat, 31 Oct 2026 23:19:28 +0200",
+      "published_at": "2026-10-31T21:19:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:19:00 +0200",
       "fetched_at": "2026-10-31T21:33:12+00:00",
       "description": "",
       "categories": [
         "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a270fd34243d8608",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataki-rosiyskih-shahidiv-na-ukrajinu-flesh-rozpoviv-pro-masovani-ataki-za-hmarnoji-pogodi-50655205.html",
+      "title": "Флеш пояснив, чому окупанти знову почали запускати для атак по Україні десятки бензинових шахедів",
+      "published_at": "2026-10-31T21:18:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 23:18:00 +0200",
+      "fetched_at": "2026-11-01T01:09:04+00:00",
+      "description": "Через те, що в ніч з 31 жовтня на 1 листопада над Україною спостерігається суцільна хмарність, російські окупанти для масових атак використовують багато дронів-шахедів з бензиновим двигуном.",
+      "categories": [
+        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -451,7 +781,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://radiosvoboda.org/a/news-zelensky-zustrich-patriarh-varfolomiy/33888076.html",
-      "title": "Зеленський зустрівся із вселенським патріархом Варфоломієм",
+      "title": "Зеленський зустрівся із Вселенським патріархом Варфоломієм",
       "published_at": "2026-10-31T21:00:35+00:00",
       "published_raw": "Sat, 31 Oct 2026 23:00:35 +0200",
       "fetched_at": "2026-10-31T21:33:12+00:00",
@@ -969,6 +1299,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "74d65370c32f303d",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/polk_aydar_zaklikav_zelenskogo_ta_drapatogo_ne_zvilnyati_geroya_ukrayini_z_posadi_komandira_n1649128",
+      "title": "Полк «Айдар» закликав Зеленського та Драпатого не звільняти Героя України з посади командира",
+      "published_at": "2026-10-31T20:31:00+00:00",
+      "published_raw": "2026-10-31T20:31:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Полк «Айдар» закликав Зеленського та Драпатого не звільняти Героя України з посади командира]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1523,6 +1870,23 @@
       "status": "new"
     },
     {
+      "id": "79edb5f8b44c4001",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/marko_rubio_dopustiv_zaproshennya_volodimira_zelenskogo_na_samit_g20_u_mayami_n1649127",
+      "title": "Марко Рубіо допустив запрошення Володимира Зеленського на саміт G20 у Маямі",
+      "published_at": "2026-10-31T19:54:40+00:00",
+      "published_raw": "2026-10-31T19:54:40Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Марко Рубіо допустив запрошення Володимира Зеленського на саміт G20 у Маямі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4a8408917ab6b0ec",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1834,6 +2198,25 @@
       "description": "Зеленський раніше сподівався, що зустріч відбудеться в Абу-Дабі між 6 і 10 листопада",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c6c168e7e3e83a01",
+      "source_id": "map-694",
+      "source": "С4",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://c4.com.ua/novyny/pid-chas-vechirnoi-rosijskoi-ataki-povitryanij-prostir-bukovini-porushiv-vorozhij-bezpilotnik",
+      "title": "Під час вечірньої російської атаки повітряний простір Буковини порушив ворожий безпілотник",
+      "published_at": "2026-10-31T19:34:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:34:00 +0200",
+      "fetched_at": "2026-11-01T07:31:37+00:00",
+      "description": "Під час чергової атаки ввечері 31 жовтня повітряний простір над Чернівецькою областю порушив один ворожий безпілотник. Про це повідомив начальник Чернівецької обласної військової адміністрації, пише С4. За його словами, під час обстеження території профільними службами його уламки знайшли на відкритій місцевості однієї з громад Чернівецького району. «Постраждалих, загиблих та руйнувань не зафіксовано», — уточнив Осипенко […]",
+      "categories": [
+        "Міські новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -2462,6 +2845,25 @@
       "status": "new"
     },
     {
+      "id": "9faba5c046e819ee",
+      "source_id": "map-302",
+      "source": "18000",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://18000.com.ua/strichka-novin/velesova-nich-ta-didi-cherkaska-naukovicya-rozpovila-shho-ranishe-svyatkuvali-zamist-gelovinuu",
+      "title": "Велесова ніч та Діди: як раніше споминали предків замість Геловіну",
+      "published_at": "2026-10-31T19:00:53+00:00",
+      "published_raw": "Sat, 31 Oct 2026 21:00:53 +0200",
+      "fetched_at": "2026-10-31T12:28:13+00:00",
+      "description": "Велесова ніч є наслідуванням різних давніх обрядів і сучасним витвором. Пориньте у містичний світ!",
+      "categories": [
+        "Публікації"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c7be051f0b0cff76",
       "source_id": "map-1142",
       "source": "20 хвилин. Тернопіль",
@@ -2799,6 +3201,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb5f03812dded14c",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/prezident_finlyandiyi_peredav_putinu_signal_vid_zelenskogo_shhodo_teritorialnogo_pitannya_n1649126",
+      "title": "Президент Фінляндії передав Путіну сигнал від Зеленського щодо територіального питання",
+      "published_at": "2026-10-31T18:43:00+00:00",
+      "published_raw": "2026-10-31T18:43:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Президент Фінляндії передав Путіну сигнал від Зеленського щодо територіального питання]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4513,6 +4932,23 @@
       "status": "new"
     },
     {
+      "id": "12f87a9fc50db9d3",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/lvivskogo_provokatora_ostapa_stahiva_zatrimali_na_vulitsi__n1649123",
+      "title": "Група оповіщення ТЦК з поліцією затримали львівського провокатора Остапа Стахіва",
+      "published_at": "2026-10-31T17:40:00+00:00",
+      "published_raw": "2026-10-31T17:40:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Група оповіщення ТЦК з поліцією затримали львівського провокатора Остапа Стахіва]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0357d8768bf50f4b",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -4800,6 +5236,23 @@
       "status": "new"
     },
     {
+      "id": "23554a94228d658b",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_lvovi_zapalili_sotni_lampadok_na_mogilah_poleglih_geroyiv_foto_dnya_n1649125",
+      "title": "У Львові запалили сотні лампадок на могилах полеглих Героїв. Фото дня",
+      "published_at": "2026-10-31T17:28:58+00:00",
+      "published_raw": "2026-10-31T17:28:58Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У Львові запалили сотні лампадок на могилах полеглих Героїв. Фото дня ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "94f12d6a149e2cd7",
       "source_id": "map-664",
       "source": "Курс",
@@ -5066,6 +5519,23 @@
       "status": "new"
     },
     {
+      "id": "e5094698241fd2bd",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/volodimir_zelenskiy_ta_tayip_erdogan_spilno_pratsyuvatimut_nad_zernovim_koridorom_u_chornomu_mori_n1649124",
+      "title": "Зеленський та Ердоган домовилися спільно працювати над зерновим коридором у Чорному морі",
+      "published_at": "2026-10-31T17:18:00+00:00",
+      "published_raw": "2026-10-31T17:18:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Зеленський та Ердоган домовилися спільно працювати над зерновим коридором у Чорному морі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2571e0dc1a601ed9",
       "source_id": "map-302",
       "source": "18000",
@@ -5110,14 +5580,14 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/ti-dosi-nie-mozhiesh-spati-proidi-kviest-za-motivami-nierozkritogho-zlochinu-na-poltavshchini",
-      "title": "You Still Can't Sleep: Take an Interactive Halloween Quest Based on an Unsolved Crime in Poltava Region",
+      "title": "Ти досі не можеш спати: пройди квест за мотивами нерозкритого злочину на Полтавщині",
       "published_at": "2026-10-31T17:16:28+00:00",
       "published_raw": "Sat, 31 Oct 2026 17:16:28 GMT",
       "fetched_at": "2026-10-31T17:43:03+00:00",
-      "description": "For almost twenty years, you have crossed out the same night in your diary. This Halloween, an interactive quest asks whether you will stay silent or finally tell what you saw.",
+      "description": "Інтерактивний квест «Полтавської хвилі» за мотивами реальної нерозкритої справи з Полтавщини. Одна безсонна ніч, складні вибори і чотири фінали.",
       "categories": [
-        "Кримінал",
-        "Текст"
+        "Історія",
+        "Тексти"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -5202,9 +5672,9 @@
       "categories": [
         "Суспільство",
         "Культура",
-        "виставка",
         "Краєзнавчий музей",
-        "війна"
+        "війна",
+        "виставка"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6944,6 +7414,23 @@
       "status": "new"
     },
     {
+      "id": "22f0fa3da12cf28e",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sili_ppo_zbili_udarniy_bezpilotnik_na_lvivshhini_n1649122",
+      "title": "Сили ППО збили ударний безпілотник на Львівщині",
+      "published_at": "2026-10-31T16:28:07+00:00",
+      "published_raw": "2026-10-31T16:28:07Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Сили ППО збили ударний безпілотник на Львівщині]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "094158a82d9bcc0c",
       "source_id": "map-586",
       "source": "Вгору",
@@ -7235,6 +7722,29 @@
       "status": "new"
     },
     {
+      "id": "b05d120b7e77e247",
+      "source_id": "map-1154",
+      "source": "Bilozerka.info",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://bilozerka.info/z-kozhnym-obminom-ya-vmyrala-i-narodzhuvalasya-znovu-istoriya-morpiha-andriya-posunka-ta-jogo-mamy-yaka-dochekalasya-syna-z-polonu",
+      "title": "“З кожним обміном я вмирала і народжувалася знову”: історія морпіха Андрія Посунька та його мами, яка дочекалася сина з полону",
+      "published_at": "2026-10-31T16:18:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 16:18:00 +0000",
+      "fetched_at": "2026-11-01T19:39:11+00:00",
+      "description": "Понад чотири роки Андрій Посунько провів у російському полоні. Ворожа сторона не підтверджувала, що він перебуває в неволі, тож офіційно захисник вважався зниклим безвісти. The post “З кожним обміном я вмирала і народжувалася знову”: історія морпіха Андрія Посунька та його мами, яка дочекалася сина з полону first appeared on Білозерка.info .",
+      "categories": [
+        "Спецпроекти",
+        "Андрій Посунько",
+        "війна Росії проти України",
+        "військовополонений",
+        "ЗСУ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "79cb8aca9afad69c",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -7269,6 +7779,23 @@
         "Війна росії проти України",
         "Україна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3e294187e876dde8",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/ministr_mzs_velikoyi_britaniyi_publichno_priniziv_lavrova_na_samiti_u_ssha_n1649121",
+      "title": "Очільник МЗС Великої Британії публічно принизив Сєргєя Лаврова на саміті у США",
+      "published_at": "2026-10-31T16:16:00+00:00",
+      "published_raw": "2026-10-31T16:16:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Очільник МЗС Великої Британії публічно принизив Сєргєя Лаврова на саміті у США]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8894,6 +9421,23 @@
       "status": "new"
     },
     {
+      "id": "395fb523333c4d35",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/kapitan_alyansu_zi_lvova_stav_pershim_gravtsem_komandi_yakogo_viklikano_do_zbirnoyi_z_futzalu_n1649120",
+      "title": "Капітан «Альянсу» зі Львова стане першим гравцем команди, що зіграє за збірну України з футзалу",
+      "published_at": "2026-10-31T15:31:00+00:00",
+      "published_raw": "2026-10-31T15:31:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Капітан «Альянсу» зі Львова стане першим гравцем команди, що зіграє за збірну України з футзалу]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e2cf2ecb6fa2297c",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -9527,7 +10071,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/pivnichna-ameryka/273543-sud-u-ssha-zaboronyv-administratsiyi-trampa-tysk-na-chleniv-vyborchykh-komisiy",
-      "title": "Суд у США заборонив адміністрації Трампа тиск на членів виборчих комісій",
+      "title": "Суд у США заборонив адміністрації Трампа чинити тиск на членів виборчих комісій",
       "published_at": "2026-10-31T15:11:00+00:00",
       "published_raw": "2026-10-31T17:11:00+02:00",
       "fetched_at": "2026-10-31T17:43:03+00:00",
@@ -10354,6 +10898,23 @@
       "status": "new"
     },
     {
+      "id": "d756835a6f2f1e56",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_seli_na_prikarpatti_rozsliduyut_narugu_nad_desyatkami_mogil_viyskovih_n1649119",
+      "title": "У селі на Прикарпатті розслідують наругу над десятками могил військових",
+      "published_at": "2026-10-31T14:50:24+00:00",
+      "published_raw": "2026-10-31T14:50:24Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У селі на Прикарпатті розслідують наругу над десятками могил військових]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "47025b4e9b556dcc",
       "source_id": "map-1147",
       "source": "ПІК",
@@ -10809,6 +11370,23 @@
       "categories": [
         "Технології"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "16f1b9ca94701bff",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/poperedu_morozna_nich_yakoyu_bude_pogoda_u_lvovi_ta_oblasti_1_listopada_n1649118",
+      "title": "Попереду морозна ніч: якою буде погода у Львові та області 1 листопада",
+      "published_at": "2026-10-31T14:38:03+00:00",
+      "published_raw": "2026-10-31T14:38:03Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Попереду морозна ніч: якою буде погода у Львові та області 1 листопада]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11547,10 +12125,10 @@
       "description": "30 жовтня реабілітаційний центр «4.5.0 Прикарпаття» зібрав у Калуші друзів, партнерів, ветеранів і представників громадського сектору, щоб відзначити два роки своєї діяльності та розповісти про результати спільної роботи. Також на зустрічі анонсували старт підготовки до збору коштів на будівництво чотирьох модульних будинків для ветеранів, реалізацію якого планують розпочати у 2027 році, пише КУРС. За два […]",
       "categories": [
         "Суспільство",
-        "ветерани",
         "реабілітаційний центр",
         "реабілітація",
-        "Гудвеллі Україна"
+        "Гудвеллі Україна",
+        "ветерани"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12539,25 +13117,6 @@
       "status": "new"
     },
     {
-      "id": "1019058bf693bc2e",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/world/geopolitics/sevrskiy-protokol-1956-yak-britaniya-spalila-tayemnu-ugodu-z-izrajilem-i-franciyeyu-pro-napad-na-yegipet-50654593.html",
-      "title": "Таємна угода трьох. Як Британія намагалась знищити докази свого союзу з Ізраїлем і Францією проти Єгипту під час Суецької кризи",
-      "published_at": "2026-10-31T13:46:00+00:00",
-      "published_raw": "Sat, 31 Oct 2026 15:46:00 +0200",
-      "fetched_at": "2026-10-31T17:43:03+00:00",
-      "description": "У жовтні 1956 року представники трьох держав підписали під Парижем Севрський протокол – таємну угоду про напад на Єгипет. Коли прем’єр Великобританії Ентоні Іден побачив підпис свого представника на документі, він наказав знищити усі примірники. Адже це мала бути секретна усна домовленість.",
-      "categories": [
-        "Світ/Геополітика"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "1afcc70d79b1a61a",
       "source_id": "map-1147",
       "source": "ПІК",
@@ -13522,6 +14081,23 @@
       "status": "new"
     },
     {
+      "id": "b7454bd29bf5f4c2",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/zhiteli_okupovanih_oleshkiv_pribuli_do_ukrayini_n1649117",
+      "title": "Жителі Олешок прибули на неокуповану територію України",
+      "published_at": "2026-10-31T13:15:00+00:00",
+      "published_raw": "2026-10-31T13:15:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Жителі Олешок прибули на неокуповану територію України]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "20eb47c7350bb2c9",
       "source_id": "map-1154",
       "source": "Bilozerka.info",
@@ -14248,6 +14824,23 @@
       "status": "new"
     },
     {
+      "id": "03776f25cf790788",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/deputati_vid_opzzh_u_kiyivradi_aktivnishe_golosuyut_za_zemlyu_ta_byudzhet_nizh_za_derusifikatsiyu_n1649114",
+      "title": "Депутати від ОПЗЖ у Київраді активніше голосують за землю та бюджет, ніж за дерусифікацію",
+      "published_at": "2026-10-31T12:59:00+00:00",
+      "published_raw": "2026-10-31T12:59:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Депутати від ОПЗЖ у Київраді активніше голосують за землю та бюджет, ніж за дерусифікацію]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d1b8c0cdac5ff483",
       "source_id": "map-588",
       "source": "Накипіло",
@@ -14279,6 +14872,26 @@
       "fetched_at": "2026-10-31T17:43:03+00:00",
       "description": "",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f5065a35b8a6307b",
+      "source_id": "map-413",
+      "source": "Полтавська хвиля",
+      "geography": "regional",
+      "source_region": "poltava",
+      "url": "https://poltavawave.com.ua/iak-zhivut-poltavtsi-na-stipiendiiu-piensiiu-ta-minimalnu-zarplatu",
+      "title": "Як живуть полтавці на стипендію, пенсію та мінімальну зарплату",
+      "published_at": "2026-10-31T12:56:06+00:00",
+      "published_raw": "Sat, 31 Oct 2026 12:56:06 GMT",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Історії полтавців, які живуть на стипендію, пенсію та мінімальну зарплату: скільки витрачають на житло, їжу, ліки й на чому змушені економити.",
+      "categories": [
+        "Соціум",
+        "Новини"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15279,6 +15892,23 @@
         "вантажівка",
         "перевищення ваги"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "76161b3fcfb12c1b",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_lvovi_demonstruyut_mistetskiy_proyekt_pro_armiyski_pozivni_n1649116",
+      "title": "У Львові демонструють мистецький проєкт про армійські позивні (фото)",
+      "published_at": "2026-10-31T12:29:44+00:00",
+      "published_raw": "2026-10-31T12:29:44Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ У Львові демонструють мистецький проєкт про армійські позивні]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -16731,6 +17361,23 @@
         "Новини",
         "Статтi"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "28b8f08d7df6df2e",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/pershiy_evakuyovaniy_iz_pozitsiyi_na_bpla_viyskoviy_stav_geroyem_ukrayini_n1649113",
+      "title": "Перший евакуйований із позиції на БпЛА військовий став Героєм України",
+      "published_at": "2026-10-31T11:52:38+00:00",
+      "published_raw": "2026-10-31T11:52:38Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Перший евакуйований із позиції на БпЛА військовий став Героєм України]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -20401,6 +21048,23 @@
       "status": "new"
     },
     {
+      "id": "1eb40d874d449171",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/the_economist_otsiniv_zagalni_vtrati_rosiyi_u_viyni_proti_ukrayini_v_21_mln_viyskovih_n1649112",
+      "title": "The Economist оцінив загальні втрати Росії у війні проти України в 2,1 млн військових",
+      "published_at": "2026-10-31T10:27:18+00:00",
+      "published_raw": "2026-10-31T10:27:18Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ The Economist оцінив загальні втрати Росії у війні проти України в 2,1 млн військових]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7d0544a260eba5e4",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -21917,10 +22581,10 @@
       "description": "30 жовтня 2026 року у Слов’янську внаслідок російських ударів загинули двоє людей. Ще 16 цивільних дістали поранень: дванадцятеро — у Слов’янську та по двоє — у Краматорську та Дружківці.",
       "categories": [
         "Новини",
-        "Новини Лиманської громади",
-        "Новини Дружківської громади",
-        "Новини Краматорської громади",
-        "Новини Слов’янської громади"
+        "Новини Слов’янської громади",
+        "Новини Олександрівської громади",
+        "Новини Костянтинівської громади",
+        "Новини Лиманської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -23009,6 +23673,25 @@
       "status": "new"
     },
     {
+      "id": "bdd2e7db74c7bfb2",
+      "source_id": "map-535",
+      "source": "МОСТ",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://most.ks.ua/news/url/antimikrobne-pokrittja-na-chohlah-spravdi-isnuje",
+      "title": "Антимікробне покриття на чохлах справді існує?",
+      "published_at": "2026-10-31T09:27:53+00:00",
+      "published_raw": "Sat, 31 Oct 2026 09:27:53 +0000",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Смартфон постійно контактує з руками, поверхнями, кишенями та сумками, тому на чохлі накопичуються забруднення й мікроорганізми. Саме тому деякі виробники пропонують моделі з антимікробними властивостями. Тим, хто планує купити чохли для телефону оптом, варто розуміти, як працює така технологія та як відрізнити реальний захист від маркетингового ходу. Що таке антимікробне покриття на чохлах? Антимікробні технології [...] Запис Антимікробне покриття на чохлах справді існує? спершу з'явиться на Мост .",
+      "categories": [
+        "Корисні"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5c355d1c611e5426",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -23408,6 +24091,23 @@
       "status": "new"
     },
     {
+      "id": "c6bc30d3ea3cd61a",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/litaki_z_evakuyovanimi_zhitelyami_oleshkiv_pribuli_do_bilorusi_n1649111",
+      "title": "Літаки з евакуйованими жителями Олешків прибули до Білорусі",
+      "published_at": "2026-10-31T09:16:01+00:00",
+      "published_raw": "2026-10-31T09:16:01Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Літаки з евакуйованими жителями Олешків прибули до Білорусі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4e68e09b94118f3d",
       "source_id": "map-99",
       "source": "Дивись.info",
@@ -23649,6 +24349,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "a7f373c69d6ec906",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/shokoladne_pechivo_na_mineralniy_vodi_yak_prigotuvati_pokrokoviy_retsept_n1649057",
+      "title": "Шоколадне печиво на мінеральній воді. Рецепт дня",
+      "published_at": "2026-10-31T09:05:00+00:00",
+      "published_raw": "2026-10-31T09:05:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Шоколадне печиво на мінеральній воді. Рецепт дня]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -24525,6 +25242,25 @@
       "status": "new"
     },
     {
+      "id": "d96dad4ee1576f99",
+      "source_id": "tyzhden",
+      "source": "Український тиждень",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://tyzhden.ua/metelyk",
+      "title": "Метелик",
+      "published_at": "2026-10-31T08:40:19+00:00",
+      "published_raw": "Sat, 31 Oct 2026 08:40:19 +0000",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "Проглянув декілька перекладів лауреатки Карсон. Можливо, вади перекладу, але не думаю, що тільки: ні в тому, ні в іншому поезії майже нема. Мертва писанина на основі холодного, невистражданого, неживого, книжного досвіду, в якому нема Любові, того головного, що повинне гріти читача. Розширювати його горизонт життєвого досвіду. Для чого й існує жанр літератури. Робити людину-тіло, земну людину, […]",
+      "categories": [
+        "Опінії"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d9b580c17893338e",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -25123,6 +25859,23 @@
       "published_raw": "Sat, 31 Oct 2026 10:28:00 +0200",
       "fetched_at": "2026-10-31T12:28:13+00:00",
       "description": "Після початку повномасштабного вторгнення до кліматичних проблем півдня України додались й воєнні виклики. До 2022 року основною проблемою аграріїв Одещини були посухи, брак дощів, недостатньо зволожені ґрунти та деградація сільськогосподарських угідь. Паралельно російські атаки та руйнування критичної інфраструктури не дають фермерам адаптуватися до змін навколишнього середовища. Однак науковці Одещини шукають способи й методи, розробляють технології, [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfdd07997eadd6de",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/zhitel_sheptitskogo_provede_v_tyurmi_5_rokiv_za_povtorne_szch_n1649110",
+      "title": "Житель Шептицького проведе в тюрмі 5 років за повторне СЗЧ",
+      "published_at": "2026-10-31T08:27:42+00:00",
+      "published_raw": "2026-10-31T08:27:42Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Житель Шептицького проведе в тюрмі 5 років за повторне СЗЧ]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -26549,6 +27302,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d7835d4450ff980c",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/dva_posli_polshhi_podali_u_vidstavku_cherez_konflikt_navkolo_konstitutsiynogo_tribunalu_n1649109",
+      "title": "Два посли Польщі подали у відставку через конфлікт навколо Конституційного трибуналу",
+      "published_at": "2026-10-31T07:50:00+00:00",
+      "published_raw": "2026-10-31T07:50:00Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Два посли Польщі подали у відставку через конфлікт навколо Конституційного трибуналу]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -28139,6 +28909,25 @@
       "status": "new"
     },
     {
+      "id": "5ad9abd2b8f67ad4",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/oleg-sinyegubov-privitav-pracivnikiv-socialnoyi-sferi-z-profesijnim-svyatom",
+      "title": "Олег Синєгубов привітав працівників соціальної сфери з професійним святом",
+      "published_at": "2026-10-31T06:58:00+00:00",
+      "published_raw": "Sat, 31 Oct 2026 08:58:00 +0200",
+      "fetched_at": "2026-11-01T07:31:37+00:00",
+      "description": "на сайті Gromada Group Media | Олег Синєгубов привітав працівників соціальної сфери з професійним святом",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "80ef9ce4c7802257",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -28219,6 +29008,23 @@
       "status": "new"
     },
     {
+      "id": "c1f065f12851d942",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/listopad_zustrine_holodom_yakoyu_bude_pogoda_u_lvovi_ta_oblasti_protyagom_4_dniv_n1649108",
+      "title": "Листопад зустріне заморозками і холодом: якою буде погода на Львівщині протягом 4 днів",
+      "published_at": "2026-10-31T06:53:05+00:00",
+      "published_raw": "2026-10-31T06:53:05Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Листопад зустріне заморозками і холодом: якою буде погода на Львівщині протягом 4 днів]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "cc385e81d358cb59",
       "source_id": "lb",
       "source": "LB.ua",
@@ -28249,6 +29055,23 @@
       "published_raw": "Sat, 31 Oct 2026 08:51:13 +0200",
       "fetched_at": "2026-10-31T12:28:13+00:00",
       "description": "Протягом минулої доби, 30 жовтня, російські війська вдарили по Харкову та 15 населених пунктів області. Постраждали 19 людей. Про це повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов. У Харкові четверо людей отримали поранення внаслідок російських обстрілів, ще шестеро — гостру реакцію на стрес. У Дергачаї поранені чоловіки 52 та 40 років. У Мерефі гострої реакції на стрес зазнали 51- та 48-річний чоловіки. У Барвінковому – 81-річна жінка. У селі Ємці Дергачівської громади — жінка 59 років. У Золочеві — 60-річна жінка.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3fb277d5610b5a43",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/donald_tramp_nazvav_durnimi_lyudmi_prihilnikiv_posilennya_sanktsiy_proti_rosiyi_n1649107",
+      "title": "Дональд Трамп назвав дурними людьми прихильників посилення санкцій проти Росії",
+      "published_at": "2026-10-31T06:50:08+00:00",
+      "published_raw": "2026-10-31T06:50:08Z",
+      "fetched_at": "2026-11-01T15:07:10+00:00",
+      "description": "[CDATA[ Дональд Трамп назвав дурними людьми прихильників посилення санкцій проти Росії]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -29198,25 +30021,6 @@
       "description": "Ця ситуація сталась на Виноградівщині.",
       "categories": [
         "Життя"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "9faba5c046e819ee",
-      "source_id": "map-302",
-      "source": "18000",
-      "geography": "regional",
-      "source_region": "cherkasy",
-      "url": "https://18000.com.ua/strichka-novin/velesova-nich-ta-didi-cherkaska-naukovicya-rozpovila-shho-ranishe-svyatkuvali-zamist-gelovinuu",
-      "title": "Велесова ніч та Діди: як раніше споминали предків замість Геловіну",
-      "published_at": "2026-10-31T05:45:53+00:00",
-      "published_raw": "Sat, 31 Oct 2026 07:45:53 +0200",
-      "fetched_at": "2026-10-31T12:28:13+00:00",
-      "description": "Велесова ніч є наслідуванням різних давніх обрядів і сучасним витвором. Пориньте у містичний світ!",
-      "categories": [
-        "Стрічка новин"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -31840,6 +32644,30 @@
       "at": "2026-10-31T21:33:12+00:00",
       "fetched": 1169,
       "added": 220,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-01T01:09:04+00:00",
+      "fetched": 1130,
+      "added": 16,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-01T07:31:37+00:00",
+      "fetched": 960,
+      "added": 2,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-01T15:07:10+00:00",
+      "fetched": 575,
+      "added": 25,
+      "errors": 2
+    },
+    {
+      "at": "2026-11-01T19:39:11+00:00",
+      "fetched": 467,
+      "added": 1,
       "errors": 3
     }
   ]
