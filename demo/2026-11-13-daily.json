@@ -1,0 +1,330 @@
+{
+  "date": "2026-11-13",
+  "variant": "daily",
+  "audio": "demo/2026-11-13-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 90.78,
+  "asr_mean_cer": 0.054,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. 0 з 5 сюжетів переказано для усного мовлення; кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожним сюжетом.",
+  "script_sha256": "2dd5019fb6951d0591e733dd1cd6a59ca0c1717cc14188a38893516b0df8d1d0",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-13-daily/intro.mp3",
+      "duration_sec": 3.29,
+      "text": [
+        "Це BRIEF. Головне за тринадцяте листопада."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Ціна російського наступу в Україні: Рютте заявив, що рф щомісяця втрачає в Україні понад 40 тисяч військових",
+      "audio": "demo/2026-11-13-daily/story-1.mp3",
+      "duration_sec": 17.92,
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "regions": [],
+      "text": [
+        "Генеральний секретар НАТО Марк Рютте заявив, що росія протягом останніх кількох місяців щомісяця втрачає у війні проти України понад 40 тисяч військових загиблими та тяжкопораненими.",
+        "За попередніми даними, у жовтні кількість російських втрат могла перевищити 50 тисяч."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/11/12/780410_ryutte_porivnyav_schomisyachni.html"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/12/tsina-rosijskogo-nastupu-v-ukrayini-ryutte-zayavyv-shho-rf-shhomisyatsya-vtrachaye-v-ukrayini-ponad-40-tysyach-vijskovyh"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vtraty-rf-za-misyats-majzhe-dorivnyuyut-sukupnym-vtratam-ssha-za-14-rokiv-vijny-u-v-yetnami-gensek-i572975"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/ryutte-porivnyav-misyachni-vtraty-rosiyi-v-ukrayini-z-vtratamy-ssha-za-14-rokiv-u-v-yetnami"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rf-za-misjats-vtrachaje-v-ukrajini-majzhe-stilki-zh-vijskovikh-skilki-ssha-za-14-rokiv-u-vjetnami-rjutte.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/vtrati-rosiyskoji-armiji-v-ukrajini-kilkist-zagiblih-i-poranenih-za-misyac-skladaye-40-tisyach-50658559.html"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/12/riutte-pryrivniav-misiachni-vtraty-rosii-do-vtrat-ssha-za-14-rokiv-u-v-ietnami"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/12/novyna/polityka/rosiya-vtrachaye-majzhe-stilky-soldativ-misyacz-skilky-ssha-14-rokiv-vyetnami-hensek-nato"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Травмовані дві жінки та пошкоджений дитсадок: наслідки нічної атаки РФ на Вінницю",
+      "audio": "demo/2026-11-13-daily/story-2.mp3",
+      "duration_sec": 13.71,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "vinnytsia",
+        "khmelnytskyi",
+        "kyiv",
+        "rivne"
+      ],
+      "text": [
+        "У Вінниці після нічної атаки РФ 13 листопада пошкоджені житлові будинки та дитсадок.",
+        "Дві жінки віком 22 і 54 роки госпіталізовані."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/vinnytsia/1451739-dvi-zinki-travmovani-vnaslidok-nicnoi-ataki-rf-na-vinnicu-poskodzeni-budinki-ta-ditsadok"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Kryminal/dvi-zhinki-postrazhdali-vid-nichnogo-udaru-po-vinnitsi-poshkodzheni-zh-12012606.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-12-listopada-rf-zapustila-po-ukrajini-grupi-bpla-mapa-povitryanih-trivog-50658782.html"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Росіяни вранці вдарили по Запоріжжю: загинув17-річний хлопець, четверо людей поранені",
+      "audio": "demo/2026-11-13-daily/story-3.mp3",
+      "duration_sec": 9.82,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Російські загарбники вранці 13 листопада завдали ударів по Запоріжжю, загинув 17-річний хлопець і ще четверо людей дістали поранення."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1443395-rosijski-obstrili-zaporizza-13-listopada-e-zagiblij-ta-poraneni"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/13/8062645"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/13/780658_rosiyani_atakuvali_zaporizhzhya.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184178-rosiani-vranci-vdarili-po-zaporizzu-zaginuv17ricnij-hlopec-cetvero-ludej-poraneni.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235834.html"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/13/405836_u-zaporizhzhi-vnaslidok-rosijskoyi-ataky-zagynuv-17-richnyj-hlopecz"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Росія атакувала енергетику та житловий сектор на Рівненщині: без світла залишилися понад 160 населених пунктів",
+      "audio": "demo/2026-11-13-daily/story-4.mp3",
+      "duration_sec": 17.48,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "rivne"
+      ],
+      "text": [
+        "Російські війська атакували енергетичну інфраструктуру та житловий сектор Рівненської області.",
+        "Унаслідок удару без електропостачання залишилися населені пункти Рівненського та Сарненського районів, зокрема місто Костопіль."
+      ],
+      "sources": [
+        {
+          "name": "Полісся News",
+          "url": "https://polissia.news/ponad-160-naselenyh-punktiv-na-rivnenshhyni-zalyshayutsya-bez-svitla"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/12/pislia-rosijskoi-ataky-chastyna-rivnenshchyny-znestrumlena"
+        },
+        {
+          "name": "Полісся News",
+          "url": "https://polissia.news/na-rivnenshhyni-vybuhotehniky-obstezhyly-misczya-vluchan-rosijskyh-bezpilotnykiv-foto"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/12/rosiia-atakuvala-enerhetyku-ta-zhytlovyi-sektor-na-rivnenshchyni-bez"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/rivne/1451393-naslidki-udaru-rf-12-listopada-u-kostopilskij-gromadi-na-rivnensini-fotoreportaz"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/rivne/1451599-vibuhova-hvila-vibila-vikna-ta-poskodila-budinki-naslidki-ataki-rf-na-rivnensini"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/rivne/1451725-patero-ludej-poraneni-cerez-ataku-rf-na-rivne"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235801.html"
+        }
+      ]
+    },
+    {
+      "id": "story-5",
+      "kind": "story",
+      "block": "national",
+      "title": "Європейці долучаться до переговорів Зеленського з Віткоффом і Кушнером у Дубліні — ЗМІ",
+      "audio": "demo/2026-11-13-daily/story-5.mp3",
+      "duration_sec": 16.85,
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "regions": [],
+      "text": [
+        "Представники європейських країн, зокрема Німеччини, Франції та Великої Британії, долучаться до переговорів президента України Володимира Зеленського зі спецпосланцями США Стівом Віткоффом і Джаредом Кушнером, які відбудуться ввечері в четвер, 12 листопада, у Дубліні."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/11/12/780514_kremli_rozpochalas_zustrich.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vitkoff-pislya-peregovoriv-u-kremli-poobitsyav-novu-zustrich-uzhe-u-trystoronnomu-formati-i573034"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/peregovori-zelenskogo-z-delegaciyami-yes-i-ssha-zustrich-u-dublini-12-listopada-50658763.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1451685-pered-zustriccu-z-vitkofom-i-kusnerom-zelenskij-proviv-naradu-z-predstavnikami-evropi"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/zelenskiy-u-dublini-rozpochav-zustrich-z-ujitkoffom-ta-kushnerom-50658780.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/12/8062612"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1451705-zelenskij-zustrivsa-zi-specpredstavnikami-trampa-v-irlandii"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235771.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235773.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/13/8062620"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4184118-zelenskij-zustrivsa-z-vitkoffom-i-kusnerom-ta-nazvav-klucovi-rezultati-peremovin-v-abudabi.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235777.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/ukrajina-ta-rf-gotuyut-naybilshiy-obmin-viyskovopolonenimi-zelenskiy-50658788.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zelensky-anonsuvav-obmin-polonenymy-zustrich-kushner-i-witkoff/33897581.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235799.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1451679-zelenskij-zustrivsa-z-predstavnikami-trampa-britania-vvela-sankcii-proti-naftovogo-sektoru-rf-1724-j-den-vijni"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/13/zelenskyj-zustrivsya-z-spetspredstavnykamy-ssha-ta-anonsuvav-obmin-polonenymy"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/politics/326308-ukraina-hotuietsia-naibilshoho-obminu-viiskovopolonenymy-rosiieiu"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/13/zelenskyj-pislia-zustrichi-z-kushnerom-i-vitkoffom-anonsuvav-najbilshyj-obmin-polonenymy-za-chas-vijny"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/13/zelenskyy-zustrivsia-zi-vitkoffom-ta-kushnerom-v-irlandii"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-13-daily/outro.mp3",
+      "duration_sec": 5.72,
+      "text": [
+        "Це був BRIEF за тринадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}

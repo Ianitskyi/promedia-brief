@@ -1,8 +1,8 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-13T00:22:59+00:00",
+  "generated_at": "2026-11-13T07:05:05+00:00",
   "source_count": 122,
-  "item_count": 2530,
+  "item_count": 2562,
   "items": [
     {
       "id": "5c83b768bad3a3b5",
@@ -62,6 +62,23 @@
       "status": "new"
     },
     {
+      "id": "928c64139b7ddb80",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451697-problemi-iz-zapastkom-i-zmarnovanij-drugij-set-marta-kostuk-prograla-koko-goff-v-zaklucnomu-matci-wta-finals",
+      "title": "Проблеми із зап'ястком і змарнований другий сет: Марта Костюк програла Коко Гофф в заключному матчі WTA Finals",
+      "published_at": "2026-11-12T21:56:28+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:56:28 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Українська тенісистка Марта Костюк програла у третьому матчі на Підсумковому турнірі: поступилася американці Коко Гофф у матчі групового етапу у двох сетах",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "bebee2b222e2610b",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -76,6 +93,23 @@
       "categories": [
         "Політика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "df7ce6aa24b119c1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1451717-armia-rf-vbila-dvoh-civilnih-colovikiv-u-seredino-budskij-gromadi",
+      "title": "Армія РФ вбила двох цивільних чоловіків у Середино-Будській громаді",
+      "published_at": "2026-11-12T21:51:06+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:51:06 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Загинули чоловіки віком 57 та 47 років. Військові РФ атакували їх FPV-дроном, коли вони перебували біля мотоцикла в Середино-Будській громаді Шосткинського району",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -254,6 +288,23 @@
       "status": "new"
     },
     {
+      "id": "37599778058276b5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451709-italia-zavdala-francii-persoi-porazki-v-sezoni-ligi-nacij-z-futbolu",
+      "title": "Італія завдала Франції першої поразки в сезоні Ліги націй з футболу",
+      "published_at": "2026-11-12T21:43:10+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:43:10 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Ліга націй 2026/27 з футболу: результат матчу Італія — Франція та що він означає, як пройшов матч Ліги націй 12 листопада 2026, турнірна таблиця групи, коли пройдуть наступні матчі збірних Францїі та Італії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "be65557d0a278846",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -309,6 +360,23 @@
       "status": "new"
     },
     {
+      "id": "94a35fc11b03476c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1451491-ak-na-harkivsini-13-listopada-vimikatimut-svitlo-grafik",
+      "title": "Як на Харківщині 13 листопада вимикатимуть світло: графік",
+      "published_at": "2026-11-12T21:34:13+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:34:13 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Графік погодинних відключень світла на Харківщині діятиме 13 листопада з 00:00, вимкнення триватимуть протягом всієї доби. Дізнайтеся розклад черг",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "04d0261421112e7b",
       "source_id": "map-289",
       "source": "МикВісті",
@@ -328,6 +396,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "ede8337784ea842b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1451707-cerez-rosijski-ataki-kernel-zupiniv-robotu-olijnoekstrakcijnih-zavodiv-zokrema-u-kropivnickomu",
+      "title": "Через російські атаки «Кернел» зупинив роботу всіх олійноекстракційних заводів, зокрема у Кропивницькому",
+      "published_at": "2026-11-12T21:29:35+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:29:35 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Через масовані атаки РФ на підприємства харчової промисловості «Кернел» призупинив роботу всіх олійноекстракційних заводів. Один із них розташований у Кропивницькому, також компанія має елеватори на Кіровоградщині.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -535,6 +620,23 @@
       "categories": [
         "Україна/Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "669a082df98852c6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451689-17-ricnij-ukrainskij-vorotar-vperse-potrapiv-do-zaavki-betisa-na-matc-kubka-ispanii",
+      "title": "17-річний український воротар вперше потрапив до заявки «Бетіса» на матч Кубка Іспанії",
+      "published_at": "2026-11-12T21:20:35+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:20:35 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Український голкіпер «Бетіса» Ян Журавський вперше потрапив до заявки на матч дорослої команди Іспанії, українець опинився серед запасних на гру 1/64 фіналу Кубка Іспанії проти «Навалькарнеро»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -869,6 +971,40 @@
       "status": "new"
     },
     {
+      "id": "180ab74d7f43878e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1451601-voennij-ogladac-popovic-poasniv-comu-gumanitarna-misia-rf-u-kostantinivci-nese-riziki-dla-oboroni-mista",
+      "title": "Воєнний оглядач Попович пояснив, чому гуманітарна місія РФ у Костянтинівці несе ризики для оборони міста",
+      "published_at": "2026-11-12T21:09:24+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:09:24 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Військовий оглядач Денис Попович заявив, що гуманітарна місія, яку Росія пропонує провести в Костянтинівці, може бути використана для перегрупування військ і підготовки нового штурму міста",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e398378ad1541894",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1451699-poskodzeno-budinok-vnaslidok-ataki-rf-na-rivnensinu-vveceri-12-listopada",
+      "title": "Пошкоджено будинок внаслідок атаки РФ на Рівненщину ввечері 12 листопада",
+      "published_at": "2026-11-12T21:08:58+00:00",
+      "published_raw": "Thu, 12 Nov 2026 23:08:58 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Пошкоджено покрівлю та стіну в будинку, де ніхто не проживав через атаку РФ ввечері 12 листопада в одному з сіл Рівненського району. У сусідніх будинках вибиті вікна. Наразі інформації про поранених немає",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "179259a8103ae94d",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -936,7 +1072,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/viyna/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini",
-      "title": "Зеленський зустрівся із Віткоффом та Кушнером у Ірландії",
+      "title": "Зеленський зустрівся з Віткоффом та Кушнером в Ірландії",
       "published_at": "2026-11-12T21:04:00+00:00",
       "published_raw": "2026-11-12T23:04:00+02:00",
       "fetched_at": "2026-11-13T00:22:59+00:00",
@@ -1198,6 +1334,23 @@
       "status": "new"
     },
     {
+      "id": "7dad38b478c30c9c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1451705-zelenskij-zustrivsa-zi-specpredstavnikami-trampa-v-irlandii",
+      "title": "Зеленський зустрівся зі спецпредставниками Трампа в Ірландії: анонсовано найбільший обмін полоненими",
+      "published_at": "2026-11-12T20:57:35+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:57:35 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Президент Володимир Зеленський зустрівся зі спецпредставниками США Джаредом Кушнером та Стівом Віткоффом. Зустріч відбулася на аеродромі Кейсмент у Балдоннелі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "345f3d9e63799766",
       "source_id": "map-940",
       "source": "Букви",
@@ -1216,6 +1369,23 @@
         "акторка",
         "Люсі Гейл"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ba05c7891089a3e7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1451703-na-odesini-pisla-ataki-rf-gorila-virobnica-budivla-meblevogo-pidpriemstva-e-poraneni",
+      "title": "На Одещині після атаки РФ горіла виробнича будівля меблевого підприємства: є поранені",
+      "published_at": "2026-11-12T20:57:06+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:57:06 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Російська армія атакувала південь Одещини 12 листопада. Внаслідок влучання у меблеве підприємство виникла пожежа площею 1300 кв. м. Четверо людей дістали опіки, двох госпіталізували",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1626,6 +1796,23 @@
       "status": "new"
     },
     {
+      "id": "257945470bd0cd2d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1451693-u-par-zatrimali-desatogo-pidozruvanogo-u-spravi-pro-vidpravlenna-ludej-na-vijnu-v-ukraini",
+      "title": "У ПАР затримали десятого підозрюваного у справі про відправлення людей на війну в Україні",
+      "published_at": "2026-11-12T20:39:14+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:39:14 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У ПАР затримали десятого підозрюваного у справі про можливе вербування людей для участі у війні на боці Росії. Раніше правоохоронці затримали дев'ятьох громадян Зімбабве, які, за даними слідства, готувалися вирушити до РФ",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5516748d00e28666",
       "source_id": "map-940",
       "source": "Букви",
@@ -1805,6 +1992,23 @@
       "status": "new"
     },
     {
+      "id": "489cacd094ac868a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451683-lionel-skaloni-prodovziv-kontrakt-zi-zbirnou-argentini-z-futbolu-do-2030-roku",
+      "title": "Ліонель Скалоні продовжив контракт зі збірною Аргентини з футболу до 2030 року",
+      "published_at": "2026-11-12T20:28:24+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:28:24 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Головний тренер збірної Аргентини з футболу Ліонель Скалоні продовжив контракт до 2030 року: досягнення фахівця в національній команді, наступний матч без Ліонеля Мессі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c5acb03707c3587c",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1819,6 +2023,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "114649a57aa6bbcc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1451327-na-kirovogradsini-13-listopada-vidklucatimut-elektriku-grafiki",
+      "title": "На Кіровоградщині 13 листопада відключатимуть електрику: графіки",
+      "published_at": "2026-11-12T20:26:14+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:26:14 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Кіровоградській області за розпорядженням Укренерго діятиме графік погодинних відключень електрики. Про це повідомили на офіційному сайті Кіровоградобленерго",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2216,6 +2437,40 @@
       "status": "new"
     },
     {
+      "id": "5b3193f270359ced",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1451529-vtrati-volini-povidomili-pro-zagibel-bijciv-vasila-brika-i-igora-malika",
+      "title": "Втрати Волині: повідомили про загибель бійців Василя Брика і Ігоря Малика",
+      "published_at": "2026-11-12T20:08:29+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:08:29 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "В російсько-українській війні загинули ще двоє військовослужбовців з Волині: 38-річний Василь Брик з Підгайцівської громади і 40-річний Ігор Малик з Луцька",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8edcb5d88705a02e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451675-ukrainskogo-boksera-diskvalifikuvali-na-20-misaciv-u-comu-pricina",
+      "title": "Українського претендента на чемпіонство світу з боксу серед молоді дискваліфікували на 20 місяців: у чому причина",
+      "published_at": "2026-11-12T20:06:29+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:06:29 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "23-річний український боксер Данило Лозан отримав дискваліфікацію за порушення антидопінгових правил щодо місцеперебування: тричі не надав інформацію",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7c6c91c9d99d65cb",
       "source_id": "nv",
       "source": "NV",
@@ -2307,6 +2562,23 @@
       "categories": [
         "CityLife"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7c83ad2507ec1f93",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1451685-pered-zustriccu-z-vitkofom-i-kusnerom-zelenskij-proviv-naradu-z-predstavnikami-evropi",
+      "title": "Перед зустріччю з Віткофом і Кушнером Зеленський провів нараду з представниками Європи",
+      "published_at": "2026-11-12T20:02:25+00:00",
+      "published_raw": "Thu, 12 Nov 2026 22:02:25 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Перед зустріччю зі спецпосланцями президента США Стівом Віткофом та Джаредом Кушнером президент Володимир Зеленський провів координаційну нараду з представниками країн ЄС та Великої Британії, а також Євроради та Єврокомісії",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2537,6 +2809,23 @@
       "status": "new"
     },
     {
+      "id": "88f9d157a450bf29",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1451669-u-zaporizzi-poprosalis-z-vijskovim-iz-zaporizkoi-oblasti-andriem-ribalkou",
+      "title": "У Запоріжжі попрощались з військовим із Запорізької області Андрієм Рибалкою",
+      "published_at": "2026-11-12T19:57:33+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:57:33 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "43-річний військовий Андрій Рибалка із села Дніпровка загинув 25 жовтня під час виконання військового обов'язку поблизу Іванівки на Дніпропетровщині",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "49c97e48cc7d3cf4",
       "source_id": "map-1200",
       "source": "ОстроВ",
@@ -2722,6 +3011,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9c72826213057439",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1451567-kilkoh-malomobilnih-ludej-evakuuvali-policejski-ekipazu-bilij-angol-zi-slovanskoi-gromadi-na-doneccini",
+      "title": "Кількох маломобільних людей евакуювали поліцейські екіпажу «Білий Янгол» зі Слов'янської громади на Донеччині",
+      "published_at": "2026-11-12T19:46:43+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:46:43 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Екіпаж «Білий Янгол» евакуював зі Слов'янської громади Донецької області кількох маломобільних людей. Що розповідають місцеві про ситуацію у громаді",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3138,6 +3444,23 @@
       "status": "new"
     },
     {
+      "id": "aa4ca4b88b8843bd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1451311-naukovica-iz-zaporizza-alona-stadnik-otrimae-stipendiu-kabinetu-ministriv-ukraini",
+      "title": "Науковиця із Запоріжжя Альона Стадник отримає стипендію Кабінету Міністрів України",
+      "published_at": "2026-11-12T19:32:37+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:32:37 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Доцентку кафедри психології Національного університету «Запорізька політехніка» Альону Стадник рекомендували до призначення стипендії Кабінету Міністрів України для молодих учених",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0e172cd38dc028d7",
       "source_id": "lb",
       "source": "LB.ua",
@@ -3190,6 +3513,23 @@
       "categories": [
         "Техно/Наукпоп"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b4ff49c4944e1a2a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1451677-na-kiivsini-zaprovadili-ekstreni-znestrumlenna-u-troh-rajonah",
+      "title": "На Київщині запровадили екстрені знеструмлення у трьох районах",
+      "published_at": "2026-11-12T19:29:14+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:29:14 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Фастівському, Білоцерківському та Обухівському районах Київської області увечері 12 листопада запровадили екстрені вимкнення світла через атаку РФ на об'єкти енергетики",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3333,6 +3673,23 @@
       "status": "new"
     },
     {
+      "id": "e56d26e31b89410d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1451427-zitta-vimagae-pamati-u-harkovi-vidbulosa-nagorodzenna-laureativ-stipendii-imeni-eduarda-zuba-2026",
+      "title": "«Життя вимагає пам'яті». У Харкові відбулося нагородження лауреатів стипендії імені Едуарда Зуба-2026",
+      "published_at": "2026-11-12T19:23:22+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:23:22 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Харкові 12 листопада 2026 року нагородили переможців стипендії імені Едуарда Зуба: Ірину Споденець, Світлану Павленко, Олександра Пасічняка та Христину Семерин. Як це було, дивіться",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "96ed1207733e89c7",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -3350,6 +3707,23 @@
         "Події",
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3a8662239b1f99f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1451551-majze-28-tisac-ziteliv-cernigivsini-maut-diagnoz-cukrovij-diabet",
+      "title": "Майже 28 тисяч жителів Чернігівщини мають діагноз цукровий діабет",
+      "published_at": "2026-11-12T19:22:15+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:22:15 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Причому щорічно лікарі виявляють близько двох тисяч нових випадків. Більше про це далі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3403,8 +3777,8 @@
       "fetched_at": "2026-11-13T00:22:59+00:00",
       "description": "Франківка Марія Козакевич створила “Карпатську абетку” про культуру й традиції гір. У книжці зібрали місцеву лексику, а також ілюстрації народних ремесел, природи, побуту та культурної спадщини регіону. Про це “Галці”... The post Місцева говірка, ремесла й традиції: у Франківську створили “Карпатську абетку”, яка знайомить дітей із культурою гір appeared first on Galka.if.ua .",
       "categories": [
-        "Арт",
         "Новини",
+        "Арт",
         "Франківські новини",
         "Сама топова новина",
         "Життя"
@@ -3428,6 +3802,23 @@
       "categories": [
         "Новини України / Війна з Росією"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "699a9bce5be5cba9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1451161-ponad-100-tonn-vidhodiv-pisla-rosijskih-obstriliv-zavezli-na-specmajdancik-u-koveli",
+      "title": "Понад 100 тонн відходів після російських обстрілів завезли на спецмайданчик у Ковелі",
+      "published_at": "2026-11-12T19:20:00+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:20:00 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Ковелі на Волині облаштували тимчасовий майданчик для відходів після російських атак. Туди звезли близько 750 кубометрів згорілого майна, уламків і пошкоджених вантажів",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3526,6 +3917,23 @@
       "status": "new"
     },
     {
+      "id": "cb4b27a3caa95af9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1451511-ternopilski-sinoptiki-rozpovili-akou-bude-pogoda-13-listopada",
+      "title": "Тернопільські синоптики розповіли, якою буде погода 13 листопада",
+      "published_at": "2026-11-12T19:18:00+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:18:00 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У п'ятницю, 13 листопада, в Тернопільській області синоптики прогнозують хмарну погоду, часом дощі. Вночі туман видимістю 200 – 500 метрів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "69c367c12e693555",
       "source_id": "map-1200",
       "source": "ОстроВ",
@@ -3540,6 +3948,23 @@
       "categories": [
         "Донбас"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cc814a821b76af52",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1451633-zbirna-ssa-z-futbolu-znalasa-z-unackogo-cempionatu-svitu-u17-za-tizden-do-turniru-aka-pricina",
+      "title": "Збірна США з футболу знялася з юнацького чемпіонату світу U17 за тиждень до турніру: яка причина",
+      "published_at": "2026-11-12T19:16:20+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:16:20 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Федерація футболу США відкликала чоловічу збірну вікової категорії U17 з юнацького чемпіонату світу-2026 у Катарі через занепокоєння щодо безпеки",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3695,6 +4120,23 @@
       "status": "new"
     },
     {
+      "id": "6752ee9725e99bae",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1451649-zgorilo-vse-nicogo-ne-zalisilos-ziteli-hmelnickogo-pro-naslidki-rosijskogo-obstrilu-12-listopada",
+      "title": "«Згоріло все, нічого не залишилось»: жителі Хмельницького про наслідки російського обстрілу 12 листопада",
+      "published_at": "2026-11-12T19:09:18+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:09:18 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Хмельницькому ліквідовують наслідки російського обстрілу, який відбувся сьогодні, 12 листопада. Зокрема, пошкоджено понад 20 приватних житлових будинків",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d2d555b663293149",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -3749,6 +4191,57 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb8075c1193f171a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1451671-na-kiivsini-u-bilij-cerkvi-mozlivi-pereboi-z-vodou",
+      "title": "Білу Церкву атакували дрони РФ: під ударом об'єкти енерго- та теплопостачання, можливі перебої з водою",
+      "published_at": "2026-11-12T19:06:33+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:06:33 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Можливі перебої з водою Білій Церкві. У міській територіальній громаді закликають жителів на випадок тимчасового припинення водопостачання, зробити необхідний запас води",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6f83d24ab13bf3a4",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1450791-golovni-novini-dnipra-ta-oblasti-12-listopada",
+      "title": "Наслідки атак, інтерв'ю з рокером-військовим, як живе Петропавлівка. Головні новини Дніпра та області 12 листопада",
+      "published_at": "2026-11-12T19:06:19+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:06:19 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Оперативні новини Дніпра та Дніпропетровської області за 12 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1ba5551129094af9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1451065-grafiki-vidklucenna-svitla-zastosuut-na-cerkasini-13-listopada",
+      "title": "Графіки відключення світла застосують на Черкащині 13 листопада",
+      "published_at": "2026-11-12T19:06:14+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:06:14 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "На Черкащині 13 листопада для населення діятимуть графіки погодинних відключень електроенергії. Причина застосування графіків — пошкодження енергооб'єктів ударами РФ",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4052,6 +4545,29 @@
       "status": "new"
     },
     {
+      "id": "7abaf65092f480a4",
+      "source_id": "map-1116",
+      "source": "Львівський портал",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://portal.lviv.ua/news/2026/11/12/lviv-ian-zaproshuiut-na-muzychni-vechory-pry-svichkakh-muzyka-bakha-vivaldi-ta-motsarta-ta-lehendarni-saundtreky",
+      "title": "Львів’ян запрошують на музичні вечори при свічках: музика Баха, Вівальді та Моцарта та легендарні саундтреки",
+      "published_at": "2026-11-12T19:00:16+00:00",
+      "published_raw": "Thu, 12 Nov 2026 19:00:16 +0000",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "15 та 16 листопада у Львові відбудуться три музичні події, які об’єднають велич класичної музики, кінематографічні мелодії та атмосферу живого виконання. Про це Львівському порталу повідомили організатори заходу. На гостей чекають органний концерт при світлі свічок із музикою Йоганна Себастьяна Баха, програма з легендарними кіносаундтреками, а також вечір із творами Вівальді та Моцарта у виконанні … Continue reading Львів’ян запрошують на музичні вечори при свічках: музика Баха, Вівальді та Моцарта та легендарні саундтреки →",
+      "categories": [
+        "Культура",
+        "Львів",
+        "Львівщина",
+        "Новини",
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "923775df15130048",
       "source_id": "map-1253",
       "source": "Полісся News",
@@ -4091,6 +4607,23 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "723f0cf179c63389",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1451435-ne-znali-ci-vzagali-povernemosa-istoria-zaliznicnika-akij-pracuvav-v-okupovanomu-hersoni",
+      "title": "«Не знали, чи взагалі повернемося»: історія залізничника, який працював в окупованому Херсоні",
+      "published_at": "2026-11-12T19:00:00+00:00",
+      "published_raw": "Thu, 12 Nov 2026 21:00:00 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "Заступник начальника служби електропостачання Одеської залізниці Андрій Фарісєєв близько чотирьох місяців залишався в окупованому Херсоні, ремонтував електромережі та згодом виїхав на підконтрольну Україні територію",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -4474,7 +5007,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/1451665-u-kremli-rozpovili-pro-zustric-putina-z-vitkoffam-i-kusnerom",
-      "title": "У Кремлі розповіли про зустріч Путіна з Віткоффам і Кушнером",
+      "title": "«Гуманітарна місія» в Костянтинівці, обмін полоненими і безпека Європи: підсумки зустрічі Путіна, Віткоффа і Кушнера",
       "published_at": "2026-11-12T18:53:10+00:00",
       "published_raw": "Thu, 12 Nov 2026 20:53:10 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
@@ -4512,7 +5045,7 @@
       "published_at": "2026-11-12T18:52:53+00:00",
       "published_raw": "Thu, 12 Nov 2026 18:52:53 +0000",
       "fetched_at": "2026-11-12T18:55:35+00:00",
-      "description": "Президент Володимир Зеленський відреагував на чергове обмеження швидкості супутникового зв’язку Starshield для українських військових. Він заявив, що такі рішення США виглядають як фактичне визнання російської окупації. Про це глава держави сказав під час виступу на саміті Європейської політичної спільноти у Дубліні 12 листопада. Зеленський підтвердив, що на фронті знову фіксується системне обмеження роботи Starshield – … Continue reading Зеленський дорікнув США через Starshield →",
+      "description": "Президент Володимир Зеленський відреагував на чергове обмеження швидкості супутникового зв’язку Starshield для українських військових. Він заявив, що ухвалення таких рішень виглядає так, ніби окуповані території більше не розглядають як українські. Про це глава держави сказав під час виступу на саміті Європейської політичної спільноти у Дубліні 12 листопада. Зеленський підтвердив, що на фронті знову фіксується системне … Continue reading Зеленський дорікнув США через Starshield →",
       "categories": [
         "Війна",
         "Новини",
@@ -4653,7 +5186,7 @@
       "published_at": "2026-11-12T18:50:59+00:00",
       "published_raw": "Thu, 12 Nov 2026 20:50:59 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
-      "description": "Спецпосланець США Джаред Кушнер за підсумками зустрічі з лідером Кремля Путіним повідомив, що параметри обміну полонених наразі узгоджуються. Його слова цитує російське видання ТАСС. Згодом речник Путіна Пєсков зазначив, що обмін",
+      "description": "Радник Путіна Ушаков повідомив, що питання масштабного обміну полоненими між Україною та Росією наразі обговорюється, а Пєсков додав, що Міноборони повідомлятиме деталі",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -5681,7 +6214,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/sport/1451641-22-ricnij-ceskij-boec-mma-pereziv-zupinku-serca-v-oktagoni-v-akomu-vin-stani",
-      "title": "22-річний чеський боєць ММА пережив зупинку серця в октагоні: в якому він стані",
+      "title": "Чеського бійця ММА реанімували в октагоні після зупинки серця: в якому він стані",
       "published_at": "2026-11-12T18:32:50+00:00",
       "published_raw": "Thu, 12 Nov 2026 20:32:50 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
@@ -7065,6 +7598,23 @@
       "categories": [
         "Новини Чернівців"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e5c11f0832dcde8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1440163-skoli-bez-ucniv-u-klasah-comu-na-sumsini-zberigaut-37-distancijnih-zakladiv",
+      "title": "Школи без учнів у класах: чому на Сумщині зберігають 37 дистанційних закладів",
+      "published_at": "2026-11-12T18:08:59+00:00",
+      "published_raw": "Thu, 12 Nov 2026 20:08:59 +0200",
+      "fetched_at": "2026-11-12T18:55:35+00:00",
+      "description": "На Сумщині 37 шкіл працюють виключно дистанційно. Чому релоковані громади відмовляються їх закривати та як розподіляється освітня субвенція на такі заклади",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8559,7 +9109,7 @@
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://vchysia.media/news/yevroparlament-zaklykav-vyznaty-henotsydom-dii-rosii-proty-ukrainskykh-ditei-shcho-peredbachaie-rezoliutsiia",
-      "title": "Європарламент закликав визнати геноцидом дії Росії проти українських дітей: що передбачає резолюція",
+      "title": "Європарламент закликав визнати геноцидом дії росії проти українських дітей: що передбачає резолюція",
       "published_at": "2026-11-12T17:42:00+00:00",
       "published_raw": "Thu, 12 Nov 2026 19:42:00 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
@@ -9646,6 +10196,23 @@
       "status": "new"
     },
     {
+      "id": "4940d715e371a61a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1449739-bojovij-medik-na-evakuacii-vikonue-se-j-funkciu-ppo-vijskova-bdzilka-pro-te-ak-zminilas-dopomoga-poranenim",
+      "title": "«Бойовий медик на евакуації виконує ще й функцію ППО». Військова «Бджілка» — про те, як змінилась допомога пораненим",
+      "published_at": "2026-11-12T17:20:23+00:00",
+      "published_raw": "Thu, 12 Nov 2026 19:20:23 +0200",
+      "fetched_at": "2026-11-12T18:55:35+00:00",
+      "description": "42-річна Ольга Руденко на позивний Бджілка служить у 93-й бригаді «Холодний Яр». Як рятує поранених під обстрілами, чому боїться паніки та про що мріє після війни",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "9edde6c03279f040",
       "source_id": "map-984",
       "source": "#ШОТАМ",
@@ -10024,6 +10591,23 @@
       "status": "new"
     },
     {
+      "id": "f7967964abf6a555",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1451673-u-tureccini-rozbivsa-vijskovij-gelikopter-zaginuli-cetvero-ludej",
+      "title": "У Туреччині розбився військовий гелікоптер: загинули четверо людей",
+      "published_at": "2026-11-12T17:14:13+00:00",
+      "published_raw": "Thu, 12 Nov 2026 19:14:13 +0200",
+      "fetched_at": "2026-11-13T07:05:05+00:00",
+      "description": "У Туреччині розбився військовий гелікоптер S-70, унаслідок чого загинули четверо військових. За повідомленнями місцевих ЗМІ, уламки повітряного судна спричинили пожежу поблизу житлових будинків",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4ce37a4686536058",
       "source_id": "lb",
       "source": "LB.ua",
@@ -10093,8 +10677,8 @@
       "fetched_at": "2026-11-12T18:55:35+00:00",
       "description": "Закриті житлові комплекси, хаотична забудова та недоступні громадські простори — проблеми, яких українські міста мають уникати під час розвитку. Про це головний архітектор Львова Антон Коломєйцев розповів 6 листопада на... The post «Місто — це не дороги, це люди»: головний архітектор Львова розповів у Франківську, чому не варто закривати ЖК парканами appeared first on Galka.if.ua .",
       "categories": [
-        "Новини",
         "Новини компаній",
+        "Новини",
         "Франківські новини",
         "Бізнес",
         "Життя"
@@ -10193,10 +10777,10 @@
       "description": "Бригада екстреної медичної допомоги вирушила на виклик до Скель Довбуша у Яремчанській громаді, де травмувалася жінка. Через складний рельєф медики не змогли доїхати до неї автомобілем, пише КУРС з посиланням на КНП “Обласний клінічний центр ЕМД та МК Івано-Франківської обласної ради”. На виклик виїхала бригада №182 у складі парамедиків Василя Костика та Іванни Вербюк і […]",
       "categories": [
         "Суспільство",
-        "гори",
-        "Центр екстренної медицини",
         "екстрена медична допомога",
-        "травмовані"
+        "травмовані",
+        "гори",
+        "Центр екстренної медицини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -11276,7 +11860,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/donbas/1451609-cetvero-zagiblih-ta-sestero-poranenih-vnaslidok-obstriliv-kramatorska-12-listopada",
-      "title": "«Наразі неможливо розбирати завали».Загиблі та поранені внаслідок обстрілів Краматорської громади 12 листопада",
+      "title": "«Наразі неможливо розбирати завали». Внаслідок обстрілів Краматорської громади 12 листопада є загиблі та поранені",
       "published_at": "2026-11-12T16:57:11+00:00",
       "published_raw": "Thu, 12 Nov 2026 18:57:11 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
@@ -12468,7 +13052,7 @@
       "fetched_at": "2026-11-12T11:07:19+00:00",
       "description": "Черкащанин Павло Лазуренко - перший, хто у своїй бригаді вразив ворожу техніку скидом із дрона",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12670,8 +13254,8 @@
       "fetched_at": "2026-11-12T18:55:35+00:00",
       "description": "12 листопада в Івано-Франківську відбулася прем’єра авторської пісні Наталії Онищук «Не плач, матусенько, прошу» та презентація відеокліпу до неї. Захід об’єднав матерів полеглих українських військових, які не лише долучилися до... The post «Не плач, матусенько, прошу»: у Франківську презентували пісню-присвяту матерям полеглих захисників (ФОТО) appeared first on Galka.if.ua .",
       "categories": [
-        "Новини",
         "Арт",
+        "Новини",
         "Франківські новини",
         "Війна з Росією",
         "Життя"
@@ -14395,23 +14979,6 @@
       "status": "new"
     },
     {
-      "id": "5e5c11f0832dcde8",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1440163-skoli-bez-ucniv-u-klasah-comu-na-sumsini-zberigaut-37-distancijnih-zakladiv",
-      "title": "Школи без учнів у класах: чому на Сумщині зберігають 37 дистанційних закладів",
-      "published_at": "2026-11-12T16:08:59+00:00",
-      "published_raw": "Thu, 12 Nov 2026 18:08:59 +0200",
-      "fetched_at": "2026-11-12T18:55:35+00:00",
-      "description": "На Сумщині 37 шкіл працюють виключно дистанційно. Чому релоковані громади відмовляються їх закривати та як розподіляється освітня субвенція на такі заклади",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "c2af5d1b3906f339",
       "source_id": "hromadske-radio",
       "source": "Громадське радіо",
@@ -14704,7 +15271,7 @@
       "published_at": "2026-11-12T16:02:32+00:00",
       "published_raw": "Thu, 12 Nov 2026 18:02:32 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
-      "description": "Чоловік травмувався унаслідок російської атаки у Хмельницькому сьогодні, 12 листопада. Його госпіталізували до лікарні. Стан чоловіка задовільний",
+      "description": "Одна дитина і один чоловік травмувались унаслідок російської атаки у Хмельницькому сьогодні, 12 листопада. Їх госпіталізували. Про це повідомив голова Хмельницької обласної військової адміністрації Сергій Тюрін",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -17144,7 +17711,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/kropyvnytskiy/1451313-u-selisi-novomu-na-kirovogradsini-planuut-zminiti-tarifi-na-vodu-akimi-voni-budut-dla-naselenna",
-      "title": "У селищі Новому на Кіровоградщині планують змінити тарифи на воду: якими вони будуть для населення",
+      "title": "У селищі Нове Кропивницької громади планують змінити тарифи на воду: якими будуть для населення",
       "published_at": "2026-11-12T15:27:32+00:00",
       "published_raw": "Thu, 12 Nov 2026 17:27:32 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
@@ -17575,23 +18142,6 @@
       "published_raw": "Thu, 12 Nov 2026 17:21:34 +0200",
       "fetched_at": "2026-11-12T18:55:35+00:00",
       "description": "Адміністрація США могла навмисно обмежити швидкість роботи супутникового зв'язку Starlink, заявляють у Financial Times.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "4940d715e371a61a",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1449739-bojovij-medik-na-evakuacii-vikonue-se-j-funkciu-ppo-vijskova-bdzilka-pro-te-ak-zminilas-dopomoga-poranenim",
-      "title": "«Бойовий медик на евакуації виконує ще й функцію ППО». Військова «Бджілка» — про те, як змінилась допомога пораненим",
-      "published_at": "2026-11-12T15:20:23+00:00",
-      "published_raw": "Thu, 12 Nov 2026 17:20:23 +0200",
-      "fetched_at": "2026-11-12T18:55:35+00:00",
-      "description": "42-річна Ольга Руденко на позивний Бджілка служить у 93-й бригаді «Холодний Яр». Як рятує поранених під обстрілами, чому боїться паніки та про що мріє після війни",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -23155,10 +23705,10 @@
       "description": "Від початку листопада 2026-го за межі Донецької області виїхали близько 6,3 тисячі людей. Найбільше покидають Словʼянську, Краматорську та Олександрівську громади, на окупанти продовжують посилювати свої удари. Скільки цивільних загалом залишається в регіоні — читайте далі. Про це журналісти Вільного Радіо дізналися із брифінгу начальника відділу…",
       "categories": [
         "Новини",
+        "Новини Слов’янської громади",
+        "Новини Олександрівської громади",
         "Новини Лиманської громади",
-        "Новини Дружківської громади",
-        "Новини Краматорської громади",
-        "Новини Слов’янської громади"
+        "Новини Дружківської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -36967,8 +37517,8 @@
       "description": "У листопаді й грудні заступник сільського голови Старомлинівки Олександр Донченко проводитиме особисті прийоми. Також зв’язатися з посадовцем можна за телефоном гарячої лінії. Графік журналісти Вільного Радіо дізнались з розпорядження заступника Старомлинівської сільського голови Олександра Донченка. Потрапити на особистий прийом можна за попереднім записом. Місце проведення…",
       "categories": [
         "Новини",
-        "Можливості для людей з Донеччини",
-        "Новини Старомлинівської громади"
+        "Новини Старомлинівської громади",
+        "Можливості для людей з Донеччини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -39012,10 +39562,10 @@
       "description": "Російські загарбники 11 листопада продовжували атакувати лінію фронту та житлові квартали на підконтрольній частині Донецької області різними видами озброєння. Загалом правоохоронці зафіксували 1 727 ударів по регіону. Серед цивільних мешканців поранень зазнала одна людина — у Краматорську. Попередньо, обійшлося без загибелі цивільних Правоохоронці, як йдеться…",
       "categories": [
         "Новини",
-        "Новини Олександрівської громади",
-        "Новини Дружківської громади",
         "Новини Андріївської громади",
-        "Новини Краматорської громади"
+        "Новини Краматорської громади",
+        "Новини Білозерської громади",
+        "Новини Слов’янської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -49302,6 +49852,12 @@
       "fetched": 1570,
       "added": 209,
       "errors": 4
+    },
+    {
+      "at": "2026-11-13T07:05:05+00:00",
+      "fetched": 1503,
+      "added": 32,
+      "errors": 3
     }
   ]
 }
