@@ -6,11 +6,11 @@
   "model": "eleven_v3",
   "voice": "TEyBWD5tAHAWqAGEv6yI",
   "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
-  "duration_sec": 90.78,
-  "asr_mean_cer": 0.054,
+  "duration_sec": 101.46,
+  "asr_mean_cer": 0.064,
   "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
-  "description": "Щоденний випуск BRIEF. 0 з 5 сюжетів переказано для усного мовлення; кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожним сюжетом.",
-  "script_sha256": "2dd5019fb6951d0591e733dd1cd6a59ca0c1717cc14188a38893516b0df8d1d0",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 7. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "b6b311f2cb13b6ed6555fcb343e0caaa78f104896d4261090025fa5ba845070f",
   "sonic": {
     "intro": "audio/intro.mp3",
     "outro": "audio/outro.mp3"
@@ -32,50 +32,64 @@
       "id": "story-1",
       "kind": "story",
       "block": "national",
-      "title": "Ціна російського наступу в Україні: Рютте заявив, що рф щомісяця втрачає в Україні понад 40 тисяч військових",
+      "title": "Росія нічним обстрілом Одеси вбила двох людей, є постраждалі",
       "audio": "demo/2026-11-13-daily/story-1.mp3",
-      "duration_sec": 17.92,
+      "duration_sec": 8.8,
       "topics": [
-        "Міжнародне",
-        "Війна та безпека"
+        "Війна та безпека",
+        "Суспільство"
       ],
-      "regions": [],
+      "regions": [
+        "odesa"
+      ],
       "text": [
-        "Генеральний секретар НАТО Марк Рютте заявив, що росія протягом останніх кількох місяців щомісяця втрачає у війні проти України понад 40 тисяч військових загиблими та тяжкопораненими.",
-        "За попередніми даними, у жовтні кількість російських втрат могла перевищити 50 тисяч."
+        "Російські війська в ніч на 13 листопада атакували й Одесу.",
+        "Відомо про двох загиблих, ще п’ятеро людей постраждали."
       ],
       "sources": [
         {
-          "name": "LB.ua",
-          "url": "https://lb.ua/world/2026/11/12/780410_ryutte_porivnyav_schomisyachni.html"
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235823.html"
         },
         {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/11/12/tsina-rosijskogo-nastupu-v-ukrayini-ryutte-zayavyv-shho-rf-shhomisyatsya-vtrachaye-v-ukrayini-ponad-40-tysyach-vijskovyh"
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/rosiya-atakuvala-odesu-zaginula-zhinka-shhe-p-yatero-lyudej-postrazhdali-foto"
+        },
+        {
+          "name": "Махала",
+          "url": "https://mahala.com.ua/novyny/rosiia-atakuvala-odesu-ta-bilhorod-dnistrovskyy-dvoie-zahyblykh-ie-postrazhdali"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/news-odesa-udar-rf/33897837.html"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/v-odesi-vnaslidok-ataky-rf-zagynuly-dvoye-lyudej-pyatero-poraneni"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326312-odesi-rosiisku-ataku-zahynuly-dvoie-liudei-piatero-postrazhdaly"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/13/rosiia-nichnym-obstrilom-odesy-vbyla-dvokh-liudei-ie-postrazhdali"
         },
         {
           "name": "ОстроВ",
-          "url": "https://ostro.org/news/vtraty-rf-za-misyats-majzhe-dorivnyuyut-sukupnym-vtratam-ssha-za-14-rokiv-vijny-u-v-yetnami-gensek-i572975"
+          "url": "https://ostro.org/news/rosijski-bezpilotnyky-vbyly-dvoh-lyudej-v-odesi-shhe-p-yatero-distaly-poranennya-misto-atakuvaly-i573084"
         },
         {
-          "name": "Букви",
-          "url": "https://bukvy.org/ryutte-porivnyav-misyachni-vtraty-rosiyi-v-ukrayini-z-vtratamy-ssha-za-14-rokiv-u-v-yetnami"
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/kilkist-postrazhdalih-vnaslidok-rankovoyi-ataki-na-odesu-zrosla-do-semi"
         },
         {
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/rf-za-misjats-vtrachaje-v-ukrajini-majzhe-stilki-zh-vijskovikh-skilki-ssha-za-14-rokiv-u-vjetnami-rjutte.html"
+          "name": "РАІ",
+          "url": "https://rai.ua/novyny/vazhkyi-ranok-v-odesi-vnaslidok-ataky-rf-zahynuly-dvoie-liudei"
         },
         {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/geopolitics/vtrati-rosiyskoji-armiji-v-ukrajini-kilkist-zagiblih-i-poranenih-za-misyac-skladaye-40-tisyach-50658559.html"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/12/riutte-pryrivniav-misiachni-vtraty-rosii-do-vtrat-ssha-za-14-rokiv-u-v-ietnami"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/12/novyna/polityka/rosiya-vtrachaye-majzhe-stilky-soldativ-misyacz-skilky-ssha-14-rokiv-vyetnami-hensek-nato"
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/odeska-ova-povidomyla-pro-novi-zhertvy-vorozhogo-udaru"
         }
       ]
     },
@@ -102,8 +116,28 @@
       ],
       "sources": [
         {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235805.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184132-vid-udaru-rf-u-vinnici-postrazdali-dvi-zinki-poskodzeni-budinki-ta-ditsadok.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1235811.html"
+        },
+        {
           "name": "Суспільне Новини",
           "url": "https://suspilne.media/vinnytsia/1451739-dvi-zinki-travmovani-vnaslidok-nicnoi-ataki-rf-na-vinnicu-poskodzeni-budinki-ta-ditsadok"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-bezpilotnikiv-na-vinnicyu-poshkodzheno-budinki-ta-ditsadok-postrazhdali-dvoye-lyudey-50658799.html"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosiya-atakuvala-vinnytsyu-vnochi-poshkodzheni-budynky-ta-dytyachyj-sadok-ye-postrazhdali"
         },
         {
           "name": "20 хвилин. Вінниця",
@@ -112,6 +146,30 @@
         {
           "name": "NV",
           "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-12-listopada-rf-zapustila-po-ukrajini-grupi-bpla-mapa-povitryanih-trivog-50658782.html"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Osvita/ditsadok-10-u-vinnitsi-zakrili-pislya-obstrilu-batkam-povidomili-pro-z-12012609.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184181-udar-po-vinnici-kilkist-postrazdalih-zrosla-do-troh-poskodzeni-ponad-20-budinkiv.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/13/u-vinnytsi-cherez-ataku-rosii-poshkodzheni-budynky-ta-dytiachyi-sadok"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/13/780680_unaslidok_ataki_rosiyan.html"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/kriza-v-ukrayini/chervoniy-hrest-priviz-materiali-komisiyi-rahuyut-zbitki-yak-vinnitsya-12012626.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rosijski-bezpilotnyky-atakuvaly-vinnytsyu-poraneno-dvoh-zhinok-poshkodzheno-zhytlovi-budynky-ta-i573087"
         }
       ]
     },
@@ -119,18 +177,18 @@
       "id": "story-3",
       "kind": "story",
       "block": "national",
-      "title": "Росіяни вранці вдарили по Запоріжжю: загинув17-річний хлопець, четверо людей поранені",
+      "title": "Росіяни вдарили по Запоріжжю: загинув 17-річний хлопець, четверо людей врятували з-під завалів",
       "audio": "demo/2026-11-13-daily/story-3.mp3",
-      "duration_sec": 9.82,
+      "duration_sec": 9.67,
       "topics": [
         "Війна та безпека",
-        "Міжнародне"
+        "Бізнес"
       ],
       "regions": [
         "zaporizhzhia"
       ],
       "text": [
-        "Російські загарбники вранці 13 листопада завдали ударів по Запоріжжю, загинув 17-річний хлопець і ще четверо людей дістали поранення."
+        "У Запоріжжі внаслідок російської атаки в ніч на 13 листопада по приватному сектору загинув 17-річний хлопець, ще четверо людей постраждали."
       ],
       "sources": [
         {
@@ -156,6 +214,34 @@
         {
           "name": "Inform.zp",
           "url": "https://inform.zp.ua/uk/2026/11/13/405836_u-zaporizhzhi-vnaslidok-rosijskoyi-ataky-zagynuv-17-richnyj-hlopecz"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/rankovyy-udar-po-zaporizhzhyu-zagynuv-17-richnyy-hlopecz-shhe-chotyroh-lyudey-distaly-z-pid-zavaliv"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zaporizhzhia-ataka/33897861.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/13/rosiia-vdaryly-po-zaporizhzhiu-zahynuv-17-richnyi-khlopets-chetvero"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/13/novyna/suspilstvo/zaporizhzhi-vnaslidok-rankovoho-vorozhoho-udaru-zahynuv-pidlitok-ye-postrazhdali"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vorog-vdaryv-po-bagatopoverhivczi-u-zaporizhzhi-vse-shho-vidomo-pro-naslidky-ataky-foto-video"
+        },
+        {
+          "name": "Відбудова.Запоріжжя",
+          "url": "https://vidbudova.zp.ua/zaporizhzhia-dobu-pid-atakamy-zruinovano-bahatopoverkhivku-pidpryiemstvo-ta-pryvatni-budynky-foto"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116366-naslidki-ataki-13-listopada-u-zaporizzi-zaginuv-17-ricnii-pidlitok-zruinovana-infrastruktura"
         }
       ]
     },
@@ -163,52 +249,49 @@
       "id": "story-4",
       "kind": "story",
       "block": "national",
-      "title": "Росія атакувала енергетику та житловий сектор на Рівненщині: без світла залишилися понад 160 населених пунктів",
+      "title": "Starshield повільніше працює на ТОТ, а на території, підконтрольній Україні, обмежень немає — Міноборони",
       "audio": "demo/2026-11-13-daily/story-4.mp3",
-      "duration_sec": 17.48,
+      "duration_sec": 9.04,
       "topics": [
         "Війна та безпека",
-        "Економіка"
+        "Міжнародне"
       ],
-      "regions": [
-        "rivne"
-      ],
+      "regions": [],
       "text": [
-        "Російські війська атакували енергетичну інфраструктуру та житловий сектор Рівненської області.",
-        "Унаслідок удару без електропостачання залишилися населені пункти Рівненського та Сарненського районів, зокрема місто Костопіль."
+        "Starshield повільніше працює на ТОТ, а на території, підконтрольній Україні, обмежень немає, повідомляє hromadske."
       ],
       "sources": [
         {
-          "name": "Полісся News",
-          "url": "https://polissia.news/ponad-160-naselenyh-punktiv-na-rivnenshhyni-zalyshayutsya-bez-svitla"
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4184346-obmezenna-roboti-starshield-fiksuutsa-nad-timcasovo-okupovanou-teritorieu-ukraini-dzerelo.html"
         },
         {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/12/pislia-rosijskoi-ataky-chastyna-rivnenshchyny-znestrumlena"
-        },
-        {
-          "name": "Полісся News",
-          "url": "https://polissia.news/na-rivnenshhyni-vybuhotehniky-obstezhyly-misczya-vluchan-rosijskyh-bezpilotnykiv-foto"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/12/rosiia-atakuvala-enerhetyku-ta-zhytlovyi-sektor-na-rivnenshchyni-bez"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/rivne/1451393-naslidki-udaru-rf-12-listopada-u-kostopilskij-gromadi-na-rivnensini-fotoreportaz"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/rivne/1451599-vibuhova-hvila-vibila-vikna-ta-poskodila-budinki-naslidki-ataki-rf-na-rivnensini"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/rivne/1451725-patero-ludej-poraneni-cerez-ataku-rf-na-rivne"
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/274332-starshield-povilnishe-pratsiuye-nad-tymchasovo-okupovanymy-terytoriiamy-a-nad-pidkontrolniy-ukrayini-obmezen-nemaye-minoborony"
         },
         {
           "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1235801.html"
+          "url": "https://interfax.com.ua/news/general/1236137.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/13/780796_minoboroni_prodovzhuie_fiksuvati.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/13/na-vsii-okupovanii-terytorii-ukrainy-zafiksuvaly-obmezhennia"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131725-obmezhennya-roboti-starshield-fiksuyetsya-nad-usiyeyu-timchasovo-okupovanoyu-teritoriyeyu-ukrajini"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/13/starshield-obmezhuye-shvydkist"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/obmezhennya-roboty-starshield-fiksuyut-nad-usiyeyu-tymchasovo-okupovanoyu-terytoriyeyu-ukrayiny"
         }
       ]
     },
@@ -216,101 +299,142 @@
       "id": "story-5",
       "kind": "story",
       "block": "national",
-      "title": "Європейці долучаться до переговорів Зеленського з Віткоффом і Кушнером у Дубліні — ЗМІ",
+      "title": "«Новий європейський порядок безпеки». РФ вимагає виходу Фінляндії з НАТО, контролю над усім Донбасом та «демілітаризації» Одеси й Миколаєва — Bild",
       "audio": "demo/2026-11-13-daily/story-5.mp3",
-      "duration_sec": 16.85,
+      "duration_sec": 10.29,
       "topics": [
         "Міжнародне",
         "Війна та безпека"
       ],
-      "regions": [],
+      "regions": [
+        "mykolaiv"
+      ],
       "text": [
-        "Представники європейських країн, зокрема Німеччини, Франції та Великої Британії, долучаться до переговорів президента України Володимира Зеленського зі спецпосланцями США Стівом Віткоффом і Джаредом Кушнером, які відбудуться ввечері в четвер, 12 листопада, у Дубліні."
+        "Росія вимагає виходу Фінляндії з НАТО, відмови Альянсу від баз у країнах Балтії, контролю над усім Донбасом, а також «демілітаризації» Одеси та Миколаєва."
       ],
       "sources": [
         {
-          "name": "LB.ua",
-          "url": "https://lb.ua/news/2026/11/12/780514_kremli_rozpochalas_zustrich.html"
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/13/novyna/svit/kontrol-nad-donbasom-ta-vyxid-finlyandiyi-nato-zmi-diznalysya-pro-vymohy-rf-perehovorax"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/vimogi-rosiji-do-novogo-yevropeyskogo-poryadku-umovi-shchodo-nato-ta-ukrajini-50658937.html"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/ne-lyshe-ukraina-i-krainy-baltii-rosiia-khoche-vykliuchennia-finlandii-z-nato-i-zmin-kordoniv-moldovy"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/kreml-prokomentuvav-povidomlennya-zmi-shcho-rosiya-vimagaye-vihodu-finlyandiji-z-nato-50658953.html"
         },
         {
           "name": "ОстроВ",
-          "url": "https://ostro.org/news/vitkoff-pislya-peregovoriv-u-kremli-poobitsyav-novu-zustrich-uzhe-u-trystoronnomu-formati-i573034"
+          "url": "https://ostro.org/news/u-peregovornyh-kuluarah-obgovoryuyut-novi-vymogy-rf-dlya-zavershennya-vijny-vyhid-finlyandiyi-z-i573117"
         },
         {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/geopolitics/peregovori-zelenskogo-z-delegaciyami-yes-i-ssha-zustrich-u-dublini-12-listopada-50658763.html"
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rechnyk-putina-zapevnyaye-shho-rosiya-na-peregovorah-ne-vymagala-vyhodu-finlyandiyi-z-nato-i573115"
+        }
+      ]
+    },
+    {
+      "id": "story-6",
+      "kind": "story",
+      "block": "national",
+      "title": "Дві «Бандеролі» вдарили по Златополю на Харківщині: які наслідки",
+      "audio": "demo/2026-11-13-daily/story-6.mp3",
+      "duration_sec": 19.41,
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "regions": [
+        "kharkiv"
+      ],
+      "text": [
+        "О 15:40 12 листопада російські війська двома БпЛА «Бандероль» атакували приватний сектор Златополя.",
+        "Пошкоджені до 20 будинків, поранені хлопчик 2015 р.н. та чоловік 1938 р.н."
+      ],
+      "sources": [
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiyani-vdarili-raketami-po-zlatopolyu-sered-postrazhdalih-ditina"
         },
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/1451685-pered-zustriccu-z-vitkofom-i-kusnerom-zelenskij-proviv-naradu-z-predstavnikami-evropi"
+          "url": "https://suspilne.media/kharkiv/1451455-dvi-banderoli-vdarili-po-zlatopolu-na-harkivsini-aki-naslidki"
         },
         {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/geopolitics/zelenskiy-u-dublini-rozpochav-zustrich-z-ujitkoffom-ta-kushnerom-50658780.html"
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/12/ditina-postrazhdala-cherez-udar-banderoli-po-harkivshhini-podrobitsi"
         },
         {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/12/8062612"
+          "name": "MediaPort",
+          "url": "https://mediaport.ua/u-zlatopoli-cherez-raketnyy-udar-postrazhdav-khlopchyk-poshkodzheni-shchonaymenshe-20-budynkiv"
         },
         {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/1451705-zelenskij-zustrivsa-zi-specpredstavnikami-trampa-v-irlandii"
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/13/obstrili-harkivshhini-za-dobu-11-postrazhdalih-sered-nih-4-ditej"
         },
         {
-          "name": "hromadske",
-          "url": "https://hromadske.ua/viyna/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini"
-        },
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/vnaslidok-rosijskoyi-ataki-po-zlatopolyu-pomer-litnij-cholovik"
+        }
+      ]
+    },
+    {
+      "id": "story-7",
+      "kind": "story",
+      "block": "national",
+      "title": "У Києві через ворожу атаку загинула жінка, ще восьмеро людей постраждали",
+      "audio": "demo/2026-11-13-daily/story-7.mp3",
+      "duration_sec": 15.62,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "kyiv",
+        "rivne"
+      ],
+      "text": [
+        "Одна людина загинула, ще восьмеро постраждали внаслідок російської атаки на Київ.",
+        "У Солом’янському районі ворожий безпілотник влучив у дев’ятиповерховий житловий будинок, у Шевченківському районі від падіння уламків БпЛА постраждала ще одна людина."
+      ],
+      "sources": [
         {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1235771.html"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1235773.html"
-        },
-        {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/13/8062620"
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/12/zahybla-zhinka-ta-6-postrazhdalykh-naslidky-udaru-po-budynku-u-solom-ianskomu-rayoni-kyieva-fotoreportazh"
         },
         {
           "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-polytics/4184118-zelenskij-zustrivsa-z-vitkoffom-i-kusnerom-ta-nazvav-klucovi-rezultati-peremovin-v-abudabi.html"
+          "url": "https://ukrinform.ua/rubric-regions/4183973-u-kievi-cerez-vorozu-ataku-zaginula-zinka-se-vosmero-ludej-postrazdali.html"
         },
         {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1235777.html"
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/13/8062642"
         },
         {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/world/geopolitics/ukrajina-ta-rf-gotuyut-naybilshiy-obmin-viyskovopolonenimi-zelenskiy-50658788.html"
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vazhlyve-za-nich-i573067"
         },
         {
           "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-zelensky-anonsuvav-obmin-polonenymy-zustrich-kushner-i-witkoff/33897581.html"
+          "url": "https://radiosvoboda.org/a/news-kyiv-ataka-likarnia/33897809.html"
         },
         {
           "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1235799.html"
+          "url": "https://interfax.com.ua/news/general/1235819.html"
         },
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/1451679-zelenskij-zustrivsa-z-predstavnikami-trampa-britania-vvela-sankcii-proti-naftovogo-sektoru-rf-1724-j-den-vijni"
+          "url": "https://suspilne.media/kyiv/1451475-nicna-ataka-na-kiiv-u-likarni-spalahnula-pozeza-e-postrazdalij"
         },
         {
-          "name": "ПІК",
-          "url": "https://pik.net.ua/2026/11/13/zelenskyj-zustrivsya-z-spetspredstavnykamy-ssha-ta-anonsuvav-obmin-polonenymy"
-        },
-        {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/politics/326308-ukraina-hotuietsia-naibilshoho-obminu-viiskovopolonenymy-rosiieiu"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/13/zelenskyj-pislia-zustrichi-z-kushnerom-i-vitkoffom-anonsuvav-najbilshyj-obmin-polonenymy-za-chas-vijny"
-        },
-        {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/11/13/zelenskyy-zustrivsia-zi-vitkoffom-ta-kushnerom-v-irlandii"
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13637-u-shevchenkivskomu-rayoni-kyyeva-vpaly-ulamky-drona-horiv-medzaklad"
         }
       ]
     },

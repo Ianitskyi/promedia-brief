@@ -1,6 +1,6 @@
 # BRIEF — чернетка випуску за 2026-11-13
 
-Статус: **draft** · згенеровано 2026-11-13T07:05:43+00:00 · sha256 `f5b7ebac3a48`
+Статус: **draft** · згенеровано 2026-11-13T13:26:45+00:00 · sha256 `e3d1b4053a84`
 
 > Чернетка для редакційної перевірки. Не публікувати без затвердження.
 
@@ -8,105 +8,112 @@
 ✓ Повний список джерел доступний на сайті BRIEF.
 ✓ Випуск за тринадцяте листопада.
 ✓ Новини України.
-### national #1 · score 0.8986 · Міжнародне, Війна та безпека · обов'язкова
-✓ Генеральний секретар НАТО Марк Рютте заявив, що росія протягом останніх кількох місяців щомісяця втрачає у війні проти України понад 40 тисяч військових загиблими та тяжкопораненими.
-  - чутлива тема (загибл); незалежних джерел: 8
-✓ За попередніми даними, у жовтні кількість російських втрат могла перевищити 50 тисяч.
+### national #1 · score 0.9137 · Війна та безпека, Суспільство · обов'язкова
+✓ Російські війська в ніч на 13 листопада атакували й Одесу.
+  - чутлива тема (атак); незалежних джерел: 10
+✓ Відомо про двох загиблих, ще п’ятеро людей постраждали.
+  - чутлива тема (загибл, постражд); незалежних джерел: 10
 
-  - [LB.ua](https://lb.ua/world/2026/11/12/780410_ryutte_porivnyav_schomisyachni.html) — Рютте порівняв щомісячні втрати Росії в Україні з втратами США за 14 років війни у В'єтнамі
-  - [Рубрика](https://rubryka.com/2026/11/12/tsina-rosijskogo-nastupu-v-ukrayini-ryutte-zayavyv-shho-rf-shhomisyatsya-vtrachaye-v-ukrayini-ponad-40-tysyach-vijskovyh) — Ціна російського наступу в Україні: Рютте заявив, що рф щомісяця втрачає в Україні понад 40 тисяч військових
-  - [ОстроВ](https://ostro.org/news/vtraty-rf-za-misyats-majzhe-dorivnyuyut-sukupnym-vtratam-ssha-za-14-rokiv-vijny-u-v-yetnami-gensek-i572975) — Втрати РФ за місяць майже дорівнюють сукупним втратам США за 14 років війни у В’єтнамі, — генсек НАТО
-  - [Букви](https://bukvy.org/ryutte-porivnyav-misyachni-vtraty-rosiyi-v-ukrayini-z-vtratamy-ssha-za-14-rokiv-u-v-yetnami) — Рютте порівняв місячні втрати Росії в Україні з втратами США за 14 років у В’єтнамі
-  - [ZN.UA](https://zn.ua/ukr/war/rf-za-misjats-vtrachaje-v-ukrajini-majzhe-stilki-zh-vijskovikh-skilki-ssha-za-14-rokiv-u-vjetnami-rjutte.html) — РФ за місяць втрачає в Україні майже стільки ж військових, скільки США за 14 років у В’єтнамі — Рютте
-  - [NV](https://nv.ua/ukr/world/geopolitics/vtrati-rosiyskoji-armiji-v-ukrajini-kilkist-zagiblih-i-poranenih-za-misyac-skladaye-40-tisyach-50658559.html) — Втрати Росії в Україні за місяць наблизились до показника США за 14 років війни у В'єтнамі — Рютте
-  - [Львівський портал](https://portal.lviv.ua/news/2026/11/12/riutte-pryrivniav-misiachni-vtraty-rosii-do-vtrat-ssha-za-14-rokiv-u-v-ietnami) — Рютте прирівняв місячні втрати Росії до втрат США за 14 років у В’єтнамі
-  - [Слово і Діло](https://slovoidilo.ua/2026/11/12/novyna/polityka/rosiya-vtrachaye-majzhe-stilky-soldativ-misyacz-skilky-ssha-14-rokiv-vyetnami-hensek-nato) — Росія втрачає майже стільки ж солдатів на місяць, скільки США за 14 років у В'єтнамі – генсек НАТО
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235823.html) — Одна людина загинула та п'ятеро постраждали внаслідок ворожої атаки на Одесу
+  - [Odesa.Online](https://odessa.online/rosiya-atakuvala-odesu-zaginula-zhinka-shhe-p-yatero-lyudej-postrazhdali-foto) — Росія атакувала Одесу: двоє людей загинули, п’ятеро постраждали (фото)
+  - [Махала](https://mahala.com.ua/novyny/rosiia-atakuvala-odesu-ta-bilhorod-dnistrovskyy-dvoie-zahyblykh-ie-postrazhdali) — Росія атакувала Одесу та Білгород-Дністровський: двоє загиблих, є постраждалі
+  - [Радіо Свобода Україна](https://radiosvoboda.org/a/news-odesa-udar-rf/33897837.html) — Дві людини загинули, п’ять постраждали через удар РФ по Одесі – ОВА
+  - [Курс](https://kurs.if.ua/v-odesi-vnaslidok-ataky-rf-zagynuly-dvoye-lyudej-pyatero-poraneni) — В Одесі внаслідок атаки рф загинули двоє людей, п’ятеро поранені
+  - [МикВісті](https://nikvesti.com/news/defence/326312-odesi-rosiisku-ataku-zahynuly-dvoie-liudei-piatero-postrazhdaly) — В Одесі через російську атаку загинули двоє людей, ще п’ятеро постраждали
+  - [Новинарня](https://novynarnia.com/2026/11/13/rosiia-nichnym-obstrilom-odesy-vbyla-dvokh-liudei-ie-postrazhdali) — Росія нічним обстрілом Одеси вбила двох людей, є постраждалі
+  - [ОстроВ](https://ostro.org/news/rosijski-bezpilotnyky-vbyly-dvoh-lyudej-v-odesi-shhe-p-yatero-distaly-poranennya-misto-atakuvaly-i573084) — Російські безпілотники вбили двох людей в Одесі, ще п’ятеро дістали поранення: місто атакували двічі за ранок
+  - [Odesa.Online](https://odessa.online/kilkist-postrazhdalih-vnaslidok-rankovoyi-ataki-na-odesu-zrosla-do-semi) — Кількість постраждалих внаслідок ранкової атаки на Одесу зросла до семи
+  - [РАІ](https://rai.ua/novyny/vazhkyi-ranok-v-odesi-vnaslidok-ataky-rf-zahynuly-dvoie-liudei) — Важкий ранок в Одесі: внаслідок атаки рф загинули двоє людей
+  - [Informer.od.ua](https://informer.od.ua/news/odeska-ova-povidomyla-pro-novi-zhertvy-vorozhogo-udaru) — Одеська ОВА повідомила про нові жертви ворожого удару
 
-### national #2 · score 0.8831 · Війна та безпека, Суспільство · обов'язкова
+### national #2 · score 0.8931 · Війна та безпека, Суспільство · обов'язкова
 ✓ У Вінниці після нічної атаки РФ 13 листопада пошкоджені житлові будинки та дитсадок.
-  - чутлива тема (атак); незалежних джерел: 3
+  - чутлива тема (атак); незалежних джерел: 9
 ✓ Дві жінки віком 22 і 54 роки госпіталізовані.
 
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235805.html) — Одна людина постраждала та пошкоджено приватні будинки внаслідок ворожої атаки на Вінницю – ОВА
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184132-vid-udaru-rf-u-vinnici-postrazdali-dvi-zinki-poskodzeni-budinki-ta-ditsadok.html) — Від удару РФ у Вінниці постраждали дві жінки, пошкоджені будинки та дитсадок
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235811.html) — Кількість постраждалих унаслідок ворожої атаки на Вінницю зросла до двох жінок – мер
   - [Суспільне Новини](https://suspilne.media/vinnytsia/1451739-dvi-zinki-travmovani-vnaslidok-nicnoi-ataki-rf-na-vinnicu-poskodzeni-budinki-ta-ditsadok) — Травмовані дві жінки та пошкоджений дитсадок: наслідки нічної атаки РФ на Вінницю
+  - [NV](https://nv.ua/ukr/ukraine/events/ataka-bezpilotnikiv-na-vinnicyu-poshkodzheno-budinki-ta-ditsadok-postrazhdali-dvoye-lyudey-50658799.html) — Війська РФ атакували Вінницю: пошкоджено багатоквартирні та приватні будинки, дитячий садок, виникла пожежа, є постраждалі
+  - [Букви](https://bukvy.org/rosiya-atakuvala-vinnytsyu-vnochi-poshkodzheni-budynky-ta-dytyachyj-sadok-ye-postrazhdali) — Росія атакувала Вінницю вночі: пошкоджені будинки та дитячий садок, є постраждалі
   - [20 хвилин. Вінниця](https://vn.20minut.ua/Kryminal/dvi-zhinki-postrazhdali-vid-nichnogo-udaru-po-vinnitsi-poshkodzheni-zh-12012606.html) — Нічна атака на Вінницю: троє людей у лікарні, пошкоджені будинки та дитсадок
   - [NV](https://nv.ua/ukr/ukraine/events/povitryana-trivoga-12-listopada-rf-zapustila-po-ukrajini-grupi-bpla-mapa-povitryanih-trivog-50658782.html) — Нічна атака шахедами: у Рівному дрон поцілив у багатоповерхівку, у Києві пошкоджено лікарню, у Вінниці — дитсадок і будинки — головне
+  - [20 хвилин. Вінниця](https://vn.20minut.ua/Osvita/ditsadok-10-u-vinnitsi-zakrili-pislya-obstrilu-batkam-povidomili-pro-z-12012609.html) — Дитсадок №10 у Вінниці закрили після обстрілу: батькам повідомили про зміни
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184181-udar-po-vinnici-kilkist-postrazdalih-zrosla-do-troh-poskodzeni-ponad-20-budinkiv.html) — Удар по Вінниці: кількість постраждалих зросла до трьох, пошкоджені понад 20 будинків
+  - [Новинарня](https://novynarnia.com/2026/11/13/u-vinnytsi-cherez-ataku-rosii-poshkodzheni-budynky-ta-dytiachyi-sadok) — У Вінниці через атаку Росії пошкоджені будинки та дитячий садок, є постраждалі
+  - [LB.ua](https://lb.ua/society/2026/11/13/780680_unaslidok_ataki_rosiyan.html) — Унаслідок атаки росіян на Вінницю постраждали дві жінки
+  - [20 хвилин. Вінниця](https://vn.20minut.ua/kriza-v-ukrayini/chervoniy-hrest-priviz-materiali-komisiyi-rahuyut-zbitki-yak-vinnitsya-12012626.html) — Червоний Хрест привіз матеріали, комісії рахують збитки: як Вінниця оговтується після атаки
+  - [ОстроВ](https://ostro.org/news/rosijski-bezpilotnyky-atakuvaly-vinnytsyu-poraneno-dvoh-zhinok-poshkodzheno-zhytlovi-budynky-ta-i573087) — Російські безпілотники атакували Вінницю: поранено двох жінок, пошкоджено житлові будинки та дитячий садок
 
-### national #3 · score 0.8764 · Війна та безпека, Міжнародне · обов'язкова
-✓ Російські загарбники вранці 13 листопада завдали ударів по Запоріжжю, загинув 17-річний хлопець і ще четверо людей дістали поранення.
-  - чутлива тема (загин, поранен, удар); незалежних джерел: 6
+### national #3 · score 0.8674 · Війна та безпека, Бізнес · обов'язкова
+✓ У Запоріжжі внаслідок російської атаки в ніч на 13 листопада по приватному сектору загинув 17-річний хлопець, ще четверо людей постраждали.
+  - чутлива тема (загин, постражд, атак); незалежних джерел: 12
 
   - [Суспільне Новини](https://suspilne.media/zaporizhzhia/1443395-rosijski-obstrili-zaporizza-13-listopada-e-zagiblij-ta-poraneni) — Російські обстріли Запоріжжя 13 листопада: є загиблий та поранені
   - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062645) — Росіяни атакували Запоріжжя: загинув 17-річний хлопець, четверо людей врятували з-під завалів
   - [LB.ua](https://lb.ua/society/2026/11/13/780658_rosiyani_atakuvali_zaporizhzhya.html) — Росіяни атакували Запоріжжя. Загинув підліток, є постраждалі
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184178-rosiani-vranci-vdarili-po-zaporizzu-zaginuv17ricnij-hlopec-cetvero-ludej-poraneni.html) — Росіяни вранці вдарили по Запоріжжю: загинув17-річний хлопець, четверо людей поранені
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184178-rosiani-vranci-vdarili-po-zaporizzu-zaginuv17ricnij-hlopec-cetvero-ludej-poraneni.html) — Росіяни вранці вдарили по Запоріжжю: загинув 17-річний хлопець, четверо людей поранені
   - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235834.html) — Загинув підліток і чотирьох людей дістали з-під завалів унаслідок ранкової атаки на Запоріжжя – ОВА
   - [Inform.zp](https://inform.zp.ua/uk/2026/11/13/405836_u-zaporizhzhi-vnaslidok-rosijskoyi-ataky-zagynuv-17-richnyj-hlopecz) — У Запоріжжі внаслідок російської атаки загинув 17-річний хлопець
+  - [Перший Запорізький](https://1news.zp.ua/rankovyy-udar-po-zaporizhzhyu-zagynuv-17-richnyy-hlopecz-shhe-chotyroh-lyudey-distaly-z-pid-zavaliv) — Ранковий удар по Запоріжжю: загинув 17-річний хлопець, ще чотирьох людей дістали з-під завалів, — ФОТО, ВІДЕО
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-zaporizhzhia-ataka/33897861.html) — ОВА: 17-річний хлопець загинув через російський удар у Запоріжжі
+  - [Новинарня](https://novynarnia.com/2026/11/13/rosiia-vdaryly-po-zaporizhzhiu-zahynuv-17-richnyi-khlopets-chetvero) — Росіяни вдарили по Запоріжжю: загинув 17-річний хлопець, четверо людей врятували з-під завалів
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/13/novyna/suspilstvo/zaporizhzhi-vnaslidok-rankovoho-vorozhoho-udaru-zahynuv-pidlitok-ye-postrazhdali) — У Запоріжжі внаслідок ранкового ворожого удару загинув підліток, є постраждалі
+  - [Перший Запорізький](https://1news.zp.ua/vorog-vdaryv-po-bagatopoverhivczi-u-zaporizhzhi-vse-shho-vidomo-pro-naslidky-ataky-foto-video) — Ворог вдарив по багатоповерхівці у Запоріжжі: все, що відомо про наслідки атаки, — ФОТО, ВІДЕО
+  - [Відбудова.Запоріжжя](https://vidbudova.zp.ua/zaporizhzhia-dobu-pid-atakamy-zruinovano-bahatopoverkhivku-pidpryiemstvo-ta-pryvatni-budynky-foto) — Запоріжжя добу під атаками: зруйновано багатоповерхівку, підприємство та приватні будинки. ФОТО
+  - [Район.in.ua](https://rayon.in.ua/news/1116366-naslidki-ataki-13-listopada-u-zaporizzi-zaginuv-17-ricnii-pidlitok-zruinovana-infrastruktura) — У Запоріжжі під час обстрілу загинув 17-річний юнак
 
-### national #4 · score 0.8579 · Війна та безпека, Економіка
-✓ Російські війська атакували енергетичну інфраструктуру та житловий сектор Рівненської області.
+### national #4 · score 0.8478 · Війна та безпека, Міжнародне
+✓ Starshield повільніше працює на ТОТ, а на території, підконтрольній Україні, обмежень немає, повідомляє hromadske.
+
+  - [Укрінформ](https://ukrinform.ua/rubric-ato/4184346-obmezenna-roboti-starshield-fiksuutsa-nad-timcasovo-okupovanou-teritorieu-ukraini-dzerelo.html) — Обмеження роботи Starshield фіксуються над тимчасово окупованою територією України - джерело
+  - [hromadske](https://hromadske.ua/viyna/274332-starshield-povilnishe-pratsiuye-nad-tymchasovo-okupovanymy-terytoriiamy-a-nad-pidkontrolniy-ukrayini-obmezen-nemaye-minoborony) — Starshield повільніше працює на ТОТ, а на території, підконтрольній Україні, обмежень немає — Міноборони
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1236137.html) — Міноборони та ЗСУ фіксують обмеження швидкості Starlink до 161 км/год на окупованих територіях України, йдуть переговори зі SpaceX – джерела
+  - [LB.ua](https://lb.ua/society/2026/11/13/780796_minoboroni_prodovzhuie_fiksuvati.html) — Міноборони продовжує фіксувати обмеження швидкості Starlink на окупованих територіях України
+  - [Новинарня](https://novynarnia.com/2026/11/13/na-vsii-okupovanii-terytorii-ukrainy-zafiksuvaly-obmezhennia) — Від Пентагону і SpaceX чекають пояснень: на всій окупованій території України зафіксували обмеження швидкості руху Starshield до 161 км/год
+  - [Бабель](https://babel.ua/news/131725-obmezhennya-roboti-starshield-fiksuyetsya-nad-usiyeyu-timchasovo-okupovanoyu-teritoriyeyu-ukrajini) — Обмеження роботи Starshield фіксується над усією тимчасово окупованою територією України
+  - [Рубрика](https://rubryka.com/2026/11/13/starshield-obmezhuye-shvydkist) — Міноборони з’ясовує, чому Starshield обмежує швидкість саме над окупованою територією України
+  - [Букви](https://bukvy.org/obmezhennya-roboty-starshield-fiksuyut-nad-usiyeyu-tymchasovo-okupovanoyu-terytoriyeyu-ukrayiny) — Обмеження роботи Starshield фіксують над усією тимчасово окупованою територією України
+
+### national #5 · score 0.8462 · Міжнародне, Війна та безпека
+✓ Росія вимагає виходу Фінляндії з НАТО, відмови Альянсу від баз у країнах Балтії, контролю над усім Донбасом, а також «демілітаризації» Одеси та Миколаєва.
+
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/13/novyna/svit/kontrol-nad-donbasom-ta-vyxid-finlyandiyi-nato-zmi-diznalysya-pro-vymohy-rf-perehovorax) — Контроль над Донбасом та вихід Фінляндії з НАТО: ЗМІ дізналися про вимоги рф на переговорах
+  - [NV](https://nv.ua/ukr/world/geopolitics/vimogi-rosiji-do-novogo-yevropeyskogo-poryadku-umovi-shchodo-nato-ta-ukrajini-50658937.html) — «Новий європейський порядок безпеки». РФ вимагає виходу Фінляндії з НАТО, контролю над усім Донбасом та «демілітаризації» Одеси й Миколаєва — Bild
+  - [Ірта-fax](https://irtafax.com/ne-lyshe-ukraina-i-krainy-baltii-rosiia-khoche-vykliuchennia-finlandii-z-nato-i-zmin-kordoniv-moldovy) — Не лише Україна і країни Балтії: росія хоче виключення Фінландії з НАТО і змін кордонів Молдови
+  - [NV](https://nv.ua/ukr/world/geopolitics/kreml-prokomentuvav-povidomlennya-zmi-shcho-rosiya-vimagaye-vihodu-finlyandiji-z-nato-50658953.html) — У Кремлі відреагували на повідомлення ЗМІ, що Росія вимагає виходу Фінляндії з НАТО
+  - [ОстроВ](https://ostro.org/news/u-peregovornyh-kuluarah-obgovoryuyut-novi-vymogy-rf-dlya-zavershennya-vijny-vyhid-finlyandiyi-z-i573117) — У переговорних кулуарах обговорюють нові вимоги РФ для завершення війни: вихід Фінляндії з НАТО та відмова альянсу від баз у країнах Балтії
+  - [ОстроВ](https://ostro.org/news/rechnyk-putina-zapevnyaye-shho-rosiya-na-peregovorah-ne-vymagala-vyhodu-finlyandiyi-z-nato-i573115) — Речник Путіна запевняє, що Росія на переговорах не вимагала виходу Фінляндії з НАТО
+
+### national #6 · score 0.8438 · Війна та безпека, Бізнес
+✓ О 15:40 12 листопада російські війська двома БпЛА «Бандероль» атакували приватний сектор Златополя.
   - чутлива тема (атак); незалежних джерел: 5
-✓ Унаслідок удару без електропостачання залишилися населені пункти Рівненського та Сарненського районів, зокрема місто Костопіль.
-  - чутлива тема (удар); незалежних джерел: 5
+⚠ Пошкоджені до 20 будинків, поранені хлопчик 2015 р.н. та чоловік 1938 р.н.
+  - згадано минулі роки (2015, 1938) — перевірте, чи це нова подія
+  - чутлива тема (поранен); незалежних джерел: 5
 
-  - [Полісся News](https://polissia.news/ponad-160-naselenyh-punktiv-na-rivnenshhyni-zalyshayutsya-bez-svitla) — Понад 160 населених пунктів на Рівненщині залишаються без світла
-  - [Львівський портал](https://portal.lviv.ua/news/2026/11/12/pislia-rosijskoi-ataky-chastyna-rivnenshchyny-znestrumlena) — Після російської атаки частина Рівненщини знеструмлена
-  - [Полісся News](https://polissia.news/na-rivnenshhyni-vybuhotehniky-obstezhyly-misczya-vluchan-rosijskyh-bezpilotnykiv-foto) — На Рівненщині вибухотехніки обстежили місця влучань російських безпілотників (ФОТО)
-  - [Новинарня](https://novynarnia.com/2026/11/12/rosiia-atakuvala-enerhetyku-ta-zhytlovyi-sektor-na-rivnenshchyni-bez) — Росія атакувала енергетику та житловий сектор на Рівненщині: без світла залишилися понад 160 населених пунктів
-  - [Суспільне Новини](https://suspilne.media/rivne/1451393-naslidki-udaru-rf-12-listopada-u-kostopilskij-gromadi-na-rivnensini-fotoreportaz) — Наслідки удару РФ 11 листопада у Костопільській громаді на Рівненщині. Фоторепортаж
-  - [Суспільне Новини](https://suspilne.media/rivne/1451599-vibuhova-hvila-vibila-vikna-ta-poskodila-budinki-naslidki-ataki-rf-na-rivnensini) — Вибухова хвиля вибила вікна та пошкодила будинки: наслідки атаки РФ на Рівненщині
-  - [Суспільне Новини](https://suspilne.media/rivne/1451725-patero-ludej-poraneni-cerez-ataku-rf-na-rivne) — Шість людей поранені через атаку РФ на Рівненщину
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235801.html) — П'ятеро людей постраждали внаслідок влучання ворожого безпілотника в багатоповерхівку в Рівному – ОВА
+  - [Гвара Медіа](https://gwaramedia.com/rosiyani-vdarili-raketami-po-zlatopolyu-sered-postrazhdalih-ditina) — Росіяни вдарили ракетами по Златополю: серед постраждалих дитина
+  - [Суспільне Новини](https://suspilne.media/kharkiv/1451455-dvi-banderoli-vdarili-po-zlatopolu-na-harkivsini-aki-naslidki) — Дві «Бандеролі» вдарили по Златополю на Харківщині: які наслідки
+  - [Об'єктив Новини](https://objectiv.tv/uk/objectively/2026/11/12/ditina-postrazhdala-cherez-udar-banderoli-po-harkivshhini-podrobitsi) — Дитина постраждала через удар “бандероли” по Харківщині: подробиці
+  - [MediaPort](https://mediaport.ua/u-zlatopoli-cherez-raketnyy-udar-postrazhdav-khlopchyk-poshkodzheni-shchonaymenshe-20-budynkiv) — У Златополі внаслідок ракетного удару постраждали двоє людей, серед них дитина
+  - [Харків Times](https://times.kharkiv.ua/2026/11/13/obstrili-harkivshhini-za-dobu-11-postrazhdalih-sered-nih-4-ditej) — Обстріли Харківщини за добу: 11 постраждалих, серед них 4 дітей
+  - [Гвара Медіа](https://gwaramedia.com/vnaslidok-rosijskoyi-ataki-po-zlatopolyu-pomer-litnij-cholovik) — Внаслідок російської атаки по Златополю помер літній чоловік
 
-### national #5 · score 0.8488 · Міжнародне, Війна та безпека
-✓ Представники європейських країн, зокрема Німеччини, Франції та Великої Британії, долучаться до переговорів президента України Володимира Зеленського зі спецпосланцями США Стівом Віткоффом і Джаредом Кушнером, які відбудуться ввечері в четвер, 12 листопада, у Дубліні.
+### national #7 · score 0.8392 · Війна та безпека, Суспільство
+✓ Одна людина загинула, ще восьмеро постраждали внаслідок російської атаки на Київ.
+  - чутлива тема (загин, постражд, атак); незалежних джерел: 8
+✓ У Солом’янському районі ворожий безпілотник влучив у дев’ятиповерховий житловий будинок, у Шевченківському районі від падіння уламків БпЛА постраждала ще одна людина.
+  - чутлива тема (постражд); незалежних джерел: 8
 
-  - [LB.ua](https://lb.ua/news/2026/11/12/780514_kremli_rozpochalas_zustrich.html) — У Кремлі розпочалась зустріч Кушнера, Віткоффа та Путіна
-  - [ОстроВ](https://ostro.org/news/vitkoff-pislya-peregovoriv-u-kremli-poobitsyav-novu-zustrich-uzhe-u-trystoronnomu-formati-i573034) — Віткофф після переговорів у Кремлі пообіцяв «нову зустріч» уже у тристоронньому форматі
-  - [NV](https://nv.ua/ukr/world/geopolitics/peregovori-zelenskogo-z-delegaciyami-yes-i-ssha-zustrich-u-dublini-12-listopada-50658763.html) — Європейці долучаться до переговорів Зеленського з Віткоффом і Кушнером у Дубліні — ЗМІ
-  - [Суспільне Новини](https://suspilne.media/1451685-pered-zustriccu-z-vitkofom-i-kusnerom-zelenskij-proviv-naradu-z-predstavnikami-evropi) — Перед зустріччю з Віткофом і Кушнером Зеленський провів нараду з представниками Європи
-  - [NV](https://nv.ua/ukr/world/geopolitics/zelenskiy-u-dublini-rozpochav-zustrich-z-ujitkoffom-ta-kushnerom-50658780.html) — Зеленський у Дубліні розпочав зустріч з Віткоффом та Кушнером
-  - [Українська правда](https://pravda.com.ua/news/2026/11/12/8062612) — Зеленський зустрівся з представниками США Кушнером та Віткоффом
-  - [Суспільне Новини](https://suspilne.media/1451705-zelenskij-zustrivsa-zi-specpredstavnikami-trampa-v-irlandii) — Зеленський зустрівся зі спецпредставниками Трампа в Ірландії: анонсовано найбільший обмін полоненими
-  - [hromadske](https://hromadske.ua/viyna/274297-zelenskyy-zustrivsia-iz-vitkoffom-ta-kushnerom-u-dublini) — Зеленський зустрівся з Віткоффом та Кушнером в Ірландії
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235771.html) — Зеленський у Дубліні погодив позиції з радниками Е4 та ЄС перед зустріччю з Віткоффом і Кушнером
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235773.html) — Зеленський зустрівся зі спецпредставниками президента США у Дубліні - ЗМІ
-  - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062620) — Зеленський анонсує найбільший обмін військовополоненими
-  - [Укрінформ](https://ukrinform.ua/rubric-polytics/4184118-zelenskij-zustrivsa-z-vitkoffom-i-kusnerom-ta-nazvav-klucovi-rezultati-peremovin-v-abudabi.html) — Зеленський зустрівся з Віткоффом і Кушнером та назвав ключові результати перемовин в Абу-Дабі
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235777.html) — Україна та РФ проведуть найбільший обмін військовополоненими – Зеленський після зустрічі з представниками Трампа
-  - [NV](https://nv.ua/ukr/world/geopolitics/ukrajina-ta-rf-gotuyut-naybilshiy-obmin-viyskovopolonenimi-zelenskiy-50658788.html) — Україна та РФ готують найбільший обмін військовополоненими — Зеленський
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-zelensky-anonsuvav-obmin-polonenymy-zustrich-kushner-i-witkoff/33897581.html) — Зеленський анонсував «найбільший» обмін полоненими після зустрічі з Кушнером і Віткоффом
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235799.html) — Зеленський назвав три головні результати зустрічі з Віткоффом і Кушнером за підсумками переговорного тижня
-  - [Суспільне Новини](https://suspilne.media/1451679-zelenskij-zustrivsa-z-predstavnikami-trampa-britania-vvela-sankcii-proti-naftovogo-sektoru-rf-1724-j-den-vijni) — Зеленський зустрівся з представниками Трампа, Британія ввела санкції проти нафтового сектору РФ. 1724-й день війни
-  - [ПІК](https://pik.net.ua/2026/11/13/zelenskyj-zustrivsya-z-spetspredstavnykamy-ssha-ta-anonsuvav-obmin-polonenymy) — Зеленський зустрівся з спецпредставниками США та анонсував обмін полоненими
-  - [МикВісті](https://nikvesti.com/news/politics/326308-ukraina-hotuietsia-naibilshoho-obminu-viiskovopolonenymy-rosiieiu) — Україна готується до найбільшого обміну військовополоненими з Росією, — Зеленський
-  - [Львівський портал](https://portal.lviv.ua/news/2026/11/13/zelenskyj-pislia-zustrichi-z-kushnerom-i-vitkoffom-anonsuvav-najbilshyj-obmin-polonenymy-za-chas-vijny) — Зеленський після зустрічі з Кушнером і Віткоффом анонсував найбільший обмін полоненими за час війни
-  - [Громадське радіо](https://hromadske.radio/news/2026/11/13/zelenskyy-zustrivsia-zi-vitkoffom-ta-kushnerom-v-irlandii) — Зеленський зустрівся зі Віткоффом та Кушнером в Ірландії
-
-### national #6 · score 0.8472 · Війна та безпека, Міжнародне
-✓ У четвер, 12 листопада, російські війська завдали щонайменше шести ударів по Краматорську Донецької області.
-  - чутлива тема (удар); незалежних джерел: 7
-✓ Внаслідок атак загинули четверо мирних жителів, ще щонайменше шестеро людей зазнали поранень.
-  - чутлива тема (загин, поранен, атак); незалежних джерел: 7
-
-  - [Вчасні Новини](https://vchasno.news/aviabomby-ta-fpv-drony-po-zhytlovyh-rajonah-u-kramatorsku-za-den-zagynuly-chetvero-lyudej) — Авіабомби та FPV-дрони по житлових районах: у Краматорську за день загинули четверо людей
-  - [Вільне радіо](https://freeradio.com.ua/chetvero-liudei-zahynuly-ta-shestero-zaznaly-poranen-cherez-udary-rf-po-kramatorsku-12-lystopada) — Четверо людей загинули та шестеро зазнали поранень через удари РФ по Краматорську 12 листопада
-  - [Новини Донбасу](https://novosti.dn.ua/news/407362-rosiyany-protyagom-dnya-vbyly-chotyroh-lyudej-u-kramatorsku) — Росіяни за день вбили чотирьох людей у Краматорську
-  - [Новинарня](https://novynarnia.com/2026/11/12/rosiiany-za-den-shist-raziv-byly-po-kramatorsku-chetvero-zahyblykh) — Росіяни за день шість разів били по Краматорську: четверо загиблих, щонайменше шестеро поранених
-  - [Район.in.ua](https://rayon.in.ua/news/1116198-rosiiani-cilii-den-bili-po-zitlovix-kvartalax-kramatorska-cetvero-zagiblix-i-shhonaimense-sestero-poranenix) — У Краматорську російські удари вбили чотирьох людей
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184105-cerez-udari-rf-po-kramatorsku-za-den-zaginuli-cetvero-ludej-se-sestero-poraneni.html) — Через удари РФ по Краматорську за день загинули четверо людей, ще шестеро поранені
-  - [NV](https://nv.ua/ukr/ukraine/events/obstril-kramatorska-12-listopada-za-den-zaginuli-chetvero-lyudey-shestero-poraneni-50658777.html) — Росіяни за день вбили чотирьох людей у Краматорську, ще шестеро поранені — фото
-  - [Новини Донбасу](https://novosti.dn.ua/news/407400-rosiyany-za-dobu-vbyly-chotyroh-zhyteliv-donechchyny) — Росіяни за добу вбили чотирьох жителів Донеччини
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184180-rosiani-za-dobu-vbili-cotiroh-civilnih-na-doneccini-semero-poranenih.html) — Росіяни за добу вбили чотирьох цивільних на Донеччині, семеро поранених
-
-### national #7 · score 0.8394 · Війна та безпека, Бізнес
-✓ Уранці 13 листопада російські окупаційні війська атакували Одесу ударними безпілотниками, унаслідок чого двоє людей загинули, ще п'ятеро дістали поранення.
-  - чутлива тема (загин, поранен, удар); незалежних джерел: 5
-
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235823.html) — Одна людина загинула та п'ятеро постраждали внаслідок ворожої атаки на Одесу
-  - [Odesa.Online](https://odessa.online/rosiya-atakuvala-odesu-zaginula-zhinka-shhe-p-yatero-lyudej-postrazhdali-foto) — Росія атакувала Одесу: двоє людей загинули, п’ятеро постраждали (фото)
-  - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062647) — Росіяни вдарили по Одесі реактивними дронами: двоє людей загинули, п’ятеро поранені
-  - [Махала](https://mahala.com.ua/novyny/rosiia-atakuvala-odesu-ta-bilhorod-dnistrovskyy-dvoie-zahyblykh-ie-postrazhdali) — Росія атакувала Одесу та Білгород-Дністровський: двоє загиблих, є постраждалі
-  - [Радіо Свобода Україна](https://radiosvoboda.org/a/news-odesa-udar-rf/33897837.html) — Дві людини загинули, п’ять постраждали через удар РФ по Одесі – ОВА
+  - [Громадське радіо](https://hromadske.radio/news/2026/11/12/zahybla-zhinka-ta-6-postrazhdalykh-naslidky-udaru-po-budynku-u-solom-ianskomu-rayoni-kyieva-fotoreportazh) — Загибла жінка та 6 постраждалих: наслідки удару по будинку у Соломʼянському районі Києва (фоторепортаж)
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4183973-u-kievi-cerez-vorozu-ataku-zaginula-zinka-se-vosmero-ludej-postrazdali.html) — У Києві через ворожу атаку загинула жінка, ще восьмеро людей постраждали
+  - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062642) — Росіяни атакували лікарню в Києві: є постраждалий, спалахнула пожежа – ДСНС
+  - [ОстроВ](https://ostro.org/news/vazhlyve-za-nich-i573067) — ВАЖЛИВЕ ЗА НІЧ
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-kyiv-ataka-likarnia/33897809.html) — У Києві через російську атаку виникла пожежа в лікарні, одна людина постраждала – ДСНС
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235819.html) — Одна людина постраждала та сімох урятовано через пожежу в лікарні Києва внаслідок удару РФ – ДСНС
+  - [Суспільне Новини](https://suspilne.media/kyiv/1451475-nicna-ataka-na-kiiv-u-likarni-spalahnula-pozeza-e-postrazdalij) — Нічна атака на Київ: у лікарні спалахнула пожежа, є постраждалий
+  - [Твоє місто](https://tvoemisto.tv/uk/news/13637-u-shevchenkivskomu-rayoni-kyyeva-vpaly-ulamky-drona-horiv-medzaklad) — У Шевченківському районі Києва впали уламки дрона: горів медзаклад
 
 ✓ Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.
 ✓ Посилання на всі джерела — на сайті BRIEF.
@@ -115,54 +122,74 @@
 **[ЗВУКОВИЙ ПЕРЕХІД]**
 
 ✓ А тепер — новини регіонів.
-### regional #1 · score 0.8124 · Війна та безпека, Суспільство
-✓ У Шевченківському районі Києва внаслідок нічної російської атаки спалахнула пожежа в медзакладі: одна людина постраждала, сімох людей врятували надзвичайники, ще 30 пацієнтів та працівників вивели в безпечне місце.
-  - чутлива тема (постражд, атак); незалежних джерел: 5
+### regional #1 · score 0.8318 · Економіка
+✓ У неділю, 15 листопада, у Київському районі Харкова з 08:30 до 18:00 триватимуть ремонтні роботи.
+✓ В обленерго оприлюднили перелік вулиць, де вимкнуть електропостачання.
 
-  - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062642) — Росіяни атакували лікарню в Києві: є постраждалий, спалахнула пожежа – ДСНС
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-kyiv-ataka-likarnia/33897809.html) — У Києві через російську атаку виникла пожежа в лікарні, одна людина постраждала – ДСНС
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235819.html) — Одна людина постраждала та сімох урятовано через пожежу в лікарні Києва внаслідок удару РФ – ДСНС
-  - [ОстроВ](https://ostro.org/news/vnochi-rosiyany-byly-po-kyyevu-vinnytsi-rivnomu-ta-harkivshhyni-ye-postrazhdali-i573074) — Вночі росіяни били по Києву, Вінниці, Рівному та Харківщині. Є постраждалі
-  - [Суспільне Новини](https://suspilne.media/kyiv/1451475-nicna-ataka-na-kiiv-u-likarni-spalahnula-pozeza-e-postrazdalij) — Нічна атака на Київ: у лікарні спалахнула пожежа, є постраждалий
+  - [Суспільне Новини](https://suspilne.media/kharkiv/1451573-svitla-ne-bude-do-1800-odin-z-rajoniv-harkova-znestrumlat-15-listopada) — Світла не буде до 18:00: один з районів Харкова знеструмлять 15 листопада
+  - [Харків Times](https://times.kharkiv.ua/2026/11/12/u-kiyivskomu-rajoni-harkova-15-listopada-vidklyuchat-svitlo) — У Київському районі Харкова 15 листопада відключать світло
+  - [Об'єктив Новини](https://objectiv.tv/uk/objectively/2026/11/13/chastina-kiyivskogo-rajonu-v-nedilyu-zalishitsya-bez-svitla-prichina) — Частина Київського району в неділю залишиться без світла – причина
+  - [KHARKIV Today](https://2day.kh.ua/ua/kharkow/u-chastyni-kharkova-vidklyuchat-svitlo-na-10-hodyn) — Частину Харкова знеструмлять на 10 годин
 
-### regional #2 · score 0.7989 · Війна та безпека, Економіка
-✓ У ніч проти 13 листопада російські війська атакували Дніпро та Нікопольський район Дніпропетровщини.
-  - чутлива тема (атак); незалежних джерел: 3
-✓ ДЛя ударів застосовували безпілотники та артилерію.
-  - чутлива тема (удар); незалежних джерел: 3
+### regional #2 · score 0.823 · Війна та безпека, Міжнародне
+✓ "За минулу добу поліція зафіксувала 1 502 удари по лінії фронту та житловому сектору області", - йдеться у повідомленні поліції Донецької області.
+  - чутлива тема (удар); незалежних джерел: 7
+✓ Під вогнем перебували 6 населених пунктів: міста Дружківка, Краматорськ, Слов’янськ, селища Біленьке, Олександрівка, село...
 
+  - [Новини Донбасу](https://novosti.dn.ua/news/407411-na-donechchyni-rosijskyj-vogon-poshkodyv-budynky-hram-i-shkolu) — На Донеччині російський вогонь пошкодив будинки, храм і школу
+  - [ОстроВ](https://ostro.org/news/rosiyany-zavdaly-po-donechchyni-bilshe-nizh-pivtory-tysyachi-udariv-za-dobu-u-zhytlovyh-rajonah-i573082) — Росіяни завдали по Донеччині більше ніж півтори тисячі ударів за добу. У житлових районах загинули чотири людини, семеро поранені
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235904.html) — Окупанти обстріляли 6 населених пунктів Донецької області за добу, 4 жителів загинули – Нацполіція
+  - [Вільне радіо](https://freeradio.com.ua/u-kramatorskii-hromadi-zahynuly-chetvero-tsyvilnykh-poraneni-shche-semero-iak-mynulo-12-lystopada-na-donechchyni-zvedennyu) — У Краматорській громаді загинули четверо цивільних, поранені ще семеро: як минуло 12 листопада на Донеччині (ЗВЕДЕННЯ)
+  - [Східний Варіант](https://v-variant.com.ua/ruinuvannia-29-tsivilnikh-obiektiv-u-politsiyi-pokazali-naslidki-obstriliv-doniechchini-foto) — Руйнування 29 цивільних об'єктів: у поліції показали наслідки обстрілів Донеччини (фото)
+  - [Вчасні Новини](https://vchasno.news/rosiyany-obstrilyaly-shist-naselenyh-punktiv-donechchyny-ye-zagybli-ta-poraneni) — Росіяни обстріляли шість населених пунктів Донеччини: є загиблі та поранені
+  - [Реальна газета](https://realgazeta.com.ua/chietviero-liudiei-zaghinuli-na-doniechchini-vnaslidok-obstriliv-armiyi-rf-ie-postrazhdali) — Четверо людей загинули на Донеччині внаслідок обстрілів армії РФ, є постраждалі
+
+### regional #3 · score 0.8184 · Війна та безпека, Міжнародне
+✓ Російські загарбники протягом дня понад 40 разів атакували Дніпропетровську область, унаслідок чого поранення дістали троє людей, загинули тварини на агропідприємстві.
+  - чутлива тема (загин, поранен, атак); незалежних джерел: 5
+
+  - [Dnipro.media](https://dnipro.media/novyny-dnipro/ataky-na-dnipropetrovshhynu-ponad-40-udariv-po-troh-rajonah-2) — Атаки на Дніпропетровщину: понад 40 ударів по трьох районах
+  - [Суспільне Новини](https://suspilne.media/dnipro/1451595-troe-ludej-poraneni-zaginulo-zo-20-koriv-rf-bila-po-troh-rajonah-dnipropetrovsini-dronami-j-artilerieu) — Троє людей поранені, загинуло зо 20 корів: РФ била по трьох районах Дніпропетровщини дронами й артилерією
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4183980-na-dnipropetrovsini-vnaslidok-udariv-rf-protagom-dna-postrazdali-troe-ludej.html) — На Дніпропетровщині внаслідок ударів РФ протягом дня постраждали троє людей
+  - [LB.ua](https://lb.ua/society/2026/11/12/780598_ponad_40_raziv_uprodovzh_dnya.html) — Понад 40 разів упродовж дня росіяни атакували Дніпропетровщину: є поранені
+  - [Місто і річка](https://mistorichka.media/novyny/ponad-40-raziv-atakuvaly-dnipropetrovshchynu-12-lystopada) — Понад 40 атак за день: на Дніпровщині троє поранених, загинули близько 20 корів
   - [Dnipro.media](https://dnipro.media/novyny-dnipro/ataky-na-dnipropetrovshhynu-rosiyany-byly-po-dnipru-ta-nikopolshhyni) — Атаки на Дніпропетровщину: росіяни били по Дніпру та Нікопольщині
   - [Суспільне Новини](https://suspilne.media/dnipro/1451751-armia-rf-atakuvala-dnipro-ta-nikopolsinu-stalas-pozeza) — Армія РФ атакувала Дніпро та Нікопольщину: сталась пожежа
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4184154-rosiani-z-vecora-obstrilali-dva-rajoni-dnipropetrovsini-spalahnula-pozeza.html) — Росіяни з вечора обстріляли два райони Дніпропетровщини, спалахнула пожежа
-  - [Суспільне Новини](https://suspilne.media/dnipro/1451783-naslidki-atak-vidklucenna-svitla-pogoda-golovni-novini-dnipra-ta-oblasti-13-listopada) — Наслідки атак, відключення світла, погода. Головні новини Дніпра та області 13 листопада
 
-### regional #3 · score 0.7971 · Війна та безпека, Політика
-✓ Постраждалим надають необхідну медичну допомогу Сообщение Четверо енергетиків постраждали під час російської атаки на Полтавщину появились сначала на Кременчуцький Телеграф .
-  - чутлива тема (постражд, атак); незалежних джерел: 4
+### regional #4 · score 0.7962 · Війна та безпека, Міжнародне
+✓ Шість людей поранені через атаку РФ на Рівне після удару безпілотником.
+  - чутлива тема (поранен, удар, атак); незалежних джерел: 14
 
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-minenerho-ataka-znestrumlennia/33896884.html) — Міненерго: через атаку РФ є знеструмлення у дев’яти областях, поранені четверо енергетиків
-  - [Кременчуцький Телеграф](https://telegraf.in.ua/plots/putin/chetvero-energetykiv-postrazhdaly-pid-chas-rosijskoyi-ataky-na-poltavshhynu.html) — Четверо енергетиків постраждали під час російської атаки на Полтавщину
-  - [Молодий буковинець](https://molbuk.ua/ukraine/366512-rosiia-atakuvala-ukrainsku-energetyku-v-iakykh-oblastiakh-pereboi-zi-svitlom.html) — Росія атакувала українську енергетику: в яких областях перебої зі світлом
-  - [Полтавська думка](https://dumka.poltava.ua/na-poltavshchyni-vnaslidok-rosijskoi-ataky-poraneni-enerhetyky) — На Полтавщині внаслідок російської атаки поранені енергетики
+  - [Суспільне Новини](https://suspilne.media/rivne/1451725-patero-ludej-poraneni-cerez-ataku-rf-na-rivne) — Шість людей поранені через атаку РФ на Рівненщину
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235801.html) — П'ятеро людей постраждали внаслідок влучання ворожого безпілотника в багатоповерхівку в Рівному – ОВА
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/13/novyna/bezpeka/pyatero-lyudej-postrazhdaly-cherez-udar-po-bahatopoverxivczi-rivnomu) — Шість людей постраждали через удар по багатоповерхівці в Рівному (доповнено)
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184124-u-rivnomu-rosijskij-bezpilotnik-pociliv-u-bagatopoverhivku-patero-poranenih.html) — У Рівному російський безпілотник поцілив у багатоповерхівку, п'ятеро поранених
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1235807.html) — Кількість поранених внаслідок удару БпЛА по багатоповерхівці в Рівному зросла до шести людей – ОВА
+  - [Українська правда](https://pravda.com.ua/news/2026/11/13/8062625) — Росіяни влучили безпілотником у багатоповерхівку в Рівному: шестеро поранених
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-rivne-vinnytsia-ataka/33897797.html) — У Рівному через удар РФ поранені шість людей, у Вінниці постраждали дві жінки – влада
+  - [ПІК](https://pik.net.ua/2026/11/13/u-rivnomu-vorozhyj-bezpilotnyk-vluchyv-u-bagatopoverhivku-poraneni-shestero-lyudej-foto) — У Рівному ворожий безпілотник влучив у багатоповерхівку: поранені шестеро людей (ФОТО)
+  - [Полісся News](https://polissia.news/vorozhyj-bezpilotnyk-vluchyv-u-bagatopoverhivku-u-rivnomu-ye-poraneni-sered-nyh-dity) — Ворожий безпілотник влучив у багатоповерхівку у Рівному: є поранені, серед них діти
+  - [LB.ua](https://lb.ua/society/2026/11/13/780642_rosiyani_atakuvali_bezpilotnikom.html) — Росіяни атакували безпілотником багатоповерхівку в Рівному: п'ятеро постраждалих
+  - [Полісся News](https://polissia.news/r) — Евакуювали 42 мешканців і завершили роботи: ДСНС повідомила про наслідки удару рф по багатоповерхівці в Рівному
+  - [NV](https://nv.ua/ukr/ukraine/events/ataka-na-rivne-bpla-pociliv-u-budinok-vinikla-pozhezha-sered-postrazhdalih-ye-diti-50658794.html) — Російський БПЛА поцілив у багатоповерхівку в Рівному: виникла пожежа, шестеро постраждалих, двоє з них — діти
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184167-sestero-poranenih-sered-akih-diti-u-rivnomu-likviduvali-pozezu-v-bagatopoverhivci-pisla-udaru-rf.html) — Шестеро поранених, серед яких діти: у Рівному ліквідували пожежу в багатоповерхівці після удару РФ
+  - [Букви](https://bukvy.org/u-rivnomu-rosijskyj-dron-vluchyv-u-bagatopoverhivku-sered-poranenyh-dvoye-ditej) — У Рівному російський дрон влучив у багатоповерхівку: серед поранених двоє дітей
+  - [Новинарня](https://novynarnia.com/2026/11/13/rosiiskyi-bpla-potsilyv-u-bahatopoverkhivku-v-rivnomu-vynykla) — Російський БПЛА поцілив у багатоповерхівку в Рівному: виникла пожежа, серед постраждалих – діти
+  - [20 хвилин. Тернопіль](https://te.20minut.ua/Podii/rosiya-zavdalaudaru-po-bagatopoverhivtsi-v-rivnomu-shestero-poranenih--12012610.html) — Росія завдала удару по багатоповерхівці в Рівному: шестеро поранених, серед них двоє дітей
+  - [Громадське радіо](https://hromadske.radio/news/2026/11/13/u-rivnomu-vnaslidok-rosiyskoho-udaru-po-bahatopoverkhivtsi-poraneni-shestero-liudey) — У Рівному внаслідок російського удару по багатоповерхівці поранені шестеро людей
+  - [Полісся News](https://polissia.news/majzhe-40-zayav-pro-poshkodzhennya-majna-u-rivnomu-tryvaye-dopomoga-meshkanczyam-postrazhdaloyi-vid-udaru-bagatopoverhivky) — Майже 40 заяв про пошкодження майна: у Рівному триває допомога мешканцям постраждалої від удару багатоповерхівки
 
-### regional #4 · score 0.7964 · Війна та безпека, Економіка
-✓ На Волині 13 листопада вводять обмеження потужності електроенергії для промисловості та бізнесу через наслідки ударів Росії по енергосистемі.
-  - чутлива тема (удар); незалежних джерел: 3
+### regional #5 · score 0.7944 · Війна та безпека, Суспільство
+✓ Для забезпечення потреб громади запустили резервні джерела живлення.
 
-  - [Район.in.ua](https://rayon.in.ua/news/1116189-na-volini-13-listopada-diiatimut-grafiki-obmezennia-potuznosti-dlia-promislovosti-ta-biznesu) — На Волині обмежать потужність для бізнесу 13 листопада
-  - [Суспільне Новини](https://suspilne.media/lutsk/1432261-13-listopada-na-volini-obmezat-elektropostacanna-biznesu-j-promislovosti) — 13 листопада на Волині обмежать електропостачання бізнесу й промисловості
-  - [Волинь Оnline](https://volynonline.com/na-volyni-diyut-grafiky-obmezhennya-potuzhnosti-dlya-biznesu-pislya-vorozhyh-obstriliv) — На Волині діють графіки обмеження потужності для бізнесу після ворожих обстрілів
-
-### regional #5 · score 0.7951 · Економіка, Суспільство
-✓ 13 листопада, у Запоріжжі та області діятимуть графіки погодинних відключень світла Знеструмлення передбачені для 12 підчерг упродовж усієї доби.
-
-  - [Перший Запорізький](https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-pyatnyczyu-13-lystopada) — Відключення світла у Запоріжжі: графік на п’ятницю, 13 листопада
-  - [Суспільне Новини](https://suspilne.media/zaporizhzhia/1430335-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-13-listopada-2) — Погодинні відключення світла у Запорізькій області: графік на 13 листопада
-  - [Inform.zp](https://inform.zp.ua/uk/2026/11/13/405826_vidklyuchennya-svitla-u-zaporizhzhi-13-lystopada-grafik) — Відключення світла у Запоріжжі 13 листопада: графік
-  - [Inform.zp](https://inform.zp.ua/uk/2026/11/13/405842_grafik-vidklyuchen-svitla-u-zaporizhzhi-na-13-lystopada-onovleni-godyny) — Графік відключень світла у Запоріжжі на 13 листопада: оновлені години
+  - [LB.ua](https://lb.ua/society/2026/11/13/780736_shosttsi_sumschini_cherez.html) — У Шостці на Сумщині через обстріли припинилося енерго-, водо- та теплопостачання
+  - [Ямпіль.INFO](https://yampil.info/archives/90282.html) — У Шостці через російські обстріли та масштабне знеструмлення частини Сумщини відсутнє електро-, водо- та теплопостачання
+  - [Кордон.Медіа](https://kordon.media/masshtabne-znestrumlennya-v-chastyni-sumshhyny-cherez-vorozhi-udary) — У Конотопі та Шостці масштабне знеструмлення: працюють пункти незламності
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184345-u-sostci-cerez-ataki-rf-nemae-vodi-svitla-j-opalenna.html) — У Шостці через атаки РФ немає води, світла й опалення
 
 ✓ А тепер — Волинь.
-### local:volyn #1 · score 0.7964 · Війна та безпека, Економіка
+### local:volyn #1 · score 0.7509 · Війна та безпека, Економіка
 ✓ На Волині 13 листопада вводять обмеження потужності електроенергії для промисловості та бізнесу через наслідки ударів Росії по енергосистемі.
   - чутлива тема (удар); незалежних джерел: 3
 
@@ -170,44 +197,52 @@
   - [Суспільне Новини](https://suspilne.media/lutsk/1432261-13-listopada-na-volini-obmezat-elektropostacanna-biznesu-j-promislovosti) — 13 листопада на Волині обмежать електропостачання бізнесу й промисловості
   - [Волинь Оnline](https://volynonline.com/na-volyni-diyut-grafiky-obmezhennya-potuzhnosti-dlya-biznesu-pislya-vorozhyh-obstriliv) — На Волині діють графіки обмеження потужності для бізнесу після ворожих обстрілів
 
-### local:volyn #2 · score 0.5657 · Суспільство, Війна та безпека
+### local:volyn #2 · score 0.5387 · Суспільство, Війна та безпека
 ⚠ Ігор Юрійович Малик народився 22 серпня 1986 року в Луцьку.
   - згадано минулі роки (1986) — перевірте, чи це нова подія
 ✓ Навчався у загальноосвітній школі № 15.
 
   - [Волинь Оnline](https://volynonline.com/na-vijni-zagynuv-zahysnyk-z-luczka-igor-malyk) — На війні загинув захисник з Луцька Ігор Малик
 
-### local:volyn #3 · score 0.541 · Війна та безпека, Міжнародне
-✓ Вночі 12 листопада росіяни атакували Ковель у Волинській області реактивними безпілотниками, внаслідок удару постраждала людина.
-  - чутлива тема (постражд, удар, атак); незалежних джерел: 2
+### local:volyn #3 · score 0.4257 · Бізнес, Економіка
+✓ Відбулося щотижневе засідання платформи «Діалог влади з бізнесом».
+✓ Цього разу представники влади, профільних служб, територіальних громад та підприємці обговорили підготовку автотранспортних підприємств до роботи в осінньо-зимовий період і формування відкритого реєстру приміських та міжміських автобусних маршрутів.
 
-  - [Сила правди](https://sylapravdy.com/vnaslidok-rosijskoyi-dronovoyi-ataky-u-koveli-po-avtostoyanczi-travmuvavsya-54-richnyj-cholovik) — Через дронову атаку на автостоянку у Ковелі травмована людина
-  - [Слово і Діло](https://slovoidilo.ua/2026/11/12/novyna/suspilstvo/vnochi-reaktyvnyj-dron-atakuvav-mytnyj-terminal-koveli-ye-postrazhdalyj) — Вночі реактивний дрон атакував митний термінал у Ковелі, є постраждалий
+  - [Волинь Оnline](https://volynonline.com/na-volyni-obgovoryly-pidgotovku-avtopereviznykiv-do-zymy-ta-stvorennya-vidkrytogo-reyestru-marshrutiv) — На Волині обговорили підготовку автоперевізників до зими та створення відкритого реєстру маршрутів
 
 ✓ Далі — новини регіону: Хмельниччина.
-### local:khmelnytskyi #1 · score 0.6943 · Суспільство, Війна та безпека
-✓ Одна дитина і один чоловік травмувались унаслідок російської атаки у Хмельницькому сьогодні, 12 листопада.
-  - чутлива тема (атак); незалежних джерел: 3
-
-  - [Є](https://ye.ua/syspilstvo/81062_U_Hmelnickomu_cherez_rosiysku_ataku_goriv_zhitloviy_budinok__travmuvalisya_cholovik_ta_ditina_(ONOVLENO).html) — У Хмельницькому через російську атаку горів житловий будинок: травмувалися чоловік та дитина (ОНОВЛЕНО)
-  - [Суспільне Новини](https://suspilne.media/khmelnytskiy/1451525-odna-ditina-i-odin-doroslij-travmuvalis-u-hmelnickomu-vnaslidok-rosijskoi-ataki-12-listopada) — Одна дитина і один дорослий травмувались у Хмельницькому внаслідок російської атаки 12 листопада
-  - [Укрінформ](https://ukrinform.ua/rubric-regions/4184088-u-hmelnickomu-cerez-rosijsku-ataku-postrazdali-dvoe-ludej.html) — У Хмельницькому через російську атаку постраждали двоє людей
-
-### local:khmelnytskyi #2 · score 0.6621 · Економіка, Суспільство
+### local:khmelnytskyi #1 · score 0.6399 · Економіка, Суспільство
 ✓ Завтра, 13 листопада, на Хмельниччині буде діяти графік погодинних відключень світла.
 ✓ Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності.
 
   - [Суспільне Новини](https://suspilne.media/khmelnytskiy/1450839-grafik-pogodinnih-vidklucen-svitla-na-hmelniccini-13-listopada) — Графік погодинних відключень світла на Хмельниччині 13 листопада
   - [Є](https://ye.ua/syspilstvo/81063_Grafik_vidklyichen_elektroenergiyi_u_Hmelnickiy_oblasti_na_13_listopada.html) — Графік відключень електроенергії у Хмельницькій області на 13 листопада
 
-### local:khmelnytskyi #3 · score 0.5666 · Економіка, Суспільство
+### local:khmelnytskyi #2 · score 0.574 · Суспільство, Війна та безпека
+✓ Одна дитина і один чоловік травмувались унаслідок російської атаки у Хмельницькому сьогодні, 12 листопада.
+  - чутлива тема (атак); незалежних джерел: 2
+
+  - [Є](https://ye.ua/syspilstvo/81062_U_Hmelnickomu_cherez_rosiysku_ataku_goriv_zhitloviy_budinok__travmuvalisya_cholovik_ta_ditina_(ONOVLENO).html) — У Хмельницькому через російську атаку горів житловий будинок: травмувалися чоловік та дитина (ОНОВЛЕНО)
+  - [Суспільне Новини](https://suspilne.media/khmelnytskiy/1451525-odna-ditina-i-odin-doroslij-travmuvalis-u-hmelnickomu-vnaslidok-rosijskoi-ataki-12-listopada) — Одна дитина і один дорослий травмувались у Хмельницькому внаслідок російської атаки 12 листопада
+
+### local:khmelnytskyi #3 · score 0.5448 · Економіка, Суспільство
 ✓ "16 листопада у хабі Гірської громади в Хмельницькому відбудеться прийом внутрішньо переміщених осіб фахівцем ГУ ПФУ в Луганській області", - повідомила Луганська ОВА в соцмережах 12 листопада.
 ✓ За вирішенням пенсійних питань можна звертатися з 10:00 до 12:00 за адресою: м. Хмельницький, вул....
 
   - [ОстроВ](https://ostro.org/news/pereselentsiv-z-luganshhyny-v-hmelnytskomu-konsultuvatymut-z-pensijnyh-pytan-i573039) — Переселенців з Луганщини в Хмельницькому консультуватимуть з пенсійних питань
 
 ✓ Закарпаття: головне за добу.
-### local:zakarpattia #1 · score 0.7394 · Війна та безпека, Суспільство
+### local:zakarpattia #1 · score 0.7876 · Суспільство, Війна та безпека
+✓ У селі Велика Копаня Берегівського району легковий автомобіль Mercedes-Benz зіткнувся з вантажівкою Volvo.
+✓ 35-річна пасажирка легковика загинула на місці.
+  - чутлива тема (загин); незалежних джерел: 4
+
+  - [PMG.ua](https://pmg.ua/crime/144256-smertelna-dtp-na-berehivshchyni-zahynula-zhinka-dvoye-ditey-travmovani) — Смертельна ДТП на Берегівщині: загинула жінка, двоє дітей травмовані
+  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/na-berehivshchyni-unaslidok-dtp-zahynula-zhinka-dvi-divchynky-postrazhdaly) — На Берегівщині унаслідок ДТП загинула жінка, дві дівчинки постраждали
+  - [Суспільне Новини](https://suspilne.media/uzhhorod/1451527-zinka-zaginula-se-cetvero-ludej-travmuvalisa-sered-nih-dvoe-ditej-u-dtp-na-zakarpatti) — Жінка загинула, ще четверо людей травмувалися, серед них двоє дітей, у ДТП на Закарпатті
+  - [Курс](https://kurs.if.ua/u-dtp-na-zakarpatti-zagynula-zhinka-z-prykarpattya-travmuvalysya-dvoye-ditej) — Легковик зіткнувся з фурою: на Закарпатті загинула 35-річна прикарпатка
+
+### local:zakarpattia #2 · score 0.7211 · Війна та безпека, Суспільство
 ✓ В Ужгороді 12 листопада попрощалися з 52-річним молодшим сержантом Юрієм Шелаком.
 ⚠ Військовослужбовець загинув 19 червня 2025 року під час виконання бойового завдання на Дніпропетровщині.
   - згадано минулі роки (2025) — перевірте, чи це нова подія
@@ -216,23 +251,12 @@
   - [Суспільне Новини](https://suspilne.media/uzhhorod/1451411-v-uzgorodi-poprosalisa-iz-zagiblim-na-vijni-52-ricnim-molodsim-serzantom-uriem-selakom) — В Ужгороді попрощалися із загиблим на війні 52-річним молодшим сержантом Юрієм Шелаком
   - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/v-uzhhorodi-v-ostannyu-dorohu-provely-polehloho-voyina-yuriya-shelaka) — В Ужгороді в останню дорогу провели полеглого воїна Юрія Шелака
 
-### local:zakarpattia #2 · score 0.6823 · Суспільство, Війна та безпека
-✓ У селі Велика Копаня Берегівського району легковий автомобіль Mercedes-Benz зіткнувся з вантажівкою Volvo.
-✓ 35-річна пасажирка легковика загинула на місці.
-  - чутлива тема (загин); незалежних джерел: 3
+### local:zakarpattia #3 · score 0.5595 · Політика
+✓ Суд зобов’язав ДП «Ліси України» відшкодувати майже 1,6 млн гривень шкоди через рубки дерев на території Драгівського лісництва, що на Хустщині.
+✓ За даними слідства, лісівники незаконно зрубали 37 дерев.
 
-  - [PMG.ua](https://pmg.ua/crime/144256-smertelna-dtp-na-berehivshchyni-zahynula-zhinka-dvoye-ditey-travmovani) — Смертельна ДТП на Берегівщині: загинула жінка, двоє дітей травмовані
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/na-berehivshchyni-unaslidok-dtp-zahynula-zhinka-dvi-divchynky-postrazhdaly) — На Берегівщині унаслідок ДТП загинула жінка, дві дівчинки постраждали
-  - [Суспільне Новини](https://suspilne.media/uzhhorod/1451527-zinka-zaginula-se-cetvero-ludej-travmuvalisa-sered-nih-dvoe-ditej-u-dtp-na-zakarpatti) — Жінка загинула, ще четверо людей травмувалися, серед них двоє дітей, у ДТП на Закарпатті
-
-### local:zakarpattia #3 · score 0.541 · Спорт, Війна та безпека
-✓ В Ужгороді у четвер, 12 листопада, на площі Петефі кілька десятків вболівальників, зокрема діти з Харківщини, Сумщини та Луганщини, прийшли підтримати національну збірну України з футболу перед від’їздом на матчі Ліги націй.
-✓ Попереду команду України чекає гра із Північною Ірландією у Белфасті.
-
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/v-uzhhorodi-provely-zbirnu-ukrayiny-z-futbolu-pered-vidyizdom-na-matchi-lihy-natsiy) — В Ужгороді провели збірну України з футболу перед від’їздом на матчі Ліги націй
-  - [PMG.ua](https://pmg.ua/sport/144250-v-uzhhorodi-provodzhaly-zbirnu-ukrayiny-z-futbolu-na-nastupnyy-match) — В Ужгороді проводжали збірну України з футболу на наступний матч
-  - [ZN.UA](https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-anons-de-i-koli-divitisja-match-lihi-natsij.html) — Північна Ірландія — Україна: анонс, де і коли дивитися матч Ліги націй
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/vbolivalnyky-provely-natsionalnu-futbolnu-zbirnu-ukrayiny-z-uzhhoroda-na-matchi-lihy-natsiy) — Вболівальники провели національну футбольну збірну України з Ужгорода на матчі Ліги націй
+  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/za-nezakonni-rubky-derev-na-khustshchyni-sud-zobovyazav-lisivnykiv-splatyty-16-mln-hrn-shkody) — За незаконні рубки дерев на Хустщині суд зобов’язав лісівників сплатити 1,6 млн грн шкоди
+  - [PMG.ua](https://pmg.ua/crime/144271-lisy-ukrayiny-maye-splatyty-bilsh-iak-pivtora-milyona-za-nezakonnu-rubku-na-zakarpatti) — «Ліси України» має сплатити більш як півтора мільйона за незаконну рубку на Закарпатті.
 
 ✓ Це були новини BRIEF за тринадцяте листопада.
 ✓ Посилання на першоджерела — на сайті BRIEF.
