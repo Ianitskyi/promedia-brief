@@ -3,8 +3,8 @@
 (()=>{
  'use strict';
  if(location.hostname!=="brief.promedia.report")return;
- // No Google code or event is loaded until this visitor explicitly opts in.
- try{if(localStorage.getItem('promedia.analytics.v1')!=='granted')return}catch{return}
+ // Start by default; preserve an explicit visitor opt-out.
+ try{if(localStorage.getItem('promedia.analytics.v1')==='denied')return}catch{return}
  window.dataLayer=window.dataLayer||[];
  function gtag(){window.dataLayer.push(arguments);}
  gtag('consent','default',{analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
