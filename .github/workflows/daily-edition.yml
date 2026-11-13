@@ -14,8 +14,17 @@ on:
       date:
         description: "Edition date (YYYY-MM-DD, Kyiv). Empty = today"
         required: false
+      force:
+        description: "Make it again even if today's edition is already on the site"
+        type: boolean
+        default: false
   schedule:
-    - cron: "41 5 * * *"  # ≈07:41 Kyiv in winter time, 08:41 in summer time
+    # GitHub skips scheduled runs when it is busy (on 13.11 the 05:41 run never came), so the
+    # morning has several tries; each one stops at once if today's edition is already out.
+    - cron: "41 5 * * *"   # ≈07:41 Kyiv in winter time
+    - cron: "53 6 * * *"
+    - cron: "17 8 * * *"
+    - cron: "29 10 * * *"
 
 permissions:
   contents: write
@@ -25,7 +34,26 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      done: ${{ steps.today.outputs.done }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Is today's edition already on the site?
+        id: today
+        run: |
+          D="${{ inputs.date }}"
+          [ -n "$D" ] || D=$(TZ=Europe/Kyiv date +%F)
+          if [ "${{ inputs.force }}" != "true" ] && grep -q "\"$D-daily\"" demo/index.json; then
+            echo "done=1" >> "$GITHUB_OUTPUT"; echo "Edition $D is already published" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "done=0" >> "$GITHUB_OUTPUT"
+          fi
+
   daily:
+    needs: check
+    if: needs.check.outputs.done != '1'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
