@@ -1,0 +1,38 @@
+<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="referrer" content="no-referrer"><title>BRIEF by ProMedia</title></head><body>
+<script>
+(()=>{
+ 'use strict';
+ if(location.hostname!=="brief.promedia.report")return;
+ // Start by default; preserve an explicit visitor opt-out.
+ try{if(localStorage.getItem('promedia.analytics.v1')==='denied')return}catch{return}
+ window.dataLayer=window.dataLayer||[];
+ function gtag(){window.dataLayer.push(arguments);}
+ gtag('consent','default',{analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
+ gtag('set','ads_data_redaction',true);
+ gtag('set','url_passthrough',false);
+ window.stopProMediaAnalytics=()=>{window['ga-disable-G-D8TM22QR9R']=true;gtag('consent','update',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'})};
+ gtag('js',new Date());
+ gtag('config','G-D8TM22QR9R',{
+  send_page_view:false,
+  page_location:'https://brief.promedia.report/',
+  page_referrer:'',
+  page_title:'BRIEF by ProMedia',
+  cookie_domain:location.hostname,
+  cookie_prefix:'promedia',
+  cookie_expires:86400,
+  cookie_update:false,
+  allow_google_signals:false,
+  allow_ad_personalization_signals:false
+ });
+ gtag('event','page_view',{
+  page_location:'https://brief.promedia.report/',
+  page_referrer:'',
+  page_title:'BRIEF by ProMedia'
+ });
+ const script=document.createElement('script');script.async=true;
+ script.src='https://www.googletagmanager.com/gtag/js?id=G-D8TM22QR9R';
+ script.onload=()=>{document.documentElement.dataset.analyticsTag='loaded'};
+ script.onerror=()=>{document.documentElement.dataset.analyticsTag='blocked'};
+ document.head.appendChild(script);
+})();
+</script></body></html>
