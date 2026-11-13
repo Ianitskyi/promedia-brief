@@ -53,7 +53,6 @@ def feature(date, variant=SUFFIX, require_asr=True):
         regions = list(dict.fromkeys(r for a in src for r in a.get("regions", [])))
         return {"topics": topics, "regions": regions}
 
-    retold = spoken["retold"]
     write_json(DEMO / f"{name}.json", {
         "date": date,
         "variant": SUFFIX,
@@ -65,9 +64,8 @@ def feature(date, variant=SUFFIX, require_asr=True):
         "duration_sec": render["duration_sec"],
         "asr_mean_cer": asr.get("mean_cer") if asr else None,
         "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
-        "description": (f"Щоденний випуск BRIEF. {retold} з {spoken['stories']} сюжетів переказано для "
-                        "усного мовлення; кожне число, назва й цитата звірені з публікаціями. "
-                        "Посилання на першоджерела — під кожним сюжетом."),
+        "description": (f"Щоденний випуск BRIEF. Новин у випуску: {spoken['stories']}. Кожне число, назва й "
+                        "цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною."),
         "script_sha256": spoken["script_sha256"],
         "sonic": {"intro": "audio/intro.mp3", "outro": "audio/outro.mp3"},
         "segments": [{"id": seg["id"], "kind": seg["kind"], "block": seg["block"], "title": seg.get("title"),

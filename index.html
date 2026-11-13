@@ -5,16 +5,16 @@
 <link rel="icon" href="/favicon.svg?v=20261030c" type="image/svg+xml" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>BRIEF by ProMedia — головне з українських медіа в аудіо</title>
-<meta name="description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta name="description" content="Головні новини дня — до 5 хвилин, голосом. Лише перевірені українські медіа." />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="BRIEF" />
-<meta property="og:title" content="BRIEF — головні новини дня за 5 хвилин" />
-<meta property="og:description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta property="og:title" content="BRIEF — головні новини дня до 5 хвилин" />
+<meta property="og:description" content="Головні новини дня — до 5 хвилин, голосом. Лише перевірені українські медіа." />
 <meta property="og:url" content="https://brief.promedia.report/" />
 <meta property="og:image" content="https://brief.promedia.report/og.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image:alt" content="BRIEF — головні новини дня за 5 хвилин, голосом" />
+<meta property="og:image:alt" content="BRIEF — головні новини дня до 5 хвилин, голосом" />
 <meta property="og:locale" content="uk_UA" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://brief.promedia.report/og.png" />
@@ -28,8 +28,8 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 <header class="top"><a class="brand" href="./" onclick="go('home');return false" aria-label="BRIEF — на головну" style="color:inherit;text-decoration:none">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a><div class="pill">AUDIO MVP 0.2</div></header>
 
 <section id="home" class="screen active">
-<div class="hero"><h1>Все важливе.<br>За 5 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у щоденному аудіовипуску.</p></div>
-<div class="audio" id="demoCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="demoEyebrow">BRIEF · аудіовипуск</div><h2 style="margin-top:8px" id="demoTitle">Демо-випуск</h2><audio id="demoPlayer" controls preload="metadata" style="width:100%;margin-top:6px"></audio><div id="demoNav" style="display:none;margin-top:8px"><div class="tiny" style="color:#ddd" id="demoNow"></div><div class="audio-row" style="margin-top:8px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="demoStep(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="demoStep(1)">Наступний ⏭</button></div></div><div class="tiny" style="color:#aaa;margin-top:8px"><span id="demoMeta"></span> · <a href="demo.html" style="color:#fff">текст і джерела →</a></div></div>
+<div class="hero"><h1>Все важливе.<br>До 5 хвилин.</h1><p class="muted">Головне з перевірених українських медіа — у щоденному аудіовипуску.</p></div>
+<div class="audio" id="demoCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="demoEyebrow">BRIEF · аудіовипуск</div><h2 style="margin-top:8px" id="demoTitle">Демо-випуск</h2><div class="audio-row"><button class="play" id="demoPlay" onclick="demoToggle()" aria-label="Слухати весь випуск">▶</button><div style="min-width:0"><b id="demoNow">Слухати весь випуск</b><div class="tiny" style="color:#aaa" id="demoTime">—</div></div></div><div class="bar" id="demoBar" style="cursor:pointer" role="slider" aria-label="Перемотати випуск" tabindex="0"><div class="prog" id="demoProg" style="width:0"></div></div><audio id="demoPlayer" preload="metadata"></audio><div class="tiny" style="color:#aaa;margin-top:10px"><span id="demoMeta"></span> · <a href="demo.html" style="color:#fff">текст і джерела →</a></div></div>
 <!-- daily automatic edition: hidden on the home page (owner, 2026-10-22); its player still serves the «Бриф» tab -->
 <div class="audio" id="dailyCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="editionDate">завантаження…</div><h2 style="margin-top:8px" id="nowTitle">Випуск BRIEF</h2><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn" aria-label="Відтворити або призупинити">▶</button><div><b id="storyCount">—</b><div class="tiny" style="color:#aaa" id="audioStatus">—</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div>
 <div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
@@ -107,7 +107,7 @@ function savePrefs(){
   region=document.getElementById('regionSelect').value; shortMode=document.getElementById('shortMode').checked;
   store.set('brief-topic-weights',weights); store.set('brief-region',region); store.set('brief-short',shortMode);
   store.set('brief-prefs-saved',true); summary(); go('home');
-  if(featured){setDemo(featured, true); if(demoList.length&&dp.paused) dp.play().catch(()=>{})}
+  if(featured){setDemo(featured, true); if(dp.paused) dp.play().catch(()=>{})}
 }
 
 // Personalisation without per-user TTS: one rendered edition, segments re-ordered per listener.
@@ -207,11 +207,15 @@ async function loadSources(){
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('active',s.id===id));document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('active',b.dataset.screen===id));window.scrollTo({top:0,behavior:'smooth'})}
 renderTopics(); loadSources(); loadRegions();
 // The featured edition (demo/index.json) in the one player on the home screen.
-// A daily edition comes as separate stories: they play in the listener's order — the day's two
-// top stories first, then stories of their region and starred topics, then the rest
-// (left out in the short mode). One rendered edition for everyone, no per-user voicing.
-let featured=null, demoList=[], demoIdx=0;
+// One press plays the whole edition, start to finish, under one progress bar — no paging through
+// stories (owner, 2026-11-13). In the editorial order it is the one full mp3 (intro and outro
+// jingles included). When the listener's region or starred topics change the order (or the short
+// mode leaves stories out), the same rendered stories play back to back: the day's two top
+// stories first, then stories of their region and starred topics, then the rest.
+let featured=null, demoList=[], demoIdx=0, demoSeekTo=null, demoGap=null;
 const dp=document.getElementById('demoPlayer');
+const PAUSE_BETWEEN_SEC=1.0;  // a clear gap between stories, as in the full mp3
+function fmt(s){s=Math.max(0,Math.round(s||0));return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}
 function personalOrder(d){
   const segs=d.segments, stories=segs.filter(s=>s.kind==='story');
   const w=s=>Math.max(0,...(s.topics||[]).map(weightOf))+(region&&(s.regions||[]).includes(region)?4:0);
@@ -221,34 +225,78 @@ function personalOrder(d){
   return [sonic.intro&&{audio:sonic.intro,kind:'sound'}, ...segs.filter(s=>s.kind==='intro'), ...stories.slice(0,2), ...picked,
           ...segs.filter(s=>s.kind==='outro'), sonic.outro&&{audio:sonic.outro,kind:'sound'}].filter(Boolean);
 }
-function demoLoad(i){
+function editionList(d){
+  const full=[{audio:d.audio,kind:'full',duration_sec:d.duration_sec}];
+  // until the listener saves their own topics and region, everyone hears the editorial order
+  if(!store.get('brief-prefs-saved',false)||!(d.segments.length&&d.segments.every(s=>s.audio))) return full;
+  const list=personalOrder(d);
+  const ids=a=>a.filter(s=>s.kind==='story').map(s=>s.id).join(',');
+  return ids(list)===ids(d.segments)?full:list;  // the editorial order: the full mp3 with its own pauses
+}
+const durOf=p=>p.duration_sec||0;
+const demoTotal=()=>demoList.reduce((a,p)=>a+durOf(p),0);
+const demoOffset=i=>demoList.slice(0,i).reduce((a,p)=>a+durOf(p),0);
+function demoShow(){
+  const total=demoTotal(), pos=Math.min(total,demoOffset(demoIdx)+(dp.currentTime||0));
+  document.getElementById('demoProg').style.width=(total?pos/total*100:0)+'%';
+  document.getElementById('demoTime').textContent=`${fmt(pos)} / ${fmt(total)}`;
+  const playing=!dp.paused||demoGap!==null;
+  document.getElementById('demoPlay').textContent=playing?'❚❚':'▶';
+  const p=demoList[demoIdx];
+  document.getElementById('demoNow').textContent=playing&&p&&p.kind==='story'&&p.title?p.title:(playing?'Звучить випуск':'Слухати весь випуск');
+}
+function demoLoad(i,at){
   demoIdx=Math.max(0,Math.min(i,demoList.length-1));const p=demoList[demoIdx];
   dp.src=p.audio+'?v='+encodeURIComponent(featured.script_sha256||featured.date);
-  const stories=demoList.filter(x=>x.kind==='story'), n=stories.indexOf(p)+1;
-  document.getElementById('demoNow').textContent=p.kind==='story'?`Новина ${n} з ${stories.length}: ${p.title||''}`:(p.kind==='outro'?'Завершення':'Вступ');
+  demoSeekTo=at||null; demoShow();
 }
-function demoStep(d){if(!demoList.length)return;const playing=!dp.paused;demoLoad(demoIdx+d);if(playing)dp.play()}
-dp.addEventListener('ended',()=>{if(demoList.length&&demoIdx<demoList.length-1){demoLoad(demoIdx+1);dp.play()}else if(demoList.length){demoLoad(0)}});
+function demoStop(){clearTimeout(demoGap);demoGap=null}
+function demoToggle(){
+  if(!demoList.length)return;
+  if(!dp.paused||demoGap!==null){demoStop();dp.pause()}else{dp.play().catch(()=>{})}
+  demoShow();
+}
+dp.addEventListener('loadedmetadata',()=>{
+  const p=demoList[demoIdx];
+  if(p&&!p.duration_sec&&isFinite(dp.duration)) p.duration_sec=dp.duration;  // the jingles carry no length in the JSON
+  if(demoSeekTo!==null){dp.currentTime=Math.min(demoSeekTo,dp.duration||demoSeekTo);demoSeekTo=null}
+  demoShow();
+});
+['timeupdate','play','pause'].forEach(ev=>dp.addEventListener(ev,demoShow));
+dp.addEventListener('ended',()=>{
+  if(demoIdx<demoList.length-1){
+    const next=demoIdx+1, story=demoList[next].kind==='story';
+    demoLoad(next);  // same element, already started by the listener's press: the next part may start by itself
+    demoGap=setTimeout(()=>{demoGap=null;dp.play().catch(()=>{});demoShow()}, story?PAUSE_BETWEEN_SEC*1000:0);
+  }else{demoLoad(0)}
+  demoShow();
+});
+function demoSeek(frac){
+  if(!demoList.length)return;
+  const t=Math.max(0,Math.min(1,frac))*demoTotal(); let i=0;
+  while(i<demoList.length-1&&demoOffset(i+1)<=t) i++;
+  const playing=!dp.paused||demoGap!==null; demoStop();
+  if(i===demoIdx&&dp.readyState>0){dp.currentTime=t-demoOffset(i)}else{demoLoad(i,t-demoOffset(i))}
+  if(playing) dp.play().catch(()=>{});
+  demoShow();
+}
+const bar=document.getElementById('demoBar');
+bar.addEventListener('click',e=>{const r=bar.getBoundingClientRect();demoSeek((e.clientX-r.left)/r.width)});
+bar.addEventListener('keydown',e=>{const t=demoTotal();if(!t)return;const pos=demoOffset(demoIdx)+(dp.currentTime||0);
+  if(e.key==='ArrowRight'){demoSeek((pos+10)/t);e.preventDefault()}if(e.key==='ArrowLeft'){demoSeek((pos-10)/t);e.preventDefault()}});
 function setDemo(d, keepPosition){
   const [y,m,dd]=d.date.split('-');
   document.getElementById('demoTitle').textContent=`Випуск за ${dd}.${m}.${y}`;
   document.getElementById('demoEyebrow').textContent=d.variant==='daily'?'BRIEF · щоденний випуск':'BRIEF · тестовий аудіовипуск';
-  let sec=d.duration_sec, extra='';
-  if(d.segments.length&&d.segments.every(s=>s.audio)){
-    const current=demoList[demoIdx], wasPlaying=!dp.paused;
-    demoList=personalOrder(d);
-    sec=demoList.reduce((a,p)=>a+(p.duration_sec||0),0)+8;
-    const personal=store.get('brief-prefs-saved',false)&&(TOPICS.some(t=>weightOf(t))||region);
-    extra=personal?' · у порядку ваших тем і регіону':'';
-    document.getElementById('demoNav').style.display='';
-    // after new settings: keep playing the same story if it is still in the list, else start over
-    const at=keepPosition&&current?demoList.indexOf(current):-1;
-    demoLoad(at>=0?at:0); if(wasPlaying) dp.play();
-  }else{
-    demoList=[];
-    dp.src=d.audio+'?v='+encodeURIComponent(d.script_sha256||d.date)+'-female108';
-  }
-  document.getElementById('demoMeta').textContent=`${Math.max(1,Math.round(sec/60))} хв${d.provider==='elevenlabs'?' · озвучення ElevenLabs':''}${extra}`;
+  const current=demoList[demoIdx], wasPlaying=!dp.paused||demoGap!==null;
+  demoStop();
+  demoList=editionList(d);
+  // after new settings: keep playing the same story if it is still in the list, else start over
+  const at=keepPosition&&current?demoList.findIndex(p=>p.audio===current.audio):-1;
+  demoLoad(at>=0?at:0, at>=0?dp.currentTime:null); if(wasPlaying) dp.play().catch(()=>{});
+  const personal=demoList[0].kind!=='full';
+  document.getElementById('demoMeta').textContent=`${d.provider==='elevenlabs'?'Озвучення ElevenLabs':'Аудіовипуск'}${personal?' · у порядку ваших тем і регіону':''}`;
+  if('mediaSession' in navigator) navigator.mediaSession.metadata=new MediaMetadata({title:`BRIEF за ${dd}.${m}.${y}`,artist:'BRIEF by ProMedia'});
   document.getElementById('demoCard').style.display='';
 }
 (async()=>{

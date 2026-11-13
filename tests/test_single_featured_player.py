@@ -27,3 +27,19 @@ def test_old_standalone_url_uses_same_player():
     html = (ROOT / "brief-2026-10-29.html").read_text(encoding="utf-8")
     assert 'url=/demo.html' in html
     assert "<audio" not in html
+
+
+def test_one_press_plays_the_whole_edition():
+    """No paging through stories: one button, one progress bar for the whole edition (owner, 2026-11-13)."""
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    card = html[html.index('id="demoCard"'):html.index('<!-- daily automatic edition')]
+    assert "Наступний" not in card and "Попередній" not in card
+    assert 'id="demoPlay"' in card and 'id="demoBar"' in card
+    assert "controls" not in card  # the browser's own per-file bar would show one story at a time
+    assert "brief-prefs-saved" in html[html.index("function editionList"):]  # editorial order = the full mp3
+
+
+def test_no_overpromise_on_length():
+    for name in ("index.html", "demo.html"):
+        html = (ROOT / name).read_text(encoding="utf-8")
+        assert "за 5 хвилин" not in html.lower()
