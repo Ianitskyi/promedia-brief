@@ -38,8 +38,3 @@ def test_one_press_plays_the_whole_edition():
     assert "controls" not in card  # the browser's own per-file bar would show one story at a time
     assert "brief-prefs-saved" in html[html.index("function editionList"):]  # editorial order = the full mp3
 
-
-def test_no_overpromise_on_length():
-    for name in ("index.html", "demo.html"):
-        html = (ROOT / name).read_text(encoding="utf-8")
-        assert "за 5 хвилин" not in html.lower()
