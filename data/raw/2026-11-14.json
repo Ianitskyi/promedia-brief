@@ -1,9 +1,416 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T21:30:10+00:00",
+  "generated_at": "2026-11-15T01:55:34+00:00",
   "source_count": 105,
-  "item_count": 2004,
+  "item_count": 2022,
   "items": [
+    {
+      "id": "43caf49f0c15a791",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/14/novyna/bezpeka/vijska-rf-atakuvaly-zaporizhzhya-vismoma-aviabombamy-ye-poraneni",
+      "title": "Війська рф атакували Запоріжжя вісьмома авіабомбами, є поранені",
+      "published_at": "2026-11-14T21:59:05+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:59:05 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Російські війська випустили по Запоріжжю вісім керованих авіабомб. Постраждали щонайменше п'ятеро людей, пошкоджені багатоповерхівки та автомобілі.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3b4f13d260e329e7",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/14/781176_golovne_subotu_14_listopada.html",
+      "title": "Головне за суботу, 14 листопада: понад 50 боєзіткнень, атака на Павлоград, удар по Мені",
+      "published_at": "2026-11-14T21:59:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:59:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Бойові дії на Донеччині, 54 бойових зіткнення, ворожі обстріли. Яким запам’ятається 1725-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "961a51d8b2616d6a",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/general-major-sbu-duka-zvynuvatyv-nabu-i-sap-u-mozhlyvij-roboti-v-interesah-rf",
+      "title": "Генерал-майор СБУ Дука звинуватив НАБУ і САП у можливій роботі в інтересах РФ",
+      "published_at": "2026-11-14T21:58:47+00:00",
+      "published_raw": "Sat, 14 Nov 2026 21:58:47 +0000",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Генерал-майор СБУ Сергій Дука, який фігурує у справі НАБУ та САП \"Карфаген\", заявив про нібито сплановану інформаційно-політичну спецоперацію, спрямовану на дискредитацію вищого політичного керівництва України та державних органів. Він закликав створити тимчасову слідчу комісію для перевірки діяльності антикорупційних відомств. Запис Генерал-майор СБУ Дука звинуватив НАБУ і САП у можливій роботі в інтересах РФ спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "генерал Дука",
+        "Карфаген",
+        "НАБУ",
+        "СБУ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ca7a1f993922e7df",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4184754-rosiani-zavdali-8-udariv-po-zaporizzu-poraneni-patero-ludej-sered-akih-litna-zinka.html",
+      "title": "Росіяни завдали 8 ударів по Запоріжжю, поранені п'ятеро людей, серед яких літня жінка",
+      "published_at": "2026-11-14T21:58:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": ", у багатоквартирному будинку спалахнула пожежа.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2dd9e1c2e1193a7b",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-rosia-ataka-na-zaporizhzhia-semikin-piatero-poranenyh/33898712.html",
+      "title": "Росія знову атакувала Запоріжжя – Семікін повідомив про п’ятьох поранених",
+      "published_at": "2026-11-14T21:57:19+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:57:19 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Також раніше Семікін повідомив про часткове відновлення руху греблею ДніпроГЕС – транспорт рухається по одній смузі в кожному напрямку",
+      "categories": [
+        "Новини | Суспільство",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8102e0eb0fe94d39",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/14/781016_rosiyani_povtorno_atakuvali.html",
+      "title": "Росіяни повторно атакували Запоріжжя: під ударом були кілька районів, є поранені (оновлено)",
+      "published_at": "2026-11-14T21:56:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:56:00 +0200",
+      "fetched_at": "2026-11-14T21:30:10+00:00",
+      "description": "Росіяни обстріляли одразу кілька районів міста – Заводський, Хортицький, Вознесенівський.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "29f760e84c39daae",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/pivnichna-irlandiya-ukrajina-divitisya-bezkoshtovno-video-goliv-50659236.html",
+      "title": "Північна Ірландія — Україна: відео гола та огляд матчу Ліги націй",
+      "published_at": "2026-11-14T21:53:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:53:00 +0200",
+      "fetched_at": "2026-11-14T21:30:10+00:00",
+      "description": "Підопічним Андреа Мальдери обов'язково потрібно було виграти цей поєдинок. Але українці програли.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2c51230f1184ea94",
+      "source_id": "map-258",
+      "source": "Радіо Свобода Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://radiosvoboda.org/a/rosiya-ukrayina-zahroza-viyny/31703318.html",
+      "title": "Війна Росії проти України. Всі новини на цей час",
+      "published_at": "2026-11-14T21:50:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:50:00 +0200",
+      "fetched_at": "2026-11-14T10:31:41+00:00",
+      "description": "Радіо Свобода веде цей блог із 24 лютого 2022 року",
+      "categories": [
+        "Політика",
+        "Україна",
+        "Світ",
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "984c77cbd425e887",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-vkotre-postupilasja-pivnichnij-irlandiji-v-lizi-natsij.html",
+      "title": "Збірна України повторно програла Північній Ірландії в Лізі націй",
+      "published_at": "2026-11-14T21:50:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:50:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Третя поспіль поразка команди Мальдери.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1af83de5b501f598",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/sport/2026/11/14/781174_ukrayina_postupilasya_pivnichniy.html",
+      "title": "Україна поступилася Північній Ірландії у матчі Ліги націй",
+      "published_at": "2026-11-14T21:48:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Поєдинок у Белфасті на стадіоні \"Віндзор Парк\" завершився поразкою українців із рахунком 0:1.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "734466b2d401c152",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/liga-naciy-14-listopada-rozklad-rezultati-tablicya-video-50659086.html",
+      "title": "Ліга націй: розклад, результати та відео всіх матчів 14 листопада",
+      "published_at": "2026-11-14T21:47:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:47:00 +0200",
+      "fetched_at": "2026-11-14T03:15:10+00:00",
+      "description": "У Лізі націй завершилися матчі п'ятого туру. В одному з них збірна України на виїзді поступилася Північній Ірландії.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "81a569ab7aee6fb8",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-sports/4184753-zbirna-ukraini-vdruge-postupilasa-pivnicnij-irlandii-u-lizi-nacij-uefa.html",
+      "title": "Збірна України вдруге поступилася Північній Ірландії у Лізі націй УЄФА",
+      "published_at": "2026-11-14T21:43:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:43:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Футболісти національної збірної України провели п'ятий поєдинок у Лізі націй УЄФА.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1adef651f606b353",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/14/novyna/svit/ssha-mozhut-vyvesty-yevropy-vpyatero-menshe-vijskovyx-anizh-planuvaly-ranishe-bloomberg",
+      "title": "США можуть вивести з Європи вп'ятеро менше військових, аніж планували раніше – Bloomberg",
+      "published_at": "2026-11-14T21:42:43+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:42:43 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "США переглянули плани скорочення військового контингенту в Європі. Замість 25 тисяч військових можуть вивести близько 5 тисяч. Найбільші зміни очікуються в Німеччині.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c5156e11096b55c6",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/ukrayina/274412-youtube-zablokuvav-v-ukrayini-shche-16-rosiyskykh-kanaliv-sered-nykh-inshomovni-versiyi-mashi-i-vedmedia",
+      "title": "YouTube заблокував в Україні ще 16 російських каналів. Серед них — іншомовні версії «Маші і Ведмедя»",
+      "published_at": "2026-11-14T21:42:00+00:00",
+      "published_raw": "2026-11-14T23:42:00+02:00",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fb94ad0526fa409e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453134-ukraina-prograla-pivnicnij-irlandii-ta-vtratila-sansi-na-pidvisenna-u-klasi-u-lizi-nacij-z-futbolu",
+      "title": "Україна програла Північній Ірландії та втратила шанси на підвищення у класі у Лізі націй з футболу",
+      "published_at": "2026-11-14T21:37:55+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:37:55 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Збірна України з футболу зазнала поразки у матчі п'ятого туру Ліги націй проти Північної Ірландії, гра між командами завершилася мінімальною поразкою українців з рахунком 0:1",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "55c11ac5185886e2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/liga-naciy-ukrajina-pivnichna-irlandiya-oglyad-matchu-porazka-ukrajinciv-turnirna-tablicya-50659279.html",
+      "title": "Україна програла Північній Ірландії у ключовому матчі Ліги націй і втратила шанси на підвищення в класі",
+      "published_at": "2026-11-14T21:37:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:37:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Збірна України поступилася Північній Ірландії з рахунком 0:1 у п'ятому турі Ліги націй з футболу.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2ce35f9246e52498",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/14/781172_bloomberg_ssha_planuyut.html",
+      "title": "Bloomberg: США планують скоротити військову присутність у Європі значно менше, ніж очікували союзники",
+      "published_at": "2026-11-14T21:37:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:37:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Ймовірно, скорочення відбудеться на 5 тисяч осіб, а не на 25 – як допускали раніше.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "694e0bd9443ae7f1",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/pivnichna-irlandiya-ukrajina-divitisya-onlayn-translyaciyu-matchu-futbol-sogodni-50659088.html",
+      "title": "Як України програла Північній Ірландії: хроніка матчу Ліги націй",
+      "published_at": "2026-11-14T21:36:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:36:00 +0200",
+      "fetched_at": "2026-11-14T21:30:10+00:00",
+      "description": "Збірна України після поразки від Північної Ірландії не зможе вже вийти у вищий дивізіон Ліги націй, і тепер в останньому турі українцям треба не програти Грузії, щоб не вилетіти в третю лігу.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "51bd6d3384a77829",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-ponad-100-tysiach-liudei-protesty/33898709.html",
+      "title": "Франція: за даними уряду, понад 100 тисяч людей вийшли на протести",
+      "published_at": "2026-11-14T21:32:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:32:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Для охорони порядку по всій країні залучили близько 70 тисяч поліцейських",
+      "categories": [
+        "Новини | Міжнародні",
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fa45fde2ede7a837",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/news/economy/2026/tsini-na-oliiu-v-es-zrosli-cherez-zupinku-kernelu-ta-zavodu-na-odeshchini",
+      "title": "Ціни на олію в ЄС зросли через зупинку Кернелу та заводу на Одещині",
+      "published_at": "2026-11-14T21:31:27+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:31:27 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Вартість соняшникової олії у шести ключових європейських портах підскочила на 60–65 доларів за тонну протягом однієї доби. Такою стала реакція ринку на зупинку близько половини українських переробних потужностей, зокрема заводів агрохолдингу Кернел та підприємства Дельта Вілмар Україна на Одещині.",
+      "categories": [
+        "Одеса",
+        "завод",
+        "олія",
+        "ціни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6f5fb46f4e8c7e33",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/genshtab-povidomyv-pro-54-bojovi-zitknennya-na-fronti-z-pochatku-doby",
+      "title": "Генштаб повідомив про 54 бойові зіткнення на фронті з початку доби",
+      "published_at": "2026-11-14T21:30:27+00:00",
+      "published_raw": "Sat, 14 Nov 2026 21:30:27 +0000",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "У Генеральному штабі ЗСУ поінформували про оперативну ситуацію станом на 14 листопада щодо російського вторгнення. Загалом від початку цієї доби відбулося 54 бойові зіткнення. Запис Генштаб повідомив про 54 бойові зіткнення на фронті з початку доби спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "Війна в Україні",
+        "Генштаб ЗСУ",
+        "Російсько-Українська війна",
+        "ситуація на фронті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "5c909c9b90e45884",
       "source_id": "map-875",
@@ -75,6 +482,25 @@
       "description": "",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c727e25d4e731012",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4184694-u-nedilu-ukraini-prognozuut-do-8-tepla-bez-opadiv.html",
+      "title": "У неділю Україні прогнозують до 8° тепла, без опадів",
+      "published_at": "2026-11-14T21:30:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:30:00 +0200",
+      "fetched_at": "2026-11-14T17:07:36+00:00",
+      "description": "В Україні в неділю, 15 листопада, мінлива хмарність. Без опадів. Температура від 3° тепла до 2° морозу.",
+      "categories": [
+        "Регіони"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -201,25 +627,6 @@
       "status": "new"
     },
     {
-      "id": "694e0bd9443ae7f1",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://sport.nv.ua/ukr/football/pivnichna-irlandiya-ukrajina-divitisya-onlayn-translyaciyu-matchu-futbol-sogodni-50659088.html",
-      "title": "Північна Ірландія — Україна: онлайн-трансляція матчу Ліги націй",
-      "published_at": "2026-11-14T21:16:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 23:16:00 +0200",
-      "fetched_at": "2026-11-14T21:30:10+00:00",
-      "description": "Команди зустрінуться в п'ятому турі другого дивізіону групового етапу Ліги націй. Гра відбудеться в суботу, 14 листопада, у Белфасті. Ми проведемо текстову онлайн-трансляцію матчу.",
-      "categories": [
-        "Спорт/Футбол"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "f693885d9892d66c",
       "source_id": "map-940",
       "source": "Букви",
@@ -282,25 +689,6 @@
       "status": "new"
     },
     {
-      "id": "8102e0eb0fe94d39",
-      "source_id": "lb",
-      "source": "LB.ua",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://lb.ua/society/2026/11/14/781016_rosiyani_povtorno_atakuvali.html",
-      "title": "Росіяни повторно атакували Запоріжжя: під ударом були кілька районів, є поранені",
-      "published_at": "2026-11-14T21:05:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 23:05:00 +0200",
-      "fetched_at": "2026-11-14T21:30:10+00:00",
-      "description": "Росіяни обстріляли одразу кілька районів міста – Заводський, Хортицький, Вознесенівський.",
-      "categories": [
-        "Суспільство"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "fff7ca5c3832cb7c",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -327,8 +715,8 @@
       "source_region": null,
       "url": "https://ukrinform.ua/rubric-regions/4184750-vorog-atakuvav-zaporizza-poraneni-sonajmense-patero-ludej.html",
       "title": "Ворог атакував Запоріжжя, поранені щонайменше п'ятеро людей",
-      "published_at": "2026-11-14T21:02:59+00:00",
-      "published_raw": "Sat, 14 Nov 2026 23:02:59 +0200",
+      "published_at": "2026-11-14T21:02:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:02:00 +0200",
       "fetched_at": "2026-11-14T21:30:10+00:00",
       "description": "Ворог атакував Вознесенівський район Запоріжжя, поранені щонайменше п'ятеро людей.",
       "categories": [
@@ -364,7 +752,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij",
-      "title": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
+      "title": "Україна вдруге програла Північній Ірландії в Лізі націй: як це було",
       "published_at": "2026-11-14T21:01:34+00:00",
       "published_raw": "Sat, 14 Nov 2026 23:01:34 +0200",
       "fetched_at": "2026-11-14T21:30:10+00:00",
@@ -569,6 +957,25 @@
       "categories": [
         "Луцьк",
         "Волинь"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0a22f8432e9be309",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/14/8062901",
+      "title": "У Києві вже будують понтонні переправи, на тунель під Дніпром треба 500 млн євро – міністр",
+      "published_at": "2026-11-14T21:00:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 23:00:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Микола Калашник повідомив, що повноцінний рух Південним мостом у Києві планують за 2-3 місяці. Вже зводять вісім понтонних переправ через Дніпро.",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -885,11 +1292,11 @@
       "geography": "national",
       "source_region": null,
       "url": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-onlajn-transljatsija-matchu-lihi-natsij.html",
-      "title": "Північна Ірландія — Україна: онлайн-трансляція матчу Ліги націй",
+      "title": "Північна Ірландія — Україна 1:0: ключові моменти матчу Ліги націй",
       "published_at": "2026-11-14T20:33:00+00:00",
       "published_raw": "Sat, 14 Nov 2026 22:33:00 +0200",
       "fetched_at": "2026-11-13T22:37:33+00:00",
-      "description": "Команди проведуть друге очне протистояння в цьому розіграші турніру.",
+      "description": "Команди провели друге очне протистояння в цьому розіграші турніру.",
       "categories": [
         "Спорт"
       ],
@@ -1002,28 +1409,6 @@
       "fetched_at": "2026-11-14T21:30:10+00:00",
       "description": "Для споживачів ЦЕК на Дніпропетровщині за розпорядженням НЕК «Укренерго» змінили графік погодинних відключень електроенергії на 15 листопада. Про це повідомили у ЦЕК. Відключення застосовуватимуть за таким графіком: Черга 1.1: 00:00–07:00, 10:30–17:30, 21:00–00:00. Черга 1.2: 00:00–07:00, 10:30–17:30, 21:00–00:00. Черга 2.1: 00:00–07:00, 10:30–17:30, 21:00–00:00. Черга 2.2: 00:00–07:00, 10:30–17:30, 21:00–00:00. Черга 3.1: 03:30–10:30, 14:00–21:00. Черга 3.2: 03:30–10:30, 14:00–21:00.",
       "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "2c51230f1184ea94",
-      "source_id": "map-258",
-      "source": "Радіо Свобода Україна",
-      "geography": "regional",
-      "source_region": "kyiv",
-      "url": "https://radiosvoboda.org/a/rosiya-ukrayina-zahroza-viyny/31703318.html",
-      "title": "Війна Росії проти України. Всі новини на цей час",
-      "published_at": "2026-11-14T20:20:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 22:20:00 +0200",
-      "fetched_at": "2026-11-14T10:31:41+00:00",
-      "description": "Радіо Свобода веде цей блог із 24 лютого 2022 року",
-      "categories": [
-        "Політика",
-        "Україна",
-        "Світ",
-        "Суспільство"
-      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1869,6 +2254,25 @@
       "status": "new"
     },
     {
+      "id": "061a15a145aed1dc",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/14/8062892",
+      "title": "Генерала СБУ Дуку викликають на засідання ТСК Верховної Ради",
+      "published_at": "2026-11-14T19:39:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 21:39:00 +0200",
+      "fetched_at": "2026-11-14T21:30:10+00:00",
+      "description": "Генерал-майор СБУ Сергій Дука, якого підозрюють у справі \"Карфаген\", отримав офіційне запрошення на засідання Тимчасової слідчої комісії Верховної Ради.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "42e7a00830383664",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -2327,25 +2731,6 @@
       "status": "new"
     },
     {
-      "id": "29f760e84c39daae",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://sport.nv.ua/ukr/football/pivnichna-irlandiya-ukrajina-divitisya-bezkoshtovno-video-goliv-50659236.html",
-      "title": "Північна Ірландія — Україна: відео голів та огляд матчу Ліги націй",
-      "published_at": "2026-11-14T19:18:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 21:18:00 +0200",
-      "fetched_at": "2026-11-14T21:30:10+00:00",
-      "description": "Підопічним Андреа Мальдери обов'язково потрібно виграти цей поєдинок.",
-      "categories": [
-        "Спорт/Футбол"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "7cb1232aff76892f",
       "source_id": "map-940",
       "source": "Букви",
@@ -2661,25 +3046,6 @@
       "status": "new"
     },
     {
-      "id": "734466b2d401c152",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://sport.nv.ua/ukr/football/liga-naciy-14-listopada-rozklad-rezultati-tablicya-video-50659086.html",
-      "title": "Ліга націй: розклад, результати та відео всіх матчів 14 листопада",
-      "published_at": "2026-11-14T19:02:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 21:02:00 +0200",
-      "fetched_at": "2026-11-14T03:15:10+00:00",
-      "description": "У Лізі націй завершаться матчі п'ятого туру. В одному з них збірна України на виїзді зіграє проти Північної Ірландії.",
-      "categories": [
-        "Спорт/Футбол"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "61320b266be840f2",
       "source_id": "nv",
       "source": "NV",
@@ -2824,6 +3190,7 @@
         "Новини",
         "Війна",
         "Київ",
+        "Міст",
         "Події"
       ],
       "date_issues": [],
@@ -3487,6 +3854,7 @@
       "description": "У Варшаві невідомі червоною фарбою нанесли напис «Слава УПА» на два пам'ятники — солдату 1-ї армії Війська Польського та Героям Варшавського гетто. Посольство України в Польщі засудило інцидент і заявило, що він може бути проявом гібридної війни росії, спрямованої на загострення відносин між українцями та поляками. Про це повідомляє TVN 24, пише Рубрика. Перший напис […] The post У Варшаві невідомі залишили написи “Слава УПА” на двох пам’ятниках: посольство України відреагувало appeared first on Рубрика .",
       "categories": [
         "Новини",
+        "пам'ятники",
         "Події",
         "Польща",
         "Суспільство"
@@ -3877,25 +4245,6 @@
         "Варшава",
         "пам'ятники",
         "Польща"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "061a15a145aed1dc",
-      "source_id": "pravda",
-      "source": "Українська правда",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://pravda.com.ua/news/2026/11/14/8062892",
-      "title": "Генерала СБУ Дуку викликають на засідання ТСК Верховної Ради",
-      "published_at": "2026-11-14T18:16:00+00:00",
-      "published_raw": "Sat, 14 Nov 2026 20:16:00 +0200",
-      "fetched_at": "2026-11-14T21:30:10+00:00",
-      "description": "Генерал-майор СБУ Сергій Дука, якого підозрюють у справі \"Карфаген\", отримав офіційне запрошення на засідання Тимчасової слідчої комісії Верховної Ради.",
-      "categories": [
-        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -10170,7 +10519,7 @@
       "published_at": "2026-11-14T15:27:00+00:00",
       "published_raw": "Sat, 14 Nov 2026 17:27:00 +0200",
       "fetched_at": "2026-11-14T17:07:36+00:00",
-      "description": "У суботу, 14 листопада, Златопільська громада Лозівського району знову зазнала російської атаки. Цього разу військові РФ застосували дві ракети типу S-8000 «Бандероль», які влучили у приватний сектор. Унаслідок ударів пошкоджено житлові будинки та господарські споруди. За попередніми даними, інформації про постраждалих немає.",
+      "description": "У суботу, 14 листопада, Златопільська громада Лозівського району знову зазнала російської атаки. Цього разу військові рф застосували дві ракети типу S-8000 «Бандероль», які влучили у приватний сектор. Унаслідок ударів пошкоджено житлові будинки та господарські споруди. За попередніми даними, інформації про постраждалих немає.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -13069,25 +13418,6 @@
         "search": "yes",
         "ai-train": "no"
       },
-      "status": "new"
-    },
-    {
-      "id": "c727e25d4e731012",
-      "source_id": "ukrinform",
-      "source": "Укрінформ",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://ukrinform.ua/rubric-regions/4184694-u-nedilu-ukraini-prognozuut-do-8-tepla-bez-opadiv.html",
-      "title": "У неділю Україні прогнозують до 8° тепла, без опадів",
-      "published_at": "2026-11-14T14:19:29+00:00",
-      "published_raw": "Sat, 14 Nov 2026 16:19:29 +0200",
-      "fetched_at": "2026-11-14T17:07:36+00:00",
-      "description": "В Україні в неділю, 15 листопада, мінлива хмарність. Без опадів. Температура від 3° тепла до 2° морозу.",
-      "categories": [
-        "Регіони"
-      ],
-      "date_issues": [],
-      "content_signals": {},
       "status": "new"
     },
     {
@@ -17594,6 +17924,25 @@
       "status": "new"
     },
     {
+      "id": "7b4fbdf75516fd80",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/ukrayinska-noosfera-vpershe-v-comu-antarktichnomu-sezoni-distalasya-stanciyi-akademik-vernadskij-foto",
+      "title": "Українська «Ноосфера» вперше в цьому антарктичному сезоні дісталася станції «Академік Вернадський» (ФОТО)",
+      "published_at": "2026-11-14T12:37:00+00:00",
+      "published_raw": "Sat, 14 Nov 2026 14:37:00 +0200",
+      "fetched_at": "2026-11-15T01:55:34+00:00",
+      "description": "Наш криголам «Ноосфера» вперше в цьому антарктичному сезоні дістався станції «Академік Вернадський». За київським часом це відбулося ввечері 12 листопада.",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0cca836b69b08750",
       "source_id": "map-586",
       "source": "Вгору",
@@ -19838,10 +20187,10 @@
       "description": "Екологічні прокурори Офісу Генерального прокурора забезпечили задоволення позовів про повернення державі 26 із 30 лісових ділянок загальною площею майже 10 гектарів на Івано-Франківщині за матеріалами кримінальних проваджень, процесуальне керівництво у яких здійснюють прокурори Департаменту нагляду за додержанням законів Національною поліцією України ОГП, пише КУРС з посиланням на Офіс Генпрокурора. Землі Поляницької громади поблизу Буковеля незаконно […]",
       "categories": [
         "Суспільство",
-        "земля",
-        "Буковель",
         "ліси",
-        "карпати"
+        "карпати",
+        "земля",
+        "Буковель"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -38643,6 +38992,12 @@
       "fetched": 1407,
       "added": 324,
       "errors": 1
+    },
+    {
+      "at": "2026-11-15T01:55:34+00:00",
+      "fetched": 1305,
+      "added": 18,
+      "errors": 3
     }
   ]
 }
