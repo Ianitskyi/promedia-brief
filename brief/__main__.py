@@ -32,7 +32,7 @@ def cmd_draft(a):
     from . import edition
 
     date = a.date or kyiv_date(now_utc())
-    path, draft = edition.build_and_save(date)
+    path, draft = edition.build_and_save(date, days=a.days)
     s = draft["stats"]
     print(f"{path}\n{s['stories']} stories, {s['sentences']} sentences, "
           f"{s['needs_review']} need editor confirmation, {s['excluded']} excluded")
@@ -83,7 +83,7 @@ def cmd_demo(a):
 def cmd_spoken(a):
     from . import spoken
 
-    s = spoken.build(a.date, use_llm=not a.no_llm, budget=a.budget)
+    s = spoken.build(a.date, use_llm=not a.no_llm, budget=a.budget, days=a.days)
     print(json.dumps({k: s[k] for k in ("stories", "retold", "characters", "budget_characters")}
                      | {"rejected": len(s["log"]["rejected"]), "llm_error": s["log"].get("llm_error")},
                      ensure_ascii=False, indent=2))
@@ -135,6 +135,7 @@ def main(argv=None):
 
     d = sub.add_parser("draft", help="build editions/<date>/draft.json")
     d.add_argument("--date")
+    d.add_argument("--days", type=int, default=1, help="7 = weekly edition (config \"weekly\")")
     d.set_defaults(fn=cmd_draft)
 
     c = sub.add_parser("check", help="re-run fact checks on the (edited) draft")
@@ -160,6 +161,7 @@ def main(argv=None):
 
     sp = sub.add_parser("spoken", help="retell the approved stories for the ear (Claude) and check every claim")
     sp.add_argument("--date", required=True)
+    sp.add_argument("--days", type=int, default=1, help="7 = weekly edition")
     sp.add_argument("--no-llm", action="store_true", help="read the approved sentences, no Claude call")
     sp.add_argument("--budget", type=int, help="characters for the paid voice (default: share of the monthly budget)")
     sp.set_defaults(fn=cmd_spoken)

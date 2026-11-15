@@ -537,5 +537,25 @@
     "min_stories": 2,
     "min_paid_characters": 600,
     "outro": "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF."
+  },
+  "weekly": {
+    "_comment": "Weekly edition (owner, 2026-11-15): every Saturday ≈09:00 Kyiv, the main news of the previous 7 days, ≈5 minutes. Overrides for `brief draft --days 7` and `brief spoken --days 7`.",
+    "days": 7,
+    "edition": {
+      "window_hours": 168,
+      "national_stories": 22,
+      "must_include_national": 5,
+      "only_national": true,
+      "regional_roundup_stories": 0,
+      "pilot_regions": []
+    },
+    "clustering": {
+      "max_time_gap_hours": 36
+    },
+    "scoring": {
+      "recency_half_life_hours": 72
+    },
+    "budget_characters": 4300,
+    "min_stories": 6
   }
 }

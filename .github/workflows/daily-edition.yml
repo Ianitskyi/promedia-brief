@@ -1,6 +1,9 @@
-name: Daily BRIEF edition
+name: Weekly BRIEF edition (Saturdays)
 
-# One automatic edition a day (owner, 2026-11-12), in the one home-page player:
+# Weekly since 2026-11-15 (owner): every Saturday ≈09:00 Kyiv, the main news of the previous
+# 7 days, ≈5 minutes (config/editorial.json "weekly"). The file keeps its old name and the
+# "daily" variant name (demo/<date>-daily.*) so nothing else has to move.
+# Before that: one automatic edition a day (owner, 2026-11-12), in the one home-page player:
 #   collect → draft with fact checks → automatic approval → retold for the ear by Claude, every
 #   number, name and quote checked against the sources (brief/spoken.py) → ElevenLabs
 #   (Yevhen and Yaroslava take turns) → audio check → replaces yesterday's edition.
@@ -14,8 +17,14 @@ on:
       date:
         description: "Edition date (YYYY-MM-DD, Kyiv). Empty = today"
         required: false
+      days:
+        description: "7 = weekly edition (the previous 7 days), 1 = one day"
+        required: false
+        default: "7"
   schedule:
-    - cron: "41 5 * * *"  # ≈07:41 Kyiv in winter time, 08:41 in summer time
+    # Saturday 06:11 UTC = 08:11 Kyiv in winter time; ready by ≈08:45, before 09:00.
+    # In summer time (from the last Sunday of March) change to "11 5 * * 6".
+    - cron: "11 6 * * 6"
 
 permissions:
   contents: write
@@ -44,19 +53,21 @@ jobs:
           D="${{ inputs.date }}"
           [ -n "$D" ] || D=$(TZ=Europe/Kyiv date +%F)
           echo "date=$D" >> "$GITHUB_OUTPUT"
+          N="${{ inputs.days }}"
+          echo "days=${N:-7}" >> "$GITHUB_OUTPUT"
           daily() { python -c "import json;print(json.load(open('config/editorial.json'))['daily']['$1'])"; }
           for k in tts_model voice service_voice service_tempo min_paid_characters; do echo "$k=$(daily $k)" >> "$GITHUB_OUTPUT"; done
       - name: Collect, draft and approve (same checks as for an editor)
         run: |
           python -m brief collect
-          python -m brief draft --date "${{ steps.cfg.outputs.date }}"
+          python -m brief draft --date "${{ steps.cfg.outputs.date }}" --days "${{ steps.cfg.outputs.days }}"
           python -m brief approve --date "${{ steps.cfg.outputs.date }}" --auto
       - name: Retell for the ear and check every claim
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           set -o pipefail
-          python -m brief spoken --date "${{ steps.cfg.outputs.date }}" | tee -a "$GITHUB_STEP_SUMMARY"
+          python -m brief spoken --date "${{ steps.cfg.outputs.date }}" --days "${{ steps.cfg.outputs.days }}" | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Paid voice within today's budget?
         id: paid
         env:
@@ -118,7 +129,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -A data editions demo
           git diff --cached --quiet && exit 0
-          git commit -m "Daily BRIEF edition ${{ steps.cfg.outputs.date }}"
+          git commit -m "BRIEF edition ${{ steps.cfg.outputs.date }}"
           for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep $((i*5)); done
           exit 1
       - name: Summary

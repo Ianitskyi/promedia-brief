@@ -20,6 +20,7 @@ Output: editions/<date>/spoken.json, same segment shape as approved.json, with i
 sha256 and the sha256 of the approved text it was made from.
 """
 import calendar
+import datetime as dt
 import json
 import os
 import re
@@ -28,7 +29,7 @@ from . import strikes, tts
 from .edition import EDITIONS, script_hash, script_text
 from .factcheck import extract_claims, _found
 from .review import load_approved
-from .speech import date_words, load_lexicon
+from .speech import MONTHS_GEN, date_words, load_lexicon, ordinal
 from .util import ROOT, config, iso, load_json, now_utc, write_json
 
 USAGE = ROOT / "data" / "tts-usage.json"
@@ -86,8 +87,31 @@ SCHEMA = {
 }
 
 
-def settings():
-    return config("editorial.json").get("daily", {})
+def settings(days=1):
+    ed = config("editorial.json")
+    cfg = dict(ed.get("daily", {}))
+    if days > 1:  # weekly edition: same voices and checks, its own length (config "weekly")
+        cfg.update({k: v for k, v in ed.get("weekly", {}).items() if not isinstance(v, dict)})
+    return cfg
+
+
+def period_words(date, days=1):
+    """«п'ятнадцяте листопада» for a daily edition; «тиждень, з восьмого по чотирнадцяте листопада»
+    for a weekly one (the previous 7 days, the edition day not included)."""
+    if days == 1:
+        return date_words(date)
+    end = dt.date.fromisoformat(date) - dt.timedelta(days=1)
+    start = end - dt.timedelta(days=days - 1)
+    first = ordinal(start.day, "gen") + ("" if start.month == end.month else " " + MONTHS_GEN[start.month - 1])
+    return f"тиждень, з {first} по {date_words(end.isoformat())}"
+
+
+def week_budget(date, cfg, usage=None):
+    """A weekly edition may use its full length if the month's credits still allow it."""
+    usage = usage if usage is not None else load_json(USAGE, {})
+    used = usage.get(date[:7], {}).get("characters", 0)
+    left = cfg.get("monthly_credits", 30000) * (1 - cfg.get("reserve", 0.1)) / cfg.get("credits_per_char", 1.0) - used
+    return max(0, int(min(cfg.get("budget_characters", 4300), left)))
 
 
 # --- budget -------------------------------------------------------------------------------
@@ -150,18 +174,25 @@ def story_evidence(seg, evidence):
     return {src["item_id"]: evidence[src["item_id"]] for src in seg["sources"] if src["item_id"] in evidence}
 
 
-def request_text(date, stories, evidence, budget):
+WEEKLY = """Це ТИЖНЕВИЙ випуск: головні новини за попередні 7 днів. Якщо подія розвивалася кілька днів (переговори, розслідування, рішення), переказуй її найсвіжіший стан за найпізнішим джерелом і не подавай як майбутнє те, що вже мало відбутися. Повідомлення про одну подію з різних днів об'єднуй в один сюжет."""
+
+
+def request_text(date, stories, evidence, budget, days=1):
     lines = [f"Дата випуску: {date}. Обсяг усіх сюжетів разом — не більше {budget} символів; "
              "якщо всі не вміщаються, залиш найважливіші (вони йдуть першими).", ""]
+    if days > 1:
+        lines[1:1] = [WEEKLY]
     for seg in stories:
         lines.append(f"### Сюжет {seg['id']} (важливість {seg['rank']}, блок {seg['block']})")
+        published = {src["item_id"]: (src.get("published_at") or "")[:10] for src in seg["sources"]}
         for iid, txt in story_evidence(seg, evidence).items():
-            lines.append(f"Джерело {iid}: {txt}")
+            when = f" (опубліковано {published[iid]})" if days > 1 and published.get(iid) else ""
+            lines.append(f"Джерело {iid}{when}: {txt}")
         lines.append("")
     return "\n".join(lines)
 
 
-def ask_claude(date, stories, evidence, budget, model):
+def ask_claude(date, stories, evidence, budget, model, days=1):
     import anthropic
 
     client = anthropic.Anthropic()
@@ -172,7 +203,7 @@ def ask_claude(date, stories, evidence, budget, model):
         fallbacks="default",
         output_config={"effort": "medium", "format": {"type": "json_schema", "schema": SCHEMA}},
         system=SYSTEM,
-        messages=[{"role": "user", "content": request_text(date, stories, evidence, budget)}],
+        messages=[{"role": "user", "content": request_text(date, stories, evidence, budget, days)}],
     )
     if response.stop_reason == "refusal":
         raise RuntimeError(f"Claude declined ({getattr(response.stop_details, 'category', None)})")
@@ -192,21 +223,22 @@ def _segment(seg_id, kind, block, lines, title=None, sources=None):
             "sources": sources or []}
 
 
-def build(date, use_llm=True, budget=None, provider_name=None):
-    cfg = settings()
+def build(date, use_llm=True, budget=None, provider_name=None, days=1):
+    cfg = settings(days)
     approved = load_approved(date)
     evidence = approved["evidence"]
     stories = [seg for seg in approved["segments"] if seg["kind"] == "story"
                and seg["block"] in cfg.get("blocks", ["national", "regional"])]
     stories.sort(key=lambda s: (s["block"] != "national", s["rank"]))
-    budget = day_budget(date, cfg) if budget is None else budget
+    if budget is None:
+        budget = day_budget(date, cfg) if days == 1 else week_budget(date, cfg)
     by_id = {s["id"]: s for s in stories}
 
     retold, log = [], {"llm": None, "rejected": [], "fallback": []}
     if use_llm and os.environ.get("ANTHROPIC_API_KEY") and stories:
         try:
             answer, log["llm"] = ask_claude(date, stories, evidence, max(300, budget - 150),
-                                            cfg.get("llm_model", "claude-opus-5-5"))
+                                            cfg.get("llm_model", "claude-opus-5-5"), days)
         except Exception as e:  # the edition still goes out, read from the approved sentences
             log["llm_error"] = f"{type(e).__name__}: {e}"
             answer = None
@@ -252,9 +284,9 @@ def build(date, use_llm=True, budget=None, provider_name=None):
         log["left_out"] = [seg["id"] for seg in stories if seg["id"] not in used and seg["id"] not in rejected]
     retold.sort(key=lambda r: r["rank"])
     # Strike reports from different regions become one summary story (owner, 2026-11-15).
-    retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date)
+    retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date, days=days)
 
-    words = date_words(date)
+    words = period_words(date, days)
     outro_line = cfg.get("outro", "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF.") \
         .format(date_words=words)
 
@@ -298,6 +330,7 @@ def build(date, use_llm=True, budget=None, provider_name=None):
     spoken = {
         "date": date,
         "kind": "spoken",
+        "period_days": days,
         "made_at": iso(now_utc()),
         "approved_sha256": approved["script_sha256"],
         "approved_by": approved["approved_by"],
