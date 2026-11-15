@@ -38,7 +38,7 @@ def main():
 <html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg"><title>{title}</title>
 <style>
-:root{{color-scheme:light}}body{{font-family:system-ui,-apple-system,sans-serif;background:#f4f2ec;color:#171717;margin:0}}
+:root{{color-scheme:light}}body{{font-family:system-ui,-apple-system,sans-serif;background:#ffffff;color:#171717;margin:0}}
 main{{max-width:680px;margin:0 auto;padding:26px 20px 100px}}
 a{{color:inherit}}.brand{{font-size:24px;font-weight:850;text-decoration:none}}h1{{font-size:clamp(28px,6vw,45px);letter-spacing:-.05em;line-height:1.07}}
 .player{{background:#171717;color:white;border-radius:22px;padding:20px;margin:24px 0}}audio{{width:100%}}
