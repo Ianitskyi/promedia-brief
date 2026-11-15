@@ -8,7 +8,8 @@ evidence of that story, the same claim check the draft goes through:
 * every number, name, quote and month or weekday in the text must occur in the evidence;
 * no relative time words (сьогодні, вчора...): the edition can be heard on another day;
 * stories merged into one must not add up their figures (no totals, see
-  docs/THEMATIC_NEWS_AND_TEASERS.md).
+  docs/THEMATIC_NEWS_AND_TEASERS.md). The one exception is the strike digest
+  (brief/strikes.py): its sum is computed by the program from verified clauses, not by Claude.
 
 A story that fails is read from its approved (verbatim) sentences instead, so a bad
 retelling never reaches the audio. Without ANTHROPIC_API_KEY the whole edition is read from
@@ -23,7 +24,7 @@ import json
 import os
 import re
 
-from . import tts
+from . import strikes, tts
 from .edition import EDITIONS, script_hash, script_text
 from .factcheck import extract_claims, _found
 from .review import load_approved
@@ -51,6 +52,8 @@ SYSTEM = """Ти — редактор українського аудіовип�
 5. Якщо джерело посилається на когось («за даними Повітряних сил», «як повідомив Лубінець»), \
 збережи це посилання. Назви медіа, яке опублікувало новину, не називай.
 6. Не оцінюй, не коментуй, без сенсаційності.
+
+Повідомлення про наслідки російських ударів (загиблі, поранені) у різних областях переказуй окремими сюжетами, а не одним: перше речення — де стався удар і що сталося. Програма сама складе з них одне зведення й порахує перевірену суму.
 
 Стиль: 2–4 речення на сюжет. Сюжети про одну подію чи тему (наприклад, наслідки одного обстрілу \
 в різних містах) можна об'єднати в один, перелічивши місця, — але без підсумкових чисел.
@@ -248,6 +251,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
     if answer:
         log["left_out"] = [seg["id"] for seg in stories if seg["id"] not in used and seg["id"] not in rejected]
     retold.sort(key=lambda r: r["rank"])
+    # Strike reports from different regions become one summary story (owner, 2026-11-15).
+    retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date)
 
     words = date_words(date)
     outro_line = cfg.get("outro", "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF.") \
@@ -260,6 +265,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
             segs.append(_segment(f"story-{n}", "story", "national", r["lines"], title=r["title"], sources=r["sources"]))
             segs[-1]["retold"] = r["retold"]
             segs[-1]["from_stories"] = r["ids"]
+            if r.get("digest"):
+                segs[-1]["digest"] = r["digest"]
         segs.append(_segment("outro", "outro", "outro", [outro_line]))
         return segs
 

@@ -18,6 +18,20 @@ class FeatureError(RuntimeError):
     pass
 
 
+def digest_note(digest):
+    """How the strike summary was counted, for the listener to check (brief/strikes.py)."""
+    from .strikes import LOCATIVE
+
+    parts = []
+    for region, kinds in digest["regions"].items():
+        for kind, word in (("killed", "загиблі"), ("injured", "поранені")):
+            if kind in kinds:
+                f = kinds[kind]
+                parts.append({"place": LOCATIVE.get(region, region), "kind": word, "n": f["n"],
+                              "source": f.get("source"), "url": f.get("url")})
+    return {"killed": digest["killed"], "injured": digest["injured"], "method": digest["method"], "parts": parts}
+
+
 def feature(date, variant=SUFFIX, require_asr=True):
     spoken = load_script(date, "spoken")
     render = load_json(EDITIONS / date / f"render-{variant}.json")
@@ -71,7 +85,8 @@ def feature(date, variant=SUFFIX, require_asr=True):
         "segments": [{"id": seg["id"], "kind": seg["kind"], "block": seg["block"], "title": seg.get("title"),
                       **audio[seg["id"]], **(about(seg) if seg["kind"] == "story" else {}),
                       "text": [s["text"] for s in seg["sentences"]],
-                      "sources": [{"name": x["name"], "url": x["url"]} for x in seg.get("sources", [])]}
+                      "sources": [{"name": x["name"], "url": x["url"]} for x in seg.get("sources", [])],
+                      **({"digest": digest_note(seg["digest"])} if seg.get("digest") else {})}
                      for seg in spoken["segments"] if seg["sentences"]],
     })
     for old in DEMO.glob(f"*-{SUFFIX}*"):  # yesterday's daily edition: mp3, json and segments
