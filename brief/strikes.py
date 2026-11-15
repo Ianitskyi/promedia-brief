@@ -143,12 +143,12 @@ def _local_date(iso_time):
     return t.astimezone(KYIV).date()
 
 
-def item_figures(text, published_at, date, gaz):
+def item_figures(text, published_at, date, gaz, days=1):
     """Verified figures of one source item, or None if the item can't be used."""
     day = dt.date.fromisoformat(date)
-    allowed = {day, day - dt.timedelta(days=1)}
+    allowed = {day - dt.timedelta(days=k) for k in range(days + 1)}
     if _local_date(published_at) not in allowed:
-        return None, "опубліковано не за добу"
+        return None, "опубліковано поза періодом випуску"
     if not (ATTACK.search(text) and RUSSIA.search(text)):
         return None, "не про російський удар"
     for d, m in DATE_IN_TEXT.findall(_norm(text)):
@@ -188,7 +188,7 @@ def pick(figures):
     return next(f for f in figures if f["n"] == n), sorted(sources)
 
 
-def tally(stories, evidence, date):
+def tally(stories, evidence, date, days=1):
     """One verified figure per region and kind, summed over regions. Returns (result, log)."""
     gaz = gazetteer()
     found, log, seen = {}, [], set()
@@ -198,7 +198,7 @@ def tally(stories, evidence, date):
             if not text or src["item_id"] in seen:
                 continue
             seen.add(src["item_id"])
-            figs, why = item_figures(text, src.get("published_at"), date, gaz)
+            figs, why = item_figures(text, src.get("published_at"), date, gaz, days)
             if not figs:
                 log.append({"item_id": src["item_id"], "skipped": why})
                 continue
@@ -250,15 +250,45 @@ def lead_sentences(result):
     return out
 
 
-def build_digest(items, by_id, evidence, date, max_details=3):
+METHOD_DAY = ("у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає "
+              "і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу")
+METHOD_WEEK = ("загальної суми за тиждень немає: цифри з різних днів можуть повторювати тих самих людей; "
+               "названо області, де за повідомленнями медіа були загиблі чи поранені")
+
+
+def week_lead(result):
+    """Weekly edition: no sum. Figures from different days can repeat the same people (a death
+    toll updated the next day), so the week is described by where people were killed or injured."""
+    regions = result["regions"]
+    killed = sorted((r for r in regions if "killed" in regions[r] and r in LOCATIVE),
+                    key=lambda r: (-regions[r]["killed"]["n"], r))
+    injured = sorted((r for r in regions if "injured" in regions[r] and r in LOCATIVE),
+                     key=lambda r: (-regions[r]["injured"]["n"], r))
+
+    def places(ids):
+        hit = [LOCATIVE[r] for r in ids[:3]]
+        if len(hit) > 1:
+            hit = [hit[0]] + [h.split(" ", 1)[1] if h.split()[0] == hit[0].split()[0] else h for h in hit[1:]]
+        return ", ".join(hit[:-1]) + " та " + hit[-1] if len(hit) > 1 else hit[0]
+
+    if len(killed) >= 2:
+        return [f"Протягом тижня внаслідок російських ударів гинули люди {places(killed)}."]
+    if len(killed) + len(injured) >= 2 and injured:
+        return [f"Протягом тижня внаслідок російських ударів постраждали люди {places(killed + [r for r in injured if r not in killed])}."]
+    return []
+
+
+def build_digest(items, by_id, evidence, date, max_details=3, days=1):
     """items: the edition's stories (dicts with ids, title, lines, sources, rank, retold), in order.
     Returns (items with the strike stories replaced by one digest, digest log or None)."""
     strike = [it for it in items if any(is_strike_story(by_id[i], evidence) for i in it["ids"] if i in by_id)]
     if len(strike) < 2:
         return items, None
     segs = [by_id[i] for it in strike for i in it["ids"] if i in by_id]
-    result, skipped = tally(segs, evidence, date)
-    lead = lead_sentences(result)
+    result, skipped = tally(segs, evidence, date, days)
+    lead = lead_sentences(result) if days == 1 else week_lead(result)
+    if days > 1:
+        max_details = 4
     if not lead:
         return items, {"merged": False, "why": "немає перевіреної цифри", "skipped": skipped}
     details = [it["lines"][0] for it in strike[:max_details] if it["lines"]]
@@ -269,11 +299,12 @@ def build_digest(items, by_id, evidence, date, max_details=3):
         "sources": [src for it in strike for src in it["sources"]],
         "rank": min(it["rank"] for it in strike),
         "retold": any(it["retold"] for it in strike),
-        "digest": {"killed": result["killed"], "injured": result["injured"], "regions": result["regions"],
-                   "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає "
-                             "і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "digest": {"killed": result["killed"] if days == 1 else None,
+                   "injured": result["injured"] if days == 1 else None, "regions": result["regions"],
+                   "method": METHOD_WEEK if days > 1 else METHOD_DAY,
                    "skipped": skipped},
     }
     rest = [it for it in items if it not in strike]
     out = sorted(rest + [digest], key=lambda it: it["rank"])
-    return out, {"merged": True, "stories": len(strike), "killed": result["killed"], "injured": result["injured"]}
+    return out, {"merged": True, "stories": len(strike), "period_days": days,
+                 "killed": result["killed"] if days == 1 else None, "injured": result["injured"] if days == 1 else None}

@@ -77,3 +77,30 @@ def test_lead_grammar():
     assert lead_sentences(r(3, 0)) == ["Унаслідок російських ударів за добу в Україні загинули щонайменше 3 людини."]
     assert lead_sentences(r(0, 21)) == ["Унаслідок російських ударів за добу в Україні поранено щонайменше 21 людину."]
     assert lead_sentences(r(0, 0)) == []
+
+
+def test_weekly_digest_names_places_without_a_sum():
+    evidence = {
+        "a": "Росіяни атакували Харків 10 листопада. Двоє людей загинули.",
+        "b": "Російський удар по Одесі: загинула одна людина.",
+    }
+    stories = [seg("s1", "Удар по Харкову.", ["a"]), seg("s2", "Удар по Одесі.", ["b"])]
+    for s in stories:
+        for src in s["sources"]:
+            src["published_at"] = "2026-11-10T09:00:00+00:00"
+    by_id = {s["id"]: s for s in stories}
+    items = [{"ids": [s["id"]], "title": s["title"], "lines": [s["sentences"][0]["text"]],
+              "sources": s["sources"], "rank": n, "retold": False} for n, s in enumerate(stories)]
+    out, log = strikes.build_digest(items, by_id, evidence, "2026-11-14", days=7)
+    assert log["merged"] and log["killed"] is None
+    assert out[0]["lines"][0] == "Протягом тижня внаслідок російських ударів гинули люди на Харківщині та Одещині."
+    assert not any(ch.isdigit() for ch in out[0]["lines"][0])
+    # the same reports are too old for a daily edition
+    assert strikes.build_digest(items, by_id, evidence, "2026-11-14")[1]["merged"] is False
+
+
+def test_period_words():
+    from brief.spoken import period_words
+    assert period_words("2026-11-21", 7) == "тиждень, з чотирнадцятого по двадцяте листопада"
+    assert period_words("2026-11-07", 7) == "тиждень, з тридцять першого жовтня по шосте листопада"
+    assert period_words("2026-11-15") == "п'ятнадцяте листопада"

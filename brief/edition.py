@@ -29,8 +29,10 @@ def edition_end(date, now=None):
 
 
 def load_items(date, end, hours):
-    prev = (dt.date.fromisoformat(date) - dt.timedelta(days=1)).isoformat()
-    items = load_pool(prev)["items"] + load_pool(date)["items"]
+    day = dt.date.fromisoformat(date)
+    items = []
+    for k in range(-(-int(hours) // 24), -1, -1):  # the window's days, oldest first (2 for a daily edition)
+        items += load_pool((day - dt.timedelta(days=k)).isoformat())["items"]
     by_id = {}
     for it in items:
         by_id.setdefault(it["id"], it)
@@ -327,9 +329,22 @@ def template_segment(seg_id, kind, block, lines, lexicon, **extra):
     return {"id": seg_id, "kind": kind, "block": block, "sentences": sentences, **extra}
 
 
-def build(date, now=None):
+def period_config(ed, days=1):
+    """The editorial config, with the weekly overrides (config "weekly") for a 7-day edition."""
+    if days == 1:
+        return ed
+    weekly = ed.get("weekly", {})
+    if weekly.get("days") != days:
+        raise ValueError(f"no settings for a {days}-day edition (config/editorial.json \"weekly\")")
+    out = dict(ed)
+    for part in ("edition", "clustering", "scoring"):
+        out[part] = {**ed[part], **weekly.get(part, {})}
+    return out
+
+
+def build(date, now=None, days=1):
     now = now or now_utc()
-    ed = config("editorial.json")
+    ed = period_config(config("editorial.json"), days)
     regions_cfg = config("regions.json")
     region_names = {r["id"]: r["name"] for r in regions_cfg["regions"]}
     gaz = clus.gazetteer_from_config(regions_cfg)
@@ -339,6 +354,8 @@ def build(date, now=None):
     end = edition_end(date, now)
 
     items = load_items(date, end, ed_cfg["window_hours"])
+    if ed_cfg.get("only_national"):  # weekly edition: national outlets only (7 days of every outlet is too slow)
+        items = [it for it in items if it.get("geography") == "national"]
     log = {"items_in_window": len(items), "excluded": [], "deduplicated": []}
     kept = []
     for it in items:
@@ -530,8 +547,9 @@ def render_markdown(draft):
     return "\n".join(out) + "\n"
 
 
-def build_and_save(date, now=None):
-    draft = build(date, now)
+def build_and_save(date, now=None, days=1):
+    draft = build(date, now, days)
+    draft["period_days"] = days
     path = EDITIONS / date / "draft.json"
     write_json(path, draft)
     write_text(EDITIONS / date / "draft.md", render_markdown(draft))

@@ -115,7 +115,8 @@ def cosine(a, b):
 
 
 def _hours(a, b):
-    ta, tb = from_iso(a.get("published_at")), from_iso(b.get("published_at"))
+    ta = a["_t"] if "_t" in a else from_iso(a.get("published_at"))
+    tb = b["_t"] if "_t" in b else from_iso(b.get("published_at"))
     if not ta or not tb:
         return 0.0
     return abs((ta - tb).total_seconds()) / 3600
@@ -130,7 +131,8 @@ def compatible(a, b, sim, cfg):
     shared = len(a["_anchors"] & b["_anchors"]) + len(pa & pb)
     if a.get("source_id") == b.get("source_id") and sim < cfg["same_source_min_similarity"]:
         return False, "same-source-different-story"  # a local outlet's many stories about its own city
-    na, nb = a["_anchors"] & set(numbers(a["_text"])), b["_anchors"] & set(numbers(b["_text"]))
+    na = a["_anchors"] & (a["_nums"] if "_nums" in a else set(numbers(a["_text"])))
+    nb = b["_anchors"] & (b["_nums"] if "_nums" in b else set(numbers(b["_text"])))
     if na and nb and not (na & nb) and sim < cfg["different_numbers_min_similarity"]:
         return False, "different-numbers"
     # Tiers: the more specifics (names, numbers, places) two reports share, the less
@@ -150,16 +152,25 @@ def cluster(items, cfg, gazetteer):
         it["_stems"] = content_stems(it["_text"])
         it["_anchors"] = anchors(it["_text"], names)
         it["_places"] = places(it["_text"], gazetteer)
+        it["_nums"] = set(numbers(it["_text"]))  # cached: compatible() is called for every pair
+        it["_t"] = from_iso(it.get("published_at"))
         docs.append(it["_stems"])
     vz = Vectorizer(docs)
     for it in items:
         it["_vec"] = vz.vec(it["_stems"])
 
-    clusters = []
+    clusters, active = [], []
     vetoes = {"time-gap", "different-places"}
+    gap = dt.timedelta(hours=cfg["max_time_gap_hours"])
     for it in sorted(items, key=lambda x: (x.get("published_at") or "", x["id"])):
+        # Items come in time order, so a cluster whose first member is further back than the
+        # time gap is vetoed for this item and every later one: drop it from the candidates.
+        # Same result as checking it, much faster for a 7-day window.
+        t = from_iso(it.get("published_at"))
+        if t:
+            active = [c for c in active if not c["first"] or t - c["first"] <= gap]
         best, best_sim = None, 0.0
-        for c in clusters:
+        for c in active:
             checks = []
             for m in c["members"]:
                 s = cosine(it["_vec"], m["_vec"])
@@ -172,7 +183,8 @@ def cluster(items, cfg, gazetteer):
         if best is not None:
             best["members"].append(it)
         else:
-            clusters.append({"members": [it]})
+            clusters.append({"members": [it], "first": t})
+            active.append(clusters[-1])
 
     out = []
     for c in clusters:
@@ -188,7 +200,7 @@ def cluster(items, cfg, gazetteer):
             "places": sorted(set().union(*(m["_places"] for m in members))),
         })
     for it in items:
-        for k in ("_text", "_stems", "_anchors", "_places", "_vec"):
+        for k in ("_text", "_stems", "_anchors", "_places", "_vec", "_nums", "_t"):
             it.pop(k, None)
     return out
 

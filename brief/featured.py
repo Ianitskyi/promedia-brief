@@ -78,7 +78,9 @@ def feature(date, variant=SUFFIX, require_asr=True):
         "duration_sec": render["duration_sec"],
         "asr_mean_cer": asr.get("mean_cer") if asr else None,
         "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
-        "description": (f"Щоденний випуск BRIEF. Новин у випуску: {spoken['stories']}. Кожне число, назва й "
+        "period_days": spoken.get("period_days", 1),
+        "description": (("Тижневий випуск BRIEF: головне за попередні 7 днів. " if spoken.get("period_days", 1) > 1
+                         else "Щоденний випуск BRIEF. ") + f"Новин у випуску: {spoken['stories']}. Кожне число, назва й "
                         "цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною."),
         "script_sha256": spoken["script_sha256"],
         "sonic": {"intro": "audio/intro.mp3", "outro": "audio/outro.mp3"},

@@ -21,3 +21,7 @@
 
 ## Interface regression rule
 Any publishing code that appends a new player/promo to the homepage, rather than updating the one existing player's data, is a regression.
+
+## Зміна 15.11.2026 (власник)
+
+Замість щоденного — **тижневий випуск щосуботи о 9:00**: головне за попередні 7 днів, ≈5 хвилин, у тому самому єдиному плеєрі. Щоденний режим лишається в коді (`--days 1`), щоб повернутися, коли дозволить бюджет голосу.

@@ -5,16 +5,16 @@
 <link rel="icon" href="/favicon.svg?v=20261030c" type="image/svg+xml" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>BRIEF — демо-випуск</title>
-<meta name="description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta name="description" content="Головні новини тижня — за 5 хвилин, голосом. Щосуботи о 9:00. Лише перевірені українські медіа." />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="BRIEF" />
 <meta property="og:title" content="BRIEF — демо-випуск" />
-<meta property="og:description" content="Головні новини дня — за 5 хвилин, голосом. Лише перевірені українські медіа." />
+<meta property="og:description" content="Головні новини тижня — за 5 хвилин, голосом. Щосуботи о 9:00. Лише перевірені українські медіа." />
 <meta property="og:url" content="https://brief.promedia.report/demo.html" />
 <meta property="og:image" content="https://brief.promedia.report/og.png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:image:alt" content="BRIEF — головні новини дня за 5 хвилин, голосом" />
+<meta property="og:image:alt" content="BRIEF — головні новини тижня за 5 хвилин, голосом" />
 <meta property="og:locale" content="uk_UA" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://brief.promedia.report/og.png" />
@@ -51,7 +51,7 @@ async function show(file){
     ${d.provider==='elevenlabs'?'<p class="muted" style="font-size:12px;margin:10px 0 0">Озвучення: <a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a></p>':''}`;
   document.getElementById('script').innerHTML='<b>Текст випуску</b>'+d.segments.map(s=>`<div class="seg"><div class="kind">${KIND[s.kind]||esc(s.kind)}</div>
     ${s.text.map(t=>`<p>${esc(t)}</p>`).join('')}
-    ${s.digest?`<details class="src"><summary>Як порахували</summary><p>${esc(s.digest.method)}.</p>${s.digest.parts.map(x=>`<p>${esc(x.place)}: ${esc(x.kind)} — ${esc(x.n)} (<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.source)}</a>)</p>`).join('')}</details>`:''}
+    ${s.digest?`<details class="src"><summary>${s.digest.killed==null?'Звідки дані':'Як порахували'}</summary><p>${esc(s.digest.method)}.</p>${s.digest.parts.map(x=>`<p>${esc(x.place)}: ${esc(x.kind)} — ${esc(x.n)} (<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.source)}</a>)</p>`).join('')}</details>`:''}
     ${s.sources.length?`<div class="src">${s.sources.map(x=>`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.name)}</a>`).join(' · ')}</div>`:''}</div>`).join('');
 }
 (async()=>{
