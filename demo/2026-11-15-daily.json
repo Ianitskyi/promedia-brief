@@ -1,0 +1,451 @@
+{
+  "date": "2026-11-15",
+  "variant": "daily",
+  "audio": "demo/2026-11-15-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 111.54,
+  "asr_mean_cer": 0.033,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 7. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "d0b64c1497341a21cc1e495df3af44fdba3bcc3dcab8acf9ec19a8483bc3b65c",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-15-daily/intro.mp3",
+      "duration_sec": 3.25,
+      "text": [
+        "Це BRIEF. Головне за п'ятнадцяте листопада."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "«Все трясло, скло ламалося»: жителі Чорноморська про нічну атаку РФ",
+      "audio": "demo/2026-11-15-daily/story-1.mp3",
+      "duration_sec": 12.53,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "odesa"
+      ],
+      "text": [
+        "У Чорноморську на Одещині внаслідок нічної атаки РФ 15 листопада пошкоджені житлові будинки.",
+        "Місцеві жителі розповіли про вибиті вікна, зруйновані стіни та наслідки вибухів."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1453192-rosijska-armia-vnoci-atakuvala-cornomorsk-na-odesini-sestero-ludej-distali-poranenna"
+        },
+        {
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/rosiyani-vnochi-atakuvali-chornomorsk-postrazhdali-shestero-lyudej"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/15/cherez-nichnu-rosiysku-ataku-na-chornomorsk-poraneni-6-liudey"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka-rosiya-dsns/33898912.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-chornomorsk-ruynuvannya-energetiki-y-poraneni-pislya-udaru-droniv-50659310.html"
+        },
+        {
+          "name": "Махала",
+          "url": "https://mahala.com.ua/viyna/shestero-postrazhdalykh-i-masshtabni-ruynuvannia-naslidky-nichnoi-ataky-na-odeshchynu"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184806-rosiani-atakuvali-cornomorsk-sestero-poranenih-poskodzena-energeticna-infrastruktura.html"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosijani-vnochi-atakuvali-chornomorsk-je-postrazhdali-poshkodzheno-enerhoobjekti-ta-zhitlovi-budinki.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/15/8062931"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/15/781212_rosiyani_masovano_atakuvali.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/15/novyna/bezpeka/rosiyany-vdaryly-po-chornomorsku-poshkodzhena-enerhetychna-infrastruktura-ye-postrazhdali"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236693.html"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/u-chornomorsku-horily-avto-poshkodzheno-budynky-ie-postrazhdali"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326379-rosiiany-vdaryly-chornomorsku-poshkodzheno-adminbudivliu-budynky"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/15/rosiia-atakuvala-chornomorsk-ie-poraneni-poshkodzhena-enerhetyka"
+        },
+        {
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/vnaslidok-nichnogo-udaru-po-chornomorsku-postrazhdaly-6-osib"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1453233-vse-traslo-sklo-lamalosa-ziteli-cornomorska-pro-nicnu-ataku-rf"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/unaslidok-nichnoi-ataky-na-chornomorsk-postrazhdaly-shestero-liudei"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Двоє чоловіків загинули, один перебуває у лікарні: росіяни атакували об'єкт критичної інфраструктури в Мені",
+      "audio": "demo/2026-11-15-daily/story-2.mp3",
+      "duration_sec": 17.67,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "chernihiv"
+      ],
+      "text": [
+        "Російські війська 14 листопада близько 16-ї години вдарили безпілотником по об'єкту критичної інфраструктури в Мені, що на Чернігівщині.",
+        "Внаслідок атаки двоє чоловіків 42 і 45 років загинули."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernihiv/1453067-dvoe-colovikiv-zaginuli-odin-perebuvae-u-likarni-rosiani-atakuvali-obekt-kriticnoi-infrastrukturi-v-meni"
+        },
+        {
+          "name": "Менщина",
+          "url": "https://mena.org.ua/u-meni-vnaslidok-udaru-bezpilotnyka-zahynuly-dvoie-cholovikiv"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184719-vorog-atakuvav-kriticnu-infrastrukturu-na-cernigivsini-dvoe-zagiblih-e-poranenij.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/14/8062888"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/14/na-chernihivshchyni-rashysty-vdaryly-po-krytychnij-infrastrukturi-i-vbyly-dvokh-liudej"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/14/781140_rosiyskiy_bpla_vdariv_meni.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/14/rosiiskyi-dron-atakuvav-obiekt-krytychnoi-infrastruktury-na"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-vdaryla-bezpilotnykom-po-ob-yektu-krytychnoyi-infrastruktury-na-chernigivshhyni-ye-zagybli"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/udar-dronom-rf-po-menskiy-infrastrukturi-dvoye-zagiblih-odin-poraneniy-50659239.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dvoie-zhyteliv-koriukivshchyny-zahynuly-udar-rosii/33898684.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116574-rosiiskii-bezpilotnik-atakuvav-kriticnu-infrastrukturu-v-meni-zaginuli-dvoje-liudei"
+        },
+        {
+          "name": "Час Чернігівський",
+          "url": "https://cntime.cn.ua/udar-rosijskogo-drona-po-mistu-na-chernigivshini-dvoye-zagiblih-she-odin-cholovik-u-likarni-article"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/15/781204_rosiyski_okupanti_atakuvali.html"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosijani-obstriljali-chernihivsku-oblast-je-zahibli-ta-poranenij-.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236703.html"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "РФ атакувала Харків та 13 населених пунктів області ракетами й БпЛА: пошкоджені будинки, медзаклади та залізниця",
+      "audio": "demo/2026-11-15-daily/story-3.mp3",
+      "duration_sec": 11.97,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "kharkiv"
+      ],
+      "text": [
+        "РФ вдарила по близько 14 населених пунктах Харківщини двома ракетами та понад 90 дронами.",
+        "Одна людина загинула, 14 постраждали, серед них четверо дітей."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/15/781196_harkivschini_cherez_rosiyski.html"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/na-kharkivshchyni-cherez-obstrily-postrazhdaly-14-lyudey"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/15/obstrili-harkova-ta-oblasti-za-dobu-1-zagiblij-i-14-postrazhdalih"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1453188-rf-atakuvala-harkiv-ta-13-naselenih-punktiv-oblasti-raketami-j-bpla-poskodzeni-budinki-medzakladi-ta-zaliznica"
+        },
+        {
+          "name": "Громада. Груп",
+          "url": "https://gromada.group/news/all/oleg-sinyegubov-situaciya-na-harkivshini-stanom-na-15-listopada"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/15/raketi-ta-bpla-bili-po-harkivshhini-postrazhdali-14-lyudej"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/nadzvichajni-podiyi/poskodzeni-budinki-likarni-ta-zaliznica-so-vidomo-pro-naslidki-obstriliv-harkivsini-za-dobu.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116588-na-xarkivshhini-cerez-rosiiski-obstrili-postrazdali-14-liudei-sered-nix-cetvero-ditei"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "У МВА розповіли про стан поранених через російські обстріли Словʼянська 14 листопада",
+      "audio": "demo/2026-11-15-daily/story-4.mp3",
+      "duration_sec": 20.43,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "donetsk"
+      ],
+      "text": [
+        "Начальник Словʼянської МВА Вадим Лях повідомив, що через обстріли Словʼянська 14 листопада 2026 року поранені троє людей.",
+        "Жінка віком 55 років перебуває у важкому стані, її госпіталізували."
+      ],
+      "sources": [
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/u-sloviansku-vnaslidok-vorozhikh-obstriliv-poranieno-dvi-liudini"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/donbas/1453181-u-mva-rozpovili-pro-stan-poranenih-cerez-rosijski-obstrili-slovanska-14-listopada"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407590-odna-zhinka-u-vazhkomu-stani-lyah-rozpoviv-podrobyczi-czdariv-po-slovyansku"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiani-skinuli-na-kramatorsk-piat-aviabomb-i-atakuvali-sloviansk-fpv-dronami-je-poraneni"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/na-donechchyni-chetvero-czyvilnyh-otrymaly-poranennya-vnaslidok-obstriliv"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/u-slovuiansku-ta-kramatorsku-tsyvilni-zaznaly-poranen-iak-mynulo-14-lystopada-na-donechchyni-zvedennyu"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/u-slovyansku-vnaslidok-obstriliv-poraneni-troye-lyudej"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rf-za-dobu-zavdala-1367-udariv-po-liniyi-frontu-ta-zhytlovomu-sektoru-donechchyny-i573243"
+        }
+      ]
+    },
+    {
+      "id": "story-5",
+      "kind": "story",
+      "block": "national",
+      "title": "Байден назвав Зеленського впертим, а путіна порівняв із підлітком",
+      "audio": "demo/2026-11-15-daily/story-5.mp3",
+      "duration_sec": 13.94,
+      "topics": [
+        "Міжнародне",
+        "Політика"
+      ],
+      "regions": [],
+      "text": [
+        "Колишній президент США Джо Байден у своїх мемуарах розповів про спілкування з Володимиром Зеленським і володимиром путіним, а також пояснив, чому відмовив команді Дональда Трампа в дозволі на переговори з Кремлем."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/heopolityka/274422-zelenskyy-vpertyy-a-putin-bayduzyy-iak-pidlitok-bayden-u-memuarakh-opysav-spilkuvannia-zi-svitovymy-lideramy-wsj"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/15/8062940"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/15/novyna/polityka/bajden-nazvav-zelenskoho-vpertym-a-putina-porivnyav-pidlitkom"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13700-bayden-rozpoviv-shcho-yoho-dratuvalo-u-zelenskomu-ta-putini-shcho-napysav-eksprezydent-ssha-u-memuarakh"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/dzho-bayden-napisav-memuari-shcho-vin-skazav-pro-zelenskogo-putina-i-trampa-50659327.html"
+        }
+      ]
+    },
+    {
+      "id": "story-6",
+      "kind": "story",
+      "block": "national",
+      "title": "Ворог вдарив по енергооб’єкту: у Запорізькій та Дніпропетровській областях - аварійні відключення",
+      "audio": "demo/2026-11-15-daily/story-6.mp3",
+      "duration_sec": 10.87,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Російські військові вдарили по енергетичному об’єкту, внаслідок чого у Запорізькій та Дніпропетровській областях запроваджено аварійні відключення."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/15/781268_cherez_ataku_rf_avariyni.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4184866-vorog-vdariv-po-energoobektu-u-zaporizkij-ta-dnipropetrovskij-oblastah-avarijni-vidklucenna.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116626-cerez-ataku-na-energoobjekt-castina-spozivaciv-u-zaporizkii-ta-dnipropetrovskii-oblastiax-zalisilasia-bez-svitla"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236738.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/15/minenerho-voroh-zavdav-cherhovoho-udaru-po-enerhetytsi-krainy-bez-elektropostachannia-chastyna-spozhyvachiv-u-zaporizkiy-ta-dnipropetrovskiy-oblastiakh"
+        }
+      ]
+    },
+    {
+      "id": "story-7",
+      "kind": "story",
+      "block": "national",
+      "title": "Україна нагадала Путіну межі переговорів",
+      "audio": "demo/2026-11-15-daily/story-7.mp3",
+      "duration_sec": 9.14,
+      "topics": [
+        "Міжнародне",
+        "Війна та безпека"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "Глава МЗС України Андрій Сибіга заявив, що Путін здатен лише на домовленість про припинення вогню, а не про розподіл впливу в Європі."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/15/781206_yalti-1945_spochatku_treba.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/political/1236707.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/15/8062935"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/15/sybiha-vidpoviv-na-rosijski-ambitsii-shchodo-novoho-poriadku-bezpeky-v-ievropi"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/15/novyna/polityka/sybiha-vidpoviv-vymohy-putina-shhodo-novoho-poryadku-bezpeky-yevropi"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/maksimum-dlja-rosiji-pripinennja-vohnju-sibiha-vislovivsja-pro-fantaziji-putina-shchodo-bezpeki.html"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/politics/326380-putin-mozhe-domovliatysia-prypynennia-vohniu-sfery-vplyvu-yevropi"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-15-daily/outro.mp3",
+      "duration_sec": 5.55,
+      "text": [
+        "Це був BRIEF за п'ятнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
