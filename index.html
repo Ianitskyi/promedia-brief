@@ -35,7 +35,8 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 <div class="audio" id="dailyCard" style="display:none"><div class="eyebrow" style="color:#aaa" id="editionDate">завантаження…</div><h2 style="margin-top:8px" id="nowTitle">Випуск BRIEF</h2><div class="audio-row"><button class="play" onclick="togglePlay()" id="playBtn" aria-label="Відтворити або призупинити">▶</button><div><b id="storyCount">—</b><div class="tiny" style="color:#aaa" id="audioStatus">—</div></div></div><div class="bar"><div class="prog" id="audioProgress" style="width:0"></div></div>
 <div class="audio-row" style="margin-top:12px;gap:8px"><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(-1)">⏮ Попередній</button><button class="pill" style="color:#fff;background:transparent;border-color:#444" onclick="step(1)">Наступний ⏭</button></div>
 <audio id="player" preload="none"></audio></div>
-<div class="card"><div class="split"><div><div class="eyebrow">Ваші теми і регіон</div><h2 style="margin-top:6px" id="prefsSummary">—</h2></div><span class="status" id="topicCount">—</span></div><button class="secondary" onclick="go('topics')">Налаштувати</button></div>
+<!-- «Ваші теми і регіон» hidden until personalization is set up and funded (owner, 2026-11-16); turn back on with PERSONALIZE below -->
+<div class="card" id="prefsCard" style="display:none"><div class="split"><div><div class="eyebrow">Ваші теми і регіон</div><h2 style="margin-top:6px" id="prefsSummary">—</h2></div><span class="status" id="topicCount">—</span></div><button class="secondary" onclick="go('topics')">Налаштувати</button></div>
 <div class="notice"><b>Audio-first:</b> BRIEF не публікує повні тексти редакцій. Кожна новина має джерело, а посилання ведуть до оригінального матеріалу.</div><div class="notice" style="margin-top:10px">Тільки відкриті матеріали медіа з Білого списку ІМІ та Мапи рекомендованих медіа ІМІ і «Детектора медіа». Кожне число, ім'я та цитату у випуску автоматично звірено з першоджерелом.</div>
 </section>
 
@@ -58,9 +59,9 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 <div class="card"><div class="split"><div><div class="eyebrow">Регіональні</div><h2 style="margin-top:6px" id="mapCount">—</h2></div><span class="status">Recommended</span></div><p class="muted" id="mapMeta"></p></div>
 </section>
 
-<nav class="nav">
+<nav class="nav" style="grid-template-columns:repeat(2,1fr)">
 <button class="active" data-screen="home" onclick="go('home')"><span class="ico">⌂</span>Головна</button>
-<button data-screen="topics" onclick="go('topics')"><span class="ico">◎</span>Теми</button>
+<button data-screen="topics" onclick="go('topics')" style="display:none"><span class="ico">◎</span>Теми</button>
 <button data-screen="sources" onclick="go('sources')"><span class="ico">✓</span>Джерела</button>
 </nav>
 </main>
@@ -213,6 +214,9 @@ renderTopics(); loadSources(); loadRegions();
 // jingles included). When the listener's region or starred topics change the order (or the short
 // mode leaves stories out), the same rendered stories play back to back: the day's two top
 // stories first, then stories of their region and starred topics, then the rest.
+// Personal order by topics and region: off until it is set up and funded (owner, 2026-11-16).
+// Everyone hears the editorial order; saved settings are kept and work again when this is true.
+const PERSONALIZE=false;
 let featured=null, demoList=[], demoIdx=0, demoSeekTo=null, demoGap=null;
 const dp=document.getElementById('demoPlayer');
 const PAUSE_BETWEEN_SEC=1.0;  // a clear gap between stories, as in the full mp3
@@ -229,7 +233,7 @@ function personalOrder(d){
 function editionList(d){
   const full=[{audio:d.audio,kind:'full',duration_sec:d.duration_sec}];
   // until the listener saves their own topics and region, everyone hears the editorial order
-  if(!store.get('brief-prefs-saved',false)||!(d.segments.length&&d.segments.every(s=>s.audio))) return full;
+  if(!PERSONALIZE||!store.get('brief-prefs-saved',false)||!(d.segments.length&&d.segments.every(s=>s.audio))) return full;
   const list=personalOrder(d);
   const ids=a=>a.filter(s=>s.kind==='story').map(s=>s.id).join(',');
   return ids(list)===ids(d.segments)?full:list;  // the editorial order: the full mp3 with its own pauses
