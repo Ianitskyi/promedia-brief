@@ -1,0 +1,571 @@
+{
+  "date": "2026-11-16",
+  "variant": "daily",
+  "audio": "demo/2026-11-16-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 74.45,
+  "asr_mean_cer": 0.061,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 3. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "9d9fef9f2406f0e8792ac7585faf21ffeffba4f894e452cba0737ea1bb63c22d",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-16-daily/intro.mp3",
+      "duration_sec": 3.76,
+      "text": [
+        "Це BRIEF. Головне за шістнадцяте листопада."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "audio": "demo/2026-11-16-daily/story-1.mp3",
+      "duration_sec": 36.86,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне",
+        "Суспільство",
+        "Економіка",
+        "Бізнес"
+      ],
+      "regions": [
+        "kherson",
+        "dnipropetrovsk",
+        "donetsk",
+        "kirovohrad",
+        "poltava",
+        "chernihiv",
+        "kharkiv",
+        "zaporizhzhia",
+        "vinnytsia",
+        "cherkasy",
+        "sumy",
+        "odesa",
+        "lviv"
+      ],
+      "text": [
+        "Унаслідок російських ударів за добу в Україні загинули щонайменше 9 людей, ще щонайменше 30 людей поранено.",
+        "Найбільше постраждалих на Донеччині та Чернігівщині.",
+        "Унаслідок російського удару по центру Херсону 16 листопада вкотре постраждав Херсонський обласний академічний музично-драматичний театр імені Миколи Куліша.",
+        "Російські окупанти вранці в понеділок, 16 листопада атакували Дніпро, внаслідок чого одна людина загинула, ще троє зазнали поранень.",
+        "16 листопада у Кіровоградській області за розпорядженням Укренерго діятиме графік погодинних відключень електрики."
+      ],
+      "sources": [
+        {
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/pid-udar-armiyi-rf-znovu-potrapiv-xersonskii-teatr-imeni-kulisa-foto"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1453481-poskodzeni-stini-dveri-ta-ponad-20-vikon-armia-rf-obstrilala-budivlu-teatru-im-kulisa-u-hersoni"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/cherez-rosijski-obstrili-vchergove-poshkodzhena-budivlja-teatru-u-hersoni-foto"
+        },
+        {
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/okupanty-znovu-obstrilyaly-hersonskyj-dramteatr-snaryad-vluchyv-u-dah-budivli"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kultura/ataka-na-herson-16-listopada-postrazhdav-hersonskiy-teatr-imeni-kulisha-foto-50659582.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/16/unaslidok-ataky-rosii-postrazhdav-khersonskyi-teatr-imeni-mykoly"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/u-dnipri-vnaslidok-rosijskoyi-ataky-zagynula-lyudyna-shhe-troye-poraneni"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1453423-udar-rf-po-dnipru-zaginula-ludina-troe-poranenih"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236844.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185023-rosiani-vdarili-po-dnipru-zaginula-ludina-troe-poranenih.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/okupanty-vdaryly-dronom-po-dorozi-dnipri-ye-zhertva-ta-poraneni"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rosiyany-vrantsi-v-ponedilok-dvichi-atakuvaly-dnipro-ye-zagyblyj-i-poraneni-i573308"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/16/poshkodzheni-bahatopoverkhivky-zahorilysia-avtomobili-naslidky-rankovykh-udariv-rosiian-po-dnipru-foto"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/rosiiany-atakuvaly-dnipro-odna-liudyna-zahynula-troie-postrazhdaly"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiya-atakuvala-kilka-regioniv-ukraini-e-zagibli-ta-poraneni-sered-postrazhdalikh-diti"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/unaslidok-ataky-rf-u-dnipri-zagynula-lyudyna-shhe-10-postrazhdaly"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236960.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185044-u-dnipri-vid-udaru-rf-poskodzeni-bagatopoverhivki-kilkist-poranenih-zrosla-do-10-zaginula-ludina.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/16/zahynula-liudyna-ie-poraneni-palaly-avtivky-naslidky-ataky-rosii-v"
+        },
+        {
+          "name": "Прихист",
+          "url": "https://prikhist.com/2026/11/16/u-dnipri-vnaslidok-rankovykh-atak-rf-zahynula-liudyna-kilkist-poranenykh-zrosla-do-10"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/atakuvaly-dnipro-16-lystopada"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dnipro-ataka/33899440.html"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/16/rosiiany-vdaryly-po-dnipru-ie-zahyblyj-ta-poraneni"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/u-dnipri-cherez-rosijsku-ataku-poshkodzheni-dev-yat-bagatopoverhivok-u-troh-rajonah-10-poranenyh-ye-zagyblyj"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063033"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rf-vdarila-po-dnipru-poshkodzheni-bahatopoverkhivki-na-dorozi-zajnjalisja-avto-je-zahiblij-ta-poraneni.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/dnipri-zrosla-kilkist-postrazhdalyx-vnaslidok-rankovoyi-ataky-rf"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/u-dnipri-vnaslidok-vorozhogo-udaru-poraneno-cholovika"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kropyvnytskiy/1453335-na-kirovogradsini-16-listopada-elektriku-vidklucatimut-pogodinno-grafik"
+        },
+        {
+          "name": "CBN",
+          "url": "https://cbn.com.ua/news/hrafiky-vidkliuchennia-svitla-diiatymut-na-kirovohradshchyni-16-lystopada"
+        },
+        {
+          "name": "Перша електронна газета",
+          "url": "https://persha.kr.ua/news/life/289645-yak-vymykatymutj-svitlo-na-kirovogradshhyni-16-lystopada-grafik"
+        },
+        {
+          "name": "Без Купюр",
+          "url": "https://kypur.net/na-kirovogradshhyni-cherez-rosijsiki-obstrily-ye-znestrumlennya"
+        },
+        {
+          "name": "Перша електронна газета",
+          "url": "https://persha.kr.ua/news/life/289666-rosiyany-atakuvaly-harchove-pidpryyemstvo-na-kirovogradshhyni-ye-postrazhdali"
+        },
+        {
+          "name": "CBN",
+          "url": "https://cbn.com.ua/news/kharchove-pidpryiemstvo-na-oleksandriishchyni-obstriliala-rf-ie-travmovani"
+        },
+        {
+          "name": "Без Купюр",
+          "url": "https://kypur.net/na-kirovogradshhyni-rosiyany-atakuvaly-harchove-pidpryyemstvo"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185178-na-kirovogradsini-vijska-rf-atakuvali-harcove-pidpriemstvo-dvoe-ludej-travmovani.html"
+        },
+        {
+          "name": "Кременчуцький Телеграф",
+          "url": "https://telegraf.in.ua/accidents/rosiyany-atakuvaly-harchove-pidpryyemstvo-na-kirovogradshhyni-ye-dvoye-travmovanyh.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063084"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/rosiyany-atakuvaly-dva-pidpryyemstva-chernihovi-ye-zahybli-ta-postrazhdali"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237120.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/16/rosiiany-atakuvaly-pidpryiemstva-v-chernihovi-dvoie-zahyblykh"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/16/v-chernigovi-balakliyi-ta-dnipri"
+        },
+        {
+          "name": "Курс",
+          "url": "https://kurs.if.ua/rf-atakuvala-pidpryyemstva-u-chernigovi-ye-zagybli-ta-postrazhdali"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/chernigiv-atakuvali-banderoli-ta-droni-ye-zagibli-ta-poraneni-novini-chernigova-50659576.html"
+        },
+        {
+          "name": "Час Чернігівський",
+          "url": "https://cntime.cn.ua/rosijski-vijska-atakuvali-dva-privatni-pidpriyemstva-u-chernigovi-sho-vidomo-article"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/u-balakliyi-poperedno-zaginula-lyudina-cherez-rosijskij-udar-po-poshti"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/rosiyany-atakuvaly-balakliyu-raketamy-zahynula-lyudyna"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/16/udar-po-balakliyi-zagiblij-i-postrazhdali-poshkodzhene-viddilennya-poshti"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/oblast-online/balaklia/u-balaklii-rosiani-vdarili-poblizu-postovogo-viddilenna-e-zagiblij-ta-poraneni.html"
+        },
+        {
+          "name": "Обрії Ізюмщини",
+          "url": "https://obrii.com.ua/balakliya/74329-udar-po-balaklii-odna-liudyna-zahynula-chetvero-poraneni.html"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/16/u-tsentri-balakliyi-vnaslidok-rosijskogo-udaru-zaginula-lyudina-shhe-p-yatero-poraneni"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/u-balakliji-cherez-udar-rf-poshkodzheni-poshtove-viddilennja-ta-avto-zahinula-ljudina-chetvero-poraneni.html"
+        },
+        {
+          "name": "Обрії Ізюмщини",
+          "url": "https://obrii.com.ua/balakliya/74333-rosiyska-ataka-na-balakliiu-izium-ta-kapytolivku-ie-zahybla-i-semero-poranenykh.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236745.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236767.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/16/rosiiany-vbyly-zhinku-v-zaporizhzhi-ta-cholovika-v-bilenkomu"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vorog-zranku-atakuye-zaporizhzhya-zagynula-zhinka-ye-poraneni-foto-video"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4184987-v-rezultati-ataki-na-vinniccinu-stalosa-vlucanna-v-obekt-kriticnoi-promislovosti.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/vinnytsia/1453396-na-vinniccini-vnaslidok-ataki-rf-e-vlucanna-v-obekt-kriticnoi-promislovosti-ta-obekti-energetiki"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236791.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-atakuvala-ob-yekt-kritichnoji-promislovosti-na-vinnichchini-zagroza-povtornih-udariv-50659425.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-vinnychchyna-ataka/33899335.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781374_rosiyani_vluchili_vinnichchini.html"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/16/na-vinnychchyni-atakovano-promyslovyj"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Podii/sered-sutsilnogo-polumya-yak-gasili-pozhezhi-pislya-nichnoyi-ataki-na--12012837.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1453475-rf-zavdala-udaru-po-energoobektah-i-majdanciku-dtek-na-odesini-ponad-52-tisaci-spozivaciv-zalisilisa-bez-svitla"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781412_odeschini_cherez_rosiyski_ataki.html"
+        },
+        {
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/rosiyani-atakuvali-energoob-yekti-dtek-na-odeshhini-ponad-52-tisyachi-rodin-bez-svitla"
+        },
+        {
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/vorog-atakuvav-odeshhynu-bez-svitla-zalyshylysya-ponad-52-tysyachi-abonentiv"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rf-atakuvala-objekti-dtek-na-odeshchini-desjatki-tisjach-rodin-zalishilisja-bez-svitla.html"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/ponad-52-tisiachi-rodin-na-odeshchini-zalishilisia-bez-svitla"
+        },
+        {
+          "name": "Море людей",
+          "url": "https://moreliudei.media/teksty/rf-atakuvala-enerhetyku-odeshchyny-bez-svitla-ponad-52-tys-rodyn"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka/33899536.html"
+        },
+        {
+          "name": "Антикризовий медіа-центр",
+          "url": "https://acmc.ua/na-donechchyni-vnaslidok-rosijskyh-atak-chetvero-lyudej-zagynuly-shche-chetvero-distaly-poranennya-foto"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/chietviero-liudiei-zaghinuli-ta-chietviero-postrazhdali-chieriez-obstrili-doniechchini"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/cetvero-liudei-zaginuli-ta-cetvero-postrazdali-cerez-obstrili-doneccini"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781394_pislya_ataki_rf_donechchini.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236992.html"
+        }
+      ],
+      "digest": {
+        "killed": 9,
+        "injured": 30,
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "parts": [
+          {
+            "place": "на Херсонщині",
+            "kind": "поранені",
+            "n": 1,
+            "source": "МОСТ",
+            "url": "https://most.ks.ua/news/url/cherez-rosijski-obstrili-vchergove-poshkodzhena-budivlja-teatru-u-hersoni-foto"
+          },
+          {
+            "place": "на Дніпропетровщині",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Суспільне Новини",
+            "url": "https://suspilne.media/dnipro/1453423-udar-rf-po-dnipru-zaginula-ludina-troe-poranenih"
+          },
+          {
+            "place": "на Дніпропетровщині",
+            "kind": "поранені",
+            "n": 13,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/16/8063033"
+          },
+          {
+            "place": "на Кіровоградщині",
+            "kind": "поранені",
+            "n": 1,
+            "source": "Перша електронна газета",
+            "url": "https://persha.kr.ua/news/life/289666-rosiyany-atakuvaly-harchove-pidpryyemstvo-na-kirovogradshhyni-ye-postrazhdali"
+          },
+          {
+            "place": "на Чернігівщині",
+            "kind": "загиблі",
+            "n": 2,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/16/8063084"
+          },
+          {
+            "place": "на Чернігівщині",
+            "kind": "поранені",
+            "n": 4,
+            "source": "Новинарня",
+            "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly"
+          },
+          {
+            "place": "на Харківщині",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Гвара Медіа",
+            "url": "https://gwaramedia.com/u-balakliyi-poperedno-zaginula-lyudina-cherez-rosijskij-udar-po-poshti"
+          },
+          {
+            "place": "на Харківщині",
+            "kind": "поранені",
+            "n": 5,
+            "source": "Обрії Ізюмщини",
+            "url": "https://obrii.com.ua/balakliya/74329-udar-po-balaklii-odna-liudyna-zahynula-chetvero-poraneni.html"
+          },
+          {
+            "place": "на Запоріжжі",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Громадське радіо",
+            "url": "https://hromadske.radio/news/2026/11/16/rosiiany-vbyly-zhinku-v-zaporizhzhi-ta-cholovika-v-bilenkomu"
+          },
+          {
+            "place": "на Одещині",
+            "kind": "поранені",
+            "n": 2,
+            "source": "Радіо Свобода",
+            "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka/33899536.html"
+          },
+          {
+            "place": "на Донеччині",
+            "kind": "загиблі",
+            "n": 4,
+            "source": "Антикризовий медіа-центр",
+            "url": "https://acmc.ua/na-donechchyni-vnaslidok-rosijskyh-atak-chetvero-lyudej-zagynuly-shche-chetvero-distaly-poranennya-foto"
+          },
+          {
+            "place": "на Донеччині",
+            "kind": "поранені",
+            "n": 4,
+            "source": "Антикризовий медіа-центр",
+            "url": "https://acmc.ua/na-donechchyni-vnaslidok-rosijskyh-atak-chetvero-lyudej-zagynuly-shche-chetvero-distaly-poranennya-foto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Каллас назвала абсурдними вимоги РФ щодо миру: Повинні починати з припинення вогню",
+      "audio": "demo/2026-11-16-daily/story-2.mp3",
+      "duration_sec": 12.63,
+      "topics": [
+        "Міжнародне",
+        "Політика"
+      ],
+      "regions": [],
+      "text": [
+        "Головна дипломатка ЄС Кая Каллас наголосила, що ключовою умовою для переговорів з Росією про мир є досягнення припинення вогню, повідомляє Українська правда."
+      ],
+      "sources": [
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236979.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063041"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-world/4185049-kallas-vimogi-rosii-absurdni-golovne-zavdanna-dla-evropi-domogtisa-pripinenna-vognu.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kallas-es-perehovory-rosia/33899419.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/vimogi-rosiji-shchodo-zavershennya-viyni-v-ukrajini-kaya-kallas-nazvala-jih-absurdnimi-50659502.html"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-kallas-nazvala-vimogi-rosii-do-ukraini-absurdnimi-ta-zaklikala-pochati-peregovori-z-pripinennya-vognyu"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1453491-kallas-rozpovila-pro-vimogi-es-do-rosii-v-ramkah-peregovoriv-pro-pripinenna-vijni-proti-ukraini"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237215.html"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Принц Гаррі зустрівся із військовим, якого першим евакуювали дроном на Харківщині",
+      "audio": "demo/2026-11-16-daily/story-3.mp3",
+      "duration_sec": 9.22,
+      "topics": [
+        "Війна та безпека"
+      ],
+      "regions": [
+        "kharkiv"
+      ],
+      "text": [
+        "Принц Гаррі зустрівся з військовим Костянтином Власенком, якого вперше в Україні евакуювали повітряним дроном з позицій на Куп’янському напрямку."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/socium/viyna-v-ukrajini-yak-92-brigada-provela-pershu-evakuaciyu-poranenogo-dronom-50658901.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1453512-princ-garri-zustrivsa-iz-kostantinom-vlasenkom-akogo-vperse-v-ukraini-evakuuvali-dronom-z-pozicii"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/princz-garri-zustrivsya-iz-vijskovim-yakogo-pershim-evakuyuvali-dronom-na-harkivshhini"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-16-daily/outro.mp3",
+      "duration_sec": 5.77,
+      "text": [
+        "Це був BRIEF за шістнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
