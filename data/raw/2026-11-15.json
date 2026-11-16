@@ -1,9 +1,26 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-16T02:06:28+00:00",
-  "source_count": 104,
-  "item_count": 1769,
+  "generated_at": "2026-11-16T09:42:16+00:00",
+  "source_count": 105,
+  "item_count": 1866,
   "items": [
+    {
+      "id": "204b64616759c28a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453389-ukraina-ta-es-gotuut-paket-ekstrenoi-zimovoi-dopomogi-z-generatorami-zaradnimi-stanciami-j-avtobusami-koreckij",
+      "title": "Україна та ЄС готують пакет екстреної зимової допомоги з генераторами, зарядними станціями й автобусами — Корецький",
+      "published_at": "2026-11-15T21:59:28+00:00",
+      "published_raw": "Sun, 15 Nov 2026 23:59:28 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Деталі пакета Корецький обговорить із фон дер Ляєн 16 листопада. За його словами, удар Росії на Запоріжжі й Дніпровщині лишив без світла сотні тисяч людей",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "475e31364bfc1e16",
       "source_id": "radiosvoboda",
@@ -310,6 +327,23 @@
       "status": "new"
     },
     {
+      "id": "6de0b71e02595f3e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453379-dvi-ukrainski-pari-zaversili-vistupi-na-gran-pri-z-figurnogo-katanna-v-ssa-rezultati",
+      "title": "Дві українські пари завершили виступи на Гран-прі з фігурного катання в США: результати",
+      "published_at": "2026-11-15T21:43:18+00:00",
+      "published_raw": "Sun, 15 Nov 2026 23:43:18 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Українські фігуристи Софія Голіченко та Артем Даренський посіли сьоме місце у спортивних парах, а Ірина Підгайна й Артем Коваль фінішували дев'ятими в танцях на льоду на етапі Гран-прі Skate America в США",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "5857f66395b4c09a",
       "source_id": "map-289",
       "source": "МикВісті",
@@ -523,6 +557,23 @@
       "status": "new"
     },
     {
+      "id": "d09371a1fb3afa57",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453374-kos-koreckij-i-stefancuk-zobovazalisa-priskoriti-konkretni-reformi-dla-vstupu-v-es",
+      "title": "Кос: Корецький і Стефанчук зобов'язалися прискорити конкретні реформи для вступу в ЄС",
+      "published_at": "2026-11-15T21:19:02+00:00",
+      "published_raw": "Sun, 15 Nov 2026 23:19:02 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Єврокомісарка Марта Кос обговорила з українським урядом та Верховною Радою список реформ, необхідних для виконання проміжних критеріїв на вступ до Європейського Союзу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "71dfdd9b5c4ceb9d",
       "source_id": "lb",
       "source": "LB.ua",
@@ -594,6 +645,23 @@
       "published_raw": "2026-11-15T23:10:00+02:00",
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "27df6d6a7d55840c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453380-zelenskij-anonsuvav-reviziu-koalicij-na-pidtrimku-ukraini",
+      "title": "Зеленський анонсував ревізію коаліцій на підтримку України",
+      "published_at": "2026-11-15T21:09:37+00:00",
+      "published_raw": "Sun, 15 Nov 2026 23:09:37 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Президент України Володимир Зеленський повідомив про підготовку до зустрічі Коаліції охочих та ревізію роботи наявних коаліцій на підтримку України на предмет виконання ними своїх завдань",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -940,6 +1008,40 @@
       "status": "new"
     },
     {
+      "id": "a09e7f5d2d76a817",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453373-46-ricnij-ronaldinjo-zigrav-persij-oficijnij-matc-za-11-rokiv",
+      "title": "46-річний Роналдіньйо зіграв перший офіційний матч за 11 років",
+      "published_at": "2026-11-15T20:54:58+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:54:58 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "46-річний бразильський футболіст Роналдіньо відновив професійну кар'єру та зіграв перший офіційний матч за 11 років: він провів тайм за італійську «Равенну» у переможному поєдинку Серії С проти «Форлі» (2:0)",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "49db07e62be5845c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij",
+      "title": "На сьогодні ми зупинили більше 55% російських нафтопереробних спроможностей — Зеленський",
+      "published_at": "2026-11-15T20:54:25+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:54:25 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Президент України Володимир Зеленський заявив, що загалом станом на сьогодні Сили оборони зупинили 55% російських нафтопереробних спроможностей",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d016db2af71012dc",
       "source_id": "lb",
       "source": "LB.ua",
@@ -997,6 +1099,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5e5c00aefc688dcb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453371-zelenskij-balisticna-zagroza-duze-serjozna-e-informacia-rozvidki-pro-pidgotovku-rf-novih-udariv",
+      "title": "Зеленський: Балістична загроза дуже серйозна, є інформація розвідки про підготовку РФ нових ударів",
+      "published_at": "2026-11-15T20:46:10+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:46:10 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Президент Володимир Зеленський заявив про інформацію від розвідки про підготовку Росією нових ударів по Україні. Росіяни обирають один регіон як спеціальну мішень і кілька діб зосереджуються на ударах по ньому",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1165,6 +1284,40 @@
       "published_raw": "2026-11-15T22:31:00+02:00",
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bf090e03eec62404",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/news-mi-maemo-vimagati-vid-prezidenta-reformuvannya-pravookhoronnoi-sistemi-sokolova",
+      "title": "Ми маємо вимагати від президента реформування правоохоронної системи, – Соколова",
+      "published_at": "2026-11-15T20:30:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:30:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це вона заявила в програмі \"Тепер головне\" на Еспресо. Соколова наголосила, що президент має зосередитися на зміні правоохоронної системи, а не на збереженні політичних рейтингів. На її думку, результати антикорупційних розслідувань можуть мати серйозні наслідки для політичного майбутнього Зеленського. \"Ми маємо вимагати від президента, аби система була змінена. Аби вона була реформована. Він має розуміти, що вдруге він президентом уже не стане.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "40bebee8bbde5d21",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1453375-u-cerniveckij-oblasti-znisili-rosijskij-bezpilotnik-poskodzena-adminbudivla",
+      "title": "Над Буковиною знищили реактивний дрон — пошкоджена будівля",
+      "published_at": "2026-11-15T20:29:22+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:29:22 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Чернівецькій області знищили російський реактивний безпілотник. Внаслідок падіння уламків БпЛА пошкоджено адміністративну будівлю",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -1391,6 +1544,23 @@
       "status": "new"
     },
     {
+      "id": "b3df0cb9250a2fb3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453366-oleg-plotnickij-vsome-stav-volodarem-superkubka-italii-z-volejbolu",
+      "title": "Олег Плотницький всьоме став володарем Суперкубка Італії з волейболу",
+      "published_at": "2026-11-15T20:12:05+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:12:05 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "«Перуджа» Олега Плотницького обіграла «Лубе Чівітанова» у фіналі Суперкубка Італії з волейболу 2026 року (3:2): українець набрав 13 очок та всьоме став володарем цього трофея",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f6b0c696e955a05f",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -1472,13 +1642,30 @@
       "status": "new"
     },
     {
+      "id": "e5505b8e47e09440",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-v-estonii-namagalisya-pidpaliti-zavod-iz-virobnitstva-droniv-u-mzs-zayavili-pro-slid-gru",
+      "title": "В Естонії намагалися підпалити завод із виробництва дронів: у МЗС заявили про слід ГРУ, а Жорін назвав диверсію лише початком",
+      "published_at": "2026-11-15T20:09:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:09:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це повідомили у Службі внутрішньої безпеки Естонії. Спроба підпалу заводу дронів в Естонії: що відомоЗа інформацією служби, напад стався в суботу, 14 листопада, о 3:06. Зловмисники намагалися спричинити вибух і підпалити будівлю оборонного підприємства. Підозрюваних оперативно затримали. \"У суботу, 14 листопада, о 3:06 ранку було здійснено спробу нападу на приміщення оборонного підприємства Threod Systems, яке виробляє дрони, щоб спричинити вибух і підпалити будівлю. Ми швидко затримали підозрюваних.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fce113fe12a3e99c",
       "source_id": "map-645",
       "source": "CBN",
       "geography": "regional",
       "source_region": "kirovohrad",
       "url": "https://cbn.com.ua/news/hrafiky-vidkliuchennia-svitla-diiatymut-na-kirovohradshchyni-16-lystopada",
-      "title": "Графіки відключення світла діятимуть на Кіровоградщині 16 листопада",
+      "title": "Графіки відключення світла діятимуть на Кіровоградщині 16 листопада (оновлено)",
       "published_at": "2026-11-15T20:06:53+00:00",
       "published_raw": "Sun, 15 Nov 26 22:06:53 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
@@ -1524,6 +1711,40 @@
       "categories": [
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "359e9fec1171d0af",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1453372-rosijski-vijska-atakuvali-sumsku-gromadu-poranenij-colovik-poskodzeni-budinki-j-avtomobil",
+      "title": "Російські війська атакували Сумську громаду: поранений чоловік, пошкоджені будинки й автомобіль",
+      "published_at": "2026-11-15T20:03:14+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:03:14 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Армія РФ атакувала Сумську громаду КАБами та FPV-дронами на оптоволокні. Поранений 22-річний чоловік, у підлітка гостра реакція на стрес, побиті будинки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6abcffde6b21f747",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/sport-molodizhniy-chempionat-svitu-z-khokeyu-proyde-v-kanadi-bez-rosii-federatsiya-ukhvalila-ostatochne-rishennya",
+      "title": "Збірна Росії U20 не зіграє на молодіжному чемпіонаті світу з хокею в Канаді: уряд країни не пустив російських хокеїстів",
+      "published_at": "2026-11-15T20:02:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 22:02:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це повідомила Міжнародна федерація хокею у заяві. Молодіжний чемпіонат світу з хокею 2027 в Канаді: Росія участі не братиме Федерація підтвердила, що збірна Росії U20 не може взяти участь у турнірі через позицію й обмеження, які офіційно повідомив уряд Канади. Рада федерації розглянула альтернативні варіанти проведення чемпіонату, але вирішила не змінювати господаря.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1662,6 +1883,23 @@
       "status": "new"
     },
     {
+      "id": "48b45bee573da144",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1453370-rosiani-dvici-za-vecir-atakuvali-sevcenkivskij-rajon-harkova-poskodzeni-zitlovij-budinok-i-navcalnij-zaklad",
+      "title": "Росіяни двічі за вечір атакували Шевченківський район Харкова: пошкоджені житловий будинок і навчальний заклад",
+      "published_at": "2026-11-15T19:56:01+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:56:01 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Російські дрони двічі атакували Шевченківський район Харкова увечері 15 литопада. Пошкоджені фасад багатоквартирного будинку та будівля дитячого навчального закладу",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c3162ffd78aa14c5",
       "source_id": "nv",
       "source": "NV",
@@ -1738,6 +1976,40 @@
         "Ізюмська ТГ",
         "Харківська область"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "04c943ee6053dafb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1453261-pidtverdili-zagibel-zahisnka-z-volini-andria-ivanuka",
+      "title": "Підтвердили загибель захисника з Волині Андрія Іванюка",
+      "published_at": "2026-11-15T19:51:42+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:51:42 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "18 січня 2025 року внаслідок артилерійського обстрілу поблизу населеного пункту Погребки Суджанського району Курської області загинув військовослужбовець Андрій Іванюк",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7a6cab2131c135e2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453360-na-kanarski-ostrovi-za-den-pribula-rekordna-kilkist-migrantiv",
+      "title": "На Канарські острови за день прибула рекордна кількість мігрантів",
+      "published_at": "2026-11-15T19:50:37+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:50:37 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У суботу, 14 листопада, на Канарські острови в Іспанії прибуло майже 1,5 тисячі мігрантів — найбільша кількість за один день із 2020 року",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1840,6 +2112,23 @@
       "status": "new"
     },
     {
+      "id": "77a1fc49cade6f29",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-dopomagati-ukraini-oznachae-zakhishchati-frantsiyu-makron-u-zvernenni-do-spivvitchiznikiv-zayaviv-pro-mistse-ukraini-v-nato",
+      "title": "\"Допомагати Україні означає захищати Францію\": Макрон у зверненні до співвітчизників заявив про місце України в НАТО",
+      "published_at": "2026-11-15T19:45:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:45:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це Макрон написав у соцмережі X. Допомога Україні захищає Францію: Макрон закликав підтримувати Київ\"Допомагати Україні захищатися означає захищати Францію і французів\", – написав Макрон. За його словами, якщо Росія силою нав'яже свою волю європейській країні, ослабне вся Європа. Україна була в центрі обговорень на саміті Європейської політичної спільноти та неформальній Євраді в Дубліні. Президент Франції зазначив, що найближчим часом важливо допомогти Україні пережити зиму.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f9331f5ab604337f",
       "source_id": "map-405",
       "source": "Район.in.ua",
@@ -1858,6 +2147,57 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "893d51d9430f0d01",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1453368-grafik-vidklucenna-svitla-na-mikolaivsini-16-listopada-rozklad-za-pidcergami",
+      "title": "Графік відключення світла на Миколаївщині 16 листопада: розклад за підчергами",
+      "published_at": "2026-11-15T19:43:47+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:43:47 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Миколаївській області 16 листопада діятимуть графіки погодинних відключень електроенергії. Обмеження електропостачання триватимуть протягом доби.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c3db23ccb50cee56",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453365-u-kirovogradskij-oblasti-poprosalisa-z-vijskovim-z-hersonsini-vasilem-sidorovim",
+      "title": "У Кіровоградській області попрощалися з військовим з Херсонщини Василем Сидоровим",
+      "published_at": "2026-11-15T19:43:17+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:43:17 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Кіровоградській області 14 листопада провели в останню путь солдата з Херсонщини Василя Сидорова. Він загинув 20 серпня 2026 року під час виконання бойового завдання в районі Рай-Олександрівки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8d3d17b27040d701",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1453367-kostantin-musienko-z-druzkivki-ta-oleksij-bickov-iz-kramatorska-stali-cempionami-svitu-z-pauerliftingu",
+      "title": "Костянтин Мусієнко з Дружківки та Олексій Бичков із Краматорська стали чемпіонами світу з пауерліфтингу",
+      "published_at": "2026-11-15T19:41:48+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:41:48 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Спортсмени з Донеччини на чемпіонаті світу з пауерліфтингу у Стамбулі здобули 21 медаль. Костянтин Мусієнко з Дружківки та Олексій Бичков із Краматорська вибороли титули чемпіонів світу у своїх вагових категоріях",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1890,7 +2230,7 @@
       "published_at": "2026-11-15T19:41:00+00:00",
       "published_raw": "Sun, 15 Nov 2026 21:41:00 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
-      "description": "У 543 із 6 692 активних IT-вакансій роботодавець називає серед інструментів щось із ШІ: Claude, Cursor, ChatGPT, Midjourney. Це кожна дванадцята вакансія, і йдеться про звичайні ролі, без інженерів, які самі будують ШІ-системи. Я чекав, що за таку вимогу доплачують. Медіанна пропозиція виявилась однаковою: $2 742 для middle і $5 000 для senior, з ШІ-інструментом у вакансії чи без нього.",
+      "description": "Я бекенд-розробник і вже пів року пишу власний проєкт разом із ШІ-асистентом. Коли Claude Code і Cursor почали з'являтись у вимогах вакансій, мені стало цікаво, наскільки це вже масово і чи платять за таке вміння більше. Я порахував. ШІ-інструмент серед вимог називають 543 із 6 692 активних IT-вакансій, тобто кожна дванадцята. Медіанна пропозиція при цьому однакова: $2 742 для middle і $5 000 для senior, з ШІ-інструментом у вакансії чи без нього.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -1938,6 +2278,23 @@
         "військова допомога",
         "підтримка України"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f5b872fd3152d6de",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453303-najkrasi-momenti-ceremonii-vvedenna-do-zali-slavi-rok-n-rolu-2026",
+      "title": "Найкращі моменти церемонії введення до Зали слави рок-н-ролу 2026",
+      "published_at": "2026-11-15T19:36:19+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:36:19 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Філ Коллінз виголосив слізну промову з нагоди прийняття нагороди та отримав зворушливу данину від Синтії Еріво, Опра Вінфрі ввела до Зали слави покійного Лютера Вандросса",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2000,6 +2357,23 @@
       "status": "new"
     },
     {
+      "id": "c3edf53630771734",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1453363-na-mikolaivsini-16-listopada-diatimut-planovi-vidklucenna-elektroenergii",
+      "title": "На Миколаївщині 16 листопада діятимуть планові відключення електроенергії",
+      "published_at": "2026-11-15T19:33:20+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:33:20 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Миколаївській області 16 листопада деякі вулиці залишаться без електропостачання — це пов'язано із поточними ремонтами та з підготовкою до осінньо-зимового періоду.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "3c21cbfd175c5a51",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -2035,8 +2409,25 @@
         "Франківські новини",
         "Біжучий рядок",
         "Сама топова новина",
-        "Вибір редакції"
+        "Кримінал"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d3cfe6b7b5d4ffb3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453352-u-gagauzii-vidbulisa-vibori-baskana-ta-deputativ-narodnih-zboriv",
+      "title": "У Гагаузії відбулися вибори башкана та депутатів Народних зборів",
+      "published_at": "2026-11-15T19:32:26+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:32:26 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Жителі автономії Молдови обирають голову регіону на найближчі чотири роки та новий склад законодавчого органу Гагаузії. За посаду голови автономії борються вісім кандидатів, за 35 депутатських місць — 132 претенденти",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2141,6 +2532,23 @@
       "status": "new"
     },
     {
+      "id": "7eac4eeee4017b83",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-rosiyan-vzhe-menshe-100-mln-ale-voni-zarazhayut-vse-dovkola-yak-i-brekhnya-trampa-mi-zhivemo-u-sviti-slabkikh-institutsiy-psikhologinya-ta-publitsistka-voloshina",
+      "title": "Росіян вже менше 100 млн, але вони заражають все довкола, як і брехня Трампа. Ми живемо у світі слабких інституцій, - психологиня та публіцистка Волошина",
+      "published_at": "2026-11-15T19:30:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:30:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Дуже багато подій відбулося останнім часом в Україні та в світі, особливо у США. Я пропоную в такому трошечки хронологічному порядку пробігтися зараз по тому, що сталося і спробувати відтворити картину дня і реакцію на неї. Безумовно, тим більше, що на мій погляд і внутрішні і зовнішні події пов'язані з одним і тим самим: Карфаген має бути зруйнований, забагато Росії і в Америці, і тут куди не ткнешся. Ну нібито там вибори, там Трамп, його гроші, тут у нас своє якесь кіно, проте раз і знову Росія, і знову вона.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f85ea6b30f0fa1df",
       "source_id": "map-902",
       "source": "Одеське життя",
@@ -2191,6 +2599,23 @@
       "published_raw": "Sun, 15 Nov 2026 19:26:30 +0000",
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "У вечірньому зверненні 15 листопада президент України Володимир Зеленський попередив про підготовку РФ до нових...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd5653c291c5f674",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453358-ukraina-provela-najuspisnisij-za-visim-misaciv-gran-pri-z-dzudo-hto-zdobuv-medali",
+      "title": "Україна провела найуспішніший за вісім місяців Гран-прі з дзюдо: хто здобув медалі",
+      "published_at": "2026-11-15T19:25:30+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:25:30 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Збірна України з дзюдо здобула три медалі на Гран-прі Загреба: Антон Савицький виборов «золото», а Євгеній Балєвський і Михайло Свідрак — «бронзу»",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -2371,6 +2796,23 @@
       "status": "new"
     },
     {
+      "id": "51438d059c4111fb",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-nato-vidmovilosya-vid-samitu-lideriv-v-albanii-u-2027-rotsi-alyans-skorochue-kilkist-visokorivnevikh-zustrichey",
+      "title": "НАТО відмовилося від саміту лідерів в Албанії у 2027 році: альянс скорочує кількість високорівневих зустрічей",
+      "published_at": "2026-11-15T19:16:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:16:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це повідомляє агенція Associated Press. Саміту НАТО в Албанії у 2027 році не буде: що відомо про скорочення зустрічей альянсу Прем'єр-міністр Албанії Еді Рама у четвер заявив, що спільної позиції щодо дати саміту поки немає і що наступного року його точно не буде. \"Якщо у 2028 році саміт буде, то він відбудеться в Тирані\", – додав він. Генсек НАТО Марк Рютте применшив проблему в інтерв'ю AP. \"Ми гнучкі щодо самітів НАТО\", – сказав він, додавши, що наступний проведуть, коли виникне необхідність. Ще приблизно десять років тому лідери НАТО збиралися раз на два роки.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d9335432873f101e",
       "source_id": "map-940",
       "source": "Букви",
@@ -2442,6 +2884,23 @@
       "categories": [
         "Події"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f705b8391b74ac50",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1453332-ak-na-harkivsini-16-listopada-vimikatimut-svitlo-grafik",
+      "title": "Як на Харківщині 16 листопада вимикатимуть світло: графік",
+      "published_at": "2026-11-15T19:12:52+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:12:52 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У понеділок, 16 листопада, на Харківщині діятимуть погодинні відключення світла. Це пов'язано зі складною ситуацією в об'єднаній енергосистемі, повідомили у пресслужбі «Харківобленерго»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2563,6 +3022,23 @@
         "електромагнітна система",
         "протидія дронам"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "506393763a0b9126",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1453182-grafiki-vidklucenna-svitla-zastosuut-na-cerkasini-16-listopada-oblenergo",
+      "title": "Графіки відключення світла застосують на Черкащині 16 листопада — обленерго",
+      "published_at": "2026-11-15T19:07:32+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:07:32 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Черкаській області та в обласному центрі протягом доби 16 листопада застосують графіки погодинних відключень електроенергії. Їх застосують за командою НЕК «Укренерго»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2732,7 +3208,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/na-viini-zaginuv-viiskovii-z-xersonshhini-vasil-sidorov",
-      "title": "На війні загинув військовий з Херсонщини Василь Сидоров",
+      "title": "На війні загинув військовий із Херсонщини Василь Сидоров",
       "published_at": "2026-11-15T19:01:50+00:00",
       "published_raw": "Sun, 15 Nov 2026 21:01:50 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
@@ -2763,6 +3239,23 @@
         "мистецтво",
         "премʼєра"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4c890c18c6ca6ff1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453359-akou-bude-pogoda-na-hersonsini-16-listopada-3",
+      "title": "Якою буде погода на Херсонщині 16 листопада",
+      "published_at": "2026-11-15T19:01:31+00:00",
+      "published_raw": "Sun, 15 Nov 2026 21:01:31 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Херсоні та області 16 листопада 2026 року опадів не передбачається. Очікується погода з мінливою хмарністю. Вдень температура повітря буде до 10 градусів тепла",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2914,6 +3407,23 @@
       "published_raw": "Sun, 15 Nov 26 20:54:02 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "21f5e6f057ef3c20",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-ruki-get-vid-media-ponad-400-tis-lyudey-viyshli-v-prazi-na-protest-i-vimagayut-vidstavki-dvokh-politikiv-koalitsii-babisha",
+      "title": "\"Руки геть від медіа\": понад 400 тис. людей вийшли в Празі на протест і вимагають відставки двох політиків коаліції Бабіша",
+      "published_at": "2026-11-15T18:54:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:54:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це пишуть Seznam Zprávy та iDNES. Протест у Празі на захист публічних медіа: скільки людей вийшло і чого вони вимагають Сотні тисяч людей 15 листопада заповнили Летенське поле в Празі на акції \"Летна проти 4:36\". Голова руху \"Мільйон моментів за демократію\" Мікулаш Мінарж оцінив кількість учасників у 350–450 тис. і назвав мітинг найбільшим на Летній від 1989 року. Організатори вимагають відкликати законопроєкт про Чеське телебачення і радіо, розпочати діалог із владою та вибачитися за нічне голосування.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -3095,6 +3605,40 @@
       "status": "new"
     },
     {
+      "id": "3021f5a2ea6f6729",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1453135-ak-minuv-tizden-na-mikolaivsini-golovni-podii-regionu-v-svitlinah-2",
+      "title": "Як минув тиждень на Миколаївщині: головні події регіону в світлинах",
+      "published_at": "2026-11-15T18:46:38+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:46:38 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "З 9 до 15 листопада в Миколаєві відбулася низка подій: містяни долучилися до акцій-нагадувань, художниці почали створювати новий мурал, а також встановили рекорд України з різновидів сінабонів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d681940fba800d31",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1452347-uteplenna-osel-skilki-kostuut-roboti-ta-ci-zrostae-popit-na-frankivsini",
+      "title": "Утеплення осель: скільки коштують роботи та чи зростає попит на Франківщині",
+      "published_at": "2026-11-15T18:46:18+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:46:18 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У 2026 році приблизно на 50% зросла кількість замовлень на утеплення фасадів. Вартість послуги для приватних будинків у середньому подорожчала з 450 до 700 гривень за квадратний метр, а квартир — з 1000 до 1600",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "8135db771071aac9",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -3148,6 +3692,74 @@
       "status": "new"
     },
     {
+      "id": "fa6d821bc34aea7f",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/opalyuvalnyy-sezon-plachkov-poyasniv-chomu-87-uvimknenikh-kotelen-ne-svidchat-pro-gotovnist-kraini-do-opalyuvalnogo-sezonu",
+      "title": "Плачков пояснив, чому 87% увімкнених котелень не свідчать про готовність країни до опалювального сезону",
+      "published_at": "2026-11-15T18:43:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:43:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це в програмі \"Тепер головне\" на Еспресо заявив голова Всеукраїнської енергетичної асамблеї, ексміністр енергетики Іван Плачков. Він прокоментував заяву прем'єр-міністра Сергія Корецького про те, що в Україні вже працюють 87% котелень, а решта перебувають на етапі ремонтів або їхню роботу вирішили не афішувати, щоб не привертати увагу російських військових. За словами Плачкова, сама кількість запущених котелень не є показником готовності до опалювального сезону, адже вони суттєво відрізняються за потужністю. \"Котельні є потужністю 10 Гкал і є потужністю 1000 Гкал. Вони різні.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fad434f32760f492",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1453335-na-kirovogradsini-16-listopada-elektriku-vidklucatimut-pogodinno-grafik",
+      "title": "На Кіровоградщині 16 листопада електрику відключатимуть погодинно: графік",
+      "published_at": "2026-11-15T18:42:32+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:42:32 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "16 листопада у Кіровоградській області за розпорядженням Укренерго діятиме графік погодинних відключень електрики. Про зміни повідомлятимуть в обленерго",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d54ae0516489884d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453322-vse-idealno-dobre-zidan-nazvav-nonsensom-cutki-pro-konflikt-iz-mbappe-u-zbirnij-francii",
+      "title": "«Все ідеально добре». Зідан назвав «нонсенсом» чутки про конфлікт із Мбаппе у збірній Франції",
+      "published_at": "2026-11-15T18:42:18+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:42:18 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Збірна Франції з футболу: Зінедін Зідан прокоментував інформацію медіа про складні стосунки з лідером команди Кіліаном Мбаппе, звідки вона виникла і реакція Зідана",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "715b19f166e10823",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1453166-golovni-novini-dnipra-ta-oblasti-15-listopada-2",
+      "title": "Наслідки обстрілів, екстрені відключення світла після атаки. Головні новини Дніпра та області 15 листопада",
+      "published_at": "2026-11-15T18:40:58+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:40:58 +0200",
+      "fetched_at": "2026-11-15T09:25:10+00:00",
+      "description": "Оперативні новини Дніпра та Дніпропетровської області за 15 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "92c40b6dac8de301",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -3181,6 +3793,40 @@
       "categories": [
         "Спорт/Хокей"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0fb435db36e99eb2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1453353-os-take-vitanna-nasim-agrariam-sergij-zelenskij-pokazav-naslidki-udariv-rf-po-lozivskij-gromadi",
+      "title": "«Ось таке \"вітання\" нашим аграріям»: Сергій Зеленський показав наслідки ударів РФ по Лозівській громаді",
+      "published_at": "2026-11-15T18:39:30+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:39:30 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Сергій Зеленський опублікував фото та відео наслідків російських атак по Лозівській громаді. Пошкоджені будинки та електромережі, триває ліквідація наслідків",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0968b5ab3892b1fe",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453354-tri-tizni-u-truskavci-266-ditej-z-hersonsini-virusili-na-vidpocinok-do-karpat",
+      "title": "Три тижні у Трускавці: 266 дітей з Херсонщини вирушили на відпочинок до Карпат",
+      "published_at": "2026-11-15T18:38:49+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:38:49 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На відпочинок до Карпат вирушили 266 дітей з Херсонщини. В межах проєкту «Карпатська зміна» вони проведуть 21 день в оздоровчому комплексі у Трускавці",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3260,7 +3906,7 @@
       "published_at": "2026-11-15T18:33:00+00:00",
       "published_raw": "Sun, 15 Nov 2026 20:33:00 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
-      "description": "Румунія закликала НАТО посилити протидію безпілотникам",
+      "description": "Бухарест закликав НАТО посилити протидію безпілотникам",
       "categories": [
         "Новини"
       ],
@@ -3306,6 +3952,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1bcd7239ef6f1d03",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1453218-pogodinni-vidklucenna-elektroenergii-v-zaporizkij-oblasti-na-16-listopada",
+      "title": "Погодинні відключення електроенергії в Запорізькій області на 16 листопада",
+      "published_at": "2026-11-15T18:31:50+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:31:50 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "16 листопада на території Запорізької області діятимуть стабілізаційні відключення електроенергії. Знеструмлення споживачів триватимуть упродовж доби та охоплять усі 12 підчерг",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3365,6 +4028,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "013e6b3196e92493",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/korupciya-v-ukrayini-peregovori-z-putinim-politichni-igri-evropi-ta-mafiya-v-ukraini-ribachuk-pro-vikliki-dlya-derzhavi",
+      "title": "Переговори з Путіним, політичні ігри Європи та мафія в Україні: Рибачук про виклики для держави",
+      "published_at": "2026-11-15T18:30:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:30:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це в розмові з ведучим програми \"Студія Захід\" Антоном Борковським на Slawa TV та Еспресо заявив екскерівник Секретаріату президента Віктора Ющенка, колишній віцепрем'єр-міністр з питань європейської інтеграції та співзасновник руху \"Чесно\" Олег Рибачук. Консультації в Абу-Дабі стали проміжним етапом, адже остаточні рішення мали б ухвалюватися щонайменше на рівні глав держав. Водночас Росія продовжує тиснути, а США поки не демонструють готовності спрямовувати Кремль у правильному напрямку.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3488,9 +4168,26 @@
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "Стрес, невизначеність, розлуки, фінансові труднощі — усе це насамперед б’є по найближчих. Сімейні психологи помічають: пари, які зберігають близькість у складні часи, рідко мають «ідеальні» стосунки. Вони просто володіють кількома... The post Стосунки під тиском: 5 звичок пар, які проходять кризи разом appeared first on Galka.if.ua .",
       "categories": [
-        "Новини",
-        "Новини компаній"
+        "Новини компаній",
+        "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "74c89640d043c6fa",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1453356-16-listopada-u-poltavskij-oblasti-vimikatimut-svitlo-grafiki",
+      "title": "16 листопада у Полтавській області вимикатимуть світло: графіки",
+      "published_at": "2026-11-15T18:23:57+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:23:57 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Полтаві та області 16 листопада планують застосувати графік аварійних відключень електроенергії. З графіком можна ознайомитись на сайті",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3615,6 +4312,23 @@
       "status": "new"
     },
     {
+      "id": "c8d8e3903b4f8cb6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1452111-grafik-pogodinnih-vidklucen-svitla-16-listopada-na-hmelniccini",
+      "title": "Графік погодинних відключень світла 16 листопада на Хмельниччині",
+      "published_at": "2026-11-15T18:20:03+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:20:03 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Завтра, 16 листопада, на Хмельниччині буде діяти графік погодинних відключень електроенергії, а також обмеження потужності для промислових споживачів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2378f49f3c00ce53",
       "source_id": "map-367",
       "source": "Інтент",
@@ -3657,6 +4371,23 @@
       "status": "new"
     },
     {
+      "id": "95e93978574d8eed",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1453357-zagroza-dla-novodnistrovska-bezpilotnik-kursom-na-bukovinu-2",
+      "title": "На Буковині зафіксували російський безпілотник",
+      "published_at": "2026-11-15T18:19:14+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:19:14 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Під час повітряної тривоги 15 листопада зафіксували загрозу для Новодністровська Чернівецької області. Курсом на це місто рухається російський безпілотник",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "986ffc5fc80abf46",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -3671,6 +4402,23 @@
       "categories": [
         "Антикорупція"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9552596d3dd08869",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1453345-u-pivdennoukrainsku-vidbulas-akcia-porozni-stilci-na-pidtrimku-vijskovopolonenih-ta-zniklih-bezvisti",
+      "title": "У Південноукраїнську відбулась акція «Порожні стільці» на підтримку військовополонених та зниклих безвісти",
+      "published_at": "2026-11-15T18:17:53+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:17:53 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Південноукраїнську відбулася 105-та мирна акція на підтримку військовополонених та зниклих безвісти. На площі біля Палацу культури розмістили 100 стільців з іменами захисників.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3757,6 +4505,23 @@
       "status": "new"
     },
     {
+      "id": "92206e6bcebfb342",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/suspilstvo-polshcha-prizupinila-finansuvannya-zakupivli-zbroi-ssha-dlya-ukraini-knyazhitskiy-nazvav-mozhlivi-prichini",
+      "title": "Польща призупинила фінансування закупівлі зброї США для України: Княжицький назвав можливі причини",
+      "published_at": "2026-11-15T18:15:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:15:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це в програмі \"Тепер головне\" на Еспресо заявив народний депутат України від фракції \"Європейська солідарність\" Микола Княжицький. За словами депутата, одна з причин полягає в тому, що США не виконали частину зобов'язань щодо постачання озброєння, зокрема систем Patriot, попри отримане фінансування. Водночас Польща та інші країни Європейського Союзу продовжують допомагати Україні. Княжицький припустив, що напередодні виборів польський уряд може зіткнутися з критикою через спрямування бюджетних коштів американській стороні за програмою, яка не забезпечує очікуваних поставок.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a56409839b3571ca",
       "source_id": "map-1119",
       "source": "Ворскла",
@@ -3776,6 +4541,23 @@
       "status": "new"
     },
     {
+      "id": "eab3ad3a71cd22e4",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-estoniya-zakrie-vsi-punkti-propusku-na-kordoni-z-rosieyu",
+      "title": "Естонія закриє всі пункти пропуску на кордоні з Росією. Сибіга закликав Європу змусити Москву платити за саботаж",
+      "published_at": "2026-11-15T18:12:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:12:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це повідомив міністр закордонних справ Естонії Маргус Тсахкна у соцмережі X. Закриття пунктів пропуску на кордоні Естонії з Росією: що сказав ТсахкнаЗа словами глави естонського МЗС, закриття кордону має обмежити можливості Росії здійснювати ворожу діяльність на території Естонії, а також посилити заходи проти обходу санкцій. \"Росія повинна зрозуміти, що ворожі дії проти Естонії тягнуть за собою наслідки. Спроби залякати, дестабілізувати чи підірвати нашу безпеку не залишаться без відповіді.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "33c5e3be30a81d86",
       "source_id": "map-586",
       "source": "Вгору",
@@ -3786,7 +4568,7 @@
       "published_at": "2026-11-15T18:10:12+00:00",
       "published_raw": "Sun, 15 Nov 2026 20:10:12 +0200",
       "fetched_at": "2026-11-15T21:48:33+00:00",
-      "description": "Із мікрорайону Корабел у Херсоні вивезли жінку, яку доправили до транзитного центру. Також із Зеленівки евакуювали матір із дитиною.",
+      "description": "З мікрорайону Корабел у Херсоні вивезли жінку, яку доправили до транзитного центру. Також із Зеленівки евакуювали матір із дитиною.",
       "categories": [
         "Новини"
       ],
@@ -3933,6 +4715,40 @@
       "status": "new"
     },
     {
+      "id": "76010e433cd50e47",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1453351-na-pokrovskomu-napramku-u-okupantiv-nemae-sucilnoi-linii-oboroni-40-brigada",
+      "title": "На Покровському напрямку у окупантів немає суцільної лінії оборони — 40 бригада",
+      "published_at": "2026-11-15T18:04:25+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:04:25 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На Покровському напрямку у російських окупантів наразі немає суцільної лінії оборони. Через це доводиться залучати багато розвідувальних безпілотників, щоб патрулювати значні території",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cce5992fe3b0c6cc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453350-zbirnu-rosiu-z-hokeu-viklucili-zi-spisku-ucasnikiv-uniorskogo-cs-2027-ak-ce-poasnili",
+      "title": "Збірну Росію з хокею виключили зі списку учасників юніорського ЧС-2027: як це пояснили",
+      "published_at": "2026-11-15T18:04:01+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:04:01 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Міжнародна федерація хокею (IIHF) підтвердила, що збірна Росії U20 пропустить юніорський чемпіонат світу-2027: уряд Канади не видасть візи російським хокеїстам, а IIHF відмовилася переносити турнір",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "1696f81effe53b53",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -4029,6 +4845,74 @@
         "Корисно знати",
         "Народне"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e42584c2122a98d0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1453284-peresliduvanna-svidkiv-egovi-novi-spravi-pro-derzzradu-ta-viroki-politvaznam-pro-represii-rf-u-krimu-cogo-tizna",
+      "title": "Переслідування «Свідків Єгови», нові справи про «держзраду» та вироки політв'язням: про репресії РФ у Криму цього тижня",
+      "published_at": "2026-11-15T18:01:35+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:01:35 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Нові вироки кримським політв'язням, переслідування за релігію, етапування кримськотатарських жінок та зникнення Григорія Юнусова після обшуку ФСБ — про репресії в окупованому Криму цього тижня",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "be3eb09cd15a545a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1444067-vtrati-harkivsini-u-listopadi-2026-roku-zgaduemo-zagiblih-zahisnikiv-poimenno",
+      "title": "Втрати Харківщини у листопаді 2026 року: згадуємо загиблих захисників поіменно",
+      "published_at": "2026-11-15T18:01:04+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:01:04 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У листопаді 2026 року стало відомо про смерть військовослужбовців з Харківщини. Згадуємо полеглих захисників поіменно. Список не є вичерпним",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7bb5ab41129abea1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1453346-v-odesi-ponad-100-ludej-dolucilisa-do-svatkuvanna-dna-nezaleznosti-polsi-ak-minuv-zahid",
+      "title": "В Одесі понад 100 людей долучилися до святкування Дня незалежності Польщі: як минув захід",
+      "published_at": "2026-11-15T18:01:02+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:01:02 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "14 листопада в Одесі відбувся IX Пробіг Незалежності Польщі у форматі історичного квесту. Учасники досліджували польські театральні традиції міста та переглянули екранізацію драми Адама Міцкевича «Дзяди»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d0221134322508f3",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/poglyad-listi-neofitu-bolgarskiy-knyaz-mizh-rimom-ta-tsargorodom",
+      "title": "Листи неофіту. Болгарський князь між Римом та Царгородом",
+      "published_at": "2026-11-15T18:01:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 20:01:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Так чи інакше, але згода \"схилити горду вию\" перед Христом і справді була умовою визнання нових політичних утворень тодішнім \"цивілізованим світом\". При цьому, звісно, йшлося про \"вибір віри\" в тому сенсі, як про нього розповідає вітчизняний літопис – і з \"конкурсом проповідників\" нібито влаштованим Володимиром Великим при своєму дворі (в реальність якого поважні історики не вірять). Проте \"можливість обирати\" у правителів все ж була — навіть в межах християнської \"ойкумени\". Хрещення болгарського володаря Бориса Болгарський володар Борис, скажімо, прийняв хрещення з рук грецьких священників.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4211,6 +5095,23 @@
       "status": "new"
     },
     {
+      "id": "4c60c7cb118911e4",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-ukraina-pragne-vikonati-promizhni-kriterii-z-verkhovenstva-prava-y-demokratii-dlya-vstupu-do-es-u-2027-rotsi-evrokomisarka-kos",
+      "title": "Україна прагне виконати проміжні критерії з верховенства права й демократії для вступу до ЄС у 2027 році, – єврокомісарка Кос",
+      "published_at": "2026-11-15T17:58:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:58:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це написала у соцмережі X єврокомісарка з питань розширення Марта Кос. Проміжні критерії ЄС для України: що обговорили Кос, Корецький і Стефанчук15 листопада Кос разом із прем'єр-міністром Сергієм Корецьким співголовувала засідання робочої групи високого рівня Єврокомісії та України. Групу створили в жовтні, щоб допомогти Україні виконати проміжні критерії щодо демократії та верховенства права. \"Ми просунулися в конкретному переліку результатів реформ і в розробці шляху до реалізації амбіції України забезпечити проміжні критерії в першій половині 2027 року\", – написала Кос.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a86345e1d3472f53",
       "source_id": "map-833",
       "source": "Mind.ua",
@@ -4306,6 +5207,23 @@
       "status": "new"
     },
     {
+      "id": "1f56a8f8a94d48ba",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-tramp-putin-i-si-tszinpin-zustrinutsya-v-kitai-pro-shcho-govoritimut-chi-zagrozhue-ukraini-nova-yalta-ta-chogo-ochikuvati-vid-peregovoriv",
+      "title": "Трамп, Сі Цзіньпін і Путін зустрінуться в Китаї: про що говоритимуть, чого очікувати від переговорів і чи загрожує Україні нова Ялта",
+      "published_at": "2026-11-15T17:52:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:52:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Співрозмовники Reuters повідомляли, що тристороння зустріч, що запланована на 19 листопада під час проведення Азіатсько-Тихоокеанського економічного співробітництва, відбудеться у китайському Шеньчжені. Локацію також підтвердили у Кремлі. Ініціатива проведення переговорів викликала побоювання щодо можливого перерозподілу сфер впливу між Вашингтоном, Москвою та Пекіном. Ядерна зброя: Трамп хоче змусити Сі почати діалог На тлі потепління у відносинах з Трампом, Путін висловив ідею про зустріч американському президенту ще 9 жовтня під час телефонної розмови.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "59f398c2985328db",
       "source_id": "babel",
       "source": "Бабель",
@@ -4362,6 +5280,23 @@
       "status": "new"
     },
     {
+      "id": "f6c3eb8f9dca1a2f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453349-droni-atakuvali-tri-komercijni-sudna-v-cornomu-mori-premer-rumunii-vidreaguvav",
+      "title": "Дрони атакували три комерційні судна в Чорному морі. Прем'єр Румунії відреагував",
+      "published_at": "2026-11-15T17:49:26+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:49:26 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Прем'єр-міністр Румунії Лука Нікулеску засудив нову російську атаку дронами на три комерційні судна в Чорному морі поблизу дельти Дунаю",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2503a4ea3dcf0e85",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -4403,6 +5338,23 @@
       "status": "new"
     },
     {
+      "id": "479bad0d1428eb19",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1452659-russia-chinas-junior-partner-keith-kellogg-peace-negotiations-mission-oleshky",
+      "title": "«Russia is actually China's junior partner» — Keith Kellogg on peace negotiations and the mission in Oleshky",
+      "published_at": "2026-11-15T17:48:57+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:48:57 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Donald Trump's former Special Envoy for Ukraine, Keith Kellogg, shares his vision for peace negotiations between Ukraine and Russia, as well as the humanitarian operation in Oleshky as an example for a future broader ceasefire",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "928e574a4128c4eb",
       "source_id": "map-902",
       "source": "Одеське життя",
@@ -4421,6 +5373,23 @@
         "Топ новости",
         "трамваи"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5a19dc3d7ac64c8e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1453315-catbot-dla-fermeriv-i-tehnologii-dla-vijskovih-na-lvivsini-vidbuvsa-miznarodnij-hakaton-nasa-space-apps-challenge",
+      "title": "Чатбот для фермерів і технології для військових: на Львівщині відбувся міжнародний хакатон NASA Space Apps Challenge",
+      "published_at": "2026-11-15T17:47:13+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:47:13 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Дрогобичі вперше відбувся міжнародний хакатон NASA Space Apps Challenge. Учасники розробляли чатбот для фермерів, космічну гру та технологічні рішення для українських військових",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4478,6 +5447,40 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "df47a4e2ee6e82dc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1452453-sela-majze-nemae-comu-83-ricna-ludmila-ne-hoce-zalisati-dim-na-doneccini-video",
+      "title": "«Села майже немає»: чому 83-річна Людмила не хоче залишати дім на Донеччині (відео)",
+      "published_at": "2026-11-15T17:43:01+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:43:01 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "«Села майже немає», каже 83-рична Людмила. Діти просять її та чоловіка виїхати з Високопілля на Донеччині. Подружжя вагається, адже не хоче залишати будинок, у якому прожило 50 років",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4c1cf2ea830785f6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1453336-u-seli-serednij-babin-na-ivano-frankivsini-vidkrili-aleu-geroiv",
+      "title": "У селі Середній Бабин на Івано-Франківщині відкрили Алею героїв",
+      "published_at": "2026-11-15T17:42:35+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:42:35 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "15 листопада 2026 року у селі Середній Бабин, що на Франківщині, відкрили Алею героїв з портретами односельців, які загинули у російсько-українській війні",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4717,6 +5720,40 @@
       "status": "new"
     },
     {
+      "id": "fcdf4f99333de3e1",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-do-2028-roku-viyna-rozshiritsya-na-inshi-kraini-evropi-portnikov",
+      "title": "До 2028 року війна розшириться на інші країни Європи, - Портников",
+      "published_at": "2026-11-15T17:32:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:32:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Про це в етері Еспресо розповів журналіст Віталій Портников. Портников припускає, що важливий етап у розвитку війни може настати в листопаді 2028 року, коли після президентських виборів у США стане відомо, хто очолить країну. Саме тоді, на його думку, на засіданні Ради безпеки Російської Федерації можуть розглядати подальшу стратегію Москви у війні проти України, яка на той час може поширитися й на інші європейські держави. \"Я думаю, що на той час вже буде більше війни. Більше буде європейська війна, яка до 2028 року розшириться на інші країни\", – заявив журналіст.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2363ded5dee9c605",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453343-u-belgii-na-rizdvanomu-armarku-stavsa-vibuh-gazu-e-poraneni",
+      "title": "У Бельгії на різдвяному ярмарку стався вибух газу, є поранені",
+      "published_at": "2026-11-15T17:31:35+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:31:35 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "П'ятеро людей отримали поранення внаслідок пожежі, що спалахнула в неділю, 15 листопада, на території різдвяного ярмарку в абатстві Маредсу муніципалітету Ане у Бельгії",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e9fe5d52e0e6da6c",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -4734,6 +5771,23 @@
         "Події",
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3c9b6a12c8af22ce",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1453260-na-cernigivsini-poprosalisa-iz-veteranom-vijni-mikolou-dodem",
+      "title": "На Чернігівщині попрощалися із ветераном війни Миколою Додем",
+      "published_at": "2026-11-15T17:31:24+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:31:24 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На Чернігівщині 15 листопада поховали ветерана війни Миколу Додя.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4923,6 +5977,23 @@
       "status": "new"
     },
     {
+      "id": "62456035425538a8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453342-hbo-opublikuvav-persij-urivok-z-serialu-pro-garri-pottera",
+      "title": "HBO опублікував перший уривок з серіалу про Гаррі Поттера",
+      "published_at": "2026-11-15T17:25:08+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:25:08 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "HBO опублікував перший 90-секундний повний уривок з перезапуску «Гаррі Поттер і філософський камінь», у якому показано перший бенкет учнів у Гоґвортсі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "532bac5838cb27e8",
       "source_id": "map-586",
       "source": "Вгору",
@@ -4983,6 +6054,23 @@
       "status": "new"
     },
     {
+      "id": "eedc3f800bc03238",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1453341-pomer-vijskovosluzbovec-z-frankivsini-ivan-kurdzos",
+      "title": "Помер військовослужбовець з Франківщини Іван Курджос",
+      "published_at": "2026-11-15T17:20:01+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:20:01 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "15 листопада 2026 року помер військовослужбовець із села Стецева Івано-Франківської області Іван Курджос. Він народився у 1975 році",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0e67ebd83be38510",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -4997,6 +6085,23 @@
       "categories": [
         "Новини Чернівців"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "375b831731930345",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1448481-ridni-zagiblogo-bijca-z-hersonsini-andria-nikonenka-prosat-nadati-jomu-zvanna-geroj-ukraini",
+      "title": "Рідні загиблого бійця з Херсонщини Андрія Никоненка просять надати йому звання «Герой України»",
+      "published_at": "2026-11-15T17:18:32+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:18:32 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Рідні загиблого військового з Херсонщини Андрія Никоненка просять підтримати петицію про присвоєння йому звання Героя України посмертно. Що відомо про захисника",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5111,6 +6216,23 @@
       "published_raw": "2026-11-15T19:15:00+02:00",
       "fetched_at": "2026-11-15T21:48:33+00:00",
       "description": "У самому серці курортного Хмільника на Вінниччині височіє одна з найзагадковіших архітектурних пам’яток України — палац графа Ксідо. Цю будівлю називають «дволикою», адже з одного боку вона нагадує сувору середньовічну фортецю, а з іншого — вишукану дворянську резиденцію. Зведений на початку ХХ століття на фундаменті давніх укріплень, сьогодні палац перебуває в аварійному стані та чекає на масштабну реставрацію.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d2c31f4fc5d2ff84",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1453347-u-ternopoli-vidkrili-memorialnu-dosku-na-cest-vijskovogo-mihajla-mikusa",
+      "title": "У Тернополі відкрили меморіальну дошку на честь військового Михайла Микуся",
+      "published_at": "2026-11-15T17:14:45+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:14:45 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Тернополі на фасаді будинку, що на вулиці Карпенка, 18 відкрили меморіальну дошку на честь захисника України Михайла Микуся на позивний «Небо»",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -5309,6 +6431,23 @@
         "don't miss",
         "війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e29515052d9c2c56",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1453290-vid-troand-do-marakui-ak-rodina-z-velikogo-dalnika-virosue-ekzoticni-roslini",
+      "title": "Від троянд до маракуї: як родина з Великого Дальника вирощує екзотичні рослини",
+      "published_at": "2026-11-15T17:07:07+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:07:07 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Великому Дальнику на Одещині родина Бранишів вирощує понад 20 видів рослин, зокрема маракую, ківі, інжир і лимони. Підприємиця Ольга Браниш розповіла про догляд за екзотикою та розвиток сімейного бізнесу",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5607,6 +6746,23 @@
       "status": "new"
     },
     {
+      "id": "75fabbaa2638852c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453337-buli-problemi-zi-zdorovam-trenerka-zbirnoi-ukraini-z-biatlonu-poasnila-vidsutnist-dzimi-u-skladi-na-kubok-svitu",
+      "title": "«Були проблеми зі здоров'ям»: тренерка збірної України з біатлону пояснила відсутність Джими у складі на Кубок світу",
+      "published_at": "2026-11-15T17:01:28+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:01:28 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Старша тренерка жіночої збірної України з біатлону Оксана Хвостенко пояснила, чому олімпійська чемпіонка Юлія Джима не увійшла до складу команди на старт сезону 2026/27",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "919216efe51ba3cb",
       "source_id": "map-336",
       "source": "1kr.ua",
@@ -5621,6 +6777,23 @@
       "categories": [
         "Общество"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ceaacb6ebfe879fe",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1448687-na-kirovogradsini-socevicu-virosuut-desat-gospodarstv-osoblivosti-kulturi-ta-hto-ii-kupue",
+      "title": "На Кіровоградщині сочевицю вирощують десять господарств: особливості культури та хто її купує",
+      "published_at": "2026-11-15T17:01:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:01:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На Кіровоградщині десять із понад трьох тисяч господарств вирощують сочевицю. Торік таких аграріїв було вісім. Які особливості має ця бобова культура, чому вона залишається нішевою та хто купує врожай?",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5644,6 +6817,23 @@
         "Російсько-Українська війна",
         "рф"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c32bd6e5bc977e04",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1453282-tehnicnij-nokaut-cerkasanin-zavouvav-titul-cempiona-z-boksu-v-italii",
+      "title": "Технічний нокаут: черкащанин завоював титул чемпіона з боксу в Італії",
+      "published_at": "2026-11-15T17:00:21+00:00",
+      "published_raw": "Sun, 15 Nov 2026 19:00:21 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Черкаський боксер Ігор Семончук здобув титул чемпіона з напівлегкої ваги в Італії. Свого суперника Ла Феміну він здолав технічним нокатуом у шостій трихвилинці",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5940,6 +7130,23 @@
       "status": "new"
     },
     {
+      "id": "f9a65fd9ff01b871",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1451059-zitelka-zitomirsini-otrimala-grant-na-rozvitok-gospodarstva-virosue-pticu-ta-gotue-tuskovane-maso",
+      "title": "Жителька Житомирщини отримала грант на розвиток господарства: вирощує птицю та готує тушковане м'ясо",
+      "published_at": "2026-11-15T16:54:57+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:54:57 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Жителька Тетерівки Людмила Юрченко отримала грант на розвиток господарства. Тепер вона не лише вирощує птицю, а й виготовляє тушковане м'ясо",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b2bd1b103c547dd3",
       "source_id": "map-844",
       "source": "Ірта-fax",
@@ -6220,6 +7427,23 @@
       "status": "new"
     },
     {
+      "id": "d14ce056660a4cb7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/dnipro/1453340-poraneno-ludinu-poskodzeno-transportnu-infrastrukturu-ta-pidpriemstva-rf-atakuvala-dnipro-j-cotiri-rajoni",
+      "title": "Поранено людину, пошкоджено транспортну інфраструктуру та підприємства: РФ атакувала Дніпро й чотири райони",
+      "published_at": "2026-11-15T16:44:57+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:44:57 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Війська РФ завдали понад 30 ударів безпілотниками, артилерією та авіабомбами по Дніпропетровщині. Поранено людину, пошкоджено критичну інфраструктуру, підприємства та майно місцевих жителів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d86399e51d593039",
       "source_id": "map-883",
       "source": "20 хвилин. Вінниця",
@@ -6270,9 +7494,9 @@
       "categories": [
         "Статті",
         "Новини",
-        "Новини Святогірської громади",
-        "Новини Миколаївської громади",
-        "Новини Дружківської громади"
+        "Новини Дружківської громади",
+        "Новини Краматорської громади",
+        "Новини Білозерської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6293,6 +7517,23 @@
       "categories": [
         "Світ/Країни"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "292b36c32fbe3299",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453338-kallas-sili-es-perevirili-tanker-tinovogo-flotu-rf-u-seredzemnomu-mori",
+      "title": "Каллас: Сили ЄС перевірили танкер тіньового флоту РФ у Середземному морі",
+      "published_at": "2026-11-15T16:42:42+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:42:42 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Представниця Європейського Союзу з питань зовнішньої політики і політики безпеки Кая Каллас розповіла, що сили ЄС здійснили огляд танкера, який, як підозрюється, належить до російського «тіньового флоту», у Середземному морі",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6335,6 +7576,23 @@
       "categories": [
         "Політика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3505a6173d765460",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1453093-vtracena-forteca-voin-na-poltavsini-istoria-i-rozkopki",
+      "title": "Втрачена фортеця Воїнь на Полтавщині: історія і розкопки",
+      "published_at": "2026-11-15T16:42:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:42:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Давньоруська фортеця Воїнь на Полтавщині опинилася під водою після будівництва Кременчуцької ГЕС. Близько 70% території міста залишилися недослідженими. Що відомо про його історію та археологічні розкопки",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6390,6 +7648,23 @@
       "categories": [
         "Соціум"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9bfa128f3886df46",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453312-ukrainskij-bokser-sirenko-provede-bij-proti-ekscempiona-svitu-hto-supernik-i-koli-bij",
+      "title": "Український боксер Сіренко проведе бій проти ексчемпіона світу: хто суперник і коли бій",
+      "published_at": "2026-11-15T16:40:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:40:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Владислав Сіренко: український боксер надважкої ваги проведе поєдинок проти колишнього чемпіона світу, хто суперник Сіренка і коли відбудеться бій",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6553,6 +7828,23 @@
       "status": "new"
     },
     {
+      "id": "742f3f19eb9c1d7a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1453333-u-mikolaevi-stvoruut-mural-iz-geroami-ukrainskoi-ta-danskoi-kazok",
+      "title": "У Миколаєві створюють мурал із героями української та данської казок",
+      "published_at": "2026-11-15T16:34:13+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:34:13 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У центрі Миколаєва художниці малюють мурал із русалкою та котом. До створення малюнка можуть долучитися всі охочі. Завершити роботу планують за 2–3 дні.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6b2f095d862101a3",
       "source_id": "lb",
       "source": "LB.ua",
@@ -6589,6 +7881,23 @@
       "status": "new"
     },
     {
+      "id": "1a61cef7a49d64b7",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1450565-stvoriv-persi-roboti-na-gorisi-istoria-hudoznika-z-sela-na-rivnensini-ivana-kozaka",
+      "title": "Створив перші роботи на горищі: історія художника з села на Рівненщині Івана Козака",
+      "published_at": "2026-11-15T16:32:08+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:32:08 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "21-річний Іван Козак родом із села Хорупань, що на Рівненщині. Він із дитинства мріяв стати художником, а перші свої роботи створив у майстерні, яку облаштував на горищі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d064b9ce97558cb9",
       "source_id": "nv",
       "source": "NV",
@@ -6603,6 +7912,23 @@
       "categories": [
         "Спорт/Інше"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "839b9e4ff375d959",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ternopil/1453310-na-ternopilsini-vidbuvsa-unackij-turnir-z-vilnoi-borotbi",
+      "title": "На Тернопільщині відбувся юнацький турнір з вільної боротьби",
+      "published_at": "2026-11-15T16:32:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:32:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На Тернопільщині в Збаражі відбувся XIX Міжнародний юнацький турнір з вільної боротьби пам'яті Олександра Короля та Назарія Бойка, в якому взяли участь понад дві сотні спортсменів",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6994,7 +8320,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/u-baku-vidkrili-vistavku-fotokopii-kartin-vikradenix-z-xersonskogo-muzeiu",
-      "title": "У Баку відкрили виставку фотокопій картин, викрадених з Херсонського музею",
+      "title": "У Баку відкрили виставку фотокопій картин, викрадених із Херсонського музею",
       "published_at": "2026-11-15T16:18:17+00:00",
       "published_raw": "Sun, 15 Nov 2026 18:18:17 +0200",
       "fetched_at": "2026-11-15T17:10:12+00:00",
@@ -7066,6 +8392,23 @@
         "Війна",
         "росія"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d6298c8e486286b2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1452471-rosia-u-vidnosinah-iz-kitaem-molodsij-partner-kit-kellog-pro-peregovori-z-rosianami-ta-misiu-v-oleskah",
+      "title": "«Росія у відносинах із Китаєм – молодший партнер» — Кіт Келлог про переговори з росіянами та місію в Олешках",
+      "published_at": "2026-11-15T16:17:13+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:17:13 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Колишній спецпосланець Дональда Трампа з питань України Кіт Келлог ділиться своїм баченням мирних переговорів України та Росії, а також гуманітарної операції в Олешках як прикладу для майбутнього ширшого перемирʼя",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7290,6 +8633,23 @@
       "status": "new"
     },
     {
+      "id": "5f7f8e5978ef7c3e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453325-peremoga-dudcenka-v-gonci-b-i-14-te-misce-mandzina-u-finali-a-rezultati-masstartiv-cempionatu-norvegii-z-biatlonu",
+      "title": "Перемога Дудченка в гонці Б і 14-те місце Мандзина у фіналі А: результати масстартів чемпіонату Норвегії з біатлону",
+      "published_at": "2026-11-15T16:10:35+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:10:35 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У норвезькому Гейло завершилися чоловічі масстарти Відкритого чемпіонату Норвегії з біатлону: Антон Дудченко виграв гонку Б, а Віталій Мандзин фінішував 14-м у фіналі А; результати виступів українських біатлоністів",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b3a8117b3eb9d9d2",
       "source_id": "nv",
       "source": "NV",
@@ -7480,6 +8840,23 @@
       "status": "new"
     },
     {
+      "id": "8e0e3d83138d6a8c",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453300-anglomovni-vidanna-artura-drona-j-tarasa-prohaska-potrapili-do-korotkogo-spisku-premii-aatseel",
+      "title": "Англомовні видання Артура Дроня й Тараса Прохаська потрапили до короткого списку премії AATSEEL",
+      "published_at": "2026-11-15T16:02:07+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:02:07 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Англомовні збірка Дроня «Тут були ми» та книги Прохаська «Боги землі» увійшли до цьогорічного короткого списку книжкової премії Американської асоціації викладачів слов'янських і східноєвропейських мов",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6dce0fc15a503a79",
       "source_id": "map-988",
       "source": "Шпальта",
@@ -7517,6 +8894,23 @@
       "categories": [
         "Донецька ТГ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "64fc1fa11e8a1376",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1453273-nizce-nula-prognoz-pogodi-na-16-listopada-dla-doneckoi-ta-luganskoi-oblastej",
+      "title": "Нижче нуля: прогноз погоди на 16 листопада для Донецької та Луганської областей",
+      "published_at": "2026-11-15T16:01:24+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:01:24 +0200",
+      "fetched_at": "2026-11-15T12:57:12+00:00",
+      "description": "У понеділок, 16 листопада, у Донецькій і Луганській областях буде хмарно з проясненнями без опадів. На Донеччині температура опуститься нижче нуля. Про це йдеться на сайті Українського гідрометеорологічного центру 15 листопада",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7656,6 +9050,40 @@
       "status": "new"
     },
     {
+      "id": "0dba0d13f15a9087",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1444777-nitocka-aka-trimatime-mene-z-nim-ludmila-cap-pisla-pisla-zagibeli-colovika-dolucilasa-do-lav-dpsu",
+      "title": "«Ниточка, яка триматиме мене з ним». Людмила Цап після після загибелі чоловіка долучилася до лав ДПСУ",
+      "published_at": "2026-11-15T16:00:07+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:00:07 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Після загибелі чоловіка-прикордонника у 2018 році Людмила Цап вирішила долучитися до Державної прикордонної служби України. Раніше жінка працювала вчителькою історії та правознавства. Більше — у матеріалі Суспільного",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "59e88e401c0321da",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1446497-povernutisa-cim-zagrozue-bajduzist-derzavi-j-suspilstva-do-problem-psihologicnoi-reabilitacii-veteraniv",
+      "title": "«Повернутися». Чим загрожує байдужість держави й суспільства до проблем психологічної реабілітації ветеранів",
+      "published_at": "2026-11-15T16:00:06+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:00:06 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Реабілітація військових та ветеранів: куди людина може звернутися по психологічну допомогу, чому бракує фахових спеціалістів та як держава реагує на проблему — у спецпроєкті «Повернутися»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7f9e294cd57c2823",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -7770,6 +9198,23 @@
       "published_raw": "2026-11-15T18:00:00+02:00",
       "fetched_at": "2026-11-15T17:10:12+00:00",
       "description": "Про це повідомили в Тернопільській ОВА. Турнір став важливою спортивною подією для Тернопільщини та продовженням традиції, яка вже 19 років об’єднує юних борців, тренерів і прихильників цього олімпійського виду спорту. Змагання сприяють популяризації вільної боротьби та здорового способу життя серед молоді, дають спортсменам можливість перевірити свої сили, вдосконалити майстерність і підготуватися до всеукраїнських та міжнародних стартів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b65c70cf9e028d0",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1450981-vin-cerpae-ak-lozkami-colovik-z-hmelniccini-ocikue-na-patent-vlasnogo-virobu-dla-cistki-sazi",
+      "title": "«Він черпає, як ложками»: чоловік з Хмельниччини очікує на патент власного виробу для чистки сажі",
+      "published_at": "2026-11-15T16:00:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 18:00:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Пристрій для очищення димоходів від сажі, який відрізняється від усіх наразі відомих створив винахідник-аматор Сергій Любицький з Клубівки, що на Хмельниччині. Наразі чоловік подав патент на «корисну модель» та чекає на відповідь",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -7967,6 +9412,23 @@
         "#події",
         "Партнерський матеріал"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7d2b25c8054e1655",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1453324-persa-liga-oleksandria-vdruge-v-sezoni-zigrala-vniciu-z-ternopilskou-nivou",
+      "title": "Перша ліга: «Олександрія» вдруге в сезоні зіграла внічию з тернопільською «Нивою»",
+      "published_at": "2026-11-15T15:53:03+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:53:03 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У 16-му турі чемпіонату України з футболу серед команд Першої ліги сезону 2026-27 років футбольний клуб «Олександрія» зіграв у нульову нічию з тернопільською «Нивою»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8207,6 +9669,23 @@
       "status": "new"
     },
     {
+      "id": "cd9036cb7f5e25bd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453299-zaginuv-hersonskij-volonter-i-vijskovosluzbovec-vaceslav-lukasuk",
+      "title": "Загинув херсонський волонтер і військовослужбовець В'ячеслав Лукащук",
+      "published_at": "2026-11-15T15:44:05+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:44:05 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Під Павлоградом загинув військовослужбовець з Херсона В'ячеслав Лукащук. Він також був волонтером БО «БФ\"Справжні\"». Допомагав евакуйовувати людей, доставляти гуманітарні вантажі та ліквідовувати наслідки російських атак",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "218cb93a60b47841",
       "source_id": "lb",
       "source": "LB.ua",
@@ -8249,6 +9728,23 @@
       "status": "new"
     },
     {
+      "id": "ee80ca94e82e7b29",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1453314-vid-didusa-perejnav-remeslo-istoria-vinoroba-oleksandra-novoselcana-z-pivdna-odesini",
+      "title": "Від дідуся перейняв ремесло: історія винороба Олександра Новосельчана з півдня Одещини",
+      "published_at": "2026-11-15T15:43:32+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:43:32 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Винороб з півдня Одещини Олександр Новосельчан продовжує родинну справу, викуповує виноград у місцевих жителів по 10–12 грн за кілограм і розповідає про виробництво вина та проблеми його збуту",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "57c27b945e2bd2e7",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -8267,6 +9763,23 @@
         "Ігри Нескорених",
         "Львів"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d0f69d453563d952",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/crimea/1453318-sezon-u-krimu-se-ne-zakrivsa-komandir-brigadi-k-2-kirilo-veres-pro-rezultati-roboti-sil-oboroni-na-pivostrovi",
+      "title": "«Сезон у Криму ще не закрився»: командир бригади «К-2» Кирило Верес про результати роботи СБС на півострові",
+      "published_at": "2026-11-15T15:43:02+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:43:02 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Командир бригади «К-2» Кирило Верес розповів про результати роботи ЗСУ в окупованому Криму та заявив, що сезон операцій на півострові ще не завершився",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8403,6 +9916,40 @@
       "categories": [
         "новини / Лайфхаки"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2a0f63a3fe231ce1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zhytomyr/1453326-a-ziva-u-malini-proveli-fotosesiu-dla-materiv-i-druzin-poleglih-vijskovih",
+      "title": "«Я жива»: у Малині провели фотосесію для матерів і дружин полеглих військових",
+      "published_at": "2026-11-15T15:39:21+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:39:21 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Він містить назву проєкту, географію та чітко пояснює, про що матеріал. Не перевантажений подробицями й не використовує емоційних оцінок",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e5c0ee18f5d7a283",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kyiv/1453330-na-kiivsini-dilerskij-centr-porse-zahid-prizupiniv-robotu-cerez-ataku-rf",
+      "title": "На Київщині дилерський центр «Порше Захід» призупинив роботу через атаку РФ",
+      "published_at": "2026-11-15T15:39:17+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:39:17 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Унаслідок атаки РФ на Київ та область у ніч на 15 листопада дилерський центр «Порше Захід» зазнав пошкоджень. Робота центру призупинена",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8622,6 +10169,23 @@
       "status": "new"
     },
     {
+      "id": "a13c008496be413d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1453321-zakincuetsa-persij-knizkovij-festival-mukachevo-book-fest-ak-prohodit-podia",
+      "title": "Закінчується перший книжковий фестиваль «Mukachevo Book Fest»: як проходить подія",
+      "published_at": "2026-11-15T15:33:19+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:33:19 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Понад 20 українських видавництв, книжкові новинки, зустрічі з авторами та літературні дискусії — у Мукачеві 15 листопада завершується перший книжковий фестиваль «Mukachevo Book Fest».",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e7a3e0f02a282179",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -8637,6 +10201,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ccac4a1de1fe9ac9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1453331-na-harkivsini-15-listopada-zastosuvali-avarijni-vidklucenna-svitla",
+      "title": "На Харківщині 15 листопада застосували аварійні відключення світла",
+      "published_at": "2026-11-15T15:32:01+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:32:01 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "На Харківщині 15 листопада діють аварійні відключення світла через вимушені обмеження електропостачання, повідомили в «Харківобленерго»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8675,6 +10256,23 @@
       "categories": [
         "Стрічка новин"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "693d6dfe6894d8dc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1446593-u-mirgorodskij-tg-dopomagaut-biznesu-kupiti-invertori-ta-sonacni-paneli-hto-moze-otrimati-grosi",
+      "title": "У Миргородській ТГ допомагають бізнесу купити інвертори та сонячні панелі: хто може отримати гроші",
+      "published_at": "2026-11-15T15:31:13+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:31:13 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Підприємці Миргородської громади можуть отримати до 200 тисяч гривень безвідсоткової позики на інвертори, акумулятори та сонячні панелі. Хто має право на допомогу та як її повернути",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8924,6 +10522,23 @@
       "status": "new"
     },
     {
+      "id": "9bb0008d0fef7766",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1453323-sim-misaciv-bez-garacoi-vodi-comu-zatrimuetsa-vidnovlenna-poslugi-v-odnomu-z-zitlovih-masiviv",
+      "title": "Сім місяців без гарячої води: чому затримується відновлення послуги в одному з житлових масивів",
+      "published_at": "2026-11-15T15:26:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:26:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "У Вінниці мешканці житлового масиву понад сім місяців без гарячої води. У «Вінницяміськтеплоенерго» пояснили причини затримки та стан модернізації",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "0a7e51900dc6ba1f",
       "source_id": "lb",
       "source": "LB.ua",
@@ -8943,6 +10558,23 @@
       "status": "new"
     },
     {
+      "id": "1e9ef590387b055a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1446021-znisuetsa-nasa-pamat-arhitektor-pro-rujnuvanna-istoricnogo-nekropola-v-sumah-pisla-aviaudaru",
+      "title": "«Знищується наша пам'ять»: архітектор про руйнування історичного некрополя в Сумах після авіаудару",
+      "published_at": "2026-11-15T15:24:30+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:24:30 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Війська РФ пошкодили пам'ятки на Петропавлівському кладовищі в Сумах. Архітектор В. Биков розповів про руйнування некрополя та захист скульптур",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "31ce4347c400c0cc",
       "source_id": "map-535",
       "source": "МОСТ",
@@ -8957,6 +10589,23 @@
       "categories": [
         "Новина"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7d341d6a8fdcf849",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1453305-trohi-absurdno-norvezka-vigrala-gonku-na-domasnomu-cempionati-ale-ne-uvijsla-do-skladu-na-kubok-svitu-z-biatlonu",
+      "title": "«Трохи абсурдно»: норвежка виграла гонку на домашньому чемпіонаті, але не увійшла до складу на Кубок світу з біатлону",
+      "published_at": "2026-11-15T15:22:51+00:00",
+      "published_raw": "Sun, 15 Nov 2026 17:22:51 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "22-річна норвежка Гуро Іттерхус виграла жіночий спринт на старті біатлонного сезону у Гейло, випередивши Лізу Віттоцці та представниць збірної Норвегії; попри перемогу, спортсменка не потрапить до заявки на перший етап Кубка світу",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -9927,8 +11576,8 @@
       "description": "У Хусті на Закарпатті планують капітально відремонтувати частину приміщень, які орендує Курахівська міська лікарня. Йдеться про цокольний поверх лікувального корпусу, де мають облаштувати кабінети для медичних обстежень. На роботи передбачили понад 10,6 мільйона гривень із місцевого бюджету. Розповідаємо, що саме планують зробити та коли мають…",
       "categories": [
         "Новини",
-        "Новини Курахівської громади",
-        "Новини тендерів Донецької області"
+        "Новини тендерів Донецької області",
+        "Новини Курахівської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -11137,11 +12786,11 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/do-akciyi-porozni-stilci-u-lvovi-dolucivsia-zurnalist-z-xersonshhini",
-      "title": "До акції «Порожні стільці» у Львові долучився журналіст з Херсонщини",
+      "title": "До акції «Порожні стільці» у Львові долучився журналіст із Херсонщини",
       "published_at": "2026-11-15T14:14:40+00:00",
       "published_raw": "Sun, 15 Nov 2026 16:14:40 +0200",
       "fetched_at": "2026-11-15T17:10:12+00:00",
-      "description": "У Львові провели акцію «Порожні стільці» на підтримку українців, яких Росія незаконно позбавила волі або які зникли безвісти. Серед учасників — журналіст-розслідувач із Херсонщини Олег Батурін, який пережив російський полон.",
+      "description": "У Львові провели акцію «Порожні стільці» на підтримку українців, яких Росія незаконно позбавила волі або які зникли безвісти. Серед учасників – журналіст-розслідувач із Херсонщини Олег Батурін, який пережив російський полон.",
       "categories": [
         "Новини"
       ],
@@ -12508,6 +14157,25 @@
       "status": "new"
     },
     {
+      "id": "b422e1a28614aade",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20312270-zaporizhzhya-ta-dnipropetrovshchina-zalishilisya-bez-svitla-cherez-udar-po-energoob-ektu",
+      "title": "Запоріжжя та Дніпропетровщина залишилися без світла через удар по енергооб’єкту",
+      "published_at": "2026-11-15T13:33:00+00:00",
+      "published_raw": "Sun, 15 Nov 2026 15:33:00 +0200",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "В обох регіонах запровадили аварійні відключення електроенергії",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "41ead0ea06cf0525",
       "source_id": "lb",
       "source": "LB.ua",
@@ -12687,7 +14355,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/u-xersoni-vstanovili-ponad-70-km-antidronovix-sitok-i-maize-300-ukrittiv-mva",
-      "title": "У Херсоні встановили понад 70 км антидронових сіток і майже 300 укриттів — МВА",
+      "title": "У Херсоні встановили понад 70 км антидронових сіток і майже 300 укриттів – МВА",
       "published_at": "2026-11-15T13:24:04+00:00",
       "published_raw": "Sun, 15 Nov 2026 15:24:04 +0200",
       "fetched_at": "2026-11-15T17:10:12+00:00",
@@ -12978,7 +14646,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://2day.kh.ua/ua/kharkow/vorozhyy-dron-atakuvav-tsyvilne-pidpryyemstvo-u-misti-na-kharkivshchyni",
-      "title": "У місті на Харківщині російський безпілотник атакував цивільне підприємство",
+      "title": "Російський безпілотник атакував цивільне підприємство на Харківщині",
       "published_at": "2026-11-15T13:15:00+00:00",
       "published_raw": "Sun, 15 Nov 2026 15:15:00 +0200",
       "fetched_at": "2026-11-15T17:10:12+00:00",
@@ -14719,23 +16387,6 @@
         "Гуляйполе",
         "Запоріжжя"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "64fc1fa11e8a1376",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1453273-nizce-nula-prognoz-pogodi-na-16-listopada-dla-doneckoi-ta-luganskoi-oblastej",
-      "title": "Нижче нуля: прогноз погоди на 16 листопада для Донецької та Луганської областей",
-      "published_at": "2026-11-15T12:31:14+00:00",
-      "published_raw": "Sun, 15 Nov 2026 14:31:14 +0200",
-      "fetched_at": "2026-11-15T12:57:12+00:00",
-      "description": "У понеділок, 16 листопада, у Донецькій і Луганській областях буде хмарно з проясненнями без опадів. На Донеччині температура опуститься нижче нуля. Про це йдеться на сайті Українського гідрометеорологічного центру 15 листопада",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -18109,23 +19760,6 @@
         "дитина",
         "ДСНС"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "715b19f166e10823",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/dnipro/1453166-golovni-novini-dnipra-ta-oblasti-15-listopada-2",
-      "title": "Наслідки обстрілів, екстрені відключення світла після атаки. Головні новини Дніпра та області 15 листопада",
-      "published_at": "2026-11-15T11:19:00+00:00",
-      "published_raw": "Sun, 15 Nov 2026 13:19:00 +0200",
-      "fetched_at": "2026-11-15T09:25:10+00:00",
-      "description": "Оперативні новини Дніпра та Дніпропетровської області за 15 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -23747,10 +25381,10 @@
       "description": "За минулу добу, 14 листопада, російські війська завдали 1 367 ударів по лінії фронту та житлових кварталах Донеччини. Внаслідок обстрілів четверо цивільних дістали поранення — троє у Словʼянську та один у Краматорську.",
       "categories": [
         "Новини",
-        "Новини Костянтинівської громади",
-        "Новини Лиманської громади",
         "Новини Покровської громади",
-        "Новини Дружківської громади"
+        "Новини Дружківської громади",
+        "Новини Краматорської громади",
+        "Новини Новодонецької громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -24639,7 +26273,7 @@
       "geography": "regional",
       "source_region": "crimea",
       "url": "https://ua.krymr.com/a/news-krym-vybukhy-aerodrom-hvardiys%ca%b9ke-kerchens%ca%b9kiy-mist/33898931.html",
-      "title": "У Криму вночі повідомляли про вибухи в районі аеродрому «Гвардійське» та Керченського мосту",
+      "title": "У Криму вночі повідомляли про вибухи поблизу аеродрому «Гвардійське» та Керченського мосту",
       "published_at": "2026-11-15T08:48:54+00:00",
       "published_raw": "Sun, 15 Nov 2026 10:48:54 +0200",
       "fetched_at": "2026-11-15T09:25:10+00:00",
@@ -25065,6 +26699,29 @@
       "status": "new"
     },
     {
+      "id": "778095916efe5c68",
+      "source_id": "map-707",
+      "source": "Thebuchacity",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://thebuchacity.com/pislya-4-rokiv-polonu-do-ridnyh-babyncziv-povernuvsya-myhajlo-shevchuk",
+      "title": "У Бучанській громаді зустріли Михайла Шевчука, який повернувся з полону",
+      "published_at": "2026-11-15T08:41:15+00:00",
+      "published_raw": "Sun, 15 Nov 2026 08:41:15 +0000",
+      "fetched_at": "2026-11-16T09:42:16+00:00",
+      "description": "Михайло Шевчук провів у російській неволі 4 роки та 7 місяців. Його захопили як цивільного жителя Маріуполя, а звільнили 23 жовтня під час обміну, повідомляє БМР. Після реабілітації чоловік нарешті повернувся додому. Вдома на нього чекали рідні. Зустрічати земляка зібралося все селище. Вітаємо вдома! Раніше ми писали: Михайло Шевчук із Бабинців повернувся з російського полону […] The post У Бучанській громаді зустріли Михайла Шевчука, який повернувся з полону appeared first on Thebuchacity .",
+      "categories": [
+        "Буча",
+        "Бучанська громада",
+        "Новини",
+        "Бабинці",
+        "Новини Бучі"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7f565f478e19720d",
       "source_id": "map-586",
       "source": "Вгору",
@@ -25075,7 +26732,7 @@
       "published_at": "2026-11-15T08:41:00+00:00",
       "published_raw": "Sun, 15 Nov 2026 10:41:00 +0200",
       "fetched_at": "2026-11-15T09:25:10+00:00",
-      "description": "Унаслідок атаки російського FPV-дрона на блокпост в Білозерській громаді Херсонщини постраждав поліцейський.",
+      "description": "Унаслідок атаки російського FPV-дрона на блокпост в Білозерській громаді Херсонщини постраждав поліціянт.",
       "categories": [
         "Новини"
       ],
@@ -27439,7 +29096,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://vgoru.org/novini/v-okupovanix-oleskax-zalisaiutsia-blizko-200-300-liudei-lubinec",
-      "title": "В окупованих Олешках залишаються близько 200-300 людей — Лубінець",
+      "title": "В окупованих Олешках залишаються близько 200-300 людей – Лубінець",
       "published_at": "2026-11-15T07:51:55+00:00",
       "published_raw": "Sun, 15 Nov 2026 09:51:55 +0200",
       "fetched_at": "2026-11-15T09:25:10+00:00",
@@ -34586,6 +36243,12 @@
       "fetched": 1080,
       "added": 9,
       "errors": 3
+    },
+    {
+      "at": "2026-11-16T09:42:16+00:00",
+      "fetched": 772,
+      "added": 97,
+      "errors": 8
     }
   ]
 }
