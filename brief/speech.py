@@ -194,13 +194,108 @@ def spell_numbers(text):
         else:
             n = int(raw)
             spoken = cardinal(n, feminine=bool(noun and noun[3]))
-            if noun:
+            tail = m.string[m.end():m.end() + 30]
+            # «від 14 до 20 листопада»: the first number is a date too
+            date_range = word.lower() in ("до", "по") and re.match(r"\s*(\d{1,2}|(?:[\w'’]+ )?[\w'’]+(?:ого|ього))\s+(" + _MONTHS + r")", tail)
+            found = number_case(m.string[max(0, m.start() - 40):m.start()], word) if space and not date_range else None
+            if date_range and n <= 31:
+                spoken = ordinal(n, "gen")
+            elif noun and found and found[0] in ("gen", "loc", "ins"):
+                spoken = cardinal_case(n, found[0], feminine=noun[3])  # «до дванадцяти людей»
+            elif noun:
                 word = _plural(n, noun[:3])
             elif space and word.lower() in _FEM_ACC and n % 10 == 1 and n % 100 != 11:
                 spoken = spoken[: -len("один")] + "одну"  # «поранили одну людину»
+            elif found:
+                fem = found[0] == "acc" and word.lower().endswith(("у", "ю"))  # «про двадцять одну жінку»
+                spoken = cardinal_case(n, found[0], feminine=fem, animate=found[1] and not fem)
         return spoken + space + word
 
     return re.sub(r"(" + _NUM + r")(\s*)([\w'’]*)", repl, text)
+
+
+# --- numbers in oblique cases (owner, 2026-11-17: «про тридцять один загиблого» must be «про тридцять одного
+# загиблого») --------------------------------------------------------------------------------------------
+_ONES_CASE = {
+    "gen": ["", "одного", "двох", "трьох", "чотирьох", "п'яти", "шести", "семи", "восьми", "дев'яти", "десяти",
+            "одинадцяти", "дванадцяти", "тринадцяти", "чотирнадцяти", "п'ятнадцяти", "шістнадцяти", "сімнадцяти",
+            "вісімнадцяти", "дев'ятнадцяти"],
+    "loc": ["", "одному", "двох", "трьох", "чотирьох", "п'яти", "шести", "семи", "восьми", "дев'яти", "десяти",
+            "одинадцяти", "дванадцяти", "тринадцяти", "чотирнадцяти", "п'ятнадцяти", "шістнадцяти", "сімнадцяти",
+            "вісімнадцяти", "дев'ятнадцяти"],
+    "ins": ["", "одним", "двома", "трьома", "чотирма", "п'ятьма", "шістьма", "сімома", "вісьмома", "дев'ятьма",
+            "десятьма", "одинадцятьма", "дванадцятьма", "тринадцятьма", "чотирнадцятьма", "п'ятнадцятьма",
+            "шістнадцятьма", "сімнадцятьма", "вісімнадцятьма", "дев'ятнадцятьма"],
+}
+_ONES_FEM = {"gen": "однієї", "loc": "одній", "ins": "однією"}
+_TENS_CASE = {
+    "gen": ["", "", "двадцяти", "тридцяти", "сорока", "п'ятдесяти", "шістдесяти", "сімдесяти", "вісімдесяти", "дев'яноста"],
+    "ins": ["", "", "двадцятьма", "тридцятьма", "сорока", "п'ятдесятьма", "шістдесятьма", "сімдесятьма",
+            "вісімдесятьма", "дев'яноста"],
+}
+_TENS_CASE["loc"] = _TENS_CASE["gen"]
+_HUNDREDS_CASE = {
+    "gen": ["", "ста", "двохсот", "трьохсот", "чотирьохсот", "п'ятисот", "шестисот", "семисот", "восьмисот", "дев'ятисот"],
+    "loc": ["", "ста", "двохстах", "трьохстах", "чотирьохстах", "п'ятистах", "шестистах", "семистах", "восьмистах",
+            "дев'ятистах"],
+    "ins": ["", "ста", "двомастами", "трьомастами", "чотирмастами", "п'ятьмастами", "шістьмастами", "сімомастами",
+            "вісьмомастами", "дев'ятьмастами"],
+}
+
+
+def cardinal_case(n: int, case="nom", feminine=False, animate=False) -> str:
+    """1–999 in a case: gen «тридцяти одного», loc «двох», ins «двадцятьма одним»; acc of people (animate)
+    changes only a final 1–4: «про тридцять одного загиблого», «про двох поранених»."""
+    if case == "nom" or not 0 < n < 1000:
+        return cardinal(n, feminine)
+    if case == "acc":
+        last = n % 10 if n % 100 not in range(10, 20) else None
+        if animate and last in (1, 2, 3, 4):
+            words = cardinal(n).split()
+            words[-1] = _ONES_CASE["gen"][last]
+            return " ".join(words)
+        words = cardinal(n, feminine).split()
+        if feminine and words[-1] == "одна":
+            words[-1] = "одну"
+        return " ".join(words)
+    words = []
+    h, rest = divmod(n, 100)
+    if h:
+        words.append(_HUNDREDS_CASE[case][h])
+    if rest >= 20:
+        words.append(_TENS_CASE[case][rest // 10])
+        rest %= 10
+    if rest:
+        words.append(_ONES_FEM[case] if feminine and rest == 1 else _ONES_CASE[case][rest])
+    return " ".join(words)
+
+
+_PEOPLE = ("загибл", "поранен", "постражд", "травмован", "людей", "людин", "дітей", "дит", "чоловік", "жін",
+           "особ", "цивільн", "мешканц", "жител", "пасажир", "працівник", "рятувальник", "медик", "військов",
+           "полонен", "бійц", "захисник", "студент", "учн", "пацієнт", "госпіталізован", "евакуйован")
+_PREP_CASE = {"про": "acc", "на": "acc", "за": "acc", "через": "acc", "в": "loc", "у": "loc", "при": "loc",
+              "до": "gen", "від": "gen", "для": "gen", "без": "gen", "близько": "gen", "біля": "gen",
+              "серед": "gen", "щодо": "gen", "із": "ins", "з": "ins", "зі": "ins", "між": "ins", "над": "ins"}
+_SKIP_BEFORE = {"щонайменше", "принаймні", "майже", "понад", "ще", "лише", "тільки", "приблизно"}
+
+
+def number_case(before: str, after: str):
+    """(case, animate) for a number from the words around it, or None to keep the nominative."""
+    words = re.findall(r"[\w'’]+", before.lower())[-3:]
+    while words and words[-1] in _SKIP_BEFORE:
+        words.pop()
+    prep = words[-1] if words else ""
+    nxt = (re.findall(r"[\w'’]+", after.lower()) or [""])[0]
+    case = _PREP_CASE.get(prep)
+    if case == "ins" and not nxt.endswith(("им", "ими", "ом", "ою", "ею", "ами", "ями", "ма")):
+        case = "gen"  # «з 5 областей», «з 2 до 4»
+    if case == "loc" and not nxt.endswith(("ах", "ях", "ому", "ій", "их")):
+        return None
+    if case == "acc" and not (nxt.endswith(("ого", "их")) or nxt.startswith(_PEOPLE)):
+        case = "acc" if prep in ("про", "на", "за", "через") else None
+    if not case:
+        return None
+    return case, nxt.startswith(_PEOPLE)
 
 
 _FEM_ACC = {n[0][:-1] + ("ю" if n[0].endswith("я") else "у") for n in NOUNS if n[3] and n[0][-1] in "ая"}
