@@ -29,6 +29,15 @@
   page_referrer:'',
   page_title:'BRIEF by ProMedia'
  });
+ // Listening statistics (owner, 2026-11-17): the page sends only brief_play / brief_progress /
+ // brief_complete with the edition date, where it was played and a percentage — no personal data.
+ const ALLOWED={brief_play:1,brief_progress:1,brief_complete:1};
+ window.addEventListener?.('message',e=>{
+  if(e.origin!==location.origin||!e.data||!ALLOWED[e.data.pmEvent])return;
+  const p=e.data.params||{};
+  gtag('event',e.data.pmEvent,{brief_edition:String(p.brief_edition||'').slice(0,20),brief_place:String(p.brief_place||'').slice(0,30),
+   percent:Number(p.percent)||0,page_location:'https://brief.promedia.report/',page_title:'BRIEF by ProMedia'});
+ });
  const script=document.createElement('script');script.async=true;
  script.src='https://www.googletagmanager.com/gtag/js?id=G-D8TM22QR9R';
  script.onload=()=>{document.documentElement.dataset.analyticsTag='loaded'};

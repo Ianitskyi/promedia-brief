@@ -16,7 +16,7 @@
   settings=document.createElement('button');settings.id='analytics-settings';settings.type='button';
   wrap.appendChild(settings);document.body.appendChild(wrap);
  }
- function sync(){
+ let sync=function(){
   const active=choice()!=='denied';
   if(active){
    if(!frame){
@@ -30,12 +30,21 @@
   }
   settings.textContent=active?'Вимкнути аналітику':'Увімкнути аналітику';
   settings.setAttribute('aria-pressed',String(active));
- }
+ };
  settings.onclick=()=>{
   memoryChoice=choice()==='denied'?'granted':'denied';
   try{localStorage.setItem(key,memoryChoice)}catch{}
   sync();
  };
  window.addEventListener('storage',event=>{if(event.key===key){memoryChoice=undefined;sync()}});
+ // Listening statistics: events go to the hidden statistics frame; nothing is sent after an opt-out.
+ let ready=false, queue=[];
+ window.briefTrack=(name,params)=>{
+  if(choice()==='denied'||!frame)return;
+  if(ready){try{frame.contentWindow.postMessage({pmEvent:name,params},location.origin)}catch{}}else if(queue.length<20)queue.push([name,params]);
+ };
+ let hooked=null;
+ function hook(){if(frame&&hooked!==frame){hooked=frame;ready=false;frame.addEventListener?.('load',()=>{ready=true;const q=queue;queue=[];q.forEach(([n,p])=>window.briefTrack(n,p))})}}
+ const origSync=sync; sync=function(){origSync();hook()};
  sync();
 })();
