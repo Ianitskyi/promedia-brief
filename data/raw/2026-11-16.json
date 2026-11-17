@@ -1,8 +1,8 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-17T03:53:37+00:00",
+  "generated_at": "2026-11-17T06:44:23+00:00",
   "source_count": 125,
-  "item_count": 2854,
+  "item_count": 2858,
   "items": [
     {
       "id": "fdf7fb0003bfb9ab",
@@ -49,7 +49,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/lifestyle/274496-bude-vvedeno-po-2-milyony-shtuk-koznoyi-nbu-zapustyv-v-obih-pamiatni-monety-nominalom-10-hryven-prysviacheni-tryom-oblastiam",
-      "title": "Буде введено по 2 мільйони штук кожної. НБУ запустив в обіг пам’ятні монети номіналом 10 гривень, присвячені трьом областям.",
+      "title": "Буде введено по 2 мільйони штук кожної. НБУ запустив в обіг пам’ятні монети номіналом 10 гривень, присвячені трьом областям",
       "published_at": "2026-11-16T21:57:00+00:00",
       "published_raw": "2026-11-16T23:57:00+02:00",
       "fetched_at": "2026-11-17T03:53:37+00:00",
@@ -302,8 +302,7 @@
       "description": "Мер додав, що, попередньо, були влучання в Північний та Південний мости в столиці",
       "categories": [
         "Новини | Події",
-        "Новини",
-        "Новини | Важливі"
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -460,7 +459,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/cherkasy/1453492-na-cerkasini-lunali-vibuhi-so-vidomo",
-      "title": "Троє людей травмовані: війська РФ атакували Черкащину балістикою",
+      "title": "Шестеро людей травмовані: війська РФ атакували Черкащину балістикою",
       "published_at": "2026-11-16T21:37:45+00:00",
       "published_raw": "Mon, 16 Nov 2026 23:37:45 +0200",
       "fetched_at": "2026-11-17T03:53:37+00:00",
@@ -602,6 +601,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "40a5ef33ae30fe67",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1453836-u-ssa-provedut-perevirku-nacionalnoi-sistemi-ekstrenogo-opovisenna",
+      "title": "У США проведуть перевірку національної системи екстреного оповіщення",
+      "published_at": "2026-11-16T21:29:33+00:00",
+      "published_raw": "Mon, 16 Nov 2026 23:29:33 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "На 17 листопада 2026 року у США заплановане тестування екстренної системи сповіщення через радіо та телебачення. Таку перевірку проходять раз на три роки",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1149,7 +1165,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/kharkiv/1453798-grafiki-vimknenna-svitla-ak-elektroenergiu-na-harkivsini-vimikatimut-17-zovtna",
-      "title": "Графіки вимкнення світла: як електроенергію на Харківщині вимикатимуть 17 жовтня",
+      "title": "Графіки вимкнення світла: як електроенергію на Харківщині вимикатимуть 17 листопада",
       "published_at": "2026-11-16T21:06:44+00:00",
       "published_raw": "Mon, 16 Nov 2026 23:06:44 +0200",
       "fetched_at": "2026-11-17T03:53:37+00:00",
@@ -2186,23 +2202,6 @@
       "status": "new"
     },
     {
-      "id": "5c313f23a666a077",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada",
-      "title": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
-      "published_at": "2026-11-16T20:27:01+00:00",
-      "published_raw": "Mon, 16 Nov 2026 22:27:01 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "51b22930f7fe6d83",
       "source_id": "map-365",
       "source": "Твоє місто",
@@ -2426,6 +2425,23 @@
       "categories": [
         "Війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2257b78c61bd7971",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1452441-vazko-peredati-vidcutta-koli-ti-ne-sies-fermer-vperse-za-dvadcat-rokiv-ne-zasiav-pola-cerez-vijnu-video",
+      "title": "«Важко передати відчуття, коли ти не сієш...». Фермер вперше за двадцять років не засіяв поля через війну (відео)",
+      "published_at": "2026-11-16T20:15:16+00:00",
+      "published_raw": "Mon, 16 Nov 2026 22:15:16 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Фермер з Олександрівської громади втрачає господарство через війну, але не виїжджає. Чому Олександр Бондаренко не може залишити рідне село",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3124,6 +3140,29 @@
       "status": "new"
     },
     {
+      "id": "8abcd1056cc7c8e2",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/16/urc-2027",
+      "title": "Українські громади можуть подати заявки на участь у URC 2027 в Таллінні: умови та дедлайн",
+      "published_at": "2026-11-16T19:56:24+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:56:24 +0000",
+      "fetched_at": "2026-11-17T06:44:23+00:00",
+      "description": "В Україні розпочався конкурсний відбір територіальних громад для участі в міжнародній Конференції з відновлення України (URC 2027), яка відбудеться 28-29 січня в Таллінні. Загалом планують відібрати 100 представників громад, а подати заявку можна до 18 листопада 2026 року включно. Про це повідомляє медіамережа \"Вікно Відновлення\" з посиланням на інформацію Міністерства у справах громад, територій та […] The post Українські громади можуть подати заявки на участь у URC 2027 в Таллінні: умови та дедлайн appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Відбудова України",
+        "Економіка",
+        "Медіамережа Вікно Відновлення",
+        "Ukraine Recovery Conference"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "cf8f0109a3636204",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -3317,23 +3356,6 @@
         "Кім Чен ин",
         "Сі Цзіньпін"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a63fed50f5763f6f",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1453716-sportsmeni-z-cernigivsini-zdobuli-nagorodi-na-cempionati-svitu-z-bodibildingu-ta-fitnesu",
-      "title": "Спортсмени з Чернігівщини здобули нагороди на чемпіонаті світу з бодібілдингу та фітнесу",
-      "published_at": "2026-11-16T19:49:10+00:00",
-      "published_raw": "Mon, 16 Nov 2026 21:49:10 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Спортсмени з Чернігівщини Вадим Малюк та Тетяна Захарова здобули срібну та бронзову нагороди на чемпіонаті світу IFBB з бодібілдингу та фітнесу",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3717,23 +3739,6 @@
       "status": "new"
     },
     {
-      "id": "fe75945da595e851",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini",
-      "title": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
-      "published_at": "2026-11-16T19:35:27+00:00",
-      "published_raw": "Mon, 16 Nov 2026 21:35:27 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "191d5ad385e93aa8",
       "source_id": "map-302",
       "source": "18000",
@@ -3924,6 +3929,29 @@
       "status": "new"
     },
     {
+      "id": "81e30e7ad99ea446",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/16/korabel-starship",
+      "title": "Космічний корабель Starship уперше впіймали “механічними руками” після польоту: що це змінює для місій",
+      "published_at": "2026-11-16T19:32:16+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:32:16 +0000",
+      "fetched_at": "2026-11-17T06:44:23+00:00",
+      "description": "Космічний корабель Starship компанії SpaceX уперше успішно повернувся на Землю після орбітального польоту. Під час посадки його захопили механічні маніпулятори стартової вежі в Техасі. Це важливий крок до створення повністю багаторазової ракетної системи. Про це повідомляє Reuters. Як зазначають, корабель провів у космосі 22,5 години та здійснив 14 обертів навколо Землі. Після цього він увімкнув […] The post Космічний корабель Starship уперше впіймали “механічними руками” після польоту: що це змінює для місій appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Космос",
+        "Наука",
+        "США",
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "03867e5ad5d16003",
       "source_id": "pravda",
       "source": "Українська правда",
@@ -4024,23 +4052,6 @@
       "published_raw": "Mon, 16 Nov 2026 21:29:57 +0200",
       "fetched_at": "2026-11-16T20:28:49+00:00",
       "description": "Російський удар по Комишувасі Запорізької області забрав життя 72 людей. Пошуково-рятувальні роботи завершили.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "40a5ef33ae30fe67",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1453836-u-ssa-provedut-perevirku-nacionalnoi-sistemi-ekstrenogo-opovisenna",
-      "title": "У США проведуть перевірку національної системи екстреного оповіщення",
-      "published_at": "2026-11-16T19:29:33+00:00",
-      "published_raw": "Mon, 16 Nov 2026 21:29:33 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "На 17 листопада 2026 року у США заплановане тестування екстренної системи сповіщення через радіо та телебачення. Таку перевірку проходять раз на три роки",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -4206,30 +4217,13 @@
       "status": "new"
     },
     {
-      "id": "2e900591dfa34f2d",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1453823-ukrainskij-bokser-z-cernigova-danilo-zasan-posiv-perse-misce-na-miznarodnomu-turniri-u-pivnicnij-makedonii",
-      "title": "Український боксер з Чернігова Данило Жасан посів перше місце на міжнародному турнірі у Північній Македонії",
-      "published_at": "2026-11-16T19:24:20+00:00",
-      "published_raw": "Mon, 16 Nov 2026 21:24:20 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Український боксер з Чернігова Данило Жасан посів перше місце на міжнародному турнірі з боксу серед чоловіків та жінок 55th Golden Gong 2026, що проходив з 12 по 16 листопада у місті Скоп'є (Північна Македонія)",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "acda5acd9c8499ba",
       "source_id": "map-258",
       "source": "Радіо Свобода Україна",
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://radiosvoboda.org/a/krym-ataka-bpla-v-yakomu-stani-kerchenskyy-mist/33899820.html",
-      "title": "Новий удар по Керченському мосту: що відомо",
+      "title": "Вже друга атака на Керченський міст. Одна з арок, можливо, зруйнована",
       "published_at": "2026-11-16T19:22:59+00:00",
       "published_raw": "Mon, 16 Nov 2026 21:22:59 +0200",
       "fetched_at": "2026-11-16T20:28:49+00:00",
@@ -4238,8 +4232,7 @@
         "Крим",
         "Україна",
         "Політика",
-        "Суспільство",
-        "Важливе на Свободі"
+        "Суспільство"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -4727,6 +4720,29 @@
       "description": "Сторони розпочали підготовку до наступного раунду мирних переговорів між Росією та Україною, за участю США та Європи, повідомив спеціальний представник президента США Джаред Кушнер.",
       "categories": [
         "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5923f8f12ef76442",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/16/dlya-pidlitkiv-stvoryly-osvitnij-serial",
+      "title": "Як захистити свої права та куди звертатися по допомогу: для підлітків створили освітній серіал",
+      "published_at": "2026-11-16T19:12:01+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:12:01 +0000",
+      "fetched_at": "2026-11-17T06:44:23+00:00",
+      "description": "До Дня захисту дітей, який в Україні відзначають 20 листопада, на платформі \"Дія. Освіта\" запустили безоплатний освітній серіал про права дитини. У 11 серіях підліткам пояснюють, як користуватися своїми правами, розпізнавати їх порушення та звертатися по допомогу. Про це пише Рубрика, посилаючись на Міністерство соціальної політики. У чому проблема? Знати про свої права недостатньо. Дітям важливо […] The post Як захистити свої права та куди звертатися по допомогу: для підлітків створили освітній серіал appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Діти",
+        "Освіта",
+        "підлітки",
+        "Права людини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -5398,23 +5414,6 @@
       "status": "new"
     },
     {
-      "id": "47d7cc028c283114",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1453723-na-86-zrosla-zahvoruvanist-na-grvi-na-cernigivsini-protagom-minulogo-tizna",
-      "title": "На 8,6% зросла захворюваність на ГРВІ на Чернігівщині протягом минулого тижня",
-      "published_at": "2026-11-16T18:58:38+00:00",
-      "published_raw": "Mon, 16 Nov 2026 20:58:38 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Протягом минулого тижня, з 9 до 15 листопада, до закладів охорони здоров'я Чернігівщини звернулися 2 433 людини із симптомами ГРВІ, із них — 1 336 дітей. Це на 193 пацієнти більше, ніж попереднього тижня",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "eaaab997a255d64c",
       "source_id": "pravda",
       "source": "Українська правда",
@@ -5607,6 +5606,28 @@
         "Суспільство",
         "Війна Росії з Україною",
         "Запоріжжя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9c99e3663e06a8d1",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/16/postachannya-derevyny-dlya-zsu",
+      "title": "Понад 1300 кубометрів щодня: в Україні майже втричі збільшили постачання деревини для ЗСУ",
+      "published_at": "2026-11-16T18:55:04+00:00",
+      "published_raw": "Mon, 16 Nov 2026 18:55:04 +0000",
+      "fetched_at": "2026-11-17T06:44:23+00:00",
+      "description": "Державне підприємство \"Ліси України\" від початку 2026 року передало Силам оборони 278 670 куб. м деревини для будівництва бліндажів, укриттів і фортифікацій. Це майже втричі більше, ніж за аналогічний період минулого року. Загальна вартість деревини перевищує 1 млрд грн. Про це повідомили в державному підприємстві \"Ліси України\", пише Рубрика. Як зазначили там, постачання деревини для […] The post Понад 1300 кубометрів щодня: в Україні майже втричі збільшили постачання деревини для ЗСУ appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Військові",
+        "Ліс",
+        "Оборона"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6983,6 +7004,23 @@
       "status": "new"
     },
     {
+      "id": "5c313f23a666a077",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada",
+      "title": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+      "published_at": "2026-11-16T18:27:01+00:00",
+      "published_raw": "Mon, 16 Nov 2026 20:27:01 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a3922f9b8b384797",
       "source_id": "map-844",
       "source": "Ірта-fax",
@@ -7362,7 +7400,7 @@
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://radiosvoboda.org/a/zhyteli-beryslava-na-khersonshchyni/33899789.html",
-      "title": "«Про Берислав мовчать. Понад рік не було гуманітарки». Жителі розповідають про голод та полювання російських дронів",
+      "title": "«Про Берислав мовчать. Рік без гуманітарки». Життя у голоді під полюванням російських дронів",
       "published_at": "2026-11-16T18:18:04+00:00",
       "published_raw": "Mon, 16 Nov 2026 20:18:04 +0200",
       "fetched_at": "2026-11-16T20:28:49+00:00",
@@ -7492,23 +7530,6 @@
       "categories": [
         "Події"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "2257b78c61bd7971",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/donbas/1452441-vazko-peredati-vidcutta-koli-ti-ne-sies-fermer-vperse-za-dvadcat-rokiv-ne-zasiav-pola-cerez-vijnu-video",
-      "title": "«Важко передати відчуття, коли ти не сієш...». Фермер вперше за двадцять років не засіяв поля через війну (відео)",
-      "published_at": "2026-11-16T18:15:16+00:00",
-      "published_raw": "Mon, 16 Nov 2026 20:15:16 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Фермер з Олександрівської громади втрачає господарство через війну, але не виїжджає. Чому Олександр Бондаренко не може залишити рідне село",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7887,7 +7908,7 @@
       "geography": "regional",
       "source_region": "kherson",
       "url": "https://grivna.ua/news/u-hersoni-pomer-likar-yakyj-ponad-misyac-borovsya-za-zhyttya-pislya-ataky-drona",
-      "title": "У Херсоні помер лікар, який понад місяць боровся за життя після атаки дрона – оновлено",
+      "title": "У Херсоні помер лікар, який понад місяць боровся за життя після атаки дрона (ОНОВЛЕНО)",
       "published_at": "2026-11-16T18:10:00+00:00",
       "published_raw": "Mon, 16 Nov 2026 18:10:00 +0000",
       "fetched_at": "2026-11-16T13:59:15+00:00",
@@ -8260,6 +8281,23 @@
         "Політика",
         "Україна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "91d18eabe1ac9ace",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453799-stalo-vidomo-pro-zagibel-vijskovogo-z-hersonsini-dmitra-lapuski",
+      "title": "Стало відомо про загибель військового з Херсонщини Дмитра Лапушки",
+      "published_at": "2026-11-16T18:03:14+00:00",
+      "published_raw": "Mon, 16 Nov 2026 20:03:14 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Рідні військовослужбовця з Херсонщини Дмитра Лапушки отримали офіційне підтвердження його загибелі. Він поліг 8 листопада 2025 року, виконуючи бойове завдання поблизу Юнаківки Сумської області",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -8877,6 +8915,23 @@
       "published_raw": "2026-11-16T17:50:53+00:00",
       "fetched_at": "2026-11-16T20:28:49+00:00",
       "description": "17 жовтня за календарем – Всесвітній день дій проти раку шийки матки. І це привід поговорити про медичний гуманітарний проєкт, завдяки якому до кінця року на Чернігівщині безплатно можна пройти скринінг на вірус папіломи людини (ВПЛ).",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a63fed50f5763f6f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1453716-sportsmeni-z-cernigivsini-zdobuli-nagorodi-na-cempionati-svitu-z-bodibildingu-ta-fitnesu",
+      "title": "Спортсмени з Чернігівщини здобули нагороди на чемпіонаті світу з бодібілдингу та фітнесу",
+      "published_at": "2026-11-16T17:49:10+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:49:10 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Спортсмени з Чернігівщини Вадим Малюк та Тетяна Захарова здобули срібну та бронзову нагороди на чемпіонаті світу IFBB з бодібілдингу та фітнесу",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -9578,6 +9633,23 @@
       "status": "new"
     },
     {
+      "id": "fe75945da595e851",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini",
+      "title": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
+      "published_at": "2026-11-16T17:35:27+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:35:27 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "49a8baecbab6c7d9",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -10003,6 +10075,23 @@
       "categories": [
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2e900591dfa34f2d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1453823-ukrainskij-bokser-z-cernigova-danilo-zasan-posiv-perse-misce-na-miznarodnomu-turniri-u-pivnicnij-makedonii",
+      "title": "Український боксер з Чернігова Данило Жасан посів перше місце на міжнародному турнірі у Північній Македонії",
+      "published_at": "2026-11-16T17:24:20+00:00",
+      "published_raw": "Mon, 16 Nov 2026 19:24:20 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Український боксер з Чернігова Данило Жасан посів перше місце на міжнародному турнірі з боксу серед чоловіків та жінок 55th Golden Gong 2026, що проходив з 12 по 16 листопада у місті Скоп'є (Північна Македонія)",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11383,17 +11472,17 @@
       "status": "new"
     },
     {
-      "id": "60359bdb25a03ebb",
+      "id": "47d7cc028c283114",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
       "geography": "national",
       "source_region": null,
-      "url": "https://suspilne.media/culture/1453780-organizatori-evrobacenna-zasovuut-comu-v-malajzii-virizali-lgbtk-kadri-z-translacii-konkursu",
-      "title": "Організатори «Євробачення» з'ясовують, чому в Малайзії вирізали ЛГБТК+ кадри з трансляції конкурсу",
-      "published_at": "2026-11-16T16:58:41+00:00",
-      "published_raw": "Mon, 16 Nov 2026 18:58:41 +0200",
+      "url": "https://suspilne.media/chernihiv/1453723-na-86-zrosla-zahvoruvanist-na-grvi-na-cernigivsini-protagom-minulogo-tizna",
+      "title": "На 8,6% зросла захворюваність на ГРВІ на Чернігівщині протягом минулого тижня",
+      "published_at": "2026-11-16T16:58:38+00:00",
+      "published_raw": "Mon, 16 Nov 2026 18:58:38 +0200",
       "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Європейська мовна спілка з'ясовує, чому малайзійський телеканал TV3 вирізав із трансляції «Євробачення Азія» кадри з дреґ-артистами та небінарним представником журі.",
+      "description": "Протягом минулого тижня, з 9 до 15 листопада, до закладів охорони здоров'я Чернігівщини звернулися 2 433 людини із симптомами ГРВІ, із них — 1 336 дітей. Це на 193 пацієнти більше, ніж попереднього тижня",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -12026,8 +12115,8 @@
       "description": "Стало відомо про загибель воїна з селища Єзупіль, молодшого сержанта Василя Овчара, 1966 року народження, пише КУРС з посиланням на Єзупільську громаду. Захисник з 28 лютого 2022 року проходив військову службу за мобілізацією. З 7 квітня 2024 року він вважався зниклим безвісти під час ведення штурмових дій противника поблизу населеного пункту Берестове Бахмутського району Донецької […]",
       "categories": [
         "Суспільство",
-        "загиблі",
-        "війна"
+        "війна",
+        "загиблі"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12649,10 +12738,10 @@
       "description": "57-річна Мирослава Сорока пригадує, як перед пересадкою серця боялася ночі — через задишку могла спати лише сидячи. Тепер вона розповідає про пережите студентам Івано-Франківського національного медичного університету. На засіданні кардіологічного... The post «Я тепер за двох живу»: як у Франківську студенти вчаться кардіології на історіях пацієнтів і трансляціях з операційної (ФОТО) appeared first on Galka.if.ua .",
       "categories": [
         "Новини",
+        "Нестор Середюк",
         "Руслан Козовий",
-        "Тетяна Налужна",
-        "Роксолана Деніна",
-        "Романа Заставська"
+        "Василь Белейович",
+        "Мирослава Сорока"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12907,23 +12996,6 @@
       "categories": [
         "Харків"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "60540b51d09b39f5",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1453778-bejonse-stala-persou-artistkou-v-istorii-aka-otrimala-100-nominacij-na-gremmi",
-      "title": "Бейонсе стала першою артисткою в історії, яка отримала 100 номінацій на «Греммі»",
-      "published_at": "2026-11-16T16:29:49+00:00",
-      "published_raw": "Mon, 16 Nov 2026 18:29:49 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Бейонсе стала першою артисткою зі 100 номінаціями на «Греммі». Ювілейну номінацію співачка отримала за пісню Morning Dew (Donk), що вийшла у липні 2026 року",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13904,23 +13976,6 @@
       "status": "new"
     },
     {
-      "id": "0f25fa1ba8aa2b87",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1453768-rosiani-atakuvali-obekti-energeticnoi-infrastrukturi-v-korukivci",
-      "title": "Росіяни атакували об'єкти енергетичної інфраструктури в Корюківці",
-      "published_at": "2026-11-16T16:07:55+00:00",
-      "published_raw": "Mon, 16 Nov 2026 18:07:55 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Російські війська 16 листопада атакували об'єкти енергетичної інфраструктури в Корюківці на Чернігівщині. У місті можливі перебої зі зв'язком, зниження температури теплоносія та тиску води на верхніх поверхах",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "4244e828407ef9a3",
       "source_id": "map-664",
       "source": "Курс",
@@ -13934,9 +13989,9 @@
       "description": "Івано-Франківський міський суд засудив до шести років позбавлення волі раніше судимого місцевого мешканця, який викрав два велосипеди, пише КУРС. Як йдеться у вироку, перший велосипед чоловік викрав 9 лютого 2024 року на вулиці Січових Стрільців, 16. Потерпілий залишив свій велосипед Merida біля металевої огорожі та відійшов у справах. У цей час обвинувачений помітив непристебнутий велосипед, […]",
       "categories": [
         "Суспільство",
+        "судова хроніка",
         "крадіжка",
-        "кримінал",
-        "судова хроніка"
+        "кримінал"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -14122,23 +14177,6 @@
       "published_raw": "Mon, 16 Nov 2026 18:03:52 +0200",
       "fetched_at": "2026-11-17T03:53:37+00:00",
       "description": "Семеро жителів Харківщини загинули через російські удари та підриви на вибухівці з 9 по 15 листопада. Ще понад 70 жителям знадобилася допомога медиків. Деталі, читайте",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "91d18eabe1ac9ace",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/kherson/1453799-stalo-vidomo-pro-zagibel-vijskovogo-z-hersonsini-dmitra-lapuski",
-      "title": "Стало відомо про загибель військового з Херсонщини Дмитра Лапушки",
-      "published_at": "2026-11-16T16:03:14+00:00",
-      "published_raw": "Mon, 16 Nov 2026 18:03:14 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Рідні військовослужбовця з Херсонщини Дмитра Лапушки отримали офіційне підтвердження його загибелі. Він поліг 8 листопада 2025 року, виконуючи бойове завдання поблизу Юнаківки Сумської області",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -14420,7 +14458,7 @@
       "fetched_at": "2026-11-16T09:42:16+00:00",
       "description": "Безоплатне харчування у школах Черкащини: скільки коштує, де бракує укриттів і що кажуть батьки, директори та посадовці",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15228,23 +15266,6 @@
       "status": "new"
     },
     {
-      "id": "96992ce353da7ef6",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/chernihiv/1453760-u-meni-ogolosili-den-zalobi-za-dvoma-colovikami-aki-zaginuli-14-listopada-pid-cas-ataki-rf-na-infrastrukturu",
-      "title": "У Мені оголосили День жалоби за двома чоловіками, які загинули 14 листопада під час атаки РФ на інфраструктуру",
-      "published_at": "2026-11-16T15:49:35+00:00",
-      "published_raw": "Mon, 16 Nov 2026 17:49:35 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "У Мені на Чернігівщині 17 листопада оголосили Днем жалоби за 42-річним Сергієм Ходченком та 45-річним Олександром Болвою. Чоловіки загинули внаслідок російської атаки на об'єкт критичної інфраструктури в місті 14 листопада",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "68d4d78e27998977",
       "source_id": "pravda",
       "source": "Українська правда",
@@ -15761,27 +15782,10 @@
       "categories": [
         "Суспільство",
         "Спорт",
+        "мініфутбол",
         "УКД",
-        "blago",
-        "мініфутбол"
+        "blago"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "8b0f296ebd28efed",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1453646-pole-rankova-ledi-pina-baus-i-lubov-do-ukrainskoi-kulturi-intervu-z-rajnerom-berom",
-      "title": "«Поле. Ранкова леді», Піна Бауш і любов до української культури: інтерв'ю з Райнером Бером",
-      "published_at": "2026-11-16T15:36:50+00:00",
-      "published_raw": "Mon, 16 Nov 2026 17:36:50 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Німецький хореограф Райнер Бер розповів про актуальність вистави «Поле», вплив Піни Бауш на сучасний танець, українську культуру та майбутні спільні проєкти з українськими митцями.",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -15967,23 +15971,6 @@
       "published_raw": "Mon, 16 Nov 2026 17:34:00 +0200",
       "fetched_at": "2026-11-16T20:28:49+00:00",
       "description": "Українська оборонна компанія BlueBird Tech провела переговори з представниками оборонної індустрії Норвегії та інших країн Північної Європи щодо використання українських технологій для захисту критичної інфраструктури від безпілотників. Зустрічі відбулися під час міжнародного заходу Open Arms Fest у норвезькому Осло.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "6a0a8352a7607ad8",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1453744-robert-pattinson-novij-dzejms-bond-aktora-oficijno-zatverdili-na-rol-agenta-007",
-      "title": "Роберт Паттінсон — новий Джеймс Бонд: актора офіційно затвердили на роль агента 007",
-      "published_at": "2026-11-16T15:33:54+00:00",
-      "published_raw": "Mon, 16 Nov 2026 17:33:54 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Роберт Паттінсон отримав роль нового Джеймса Бонда, Роберт Паттінсон зіграє агента 007 у новому фільмі «бондіани» режисера Дені Вільнева.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -17852,9 +17839,26 @@
       "description": "На війні загинув 56-річний захисник з Рогатинської громади Андрій Романків, пише КУРС з посиланням на Рогатинську міську раду. Андрій Романків народився 22 вересня 1970 року у селі Руч’ї АТ Крим. Згодом сім’я переїхала у село Лучинці на Рогатинщині. Тут Андрій закінчив місцеву середню школу. Пізніше отримав фах тракториста-машиніста та слюсаря-ремонтника у Рогатинському СПТУ №35. Одинадцять […]",
       "categories": [
         "Суспільство",
-        "війна",
-        "загиблі"
+        "загиблі",
+        "війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "60359bdb25a03ebb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453780-organizatori-evrobacenna-zasovuut-comu-v-malajzii-virizali-lgbtk-kadri-z-translacii-konkursu",
+      "title": "Організатори «Євробачення» з'ясовують, чому в Малайзії вирізали ЛГБТК+ кадри з трансляції конкурсу",
+      "published_at": "2026-11-16T14:58:41+00:00",
+      "published_raw": "Mon, 16 Nov 2026 16:58:41 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Європейська мовна спілка з'ясовує, чому малайзійський телеканал TV3 вирізав із трансляції «Євробачення Азія» кадри з дреґ-артистами та небінарним представником журі.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -18232,6 +18236,23 @@
       "status": "new"
     },
     {
+      "id": "dcbf7237060565a3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1453727-u-vinnici-zatrimali-dvoh-pracivnikiv-tck-akih-pidozruut-u-huliganstvi",
+      "title": "У Вінниці затримали двох працівників ТЦК, яких підозрюють у хуліганстві",
+      "published_at": "2026-11-16T14:48:46+00:00",
+      "published_raw": "Mon, 16 Nov 2026 16:48:46 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "У Вінниці після інциденту з автомобілем у Старому місті затримали 2 працівників ТЦК. Їм повідомили про підозру в хуліганстві. Поліція проситиме суд взяти підозрюваних під варту. Триває розслідування обставин події. Деталі далі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d38237de03a67538",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -18602,6 +18623,23 @@
         "Запорізька область",
         "АМК"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1c7b65d958814571",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1453726-sumsina-uvijsla-do-trijki-oblastej-iz-najbilsou-kilkistu-proektiv-aki-otrimaut-finansuvanna-dfrr",
+      "title": "Сумщина увійшла до трійки областей із найбільшою кількістю проєктів, які отримають фінансування ДФРР",
+      "published_at": "2026-11-16T14:42:26+00:00",
+      "published_raw": "Mon, 16 Nov 2026 16:42:26 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Сім проєктів із Сумщини відібрали для фінансування з Державного фонду регіонального розвитку у 2026 році. За кількістю підтриманих ініціатив область розділила третє місце з Львівщиною, Закарпаттям та Хмельниччиною, написали в ОВА.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19307,6 +19345,23 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "60540b51d09b39f5",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453778-bejonse-stala-persou-artistkou-v-istorii-aka-otrimala-100-nominacij-na-gremmi",
+      "title": "Бейонсе стала першою артисткою в історії, яка отримала 100 номінацій на «Греммі»",
+      "published_at": "2026-11-16T14:29:49+00:00",
+      "published_raw": "Mon, 16 Nov 2026 16:29:49 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Бейонсе стала першою артисткою зі 100 номінаціями на «Греммі». Ювілейну номінацію співачка отримала за пісню Morning Dew (Donk), що вийшла у липні 2026 року",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -20603,6 +20658,23 @@
       "published_raw": "Mon, 16 Nov 2026 16:08:00 +0200",
       "fetched_at": "2026-11-17T03:53:37+00:00",
       "description": "У селищі Лисянка Черкаської області сталася ДТП за участі двох автомобілів. Унаслідок аварії одна із пасажирок отримала травми і її госпіталізували",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0f25fa1ba8aa2b87",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1453768-rosiani-atakuvali-obekti-energeticnoi-infrastrukturi-v-korukivci",
+      "title": "Росіяни атакували об'єкти енергетичної інфраструктури в Корюківці",
+      "published_at": "2026-11-16T14:07:55+00:00",
+      "published_raw": "Mon, 16 Nov 2026 16:07:55 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Російські війська 16 листопада атакували об'єкти енергетичної інфраструктури в Корюківці на Чернігівщині. У місті можливі перебої зі зв'язком, зниження температури теплоносія та тиску води на верхніх поверхах",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -22014,6 +22086,23 @@
       "status": "new"
     },
     {
+      "id": "96992ce353da7ef6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernihiv/1453760-u-meni-ogolosili-den-zalobi-za-dvoma-colovikami-aki-zaginuli-14-listopada-pid-cas-ataki-rf-na-infrastrukturu",
+      "title": "У Мені оголосили День жалоби за двома чоловіками, які загинули 14 листопада під час атаки РФ на інфраструктуру",
+      "published_at": "2026-11-16T13:49:35+00:00",
+      "published_raw": "Mon, 16 Nov 2026 15:49:35 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "У Мені на Чернігівщині 17 листопада оголосили Днем жалоби за 42-річним Сергієм Ходченком та 45-річним Олександром Болвою. Чоловіки загинули внаслідок російської атаки на об'єкт критичної інфраструктури в місті 14 листопада",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "04b3349ab5f06b23",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -22853,6 +22942,23 @@
       "status": "new"
     },
     {
+      "id": "8b0f296ebd28efed",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453646-pole-rankova-ledi-pina-baus-i-lubov-do-ukrainskoi-kulturi-intervu-z-rajnerom-berom",
+      "title": "«Поле. Ранкова леді», Піна Бауш і любов до української культури: інтерв'ю з Райнером Бером",
+      "published_at": "2026-11-16T13:36:50+00:00",
+      "published_raw": "Mon, 16 Nov 2026 15:36:50 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Німецький хореограф Райнер Бер розповів про актуальність вистави «Поле», вплив Піни Бауш на сучасний танець, українську культуру та майбутні спільні проєкти з українськими митцями.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "fa1834a458105aaa",
       "source_id": "map-1116",
       "source": "Львівський портал",
@@ -23133,6 +23239,23 @@
       "categories": [
         "Економіка"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6a0a8352a7607ad8",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1453744-robert-pattinson-novij-dzejms-bond-aktora-oficijno-zatverdili-na-rol-agenta-007",
+      "title": "Роберт Паттінсон — новий Джеймс Бонд: актора офіційно затвердили на роль агента 007",
+      "published_at": "2026-11-16T13:33:54+00:00",
+      "published_raw": "Mon, 16 Nov 2026 15:33:54 +0200",
+      "fetched_at": "2026-11-17T03:53:37+00:00",
+      "description": "Роберт Паттінсон отримав роль нового Джеймса Бонда, Роберт Паттінсон зіграє агента 007 у новому фільмі «бондіани» режисера Дені Вільнева.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -26785,23 +26908,6 @@
       "status": "new"
     },
     {
-      "id": "dcbf7237060565a3",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/vinnytsia/1453727-u-vinnici-zatrimali-dvoh-pracivnikiv-tck-akih-pidozruut-u-huliganstvi",
-      "title": "У Вінниці затримали двох працівників ТЦК, яких підозрюють у хуліганстві",
-      "published_at": "2026-11-16T12:48:46+00:00",
-      "published_raw": "Mon, 16 Nov 2026 14:48:46 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "У Вінниці після інциденту з автомобілем у Старому місті затримали 2 працівників ТЦК. Їм повідомили про підозру в хуліганстві. Поліція проситиме суд взяти підозрюваних під варту. Триває розслідування обставин події. Деталі далі",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "c61c3d7cc7fde39f",
       "source_id": "map-1220",
       "source": "Перша електронна газета",
@@ -27271,23 +27377,6 @@
         "ai-input": "no",
         "ai-train": "no"
       },
-      "status": "new"
-    },
-    {
-      "id": "1c7b65d958814571",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1453726-sumsina-uvijsla-do-trijki-oblastej-iz-najbilsou-kilkistu-proektiv-aki-otrimaut-finansuvanna-dfrr",
-      "title": "Сумщина увійшла до трійки областей із найбільшою кількістю проєктів, які отримають фінансування ДФРР",
-      "published_at": "2026-11-16T12:42:26+00:00",
-      "published_raw": "Mon, 16 Nov 2026 14:42:26 +0200",
-      "fetched_at": "2026-11-17T03:53:37+00:00",
-      "description": "Сім проєктів із Сумщини відібрали для фінансування з Державного фонду регіонального розвитку у 2026 році. За кількістю підтриманих ініціатив область розділила третє місце з Львівщиною, Закарпаттям та Хмельниччиною, написали в ОВА.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
       "status": "new"
     },
     {
@@ -55342,6 +55431,12 @@
       "at": "2026-11-17T03:53:37+00:00",
       "fetched": 1750,
       "added": 281,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-17T06:44:23+00:00",
+      "fetched": 1553,
+      "added": 4,
       "errors": 3
     }
   ]
