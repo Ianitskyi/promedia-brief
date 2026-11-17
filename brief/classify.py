@@ -60,6 +60,10 @@ def excluded(item, exclude_cfg):
     for m in exclude_cfg["title_markers"]:
         if has_marker(title, m):
             return f"title marker: {m}"
+    # owner, 2026-11-17: who the occupiers appoint is not news for BRIEF
+    for pat in exclude_cfg.get("title_patterns", []):
+        if re.search(pat, title):
+            return f"title pattern: {pat}"
     for m in exclude_cfg["url_markers"]:
         if m in item.get("url", ""):
             return f"url marker: {m}"

@@ -28,7 +28,7 @@ from . import strikes, tts
 from .edition import EDITIONS, script_hash, script_text
 from .factcheck import extract_claims, _found
 from .review import load_approved
-from .speech import date_words, load_lexicon
+from .speech import date_words, date_words_gen, load_lexicon
 from .util import ROOT, config, iso, load_json, now_utc, write_json
 
 USAGE = ROOT / "data" / "tts-usage.json"
@@ -259,7 +259,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
         .format(date_words=words)
 
     def assemble(items, teaser):
-        intro_line = f"Це BRIEF. Головне за {words}" + (f": {teaser}." if teaser else ".")
+        intro_line = cfg.get("intro", "Це BRIEF. Головне за {date_words}").format(
+            date_words=words, date_words_gen=date_words_gen(date)) + (f": {teaser}." if teaser else ".")
         segs = [_segment("intro", "intro", "intro", [intro_line])]
         for n, r in enumerate(items, 1):
             segs.append(_segment(f"story-{n}", "story", "national", r["lines"], title=r["title"], sources=r["sources"]))

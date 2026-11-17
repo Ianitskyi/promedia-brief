@@ -68,6 +68,11 @@ SINGULAR_KILLED = re.compile(r"\b(загинув|загинула|загибли
 SINGULAR_INJURED = re.compile(r"\b(поранений|поранена|постраждав|постраждала|травмований|травмована|"
                               r"травмувався|травмувалася|дістав поранення|дістала поранення|отримав поранення|"
                               r"отримала поранення)\b", re.I)
+# Daily round-ups («головне за 16 листопада») mix several events in one line, so a figure in them can
+# land in the wrong region (17.11.2026: Komyshuvakha's 72 counted again for Crimea).
+ROUNDUP = re.compile(r"(головне за|підсумки дня|підсумок дня|що відомо на ранок|що сталося за|новини дня|дайджест)", re.I)
+# Not Russian strikes on Ukrainian-controlled territory: reports from occupied Crimea are about something else.
+NOT_COUNTED_REGIONS = {"crimea"}
 TOKEN = re.compile(r"[\w'’ʼ%-]+")
 
 LOCATIVE = {
@@ -151,6 +156,8 @@ def item_figures(text, published_at, date, gaz):
         return None, "опубліковано не за добу"
     if not (ATTACK.search(text) and RUSSIA.search(text)):
         return None, "не про російський удар"
+    if ROUNDUP.search(_norm(text)):
+        return None, "огляд кількох подій"
     for d, m in DATE_IN_TEXT.findall(_norm(text)):
         month = MONTHS.index(m.lower()) + 1
         if not any(x.month == month and x.day == int(d) for x in allowed):
@@ -159,6 +166,8 @@ def item_figures(text, published_at, date, gaz):
     if len(regions) != 1:
         return None, "регіон не визначено однозначно"
     region = next(iter(regions))
+    if region in NOT_COUNTED_REGIONS:
+        return None, "окупований Крим"
     found = {}
     for c in clauses(text):
         f = clause_figure(c)
@@ -212,6 +221,21 @@ def tally(stories, evidence, date):
         for kind, figures in kinds.items():
             chosen, values = pick(figures)
             best.setdefault(region, {})[kind] = {**chosen, "reported": values}
+    # The same number of people in two regions is far more likely one event counted twice than a
+    # coincidence; any doubt lowers the sum (17.11.2026). Small figures (1–2) do repeat by chance.
+    for kind in ("killed", "injured"):
+        seen_n = {}
+        for region in sorted(best):
+            f = best[region].get(kind)
+            if not f or f["n"] < 3:
+                continue
+            if f["n"] in seen_n:
+                log.append({"item_id": f["item_id"], "skipped": f"та сама цифра ({f['n']}) вже є в іншій області: "
+                                                                f"{seen_n[f['n']]}"})
+                del best[region][kind]
+            else:
+                seen_n[f["n"]] = region
+    best = {r: k for r, k in best.items() if k}
     killed = sum(r["killed"]["n"] for r in best.values() if "killed" in r)
     injured = sum(r["injured"]["n"] for r in best.values() if "injured" in r)
     return {"killed": killed, "injured": injured, "regions": best}, log
@@ -250,7 +274,7 @@ def lead_sentences(result):
     return out
 
 
-def build_digest(items, by_id, evidence, date, max_details=3):
+def build_digest(items, by_id, evidence, date, max_details=3, max_region_killed=None):
     """items: the edition's stories (dicts with ids, title, lines, sources, rank, retold), in order.
     Returns (items with the strike stories replaced by one digest, digest log or None)."""
     strike = [it for it in items if any(is_strike_story(by_id[i], evidence) for i in it["ids"] if i in by_id)]
@@ -258,6 +282,15 @@ def build_digest(items, by_id, evidence, date, max_details=3):
         return items, None
     segs = [by_id[i] for it in strike for i in it["ids"] if i in by_id]
     result, skipped = tally(segs, evidence, date)
+    # A very large figure in one region is usually a major attack — or a final toll of an earlier one
+    # (17.11.2026: Komyshuvakha's 72 after the search ended). Either way it is its own story, and the
+    # program does not put it into a sum «за добу»: the stories stay as they are.
+    limit = max_region_killed if max_region_killed is not None else \
+        config("editorial.json").get("daily", {}).get("strikes_max_region_killed", 20)
+    big = {r: k["killed"]["n"] for r, k in result["regions"].items() if "killed" in k and k["killed"]["n"] > limit}
+    if big:
+        return items, {"merged": False, "why": f"у області понад {limit} загиблих — окремий сюжет, без суми",
+                       "regions": big, "skipped": skipped}
     lead = lead_sentences(result)
     if not lead:
         return items, {"merged": False, "why": "немає перевіреної цифри", "skipped": skipped}

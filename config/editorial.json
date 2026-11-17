@@ -252,6 +252,11 @@
     ]
   },
   "exclude": {
+    "title_patterns": [
+      "(окупа\\w*|гауляйтер|колаборант)[^.]*(призначи|призначен|очолив|очолит|відставк)",
+      "(призначи|призначен|очолив|відставк)[^.]*(окупа\\w*|гауляйтер|колаборант|незаконн\\w* очільник)",
+      "нов\\w* (окупаційн|незаконн|самопроголошен)\\w* (очільник|голов|мер|гауляйтер|керівник)"
+    ],
     "title_markers": [
       "реклама",
       "партнерський матеріал",
@@ -536,6 +541,10 @@
     "reserve": 0.1,
     "min_stories": 2,
     "min_paid_characters": 600,
+    "intro": "Це BRIEF. Головне за добу станом на ранок {date_words_gen}",
+    "_cutoff_comment": "Owner, 2026-11-17: the edition is the news as of the morning — only items published before this Kyiv time on the edition day, whenever GitHub actually runs the job.",
+    "cutoff": "08:00",
+    "strikes_max_region_killed": 20,
     "outro": "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF."
   }
 }

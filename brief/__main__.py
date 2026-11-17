@@ -32,7 +32,14 @@ def cmd_draft(a):
     from . import edition
 
     date = a.date or kyiv_date(now_utc())
-    path, draft = edition.build_and_save(date)
+    now = None
+    if a.until:  # «станом на ранок»: only what was published before this Kyiv time (owner, 2026-11-17)
+        import datetime as dt
+        from zoneinfo import ZoneInfo
+        h, m = (int(x) for x in a.until.split(":"))
+        cutoff = dt.datetime.fromisoformat(date).replace(hour=h, minute=m, tzinfo=ZoneInfo("Europe/Kyiv"))
+        now = min(now_utc(), cutoff.astimezone(dt.timezone.utc))
+    path, draft = edition.build_and_save(date, now)
     s = draft["stats"]
     print(f"{path}\n{s['stories']} stories, {s['sentences']} sentences, "
           f"{s['needs_review']} need editor confirmation, {s['excluded']} excluded")
@@ -135,6 +142,7 @@ def main(argv=None):
 
     d = sub.add_parser("draft", help="build editions/<date>/draft.json")
     d.add_argument("--date")
+    d.add_argument("--until", help="Kyiv time HH:MM: only news published before it on the edition day")
     d.set_defaults(fn=cmd_draft)
 
     c = sub.add_parser("check", help="re-run fact checks on the (edited) draft")

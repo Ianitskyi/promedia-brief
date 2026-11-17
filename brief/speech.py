@@ -26,6 +26,15 @@ def date_words(iso_date):
     return f"{day} {MONTHS_GEN[m - 1]}"
 
 
+def date_words_gen(iso_date):
+    """'2026-11-17' -> 'сімнадцятого листопада' (after «станом на ранок»)."""
+    day, month = date_words(iso_date).rsplit(" ", 1)
+    words = day.split(" ")
+    last = words[-1]
+    words[-1] = last[:-1] + ("ього" if last.endswith("є") else "ого")
+    return f"{' '.join(words)} {month}"
+
+
 ONES = ["нуль", "один", "два", "три", "чотири", "п'ять", "шість", "сім", "вісім", "дев'ять", "десять",
         "одинадцять", "дванадцять", "тринадцять", "чотирнадцять", "п'ятнадцять", "шістнадцять", "сімнадцять",
         "вісімнадцять", "дев'ятнадцять"]

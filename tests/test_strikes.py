@@ -77,3 +77,36 @@ def test_lead_grammar():
     assert lead_sentences(r(3, 0)) == ["Унаслідок російських ударів за добу в Україні загинули щонайменше 3 людини."]
     assert lead_sentences(r(0, 21)) == ["Унаслідок російських ударів за добу в Україні поранено щонайменше 21 людину."]
     assert lead_sentences(r(0, 0)) == []
+
+
+def _items(stories):
+    return [{"ids": [s["id"]], "title": s["title"], "lines": [s["sentences"][0]["text"]],
+             "sources": s["sources"], "rank": n, "retold": False} for n, s in enumerate(stories)]
+
+
+def test_one_event_is_not_counted_in_two_regions():
+    """17.11.2026: a round-up line about Komyshuvakha and the Crimean bridge added the same 72 for Crimea."""
+    evidence = {
+        "a": "Удар РФ по школі у Комишувасі Запорізької області: 72 загинули.",
+        "b": "У Комишувасі через російську атаку загинули 72 людини, а окупанти заявили про удар по Кримському "
+             "мосту — головне за 15 листопада.",
+        "c": "Російські окупанти обстріляли Крим, троє загиблих.",
+        "d": "Росіяни атакували Харків, загинули 5 людей.",
+        "e": "Удар РФ по Павлограду на Дніпропетровщині: загинули 5 людей.",
+    }
+    stories = [seg("s1", "x", ["a"]), seg("s2", "y", ["b"]), seg("s3", "z", ["c"]), seg("s4", "w", ["d"]),
+               seg("s5", "v", ["e"])]
+    result, log = strikes.tally(stories, evidence, DATE)
+    assert "crimea" not in result["regions"]
+    assert result["killed"] == 72 + 5  # the second 5 is very likely the same people
+    reasons = " ".join(x["skipped"] for x in log)
+    assert "огляд" in reasons and "Крим" in reasons and "та сама цифра" in reasons
+
+
+def test_no_sum_when_one_region_has_a_very_large_figure():
+    """A big toll (often the final toll of an earlier attack) is its own story, never part of a sum «за добу»."""
+    evidence = {"a": "Удар РФ по Запоріжжю: 72 загинули.", "b": "Росіяни атакували Миколаїв, двоє загиблих."}
+    stories = [seg("s1", "x", ["a"]), seg("s2", "y", ["b"])]
+    items = _items(stories)
+    out, log = strikes.build_digest(items, {s["id"]: s for s in stories}, evidence, DATE, max_region_killed=20)
+    assert out == items and log["merged"] is False and log["regions"] == {"zaporizhzhia": 72}
