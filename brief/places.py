@@ -33,7 +33,8 @@ OBLAST = {"vinnytsia": "Вінницьк", "volyn": "Волинськ", "dniprop
 def settlements(text):
     """Settlement names in the nominative, as sources write them after «село», «селище», «місто»."""
     # a short word («Біла» of «Біла Церква») would mark too many other words; such names stay unchecked
-    return sorted({m.group(1) for m in SETTLEMENT.finditer(text or "") if len(m.group(1)) >= 5})
+    return sorted({m.group(1) for m in SETTLEMENT.finditer(text or "")
+                   if len(m.group(1)) >= 5 and not re.match(r"(?i)(місто|село|селище)$", m.group(1))})
 
 
 def _api(params, get=fetch):
@@ -47,7 +48,8 @@ def lookup(name, region, get=fetch):
     if not oblast:
         return None, "невідома область"
     try:
-        found = _api({"action": "query", "list": "search", "srsearch": f'"{name}" {oblast}', "srlimit": 8,
+        # search by title only: the oblast stem («Запорізьк») is not a word the search engine matches
+        found = _api({"action": "query", "list": "search", "srsearch": f'intitle:"{name}"', "srlimit": 20,
                       "srnamespace": 0}, get)
         titles = [h["title"] for h in found["query"]["search"] if h["title"].split(" (")[0] == name]
         if not titles:
