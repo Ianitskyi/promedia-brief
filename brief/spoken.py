@@ -252,6 +252,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
         log["left_out"] = [seg["id"] for seg in stories if seg["id"] not in used and seg["id"] not in rejected]
     retold.sort(key=lambda r: r["rank"])
     # Strike reports from different regions become one summary story (owner, 2026-11-15).
+    # Older figures in a first paragraph give way to the headline of the same story (owner, 17.11.2026).
+    log["freshened"] = strikes.freshen(retold)
     retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date)
 
     words = date_words(date)
