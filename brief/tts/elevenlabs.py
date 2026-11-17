@@ -34,6 +34,12 @@ class ElevenLabsProvider(Provider):
     spell_digits = True
 
     @property
+    def stress_marks(self):
+        """BRIEF_ELEVENLABS_STRESS=lexicon (daily): marks only where we know better than the voice —
+        config/stress.json and the place names checked in Wikipedia (data/place-stress.json)."""
+        return os.environ.get("BRIEF_ELEVENLABS_STRESS", "0") in ("1", "lexicon")
+
+    @property
     def auto_stress(self):
         """BRIEF_ELEVENLABS_STRESS=1: stress marks on every word from the Ukrainian stress dictionary."""
         return os.environ.get("BRIEF_ELEVENLABS_STRESS", "0") == "1"

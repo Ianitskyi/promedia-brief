@@ -101,6 +101,18 @@ SCHEMA = {
 }
 
 
+def system_prompt():
+    """The editor's rules plus the lessons learned from the owner's remarks (config/lessons.json)."""
+    try:
+        lessons = config("lessons.json").get("lessons", [])
+    except FileNotFoundError:
+        lessons = []
+    if not lessons:
+        return SYSTEM
+    lines = [f"- {l['editor']}" for l in lessons if l.get("editor")]
+    return SYSTEM + "\n\nУроки з попередніх випусків (зауваження головного редактора):\n" + "\n".join(lines)
+
+
 def settings():
     return config("editorial.json").get("daily", {})
 
@@ -198,7 +210,7 @@ def ask_claude(date, stories, evidence, budget, model):
         betas=["server-side-fallback-2026-07-01"],
         fallbacks="default",
         output_config={"effort": "medium", "format": {"type": "json_schema", "schema": SCHEMA}},
-        system=SYSTEM,
+        system=system_prompt(),
         messages=[{"role": "user", "content": request_text(date, stories, evidence, budget)}],
     )
     if response.stop_reason == "refusal":
@@ -241,7 +253,7 @@ def build(date, use_llm=True, budget=None, provider_name=None):
         answer = None
         log["llm_error"] = "no ANTHROPIC_API_KEY" if use_llm else "disabled"
 
-    used = set()
+    used, editor_place = set(), {}
     teaser = None
     if answer:
         for st in answer["stories"]:
@@ -255,6 +267,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
             problems = check_text(st["text"], ev, merged=len(ids) > 1)
             if problems:
                 log["rejected"].append({"story_ids": ids, "text": st["text"], "problems": problems})
+                for i in ids:  # read verbatim, but where the editor put it (17.11.2026: Kyiv bridges ended up last)
+                    editor_place[i] = len(retold) - 0.5
                 continue
             used.update(ids)
             sources = [src for i in ids for src in by_id[i]["sources"]]
@@ -273,7 +287,8 @@ def build(date, use_llm=True, budget=None, provider_name=None):
             log.setdefault("dropped_relative_time", []).append(seg["id"])
             continue
         retold.append({"ids": [seg["id"]], "title": seg.get("title"), "lines": lines,
-                       "sources": seg["sources"], "rank": (100 if answer else 0) + stories.index(seg), "retold": False})
+                       "sources": seg["sources"], "retold": False,
+                       "rank": editor_place.get(seg["id"], (100 if answer else 0) + stories.index(seg))})
         if answer:
             log["fallback"].append(seg["id"])
     if answer:

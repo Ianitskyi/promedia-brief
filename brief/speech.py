@@ -307,9 +307,13 @@ def load_lexicon():
 
 def load_stress():
     try:
-        return config("stress.json")["entries"]
+        entries = config("stress.json")["entries"]
     except FileNotFoundError:
-        return []
+        entries = []
+    from .places import stress_entries  # village and town names checked in Wikipedia (17.11.2026)
+
+    curated = {e["word"] for e in entries}
+    return entries + [e for e in stress_entries() if e["word"] not in curated]
 
 
 STRESS = "\u0301"  # combining acute accent, placed after the stressed vowel

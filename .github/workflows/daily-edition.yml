@@ -65,6 +65,10 @@ jobs:
         run: |
           set -o pipefail
           python -m brief spoken --date "${{ steps.cfg.outputs.date }}" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Stress of village and town names (Ukrainian Wikipedia)
+        if: steps.cfg.outputs.skip != '1'
+        continue-on-error: true  # without it the voice reads as before
+        run: python -m brief places --date "${{ steps.cfg.outputs.date }}" | tee -a "$GITHUB_STEP_SUMMARY"
       - name: Paid voice within today's budget?
         id: paid
         if: steps.cfg.outputs.skip != '1'
@@ -93,7 +97,7 @@ jobs:
           BRIEF_ALLOW_PAID_TTS: "1"
           BRIEF_MAX_TTS_USD: ${{ vars.BRIEF_MAX_TTS_USD || '0.50' }}
           BRIEF_ELEVENLABS_MODEL: ${{ steps.cfg.outputs.tts_model }}
-          BRIEF_ELEVENLABS_STRESS: "0"
+          BRIEF_ELEVENLABS_STRESS: "lexicon"  # config/stress.json + checked place names (17.11.2026)
           BRIEF_ALTERNATE_VOICES: "1"
           BRIEF_SERVICE_TEMPO: ${{ steps.cfg.outputs.service_tempo }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}

@@ -70,7 +70,16 @@ def _found(claim, evidence_text):
     if t == "number":
         return v in numbers(evidence_text)
     if t == "quote":
-        return _norm_space(v) in _norm_space(evidence_text)
+        if _norm_space(v) in _norm_space(evidence_text):
+            return True
+        # a short name in quotation marks, inflected by the sentence («між «Осокорками» і «Червоним хутором»»,
+        # the source has «Осокорки» – «Червоний хутір»): every word must be in the source up to its ending
+        # (17.11.2026: the Kyiv bridges story was rejected for this). Real quotes are longer and stay exact.
+        words = WORD.findall(v)
+        if 0 < len(words) <= 3:
+            src = [norm_word(w) for w in WORD.findall(evidence_text)]
+            return all(any(x.startswith(norm_word(w)[: max(3, len(w) - 4)]) for x in src) for w in words)
+        return False
     if t == "name":
         target = stem(v)
         ev = {stem(w) for w in WORD.findall(evidence_text)}
