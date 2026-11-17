@@ -32,7 +32,8 @@ OBLAST = {"vinnytsia": "Вінницьк", "volyn": "Волинськ", "dniprop
 
 def settlements(text):
     """Settlement names in the nominative, as sources write them after «село», «селище», «місто»."""
-    return sorted({m.group(1) for m in SETTLEMENT.finditer(text or "")})
+    # a short word («Біла» of «Біла Церква») would mark too many other words; such names stay unchecked
+    return sorted({m.group(1) for m in SETTLEMENT.finditer(text or "") if len(m.group(1)) >= 5})
 
 
 def _api(params, get=fetch):
