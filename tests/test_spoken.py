@@ -50,7 +50,7 @@ def test_checked_retelling_is_used_and_invented_facts_fall_back(root, monkeypatc
     left = [seg["id"] for seg in _stories(root)[2:]]
     assert s["log"]["left_out"] == left and len(stories) == 2  # what Claude left out stays out
     assert s["segments"][0]["sentences"][0]["text"] == \
-        "Це BRIEF. Головне за двадцяте жовтня: компенсації за зруйноване житло."
+        "Це BRIEF. Головне за добу станом на ранок двадцятого жовтня: компенсації за зруйноване житло."
     assert "сайті BRIEF" in s["segments"][-1]["sentences"][0]["text"]
     assert review.load_script(DATE, "spoken")["script_sha256"] == s["script_sha256"]
 
@@ -77,7 +77,7 @@ def test_teaser_with_numbers_or_unknown_names_is_dropped(root, monkeypatch):
     monkeypatch.setattr(spoken, "ask_claude", _claude({"teaser": "2,5 млрд на житло", "stories": [
         {"story_ids": [nat["id"]], "title": "Компенсації", "text": "Уряд виділив 2,5 млрд гривень на компенсації."}]}))
     s = spoken.build(DATE, budget=5000)
-    assert s["segments"][0]["sentences"][0]["text"] == "Це BRIEF. Головне за двадцяте жовтня."
+    assert s["segments"][0]["sentences"][0]["text"] == "Це BRIEF. Головне за добу станом на ранок двадцятого жовтня."
     assert not spoken.check_teaser("рішення Нацбанку", {"a": "Уряд виділив гроші."})
 
 
@@ -154,3 +154,11 @@ def test_daily_edition_replaces_the_one_player(root, cli, monkeypatch):
     assert all((root / x["audio"]).is_file() and x["duration_sec"] > 0 for x in d["segments"])
     assert stories[0]["topics"] and "regions" in stories[0]  # the site orders stories by these
     assert (root / "demo" / "2026-10-29-demo-elevenlabs.json").exists()  # hand-made demos stay
+
+
+def test_intro_date_in_genitive():
+    from brief.speech import date_words_gen
+    assert date_words_gen("2026-11-17") == "сімнадцятого листопада"
+    assert date_words_gen("2026-11-23") == "двадцять третього листопада"
+    assert date_words_gen("2026-11-03") == "третього листопада"
+    assert date_words_gen("2026-11-30") == "тридцятого листопада"
