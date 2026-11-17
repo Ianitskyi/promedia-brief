@@ -1,8 +1,8 @@
 {
   "date": "2026-11-17",
   "kind": "spoken",
-  "made_at": "2026-11-17T06:47:56+00:00",
-  "approved_sha256": "362a7ba9727c8721e5ab28a1ac2781d259bdc3d2fd5ccc2c371295ac75bb2b2f",
+  "made_at": "2026-11-17T09:33:50+00:00",
+  "approved_sha256": "d304ba38dd314cb81d70a2b718bc7c6b766fafe55a27961da3876be4a223c75e",
   "approved_by": "BRIEF auto (без редактора)",
   "segments": [
     {
@@ -15,7 +15,7 @@
         {
           "id": "intro-s1",
           "kind": "intro",
-          "text": "Це BRIEF. Головне за сімнадцяте листопада: наслідки російських обстрілів, завершення пошукових робіт у Комишувасі та нове окупаційне призначення в Новій Каховці."
+          "text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада."
         }
       ],
       "sources": []
@@ -24,178 +24,109 @@
       "id": "story-1",
       "kind": "story",
       "block": "national",
-      "title": "Нова Каховка",
+      "title": "Удар по Херсонщині",
       "include": true,
       "sentences": [
         {
           "id": "story-1-s1",
           "kind": "story",
-          "text": "Окупаційний губернатор Херсонщини Володимир Сальдо призначив Артура Таланова тимчасовим очільником окупаційної адміністрації Нової Каховки."
+          "text": "На Херсонщині поблизу села Садове російський дрон атакував чоловіка на мопеді, він загинув."
         },
         {
           "id": "story-1-s2",
           "kind": "story",
-          "text": "Він замінив Володимира Оганєсова, який подав у відставку."
+          "text": "Про це повідомив начальник Херсонської ОВА Олександр Прокудін."
         },
         {
           "id": "story-1-s3",
           "kind": "story",
-          "text": "За даними ЗМІ, Таланов був одним із перших покупців отрути «Новачок», а у 1997 році естонський суд засудив його за розбій."
+          "text": "За даними Херсонської МВА, загиблий працював на одному з комунальних підприємств міста."
         }
       ],
       "sources": [
         {
-          "item_id": "6833fcfacde1040a",
+          "item_id": "0c05df3b7a700db4",
           "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/okupanti-priznachili-rosijskogo-vijskovogo-keruvati-novoju-kahovkoju",
-          "title": "Окупанти призначили російського військового керувати Новою Каховкою",
-          "published_at": "2026-11-16T08:51:13+00:00"
+          "url": "https://most.ks.ua/news/url/rosijani-z-dronu-atakuvali-moped-na-hersonschini-zaginuv-cholovik",
+          "title": "Росіяни з дрону атакували мопед на Херсонщині, загинув чоловік",
+          "published_at": "2026-11-16T09:17:53+00:00"
         },
         {
-          "item_id": "75ebe5298241dde3",
-          "name": "IPC-Південь",
-          "url": "https://ipc.org.ua/uk/2026/11/pokupecz-otruty-novachok-i-zasudzhenyj-za-rozbij-v-estoniyi-oficzera-rf-artura-talanova-pryznachyly-novym-gaulyajterom-novoyi-kahovky",
-          "title": "Покупець отрути «Новачок» і засуджений за розбій в Естонії: офіцера РФ Артура Таланова призначили новим гауляйтером Нової Каховки",
-          "published_at": "2026-11-16T10:28:56+00:00"
+          "item_id": "a73244fff30dfc31",
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/na-hersonshhyni-dron-atakuvav-cholovika-na-mopedi-vin-zagynuv",
+          "title": "На Херсонщині дрон атакував чоловіка на мопеді: він загинув",
+          "published_at": "2026-11-16T09:25:36+00:00"
         },
         {
-          "item_id": "501943bb06d6b1d6",
+          "item_id": "31450a9e58aa514c",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1453514-u-sadovomu-poblizu-hersona-rosijskij-dron-atakuvav-moped-zaginuv-colovik",
+          "title": "У Садовому поблизу Херсона російський дрон атакував мопед: загинув чоловік",
+          "published_at": "2026-11-16T09:32:01+00:00"
+        },
+        {
+          "item_id": "fc45d677fe1418d3",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237028.html",
+          "title": "Російський дрон атакував чоловіка на мопеді поблизу Садового на Херсонщині, він загинув",
+          "published_at": "2026-11-16T09:40:16+00:00"
+        },
+        {
+          "item_id": "db271e15aa114883",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/16/rosiyskyy-dron-atakuvav-na-khersonshchyni-cholovika-na-mopedi-vin-zahynuv",
+          "title": "Російський дрон атакував на Херсонщині чоловіка на мопеді — він загинув",
+          "published_at": "2026-11-16T09:52:03+00:00"
+        },
+        {
+          "item_id": "4e22cfa0a58fb51c",
           "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/novij-okupatsijnij-ochilnik-novoji-kahovki-jmovirno-figuruvav-u-spravi-pro-novichok",
-          "title": "Новий окупаційний очільник Нової Каховки, ймовірно, фігурував у справі про “Новичок”",
-          "published_at": "2026-11-16T11:23:32+00:00"
+          "url": "https://most.ks.ua/news/url/unaslidok-udaru-rosijskogo-drona-poblizu-sadovogo-zaginuv-komunalnik-z-hersona",
+          "title": "Унаслідок удару російського дрона поблизу Садового загинув комунальник з Херсона",
+          "published_at": "2026-11-16T16:21:36+00:00"
         },
         {
-          "item_id": "88c1648922dc5e17",
+          "item_id": "c92fce591bf29044",
           "name": "Вгору",
-          "url": "https://vgoru.org/novini/priznacili-novogo-nezakonnogo-ocilnika-okupovanoyi-novoyi-kaxovki-na-xersonshhini",
-          "title": "Призначили нового незаконного очільника окупованої Нової Каховки на Херсонщині",
-          "published_at": "2026-11-16T12:13:07+00:00"
+          "url": "https://vgoru.org/novini/vnaslidok-ataki-drona-rosiiskix-viisk-na-xersonshhini-zaginuv-komunalnik",
+          "title": "Внаслідок атаки дрона російських військ на Херсонщині загинув комунальник",
+          "published_at": "2026-11-16T16:37:38+00:00"
         },
         {
-          "item_id": "543e85323baf4acd",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185209-gaulajterom-novoi-kahovki-priznacili-oficera-rf-akij-buv-odnim-iz-persih-pokupciv-novicka-zmi.html",
-          "title": "Гауляйтером Нової Каховки призначили офіцера РФ, який був одним із перших покупців «Новічка» - ЗМІ",
-          "published_at": "2026-11-17T04:15:00+00:00"
+          "item_id": "7dc6729b6d904f37",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1453872-dronovi-ataki-hersona-ta-sadovogo-evakuacia-ditej-z-tot-1728-den-vijni-golovni-podii-u-hersonskij-oblasti",
+          "title": "Дронові атаки Херсона та Садового, евакуація дітей з ТОТ. 1728 день війни: головні події у Херсонській області",
+          "published_at": "2026-11-17T03:17:57+00:00"
+        },
+        {
+          "item_id": "e1ed2cd6880e0eec",
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/u-hersonskij-gromadi-cherez-rosijski-udari-zaginula-ljudina-dvoje-poraneni",
+          "title": "У Херсонській громаді через російські удари загинула людина, двоє поранені",
+          "published_at": "2026-11-17T05:06:23+00:00"
         }
       ],
       "retold": true,
       "from_stories": [
-        "national-c-501943bb06d6b1d6"
+        "national-c-0c05df3b7a700db4"
       ]
     },
     {
       "id": "story-2",
       "kind": "story",
       "block": "national",
-      "title": "Наслідки російських ударів",
+      "title": "Удар РФ по школі у Комишувасі, де роздавали гумдопомогу: 72 загинули, 4 зникли безвісти, 5 поранені",
       "include": true,
       "sentences": [
         {
           "id": "story-2-s1",
           "kind": "story",
-          "text": "Унаслідок російських ударів за добу в Україні загинули щонайменше 148 людей, ще щонайменше 18 людей поранено."
-        },
-        {
-          "id": "story-2-s2",
-          "kind": "story",
-          "text": "Найбільше постраждалих на Запоріжжі та у Криму."
-        },
-        {
-          "id": "story-2-s3",
-          "kind": "story",
-          "text": "Двоє чоловіків загинули внаслідок російської атаки на Миколаїв 16 листопада."
-        },
-        {
-          "id": "story-2-s4",
-          "kind": "story",
-          "text": "У Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада."
-        },
-        {
-          "id": "story-2-s5",
-          "kind": "story",
-          "text": "Троє людей загинули внаслідок російської атаки на два підприємства Чернігова 16 листопада."
+          "text": "Російські війська ударили керованими авіабомбами (КАБами) по селищу Комишуваха Запорізької області, поціливши у школу, де роздавали гуманітарну допомогу: наразі відомо про 31 загиблого і 5 поранених."
         }
       ],
       "sources": [
-        {
-          "item_id": "54a72b9ddb09b491",
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei",
-          "title": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА",
-          "published_at": "2026-11-16T12:09:00+00:00"
-        },
-        {
-          "item_id": "bb4673ca7b893e0a",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html",
-          "title": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені",
-          "published_at": "2026-11-16T12:25:28+00:00"
-        },
-        {
-          "item_id": "5138d889a6dca03f",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html",
-          "title": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені",
-          "published_at": "2026-11-16T12:56:00+00:00"
-        },
-        {
-          "item_id": "1f13f402fec0374c",
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni",
-          "title": "У Миколаєві від атаки російських \"Бандеролей\" загинув чоловік, ще двоє поранені",
-          "published_at": "2026-11-16T13:02:31+00:00"
-        },
-        {
-          "item_id": "06c74bdb54a9aa4e",
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni",
-          "title": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені",
-          "published_at": "2026-11-16T13:11:34+00:00"
-        },
-        {
-          "item_id": "92e6a56930b28362",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni",
-          "title": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені",
-          "published_at": "2026-11-16T13:52:23+00:00"
-        },
-        {
-          "item_id": "dbaa42a948ac60ed",
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh",
-          "title": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох",
-          "published_at": "2026-11-17T05:55:00+00:00"
-        },
-        {
-          "item_id": "ab58719e55e09bf5",
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/mykolaiv/1453879-u-mikolaevi-zrosla-kilkist-zagiblih-vnaslidok-rosijskih-atak-rf-atakuvala-porti-i-promislovist",
-          "title": "У Миколаєві зросла кількість загиблих внаслідок російських атак: РФ атакувала порти і промисловість",
-          "published_at": "2026-11-17T06:08:56+00:00"
-        },
-        {
-          "item_id": "b30f9015e7adf48e",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781622_vchora_rosiyani_vbili_dvoh.html",
-          "title": "Вчора росіяни вбили двох мешканців Миколаєва. Ще троє людей поранені",
-          "published_at": "2026-11-17T06:22:00+00:00"
-        },
-        {
-          "item_id": "e5c95d93ac808ed1",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-mykolaiv-ataka/33900110.html",
-          "title": "ОВА: війська РФ атакували обʼєкти портової і промислової інфраструктури в Миколаєві, загинули двоє чоловіків",
-          "published_at": "2026-11-17T06:26:56+00:00"
-        },
-        {
-          "item_id": "5c313f23a666a077",
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada",
-          "title": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
-          "published_at": "2026-11-16T18:27:01+00:00"
-        },
         {
           "item_id": "c0f719d10abbf009",
           "name": "Укрінформ",
@@ -309,6 +240,13 @@
           "published_at": "2026-11-16T19:19:31+00:00"
         },
         {
+          "item_id": "7697a70943983989",
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-u-komishuvasi-kilkist-zagiblikh-cherez-udar-rf-2-listopada-zrosla-do-55",
+          "title": "У Комишувасі завершили пошукові роботи: внаслідок ворожого удару загинули 72 людини",
+          "published_at": "2026-11-16T19:20:00+00:00"
+        },
+        {
           "item_id": "a810dbe99d85814f",
           "name": "Курс",
           "url": "https://kurs.if.ua/tragediya-u-komyshuvasi-vnaslidok-udaru-rf-zagynuly-72-lyudyny",
@@ -323,110 +261,118 @@
           "published_at": "2026-11-16T19:29:57+00:00"
         },
         {
+          "item_id": "5c313f23a666a077",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada",
+          "title": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+          "published_at": "2026-11-16T20:27:01+00:00"
+        },
+        {
           "item_id": "c41845152e421cb7",
           "name": "ПІК",
           "url": "https://pik.net.ua/2026/11/17/zagynuly-72-lyudyny-u-komyshuvasi-zavershyly-poshukovo-ryatuvalni-roboty",
           "title": "Загинули 72 людини: у Комишувасі завершили пошуково-рятувальні роботи",
           "published_at": "2026-11-17T05:22:00+00:00"
+        }
+      ],
+      "retold": false,
+      "from_stories": [
+        "national-c-15072d061d59631a"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Дніпропетровщина",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Російські війська 16 листопада понад 60 разів атакували шість районів Дніпропетровщини безпілотниками та артилерією."
         },
         {
-          "item_id": "5a5ed59b1acc7077",
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/16/8063084",
-          "title": "Росіяни атакували підприємства у Чернігові: 2 загиблих",
-          "published_at": "2026-11-16T11:19:00+00:00"
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Загинули двоє людей, ще 19 поранені, серед них дитина."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "059be1abe122f636",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/dvoye-zagyblyh-i-19-poranenyh-rosijski-vijska-atakuvaly-shist-rajoniv",
+          "title": "Двоє загиблих і 19 поранених: російські війська атакували шість районів",
+          "published_at": "2026-11-16T16:32:05+00:00"
         },
         {
-          "item_id": "3b5bf9d088726ae3",
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly",
-          "title": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини",
-          "published_at": "2026-11-16T11:31:41+00:00"
+          "item_id": "4fecf95b1f4c7a85",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781530_rosiya_atakuvala.html",
+          "title": "Росія атакувала Дніпропетровщину понад 60 разів: є жертви та поранені",
+          "published_at": "2026-11-16T16:37:00+00:00"
         },
         {
-          "item_id": "ca1df21999958824",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/rosiyany-atakuvaly-dva-pidpryyemstva-chernihovi-ye-zahybli-ta-postrazhdali",
-          "title": "Росіяни атакували два підприємства у Чернігові, є загиблі та постраждалі",
-          "published_at": "2026-11-16T11:34:23+00:00"
-        },
-        {
-          "item_id": "2d86aace1578d81e",
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237120.html",
-          "title": "Окупанти завдали ударів по підприємствах у Чернігові, відомо про двох загиблих",
-          "published_at": "2026-11-16T11:34:30+00:00"
-        },
-        {
-          "item_id": "cffdaf298ec9aa83",
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/11/16/rosiiany-atakuvaly-pidpryiemstva-v-chernihovi-dvoie-zahyblykh",
-          "title": "Росіяни атакували підприємства в Чернігові, двоє загиблих",
-          "published_at": "2026-11-16T12:17:58+00:00"
-        },
-        {
-          "item_id": "e9429a445f31f533",
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/11/16/v-chernigovi-balakliyi-ta-dnipri",
-          "title": "Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування",
-          "published_at": "2026-11-16T12:23:54+00:00"
-        },
-        {
-          "item_id": "ce5d0089e124d688",
-          "name": "Курс",
-          "url": "https://kurs.if.ua/rf-atakuvala-pidpryyemstva-u-chernigovi-ye-zagybli-ta-postrazhdali",
-          "title": "рф атакувала підприємства у Чернігові – є загиблі та постраждалі",
-          "published_at": "2026-11-16T12:49:02+00:00"
-        },
-        {
-          "item_id": "ade882d0e369553e",
-          "name": "NV",
-          "url": "https://nv.ua/ukr/ukraine/events/chernigiv-atakuvali-banderoli-ta-droni-ye-zagibli-ta-poraneni-novini-chernigova-50659576.html",
-          "title": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини",
-          "published_at": "2026-11-16T12:52:00+00:00"
-        },
-        {
-          "item_id": "b6d75a9e69ce4950",
-          "name": "Час Чернігівський",
-          "url": "https://cntime.cn.ua/rosijski-vijska-atakuvali-dva-privatni-pidpriyemstva-u-chernigovi-sho-vidomo-article",
-          "title": "Російські війська атакували два приватні підприємства у Чернігові: що відомо",
-          "published_at": "2026-11-16T20:28:02+00:00"
-        },
-        {
-          "item_id": "67a7c32f37df5fb5",
+          "item_id": "1f765b66e45432f0",
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/chernihiv/1453890-kilkist-zagiblih-unaslidok-ataki-rf-po-pidpriemstvah-cernigova-16-listopada-zbilsilas-do-troh-ludej",
-          "title": "Кількість загиблих унаслідок атаки РФ по підприємствах Чернігова 16 листопада збільшилась до трьох людей",
-          "published_at": "2026-11-17T06:38:49+00:00"
+          "url": "https://suspilne.media/dnipro/1453784-vijska-rf-ponad-60-raziv-atakuvali-sist-rajoni-v-dnipropetrovsini-e-zagibli-ponad-20-poranenih",
+          "title": "Війська РФ понад 60 разів атакували шість районів Дніпропетровщини: є загиблі, понад 20 — поранених",
+          "published_at": "2026-11-16T16:47:09+00:00"
         },
         {
-          "item_id": "69e94402e724989d",
-          "name": "hromadske",
-          "url": "https://hromadske.ua/suspilstvo/274492-u-komyshuvasi-cherez-rosiyskyy-udar-zahynuly-72-liudyny-a-okupanty-zaiavyly-pro-udar-po-krymskomu-mostu-holovne-za-16-lystopada",
-          "title": "У Комишувасі через російську атаку загинули 72 людини, а окупанти заявили про удар по Кримському мосту — головне за 16 листопада",
-          "published_at": "2026-11-16T20:16:00+00:00"
+          "item_id": "02ff0c78dd8478a2",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116968-na-dnipropetrovshhini-vnaslidok-rosiiskix-atak-zaginuli-dvoje-liudei-shhe-19-poraneni",
+          "title": "Росія понад 60 разів атакувала Дніпропетровщину",
+          "published_at": "2026-11-16T18:37:00+00:00"
         },
         {
-          "item_id": "5da600a4a2d6981a",
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/17/8063184",
-          "title": "Окупанти заявили про повторний удар по Кримському мосту",
-          "published_at": "2026-11-16T22:44:00+00:00"
+          "item_id": "cbfc84ddf291d70d",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/majzhe-20-atak-na-dnipropetrovshhynu-rosiyany-byly-po-shesty-rajonah",
+          "title": "Майже 20 атак на Дніпропетровщину: росіяни били по шести районах",
+          "published_at": "2026-11-17T05:32:40+00:00"
         },
         {
-          "item_id": "a87672184df13235",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/17/novyna/bezpeka/okupanty-vdruhe-dobu-zayavyly-pro-urazhennya-krymskoho-mostu",
-          "title": "Окупанти вдруге за добу заявили про ураження Кримського мосту",
-          "published_at": "2026-11-16T23:42:20+00:00"
+          "item_id": "5481690dd6fef909",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1453878-bili-bezpilotniami-ta-raketami-vijska-rf-majze-20-raziv-atakuvali-dnipro-ta-oblast-protagom-noci",
+          "title": "Били безпілотниками та ракетами: війська РФ майже 20 разів атакували Дніпро та область протягом ночі",
+          "published_at": "2026-11-17T05:47:20+00:00"
         },
         {
-          "item_id": "5bbd4caff2f1362d",
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/pislia-povtornoyi-ataki-na-krimskii-mist-obvalilisia-arka-ta-prolit-avtomobilnoyi-chastini",
-          "title": "Після повторної атаки на Кримський міст обвалилися арка та проліт автомобільної частини",
-          "published_at": "2026-11-17T05:55:21+00:00"
+          "item_id": "4a015aa314fd31e2",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185388-zagarbniki-z-vecora-majze-20-raziv-atakuvali-dnipro-ta-oblast-e-poskodzenna.html",
+          "title": "Загарбники з вечора майже 20 разів атакували Дніпро та область, є пошкодження",
+          "published_at": "2026-11-17T05:57:35+00:00"
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-02ff0c78dd8478a2"
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по Смілі",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-4-s1",
+          "kind": "story",
+          "text": "У ніч на 17 листопада російські війська атакували балістикою Смілу на Черкащині."
         },
+        {
+          "id": "story-4-s2",
+          "kind": "story",
+          "text": "За словами начальника Черкаської ОВА Ігоря Табурця, внаслідок двох хвиль обстрілу травмовано шестеро людей."
+        }
+      ],
+      "sources": [
         {
           "item_id": "5de4f688558a8f81",
           "name": "Суспільне Новини",
@@ -440,13 +386,6 @@
           "url": "https://18000.com.ua/strichka-novin/rosiya-vdarila-balistikoyu-po-smili-troye-lyudej-travmovani",
           "title": "росія вдарила балістикою по Смілі: троє людей травмовані",
           "published_at": "2026-11-16T22:38:57+00:00"
-        },
-        {
-          "item_id": "a2f651646fb4301f",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781604_rf_vdarila_balistikoyu_smili.html",
-          "title": "РФ вдарила балістикою по Смілі на Черкащині: є постраждалі",
-          "published_at": "2026-11-16T22:46:00+00:00"
         },
         {
           "item_id": "4aa6efd2e24c3ba9",
@@ -473,305 +412,87 @@
           "item_id": "ba5d46772c442680",
           "name": "ЗMI.ck.ua",
           "url": "https://zmi.ck.ua/sotsium/sered-noch-rf-vdarila-po-sml-balstikoyu.html",
-          "title": "Серед ночі рф вдарила по Смілі балістикою",
+          "title": "Вісім ракет: рф вдарила по Смілі балістикою",
           "published_at": "2026-11-17T06:00:00+00:00"
-        },
-        {
-          "item_id": "5b6e6b7f08568762",
-          "name": "ЗMI.ck.ua",
-          "url": "https://zmi.ck.ua/sotsium/tyajka-doba-dlya-cherkaschini-u-ova-povdomili-nasldki-vorojo-ataki-balstikoyu.html",
-          "title": "\"Тяжка доба для Черкащини\": у ОВА повідомили наслідки ворожої атаки балістикою",
-          "published_at": "2026-11-17T06:19:00+00:00"
-        },
-        {
-          "item_id": "35fd795eac8d7069",
-          "name": "18000",
-          "url": "https://18000.com.ua/strichka-novin/visim-raket-po-smili-naslidki-povitryanix-atak-na-cherkashhini",
-          "title": "Вісім ракет по Смілі: наслідки тривоги на Черкащині",
-          "published_at": "2026-11-17T06:20:01+00:00"
         }
       ],
       "retold": true,
       "from_stories": [
-        "national-c-06c74bdb54a9aa4e",
-        "national-c-15072d061d59631a",
-        "national-c-2d86aace1578d81e",
-        "national-c-5bbd4caff2f1362d",
-        "national-c-35fd795eac8d7069"
-      ],
-      "digest": {
-        "killed": 148,
-        "injured": 18,
-        "regions": {
-          "mykolaiv": {
-            "killed": {
-              "n": 2,
-              "clause": "підприємство в Миколаєві кількість загиблих зросла до двох",
-              "item_id": "dbaa42a948ac60ed",
-              "source": "МикВісті",
-              "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh",
-              "reported": [
-                1,
-                2
-              ]
-            },
-            "injured": {
-              "n": 3,
-              "clause": "Також відомо про трьох поранених",
-              "item_id": "dbaa42a948ac60ed",
-              "source": "МикВісті",
-              "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh",
-              "reported": [
-                2,
-                3
-              ]
-            }
-          },
-          "zaporizhzhia": {
-            "killed": {
-              "n": 72,
-              "clause": "72 загинули",
-              "item_id": "4dc86de6825ee007",
-              "source": "Суспільне Новини",
-              "url": "https://suspilne.media/zaporizhzhia/1443285-rosiani-udarili-kabami-po-skoli-u-komisuvasi-de-rozdavali-gumanitarnu-dopomogu-18-zaginuli-sonajmense-5-poraneni",
-              "reported": [
-                72
-              ]
-            },
-            "injured": {
-              "n": 5,
-              "clause": "5 поранені",
-              "item_id": "4dc86de6825ee007",
-              "source": "Суспільне Новини",
-              "url": "https://suspilne.media/zaporizhzhia/1443285-rosiani-udarili-kabami-po-skoli-u-komisuvasi-de-rozdavali-gumanitarnu-dopomogu-18-zaginuli-sonajmense-5-poraneni",
-              "reported": [
-                5
-              ]
-            }
-          },
-          "chernihiv": {
-            "killed": {
-              "n": 2,
-              "clause": "2 загиблих",
-              "item_id": "5a5ed59b1acc7077",
-              "source": "Українська правда",
-              "url": "https://pravda.com.ua/news/2026/11/16/8063084",
-              "reported": [
-                2,
-                3
-              ]
-            },
-            "injured": {
-              "n": 4,
-              "clause": "Ще чотири людини постраждали",
-              "item_id": "3b5bf9d088726ae3",
-              "source": "Новинарня",
-              "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly",
-              "reported": [
-                2,
-                4
-              ]
-            }
-          },
-          "crimea": {
-            "killed": {
-              "n": 72,
-              "clause": "У Комишувасі через російську атаку загинули 72 людини",
-              "item_id": "69e94402e724989d",
-              "source": "hromadske",
-              "url": "https://hromadske.ua/suspilstvo/274492-u-komyshuvasi-cherez-rosiyskyy-udar-zahynuly-72-liudyny-a-okupanty-zaiavyly-pro-udar-po-krymskomu-mostu-holovne-za-16-lystopada",
-              "reported": [
-                72
-              ]
-            }
-          },
-          "cherkasy": {
-            "injured": {
-              "n": 6,
-              "clause": "Шестеро людей травмовані",
-              "item_id": "5de4f688558a8f81",
-              "source": "Суспільне Новини",
-              "url": "https://suspilne.media/cherkasy/1453492-na-cerkasini-lunali-vibuhi-so-vidomo",
-              "reported": [
-                3,
-                6
-              ]
-            }
-          }
-        },
-        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
-        "skipped": [
-          {
-            "item_id": "5c313f23a666a077",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "c0f719d10abbf009",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "dfbde6ef00276368",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "af5523ea54d0b7d8",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "f67d7daf7cc03870",
-            "skipped": "не про російський удар"
-          },
-          {
-            "item_id": "15072d061d59631a",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "eaaab997a255d64c",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "bc531910db36f9ca",
-            "skipped": "не про російський удар"
-          },
-          {
-            "item_id": "78250d8e424d8601",
-            "skipped": "не про російський удар"
-          },
-          {
-            "item_id": "8508964825db2d45",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "94a4910a07317961",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "1f72afbdd338260b",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "a292abc9907a1ee3",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "a810dbe99d85814f",
-            "skipped": "інша дата в тексті: 2 листопада"
-          },
-          {
-            "item_id": "c41845152e421cb7",
-            "skipped": "не про російський удар"
-          },
-          {
-            "item_id": "cffdaf298ec9aa83",
-            "skipped": "інша дата в тексті: 15 листопада"
-          },
-          {
-            "item_id": "e9429a445f31f533",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "ce5d0089e124d688",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "b6d75a9e69ce4950",
-            "skipped": "немає однозначної цифри"
-          },
-          {
-            "item_id": "5da600a4a2d6981a",
-            "skipped": "немає однозначної цифри"
-          },
-          {
-            "item_id": "a87672184df13235",
-            "skipped": "немає однозначної цифри"
-          },
-          {
-            "item_id": "5bbd4caff2f1362d",
-            "skipped": "не про російський удар"
-          },
-          {
-            "item_id": "acc1bfbf98dd9635",
-            "skipped": "регіон не визначено однозначно"
-          },
-          {
-            "item_id": "5b6e6b7f08568762",
-            "skipped": "немає однозначної цифри"
-          }
-        ]
-      }
+        "national-c-47fe1d6b7a348756"
+      ]
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "kind": "story",
       "block": "national",
-      "title": "Чернівці без світла",
+      "title": "Удар по Миколаєву",
       "include": true,
       "sentences": [
         {
-          "id": "story-3-s1",
+          "id": "story-5-s1",
           "kind": "story",
-          "text": "Частина Чернівців залишилася без світла після удару російського дрона по підстанції."
+          "text": "У Миколаєві внаслідок російської атаки на портову та промислову інфраструктуру 16 листопада загинули двоє людей."
         },
         {
-          "id": "story-3-s2",
+          "id": "story-5-s2",
           "kind": "story",
-          "text": "Постраждалих немає, повідомив міський голова Роман Клічук."
+          "text": "Ще троє поранені."
         }
       ],
       "sources": [
         {
-          "item_id": "6939e4225866e3aa",
-          "name": "Шпальта",
-          "url": "https://shpalta.media/2026/11/17/cherez-vorozhu-ataku-chastina-chernivciv-zalishilasya-bez-elektriki",
-          "title": "Через ворожу атаку частина Чернівців залишилася без електрики",
-          "published_at": "2026-11-17T05:05:38+00:00"
+          "item_id": "54a72b9ddb09b491",
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei",
+          "title": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА",
+          "published_at": "2026-11-16T12:09:00+00:00"
         },
         {
-          "item_id": "a5008aac12d22133",
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/rashystskyj-udar-znestrumyv-chernivtsi-i573389",
-          "title": "Рашистський удар знеструмив частину Чернівців",
-          "published_at": "2026-11-17T05:06:00+00:00"
+          "item_id": "bb4673ca7b893e0a",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html",
+          "title": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені",
+          "published_at": "2026-11-16T12:25:28+00:00"
         },
         {
-          "item_id": "2f6aee3ff40c74f5",
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/chernivtsi/1453869-pisla-rosijskoi-ataki-u-cernivcah-pereboi-zi-svitlom-trolejbus-no-2-timcasovo-ne-kursue",
-          "title": "РФ влучила по електричній підстанції: які наслідки атаки у Чернівцях",
-          "published_at": "2026-11-17T05:08:29+00:00"
+          "item_id": "5138d889a6dca03f",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html",
+          "title": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені",
+          "published_at": "2026-11-16T12:56:00+00:00"
         },
         {
-          "item_id": "905f81d0e648b48f",
-          "name": "Молодий буковинець",
-          "url": "https://molbuk.ua/chernivtsi_news/366734-u-chernivciakh-vnaslidok-udaru-rf-chastyna-mista-bez-svitla-ne-izdyt-troleibus-2.html",
-          "title": "У Чернівцях внаслідок удару РФ - частина міста без світла, не їздить тролейбус №2",
-          "published_at": "2026-11-17T05:27:24+00:00"
+          "item_id": "1f13f402fec0374c",
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni",
+          "title": "У Миколаєві від атаки російських \"Бандеролей\" загинув чоловік, ще двоє поранені",
+          "published_at": "2026-11-16T13:02:31+00:00"
         },
         {
-          "item_id": "078f8daa84ba9c8e",
-          "name": "А.С.С.",
-          "url": "https://acc.cv.ua/news/chernivtsi/u-chernivcyah-poshkodzhena-pidstanciya-na-svitanku-vorog-atakuvav-chernivecku-oblast-dvoma-bezpilotnikami-123285",
-          "title": "У Чернівцях пошкоджена підстанція: на світанку ворог атакував Чернівецьку область двома безпілотниками",
-          "published_at": "2026-11-17T05:31:09+00:00"
+          "item_id": "06c74bdb54a9aa4e",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni",
+          "title": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені",
+          "published_at": "2026-11-16T13:11:34+00:00"
         },
         {
-          "item_id": "9db370f6b61cf527",
-          "name": "Шпальта",
-          "url": "https://shpalta.media/2026/11/17/rosiyani-atakuvali-chernivci-dvoma-bezpilotnikami-poshkodzheno-obyekt-energetiki",
-          "title": "Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики",
-          "published_at": "2026-11-17T05:47:20+00:00"
+          "item_id": "92e6a56930b28362",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni",
+          "title": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені",
+          "published_at": "2026-11-16T13:52:23+00:00"
         },
         {
-          "item_id": "93826049824eca0f",
-          "name": "ПІК",
-          "url": "https://pik.net.ua/2026/11/17/u-chernivtsyah-vnaslidok-vorozhoyi-ataky-znyklo-elektropostachannya-u-chastyni-mista",
-          "title": "У Чернівцях внаслідок ворожої атаки зникло електропостачання у частині міста",
-          "published_at": "2026-11-17T06:03:59+00:00"
+          "item_id": "dbaa42a948ac60ed",
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh",
+          "title": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох",
+          "published_at": "2026-11-17T05:55:00+00:00"
         }
       ],
       "retold": true,
       "from_stories": [
-        "regional-c-078f8daa84ba9c8e"
+        "national-c-06c74bdb54a9aa4e"
       ]
     },
     {
@@ -791,22 +512,15 @@
     }
   ],
   "evidence": {
-    "6833fcfacde1040a": "Окупанти призначили російського військового керувати Новою Каховкою. Окупаційна влада Херсонщини призначила Артура Таланова незаконним тимчасовим виконувачем повноважень голови окупаційної адміністрації Нової Каховки. Відповідний указ підписав окупаційний губернатор Херсонщини Володимир Сальдо. Він замінить Володимира Оганєсова, який подав у відставку за власним бажанням. Згідно з документом, повноваження Оганєсова припиняються з 16 листопада 2026 року, а Таланов обійматиме посаду з 17 листопада. Раніше Таланов очолював [...] Запис Окупанти призначили російського військового керувати Новою Каховкою спершу з'явиться на Мост .",
-    "75ebe5298241dde3": "Покупець отрути «Новачок» і засуджений за розбій в Естонії: офіцера РФ Артура Таланова призначили новим гауляйтером Нової Каховки. Російські окупанти звільнили тимчасового гауляйтера Нової Каховки на ТОТ Херсонщини Владіміра Оґанєсова. Замість нього вони тимчасово призначили російського окупанта, громадянина Латвії, 58-річного Артура Таланова з позивним «Скат». Останній був одним із перших покупців відомої хімічної зброї «Новачок», якою у 1995 році вбили московського банкіра Івана Ківєліді. Таланов у 1997 році засуджений естонським судом за розбій.... The post Покупець отрути «Новачок» і засуджений за розбій в Естонії: офіцера РФ Артура Таланова призначили новим гауляйтером Нової Каховки appeared first on IPC Південь .",
-    "501943bb06d6b1d6": "Новий окупаційний очільник Нової Каховки, ймовірно, фігурував у справі про “Новичок”. Призначений окупантами очільник Нової Каховки Артур Таланов, ймовірно, є тим самим Артуром Талановим, який у 1990-х фігурував у справі про продаж бойової отруйної речовини “Новичок”. Його біографію у 2020 році докладно описувало Радіо Свобода. За даними видання, хімік один із розробників “Новичка” Леонід Ринк свідчив ФСБ, що навесні 1995 року продав ампули з речовиною громадянину [...] Запис Новий окупаційний очільник Нової Каховки, ймовірно, фігурував у справі про “Новичок” спершу з'явиться на Мост .",
-    "88c1648922dc5e17": "Призначили нового незаконного очільника окупованої Нової Каховки на Херсонщині. Новим незаконним очільником тимчасово окупованої Нової Каховки Херсонської області став громадянин РФ і Латвії, 58-річний Артур Таланов.",
-    "543e85323baf4acd": "Гауляйтером Нової Каховки призначили офіцера РФ, який був одним із перших покупців «Новічка» - ЗМІ. Окупаційну адміністрацію Нової Каховки тимчасово очолив російський офіцер Артур Таланов, який, за даними ЗМІ, був одним із перших покупців отруйної речовини «Новачок» і якого у 1997 році естонський суд засудив за розбій.",
-    "54a72b9ddb09b491": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА. Унаслідок російської атаки на Миколаїв загинув чоловік. Ще двоє людей отримали поранення та перебувають у лікарні.",
-    "bb4673ca7b893e0a": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені. Армія РФ сьогодні вдень атакувала «Бандеролями» портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених.",
-    "5138d889a6dca03f": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені. Під ударом опинилася портова інфраструктура міста.",
-    "1f13f402fec0374c": "У Миколаєві від атаки російських \"Бандеролей\" загинув чоловік, ще двоє поранені. У Миколаєві внаслідок сьогоднішньої російської атаки загинув чоловік. Ще двоє людей отримали поранення та були госпіталізовані.",
-    "06c74bdb54a9aa4e": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені. Армія РФ сьогодні вдень атакувала “Бандеролями” портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених. Про це повідомив у понеділок, 16 листопада, в.о. начальника Миколаївської ОВА Георгій Решетілов. “Внаслідок сьогоднішньої атаки ворога на Миколаїв загинув чоловік. Дві людини отримали поранення. Їх госпіталізовано. Медики надають необхідну допомогу”, – йдеться у повідомленні. Зазначається, що […] The post Росіяни дронами атакували Миколаїв: загинула людина, є поранені first appeared on Новинарня .",
-    "92e6a56930b28362": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені. У Миколаєві внаслідок сьогоднішньої російської атаки загинув чоловік. Ще двоє людей отримали поранення та були госпіталізовані.",
-    "dbaa42a948ac60ed": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох. Кількість загиблих внаслідок російського удару по Миколаєву зросла до двох. Також відомо про трьох поранених, які дістали травми під час атаки на портову та промислову інфраструктуру міста 16 листопада.",
-    "ab58719e55e09bf5": "У Миколаєві зросла кількість загиблих внаслідок російських атак: РФ атакувала порти і промисловість. У Миколаєві під час російської атаки 16 листопада загинув 41-річний чоловік. Вранці 17 листопада стало відомо, що ще один чоловік 46 років помер у лікарні від отрмианих травм",
-    "b30f9015e7adf48e": "Вчора росіяни вбили двох мешканців Миколаєва. Ще троє людей поранені. Ворог атакував енергетику, порти, промисловість та сільське господарство області.",
-    "e5c95d93ac808ed1": "ОВА: війська РФ атакували обʼєкти портової і промислової інфраструктури в Миколаєві, загинули двоє чоловіків. За даними Миколаївської ОВА, внаслідок удару пошкоджені виробничі цехи, складське й офісне приміщення, автомобіль, а також вікна багатоквартирних і приватних будинків",
-    "5c313f23a666a077": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада. Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
+    "0c05df3b7a700db4": "Росіяни з дрону атакували мопед на Херсонщині, загинув чоловік. Поблизу села Садове на Херсонщині російські військові атакували безпілотником мопед. Унаслідок удару загинув чоловік. Про це повідомили у Херсонській МВА. Чоловік отримав травми несумісні з життям. Його особу наразі встановлюють. Запис Росіяни з дрону атакували мопед на Херсонщині, загинув чоловік спершу з'явиться на Мост .",
+    "a73244fff30dfc31": "На Херсонщині дрон атакував чоловіка на мопеді: він загинув. Уранці 16 листопада рашисти атакували безпілотником місцевого жителя неподалік села Садове у Херсонському районі. Чоловік у цей момент їхав на мопеді. Про це повідомив начальник Херсонської ОВА Олександр Прокудін. За…",
+    "31450a9e58aa514c": "У Садовому поблизу Херсона російський дрон атакував мопед: загинув чоловік. Російський дрон 16 листопада атакував мопед у Садовому поблизу Херсона. Загинув чоловік. Його особу встановлюють відповідні служби",
+    "fc45d677fe1418d3": "Російський дрон атакував чоловіка на мопеді поблизу Садового на Херсонщині, він загинув. Чоловік загинув унаслідок атаки російського безпілотника поблизу села Садове Херсонської області: у момент удару він їхав на мопеді, повідомив начальник обласної військової адміністрації (ОВА) Олександр Прокудін.",
+    "db271e15aa114883": "Російський дрон атакував на Херсонщині чоловіка на мопеді — він загинув. Російський дрон у понеділок, 16 листопада атакував у Херсонській області чоловіка, який їхав на мопеді. Про це повідомив голова Херсонської обласної військової адміністрації Олександр Прокудін. За його словами, це сталося приблизно о 10:20 біля села Садове. Дрон атакував чоловіка, який їхав на мопеді. Від отриманих травм він загинув на місці. Прокудін каже, що особу загиблого... Запис Російський дрон атакував на Херсонщині чоловіка на мопеді — він загинув спершу з'явиться на Громадське радіо .",
+    "4e22cfa0a58fb51c": "Унаслідок удару російського дрона поблизу Садового загинув комунальник з Херсона. Правоохоронці встановили особу загиблого, який сьогодні вранці отримав смертельні поранення поблизу села Садове Херсонської громади. Про це повідомив начальник Херсонської МВА Ярослав Шанько. Зазначається, що внаслідок удару дрона загинув співробітник одного з комунальних підприємств міста. Раніше ми писали, що у Білозерці внаслідок атак російських безпілотників 14 жовтня постраждали двоє працівників комунального підприємства. Запис Унаслідок удару російського дрона поблизу Садового загинув комунальник з Херсона спершу з'явиться на Мост .",
+    "c92fce591bf29044": "Внаслідок атаки дрона російських військ на Херсонщині загинув комунальник. Російські військові 16 листопада атакували дроном мопед поблизу Садового Херсонської громади. Внаслідок удару загинув працівник комунального підприємства.",
+    "7dc6729b6d904f37": "Дронові атаки Херсона та Садового, евакуація дітей з ТОТ. 1728 день війни: головні події у Херсонській області. 1728 день війни: ситуація в Херсонській області. Російські обстріли критичної інфраструктури, атаки безпілотників у Херсоні, втрати армії РФ на півдні",
+    "e1ed2cd6880e0eec": "У Херсонській громаді через російські удари загинула людина, двоє поранені. Минулої доби російських ударів зазнали шість населених пунктів Херсонської громади, внаслідок чого одна людина загинула і двоє дістали поранення. Про це начальник Херсонської МВА Ярослав Шанько написав у своєму Telegram-каналі. Під обстрілами були Херсон, Антонівка, Придніпровське, Приозерне, Благовіщенське та Садове. По населених пунктах били російська артилерія та дрони. Пошкоджені багатоповерхові та приватні будинки, об’єкти торгівлі [...] Запис У Херсонській громаді через російські удари загинула людина, двоє поранені спершу з'явиться на Мост .",
     "c0f719d10abbf009": "У Комишувасі завершили пошуково-рятувальні роботи - кількість загиблих зросла до 72. Кількість загиблих унаслідок удару російської армії по Комишувасі Запорізької області 2 листопада зросла до 72 осіб, пошуково-рятувальні роботи завершені. Четверо людей залишаються зниклими безвісти.",
     "dfbde6ef00276368": "У Комишувасі на Запоріжжі завершили пошукові роботи після російського удару: 72 загиблих, четверо зниклих безвісти. У селищі Комишуваха Запорізької області завершили пошуково-рятувальні роботи після російського обстрілу 2 листопада, внаслідок якого загинули 72 людини. Ще четверо вважаються зниклими безвісти. Протягом двох тижнів, поки тривали роботи, російські війська дев’ять разів атакували безпосередньо місце розбору завалів. Про це повідомив міністр внутрішніх справ України Іван Вигівський надвечір у понеділок, 16 листопада. За його словами, […] The post У Комишувасі на Запоріжжі завершили пошукові роботи після російського удару: 72 загиблих, четверо зниклих безвісти first appeared on Новинарня .",
     "af5523ea54d0b7d8": "У Комишувасі завершили пошукові роботи після російського обстрілу, що забрав 72 життя. Досі залишаються зниклими безвісти 4 людини. ",
@@ -823,43 +537,68 @@
     "94a4910a07317961": "ОВА: у Комишувасі завершили пошукову операцію, через авіаудар РФ загинули 72 людини. Пошукова операція тривала від 2 листопада",
     "1f72afbdd338260b": "У Комишувасі завершені пошуково-рятувальні роботи: загинули 72 людини. У Комишувасі Запорізької області два тижні тривали пошуково-рятувальні роботи на місці російського удару 2 листопада. Про це повідомив міністр внутрішніх справ України Іван Вигівський. За даними міністра, обстріл Комишувахи став одним із найтрагічніших за час повномасштабної війни. Загинули 72 людини, зокрема рятувальники, поліцейські, працівники гімназії та ЦНАПу, комунальники та медпрацівники. Серед загиблих — вчителька, яка […]",
     "a292abc9907a1ee3": "Щонайменше 72 загиблих: у підземній школі Комишувахи завершили пошуково-рятувальну операцію. У селищі Комишуваха завершили пошуково-рятувальну операцію після російської бомбової атаки по підземному укриттю гімназії «Джерело», яка відбулась два тижні тому. Станом на 16 листопада встановлено, що загинули 72 людини – це двоє рятувальників, представниця селищної ради, 12 працівників гімназії «Джерело», 4 працівника ЦНАПу, 4 медика, 13 робітників КП «Благоустрій», 4 військових, які прибули на допомогу […] Сообщение Щонайменше 72 загиблих: у підземній школі Комишувахи завершили пошуково-рятувальну операцію появились сначала на Локатор-Медіа .",
+    "7697a70943983989": "У Комишувасі завершили пошукові роботи: внаслідок ворожого удару загинули 72 людини. Про це повідомив міністр внутрішніх справ Іван Вигівський. Рятувальна операція у Комишувасі завершенаЗа словами міністра, пошуково-рятувальна операція тривала два тижні. Її завершили 16 листопада. Увесь цей час рятувальники та поліцейські працювали під постійною загрозою російських ударів. За цей період окупанти одинадцять разів обстріляли селище, дев'ять атак були безпосередньо спрямовані по місцю проведення робіт. Унаслідок цих ударів поранення дістали троє поліцейських і четверо рятувальників, також була пошкоджена техніка.",
     "a810dbe99d85814f": "Трагедія у Комишувасі: внаслідок удару рф загинули 72 людини. Два тижні тривали пошуково-рятувальні роботи на місці російського удару по Комишувасі Запорізької області. Внаслідок обстрілу 2 листопада загинули 72 людини, ще четверо залишаються зниклими безвісти, пише КУРС з посиланням на Міністра внутрішніх справ України Івана Вигівського. Рятувальники та поліцейські працювали під постійною загрозою повторних атак. За цей час російські війська одинадцять разів обстріляли селище, дев’ять […]",
     "5b82b3e1bf7b080f": "Удар рф по Комишувасі: загинуло 72 людини, пошукові роботи завершено. Російський удар по Комишувасі Запорізької області забрав життя 72 людей. Пошуково-рятувальні роботи завершили.",
+    "5c313f23a666a077": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада. Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
     "c41845152e421cb7": "Загинули 72 людини: у Комишувасі завершили пошуково-рятувальні роботи. Серед загиблих - вчителька, яка щодня приходила до укриття, аби провести онлайн-уроки для дітей, які виїхали з громади.",
-    "5a5ed59b1acc7077": "Росіяни атакували підприємства у Чернігові: 2 загиблих. Унаслідок ударів по двох підприємствах Чернігова 16 листопада загинули дві людини, повідомив Дмитро Брижинський.",
-    "3b5bf9d088726ae3": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міська рада. Ще чотири людини постраждали. Внаслідок атаки руйнувань також зазнали приміщення гаражного кооперативу, повідомив начальник міської військової адміністрації Дмитро Брижинський.",
-    "ca1df21999958824": "Росіяни атакували два підприємства у Чернігові, є загиблі та постраждалі. Росіяни атакували два підприємства у Чернігові. Внаслідок ударів двоє людей загинули, ще четверо травмовані. Також зруйновано приміщення гаражного кооперативу.",
-    "2d86aace1578d81e": "Окупанти завдали ударів по підприємствах у Чернігові, відомо про двох загиблих. Двоє людей загинули та четверо постраждали внаслідок російських ударів по Чернігову, повідомляє пресслужба Чернігівської міської ради в понеділок.",
-    "cffdaf298ec9aa83": "Росіяни атакували підприємства в Чернігові, двоє загиблих. Росіяни в понеділок, 16 листопада атакували Чернігів. Вдарили по двох підприємствах. Про це повідомила пресслужба Чернігівської міської ради. Там зазначили, що ворог завдав ударів по двох приватних підприємствах у Чернігові. Спершу було відомо про двох загиблих і одного постраждалого. Пізніше кількість постраждалих зросла до чотирьох. Нагадаємо, 15 листопада окупанти атакували об’єкт критичної інфраструктури в місті... Запис Росіяни атакували підприємства в Чернігові, двоє загиблих спершу з'явиться на Громадське радіо .",
-    "e9429a445f31f533": "Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування. Війська рф 16 листопада завдали ударів по підприємствах та об'єктах інфраструктури у Чернігові, Балаклії Харківської області та Дніпрі. Внаслідок атак у Чернігові та Балаклії загинули троє людей, ще восьмеро дістали поранення. У Дніпрі після влучання в об'єкт харчової промисловості виникла пожежа, інформацію про можливих постраждалих уточнюють. Про це повідомляють начальник Чернігівської МВА Дмитро Брижинський, начальник […] The post Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування appeared first on Рубрика .",
-    "ce5d0089e124d688": "рф атакувала підприємства у Чернігові – є загиблі та постраждалі. 16 листопада російські війська вдарили по двох підприємствах у Чернігові Унаслідок атаки загинули дві людини, ще чотири постраждали, пише КУРС. Про це повідомив начальник Чернігівської міської військової адміністрації Дмитро Брижинський. Також через атаку руйнувань зазнали приміщення гаражного кооперативу. КУРС писав, що цього ж дня унаслідок атаки рф у Дніпрі загинула людина, ще 10 постраждали.",
-    "ade882d0e369553e": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міськрада.",
-    "b6d75a9e69ce4950": "Російські війська атакували два приватні підприємства у Чернігові: що відомо. ",
-    "67a7c32f37df5fb5": "Кількість загиблих унаслідок атаки РФ по підприємствах Чернігова 16 листопада збільшилась до трьох людей. Станом на ранок 17 листопада, кількість загиблих унаслідок атаки РФ по підприємствах Чернігова 16 листопада збільшилась до трьох людей. Ще двоє залишаються пораненими",
-    "69e94402e724989d": "У Комишувасі через російську атаку загинули 72 людини, а окупанти заявили про удар по Кримському мосту — головне за 16 листопада. ",
-    "5da600a4a2d6981a": "Окупанти заявили про повторний удар по Кримському мосту. У ніч на 17 листопада Кримський міст зазнав повторного удару.",
-    "a87672184df13235": "Окупанти вдруге за добу заявили про ураження Кримського мосту. У ніч на вівторок, 17 листопада, окупаційна влада Криму заявила про повторну атаку на Керченський міст. Після ударів рух переправою було перекрито.",
-    "5bbd4caff2f1362d": "Після повторної атаки на Кримський міст обвалилися арка та проліт автомобільної частини. У ніч на 17 листопада міст атакували повторно. Рух транспорту перекрили, а вранці з’явилися кадри пошкоджень автомобільної частини.",
+    "059be1abe122f636": "Двоє загиблих і 19 поранених: російські війська атакували шість районів. Російські війська понад 60 разів атакували шість районів Дніпропетровщини безпілотниками та артилерією. Загинули двоє людей, ще 19 дістали поранень, серед них — дитина. The post Двоє загиблих і 19 поранених: російські війська атакували шість районів appeared first on Dnipro.media .",
+    "4fecf95b1f4c7a85": "Росія атакувала Дніпропетровщину понад 60 разів: є жертви та поранені. Під ударами опинилися шість районів області. Серед постраждалих – 16-річний хлопець.",
+    "1f765b66e45432f0": "Війська РФ понад 60 разів атакували шість районів Дніпропетровщини: є загиблі, понад 20 — поранених. Вдень 16 листопада війська РФ понад 60 разів атакували шість районів Дніпропетровщини. Двоє людей загинули, ще 19 дістали поранень. Серед них — дитина",
+    "02ff0c78dd8478a2": "Росія понад 60 разів атакувала Дніпропетровщину. ",
+    "cbfc84ddf291d70d": "Майже 20 атак на Дніпропетровщину: росіяни били по шести районах. У ніч проти 17 листопада російські війська майже 20 разів атакували шість районів Дніпропетровщини безпілотниками та ракетами. За попередніми даними, люди не постраждали. The post Майже 20 атак на Дніпропетровщину: росіяни били по шести районах appeared first on Dnipro.media .",
+    "5481690dd6fef909": "Били безпілотниками та ракетами: війська РФ майже 20 разів атакували Дніпро та область протягом ночі. Майже 20 разів армія РФ атакувала Дніпропетровщину безпілотниками та ракетами у ніч проти 17 листопада. Під ударами були Дніпро, Кривий Ріг, а також Павлоградський, Нікопольський, Кам'янський та Синельниківський райони",
+    "4a015aa314fd31e2": "Загарбники з вечора майже 20 разів атакували Дніпро та область, є пошкодження. Російські загарбники ще майже 20 разів атакували Дніпро та область безпілотниками і ракетами – зафіксована низка пошкоджень.",
     "5de4f688558a8f81": "Шестеро людей травмовані: війська РФ атакували Черкащину балістикою. Черкащину у ніч проти 17 листопада РФ атакувала балістикою. У Смілі внаслідок атаки три людини травмовані. Наслідки для інфраструктури уточнюють",
     "47fe1d6b7a348756": "росія вдарила балістикою по Смілі: троє людей травмовані. У ніч на 17 листопада російські війська атакували Смілу на Черкащині балістикою. Про це повідомив начальник Черкаської ОВА Ігор Табурець. За попередньою інформацією, внаслідок удару травмувалися троє людей. Медики надають постраждалим необхідну допомогу. Наслідки атаки для інфраструктури наразі уточнюють. Нагадаємо, через російську атаку частина споживачів в Уманському районі залишилася без світла. Читайте більше новин Черкас сьогодні на «18000». Актуальні дописи про життя міста та області шукайте у телеграмі Шо там у Черкасах?»",
-    "a2f651646fb4301f": "РФ вдарила балістикою по Смілі на Черкащині: є постраждалі. Троє людей травмовані.",
     "4aa6efd2e24c3ba9": "Троє людей травмовані внаслідок нічного ракетного удару РФ по Смілі на Черкащині – ОВА. Троє людей отримали травми внаслідок балістичного удару російських військ по місту Сміла Черкаської області в ніч на вівторок, повідомив голова Черкаської обласної військової адміністрації Ігор Табурець.",
     "acc1bfbf98dd9635": "Війська рф завдали ударів по Запоріжжю та Смілі, є жертва та постраждалі. Російські окупанти завдали серії ударів по Запоріжжю, внаслідок чого загинув водій автівки та ще одну людину поранено. Також щонаменше троє людей були травмовані внаслідок атаки балістикою на місто Сміла.",
     "d9e883688f1480cc": "Війська РФ вдарили балістикою по Смілі, три людини травмовані – ОВА. «Наслідки для інфраструктури наразі уточнюємо. За попередньою інформацією, троє людей травмовані. Медики надають їм необхідну допомогу», – повідомили у Черкаській ОВА",
-    "ba5d46772c442680": "Серед ночі рф вдарила по Смілі балістикою. Із ночі ворог атакував Смілу вісьмома ракетами. Про це повідомив очільник Черкаської ОВА Ігор Табурець Під ударом опинилася промислова інфраструктура. Також пошкоджено заклад професійної освіти та вибито вікна в житлових будинках поруч. Унаслідок двох хвиль обстрілу травмовано шестеро людей. Усіх госпіталізували. Стан постраждалих – середньої тяжкості. Медики надають їм необхідну допомогу.",
-    "5b6e6b7f08568762": "\"Тяжка доба для Черкащини\": у ОВА повідомили наслідки ворожої атаки балістикою. У 16–17 листопада силами та засобами ППО знешкоджено три російські БпЛА в межах області. Загалам тяжка доба для Черкащини із повітряними нападами з боку рф, повідомив очільник ОВА Ігор Табурець. ■ Черкаський район. Із ночі ворог атакував Смілу вісьмома ракетами. Під ударом опинилася промислова інфраструктура. Також пошкоджено заклад професійної освіти та вибито вікна в житлових будинках поруч. Унаслідок двох хвиль обстрілу травмовано...",
-    "35fd795eac8d7069": "Вісім ракет по Смілі: наслідки тривоги на Черкащині. Уночі ворог завдав удару вісьмома ракетами по промисловій інфраструктурі Сміли на Черкащині, внаслідок чого постраждали шестеро людей. Про це повідомив начальник ОВА Ігор Табурець. Які наслідки атаки у Черкаському районі? У Смілі під ударом опинилася промислова інфраструктура. Також під час атаки пошкодили заклад професійної освіти та вибили вікна в житлових будинках поруч. Унаслідок двох хвиль обстрілу травмовалися шестеро людей. Усіх госпіталізували. Стан постраждалих – середньої тяжкості. Які руйнування спричинила атака в Уманському районі?",
-    "cddc99a9a9bf835d": "Посол України обговорив із Ле Пен підтримку Києва у Європарламенті та Національній асамблеї. Посол України у Франції Вадим Омельченко під час зустрічі з кандидаткою в президенти Франції від «Національного об’єднання» Марін Ле Пен обговорив подальшу підтримку України, перспективи її вступу до ЄС і НАТО та участь Європи в мирних переговорах.",
-    "e2fac9be8c2b6235": "Марін Ле Пен заявила, що Франція продовжить надавати допомогу Україні, якщо її оберуть. Ле Пен попросила посла передати Зеленському, що вона готова зустрітися з ним у Брюсселі або Парижі.",
-    "0800aed63021a865": "Посол України у Франції Омельченко зустрівся з Марін Ле Пен та обговорив перспективи зустрічі із Зеленським. Посол України у Франції Вадим Омельченко у вівторок вранці зустрівся з кандидаткою у президенти Франції та очільницею партії \"Національне об'єднання\" Марін Ле Пен, повідомило Посольство України у Франції на сторінці у Facebook.",
-    "cc650338acdabbca": "Проти фінансування України, за зустріч із Зеленським у Парижі чи Брюсселі. Ле Пен поговорила з українським послом у Франції. ",
+    "ba5d46772c442680": "Вісім ракет: рф вдарила по Смілі балістикою. Із ночі ворог атакував Смілу вісьмома ракетами. Про це повідомив очільник Черкаської ОВА Ігор Табурець Під ударом опинилася промислова інфраструктура. Також пошкоджено заклад професійної освіти та вибито вікна в житлових будинках поруч. Унаслідок двох хвиль обстрілу травмовано шестеро людей. Усіх госпіталізували. Стан постраждалих – середньої тяжкості. Медики надають їм необхідну допомогу.",
+    "54a72b9ddb09b491": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА. Унаслідок російської атаки на Миколаїв загинув чоловік. Ще двоє людей отримали поранення та перебувають у лікарні.",
+    "bb4673ca7b893e0a": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені. Армія РФ сьогодні вдень атакувала «Бандеролями» портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених.",
+    "5138d889a6dca03f": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені. Під ударом опинилася портова інфраструктура міста.",
+    "1f13f402fec0374c": "У Миколаєві від атаки російських \"Бандеролей\" загинув чоловік, ще двоє поранені. У Миколаєві внаслідок сьогоднішньої російської атаки загинув чоловік. Ще двоє людей отримали поранення та були госпіталізовані.",
+    "06c74bdb54a9aa4e": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені. Армія РФ сьогодні вдень атакувала “Бандеролями” портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених. Про це повідомив у понеділок, 16 листопада, в.о. начальника Миколаївської ОВА Георгій Решетілов. “Внаслідок сьогоднішньої атаки ворога на Миколаїв загинув чоловік. Дві людини отримали поранення. Їх госпіталізовано. Медики надають необхідну допомогу”, – йдеться у повідомленні. Зазначається, що […] The post Росіяни дронами атакували Миколаїв: загинула людина, є поранені first appeared on Новинарня .",
+    "92e6a56930b28362": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені. У Миколаєві внаслідок сьогоднішньої російської атаки загинув чоловік. Ще двоє людей отримали поранення та були госпіталізовані.",
+    "dbaa42a948ac60ed": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох. Кількість загиблих внаслідок російського удару по Миколаєву зросла до двох. Також відомо про трьох поранених, які дістали травми під час атаки на портову та промислову інфраструктуру міста 16 листопада.",
     "6939e4225866e3aa": "Через ворожу атаку частина Чернівців залишилася без електрики. Тролейбуси у місті курсують із затримками. Внаслідок ворожої атаки частина Чернівців залишилася без електропостачання. Постраждалих немає. Про це повідомив міський голова Роман Клічук. Також він додав, що тролейбуси у місті тимчасово не курсуватимуть. Натомість організовують автобуси на заміну. У Чернівецькому... The post Через ворожу атаку частина Чернівців залишилася без електрики appeared first on Шпальта .",
     "a5008aac12d22133": "Рашистський удар знеструмив частину Чернівців. \"Внаслідок ворожої атаки частина міста залишилася без електропостачання. Постраждалих немає\", - повідомив міський голова Чернівців Роман Клічук у Телеграм вранці 17 листопада. Зазначається, що тролейбуси в місті тимчасово не курсуватимуть, організовують на заміну автобуси. \"Енергетики працюють...",
     "2f6aee3ff40c74f5": "РФ влучила по електричній підстанції: які наслідки атаки у Чернівцях. Вранці 17 листопада РФ атакувала Чернівецьку область двома безпілотниками. Один влучив в електричну підстанцію. Через це частина Чернівців без електрики, а тролейбуси тимчасово не їздять. Які наслідки атаки",
     "905f81d0e648b48f": "У Чернівцях внаслідок удару РФ - частина міста без світла, не їздить тролейбус №2. Енергетики разом із відповідними службами працюють над ліквідацією наслідків.",
     "078f8daa84ba9c8e": "У Чернівцях пошкоджена підстанція: на світанку ворог атакував Чернівецьку область двома безпілотниками. Внаслідок удару одного з них пошкоджено об’єкт енергетики у м. Чернівці, через що в частині громади сталося аварійне відключення електропостачання.",
     "9db370f6b61cf527": "Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики. На місці події працюють оперативні служби. На світанку 17 листопада російські війська атакували Чернівецьку область двома безпілотниками. Внаслідок удару пошкоджено об’єкт енергетики у Чернівцях, через що частина громади залишилася без електропостачання. Про це повідомив начальник Чернівецької обласної військової адміністрації Руслан... The post Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики appeared first on Шпальта .",
-    "93826049824eca0f": "У Чернівцях внаслідок ворожої атаки зникло електропостачання у частині міста. Енергетики працюють над відновленням електропостачання.",
+    "3c8e41c6c3a30a25": "Розпочалася підготовка до наступної багатосторонньої зустрічі щодо мирного процесу РФ та України – Кушнер. Сторони розпочали підготовку до наступного раунду мирних переговорів між Росією та Україною, за участю США та Європи, повідомив спеціальний представник президента США Джаред Кушнер.",
+    "f9460d65117153ae": "«Провели плідну розмову». Кушнер прокоментував переговори за участю України, представників Європи та НАТО. Спецпредставники президента США Дональда Трампа Стів Віткофф і Джаред Кушнер 16 листопада провели розмову з помічником диктатора РФ Володимира Путіна Юрієм Ушаковим — щоб «обговорити досягнутий прогрес і кроки в мирному процесі».",
+    "03867e5ad5d16003": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні. Спецпредставник американського президента Дональда Трампа Джаред Кушнер розповів про спілкування з помічником лідера Кремля Юрієм Ушаковим, а також з Україною та представниками Європи.",
+    "5b4116dfc6e4b7e8": "Кушнер заявив про підготовку порядку денного багатосторонньої зустрічі для завершення війни в Україні. Ірта-fax - Інформаційний портал Спецпредставник США Джаред Кушнер заявив, що розпочалась підготовка порядку денного для наступної багатосторонньої зустрічі задля завершення війни в Україні, яка має відбутися найближчим часом. Він також наголосив, що “будь-яка остаточна мирна угода має бути узгоджена як Росією, так і Україною”. Сьогодні вранці ми разом із Стівом Віткоффом провели розмову з Юрієм Ушаковим, щоб обговорити досягнутий прогрес і […] Ірта-Fax STREAM",
+    "af6cdb3c17f1757c": "Кушнер заявив про прогрес у переговорах щодо завершення війни в Україні. Він назвав продуктивною розмову з Україною та європейськими партнерами.",
+    "62fbe1c833417c92": "Зять Трампа анонсував нову багатосторонню зустріч щодо завершення війни в Україні. Зять президента Дональда Трампа Джаред Кушнер заявив про підготовку нової багатосторонньої зустрічі щодо завершення російської війни проти України.",
+    "52bab542967e54e3": "Спецпредставник Трампа анонсував нову багатосторонню зустріч щодо війни в Україні. Спецпредставник США Джаред Кушнер анонсував початок підготовки порядку денного для наступної багатосторонньої зустрічі щодо завершення війни в Україні, яка має відбутися найближчим часом.",
+    "b08cb50b99052c0c": "«Остаточна угода вимагатиме складних рішень». Кушнер розповів про розмови з Ушаковим і європейцями. Кушнер розповів про розмову з Ушаковим. За його словами, США обговорили прямі контакти Європи з Росією й готують нову багатосторонню зустріч",
+    "5d4edda309f3da85": "Окупанти заявили про удар по Кримському мосту: розгорнули оперативний штаб. За заявою Сергія Аксьонова, через удар по Кримському мосту обмежено рух транспорту. У Керчі працюють служби та розгорнуто оперативний штаб.",
+    "1daef0491f5d4a22": "Аксьонов заявив про ураження Кримського мосту 16 листопада. Окупаційний глава Криму Сергій Аксьонов заявив про ураження Кримського мосту 16 листопада. Рух авто обмежено орієнтовно до середини дня",
+    "3fe5741825b08808": "Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено. Окупаційна влада Криму заявила, що Україна завдала удару по Кримському мосту. Рух транспорту мостом обмежили приблизно до середини дня. Про це повідомив призначений Росією голова анексованого Криму Сергій Аксьонов. За словами Аксьонова, для ліквідації наслідків задіяли всі необхідні служби, а в Керчі розгорнули оперативний штаб. Які саме наслідки удару і чи пошкоджено конструкції мосту, окупанти [...] Запис Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено спершу з'явиться на Мост .",
+    "4c25862e777ee8b3": "Окупанти заявили про удар по Кримському мосту. Через це рух транспорту обмежать приблизно до середини дня, повідомив очільник окупаційної адміністрації Криму",
+    "b686e2d3f04042ee": "Аксьонов заявив, що Україна вдарила по Кримському мосту. На під’їздах до мосту стоїть кілька тисяч авто.",
+    "1a61821dc10c91a3": "В окупованому Криму підтвердили удар по Керченському мосту, рух ним обмежили. За словами Аксьонова, рух транспорту мостом буде обмежений приблизно до середини дня, у Керчі розгорнули оперативний штаб",
+    "903e2fedc3cb3ec5": "У Криму заявили про удар по Кримському мосту: рух перекрили, поїзди затримуються. 16 листопада рух Кримським мостом перекрили, затримуються пасажирські поїзди. Аксьонов заявив про удар, даних про пошкодження немає.",
+    "52025976fb1ed3da": "ЗСУ завдали удару по Кримському мосту, рух обмежено щонайменше до середини дня – медіа. ЗСУ завдали удару по Кримському мосту, рух через нього обмежено орієнтовно до середини понеділка, повідомляють російські ЗМІ в понеділок.",
+    "d735221e95082510": "Кримський міст перекрили після атаки - ЗМІ. Кримський міст перебував під атакою, рух транспорту перекритий.",
+    "760412d9bc5aec01": "Понад сотню безпілотників атакували Кримський міст: що відомо про наслідки. У ніч на 16 листопада Керченський (Кримський) міст зазнав масованої атаки безпілотників. За попередніми оцінками окупаційних ЗМІ, у нальоті могли брати участь понад сто дронів. Повідомляється про пошкодження однієї з арок мосту та тимчасове обмеження руху транспорту. За інформацією російських окупаційних джерел, один із реактивних безпілотників пошкодив арку Кримського мосту. Стверджується, що пошкодження не є […]",
+    "bce713ff5a838fbb": "Атакований Кримський міст: рух обмежений, застрягли тисячі авто, покосило арку. Вранці 16 листопада так званий губернатор Кримського півострова Сергій Аксьонов визнав: ЗСУ атакували міст, що...",
+    "cb555f8dcc652062": "Україна вдарила по Кримському мосту. У понеділок, 16 листопада, окупаційна влада Криму заявила про удар по Кримському мосту. Через це рух транспорту припинили приблизно до середини дня. Про це повідомив гауляйтер Криму Сергій Аксьонов. За його словами, для ліквідації наслідків залучили необхідні служби, а в Керчі розгорнули оперативний штаб. Також він повідомив, що тримає ситуацію на особистому контролі. Тим часом … Continue reading Україна вдарила по Кримському мосту →",
+    "dc84bb9dfa85fa77": "Окупанти заявили, що Україна завдала удару по Кримському мосту. Про це написав очільник російської окупаційної адміністрації Сергій Аксьонов. Обмеження руху Кримським мостом За його словами, Україна атакувала Кримський міст, рух транспорту перекрито. \"Завдано удару по Кримському мосту. Рух транспорту буде обмежено орієнтовно до середини дня. Для ліквідації наслідків задіяно всі необхідні служби, у Керчі розгорнуть оперативний штаб\", - повідомив Аксьонов. У міністерстві транспорту РФ згодом повідомили, що рух автомобільною частиною Кримського мосту тимчасово припинено.",
+    "a5b4af9075d082d0": "У росії заявили про атаку на Кримський міст, рух перекрито. У росії заявили про удар по Кримському мосту 16 листопада. Рух транспорту перекрили орієнтовно до середини дня, у Керчі розгорнули оперативний штаб.",
+    "771a7aa8f3ad4c8e": "В анексованому Криму підтвердили атаку на Керченський міст, рух транспорту обмежили. За словами Аксьонова, рух транспорту мостом буде обмежений приблизно до середини дня, у Керчі розгорнули оперативний штаб",
+    "f9495422d8ee5d6f": "Кримський міст перекрили після атаки: окупанти повідомляють про пошкодження та величезні затори. У ніч на 16 листопада на Кримському мосту зупинили рух транспорту після повідомлень про атаку безпілотників. На під’їздах до переправи утворилися багатокілометрові черги, стоять пасажирські поїзди. Про атаку повідомив гауляйтер…",
+    "091c854243a4322e": "Українські військові вдарили по Кримському мосту. Удар по Кримському мосту.",
+    "50c26d064100dcc6": "По Кримському мосту завдали удару: рух транспорту обмежено, пошкоджено арку. Влучання припало по судноплавному прольоту мосту близько 5:38 ранку. Окупанти розгорнули у Керчі оперативний штаб та готуються запускати реверсний рух.",
+    "326421f1b32e5aa6": "Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди. The post Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди appeared first on Фарватер. Схід .",
+    "9f116bd9001d2f47": "З’явилися перші фото пошкоджень Кримського мосту після нічної атаки безпілотників. У мережі з’явилися перші фотографії наслідків масованої атаки українських безпілотників на Кримський міст у ніч на 16 листопада. На опублікованих кадрах, імовірно, видно деформацію однієї з арок мосту. Також повідомляється про пошкодження дорожнього полотна у двох місцях. Про це пишуть моніторингові Telegram-канали. Зокрема, Telegram-канал «Кримський вітер» опублікував фотографію автомобільної арки Кримського мосту, яка, як стверджується, […]",
+    "69e94402e724989d": "У Комишувасі через російську атаку загинули 72 людини, а окупанти заявили про удар по Кримському мосту — головне за 16 листопада. ",
+    "5da600a4a2d6981a": "Окупанти заявили про повторний удар по Кримському мосту. У ніч на 17 листопада Кримський міст зазнав повторного удару.",
+    "8072ea6dcc3942c5": "Аксьонов заявив про нову атаку на Кримський міст. Аксьонов написав, що рух транспорту призупинено, і попросив утриматися від поїздок у напрямку мосту. Про попередній удар він заявляв 16 листопада",
     "c9b7199a6aa57a41": "«Там була моя планета, мій рай». Сили оборони вивезли з Кияниця останнього мешканця. Останнього мешканця села Кияниці, що на Сумщині, евакуювали військовослужбовці 71-ї окремої аеромобільної бригади 8-го корпусу ДШВ разом із поліцейським Юрієм Гамотою. Чоловік жив у селі 23 роки, а з березня 2025 року без світла",
     "f5e05d3824b4e9f2": "Там була моя «планета» і мій «рай»: військові вивезли з Кияниці останнього жителя. Останнього жителя села Кияниця на прикордонні Сумщини евакуювали до Сум. Чоловік прожив у селі 23 роки. Навіть коли через війну ситуація в селі загострилася і зникли світло, газ та вода, він кілька разів відмовлявся від евакуації. Не захотів виїжджати навіть після того, як росіяни спалили його хату. Цього разу погодився. Бійці 71 окремої аеромобільної бригади […] The post Там була моя «планета» і мій «рай»: військові вивезли з Кияниці останнього жителя appeared first on Kordon Media .",
     "d5f47880541daa77": "Під прицілом артилерії та дронів: українські десантники евакуювали останнього жителя прифронтового села Кияниця на Сумщині. Військовослужбовці 71-ї окремої аеромобільної бригади 8-го",
@@ -870,60 +609,276 @@
     "4fe73332370fcb35": "Біля Кропивницького в ДТП загинув водій автобуса, 14 пасажирів травмувалися. Неподалік Кропивницького зіткнулися маршрутний автобус і вантажівка з цистерною - водій автобуса загинув, 14 пасажирів госпіталізували.",
     "525453e9cabda0e1": "На Кіровоградщині маршрутка зіткнулася з вантажівкою: загинув водій і травмовано 14 пасажирів. Поліція встановлює обставити ДТП.",
     "a210e47813b4af92": "У Кропивницькому до 5 грудня планують встановити штучну ялинку та облаштувати різдвяне містечко. У сквері «Центральний» у Кропивницькому планують встановити штучну ялинку та облаштувати різдвяне містечко. Завершити роботи мають до 5 грудня",
-    "d17d2433a9e5e47b": "У Дніпрі та трьох районах області зникло світло через удари по енергооб’єктах. Після російських ударів по енергетиці місто Дніпро повністю знеструмлене, також електропостачання відсутнє в частини мешканців трьох районів області. Про це повідомили у ДТЕК. За інформацією ДТЕК з посиланням на «Укренерго», внаслідок атаки на енергооб'єкти області світла немає в Дніпрі, а також у частини жителів Дніпровського, Самарівського та Кам’янського районів. Енергетики вже відновлюють електропостачання та першочергово […] The post У Дніпрі та трьох районах області зникло світло через удари по енергооб’єктах appeared first on Dnipro.media .",
-    "56e98edd3afe17f7": "Через атаки на енергообʼєкти Дніпро знеструмлений: що кажуть містяни. Після атаки на енергооб'єкти області місто Дніпро знеструмлене. Електрики також немає в частини жителів Дніпровського, Самарівського та Кам'янського районів",
-    "5c91abd4e7ee99c3": "Дніпро повністю без світла після ударів РФ – ДТЕК. Дніпро повністю знеструмлений внаслідок атаки РФ на енергооб'єкти області, повідомив енергохолдинг ДТЕК.",
-    "53fc0504eb04eacd": "Дніпро повністю знеструмлений: без світла також частина трьох районів області. The post Дніпро повністю знеструмлений: без світла також частина трьох районів області appeared first on Місто і річка .",
-    "04b0e360a2626e73": "ДТЕК: місто Дніпро повністю знеструмлене після російської атаки на енергооб’єкти. Без електроенергії також залишилися частина жителів Дніпровського, Самарівського та Кам’янського районів.",
-    "bc6182e06a5c06e4": "Головні новини Дніпра та області 17 листопада. Оперативні новини Дніпра та Дніпропетровської області за 17 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
-    "95b2bb8ca0229134": "Армія РФ обстріляла 34 населених пункти Херсонщини: один загиблий, троє поранених. Росіяни обстріляли 34 населених пункти Херсонщини упродовж доби. Загинула людина, троє поранених. За даними ОВА, пошкоджені поштове відділення, об'єкти торгівлі, житлові квартали",
-    "ae19ea0ac9024201": "Наслідки росйських обстрілів на Херсонщині: одна людина загинула, троє поранені. Протягом доби російські війська масовано атакували населені пункти Херсонської області за допомогою дронів, авіації та артилерії. Через це одна людина загинула, ще троє дістали поранення. Про це повцідомили у Херсонській ОВА.",
-    "87ae6393face82ad": "Одна людина загинула, і ще троє поранені через російські обстріли Херсонщини. Ворог пошкодив будинки, авто, пошту, театр та інші обʼєкти.",
-    "beda64fdda92b502": "Ворог за добу обстріляв 34 населені пункти Херсонщини - один загиблий, троє поранених. Російські загарбники минулої доби із застосуванням дронів, авіації й артилерії атакували 34 населені пункти Херсонської області, унаслідок чого одна людина загинула, ще троє дістали поранення.",
+    "5a5ed59b1acc7077": "Росіяни атакували підприємства у Чернігові: 2 загиблих. Унаслідок ударів по двох підприємствах Чернігова 16 листопада загинули дві людини, повідомив Дмитро Брижинський.",
+    "3b5bf9d088726ae3": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міська рада. Ще чотири людини постраждали. Внаслідок атаки руйнувань також зазнали приміщення гаражного кооперативу, повідомив начальник міської військової адміністрації Дмитро Брижинський.",
+    "ca1df21999958824": "Росіяни атакували два підприємства у Чернігові, є загиблі та постраждалі. Росіяни атакували два підприємства у Чернігові. Внаслідок ударів двоє людей загинули, ще четверо травмовані. Також зруйновано приміщення гаражного кооперативу.",
+    "2d86aace1578d81e": "Окупанти завдали ударів по підприємствах у Чернігові, відомо про двох загиблих. Двоє людей загинули та четверо постраждали внаслідок російських ударів по Чернігову, повідомляє пресслужба Чернігівської міської ради в понеділок.",
+    "cffdaf298ec9aa83": "Росіяни атакували підприємства в Чернігові, двоє загиблих. Росіяни в понеділок, 16 листопада атакували Чернігів. Вдарили по двох підприємствах. Про це повідомила пресслужба Чернігівської міської ради. Там зазначили, що ворог завдав ударів по двох приватних підприємствах у Чернігові. Спершу було відомо про двох загиблих і одного постраждалого. Пізніше кількість постраждалих зросла до чотирьох. Нагадаємо, 15 листопада окупанти атакували об’єкт критичної інфраструктури в місті... Запис Росіяни атакували підприємства в Чернігові, двоє загиблих спершу з'явиться на Громадське радіо .",
+    "e9429a445f31f533": "Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування. Війська рф 16 листопада завдали ударів по підприємствах та об'єктах інфраструктури у Чернігові, Балаклії Харківської області та Дніпрі. Внаслідок атак у Чернігові та Балаклії загинули троє людей, ще восьмеро дістали поранення. У Дніпрі після влучання в об'єкт харчової промисловості виникла пожежа, інформацію про можливих постраждалих уточнюють. Про це повідомляють начальник Чернігівської МВА Дмитро Брижинський, начальник […] The post Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування appeared first on Рубрика .",
+    "ce5d0089e124d688": "рф атакувала підприємства у Чернігові – є загиблі та постраждалі. 16 листопада російські війська вдарили по двох підприємствах у Чернігові Унаслідок атаки загинули дві людини, ще чотири постраждали, пише КУРС. Про це повідомив начальник Чернігівської міської військової адміністрації Дмитро Брижинський. Також через атаку руйнувань зазнали приміщення гаражного кооперативу. КУРС писав, що цього ж дня унаслідок атаки рф у Дніпрі загинула людина, ще 10 постраждали.",
+    "ade882d0e369553e": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міськрада.",
+    "b6d75a9e69ce4950": "Російські війська атакували два приватні підприємства у Чернігові: що відомо. ",
+    "ef07ba61926a7aa2": "У Харкові запровадили спеціальні графіки аварійних відключень світла. У Харкові ввечері 16 листопада запровадили спеціальні графіки аварійних відключень електроенергії після обстрілів енергосистеми.",
+    "2a5393b555b3c0db": "Аварійні відключення запровадили на Харківщині: що відомо. Вранці 17 листопада в АТ “Харківобленерго” повідомили, що на Харківщині ввели аварійні відключення світла. “У...",
+    "e7741973bb24c328": "На Харківщині 17 листопада діють аварійні відключення електроенергії. У Харкові та області 17 листопада застосували графіки аварійних відключень електроенергії. Про це повідомили в АТ «Харківобленерго». Енергетики закликають жителів регіону ощадливо споживати електроенергію та за можливості обмежити використання електроприладів. Нагадаємо, що протягом жовтня українські енергетики відновили електропостачання для майже 10 млн споживачів , які залишилися без світла через російські обстріли та бойові дії. Серед областей, де заживили найбільше споживачів, — Харківська.",
     "9eab38dba0babc84": "У Луцьку попрощаються із захисником Олексієм Хоміком. У вівторок, 17 листопада, у Луцьку проведуть в останню дорогу військовослужбовця Олексія Хоміка, який загинув 9 листопада під час виконання бойового завдання на Сумщині. Про це повідомляють на сайті Луцькради. О 10:30 траурний кортеж вирушить від Волинського обласного бюро судово-медичної експертизи, що на вулиці Стефаника, до кафедрального собору Святої Трійці. Об 11:00 у соборі відбудеться […] The post У Луцьку попрощаються із захисником Олексієм Хоміком appeared first on Волинь Online .",
     "2f67b8d4f51631c5": "Пенсіонерка з Волині звинуватила працівників ТЦК у проникненні до будинку та побитті. [CDATA[ Пенсіонерка з Волині звинуватила працівників ТЦК у проникненні до будинку та побитті]]>",
     "9a208e056225c169": "Чеські партнери зацікавлені у вирощуванні енергетичної тополі у Шацькій громаді. Шацька громада продовжує розвивати міжнародне партнерство та залучати інвестиції, які сприяють ефективному використанню місцевих ресурсів. Про це повідомили на сторінці громади у «Фейсбук». Цього разу громаду відвідали партнери з Чехії, які зустрілися з Богданом Тимошуком, секретарем Шацької селищної ради. Головною темою розмови стало продовження інвестиційної співпраці та можливості розширення проєкту з вирощування енергетичної тополі. Співпраця […] The post Чеські партнери зацікавлені у вирощуванні енергетичної тополі у Шацькій громаді appeared first on Волинь Online .",
     "e29cdd760bdeaffe": "Графік погодинних відключень електроенергії у Хмельницькій області. [CDATA[ Графік погодинних відключень електроенергії у Хмельницькій області]]>",
+    "11d9450b8e377132": "Погода у Хмельницькому та області 17 листопада. Завтра, 17 листопада, у Хмельницькій області буде хмарно. За прогнозами синоптиків, можливий дощ. Про це повідомили у Хмельницькому обласному центрі з гідрометеорології",
     "1fda3a8105587f66": "Графік погодинних відключень світла на Хмельниччині 17 листопада. Завтра, 17 листопада, на Хмельниччині буде діяти графік погодинних відключень світла. Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності",
     "17e8b11c807c034b": "Графік погодинних відключень світла у Хмельницькій області на 17 листопада. Електроенергію вимикатимуть від 4 до 8 годин у кожної підчерги.",
     "63df03b4323743d7": "За підрив залізниці на замовлення спецслужб РФ двох жителів Хмельниччини засудили до 15 років. Їх затримали на наступний день після скоєння диверсії.",
     "08ed198806fba0a8": "Двох жителів Хмельниччини засудили до 15 років ув’язнення за підрив залізниці на замовлення РФ. У Хмельницькій області до 15 років позбавлення волі засудили двох чоловіків, які здійснили підрив залізничної колії на замовлення російських спецслужб.",
     "ac4735b68b5a6cb1": "«Це відволікає від зайвих думок»: гру в петанк почали використовувати для реабілітації ветеранів на Хмельниччині. 41 ветеран із різних громад Хмельниччини взяв участь у навчальному семінарі-практикумі гри у петанк. Такий захід в області відбувся вперше, провели його у Меджибізькій фортеці. Гру використали як метод реабілітації ветеранів",
     "70a54ff6fe53dfe8": "Професійна освіта на Закарпатті: чи обирає молодь робітничі спеціальності і як впливає бізнес на підготовку кадрів. Закарпаття було й залишається в активному пошуку кваліфікованих працівників. Після релокації в область близько 400 підприємств кадровий дефіцит став ще більшим, затребувані саме робітничі кадри.",
+    "e5a5099f674cfbc7": "Троє молодих науковців із Закарпаття отримуватимуть стипендії Кабміну. Валерія Рубаняк пн, 16/11/2026 - 12:32 Троє молодих учених із Закарпаття отримуватимуть стипендії Кабміну. Йдеться про трьох науковців УжНУ – професора кафедри програмного забезпечення систем Володимира Поліщука, доцентку кафедри терапевтичної стоматології Ельвіру Данко та професора кафедри економіки, підприємництва та торгівлі Сергія Газуду. Як у понеділок, 16 листопада, повідомили у Закарпатській ОВА, стипендії призначили за результатами останнього конкурсного відбору. Загалом фінансову підтримку отримають 146 молодих учених із 45 закладів вищої освіти та наукових установ України.",
+    "a0d1a67d4fd94122": "Кільком закарпатським ученим виділять стипендію Кабміну. Троє представників Ужгородського університету стали переможцями конкурсу на призначення державних стипендій для молодих учених.",
     "2b5f568f69e47d99": "На Закарпатті на території одного із КПП водій збив прикордонника: що відомо. Поліцейські встановили особу водія позашляховика, причетного до наїзду на співробітника Державної прикордонної служби України у Тячеві.",
     "696086f262bc20ea": "Закарпатець на джипі збив прикордонника на КПП і втік. [CDATA[ Закарпатець на джипі збив прикордонника на КПП і втік]]>",
-    "72c1d4fc3c45cd68": "У Тячеві на блокпосту водій позашляховика збив прикордонника та втік. Валерія Рубаняк пн, 16/11/2026 - 14:21 У Тячеві на території контрольно-пропускного пункту водій позашляховика збив 39-річного співробітника Держприкордонслужби, а потім втік. Унаслідок ДТП прикордонник потрапив до лікарні. Аварія сталася 15 листопада близько 20:04. Як поінформували у поліції Закарпаття, під час несення служби в темну пору доби 39-річний прикордонник вийшов на зустрічну смугу, якою саме рухався автомобіль. Після зіткнення водій чорного позашляховика не зупинився та залишив місце ДТП. «Поліцейські встановили особу водія – ним виявився місцевий житель.",
-    "e5a5099f674cfbc7": "Троє молодих науковців із Закарпаття отримуватимуть стипендії Кабміну. Валерія Рубаняк пн, 16/11/2026 - 12:32 Троє молодих учених із Закарпаття отримуватимуть стипендії Кабміну. Йдеться про трьох науковців УжНУ – професора кафедри програмного забезпечення систем Володимира Поліщука, доцентку кафедри терапевтичної стоматології Ельвіру Данко та професора кафедри економіки, підприємництва та торгівлі Сергія Газуду. Як у понеділок, 16 листопада, повідомили у Закарпатській ОВА, стипендії призначили за результатами останнього конкурсного відбору. Загалом фінансову підтримку отримають 146 молодих учених із 45 закладів вищої освіти та наукових установ України.",
-    "a0d1a67d4fd94122": "Кільком закарпатським ученим виділять стипендію Кабміну. Троє представників Ужгородського університету стали переможцями конкурсу на призначення державних стипендій для молодих учених."
+    "72c1d4fc3c45cd68": "У Тячеві на блокпосту водій позашляховика збив прикордонника та втік. Валерія Рубаняк пн, 16/11/2026 - 14:21 У Тячеві на території контрольно-пропускного пункту водій позашляховика збив 39-річного співробітника Держприкордонслужби, а потім втік. Унаслідок ДТП прикордонник потрапив до лікарні. Аварія сталася 15 листопада близько 20:04. Як поінформували у поліції Закарпаття, під час несення служби в темну пору доби 39-річний прикордонник вийшов на зустрічну смугу, якою саме рухався автомобіль. Після зіткнення водій чорного позашляховика не зупинився та залишив місце ДТП. «Поліцейські встановили особу водія – ним виявився місцевий житель."
   },
-  "budget_characters": 1556,
-  "characters": 1229,
-  "stories": 3,
-  "retold": 3,
+  "budget_characters": 1468,
+  "characters": 1213,
+  "stories": 5,
+  "retold": 4,
   "log": {
     "llm": {
       "model": "claude-opus-5-5",
-      "input_tokens": 15242,
-      "output_tokens": 1967,
-      "request_id": "req_011Ch83ye7p2mNbEXFec2AVT"
+      "input_tokens": 18068,
+      "output_tokens": 1865,
+      "request_id": "req_011Ch8GdVhzmjPNvkRReGzVd"
     },
-    "rejected": [],
-    "fallback": [],
+    "rejected": [
+      {
+        "story_ids": [
+          "national-c-15072d061d59631a"
+        ],
+        "text": "У Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада. Загинули 72 людини, четверо залишаються зниклими безвісти. Про це повідомив міністр внутрішніх справ Іван Вигівський. За його словами, під час робіт російські війська 9 разів атакували місце розбору завалів.",
+        "problems": [
+          "не знайдено в джерелах: number «9»"
+        ]
+      }
+    ],
+    "fallback": [
+      "national-c-15072d061d59631a"
+    ],
     "left_out": [
-      "national-c-0800aed63021a865",
+      "national-c-078f8daa84ba9c8e",
+      "national-c-03867e5ad5d16003",
       "regional-c-07f77e6f643d2c3e",
       "regional-c-4c4af237d3862e95",
-      "regional-c-04b0e360a2626e73",
-      "regional-c-87ae6393face82ad"
+      "regional-c-2d86aace1578d81e",
+      "regional-c-2a5393b555b3c0db"
     ],
     "strikes_digest": {
-      "merged": true,
-      "stories": 5,
-      "killed": 148,
-      "injured": 18
+      "merged": false,
+      "why": "у області понад 20 загиблих — окремий сюжет, без суми",
+      "regions": {
+        "zaporizhzhia": 72
+      },
+      "skipped": [
+        {
+          "item_id": "a73244fff30dfc31",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "4e22cfa0a58fb51c",
+          "skipped": "інша дата в тексті: 14 жовтня"
+        },
+        {
+          "item_id": "7dc6729b6d904f37",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "c0f719d10abbf009",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "dfbde6ef00276368",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "af5523ea54d0b7d8",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "f67d7daf7cc03870",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "15072d061d59631a",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "eaaab997a255d64c",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "bc531910db36f9ca",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "78250d8e424d8601",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "8508964825db2d45",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "94a4910a07317961",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "1f72afbdd338260b",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "a292abc9907a1ee3",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "7697a70943983989",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "a810dbe99d85814f",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "5c313f23a666a077",
+          "skipped": "інша дата в тексті: 2 листопада"
+        },
+        {
+          "item_id": "c41845152e421cb7",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "4fecf95b1f4c7a85",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "02ff0c78dd8478a2",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "cbfc84ddf291d70d",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "5481690dd6fef909",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "4a015aa314fd31e2",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "acc1bfbf98dd9635",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "5d4edda309f3da85",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "1daef0491f5d4a22",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "3fe5741825b08808",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "4c25862e777ee8b3",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "b686e2d3f04042ee",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "1a61821dc10c91a3",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "903e2fedc3cb3ec5",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "52025976fb1ed3da",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "d735221e95082510",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "760412d9bc5aec01",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "bce713ff5a838fbb",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "cb555f8dcc652062",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "dc84bb9dfa85fa77",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "a5b4af9075d082d0",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "771a7aa8f3ad4c8e",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "f9495422d8ee5d6f",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "091c854243a4322e",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "50c26d064100dcc6",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "326421f1b32e5aa6",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "9f116bd9001d2f47",
+          "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "69e94402e724989d",
+          "skipped": "огляд кількох подій"
+        },
+        {
+          "item_id": "5da600a4a2d6981a",
+          "skipped": "окупований Крим"
+        },
+        {
+          "item_id": "8072ea6dcc3942c5",
+          "skipped": "не про російський удар"
+        }
+      ]
     },
-    "cut_for_budget": []
+    "cut_for_budget": [
+      [
+        "regional-c-091c854243a4322e"
+      ]
+    ],
+    "teaser_rejected": "наслідки російських ударів по Херсонщині, Дніпропетровщині, Черкащині та Миколаєву, завершення пошуків у Комишувасі та заяви окупантів про удар по Кримському мосту"
   },
-  "script_sha256": "d80497b0b00c82fbfc29711545dcb2c17e92d28fa9b6c6b725c9cd018f76fccf",
-  "script_text": "Це BRIEF. Головне за сімнадцяте листопада: наслідки російських обстрілів, завершення пошукових робіт у Комишувасі та нове окупаційне призначення в Новій Каховці.\nОкупаційний губернатор Херсонщини Володимир Сальдо призначив Артура Таланова тимчасовим очільником окупаційної адміністрації Нової Каховки.\nВін замінив Володимира Оганєсова, який подав у відставку.\nЗа даними ЗМІ, Таланов був одним із перших покупців отрути «Новачок», а у 1997 році естонський суд засудив його за розбій.\nУнаслідок російських ударів за добу в Україні загинули щонайменше 148 людей, ще щонайменше 18 людей поранено.\nНайбільше постраждалих на Запоріжжі та у Криму.\nДвоє чоловіків загинули внаслідок російської атаки на Миколаїв 16 листопада.\nУ Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада.\nТроє людей загинули внаслідок російської атаки на два підприємства Чернігова 16 листопада.\nЧастина Чернівців залишилася без світла після удару російського дрона по підстанції.\nПостраждалих немає, повідомив міський голова Роман Клічук.\nЦе був BRIEF за сімнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+  "script_sha256": "3ace3a874ec1ab57c9c9d159ec34dfc25b9be8ccdca629e91edcb628acf7c7b1",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада.\nНа Херсонщині поблизу села Садове російський дрон атакував чоловіка на мопеді, він загинув.\nПро це повідомив начальник Херсонської ОВА Олександр Прокудін.\nЗа даними Херсонської МВА, загиблий працював на одному з комунальних підприємств міста.\nРосійські війська ударили керованими авіабомбами (КАБами) по селищу Комишуваха Запорізької області, поціливши у школу, де роздавали гуманітарну допомогу: наразі відомо про 31 загиблого і 5 поранених.\nРосійські війська 16 листопада понад 60 разів атакували шість районів Дніпропетровщини безпілотниками та артилерією.\nЗагинули двоє людей, ще 19 поранені, серед них дитина.\nУ ніч на 17 листопада російські війська атакували балістикою Смілу на Черкащині.\nЗа словами начальника Черкаської ОВА Ігоря Табурця, внаслідок двох хвиль обстрілу травмовано шестеро людей.\nУ Миколаєві внаслідок російської атаки на портову та промислову інфраструктуру 16 листопада загинули двоє людей.\nЩе троє поранені.\nЦе був BRIEF за сімнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
 }

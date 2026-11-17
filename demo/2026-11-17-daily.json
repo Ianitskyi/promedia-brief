@@ -6,11 +6,11 @@
   "model": "eleven_v3",
   "voice": "TEyBWD5tAHAWqAGEv6yI",
   "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
-  "duration_sec": 90.54,
+  "duration_sec": 86.28,
   "asr_mean_cer": 0.049,
   "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
-  "description": "Щоденний випуск BRIEF. Новин у випуску: 3. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
-  "script_sha256": "d80497b0b00c82fbfc29711545dcb2c17e92d28fa9b6c6b725c9cd018f76fccf",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 5. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "3ace3a874ec1ab57c9c9d159ec34dfc25b9be8ccdca629e91edcb628acf7c7b1",
   "sonic": {
     "intro": "audio/intro.mp3",
     "outro": "audio/outro.mp3"
@@ -22,9 +22,9 @@
       "block": "intro",
       "title": null,
       "audio": "demo/2026-11-17-daily/intro.mp3",
-      "duration_sec": 11.68,
+      "duration_sec": 4.43,
       "text": [
-        "Це BRIEF. Головне за сімнадцяте листопада: наслідки російських обстрілів, завершення пошукових робіт у Комишувасі та нове окупаційне призначення в Новій Каховці."
+        "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада."
       ],
       "sources": []
     },
@@ -32,41 +32,57 @@
       "id": "story-1",
       "kind": "story",
       "block": "national",
-      "title": "Нова Каховка",
+      "title": "Удар по Херсонщині",
       "audio": "demo/2026-11-17-daily/story-1.mp3",
-      "duration_sec": 22.48,
+      "duration_sec": 15.92,
       "topics": [
         "Війна та безпека",
-        "Політика"
+        "Бізнес"
       ],
       "regions": [
         "kherson"
       ],
       "text": [
-        "Окупаційний губернатор Херсонщини Володимир Сальдо призначив Артура Таланова тимчасовим очільником окупаційної адміністрації Нової Каховки.",
-        "Він замінив Володимира Оганєсова, який подав у відставку.",
-        "За даними ЗМІ, Таланов був одним із перших покупців отрути «Новачок», а у 1997 році естонський суд засудив його за розбій."
+        "На Херсонщині поблизу села Садове російський дрон атакував чоловіка на мопеді, він загинув.",
+        "Про це повідомив начальник Херсонської ОВА Олександр Прокудін.",
+        "За даними Херсонської МВА, загиблий працював на одному з комунальних підприємств міста."
       ],
       "sources": [
         {
           "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/okupanti-priznachili-rosijskogo-vijskovogo-keruvati-novoju-kahovkoju"
+          "url": "https://most.ks.ua/news/url/rosijani-z-dronu-atakuvali-moped-na-hersonschini-zaginuv-cholovik"
         },
         {
-          "name": "IPC-Південь",
-          "url": "https://ipc.org.ua/uk/2026/11/pokupecz-otruty-novachok-i-zasudzhenyj-za-rozbij-v-estoniyi-oficzera-rf-artura-talanova-pryznachyly-novym-gaulyajterom-novoyi-kahovky"
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/na-hersonshhyni-dron-atakuvav-cholovika-na-mopedi-vin-zagynuv"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1453514-u-sadovomu-poblizu-hersona-rosijskij-dron-atakuvav-moped-zaginuv-colovik"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237028.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/16/rosiyskyy-dron-atakuvav-na-khersonshchyni-cholovika-na-mopedi-vin-zahynuv"
         },
         {
           "name": "МОСТ",
-          "url": "https://most.ks.ua/news/url/novij-okupatsijnij-ochilnik-novoji-kahovki-jmovirno-figuruvav-u-spravi-pro-novichok"
+          "url": "https://most.ks.ua/news/url/unaslidok-udaru-rosijskogo-drona-poblizu-sadovogo-zaginuv-komunalnik-z-hersona"
         },
         {
           "name": "Вгору",
-          "url": "https://vgoru.org/novini/priznacili-novogo-nezakonnogo-ocilnika-okupovanoyi-novoyi-kaxovki-na-xersonshhini"
+          "url": "https://vgoru.org/novini/vnaslidok-ataki-drona-rosiiskix-viisk-na-xersonshhini-zaginuv-komunalnik"
         },
         {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185209-gaulajterom-novoi-kahovki-priznacili-oficera-rf-akij-buv-odnim-iz-persih-pokupciv-novicka-zmi.html"
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kherson/1453872-dronovi-ataki-hersona-ta-sadovogo-evakuacia-ditej-z-tot-1728-den-vijni-golovni-podii-u-hersonskij-oblasti"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/u-hersonskij-gromadi-cherez-rosijski-udari-zaginula-ljudina-dvoje-poraneni"
         }
       ]
     },
@@ -74,77 +90,20 @@
       "id": "story-2",
       "kind": "story",
       "block": "national",
-      "title": "Наслідки російських ударів",
+      "title": "Удар РФ по школі у Комишувасі, де роздавали гумдопомогу: 72 загинули, 4 зникли безвісти, 5 поранені",
       "audio": "demo/2026-11-17-daily/story-2.mp3",
-      "duration_sec": 34.91,
+      "duration_sec": 16.72,
       "topics": [
         "Війна та безпека",
-        "Бізнес",
-        "Суспільство",
-        "Економіка",
-        "Міжнародне"
+        "Суспільство"
       ],
       "regions": [
-        "mykolaiv",
-        "zaporizhzhia",
-        "chernihiv",
-        "dnipropetrovsk",
-        "kharkiv",
-        "crimea",
-        "cherkasy"
+        "zaporizhzhia"
       ],
       "text": [
-        "Унаслідок російських ударів за добу в Україні загинули щонайменше 148 людей, ще щонайменше 18 людей поранено.",
-        "Найбільше постраждалих на Запоріжжі та у Криму.",
-        "Двоє чоловіків загинули внаслідок російської атаки на Миколаїв 16 листопада.",
-        "У Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада.",
-        "Троє людей загинули внаслідок російської атаки на два підприємства Чернігова 16 листопада."
+        "Російські війська ударили керованими авіабомбами (КАБами) по селищу Комишуваха Запорізької області, поціливши у школу, де роздавали гуманітарну допомогу: наразі відомо про 31 загиблого і 5 поранених."
       ],
       "sources": [
-        {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html"
-        },
-        {
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni"
-        },
-        {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/mykolaiv/1453879-u-mikolaevi-zrosla-kilkist-zagiblih-vnaslidok-rosijskih-atak-rf-atakuvala-porti-i-promislovist"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781622_vchora_rosiyani_vbili_dvoh.html"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-mykolaiv-ataka/33900110.html"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada"
-        },
         {
           "name": "Укрінформ",
           "url": "https://ukrinform.ua/rubric-regions/4185310-u-komisuvasi-zaversili-posukovoratuvalni-roboti-kilkist-zagiblih-zrosla-do-72.html"
@@ -210,6 +169,10 @@
           "url": "https://lokatormedia.online/shchonajmenshe-72-zahyblykh-u-pidzemnij-shkoli-komyshuvakhy-zavershyly-poshukovo-riatuvalnu-operatsiiu"
         },
         {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-u-komishuvasi-kilkist-zagiblikh-cherez-udar-rf-2-listopada-zrosla-do-55"
+        },
+        {
           "name": "Курс",
           "url": "https://kurs.if.ua/tragediya-u-komyshuvasi-vnaslidok-udaru-rf-zagynuly-72-lyudyny"
         },
@@ -218,65 +181,84 @@
           "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/udar-rf-po-komyshuvasi-zahynulo-72-lyudyny-poshukovi-roboty-zaversheno"
         },
         {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada"
+        },
+        {
           "name": "ПІК",
           "url": "https://pik.net.ua/2026/11/17/zagynuly-72-lyudyny-u-komyshuvasi-zavershyly-poshukovo-ryatuvalni-roboty"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Дніпропетровщина",
+      "audio": "demo/2026-11-17-daily/story-3.mp3",
+      "duration_sec": 12.69,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "dnipropetrovsk"
+      ],
+      "text": [
+        "Російські війська 16 листопада понад 60 разів атакували шість районів Дніпропетровщини безпілотниками та артилерією.",
+        "Загинули двоє людей, ще 19 поранені, серед них дитина."
+      ],
+      "sources": [
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/dvoye-zagyblyh-i-19-poranenyh-rosijski-vijska-atakuvaly-shist-rajoniv"
         },
         {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/16/8063084"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/rosiyany-atakuvaly-dva-pidpryyemstva-chernihovi-ye-zahybli-ta-postrazhdali"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237120.html"
-        },
-        {
-          "name": "Громадське радіо",
-          "url": "https://hromadske.radio/news/2026/11/16/rosiiany-atakuvaly-pidpryiemstva-v-chernihovi-dvoie-zahyblykh"
-        },
-        {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/11/16/v-chernigovi-balakliyi-ta-dnipri"
-        },
-        {
-          "name": "Курс",
-          "url": "https://kurs.if.ua/rf-atakuvala-pidpryyemstva-u-chernigovi-ye-zagybli-ta-postrazhdali"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/ukraine/events/chernigiv-atakuvali-banderoli-ta-droni-ye-zagibli-ta-poraneni-novini-chernigova-50659576.html"
-        },
-        {
-          "name": "Час Чернігівський",
-          "url": "https://cntime.cn.ua/rosijski-vijska-atakuvali-dva-privatni-pidpriyemstva-u-chernigovi-sho-vidomo-article"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781530_rosiya_atakuvala.html"
         },
         {
           "name": "Суспільне Новини",
-          "url": "https://suspilne.media/chernihiv/1453890-kilkist-zagiblih-unaslidok-ataki-rf-po-pidpriemstvah-cernigova-16-listopada-zbilsilas-do-troh-ludej"
+          "url": "https://suspilne.media/dnipro/1453784-vijska-rf-ponad-60-raziv-atakuvali-sist-rajoni-v-dnipropetrovsini-e-zagibli-ponad-20-poranenih"
         },
         {
-          "name": "hromadske",
-          "url": "https://hromadske.ua/suspilstvo/274492-u-komyshuvasi-cherez-rosiyskyy-udar-zahynuly-72-liudyny-a-okupanty-zaiavyly-pro-udar-po-krymskomu-mostu-holovne-za-16-lystopada"
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116968-na-dnipropetrovshhini-vnaslidok-rosiiskix-atak-zaginuli-dvoje-liudei-shhe-19-poraneni"
         },
         {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/17/8063184"
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/majzhe-20-atak-na-dnipropetrovshhynu-rosiyany-byly-po-shesty-rajonah"
         },
         {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/17/novyna/bezpeka/okupanty-vdruhe-dobu-zayavyly-pro-urazhennya-krymskoho-mostu"
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1453878-bili-bezpilotniami-ta-raketami-vijska-rf-majze-20-raziv-atakuvali-dnipro-ta-oblast-protagom-noci"
         },
         {
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/pislia-povtornoyi-ataki-na-krimskii-mist-obvalilisia-arka-ta-prolit-avtomobilnoyi-chastini"
-        },
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185388-zagarbniki-z-vecora-majze-20-raziv-atakuvali-dnipro-ta-oblast-e-poskodzenna.html"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по Смілі",
+      "audio": "demo/2026-11-17-daily/story-4.mp3",
+      "duration_sec": 15.3,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "cherkasy",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "У ніч на 17 листопада російські війська атакували балістикою Смілу на Черкащині.",
+        "За словами начальника Черкаської ОВА Ігоря Табурця, внаслідок двох хвиль обстрілу травмовано шестеро людей."
+      ],
+      "sources": [
         {
           "name": "Суспільне Новини",
           "url": "https://suspilne.media/cherkasy/1453492-na-cerkasini-lunali-vibuhi-so-vidomo"
@@ -284,10 +266,6 @@
         {
           "name": "18000",
           "url": "https://18000.com.ua/strichka-novin/rosiya-vdarila-balistikoyu-po-smili-troye-lyudej-travmovani"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781604_rf_vdarila_balistikoyu_smili.html"
         },
         {
           "name": "Інтерфакс-Україна",
@@ -304,126 +282,55 @@
         {
           "name": "ЗMI.ck.ua",
           "url": "https://zmi.ck.ua/sotsium/sered-noch-rf-vdarila-po-sml-balstikoyu.html"
-        },
-        {
-          "name": "ЗMI.ck.ua",
-          "url": "https://zmi.ck.ua/sotsium/tyajka-doba-dlya-cherkaschini-u-ova-povdomili-nasldki-vorojo-ataki-balstikoyu.html"
-        },
-        {
-          "name": "18000",
-          "url": "https://18000.com.ua/strichka-novin/visim-raket-po-smili-naslidki-povitryanix-atak-na-cherkashhini"
         }
-      ],
-      "digest": {
-        "killed": 148,
-        "injured": 18,
-        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
-        "parts": [
-          {
-            "place": "на Миколаївщині",
-            "kind": "загиблі",
-            "n": 2,
-            "source": "МикВісті",
-            "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh"
-          },
-          {
-            "place": "на Миколаївщині",
-            "kind": "поранені",
-            "n": 3,
-            "source": "МикВісті",
-            "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh"
-          },
-          {
-            "place": "на Запоріжжі",
-            "kind": "загиблі",
-            "n": 72,
-            "source": "Суспільне Новини",
-            "url": "https://suspilne.media/zaporizhzhia/1443285-rosiani-udarili-kabami-po-skoli-u-komisuvasi-de-rozdavali-gumanitarnu-dopomogu-18-zaginuli-sonajmense-5-poraneni"
-          },
-          {
-            "place": "на Запоріжжі",
-            "kind": "поранені",
-            "n": 5,
-            "source": "Суспільне Новини",
-            "url": "https://suspilne.media/zaporizhzhia/1443285-rosiani-udarili-kabami-po-skoli-u-komisuvasi-de-rozdavali-gumanitarnu-dopomogu-18-zaginuli-sonajmense-5-poraneni"
-          },
-          {
-            "place": "на Чернігівщині",
-            "kind": "загиблі",
-            "n": 2,
-            "source": "Українська правда",
-            "url": "https://pravda.com.ua/news/2026/11/16/8063084"
-          },
-          {
-            "place": "на Чернігівщині",
-            "kind": "поранені",
-            "n": 4,
-            "source": "Новинарня",
-            "url": "https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly"
-          },
-          {
-            "place": "у Криму",
-            "kind": "загиблі",
-            "n": 72,
-            "source": "hromadske",
-            "url": "https://hromadske.ua/suspilstvo/274492-u-komyshuvasi-cherez-rosiyskyy-udar-zahynuly-72-liudyny-a-okupanty-zaiavyly-pro-udar-po-krymskomu-mostu-holovne-za-16-lystopada"
-          },
-          {
-            "place": "на Черкащині",
-            "kind": "поранені",
-            "n": 6,
-            "source": "Суспільне Новини",
-            "url": "https://suspilne.media/cherkasy/1453492-na-cerkasini-lunali-vibuhi-so-vidomo"
-          }
-        ]
-      }
+      ]
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "kind": "story",
       "block": "national",
-      "title": "Чернівці без світла",
-      "audio": "demo/2026-11-17-daily/story-3.mp3",
-      "duration_sec": 9.73,
+      "title": "Удар по Миколаєву",
+      "audio": "demo/2026-11-17-daily/story-5.mp3",
+      "duration_sec": 9.49,
       "topics": [
         "Війна та безпека",
-        "Економіка"
+        "Суспільство"
       ],
       "regions": [
-        "chernivtsi"
+        "mykolaiv"
       ],
       "text": [
-        "Частина Чернівців залишилася без світла після удару російського дрона по підстанції.",
-        "Постраждалих немає, повідомив міський голова Роман Клічук."
+        "У Миколаєві внаслідок російської атаки на портову та промислову інфраструктуру 16 листопада загинули двоє людей.",
+        "Ще троє поранені."
       ],
       "sources": [
         {
-          "name": "Шпальта",
-          "url": "https://shpalta.media/2026/11/17/cherez-vorozhu-ataku-chastina-chernivciv-zalishilasya-bez-elektriki"
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei"
         },
         {
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/rashystskyj-udar-znestrumyv-chernivtsi-i573389"
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html"
         },
         {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/chernivtsi/1453869-pisla-rosijskoi-ataki-u-cernivcah-pereboi-zi-svitlom-trolejbus-no-2-timcasovo-ne-kursue"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html"
         },
         {
-          "name": "Молодий буковинець",
-          "url": "https://molbuk.ua/chernivtsi_news/366734-u-chernivciakh-vnaslidok-udaru-rf-chastyna-mista-bez-svitla-ne-izdyt-troleibus-2.html"
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni"
         },
         {
-          "name": "А.С.С.",
-          "url": "https://acc.cv.ua/news/chernivtsi/u-chernivcyah-poshkodzhena-pidstanciya-na-svitanku-vorog-atakuvav-chernivecku-oblast-dvoma-bezpilotnikami-123285"
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni"
         },
         {
-          "name": "Шпальта",
-          "url": "https://shpalta.media/2026/11/17/rosiyani-atakuvali-chernivci-dvoma-bezpilotnikami-poshkodzheno-obyekt-energetiki"
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni"
         },
         {
-          "name": "ПІК",
-          "url": "https://pik.net.ua/2026/11/17/u-chernivtsyah-vnaslidok-vorozhoyi-ataky-znyklo-elektropostachannya-u-chastyni-mista"
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh"
         }
       ]
     },
