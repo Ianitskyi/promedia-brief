@@ -67,10 +67,12 @@ def families(clusters, items_by_id, cfg, history=()):
     # Unexpectedness (Galtung & Ruge): how often the subject's main pair of words made several headlines
     # a day in the previous days. The Crimean bridge: 0 of 14 days → rare; «загинув … Херсонщина»: daily.
     for c in clusters:
-        top = Counter()
+        top, top_name = Counter(), Counter()
         for i in c["item_ids"]:
             st = rare[i]
             top.update(tuple(sorted((a, b))) for a in names[i] for b in st if a != b)
+            top_name.update(names[i])
+        c["topic_name"] = top_name.most_common(1)[0][0] if top_name else None
         best = top.most_common(1)
         if not best or best[0][1] < cfg.get("rarity_min_items", 5) or not history:
             c["rarity"], c["topic_pair"] = 0.5, (list(best[0][0]) if best else None)

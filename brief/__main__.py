@@ -98,6 +98,20 @@ def cmd_spoken(a):
         print("-", r["story_ids"], "; ".join(r["problems"]))
 
 
+def cmd_places(a):
+    from . import places
+    from .edition import EDITIONS
+    from .util import load_json, write_json
+
+    base = EDITIONS / a.date
+    log = places.check(load_json(base / "spoken.json", {}), load_json(base / "approved.json", {}))
+    write_json(base / "places.json", log)
+    for p in log["checked"]:
+        print(f"✓ {p['stressed']}  {p['source']}")
+    for p in log["unchecked"]:
+        print(f"? {p['name']}: {p['why']}")
+
+
 def cmd_feature(a):
     from . import featured
 
@@ -171,6 +185,10 @@ def main(argv=None):
     sp.add_argument("--no-llm", action="store_true", help="read the approved sentences, no Claude call")
     sp.add_argument("--budget", type=int, help="characters for the paid voice (default: share of the monthly budget)")
     sp.set_defaults(fn=cmd_spoken)
+
+    pl = sub.add_parser("places", help="check the stress of village and town names in Ukrainian Wikipedia")
+    pl.add_argument("--date", required=True)
+    pl.set_defaults(fn=cmd_places)
 
     fe = sub.add_parser("feature", help="put the voiced daily edition into the home page player")
     fe.add_argument("--date", required=True)

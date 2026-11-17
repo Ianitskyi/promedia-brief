@@ -380,6 +380,7 @@ def build(date, now=None):
         c["score_breakdown"] = f
         c["score"] = importance(f, scoring["weights"])
 
+    all_clusters = clusters
     story_cache, skipped = {}, []
 
     def story_for(c, region=None, key_story=False):
@@ -389,19 +390,15 @@ def build(date, now=None):
                                            int(date[:4]), region, gaz, key=key_story)
         return story_cache[key]
 
-    by_cluster = {c["id"]: c for c in clusters}
+    by_cluster = {c["id"]: c for c in all_clusters}
 
     def with_related(c, story, n_related=3):
         """The latest developments of the same subject from related clusters, as extra sources for the
         retelling (17.11.2026: the Crimean bridge cluster said nothing about the second strike that night)."""
-        pair = c.get("topic_pair")
-        if not pair:
+        if not c.get("topic_name"):
             return story
 
-        def on_topic(r):  # the same main subject, not just a shared place («Запоріжжя»)
-            return any(set(pair) <= set(content_stems(items_by_id[i]["title"])) for i in r["item_ids"][:10])
-
-        rel = sorted((by_cluster[r] for r in c.get("related", ()) if r in by_cluster and on_topic(by_cluster[r])),
+        rel = sorted((by_cluster[r] for r in c.get("related", ()) if r in by_cluster and on_topic(c, by_cluster[r])),
                      key=lambda r: (-r["independent_sources"], r["id"]))[:n_related]
         if not rel:
             return story
@@ -415,6 +412,26 @@ def build(date, now=None):
             story["evidence"][m["id"]] = f"{m['title']}. {m.get('description', '')}"
         return story
 
+    def on_topic(c, r):  # a related cluster whose headlines carry c's main name («Кримськ…»), not just a place
+        name = c.get("topic_name")
+        return bool(name) and any(name in content_stems(items_by_id[i]["title"]) for i in r["item_ids"][:10])
+
+    def representative(c):
+        """Of the clusters about the same subject, the one most outlets reported, with c's score
+        (17.11.2026: the Crimean bridge was told from «часткове відновлення руху», 2 outlets, while the
+        19-outlet cluster about the strike stayed unused)."""
+        name = c.get("topic_name")
+        # only a thin cluster gives way, and only to a much bigger one with the same main name
+        if not name or c["independent_sources"] > 3:
+            return c
+        rel = [by_cluster[r] for r in c.get("related", ())
+               if r in by_cluster and by_cluster[r].get("topic_name") == name]
+        best = max(rel, key=lambda r: r["independent_sources"], default=None)
+        if best is None or best["independent_sources"] < 3 * c["independent_sources"]:
+            return c
+        return dict(best, score=c["score"], score_breakdown=c["score_breakdown"], related=c.get("related", []),
+                    topic_pair=c.get("topic_pair"), topic_name=c.get("topic_name"))
+
     def take(cands, n, block, region=None, per_region=None, used=(), prior=()):
         picked, counts = [], {}
         for c in cands:
@@ -422,9 +439,21 @@ def build(date, now=None):
                 break
             if c["id"] in used:
                 continue
+            c = representative(c)
             dup = next((p for p, _ in list(prior) + picked
-                        if p["id"] in c.get("related", ())
+                        if (p["id"] in c.get("related", ()) and c.get("topic_name")
+                            and c.get("topic_name") == p.get("topic_name"))
                         or clus.likely_same_event(c, p, items_by_id)), None)
+            slot = next((k for k, (p, _) in enumerate(picked) if p is dup), None) if dup else None
+            if dup and slot is not None and c["independent_sources"] > dup["independent_sources"]:
+                # the same event told by more outlets tells it better (17.11.2026: a mixed cluster about the
+                # night's drone attack «на Азов» stood in for the 19-outlet Crimean bridge cluster)
+                story, why = story_for(c, c.get("primary_region") if block != "national" else None, slot == 0)
+                if story and not any(x["status"] == "unsupported" for x in story["sentences"]):
+                    c = dict(c, score=max(c["score"], dup["score"]), score_breakdown=dup["score_breakdown"])
+                    picked[slot] = (c, with_related(c, story))
+                    skipped.append({"cluster": dup["id"], "block": block, "reason": f"same event, told by {c['id']}"})
+                    continue
             if dup:
                 skipped.append({"cluster": c["id"], "block": block, "reason": f"possible duplicate of {dup['id']}"})
                 continue
@@ -445,8 +474,16 @@ def build(date, now=None):
             picked.append((c, with_related(c, story)))
         return picked
 
-    national = take(sorted((c for c in clusters if c["has_national_source"]), key=lambda c: -c["score"]),
-                    ed_cfg["national_stories"], "national")
+    # The day's biggest subjects — most outlets, least routine — are always among the candidates, whatever
+    # their score; the editor (Claude) then puts them in order (17.11.2026: the Crimean bridge, 40+ outlets,
+    # did not make it past routine outage stories).
+    eligible = [c for c in clusters if c["has_national_source"]]
+    by_score = sorted(eligible, key=lambda c: -c["score"])
+    subjects = sorted(eligible, key=lambda c: -(c.get("coverage", c["independent_sources"]) * (0.5 + c.get("rarity", 0.5))))
+    lead = take(subjects, ed_cfg.get("national_subjects", 3), "national")
+    national = take(by_score, ed_cfg["national_stories"] - len(lead), "national", used={c["id"] for c, _ in lead},
+                    prior=lead)
+    national = sorted(lead + national, key=lambda p: -p[0]["score"])
     used = {c["id"] for c, _ in national}
     roundup = take(sorted((c for c in clusters if c["primary_region"] and c["id"] not in used),
                           key=lambda c: -c["score"]), ed_cfg["regional_roundup_stories"], "regional",
