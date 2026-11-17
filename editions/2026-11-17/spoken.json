@@ -1,8 +1,8 @@
 {
   "date": "2026-11-17",
   "kind": "spoken",
-  "made_at": "2026-11-17T11:15:10+00:00",
-  "approved_sha256": "6125caae8a5f34065e10b7a5e3d462693e3033c71ecc8453c5d68984a17a3057",
+  "made_at": "2026-11-17T12:18:50+00:00",
+  "approved_sha256": "a8f72766d34528dd1e802f7a7b060d903f18c8656b5a569dd443f16e01c4bdf5",
   "approved_by": "BRIEF auto (без редактора)",
   "segments": [
     {
@@ -15,7 +15,7 @@
         {
           "id": "intro-s1",
           "kind": "intro",
-          "text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: російський удар по мостах Києва, масштабні знеструмлення на сході та завершення пошуків у Комишувасі."
+          "text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: удар по мостах у Києві, заяви окупантів про удари по Кримському мосту та повний блекаут у Дніпрі."
         }
       ],
       "sources": []
@@ -24,99 +24,421 @@
       "id": "story-1",
       "kind": "story",
       "block": "national",
-      "title": "Знеструмлення на сході",
+      "title": "Мости Києва",
       "include": true,
       "sentences": [
         {
           "id": "story-1-s1",
           "kind": "story",
-          "text": "За даними «Укренерго», через російські удари на сході України масштабні знеструмлення."
+          "text": "У ніч з 16 на 17 листопада Росія вдарила балістикою по Києву."
         },
         {
           "id": "story-1-s2",
           "kind": "story",
-          "text": "Найскладніша ситуація у Дніпрі, Харкові, Полтаві та Запоріжжі."
+          "text": "За словами мера Віталія Кличка, попередньо, є влучання в Північний і Південний мости."
+        },
+        {
+          "id": "story-1-s3",
+          "kind": "story",
+          "text": "Рух обома мостами тимчасово перекрили."
+        },
+        {
+          "id": "story-1-s4",
+          "kind": "story",
+          "text": "Київ розділяє Дніпро, і це головні мости між берегами."
         }
       ],
       "sources": [
         {
-          "item_id": "673c8221481cd865",
+          "item_id": "48a407495f384539",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html",
+          "title": "Київ зазнав атаки балістикою, попередньо, є влучання у мости – влада",
+          "published_at": "2026-11-16T21:46:01+00:00"
+        },
+        {
+          "item_id": "cbfc5faf8cc458f3",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/rosiyani-vdarili-ta-potrapili-do-pivnichnogo-ta-pivdennogo-mostiv-kiyeva-klichko-50659772.html",
+          "title": "Росіяни вдарили та влучили у Північний та Південний мости Києва — Кличко",
+          "published_at": "2026-11-16T21:49:00+00:00"
+        },
+        {
+          "item_id": "1afc3ba3f0ad14e7",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237471.html",
+          "title": "У Києві попередньо зафіксовані влучання у Північний та Південний мости – Кличко",
+          "published_at": "2026-11-16T21:50:37+00:00"
+        },
+        {
+          "item_id": "029489d0e061c95e",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/17/novyna/suspilstvo/voroh-atakuvav-balistykoyu-kyyiv-poperedno-ye-vluchannya-po-dvox-stolychnyx-mostax",
+          "title": "Ворог атакував балістикою Київ, попередньо, є влучання по двох столичних мостах",
+          "published_at": "2026-11-16T22:10:02+00:00"
+        },
+        {
+          "item_id": "bd86057c80bc594d",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063196",
+          "title": "Через російський удар у Києві перекрили рух Північним і Південним мостами",
+          "published_at": "2026-11-17T04:30:00+00:00"
+        },
+        {
+          "item_id": "304eb393decfb7f9",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185377-vnaslidok-vorozih-udariv-po-kievu-timcasovo-perekritij-ruh-pivnicnim-i-pivdennim-mostami.html",
+          "title": "Внаслідок ворожих ударів по Києву тимчасово перекритий рух Північним та Південним мостами",
+          "published_at": "2026-11-17T04:34:00+00:00"
+        },
+        {
+          "item_id": "aadef0249011a932",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosija-atakuvala-mosti-kijeva-balistichnimi-raketami.html",
+          "title": "У Києві після ракетної атаки РФ перекрили рух Північним і Південним мостами",
+          "published_at": "2026-11-17T04:55:00+00:00"
+        },
+        {
+          "item_id": "bd0ceed7cc8ff7a3",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1453870-u-kievi-perekrili-pivnicnij-ta-pivdennij-mosti-ak-kursue-transport",
+          "title": "У Києві перекрили Північний та Південний мости: як курсує транспорт",
+          "published_at": "2026-11-17T05:08:15+00:00"
+        },
+        {
+          "item_id": "a25c699659667d64",
           "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781518_ukrenergo_cherez_ataki_rf.html",
-          "title": "\"Укренерго\": через атаки РФ по енергоінфраструктурі на сході України фіксують масштабні відключення",
-          "published_at": "2026-11-16T15:56:00+00:00"
+          "url": "https://lb.ua/society/2026/11/17/781594_rosiyani_kilka_hvil_vdarili.html",
+          "title": "Росіяни в кілька хвиль вдарили по Києву балістикою, є влучання в мости та загиблі (доповнено)",
+          "published_at": "2026-11-17T05:49:00+00:00",
+          "related": true
         },
         {
-          "item_id": "781ca6ef0cd4a300",
-          "name": "Слобідський край",
-          "url": "https://slk.kh.ua/oblast-online/harkiv/harkiv-sered-mist-iz-najskladnisou-situacieu-zi-svitlom-pisla-rosijskih-udariv.html",
-          "title": "У Харкові склалася одна з найскладніших ситуацій з електропостачанням — «Укренерго»",
-          "published_at": "2026-11-16T15:59:00+00:00"
+          "item_id": "dbcdd25ad8ea5d7f",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kyiv-ataka-mosty/33900080.html",
+          "title": "Рух Північним і Південним мостами в Києві перекрили після нічного удару РФ – влада",
+          "published_at": "2026-11-17T04:59:25+00:00",
+          "related": true
         },
         {
-          "item_id": "198952a7b2241b78",
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1116925-rosiia-ponad-misiac-atakuje-energeticnu-infrastrukturu-ukrayini-naslidki-novix-udariv",
-          "title": "У Дніпрі, Харкові, Полтаві та Запоріжжі — знеструмлення",
-          "published_at": "2026-11-16T16:01:00+00:00"
-        },
-        {
-          "item_id": "66dcef33c6db0145",
-          "name": "Dnipro.media",
-          "url": "https://dnipro.media/novyny-dnipro/masshtabni-znestrumlennya-na-shodi-ukrayiny-cherez-vorozhi-udary",
-          "title": "Масштабні знеструмлення на сході України через ворожі удари",
-          "published_at": "2026-11-16T16:05:10+00:00"
-        },
-        {
-          "item_id": "e4217e6c0a3803f7",
-          "name": "Еспресо",
-          "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiyski-udari-sprichinili-masshtabni-znestrumlennya-na-skhodi-ukraini-de-situatsiya-nayskladnisha",
-          "title": "Російські удари спричинили масштабні знеструмлення на сході України: де ситуація найскладніша",
-          "published_at": "2026-11-16T17:26:00+00:00"
-        },
-        {
-          "item_id": "4b7297858f79a343",
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/ukrenerho-nazvalo-chotyry-mista-de-najskladnishe-zi-svitlom",
-          "title": "«Укренерго» назвало чотири міста, де найскладніше зі світлом",
-          "published_at": "2026-11-16T17:26:49+00:00"
-        },
-        {
-          "item_id": "e71edf71a90aea02",
-          "name": "Букви",
-          "url": "https://bukvy.org/v-ukrenergo-poperedyly-pro-masshtabni-znestrumlennya-na-shodi-krayiny",
-          "title": "В Укренерго попередили про масштабні знеструмлення на сході країни",
-          "published_at": "2026-11-16T17:39:43+00:00"
-        },
-        {
-          "item_id": "6d9dfaee1abd0fb7",
-          "name": "SPEKA",
-          "url": "https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm",
-          "title": "Знеструмлення на сході: Росія атакувала енергетику 116 разів за тиждень",
-          "published_at": "2026-11-16T20:37:00+00:00"
+          "item_id": "9e77002658b010c5",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781470_kiievi_vidnovlyuyut_ruh.html",
+          "title": "У Києві відновлюють рух електротранспорту",
+          "published_at": "2026-11-16T12:29:00+00:00",
+          "related": true
         }
       ],
       "retold": true,
       "from_stories": [
-        "national-c-198952a7b2241b78"
+        "regional-c-029489d0e061c95e"
       ]
     },
     {
       "id": "story-2",
       "kind": "story",
       "block": "national",
-      "title": "Комишуваха",
+      "title": "Кримський міст",
       "include": true,
       "sentences": [
         {
           "id": "story-2-s1",
           "kind": "story",
-          "text": "У Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада."
+          "text": "Окупаційний глава Криму Сергій Аксьонов заявив про удар по Кримському мосту 16 листопада."
         },
         {
           "id": "story-2-s2",
           "kind": "story",
-          "text": "За словами міністра внутрішніх справ Івана Вигівського, загинули 72 людини, четверо вважаються зниклими безвісти."
+          "text": "Рух транспорту обмежили, на під'їздах стояли кілька тисяч авто."
+        },
+        {
+          "id": "story-2-s3",
+          "kind": "story",
+          "text": "У ніч на 17 листопада окупанти заявили про повторний удар."
+        },
+        {
+          "id": "story-2-s4",
+          "kind": "story",
+          "text": "Україна вже уражала міст 8 жовтня 2022 року і 17 липня 2023 року."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "5d4edda309f3da85",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063032",
+          "title": "Окупанти заявили про удар по Кримському мосту: розгорнули оперативний штаб",
+          "published_at": "2026-11-16T06:28:00+00:00"
+        },
+        {
+          "item_id": "1daef0491f5d4a22",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1453425-aksonov-zaaviv-pro-urazenna-krimskogo-mostu-16-listopada",
+          "title": "Аксьонов заявив про ураження Кримського мосту 16 листопада",
+          "published_at": "2026-11-16T06:29:59+00:00"
+        },
+        {
+          "item_id": "3fe5741825b08808",
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/okupatsijna-vlada-krimu-zajavila-pro-udar-po-krimskomu-mostu-ruh-obmezheno",
+          "title": "Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено",
+          "published_at": "2026-11-16T06:53:10+00:00"
+        },
+        {
+          "item_id": "4c25862e777ee8b3",
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312286-okupanti-zayavili-pro-udar-po-krimskomu-mostu",
+          "title": "Окупанти заявили про удар по Кримському мосту",
+          "published_at": "2026-11-16T07:07:00+00:00"
+        },
+        {
+          "item_id": "b686e2d3f04042ee",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html",
+          "title": "Аксьонов заявив, що Україна вдарила по Кримському мосту",
+          "published_at": "2026-11-16T07:09:00+00:00"
+        },
+        {
+          "item_id": "1a61821dc10c91a3",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-krym-mist-ataka/33899386.html",
+          "title": "В окупованому Криму підтвердили удар по Керченському мосту, рух ним обмежили",
+          "published_at": "2026-11-16T07:19:37+00:00"
+        },
+        {
+          "item_id": "903e2fedc3cb3ec5",
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/u-krimu-zaiavili-pro-udar-po-krimskomu-mostu-rukh-pieriekrili-poyizdi-zatrimuiutsia",
+          "title": "У Криму заявили про удар по Кримському мосту: рух перекрили, поїзди затримуються",
+          "published_at": "2026-11-16T07:20:46+00:00"
+        },
+        {
+          "item_id": "52025976fb1ed3da",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236946.html",
+          "title": "ЗСУ завдали удару по Кримському мосту, рух обмежено щонайменше до середини дня – медіа",
+          "published_at": "2026-11-16T07:24:51+00:00"
+        },
+        {
+          "item_id": "d735221e95082510",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4185035-krimskij-mist-perekrili-pisla-ataki-zmi.html",
+          "title": "Кримський міст перекрили після атаки - ЗМІ",
+          "published_at": "2026-11-16T07:26:00+00:00"
+        },
+        {
+          "item_id": "760412d9bc5aec01",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407643-ponad-sotnyu-bezpilotnykiv-atakuvaly-krymskyj-mist-shho-vidomo-pro-naslidky",
+          "title": "Понад сотню безпілотників атакували Кримський міст: що відомо про наслідки",
+          "published_at": "2026-11-16T07:30:00+00:00"
+        },
+        {
+          "item_id": "bce713ff5a838fbb",
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/16/atakovanij-krimskij-mist-ruh-obmezhenij-zastryagli-tisyachi-avto-pokosilo-arku",
+          "title": "Атакований Кримський міст: рух обмежений, застрягли тисячі авто, покосило арку",
+          "published_at": "2026-11-16T07:42:09+00:00"
+        },
+        {
+          "item_id": "cb555f8dcc652062",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/16/ukraina-vdaryla-po-krymskomu-mostu",
+          "title": "Україна вдарила по Кримському мосту",
+          "published_at": "2026-11-16T07:51:09+00:00"
+        },
+        {
+          "item_id": "dc84bb9dfa85fa77",
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-okupanti-zayavili-shcho-ukraina-zavdala-udaru-po-krimskomu-mostu",
+          "title": "Окупанти заявили, що Україна завдала удару по Кримському мосту",
+          "published_at": "2026-11-16T07:57:00+00:00"
+        },
+        {
+          "item_id": "a5b4af9075d082d0",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/bezpeka/rosiyi-zayavyly-pro-ataku-krymskyj-mist-rux-perekryto",
+          "title": "У росії заявили про атаку на Кримський міст, рух перекрито",
+          "published_at": "2026-11-16T07:58:29+00:00"
+        },
+        {
+          "item_id": "771a7aa8f3ad4c8e",
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/news-krym-kerchenskyi-mist-ataka/33899408.html",
+          "title": "В анексованому Криму підтвердили атаку на Керченський міст, рух транспорту обмежили",
+          "published_at": "2026-11-16T08:12:13+00:00"
+        },
+        {
+          "item_id": "f9495422d8ee5d6f",
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/krymskyj-mist-perekryly-pislya-ataky-droniv-blyzko-2000-avto-zastryagly-v-zatorah",
+          "title": "Кримський міст перекрили після атаки: окупанти повідомляють про пошкодження та величезні затори",
+          "published_at": "2026-11-16T08:35:39+00:00"
+        },
+        {
+          "item_id": "091c854243a4322e",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116756-ukrayinski-viiskovi-urazili-krimskii-mist",
+          "title": "Українські військові вдарили по Кримському мосту",
+          "published_at": "2026-11-16T09:30:00+00:00"
+        },
+        {
+          "item_id": "50c26d064100dcc6",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13721-po-krymskomu-mostu-zavdaly-udaru-rukh-transportu-obmezheno-poshkodzheno-arku",
+          "title": "По Кримському мосту завдали удару: рух транспорту обмежено, пошкоджено арку",
+          "published_at": "2026-11-16T09:45:00+00:00"
+        },
+        {
+          "item_id": "326421f1b32e5aa6",
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/aksonov-zaiavyv-pro-udar-po-krymskomu-mostu-rukh-perekrytyi-zatrymuiutsia-poizdy",
+          "title": "Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди",
+          "published_at": "2026-11-16T10:03:16+00:00"
+        },
+        {
+          "item_id": "9f116bd9001d2f47",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407704-zyavylysya-pershi-foto-poshkodzhen-krymskogo-mostu-pislya-nichnoyi-ataky-bezpilotnykiv",
+          "title": "З’явилися перші фото пошкоджень Кримського мосту після нічної атаки безпілотників",
+          "published_at": "2026-11-16T13:24:58+00:00"
+        },
+        {
+          "item_id": "5da600a4a2d6981a",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063184",
+          "title": "Окупанти заявили про повторний удар по Кримському мосту",
+          "published_at": "2026-11-16T22:44:00+00:00"
+        },
+        {
+          "item_id": "8072ea6dcc3942c5",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist",
+          "title": "Аксьонов заявив про нову атаку на Кримський міст",
+          "published_at": "2026-11-16T23:13:13+00:00"
+        },
+        {
+          "item_id": "a87672184df13235",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/17/novyna/bezpeka/okupanty-vdruhe-dobu-zayavyly-pro-urazhennya-krymskoho-mostu",
+          "title": "Окупанти вдруге за добу заявили про ураження Кримського мосту",
+          "published_at": "2026-11-16T23:42:20+00:00",
+          "related": true
+        },
+        {
+          "item_id": "e48aae6f6766a51b",
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/udar-po-krymskomu-mostu-okupanty-obmezhyly-rukh-u-merezhi-pokazaly-poshkodzhenu-arku",
+          "title": "Удар по Кримському мосту: окупанти обмежили рух, у мережі показали пошкоджену арку",
+          "published_at": "2026-11-16T14:00:05+00:00",
+          "related": true
+        },
+        {
+          "item_id": "428f483bd9782186",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185360-eksdeputatku-vr-krimu-zasudili-do-13-rokiv-za-derzzradu.html",
+          "title": "Ексдепутатку ВР Криму засудили до 13 років за держзраду",
+          "published_at": "2026-11-17T04:55:00+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-091c854243a4322e"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Блекаут у Дніпрі",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Місто Дніпро повністю знеструмлене після російської атаки на енергооб'єкти, повідомили в ДТЕК."
+        },
+        {
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Це вже шостий блекаут у місті за два тижні."
+        },
+        {
+          "id": "story-3-s3",
+          "kind": "story",
+          "text": "Енергетики спершу відновлюють живлення водогону і теплопостачання."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "3e792c211c5f93e0",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063149",
+          "title": "Шостий блекаут за два тижні: РФ залишила без світла майже половину Дніпра",
+          "published_at": "2026-11-16T17:18:00+00:00"
+        },
+        {
+          "item_id": "7913f5971a9a61bb",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/16/dnipro-povnistyu-znestrumlenyj-pislya-rosijskyh-udariv-po-energetytsi",
+          "title": "Дніпро повністю знеструмлений після російських ударів по енергетиці",
+          "published_at": "2026-11-16T17:55:49+00:00"
+        },
+        {
+          "item_id": "a758fd95e6f6feaf",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/energetics/shostij-blekaut-za-dva-tizhni-rosijski-ataki-znestrumili-ves-dnipro.html",
+          "title": "Шостий блекаут за два тижні: російські атаки знеструмили весь Дніпро",
+          "published_at": "2026-11-16T18:23:00+00:00"
+        },
+        {
+          "item_id": "6d9dfaee1abd0fb7",
+          "name": "SPEKA",
+          "url": "https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm",
+          "title": "Знеструмлення на сході: Росія атакувала енергетику 116 разів за тиждень",
+          "published_at": "2026-11-16T20:37:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "04b0e360a2626e73",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781544_dtek_misto_dnipro_povnistyu.html",
+          "title": "ДТЕК: місто Дніпро повністю знеструмлене після російської атаки на енергооб’єкти",
+          "published_at": "2026-11-16T17:17:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "64eedc66f49840ac",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html",
+          "title": "Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі",
+          "published_at": "2026-11-16T19:02:40+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-3e792c211c5f93e0"
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Комишуваха",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-4-s1",
+          "kind": "story",
+          "text": "У селищі Комишуваха Запорізької області завершили пошуки після російського удару 2 листопада."
+        },
+        {
+          "id": "story-4-s2",
+          "kind": "story",
+          "text": "За даними міністра внутрішніх справ Івана Вигівського, загинули 72 людини, 4 вважаються зниклими безвісти."
         }
       ],
       "sources": [
@@ -274,491 +596,6 @@
       ]
     },
     {
-      "id": "story-3",
-      "kind": "story",
-      "block": "national",
-      "title": "Атаки на Дніпро",
-      "include": true,
-      "sentences": [
-        {
-          "id": "story-3-s1",
-          "kind": "story",
-          "text": "У Дніпрі через російські атаки загинули двоє людей, повідомив мер Борис Філатов."
-        },
-        {
-          "id": "story-3-s2",
-          "kind": "story",
-          "text": "Ще восьмеро в лікарнях."
-        },
-        {
-          "id": "story-3-s3",
-          "kind": "story",
-          "text": "Майже пів міста без світла."
-        }
-      ],
-      "sources": [
-        {
-          "item_id": "b6665b427977e9b2",
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237384.html",
-          "title": "Мер про атаки на Дніпро: двоє людей загинули, майже пів міста без світла, знову вдарили по \"Олейні\"",
-          "published_at": "2026-11-16T17:19:03+00:00"
-        },
-        {
-          "item_id": "9b813b3133faf64d",
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/u-dnipri-vnaslidok-obstriliv-zagynulo-dvoye-tsyvilnyh-poshkodzheno-10-bagatopoverhivok-polovyna-i573374",
-          "title": "У Дніпрі внаслідок обстрілів загинуло двоє цивільних. Пошкоджено 10 багатоповерхівок, половина міста - без світла",
-          "published_at": "2026-11-16T18:32:59+00:00"
-        },
-        {
-          "item_id": "64eedc66f49840ac",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html",
-          "title": "Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі",
-          "published_at": "2026-11-16T19:02:40+00:00"
-        },
-        {
-          "item_id": "67f498c694ff6404",
-          "name": "Mind.ua",
-          "url": "https://mind.ua/news/20312327-rf-vdarila-po-obektu-harchovoyi-promislovosti-u-dnipri-tam-vinikla-pozhezha",
-          "title": "рф вдарила по об'єкту харчової промисловості у Дніпрі, там виникла пожежа",
-          "published_at": "2026-11-16T18:25:00+00:00",
-          "related": true
-        }
-      ],
-      "retold": true,
-      "from_stories": [
-        "national-c-64eedc66f49840ac"
-      ]
-    },
-    {
-      "id": "story-4",
-      "kind": "story",
-      "block": "national",
-      "title": "Удар по Миколаєву",
-      "include": true,
-      "sentences": [
-        {
-          "id": "story-4-s1",
-          "kind": "story",
-          "text": "У Миколаєві внаслідок російської атаки на порт і підприємство 16 листопада загинули двоє людей, троє поранені."
-        }
-      ],
-      "sources": [
-        {
-          "item_id": "54a72b9ddb09b491",
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei",
-          "title": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА",
-          "published_at": "2026-11-16T12:09:00+00:00"
-        },
-        {
-          "item_id": "bb4673ca7b893e0a",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html",
-          "title": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені",
-          "published_at": "2026-11-16T12:25:28+00:00"
-        },
-        {
-          "item_id": "5138d889a6dca03f",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html",
-          "title": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені",
-          "published_at": "2026-11-16T12:56:00+00:00"
-        },
-        {
-          "item_id": "1f13f402fec0374c",
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni",
-          "title": "У Миколаєві від атаки російських \"Бандеролей\" загинув чоловік, ще двоє поранені",
-          "published_at": "2026-11-16T13:02:31+00:00"
-        },
-        {
-          "item_id": "06c74bdb54a9aa4e",
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni",
-          "title": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені",
-          "published_at": "2026-11-16T13:11:34+00:00"
-        },
-        {
-          "item_id": "92e6a56930b28362",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni",
-          "title": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені",
-          "published_at": "2026-11-16T13:52:23+00:00"
-        },
-        {
-          "item_id": "dbaa42a948ac60ed",
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh",
-          "title": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох",
-          "published_at": "2026-11-17T05:55:00+00:00"
-        }
-      ],
-      "retold": true,
-      "from_stories": [
-        "national-c-06c74bdb54a9aa4e"
-      ]
-    },
-    {
-      "id": "story-5",
-      "kind": "story",
-      "block": "national",
-      "title": "Удар по Азову",
-      "include": true,
-      "sentences": [
-        {
-          "id": "story-5-s1",
-          "kind": "story",
-          "text": "Генштаб ЗСУ підтвердив удар по нафтобазі «Флеш Енерджі» в Азові Ростовської області Росії та по Ільському НПЗ у Краснодарському краї."
-        }
-      ],
-      "sources": [
-        {
-          "item_id": "78b4bc3889c0977b",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781370_rosiya_krim_zaznali_masovanoyi.html",
-          "title": "Росія і Крим зазнали масованої атаки: ворог заявив про збиття понад 1300 БпЛА. Перекривали Керченський міст",
-          "published_at": "2026-11-16T06:02:00+00:00"
-        },
-        {
-          "item_id": "d11d4db431ab926c",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/svit/rostovskij-oblasti-rf-pislya-ataky-droniv-spalaxnuly-pozhezhi-rajoni-naftobaz",
-          "title": "У Ростовській області рф після атаки дронів спалахнули пожежі в районі нафтобаз",
-          "published_at": "2026-11-16T06:11:50+00:00"
-        },
-        {
-          "item_id": "b22ca51f9a7e370e",
-          "name": "Еспресо",
-          "url": "https://espreso.tv/viyna-z-rosiyeyu-u-rosiyskomu-azovi-pislya-ataki-droniv-spalakhnula-pozhezha-bilya-dvokh-naftobaz",
-          "title": "У російському Азові після атаки дронів спалахнула пожежа біля двох нафтобаз",
-          "published_at": "2026-11-16T06:17:00+00:00"
-        },
-        {
-          "item_id": "bb9e2bbc9d846c04",
-          "name": "Букви",
-          "url": "https://bukvy.org/u-rostovskij-oblasti-rf-povidomlyayut-pro-pozhezhu-v-rajoni-dvoh-naftobaz-pislya-ataky-bpla",
-          "title": "У Ростовській області РФ повідомляють про пожежу в районі двох нафтобаз після атаки БпЛА",
-          "published_at": "2026-11-16T06:35:30+00:00"
-        },
-        {
-          "item_id": "c30ce7ab8d39dfe0",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-world/4185029-u-rosijskomu-azovi-pisla-ataki-droniv-spalahnula-pozeza-poblizu-dvoh-naftobaz-zmi.html",
-          "title": "У російському Азові після атаки дронів спалахнула пожежа поблизу двох нафтобаз - ЗМІ",
-          "published_at": "2026-11-16T06:58:00+00:00"
-        },
-        {
-          "item_id": "05c9ab6b0bc0830a",
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/ukrainski-drony-pidpalyly-naftobazu-v-azovi-rostovskoi-oblasti-rosii",
-          "title": "Українські дрони підпалили нафтобазу в Азові Ростовської області Росії",
-          "published_at": "2026-11-16T07:15:09+00:00"
-        },
-        {
-          "item_id": "0cf25cb602b915d0",
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/u-rostovskij-oblasti-pislia-ataky-droniv-spalakhnula-pozhezha-poblyzu-dvokh-naftobaz",
-          "title": "У Ростовській області після атаки дронів спалахнула пожежа поблизу двох нафтобаз",
-          "published_at": "2026-11-16T08:17:12+00:00"
-        },
-        {
-          "item_id": "96fac38a22a50c16",
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/u-rosiiskomu-azovi-pislia-ataki-droniv-spalakhnuli-pozhiezhi-v-raioni-naftobazi-vidieo",
-          "title": "У російському Азові після атаки дронів спалахнули пожежі в районі нафтобази — відео",
-          "published_at": "2026-11-16T08:54:35+00:00"
-        },
-        {
-          "item_id": "7a911e0d06f590a9",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-rosia-azov-ataka-naftobaza/33899525.html",
-          "title": "У російському Азові повідомляють про пожежу на нафтобазі через атаку БпЛА",
-          "published_at": "2026-11-16T10:52:48+00:00"
-        },
-        {
-          "item_id": "6a86e69fb4162aaf",
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/16/8063078",
-          "title": "Генштаб підтвердив удар по нафтобазі в російському Азові – які наслідки",
-          "published_at": "2026-11-16T10:57:00+00:00"
-        },
-        {
-          "item_id": "8bf92af93e205b3c",
-          "name": "Прихист",
-          "url": "https://prikhist.com/2026/11/16/syly-oborony-urazyly-naftobazu-v-rostovskij-oblasti-ta-punkty-upravlinnia-rosijskykh-vijsk",
-          "title": "Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ",
-          "published_at": "2026-11-16T10:59:10+00:00"
-        },
-        {
-          "item_id": "27d8c17684edf6c2",
-          "name": "Фарватер.Схід",
-          "url": "https://farvatermedia.com/news/syly-oborony-urazyly-naftobazu-v-rostovskii-oblasti-ta-punkty-upravlinnia-rosiiskykh-viisk",
-          "title": "Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ",
-          "published_at": "2026-11-16T11:01:54+00:00"
-        },
-        {
-          "item_id": "09a38752457344b4",
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/ukrainski-vijskovi-zavdaly-udaru-po-dvokh-naftobazakh-v-rostovskij-oblasti-rf",
-          "title": "Українські військові завдали удару по двох нафтобазах в Ростовській області РФ",
-          "published_at": "2026-11-16T11:15:26+00:00"
-        },
-        {
-          "item_id": "877e50cdc3d69f5c",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781452_genshtab_pidtverdiv_urazhennya.html",
-          "title": "Генштаб підтвердив ураження нафтобази в Азові та Ільського НПЗ (доповнено)",
-          "published_at": "2026-11-16T11:24:00+00:00"
-        },
-        {
-          "item_id": "2666dd706c0265ea",
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/11/16/udar-po-naftobazi-v-rosijskomu",
-          "title": "Генштаб підтвердив удар по нафтобазі в російському Азові: також уражено пункти управління та військову техніку",
-          "published_at": "2026-11-16T11:26:17+00:00"
-        },
-        {
-          "item_id": "7f28142057e60551",
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1116819-zsu-urazili-naftobazu-v-rostovskii-oblasti-ta-punkti-upravlinnia-protivnika",
-          "title": "ЗСУ уразили нафтобазу в Азові та пункти управління РФ",
-          "published_at": "2026-11-16T11:34:00+00:00"
-        },
-        {
-          "item_id": "9a06b695539e4c7f",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/bezpeka/syly-oborony-vdaryly-po-klyuchovij-naftobazi-yaka-zabezpechuvala-pivdenne-uhrupovannya-armiyi-rf",
-          "title": "Сили оборони вдарили по ключовій нафтобазі, яка забезпечувала південне угруповання армії рф",
-          "published_at": "2026-11-16T12:00:25+00:00"
-        },
-        {
-          "item_id": "0216b5a27edb1c5b",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-ato/4185121-sili-oboroni-urazili-dvi-naftobazi-v-rostovskij-oblasti-rf.html",
-          "title": "Сили оборони уразили Ільський НПЗ та дві нафтобази в Ростовській області РФ",
-          "published_at": "2026-11-16T12:03:00+00:00"
-        },
-        {
-          "item_id": "a06604e8b892c558",
-          "name": "Бабель",
-          "url": "https://babel.ua/news/131792-sili-oboroni-vnochi-vdarili-po-ilskomu-npz-ta-odrazu-dvoh-naftobazah-v-rosiyskomu-azovi",
-          "title": "Сили оборони вночі вдарили по Ільському НПЗ та одразу двох нафтобазах у російському Азові",
-          "published_at": "2026-11-16T12:10:25+00:00"
-        },
-        {
-          "item_id": "27981c13659385a7",
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/u-genshtabi-pidtverdyly-uspishnyj-udar-po-naftobazi-v-azovi-rostovskoyi-oblasti-i573342",
-          "title": "У Генштабі підтвердили успішний удар по нафтобазі в Азові Ростовської області",
-          "published_at": "2026-11-16T12:55:00+00:00"
-        },
-        {
-          "item_id": "f47fa009e4e0ab7c",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-ataka-droniv-azov-suputnykove-foto/33899835.html",
-          "title": "З’явилося супутникове фото нафтобаз в російському Азові після атаки дронів",
-          "published_at": "2026-11-16T21:13:08+00:00"
-        },
-        {
-          "item_id": "49e6df79a8300a84",
-          "name": "Новини Донбасу",
-          "url": "https://novosti.dn.ua/news/407719-syly-oborony-urazyly-ilskyj-naftopererobnyj-zavod",
-          "title": "Сили оборони уразили Ільський нафтопереробний завод",
-          "published_at": "2026-11-16T16:13:49+00:00",
-          "related": true
-        }
-      ],
-      "retold": true,
-      "from_stories": [
-        "national-c-0216b5a27edb1c5b"
-      ]
-    },
-    {
-      "id": "story-6",
-      "kind": "story",
-      "block": "national",
-      "title": "Одещина без світла",
-      "include": true,
-      "sentences": [
-        {
-          "id": "story-6-s1",
-          "kind": "story",
-          "text": "На півночі Одещини через російську атаку 16 листопада без світла 52,2 тисячі родин, повідомили в ДТЕК."
-        }
-      ],
-      "sources": [
-        {
-          "item_id": "8b0e8aa812f34953",
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/odesa/1453475-rf-zavdala-udaru-po-energoobektah-i-majdanciku-dtek-na-odesini-ponad-52-tisaci-spozivaciv-zalisilisa-bez-svitla",
-          "title": "РФ завдала удару по енергооб'єктах і майданчику ДТЕК на Одещині: понад 52 тисячі споживачів залишилися без світла",
-          "published_at": "2026-11-16T08:29:21+00:00"
-        },
-        {
-          "item_id": "8a4b85b060571f48",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781412_odeschini_cherez_rosiyski_ataki.html",
-          "title": "На Одещині через російські атаки без світла залишилися понад 52 тисячі родин",
-          "published_at": "2026-11-16T08:40:00+00:00"
-        },
-        {
-          "item_id": "36307b78de9f5268",
-          "name": "Odesa.Online",
-          "url": "https://odessa.online/rosiyani-atakuvali-energoob-yekti-dtek-na-odeshhini-ponad-52-tisyachi-rodin-bez-svitla",
-          "title": "Ворог атакував енергооб’єкти ДТЕК на Одещині: понад 52 тисячі родин без світла",
-          "published_at": "2026-11-16T08:43:59+00:00"
-        },
-        {
-          "item_id": "7f3f3050d9e4d559",
-          "name": "Гривна",
-          "url": "https://grivna.ua/news/vorog-atakuvav-odeshhynu-bez-svitla-zalyshylysya-ponad-52-tysyachi-abonentiv",
-          "title": "Ворог атакував Одещину: без світла залишилися понад 52 тисячі абонентів",
-          "published_at": "2026-11-16T08:47:03+00:00"
-        },
-        {
-          "item_id": "3ec6cd40b29c65de",
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/rf-atakuvala-objekti-dtek-na-odeshchini-desjatki-tisjach-rodin-zalishilisja-bez-svitla.html",
-          "title": "РФ атакувала об'єкти ДТЕК на Одещині: десятки тисяч родин залишилися без світла",
-          "published_at": "2026-11-16T09:18:57+00:00"
-        },
-        {
-          "item_id": "e4e8a7b6599fa858",
-          "name": "Інтент",
-          "url": "https://intent.press/news/war/2026/ponad-52-tisiachi-rodin-na-odeshchini-zalishilisia-bez-svitla",
-          "title": "Понад 52 тисячі родин на Одещині залишилися без світла",
-          "published_at": "2026-11-16T10:01:35+00:00"
-        },
-        {
-          "item_id": "01a7cd992ddc403a",
-          "name": "Море людей",
-          "url": "https://moreliudei.media/teksty/rf-atakuvala-enerhetyku-odeshchyny-bez-svitla-ponad-52-tys-rodyn",
-          "title": "росія атакувала енергетичні об’єкти ДТЕК на півночі Одещини: без світла залишилися понад 52 тисячі родин",
-          "published_at": "2026-11-16T10:05:10+00:00"
-        },
-        {
-          "item_id": "f533a568b161ba26",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka/33899536.html",
-          "title": "На Одещині через атаку РФ без світла залишилися понад 50 тисяч родин, дві людини постраждали",
-          "published_at": "2026-11-16T11:16:06+00:00"
-        },
-        {
-          "item_id": "56ec559e54bbe9e0",
-          "name": "Odesa.Online",
-          "url": "https://odessa.online/na-odeshhini-ponad-300-tisyach-rodin-znovu-zi-svitlom-pislya-vorozhih-atak",
-          "title": "На Одещині понад 300 тисяч родин знову зі світлом після ворожих атак",
-          "published_at": "2026-11-16T14:26:41+00:00"
-        },
-        {
-          "item_id": "b3613044e1e473b5",
-          "name": "Місто і річка",
-          "url": "https://mistorichka.media/novyny/ekstreni-vidkliuchennia-svitla-dniprovshchyna-16-lystopada",
-          "title": "Росіяни атакували енергооб’єкт ДТЕК: на Дніпровщині понад 31 тисяча родин без світла",
-          "published_at": "2026-11-16T14:30:51+00:00"
-        }
-      ],
-      "retold": true,
-      "from_stories": [
-        "national-c-01a7cd992ddc403a"
-      ]
-    },
-    {
-      "id": "story-7",
-      "kind": "story",
-      "block": "national",
-      "title": "Росіяни вдарили та влучили у Північний та Південний мости Києва — Кличко",
-      "include": true,
-      "sentences": [
-        {
-          "id": "story-7-s1",
-          "kind": "story",
-          "text": "В ніч з 16 на 17 листопада в ході ракетної атаки російські окупанти, попередньо, влучили у Північний і Південний мости у столиці України."
-        }
-      ],
-      "sources": [
-        {
-          "item_id": "48a407495f384539",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html",
-          "title": "Київ зазнав атаки балістикою, попередньо, є влучання у мости – влада",
-          "published_at": "2026-11-16T21:46:01+00:00"
-        },
-        {
-          "item_id": "cbfc5faf8cc458f3",
-          "name": "NV",
-          "url": "https://nv.ua/ukr/kyiv/rosiyani-vdarili-ta-potrapili-do-pivnichnogo-ta-pivdennogo-mostiv-kiyeva-klichko-50659772.html",
-          "title": "Росіяни вдарили та влучили у Північний та Південний мости Києва — Кличко",
-          "published_at": "2026-11-16T21:49:00+00:00"
-        },
-        {
-          "item_id": "1afc3ba3f0ad14e7",
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237471.html",
-          "title": "У Києві попередньо зафіксовані влучання у Північний та Південний мости – Кличко",
-          "published_at": "2026-11-16T21:50:37+00:00"
-        },
-        {
-          "item_id": "029489d0e061c95e",
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/17/novyna/suspilstvo/voroh-atakuvav-balistykoyu-kyyiv-poperedno-ye-vluchannya-po-dvox-stolychnyx-mostax",
-          "title": "Ворог атакував балістикою Київ, попередньо, є влучання по двох столичних мостах",
-          "published_at": "2026-11-16T22:10:02+00:00"
-        },
-        {
-          "item_id": "bd86057c80bc594d",
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/17/8063196",
-          "title": "Через російський удар у Києві перекрили рух Північним і Південним мостами",
-          "published_at": "2026-11-17T04:30:00+00:00"
-        },
-        {
-          "item_id": "304eb393decfb7f9",
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185377-vnaslidok-vorozih-udariv-po-kievu-timcasovo-perekritij-ruh-pivnicnim-i-pivdennim-mostami.html",
-          "title": "Внаслідок ворожих ударів по Києву тимчасово перекритий рух Північним та Південним мостами",
-          "published_at": "2026-11-17T04:34:00+00:00"
-        },
-        {
-          "item_id": "aadef0249011a932",
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/rosija-atakuvala-mosti-kijeva-balistichnimi-raketami.html",
-          "title": "У Києві після ракетної атаки РФ перекрили рух Північним і Південним мостами",
-          "published_at": "2026-11-17T04:55:00+00:00"
-        },
-        {
-          "item_id": "bd0ceed7cc8ff7a3",
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/kyiv/1453870-u-kievi-perekrili-pivnicnij-ta-pivdennij-mosti-ak-kursue-transport",
-          "title": "У Києві перекрили Північний та Південний мости: як курсує транспорт",
-          "published_at": "2026-11-17T05:08:15+00:00"
-        },
-        {
-          "item_id": "a25c699659667d64",
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781594_rosiyani_kilka_hvil_vdarili.html",
-          "title": "Росіяни в кілька хвиль вдарили по Києву балістикою, є влучання в мости та загиблі (доповнено)",
-          "published_at": "2026-11-17T05:49:00+00:00",
-          "related": true
-        },
-        {
-          "item_id": "dbcdd25ad8ea5d7f",
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-kyiv-ataka-mosty/33900080.html",
-          "title": "Рух Північним і Південним мостами в Києві перекрили після нічного удару РФ – влада",
-          "published_at": "2026-11-17T04:59:25+00:00",
-          "related": true
-        }
-      ],
-      "retold": false,
-      "from_stories": [
-        "national-c-029489d0e061c95e"
-      ]
-    },
-    {
       "id": "outro",
       "kind": "outro",
       "block": "outro",
@@ -775,28 +612,31 @@
     }
   ],
   "evidence": {
-    "78b4bc3889c0977b": "Росія і Крим зазнали масованої атаки: ворог заявив про збиття понад 1300 БпЛА. Перекривали Керченський міст. Є інформація про загоряння в районі нафтобаз в Азові Ростовської області.",
-    "d11d4db431ab926c": "У Ростовській області рф після атаки дронів спалахнули пожежі в районі нафтобаз. У Ростовській області рф після атаки дронів виникли пожежі на чотирьох підприємствах в Азові поблизу двох нафтобаз. Відомо про трьох постраждалих.",
-    "b22ca51f9a7e370e": "У російському Азові після атаки дронів спалахнула пожежа біля двох нафтобаз. Про це повідомляє Telegram-канал Astra. Близько опівночі за місцевим часом у Ростовській області оголосили безпілотну небезпеку. Водночас, за даними Astra, місцеві жителі повідомляли про вибухи ще до офіційного оповіщення. Згодом у Telegram-каналах почали з'являтися повідомлення про наслідки атаки на землі. За аналізом Astra, пожежа могла виникнути в районі двох нафтобаз, розташованих неподалік одна від одної в Азові. \"Визначити, яка з них спалахнула, або обидві одразу — неможливо\", — зазначає Astra. Одним із можливих об'єктів є нафтобаза ТОВ \"ФЛЕШ ЕНЕРДЖІ\" за адресою Складський провулок, 12.",
-    "bb9e2bbc9d846c04": "У Ростовській області РФ повідомляють про пожежу в районі двох нафтобаз після атаки БпЛА. У місті Азов Ростовської області Росії під час атаки безпілотників, попередньо, виникла пожежа в районі, де розташовані дві нафтобази. Про це повідомляє ASTRA з посиланням на власний OSINT-аналіз фото та відео очевидців. Запис У Ростовській області РФ повідомляють про пожежу в районі двох нафтобаз після атаки БпЛА спершу з'явиться на Букви .",
-    "c30ce7ab8d39dfe0": "У російському Азові після атаки дронів спалахнула пожежа поблизу двох нафтобаз - ЗМІ. У місті Азов Ростовської області РФ після атаки безпілотників в ніч на 16 листопада, імовірно, виникла пожежа в районі розташування двох нафтобаз.",
-    "05c9ab6b0bc0830a": "Українські дрони підпалили нафтобазу в Азові Ростовської області Росії. Українські безпілотники в ніч на 16 листопада атакували нафтобазу в місті Азов Ростовської області Росії, після чого на об’єкті виникла пожежа. Про це пише моніторинговий Telegram-канал “Exilenova+”. Обережно! На відео звучить нецензурна лексика! Місцеві жителі також заявляють про загоряння газорозподільної станції. Російський паблік “Astra” натомість пише, що пожежа розпочалася у районі, де розташовані одразу дві нафтобази […] The post Українські дрони підпалили нафтобазу в Азові Ростовської області Росії first appeared on Новинарня .",
-    "0cf25cb602b915d0": "У Ростовській області після атаки дронів спалахнула пожежа поблизу двох нафтобаз. У ніч на 16 листопада в російському місті Азов Ростовської області після атаки безпілотників виникла пожежа на території, де розташовані дві нафтобази. Внаслідок атаки постраждали троє чоловіків. Про це повідомляє видання Astra. Фото: Exilenova+ OSINT-аналітик проаналізував фото та відео пожежі й дійшов висновку, що займання виникло поблизу двох нафтобаз, розташованих неподалік одна від одної. Водночас … Continue reading У Ростовській області після атаки дронів спалахнула пожежа поблизу двох нафтобаз →",
-    "96fac38a22a50c16": "У російському Азові після атаки дронів спалахнули пожежі в районі нафтобази — відео. У російському Азові після атаки БпЛА виникли пожежі на чотирьох підприємствах. ASTRA вказує на район двох нафтобаз. Троє людей постраждали.",
-    "7a911e0d06f590a9": "У російському Азові повідомляють про пожежу на нафтобазі через атаку БпЛА. Як пише російський телеграм-канал Astra з посиланням на відео від очевидців, пожежі почалися в районі двох нафтобаз: «Флеш Энерджи» і «Юг-Импэкс». Визначити, яка саме з них загорілася – неможливо. Удар по нафтооб’єкту в російському Азові підтверджує і український телеграм-канал Exilienova+",
-    "6a86e69fb4162aaf": "Генштаб підтвердив удар по нафтобазі в російському Азові – які наслідки. Генеральний штаб підтвердив удар по російській нафтобазі в місті Азов Ростовської області.",
-    "8bf92af93e205b3c": "Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ. 15 листопада та в ніч на 16 листопада українські військові завдали ударів по низці об’єктів російської армії. Серед цілей — нафтобаза в Ростовській області, пункти управління, склад матеріально-технічних засобів і місце зосередження військової техніки. Про це повідомили в Генеральному штабі ЗСУ. У місті Азов Ростовської області уразили нафтобазу ТОВ «Флеш Енерджі». Після влучання на території […]",
-    "27d8c17684edf6c2": "Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ. The post Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ appeared first on Фарватер. Схід .",
-    "09a38752457344b4": "Українські військові завдали удару по двох нафтобазах в Ростовській області РФ. Сили оборони України завдали удару по нафтобазі ТОВ «Флеш Енерджі» в російському місті Азов Ростовської області. Після влучання на підприємстві пролунали вибухи та спалахнула пожежа. Також українські військові уразили низку пунктів управління, склад і місце зосередження російської техніки на окупованих територіях. Про це повідомив Генеральний штаб ЗСУ. За даними військових, ударів по об’єктах завдали 15 … Continue reading Українські військові завдали удару по двох нафтобазах в Ростовській області РФ →",
-    "877e50cdc3d69f5c": "Генштаб підтвердив ураження нафтобази в Азові та Ільського НПЗ (доповнено). Раніше про вибухи повідомляли OSINT-канали.",
-    "2666dd706c0265ea": "Генштаб підтвердив удар по нафтобазі в російському Азові: також уражено пункти управління та військову техніку. Генеральний штаб Збройних сил України підтвердив ураження російської нафтобази в місті Азов Ростовської області рф. Удару завдали підрозділи Сил оборони України 15 листопада та в ніч проти 16 листопада. Крім паливної інфраструктури, під атакою опинилися пункти управління російських військ, склад матеріально-технічних засобів і район зосередження озброєння та військової техніки. Про це повідомили в Генеральному штабі […] The post Генштаб підтвердив удар по нафтобазі в російському Азові: також уражено пункти управління та військову техніку appeared first on Рубрика .",
-    "7f28142057e60551": "ЗСУ уразили нафтобазу в Азові та пункти управління РФ. ЗСУ ударили по нафтобазі у Ростовській області.",
-    "9a06b695539e4c7f": "Сили оборони вдарили по ключовій нафтобазі, яка забезпечувала південне угруповання армії рф. Українські військові уразили ключову нафтобазу росіян Флеш Енерджі у Ростовської області та вдарили по складах і техніці окупантів.",
-    "0216b5a27edb1c5b": "Сили оборони уразили Ільський НПЗ та дві нафтобази в Ростовській області РФ. Підрозділи Сил оборони України 15 листопада та в ніч на 16 листопада уразили Ільський НПЗ, дві нафтобази в Ростовській області та пункти управління російських військ.",
-    "a06604e8b892c558": "Сили оборони вночі вдарили по Ільському НПЗ та одразу двох нафтобазах у російському Азові. ",
-    "27981c13659385a7": "У Генштабі підтвердили успішний удар по нафтобазі в Азові Ростовської області. «Паливо противника для фронту у вогні: уражено нафтобазу в Ростовській області», — йдеться в повідомленні Генерального штабу ЗСУ. У ньому зазначається, що 15 листопада та в ніч проти 16 листопада підрозділи Сил оборони України завдали удару по нафтобазі ТОВ «Флеш...",
-    "f47fa009e4e0ab7c": "З’явилося супутникове фото нафтобаз в російському Азові після атаки дронів. На кадрі від 16 листопада, який оприлюднила російська служба Радіо Свобода, видно пожежі на територіях «Юг Імпекс» і «Флеш Енерджі»",
-    "49e6df79a8300a84": "Сили оборони уразили Ільський нафтопереробний завод. У ніч на 16 листопада підрозділи Сил оборони України уразили Ільський нафтопереробний завод в Краснодарському краї. Про це повідомив Генштаб. Уражено установки атмосферної трубчастої переробки нафти АТ-4, АТ-5, АТ-6 та комплекс виробництва автомобільних бензинів. Масштаби завданих збитків уточнюються. Ільський НПЗ — один із найбільших нафтопереробних заводів на півдні Росії, здатний переробляти близько 6,6 млн тонн […]",
+    "5d4edda309f3da85": "Окупанти заявили про удар по Кримському мосту: розгорнули оперативний штаб. За заявою Сергія Аксьонова, через удар по Кримському мосту обмежено рух транспорту. У Керчі працюють служби та розгорнуто оперативний штаб.",
+    "1daef0491f5d4a22": "Аксьонов заявив про ураження Кримського мосту 16 листопада. Окупаційний глава Криму Сергій Аксьонов заявив про ураження Кримського мосту 16 листопада. Рух авто обмежено орієнтовно до середини дня",
+    "3fe5741825b08808": "Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено. Окупаційна влада Криму заявила, що Україна завдала удару по Кримському мосту. Рух транспорту мостом обмежили приблизно до середини дня. Про це повідомив призначений Росією голова анексованого Криму Сергій Аксьонов. За словами Аксьонова, для ліквідації наслідків задіяли всі необхідні служби, а в Керчі розгорнули оперативний штаб. Які саме наслідки удару і чи пошкоджено конструкції мосту, окупанти [...] Запис Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено спершу з'явиться на Мост .",
+    "4c25862e777ee8b3": "Окупанти заявили про удар по Кримському мосту. Через це рух транспорту обмежать приблизно до середини дня, повідомив очільник окупаційної адміністрації Криму",
+    "b686e2d3f04042ee": "Аксьонов заявив, що Україна вдарила по Кримському мосту. На під’їздах до мосту стоїть кілька тисяч авто.",
+    "1a61821dc10c91a3": "В окупованому Криму підтвердили удар по Керченському мосту, рух ним обмежили. За словами Аксьонова, рух транспорту мостом буде обмежений приблизно до середини дня, у Керчі розгорнули оперативний штаб",
+    "903e2fedc3cb3ec5": "У Криму заявили про удар по Кримському мосту: рух перекрили, поїзди затримуються. 16 листопада рух Кримським мостом перекрили, затримуються пасажирські поїзди. Аксьонов заявив про удар, даних про пошкодження немає.",
+    "52025976fb1ed3da": "ЗСУ завдали удару по Кримському мосту, рух обмежено щонайменше до середини дня – медіа. ЗСУ завдали удару по Кримському мосту, рух через нього обмежено орієнтовно до середини понеділка, повідомляють російські ЗМІ в понеділок.",
+    "d735221e95082510": "Кримський міст перекрили після атаки - ЗМІ. Кримський міст перебував під атакою, рух транспорту перекритий.",
+    "760412d9bc5aec01": "Понад сотню безпілотників атакували Кримський міст: що відомо про наслідки. У ніч на 16 листопада Керченський (Кримський) міст зазнав масованої атаки безпілотників. За попередніми оцінками окупаційних ЗМІ, у нальоті могли брати участь понад сто дронів. Повідомляється про пошкодження однієї з арок мосту та тимчасове обмеження руху транспорту. За інформацією російських окупаційних джерел, один із реактивних безпілотників пошкодив арку Кримського мосту. Стверджується, що пошкодження не є […]",
+    "bce713ff5a838fbb": "Атакований Кримський міст: рух обмежений, застрягли тисячі авто, покосило арку. Вранці 16 листопада так званий губернатор Кримського півострова Сергій Аксьонов визнав: ЗСУ атакували міст, що...",
+    "cb555f8dcc652062": "Україна вдарила по Кримському мосту. У понеділок, 16 листопада, окупаційна влада Криму заявила про удар по Кримському мосту. Через це рух транспорту припинили приблизно до середини дня. Про це повідомив гауляйтер Криму Сергій Аксьонов. За його словами, для ліквідації наслідків залучили необхідні служби, а в Керчі розгорнули оперативний штаб. Також він повідомив, що тримає ситуацію на особистому контролі. Тим часом … Continue reading Україна вдарила по Кримському мосту →",
+    "dc84bb9dfa85fa77": "Окупанти заявили, що Україна завдала удару по Кримському мосту. Про це написав очільник російської окупаційної адміністрації Сергій Аксьонов. Обмеження руху Кримським мостом За його словами, Україна атакувала Кримський міст, рух транспорту перекрито. \"Завдано удару по Кримському мосту. Рух транспорту буде обмежено орієнтовно до середини дня. Для ліквідації наслідків задіяно всі необхідні служби, у Керчі розгорнуть оперативний штаб\", - повідомив Аксьонов. У міністерстві транспорту РФ згодом повідомили, що рух автомобільною частиною Кримського мосту тимчасово припинено.",
+    "a5b4af9075d082d0": "У росії заявили про атаку на Кримський міст, рух перекрито. У росії заявили про удар по Кримському мосту 16 листопада. Рух транспорту перекрили орієнтовно до середини дня, у Керчі розгорнули оперативний штаб.",
+    "771a7aa8f3ad4c8e": "В анексованому Криму підтвердили атаку на Керченський міст, рух транспорту обмежили. За словами Аксьонова, рух транспорту мостом буде обмежений приблизно до середини дня, у Керчі розгорнули оперативний штаб",
+    "f9495422d8ee5d6f": "Кримський міст перекрили після атаки: окупанти повідомляють про пошкодження та величезні затори. У ніч на 16 листопада на Кримському мосту зупинили рух транспорту після повідомлень про атаку безпілотників. На під’їздах до переправи утворилися багатокілометрові черги, стоять пасажирські поїзди. Про атаку повідомив гауляйтер…",
+    "091c854243a4322e": "Українські військові вдарили по Кримському мосту. Удар по Кримському мосту.",
+    "50c26d064100dcc6": "По Кримському мосту завдали удару: рух транспорту обмежено, пошкоджено арку. Влучання припало по судноплавному прольоту мосту близько 5:38 ранку. Окупанти розгорнули у Керчі оперативний штаб та готуються запускати реверсний рух.",
+    "326421f1b32e5aa6": "Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди. The post Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди appeared first on Фарватер. Схід .",
+    "9f116bd9001d2f47": "З’явилися перші фото пошкоджень Кримського мосту після нічної атаки безпілотників. У мережі з’явилися перші фотографії наслідків масованої атаки українських безпілотників на Кримський міст у ніч на 16 листопада. На опублікованих кадрах, імовірно, видно деформацію однієї з арок мосту. Також повідомляється про пошкодження дорожнього полотна у двох місцях. Про це пишуть моніторингові Telegram-канали. Зокрема, Telegram-канал «Кримський вітер» опублікував фотографію автомобільної арки Кримського мосту, яка, як стверджується, […]",
+    "5da600a4a2d6981a": "Окупанти заявили про повторний удар по Кримському мосту. У ніч на 17 листопада Кримський міст зазнав повторного удару.",
+    "8072ea6dcc3942c5": "Аксьонов заявив про нову атаку на Кримський міст. Аксьонов написав, що рух транспорту призупинено, і попросив утриматися від поїздок у напрямку мосту. Про попередній удар він заявляв 16 листопада",
+    "a87672184df13235": "Окупанти вдруге за добу заявили про ураження Кримського мосту. У ніч на вівторок, 17 листопада, окупаційна влада Криму заявила про повторну атаку на Керченський міст. Після ударів рух переправою було перекрито.",
+    "e48aae6f6766a51b": "Удар по Кримському мосту: окупанти обмежили рух, у мережі показали пошкоджену арку. The post Удар по Кримському мосту: окупанти обмежили рух, у мережі показали пошкоджену арку appeared first on Точка Сходу .",
+    "428f483bd9782186": "Ексдепутатку ВР Криму засудили до 13 років за держзраду. Колишню депутатку Верховної ради Криму засуджено до 13 років ув'язнення за державну зраду.",
     "8b0e8aa812f34953": "РФ завдала удару по енергооб'єктах і майданчику ДТЕК на Одещині: понад 52 тисячі споживачів залишилися без світла. Уранці 16 листопада 2026 року РФ завдала ударів по енергооб'єктах ДТЕК на Одещині. Немає світла у 52,2 тисячі родин. Також зазнав пошкоджень виробничий майданчик ДТЕК.",
     "8a4b85b060571f48": "На Одещині через російські атаки без світла залишилися понад 52 тисячі родин. Також пошкоджений виробничий майданчик ДТЕК.",
     "36307b78de9f5268": "Ворог атакував енергооб’єкти ДТЕК на Одещині: понад 52 тисячі родин без світла. Сьогодні вранці, 16 листопада, російські війська знову атакували енергетичні об’єкти ДТЕК на півночі Одеської області. Внаслідок обстрілів без електропостачання залишилися 52,2 тисячі родин. Про це повідомили у пресслужбі ДТЕК. Також внаслідок атаки пошкоджено виробничий майданчик компанії. У будівлі вибиті вікна, пошкоджені стелі та двері. Енергетики вже працюють над ліквідацією наслідків атаки та відновленням обладнання. Сообщение Ворог атакував енергооб’єкти ДТЕК на Одещині: понад 52 тисячі родин без світла появились сначала на Новини Одеси - Odesa Online .",
@@ -807,10 +647,42 @@
     "f533a568b161ba26": "На Одещині через атаку РФ без світла залишилися понад 50 тисяч родин, дві людини постраждали. «Вранці 16 листопада ворог знову атакував енергетичні обʼєкти ДТЕК на півночі Одещини. Через обстріли без світла залишилися 52,2 тисячі родин. Також пошкоджено виробничий майданчик компанії»",
     "56ec559e54bbe9e0": "На Одещині понад 300 тисяч родин знову зі світлом після ворожих атак. Протягом тижня, з 9 до 15 листопада, енергетики відновили електропостачання для 306,2 тисячі родин в Одеській області, які залишалися без світла внаслідок російських обстрілів. Про це повідомили у пресслужбі ДТЕК. Загалом за цей період енергетикам вдалося повернути світло у понад 1 400 населених пунктах чотирьох областей України: Дніпропетровщина — 439,2 тисячі родин; Одещина — 306,2 тисячі родин; Київщина — 209,2 Сообщение На Одещині понад 300 тисяч родин знову зі світлом після ворожих атак появились сначала на Новини Одеси - Odesa Online .",
     "b3613044e1e473b5": "Росіяни атакували енергооб’єкт ДТЕК: на Дніпровщині понад 31 тисяча родин без світла. The post Росіяни атакували енергооб’єкт ДТЕК: на Дніпровщині понад 31 тисяча родин без світла appeared first on Місто і річка .",
-    "b6665b427977e9b2": "Мер про атаки на Дніпро: двоє людей загинули, майже пів міста без світла, знову вдарили по \"Олейні\". Через масовані ворожі атаки Дніпра двоє людей загинули, ще восьмеро наразі у лікарнях з опіками та уламковими пораненнями, майже пів міста без електропостачання, повідомив мер Борис Філатов",
-    "9b813b3133faf64d": "У Дніпрі внаслідок обстрілів загинуло двоє цивільних. Пошкоджено 10 багатоповерхівок, половина міста - без світла. \"Дуже важкий понеділок. Протягом дня росіяни продовжують атакувати різні райони Дніпра. На жаль, вже двоє загиблих. Це 32-річна жінка та 54-річний чоловік\", - повідомив мер Дніпра Борис Філатов 16 листопада. За його словами, зараз енергетики та комунальники займаються проблемою...",
-    "64eedc66f49840ac": "Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі. Філатов також повідомив, що через російські удари без світла майже пів міста",
+    "e9a0c229eada8c27": "На Одещині російська армія атакувала підприємства агрологістики та пакувальної промисловості: є травмовані. В Одеській області внаслідок російської атаки вдень 16 листопада пошкоджень зазнали об'єкти цивільної інфраструктури. Попередньо, травмувалися двоє людей. Про це 16 листопада повідомив начальник Одеської обласної військової адміні",
+    "8c671ee0cbbb9363": "Апеляційна палата ВАКС ухвалила новий вирок ексголові Рахункової палати. 16 листопада Апеляційна палата Вищого антикорупційного суду ухвалила новий вирок щодо колишнього голови Рахункової палати Романа Магути та двох інших осіб.",
+    "565c4ad9a9db5e72": "Майже 400 тисяч гривень збитків: на Одещині викрили незаконний вилов риби на озері Ялпуг. На озері Ялпуг поблизу села Тополине на Одещині двоє чоловіків незаконно виловили 204 водні біоресурси вагою 45,5 кг. Попередні збитки державі — майже 391 тис. грн",
+    "ca714be426da91ac": "На Черкащині через атаку РФ на енергетику частина споживачів без світла – ОВА. У Звенигородському районі Черкащини внаслідок російської атаки пошкоджено кілька енергооб'єктів, частина споживачів без світла, повідомив начальник Черкаської ОВА Ігор Табурець.",
+    "196aa359602b03b9": "У Дніпрі є загиблий і поранені, на Вінниччині атаковано промисловий об’єкт, на Черкащині – енергетику. Унаслідок російських атак у Дніпрі та Запорізькій області загинули двоє людей, у Сумській громаді є постраждалі. На Черкащині пошкоджено об'єкти енергетики, а на Вінниччині зафіксовано влучання в об'єкт критичної промисловості. Про це повідомляють очільник Дніпропетровської ОВА Олександр Ганжа, глава Черкаської обласної військової адміністрації Ігор Табурець, керівник Запорізької ОВА Михайло Семікін, Сумська ОВА та начальниця Вінницької ОВА […] The post У Дніпрі є загиблий і поранені, на Вінниччині атаковано промисловий об’єкт, на Черкащині – енергетику appeared first on Рубрика .",
+    "bfa982633dd6df74": "На Черкащині вночі атакували енергетичні об'єкти: частина споживачів без світла. За добу сили протиповітряної оборони знищили три російські безпілотники в межах Черкаської області. Про це повідомив начальник Черкаської ОВА Ігор Табурець. Водночас у Звенигородському районі російські війська атакували кілька об’єктів енергетичної інфраструктури. Через це частина споживачів залишилася без електропостачання. Наразі необхідні служби працюють над ліквідацією наслідків. Також ворожий БпЛА влучив по території...",
+    "a378d86b14bb6fbd": "Росіяни атакували кілька енергетичних об’єктів на Черкащині. Російські окупанти в понеділок, 16 листопада атакували кілька енергетичних об’єктів у Звенигородському районі на Черкащині, внаслідок чого частина жителів області залишилась без світла. Про це повідомив голова Черкаської обласної військової адміністрації Ігор Табурець. «Під прицілом РФ — наша енергетика. У Звенигородському районі атаковано кілька об’єктів», — розповів посадовець і зазначив, що за добу над областю... Запис Росіяни атакували кілька енергетичних об’єктів на Черкащині спершу з'явиться на Громадське радіо .",
+    "476ae8bde43d7100": "У Звенигородському районі уламки російського БпЛА пошкодили житлову двоповерхівку. У Звенигородському районі Черкаської області уламками російського безпілотника пошкоджено житловий двоповерховий будинок. Про це повідомив начальник Черкаської ОВА Ігор Табурець. За попередньою інформацією, постраждалих немає. У будівлі вибило вікна. Наразі на Черкащині продовжують ліквідовувати наслідки російської атаки на інфраструктуру.",
+    "85659360e5cc8b42": "На Черкащині уламки російського БпЛА пошкодили житлову двоповерхівку. У Звенигородському районі уламки російського безпілотника пошкодили житловий двоповерховий будинок. Про це повідомив начальник Черкаської ОВА Ігор Табурець. За його словами, у будівлі вибило вікна, люди не постраждали. Наразі на Черкащині продовжують ліквідовувати наслідки російської атаки на інфраструктуру. Нагадаємо, у Звенигородському районі російські безпілотники атакували кілька об’єктів енергетичної інфраструктури. Через це частина споживачів залишилася без електропостачання. Єдині, хто публікує імена колаборантів та корупціонерів. Знаходьте актуальні новини Черкащини на «18000».",
+    "f7722b0514bc1e1b": "На Черкащині російські удари пошкодили кілька енергетичних об’єктів. Частина жителів області залишилася без електропостачання",
+    "5e657d2ce987e3bd": "На Черкащині 17 листопада вимикатимуть світло: в обленерго оприлюднили графіки. У Черкаській області 17 листопада діятимуть графіки погодинних відключень електроенергії. Про це повідомили у пресслужбі Черкасиобленерго",
+    "5ac3b85915135547": "У Дніпрі внаслідок російської атаки загинула людина, ще троє поранені. Уранці 16 листопада російські війська знову атакували Дніпро. Внаслідок удару одна людина загинула, ще троє дістали поранень. Про це повідомив начальник Дніпропетровської обласної військової адміністрації Олександр Ганжа. За його інформацією, внаслідок атаки на дорозі загорілися автомобілі. Раніше очільник ОВА повідомляв про поранення 44-річної жінки. Її госпіталізували до лікарні у стані середньої тяжкості. Станом на 8:19 […] The post У Дніпрі внаслідок російської атаки загинула людина, ще троє поранені appeared first on Dnipro.media .",
+    "83f3d2dceba1dc7e": "Удар РФ по Дніпру: загинула людина, є поранені. Вранці 16 листопада війська РФ знову атакували Дніпро. Через удар одна людина загинула, десятеро поранених. Зайнялися автівки на дорозі",
+    "7719cd99ac2e43e0": "Внаслідок нового удару РФ по Дніпру загинула людина, ще троє поранені – ОВА. Росіяни зранку понеділка знову вдарили по Дніпру, загинула одна людина, ще троє дістали поранень, повідомив начальник Дніпропетровської ОВА Олександр Ганжа.",
+    "cad28b0ca95191e4": "Росіяни вдарили по Дніпру - загинула людина, троє поранених. Одна людина загинула і троє дістали поранень внаслідок удару російських військ по Дніпру.",
+    "098b126b9b197ebc": "Окупанти вдарили дроном по дорозі у Дніпрі, є жертва та поранені (оновлено). Росіяни вдарили безпілотником по проїзній частині у Дніпрі. Одна людина загинула, десять дістали поранення. На місці удару загорілися автомобілі.",
+    "02c797505a864303": "Росіяни вранці в понеділок двічі атакували Дніпро: є загиблий і поранені. «Одна людина загинула, троє дістали поранення. Росіяни знову завдали удару по Дніпру», — повідомив у своєму telegram-каналі начальник Дніпропетровської обласної військової адміністрації Олександр Ганжа. Першого удару по місту було завдано близько 7-ї години ранку. Внаслідок атаки...",
+    "9c3299dc59e3fc90": "Пошкоджені багатоповерхівки, загорілися автомобілі — наслідки ранкових ударів росіян по Дніпру (ФОТО). Російські окупанти вранці в понеділок, 16 листопада атакували Дніпро, внаслідок чого одна людина загинула, ще троє зазнали поранень. Про це повідомив голова Дніпропетровської обласної військової адміністрації Олександр Ганжа. За його словами, внаслідок атаки загорілись автомобілі на дорозі. Відомо про одну загиблу людину та трьох постраждалих. Ганжа не вказав, чим саме росіяни атакували місто. Але Повітряні... Запис Пошкоджені багатоповерхівки, загорілися автомобілі — наслідки ранкових ударів росіян по Дніпру (ФОТО) спершу з'явиться на Громадське радіо .",
+    "0fd429c76fada307": "Росіяни атакували Дніпро: одна людина загинула, троє постраждали. The post Росіяни атакували Дніпро: одна людина загинула, троє постраждали appeared first on Фарватер. Схід .",
+    "654a24baa8ee25d5": "Росія атакувала кілька регіонів України: є загиблі та поранені, серед постраждалих — діти. Про наслідки обстрілів повідомили керівники обласних військових адміністрацій та місцева влада. ДніпропетровщинаУ Дніпрі внаслідок російського удару загинула одна людина, ще троє дістали поранень. На дорозі зайнялися автомобілі. \"Одна людина загинула, троє дістали поранень. Росіяни знову завдали удару по Дніпру. Зайнялися автівки на дорозі. На місці працюють усі служби\", — повідомив голова Дніпропетровської обласної державної адміністрації Олександр Ганжа. Донеччина Минулої доби, 15 листопада, російські війська вбили чотирьох жителів Донецької області.",
+    "f06c0ead1a01e7ac": "Унаслідок атаки рф у Дніпрі загинула людина, ще 10 постраждали. Вранці 16 листопада російські війська атакували Дніпро. Унаслідок удару загинула людина, ще 10 постраждали, пише КУРС. Про це повідомив очільник Дніпропетровської обладміністрації Олександр Ганжа. Під час обстрілу на дорозі загорілися автомобілі. Усіх постраждалих госпіталізували. Двоє чоловіків віком 26 та 47 років – у тяжкому стані. КУРС писав, що вранці 13 листопада російські війська завдали удару […]",
+    "e9f76d8bee175398": "Кількість поранених унаслідок російської атаки на Дніпро зросла до 10 – ОВА. Унаслідок російської атаки на Дніпро по медичну допомогу звернулися вже 10 людей, повідомив очільник Дніпропетровської обласної військової адміністрації (ОВА) Олександр Ганжа.",
+    "3dba53b9a997d55f": "У Дніпрі від удару РФ пошкоджені багатоповерхівки - кількість поранених зросла до 10, загинула людина. У Дніпрі внаслідок ранкової атаки РФ кількість поранених зросла до 10 осіб.",
+    "7e1568bb214519e2": "Загинула людина, є поранені, палали автівки: наслідки атаки Росії в Дніпрі. Зранку 16 листопада російські війська завдали удару по Дніпру, унаслідок чого загинула одна людина, ще десять дістали поранень. Про це повідомив очільник Дніпропетровської ОВА Олександр Ганжа. Унаслідок ворожого удару також зайнялися автівки. Крім того, пошкоджені багатоповерхівки. Усі постраждалі – госпіталізовані. Двоє поранених чоловіків – 26 та 47 років – у тяжкому стані, інформував Ганжа. Читайте […] The post Загинула людина, є поранені, палали автівки: наслідки атаки Росії в Дніпрі first appeared on Новинарня .",
+    "9688d5b6ce6b4fec": "У Дніпрі внаслідок ранкових атак рф загинула людина, кількість поранених зросла до 10. 16 листопада російські війська кілька разів атакували Дніпро. Внаслідок ударів загинула одна людина, ще 10 отримали поранення. Усі постраждалі госпіталізовані. Про це повідомив начальник Дніпропетровської ОВА Олександр Ганжа. За його словами, серед поранених є 44-річна жінка, яку доправили до лікарні у стані середньої тяжкості. Двоє чоловіків віком 26 та 47 років перебувають у тяжкому стані. […]",
+    "ca1127bab82e167f": "Росіяни атакували Дніпро: одна людина загинула, кількість поранених зросла до 10 (ОНОВЛЕННЯ). The post Росіяни атакували Дніпро: одна людина загинула, кількість поранених зросла до 10 (ОНОВЛЕННЯ) appeared first on Місто і річка .",
+    "9397af5c8f4ddc44": "Одна людина загинула, десять поранені через атаку РФ у Дніпрі – ОВА. Ганжа уточнив, що всіх поранених у Дніпрі шпиталізували, двоє чоловіків – 26 і 47 років перебувають у тяжкому стані",
+    "423630c41d813145": "Росіяни вдарили по Дніпру: є загиблий та поранені. Вранці 16 листопада російські війська завдали чергового удару по Дніпру. Внаслідок атаки загинула одна людина, ще десятеро дістали поранення. Усіх постраждалих госпіталізували. Про це повідомив очільник Дніпропетровської ОВА Олександр Ганжа. За його словами, після удару на дорозі зайнялися автомобілі. Спочатку було відомо про трьох поранених, однак згодом їхня кількість зросла до десяти. Двоє постраждалих чоловіків … Continue reading Росіяни вдарили по Дніпру: є загиблий та поранені →",
+    "674549ba11aa693b": "У Дніпрі через російську атаку пошкоджені дев’ять багатоповерхівок у трьох районах: 10 поранених, є загиблий. Уранці 16 листопада російські війська здійснили кілька атак на Дніпро. Внаслідок ударів одна людина загинула, ще десятеро дістали поранень. Пошкоджені житлові будинки у трьох районах міста, храм, приміщення ДРАЦСу та контактна мережа електротранспорту. Про наслідки обстрілів повідомляють журналісти Dnipro.media, а також начальник Дніпропетровської ОВА Олександр Ганжа та міський голова Дніпра Борис Філатов. За останніми даними […] The post У Дніпрі через російську атаку пошкоджені дев’ять багатоповерхівок у трьох районах: 10 поранених, є загиблий appeared first on Dnipro.media .",
+    "4c8971321b3a19b5": "Росіяни знову атакували Дніпро: загинула людина, 13 поранено, палали автівки. Зранку 16 листопада росіяни завдали нового удару по Дніпру: загинула одна людина, ще понад десять дістали поранень.",
+    "d3080eb2e64c3602": "Удар по автодорозі у Дніпрі: кількість постраждалих зросла до 13, одна людина загинула. На місці атаки працюють усі відповідні служби.",
+    "775d9a5947349dd1": "У Дніпрі обстріл РФ убив людину, десятеро постраждали. Наслідки обстрілу Дніпра.",
+    "7fafb20dce8edf05": "У Дніпрі зросла кількість постраждалих внаслідок ранкової атаки рф. У Дніпрі до 13 осіб зросла кількість поранених внаслідок серії ранкових ударів, зокрема, влучання ворога по одній з автодоріг міста.",
+    "03685e40a8869854": "У Дніпрі внаслідок ворожого удару поранено чоловіка. У Дніпрі через удар російських військ постраждав 40-річний чоловік. Його госпіталізували у стані середньої тяжкості. The post У Дніпрі внаслідок ворожого удару поранено чоловіка appeared first on Dnipro.media .",
     "67f498c694ff6404": "рф вдарила по об'єкту харчової промисловості у Дніпрі, там виникла пожежа. За даними місцевих каналів, під удар потрапив завод із виробництва соняшникової олії «Олейна»",
+    "4a015aa314fd31e2": "Загарбники з вечора майже 20 разів атакували Дніпро та область, є пошкодження. Російські загарбники ще майже 20 разів атакували Дніпро та область безпілотниками і ракетами – зафіксована низка пошкоджень.",
     "673c8221481cd865": "\"Укренерго\": через атаки РФ по енергоінфраструктурі на сході України фіксують масштабні відключення. Найскладнішою ситуація залишається у Дніпрі, Харкові, Полтаві та Запоріжжі.",
     "781ca6ef0cd4a300": "У Харкові склалася одна з найскладніших ситуацій з електропостачанням — «Укренерго». У Харкові та області через пошкодження енергетичної інфраструктури виникли перебої з електропостачанням, що вплинули на роботу екстрених служб і громадського транспорту.",
     "198952a7b2241b78": "У Дніпрі, Харкові, Полтаві та Запоріжжі — знеструмлення. Російські атаки спричинили масштабні знеструмлення на сході України. Найскладніша ситуація у Дніпрі, Харкові, Полтаві та Запоріжжі. Енергетики відновлюють живлення критичної інфраструктури.",
@@ -819,6 +691,13 @@
     "4b7297858f79a343": "«Укренерго» назвало чотири міста, де найскладніше зі світлом. Станом на вечір понеділка, 16 листопада, через постійні російські обстріли найскладніша ситуація зі світлом є у Дніпрі, Харкові, Полтаві та Запоріжжі. Про це Львівському порталу повідомили в «Укренерго». «Внаслідок ворожих ударів зараз є масштабні знеструмлення на сході України. Особливо складна ситуація – у Дніпрі, Харкові, Полтаві та Запоріжжі. Через значні пошкодження енергетичної інфраструктури електропостачання міста … Continue reading «Укренерго» назвало чотири міста, де найскладніше зі світлом →",
     "e71edf71a90aea02": "В Укренерго попередили про масштабні знеструмлення на сході країни. Російські атаки на енергетичну інфраструктуру спричинили масштабні знеструмлення на сході України. Найскладніша ситуація нині у Дніпрі, Харкові, Полтаві та Запоріжжі, де через значні пошкодження енергетичних об’єктів суттєво обмежене електропостачання. Запис В Укренерго попередили про масштабні знеструмлення на сході країни спершу з'явиться на Букви .",
     "6d9dfaee1abd0fb7": "Знеструмлення на сході: Росія атакувала енергетику 116 разів за тиждень. Масштабні знеструмлення охопили схід України: найважче у Дніпрі, Харкові, Полтаві та Запоріжжі, передає Укрінформ з посиланням на НЕК «Укренерго».",
+    "5a432c611b4e0b38": "Стрибки напруги: у Харкові — нові знеструмлення та перебої у роботі метро. Увечері 16 листопада у Харкові зафіксували різке зниження напруги. Частина споживачів знеструмлена, рух електропоїздів лініями метрополітену зупинили через низьку напругу",
+    "9257821d5a3d9057": "У Харкові від учора діють аварійні відключення світла, в області застосовують погодинні знеструмлення. Транспорт може ходити зі збільшеними інтервалами.",
+    "3e792c211c5f93e0": "Шостий блекаут за два тижні: РФ залишила без світла майже половину Дніпра. ",
+    "7913f5971a9a61bb": "Дніпро повністю знеструмлений після російських ударів по енергетиці. Це вже шостий блекаут у місті за останні два тижні.",
+    "a758fd95e6f6feaf": "Шостий блекаут за два тижні: російські атаки знеструмили весь Дніпро. Енергетики спершу відновлюють електропостачання водогону, систем теплопостачання та соціальних закладів.",
+    "04b0e360a2626e73": "ДТЕК: місто Дніпро повністю знеструмлене після російської атаки на енергооб’єкти. Без електроенергії також залишилися частина жителів Дніпровського, Самарівського та Кам’янського районів.",
+    "64eedc66f49840ac": "Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі. Філатов також повідомив, що через російські удари без світла майже пів міста",
     "54a72b9ddb09b491": "Через атаку по порту Миколаєва сьогодні вдень загинув чоловік, — ОВА. Унаслідок російської атаки на Миколаїв загинув чоловік. Ще двоє людей отримали поранення та перебувають у лікарні.",
     "bb4673ca7b893e0a": "У Миколаєві внаслідок атаки РФ загинула людина, двоє поранені. Армія РФ сьогодні вдень атакувала «Бандеролями» портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених.",
     "5138d889a6dca03f": "У Миколаєві внаслідок атаки РФ загинув чоловік, ще двоє людей поранені. Під ударом опинилася портова інфраструктура міста.",
@@ -826,6 +705,21 @@
     "06c74bdb54a9aa4e": "Росіяни дронами атакували Миколаїв: загинула людина, є поранені. Армія РФ сьогодні вдень атакувала “Бандеролями” портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених. Про це повідомив у понеділок, 16 листопада, в.о. начальника Миколаївської ОВА Георгій Решетілов. “Внаслідок сьогоднішньої атаки ворога на Миколаїв загинув чоловік. Дві людини отримали поранення. Їх госпіталізовано. Медики надають необхідну допомогу”, – йдеться у повідомленні. Зазначається, що […] The post Росіяни дронами атакували Миколаїв: загинула людина, є поранені first appeared on Новинарня .",
     "92e6a56930b28362": "У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені. У Миколаєві внаслідок сьогоднішньої російської атаки загинув чоловік. Ще двоє людей отримали поранення та були госпіталізовані.",
     "dbaa42a948ac60ed": "Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох. Кількість загиблих внаслідок російського удару по Миколаєву зросла до двох. Також відомо про трьох поранених, які дістали травми під час атаки на портову та промислову інфраструктуру міста 16 листопада.",
+    "1101c964e47512ef": "Знеструмили 76 населених пунктів: РФ атакувала енергетику Миколаївщини. Знеструмили 76 населених пунктів Первомайського району: армія РФ атакувала енергетику Миколаївщини ввечері 16 листопада. Російська армія вдарила БпЛА типу «Shahed-238»",
+    "12130e9fd204eec7": "Львів’ян запрошують стати помічниками святого Миколая: як долучитися до акції. У Львові стартувала традиційна акція “Благодійна цеглинка”, під час якої охочі можуть підготувати подарунки для дітей полеглих українських захисників і захисниць. Акцію проводять напередодні свята Миколая у Гарнізонному храмі святих апостолів Петра і Павла. Щоб долучитися, потрібно взяти у храмі благодійну цеглинку. На ній зазначено перелік необхідних канцелярських товарів, які можна придбати для дітей. Також […] The post Львів’ян запрошують стати помічниками святого Миколая: як долучитися до акції appeared first on Сихів Медіа .",
+    "646ff9a4c1813841": "На Миколаївщині двоє людей отруїлися через неправильне користування піччю. В одній із громад Баштанського району Миколаївщини двоє людей отруїлися чадним газом у власному будинку.",
+    "5a5ed59b1acc7077": "Росіяни атакували підприємства у Чернігові: 2 загиблих. Унаслідок ударів по двох підприємствах Чернігова 16 листопада загинули дві людини, повідомив Дмитро Брижинський.",
+    "3b5bf9d088726ae3": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міська рада. Ще чотири людини постраждали. Внаслідок атаки руйнувань також зазнали приміщення гаражного кооперативу, повідомив начальник міської військової адміністрації Дмитро Брижинський.",
+    "ca1df21999958824": "Росіяни атакували два підприємства у Чернігові, є загиблі та постраждалі. Росіяни атакували два підприємства у Чернігові. Внаслідок ударів двоє людей загинули, ще четверо травмовані. Також зруйновано приміщення гаражного кооперативу.",
+    "2d86aace1578d81e": "Окупанти завдали ударів по підприємствах у Чернігові, відомо про двох загиблих. Двоє людей загинули та четверо постраждали внаслідок російських ударів по Чернігову, повідомляє пресслужба Чернігівської міської ради в понеділок.",
+    "cffdaf298ec9aa83": "Росіяни атакували підприємства в Чернігові, двоє загиблих. Росіяни в понеділок, 16 листопада атакували Чернігів. Вдарили по двох підприємствах. Про це повідомила пресслужба Чернігівської міської ради. Там зазначили, що ворог завдав ударів по двох приватних підприємствах у Чернігові. Спершу було відомо про двох загиблих і одного постраждалого. Пізніше кількість постраждалих зросла до чотирьох. Нагадаємо, 15 листопада окупанти атакували об’єкт критичної інфраструктури в місті... Запис Росіяни атакували підприємства в Чернігові, двоє загиблих спершу з'явиться на Громадське радіо .",
+    "e9429a445f31f533": "Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування. Війська рф 16 листопада завдали ударів по підприємствах та об'єктах інфраструктури у Чернігові, Балаклії Харківської області та Дніпрі. Внаслідок атак у Чернігові та Балаклії загинули троє людей, ще восьмеро дістали поранення. У Дніпрі після влучання в об'єкт харчової промисловості виникла пожежа, інформацію про можливих постраждалих уточнюють. Про це повідомляють начальник Чернігівської МВА Дмитро Брижинський, начальник […] The post Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування appeared first on Рубрика .",
+    "ce5d0089e124d688": "рф атакувала підприємства у Чернігові – є загиблі та постраждалі. 16 листопада російські війська вдарили по двох підприємствах у Чернігові Унаслідок атаки загинули дві людини, ще чотири постраждали, пише КУРС. Про це повідомив начальник Чернігівської міської військової адміністрації Дмитро Брижинський. Також через атаку руйнувань зазнали приміщення гаражного кооперативу. КУРС писав, що цього ж дня унаслідок атаки рф у Дніпрі загинула людина, ще 10 постраждали.",
+    "ade882d0e369553e": "У Чернігові внаслідок російських ударів по підприємствах загинули дві людини. Війська країни-агресора Росії у понеділок, 16 листопада, завдали ударів по двох приватних підприємствах у Чернігові, внаслідок чого загинули щонайменше дві людини. Про це повідомляє Чернігівська міськрада.",
+    "b6d75a9e69ce4950": "Російські війська атакували два приватні підприємства у Чернігові: що відомо. ",
+    "b220dfe1d4e38bf4": "рф вдарила по харчовому підприємству у Дніпрі, атакувала промисловість на Одещині та у Чернігові. Ірта-fax - Інформаційний портал росія з ранку 16 листопада атакувала низку підприємств, у тому числі харчової промисловості, у Дніпрі, на Одещині та у Чернігові. Про це УНН пише з посиланням на дані місцевих військових адміністрацій. Дніпро Як зазначив голова Дніпропетровської ОВА Олександр Ганжа, ворог сьогодні не припиняє атак на Дніпро. Є влучання у різних районах міста. Зайнялися пожежі на […] Ірта-Fax STREAM",
+    "d33134d7182714a1": "Росіяни полюють на енергетику Чернігівщини: що відомо про атаки за тиждень. ",
+    "5d4dc5a99af61b50": "Армія РФ вдарила по двох підприємствах у Чернігові, є жертви і постраждалі (оновлено). Пошкоджений гаражний кооператив.",
     "48a407495f384539": "Київ зазнав атаки балістикою, попередньо, є влучання у мости – влада. Мер додав, що, попередньо, були влучання в Північний та Південний мости в столиці",
     "cbfc5faf8cc458f3": "Росіяни вдарили та влучили у Північний та Південний мости Києва — Кличко. В ніч з 16 на 17 листопада в ході ракетної атаки російські окупанти, попередньо, влучили у Північний і Південний мости у столиці України. Про це заявив мер Києва Віталій Кличко.",
     "1afc3ba3f0ad14e7": "У Києві попередньо зафіксовані влучання у Північний та Південний мости – Кличко. Мер Києва Віталій Кличко повідомив, що внаслідок ворожих обстрілів було влучання у Північний та Південний мости, повідомив він у Телеграм.",
@@ -836,6 +730,7 @@
     "bd0ceed7cc8ff7a3": "У Києві перекрили Північний та Південний мости: як курсує транспорт. У Києві тимчасово перекрили Північний та Південний мости для ліквідації наслідків російської атаки. Рух громадського транспорту, який курсував цими мостами, змінено",
     "a25c699659667d64": "Росіяни в кілька хвиль вдарили по Києву балістикою, є влучання в мости та загиблі (доповнено). Через пошкодження систем критичної інфраструктури, в деяких районах столиці перебої з водо- та теплопостачанням.",
     "dbcdd25ad8ea5d7f": "Рух Північним і Південним мостами в Києві перекрили після нічного удару РФ – влада. Крім того, у КМДА зазначили, що рух поїздів метро на «зеленій» лінії між станціями «Осокорки» – «Червоний хутір» тимчасово зупинили",
+    "9e77002658b010c5": "У Києві відновлюють рух електротранспорту. Тимчасові автобуси, які дублювали маршрути, продовжать роботу до кінця доби.",
     "bc6110b7e0f9cdb9": "У Краматорську російський безпілотник влучив у автомобіль медиків. Російський безпілотник вдарив по автомобілю Центру первинної медико-санітарної допомоги у Краматорську. Бойова частина не здетонувала, обійшлося без постраждалих. Деталі інциденту",
     "36929bc8afdb4df8": "У Краматорську російський дрон влучив по медичному авто. Російські військові завдали нового удару по медичній інфраструктурі Донеччини: у Краматорську безпілотник влучив по службовому авто Центру первинної медико-санітарної допомоги №1. Боєприпас БпЛА не здетонував, тому обійшлося без жертв серед цивільних. Про це повідомили у пресслужбі Краматорської міської ради. “На фото — слід від удару…",
     "70a800e4a2a39096": "У Краматорську російський дрон влучив у автомобіль медиків. Війська рф атакували Краматорськ 16 листопада. Безпілотник окупантів влучив у автомобіль медиків. Бойова частина дрона не здетонувала Запис У Краматорську російський дрон влучив у автомобіль медиків спершу з'явиться на Антикризовий медіа-центр .",
@@ -845,17 +740,18 @@
     "52f7973aed4a3787": "Російський дрон атакував газовиків у Краматорську: в яких умовах на Донеччині відновлюють газопостачання. Російський БпЛА прицільно влучив в автомобіль працівників Краматорського УПГГ. Двоє людей зазнали поранень. Деталі ранкової атаки та відновлення газопостачання в регіоні",
     "6bc6d0584710ec7a": "Ворожий дрон атакував авто працівників Краматорського управління по газопостачанню: є поранені. Працівники Краматорськ ого управління по газопостачанню",
     "dbfda7e17555ed44": "Армія РФ вдарила по газовикам у Краматорську: є поранені. Російський дрон прицільно влучив в авто працівників Краматорського УГГ. Про це повідомила Краматорська міська рада. Двоє співробітників, які не перебували в авто, були поранені. Обом постраждалим надано медичну допомогу. В міськраді відзначають, що уже кілька днів поспіль бригади працюють над запуском газу в різних районах міста та старостинських округах. Роботи просуваються повільно, адже працівники комунальних […]",
+    "848733bf98568b95": "Окупанти атакували автомобіль «Донецькоблгазу» в Краматорську: двоє працівників поранені. Війська рф 16 листопада атакували службовий автомобіль «Донецькоблгазу» у Краматорську. Внаслідок удару FPV-дрона поранень дістали двоє працівників компанії Запис Окупанти атакували автомобіль «Донецькоблгазу» в Краматорську: двоє працівників поранені спершу з'явиться на Антикризовий медіа-центр .",
+    "3e219f6bd5c779b7": "У Краматорську відновили газопостачання, однак розпочати опалювальний сезон поки не можуть. The post У Краматорську відновили газопостачання, однак розпочати опалювальний сезон поки не можуть appeared first on Точка Сходу .",
     "ee81e845d163310a": "На 70% території Краматорської громади не можуть відновлювати електропостачання через обстріли. У Краматорській громаді на 70% території енергетики не можуть проводити ремонтні роботи через постійні російські атаки. Водночас триває відновлення газопостачання, окремі котельні запустили подачу тепла Запис На 70% території Краматорської громади не можуть відновлювати електропостачання через обстріли спершу з'явиться на Антикризовий медіа-центр .",
-    "c86c1d60627b230b": "«Дрони літають, а ми звикли». Як виживають у Краматорську на Донеччині без електрики та води. У Краматорську жителі набирають воду під звуки вибухів, ховаються від дронів у підвалах та живуть без комунальних послуг. Як виживають у місті",
     "6939e4225866e3aa": "Через ворожу атаку частина Чернівців залишилася без електрики. Тролейбуси у місті курсують із затримками. Внаслідок ворожої атаки частина Чернівців залишилася без електропостачання. Постраждалих немає. Про це повідомив міський голова Роман Клічук. Також він додав, що тролейбуси у місті тимчасово не курсуватимуть. Натомість організовують автобуси на заміну. У Чернівецькому... The post Через ворожу атаку частина Чернівців залишилася без електрики appeared first on Шпальта .",
     "a5008aac12d22133": "Рашистський удар знеструмив частину Чернівців. \"Внаслідок ворожої атаки частина міста залишилася без електропостачання. Постраждалих немає\", - повідомив міський голова Чернівців Роман Клічук у Телеграм вранці 17 листопада. Зазначається, що тролейбуси в місті тимчасово не курсуватимуть, організовують на заміну автобуси. \"Енергетики працюють...",
     "2f6aee3ff40c74f5": "РФ влучила по електричній підстанції: які наслідки атаки у Чернівцях. Вранці 17 листопада РФ атакувала Чернівецьку область двома безпілотниками. Один влучив в електричну підстанцію. Через це частина Чернівців без електрики, а тролейбуси тимчасово не їздять. Які наслідки атаки",
     "905f81d0e648b48f": "У Чернівцях внаслідок удару РФ - частина міста без світла, не їздить тролейбус №2. Енергетики разом із відповідними службами працюють над ліквідацією наслідків.",
     "078f8daa84ba9c8e": "У Чернівцях пошкоджена підстанція: на світанку ворог атакував Чернівецьку область двома безпілотниками. Внаслідок удару одного з них пошкоджено об’єкт енергетики у м. Чернівці, через що в частині громади сталося аварійне відключення електропостачання.",
     "9db370f6b61cf527": "Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики. На місці події працюють оперативні служби. На світанку 17 листопада російські війська атакували Чернівецьку область двома безпілотниками. Внаслідок удару пошкоджено об’єкт енергетики у Чернівцях, через що частина громади залишилася без електропостачання. Про це повідомив начальник Чернівецької обласної військової адміністрації Руслан... The post Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики appeared first on Шпальта .",
+    "55feb74fa499af51": "Нацбанк вводить в обіг пам’ятні монети, присвячені трьом областям. Національний банк України 16 листопада 2026 року вводить в обіг три нові обігові пам’ятні монети, присвяченої єдності України та її областям: \"Ми сильні. Ми разом. Львівська область\"; \"Ми сильні. Ми разом. Тернопільська область\"; \"Ми сильні. Ми разом. Чернівецька область\".",
+    "39ff48b5ade376b6": "У Чернівцях відбувся дводенний Кубок міста з ампфутболу «Сталеві духом». У Чернівцях завершився дводенний Кубок міста з ампфутболу «Сталеві духом», у якому зустрілися шість команд із різних куточків країни. Про це пише С4. У турнірі взяли участь команди з Донеччини, Кіровоградщини, Тернопільщини, Київщини, Івано-Франківщини і Чернівецької області. «Тренування у нас постійно, цілий рік. Я вже думав, чи хоч трохи відпочинимо після чемпіонату, і тут буквально […]",
     "8a05ec4450bc94ac": "Частина Чернівців знеструмлена після російської атаки. Частина Чернівців залишилася без електропостачання після російської атаки.",
-    "e99345f9e55e0baf": "Росіяни заявили про часткове відновлення руху Кримським мостом після удару. Віцепрем’єр російського уряду Марат Хуснуллін заявив, що РФ частково відновила рух незаконно збудованим Кримським (Керченським) мостом, який сполучає цю країну з окупованим Кримом.",
-    "3724d0de84f2aacf": "Окупанти відзвітували про відновлення руху Керченським мостом. Окупаційна влада частково відновила автомобільний рух Керченським мостом, який з’єднує рф з окупованим Кримом. Увечері 16 листопада на переправі запустили реверсивний рух після нічної атаки безпілотників.",
     "c0f719d10abbf009": "У Комишувасі завершили пошуково-рятувальні роботи - кількість загиблих зросла до 72. Кількість загиблих унаслідок удару російської армії по Комишувасі Запорізької області 2 листопада зросла до 72 осіб, пошуково-рятувальні роботи завершені. Четверо людей залишаються зниклими безвісти.",
     "dfbde6ef00276368": "У Комишувасі на Запоріжжі завершили пошукові роботи після російського удару: 72 загиблих, четверо зниклих безвісти. У селищі Комишуваха Запорізької області завершили пошуково-рятувальні роботи після російського обстрілу 2 листопада, внаслідок якого загинули 72 людини. Ще четверо вважаються зниклими безвісти. Протягом двох тижнів, поки тривали роботи, російські війська дев’ять разів атакували безпосередньо місце розбору завалів. Про це повідомив міністр внутрішніх справ України Іван Вигівський надвечір у понеділок, 16 листопада. За його словами, […] The post У Комишувасі на Запоріжжі завершили пошукові роботи після російського удару: 72 загиблих, четверо зниклих безвісти first appeared on Новинарня .",
     "af5523ea54d0b7d8": "У Комишувасі завершили пошукові роботи після російського обстрілу, що забрав 72 життя. Досі залишаються зниклими безвісти 4 людини. ",
@@ -883,6 +779,9 @@
     "5e3f51b63d90b438": "Окупанти знову обстріляли Херсонський драмтеатр. У Херсоні внаслідок чергового ворожого обстрілу пошкоджено будівлю обласного музично-драматичного театру імені Миколи Куліша. А днями раніше артилерійський снаряд влучив і у дах будинку, де мешкає головний режисер театру. Про…",
     "234a9bda44720fcf": "«Терор продовжується». Внаслідок атаки РФ постраждав Херсонський театр імені Миколи Куліша. Після чергового удару РФ по центру Херсону вкотре постраждав Херсонський обласний академічний музично-драматичний театр імені Миколи Куліша. Будівлю посікло уламками.",
     "ef09c2f7cf564013": "Унаслідок атаки Росії постраждав Херсонський театр імені Миколи Куліша. Унаслідок російського удару по центру Херсону 16 листопада вкотре постраждав Херсонський обласний академічний музично-драматичний театр імені Миколи Куліша. Будівлю посікло уламками. Про це Херсонський театр імені Миколи Куліша повідомив на своїй Facebook-сторінці. Унаслідок ворожого обстрілу постраждали забиті фанерою, а також вцілілі від попередніх прильотів вікна, фасад і навіть оздоблення всередині приміщення. «Скориставшись перемир’ям в Олешках, […] The post Унаслідок атаки Росії постраждав Херсонський театр імені Миколи Куліша first appeared on Новинарня .",
+    "22e140376e57984d": "Окупанти готуються привласнити понад 1100 будинків на Херсонщині – ГУР. Ірта-fax - Інформаційний портал росія готує до так званої «націоналізації» понад 1100 житлових будинків на тимчасово окупованій частині Херсонської області. Денис Молотов",
+    "e1ed2cd6880e0eec": "У Херсонській громаді через російські удари загинула людина, двоє поранені. Минулої доби російських ударів зазнали шість населених пунктів Херсонської громади, внаслідок чого одна людина загинула і двоє дістали поранення. Про це начальник Херсонської МВА Ярослав Шанько написав у своєму Telegram-каналі. Під обстрілами були Херсон, Антонівка, Придніпровське, Приозерне, Благовіщенське та Садове. По населених пунктах били російська артилерія та дрони. Пошкоджені багатоповерхові та приватні будинки, об’єкти торгівлі [...] Запис У Херсонській громаді через російські удари загинула людина, двоє поранені спершу з'явиться на Мост .",
+    "c7ffdfaff802b962": "Росіяни вдарили трьома керованими авіабомбами по Херсону. Внаслідок російських обстрілів Херсонщини четверо людей дістали поранення, пошкоджено житлові будинки, автомобілі та об’єкти інфраструктури.",
     "41a1de054ca90fac": "Повідомили про стан поранених під час обстрілу Полтави. В лікарнях Полтави залишаються п’ятеро постраждалих внаслідок російської атаки. Станом на 16 листопада в полтавських міських та обласних медзакладах перебувають... Запис Повідомили про стан поранених під час обстрілу Полтави спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
     "e12d629ce686fd9d": "Як на Полтавщині вимикатимуть світло 16 листопада: графік. 16 листопада у Полтавській області діють погодинні відключення світла. Це пов’язано з нестачею потужності в енергосистемі, спричиненою російськими обстрілами. Про це повідомили на сайті «Полтаваобленерго». Графік погодинних відключень діятиме протягом доби. З 16:00 до 22:00 графік застосують в обсязі 3 черги. Перевірити свою адресу можна за посиланням. Дізнатися години відключень за своєю чергою можна тут: [...] Запис Як на Полтавщині вимикатимуть світло 16 листопада: графік спершу з'явиться на У Полтаві .",
     "9678ca33515e9f28": "На Полтавщині запровадили аварійні відключення світла. Внаслідок російських обстрілів у Полтавській області застосували ГАВ. За командою «Укренерго», графіки аварійних відключень застосували 16 листопада з 8:54, повідомляє... Запис На Полтавщині запровадили аварійні відключення світла спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
@@ -897,6 +796,8 @@
     "070a56a685e1ca1c": "На війні поліг захисник з Полтавської області. Через пів року після загибелі підтвердили смерть воїна з Лохвицької громади. Як повідомили на сторінці Лохвицької міської ради, 17 травня... Запис На війні поліг захисник з Полтавської області спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
     "00fc8e4eb68b8f22": "На Полтавщині запровадили спеціальний графік аварійних відключень світла. 16 листопада з 16.27 у Полтавській області запровадили спеціальний графік аварійних відключень електроенергії (СГАВ). Про це повідомили у АТ «Полтаваобленерго». Причиною застосування обмежень стали наслідки російських атак на об’єкти енергетичної інфраструктури. Спеціальний графік аварійних відключень застосовують для оперативного зниження навантаження на енергосистему. На відміну від погодинних графіків, такі відключення можуть відбуватися без попереднього повідомлення споживачів.",
     "14c95e862581929e": "Коли вимикатимуть світло на Полтавщині 17 листопада (оновлено). Сімнадцятого листопада на Полтавщині продовжать діяти графіки погодинних відключень світла. У «Полтаваобленерго» оприлюднили розклад для всіх черг, від 1.1 до 6.2, тож варто перевірити свою.",
+    "c89ecc2b0625f5c8": "На Полтавщині два російські БпЛА впали на відкритій місцевості, є пошкодження. У Кременчуці уламки безпілотника пошкодили вікна та двері прилеглих будинків, а також автомобіль.",
+    "511e4941c2ddbea1": "У Полтавській області знайшли бойову частину російської ракети, яка не здетонувала. Вибухотехніки поліції Полтавщини знищили бойову частину російської ракети, яка не здетонувала. Боєприпас знайшли на території Полтавської області, він належить до... Запис У Полтавській області знайшли бойову частину російської ракети, яка не здетонувала спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
     "9eab38dba0babc84": "У Луцьку попрощаються із захисником Олексієм Хоміком. У вівторок, 17 листопада, у Луцьку проведуть в останню дорогу військовослужбовця Олексія Хоміка, який загинув 9 листопада під час виконання бойового завдання на Сумщині. Про це повідомляють на сайті Луцькради. О 10:30 траурний кортеж вирушить від Волинського обласного бюро судово-медичної експертизи, що на вулиці Стефаника, до кафедрального собору Святої Трійці. Об 11:00 у соборі відбудеться […] The post У Луцьку попрощаються із захисником Олексієм Хоміком appeared first on Волинь Online .",
     "2f67b8d4f51631c5": "Пенсіонерка з Волині звинуватила працівників ТЦК у проникненні до будинку та побитті. [CDATA[ Пенсіонерка з Волині звинуватила працівників ТЦК у проникненні до будинку та побитті]]>",
     "9a208e056225c169": "Чеські партнери зацікавлені у вирощуванні енергетичної тополі у Шацькій громаді. Шацька громада продовжує розвивати міжнародне партнерство та залучати інвестиції, які сприяють ефективному використанню місцевих ресурсів. Про це повідомили на сторінці громади у «Фейсбук». Цього разу громаду відвідали партнери з Чехії, які зустрілися з Богданом Тимошуком, секретарем Шацької селищної ради. Головною темою розмови стало продовження інвестиційної співпраці та можливості розширення проєкту з вирощування енергетичної тополі. Співпраця […] The post Чеські партнери зацікавлені у вирощуванні енергетичної тополі у Шацькій громаді appeared first on Волинь Online .",
@@ -906,44 +807,54 @@
     "17e8b11c807c034b": "Графік погодинних відключень світла у Хмельницькій області на 17 листопада. Електроенергію вимикатимуть від 4 до 8 годин у кожної підчерги.",
     "63df03b4323743d7": "За підрив залізниці на замовлення спецслужб РФ двох жителів Хмельниччини засудили до 15 років. Їх затримали на наступний день після скоєння диверсії.",
     "08ed198806fba0a8": "Двох жителів Хмельниччини засудили до 15 років ув’язнення за підрив залізниці на замовлення РФ. У Хмельницькій області до 15 років позбавлення волі засудили двох чоловіків, які здійснили підрив залізничної колії на замовлення російських спецслужб.",
+    "51436ae7f7dab803": "На Хмельниччині 15 листопада сталося три пожежі: в одному з будинків знайшли тіло жінки. Тіло жінки виявили під час гасіння пожежі в багатоквартирному будинку на Кам'янеччині.",
+    "62eb339fec8791c4": "Близько 30 тисяч жителів Хмельниччини хворіють на псоріаз: причини захворювання та як лікувати. Близько 30 тисяч жителів Хмельниччини хворіють на псоріаз. У європейських країнах це захворювання має 3-5% населення. Псоріаз можна контролювати. Якщо ігнорувати лікування, стан буде погіршуватися в осінньо-зимовий період.",
     "94171d689bd27d1a": "У Хмельницькому та Маліївцях запрацюють резиденції святого Миколая: що підготували для дітей. Локація у Маліївецькому музеї запрацює 20 листопада, а в Хмельницькому театрі ляльок – 1 грудня.",
     "e5a5099f674cfbc7": "Троє молодих науковців із Закарпаття отримуватимуть стипендії Кабміну. Валерія Рубаняк пн, 16/11/2026 - 12:32 Троє молодих учених із Закарпаття отримуватимуть стипендії Кабміну. Йдеться про трьох науковців УжНУ – професора кафедри програмного забезпечення систем Володимира Поліщука, доцентку кафедри терапевтичної стоматології Ельвіру Данко та професора кафедри економіки, підприємництва та торгівлі Сергія Газуду. Як у понеділок, 16 листопада, повідомили у Закарпатській ОВА, стипендії призначили за результатами останнього конкурсного відбору. Загалом фінансову підтримку отримають 146 молодих учених із 45 закладів вищої освіти та наукових установ України.",
     "a0d1a67d4fd94122": "Кільком закарпатським ученим виділять стипендію Кабміну. Троє представників Ужгородського університету стали переможцями конкурсу на призначення державних стипендій для молодих учених.",
-    "295dc5c34f83d240": "В Ужгородському скансені 1 грудня відкриється резиденція Святого Миколая. Валерія Рубаняк пн, 16/11/2026 - 11:41 З 1 по 6 грудня в Ужгородському скансені працюватиме резиденція Святого Миколая. Її облаштують у Шелестівській церкві. Відвідати резиденцію можна буде разом з дітками за донат на підтримку українських захисників після попереднього запису. Як повідомили у Закарпатському музеї народної архітектури та побуту, резиденція працюватиме з вівторка, 1 грудня, до неділі, 6 грудня. Графік: 10:00–13:00 — для колективних відвідувань (дитсадки, класи); 15:00–18:00 — для індивідуальних відвідувань (батьки з дітками).",
+    "4bff1564c20ffc8d": "Три науковиці франківського медичного університету отримали стипендії Кабміну. Двом науковицям Івано-Франківського національного медичного університету призначили стипендії Кабінету Міністрів України, одній — продовжили виплату The post Три науковиці франківського медичного університету отримали стипендії Кабміну appeared first on \"Репортер\" .",
+    "47713adc4c5981a7": "Науковцю Херсонської морської академії продовжили виплату державної стипендії. Молодому науковцю Херсонської державної морської академії Павлу Воробйову продовжили виплату стипендії Кабінету Міністрів України. Про це повідомили у Херсонській державній морській академії. У академії зазначили, що це визнання його наукової роботи та внеску в розвиток української науки. Павло Воробйов обіймає посаду в. о. декана факультету суднової енергетики. Також має ступінь доктора філософії. Раніше двоє науковців [...] Запис Науковцю Херсонської морської академії продовжили виплату державної стипендії спершу з'явиться на Мост .",
+    "71efaee57902853b": "П’ятьох науковців ЧНУ рекомендували до призначення стипендії Кабміну. П’ятеро представників Чернівецького національного університету ім. Ю. Федьковича увійшли до переліку претендентів, яких рекомендували до призначення стипендій Кабінету Міністрів України для молодих учених. Про це пише С4 із посиланням на сайт університету. Серед рекомендованих відзначено: Владислава Ткачука – доктора філософії, старшого лаборанта; Владислава Ткача – доктора філософії, старшого наукового співробітника кафедри радіотехніки та інформаційної безпеки; […]",
+    "b0c70623212ae86e": "Ультраправа AfD продає шоколадні фігурки Святого Миколая зі своїм логотипом. Німецький єпископ засудив це. ",
+    "2903f9a5c0fcb5c2": "«Альтернатива для Німеччини» почала продавати шоколадного Святого Миколая з логотипом партії. Німецький єпископ розкритикував це. ",
+    "9120c1112213e8a7": "Ультраправа \"Альтернатива для Німеччини\" посварилась з єпископом через шоколадні фігурки. Дітям запропонували дарувати \"AfD-Святих Миколаїв\".",
+    "19a1e88e4cee123b": "Капела «Дударик» представить у Львові мюзикл «Пригоди святого Миколая». 5 та 6 грудня Національна хорова капела «Дударик» презентує у Львівській філармонії казку-мюзикл «Пригода святого Миколая». На глядачів чекає музична історія про боротьбу добра і зла, улюблені світові хіти в несподіваних аранжуваннях та зустріч зі святим Миколаєм, повідомили у пресслужбі «Дударика». За сюжетом, напередодні чарівної ночі темні сили задумують перешкодити святому Миколаю вчасно доставити подарунки … Continue reading Капела «Дударик» представить у Львові мюзикл «Пригоди святого Миколая» →",
     "2b5f568f69e47d99": "На Закарпатті на території одного із КПП водій збив прикордонника: що відомо. Поліцейські встановили особу водія позашляховика, причетного до наїзду на співробітника Державної прикордонної служби України у Тячеві.",
     "696086f262bc20ea": "Закарпатець на джипі збив прикордонника на КПП і втік. [CDATA[ Закарпатець на джипі збив прикордонника на КПП і втік]]>",
     "72c1d4fc3c45cd68": "У Тячеві на блокпосту водій позашляховика збив прикордонника та втік. Валерія Рубаняк пн, 16/11/2026 - 14:21 У Тячеві на території контрольно-пропускного пункту водій позашляховика збив 39-річного співробітника Держприкордонслужби, а потім втік. Унаслідок ДТП прикордонник потрапив до лікарні. Аварія сталася 15 листопада близько 20:04. Як поінформували у поліції Закарпаття, під час несення служби в темну пору доби 39-річний прикордонник вийшов на зустрічну смугу, якою саме рухався автомобіль. Після зіткнення водій чорного позашляховика не зупинився та залишив місце ДТП. «Поліцейські встановили особу водія – ним виявився місцевий житель."
   },
-  "budget_characters": 1471,
-  "characters": 1403,
-  "stories": 7,
-  "retold": 6,
+  "budget_characters": 1456,
+  "characters": 1323,
+  "stories": 4,
+  "retold": 4,
   "log": {
     "llm": {
       "model": "claude-opus-5-5",
-      "input_tokens": 21950,
-      "output_tokens": 1804,
-      "request_id": "req_011Ch8QMcyn44t6ZEptXbcLM"
+      "input_tokens": 31841,
+      "output_tokens": 1903,
+      "request_id": "req_011Ch8VDE1Ww7eN5o5PiULq9"
     },
     "rejected": [
       {
         "story_ids": [
-          "national-c-029489d0e061c95e"
+          "national-c-2d86aace1578d81e"
         ],
-        "text": "За словами мера Віталія Кличка, у ніч з 16 на 17 листопада росіяни під час ракетної атаки, попередньо, влучили в Північний і Південний мости Києва. Рух обома мостами тимчасово перекрили, маршрути транспорту змінили. Метро на зеленій лінії між «Осокорками» і «Червоним хутором» тимчасово зупинили. Київ розділяє Дніпро, на лівому березі живе понад мільйон киян.",
+        "text": "У Чернігові внаслідок російських ударів по двох підприємствах 16 листопада загинули 2 людини. Ще 4 постраждали.",
         "problems": [
-          "не знайдено в джерелах: quote «Осокорками»",
-          "не знайдено в джерелах: quote «Червоним хутором»"
+          "не знайдено в джерелах: number «4»"
         ]
       }
     ],
     "fallback": [
-      "national-c-029489d0e061c95e"
+      "national-c-2d86aace1578d81e"
     ],
     "left_out": [
-      "national-c-308c35df0caec08d",
+      "national-c-01a7cd992ddc403a",
+      "national-c-196aa359602b03b9",
+      "national-c-198952a7b2241b78",
+      "national-c-06c74bdb54a9aa4e",
+      "regional-c-308c35df0caec08d",
       "regional-c-078f8daa84ba9c8e",
-      "regional-c-3724d0de84f2aacf",
       "regional-c-234a9bda44720fcf",
       "regional-c-00fc8e4eb68b8f22"
     ],
@@ -1035,11 +946,46 @@
         {
           "item_id": "c41845152e421cb7",
           "skipped": "не про російський удар"
+        },
+        {
+          "item_id": "cffdaf298ec9aa83",
+          "skipped": "інша дата в тексті: 15 листопада"
+        },
+        {
+          "item_id": "e9429a445f31f533",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "ce5d0089e124d688",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "b6d75a9e69ce4950",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "b220dfe1d4e38bf4",
+          "skipped": "регіон не визначено однозначно"
+        },
+        {
+          "item_id": "d33134d7182714a1",
+          "skipped": "немає однозначної цифри"
+        },
+        {
+          "item_id": "5d4dc5a99af61b50",
+          "skipped": "немає однозначної цифри"
         }
       ]
     },
-    "cut_for_budget": []
+    "cut_for_budget": [
+      [
+        "national-c-02c797505a864303"
+      ],
+      [
+        "national-c-2d86aace1578d81e"
+      ]
+    ]
   },
-  "script_sha256": "f42499dd3551053c2bfc6619ee97b68715510dbd87342ca204e55c9da199f714",
-  "script_text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: російський удар по мостах Києва, масштабні знеструмлення на сході та завершення пошуків у Комишувасі.\nЗа даними «Укренерго», через російські удари на сході України масштабні знеструмлення.\nНайскладніша ситуація у Дніпрі, Харкові, Полтаві та Запоріжжі.\nУ Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада.\nЗа словами міністра внутрішніх справ Івана Вигівського, загинули 72 людини, четверо вважаються зниклими безвісти.\nУ Дніпрі через російські атаки загинули двоє людей, повідомив мер Борис Філатов.\nЩе восьмеро в лікарнях.\nМайже пів міста без світла.\nУ Миколаєві внаслідок російської атаки на порт і підприємство 16 листопада загинули двоє людей, троє поранені.\nГенштаб ЗСУ підтвердив удар по нафтобазі «Флеш Енерджі» в Азові Ростовської області Росії та по Ільському НПЗ у Краснодарському краї.\nНа півночі Одещини через російську атаку 16 листопада без світла 52,2 тисячі родин, повідомили в ДТЕК.\nВ ніч з 16 на 17 листопада в ході ракетної атаки російські окупанти, попередньо, влучили у Північний і Південний мости у столиці України.\nЦе був BRIEF за сімнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+  "script_sha256": "9fda0564bd9d96edc50e3673491323237cf374e58227e38516ade3d24ec1ec78",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: удар по мостах у Києві, заяви окупантів про удари по Кримському мосту та повний блекаут у Дніпрі.\nУ ніч з 16 на 17 листопада Росія вдарила балістикою по Києву.\nЗа словами мера Віталія Кличка, попередньо, є влучання в Північний і Південний мости.\nРух обома мостами тимчасово перекрили.\nКиїв розділяє Дніпро, і це головні мости між берегами.\nОкупаційний глава Криму Сергій Аксьонов заявив про удар по Кримському мосту 16 листопада.\nРух транспорту обмежили, на під'їздах стояли кілька тисяч авто.\nУ ніч на 17 листопада окупанти заявили про повторний удар.\nУкраїна вже уражала міст 8 жовтня 2022 року і 17 липня 2023 року.\nМісто Дніпро повністю знеструмлене після російської атаки на енергооб'єкти, повідомили в ДТЕК.\nЦе вже шостий блекаут у місті за два тижні.\nЕнергетики спершу відновлюють живлення водогону і теплопостачання.\nУ селищі Комишуваха Запорізької області завершили пошуки після російського удару 2 листопада.\nЗа даними міністра внутрішніх справ Івана Вигівського, загинули 72 людини, 4 вважаються зниклими безвісти.\nЦе був BRIEF за сімнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
 }

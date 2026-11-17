@@ -6,11 +6,11 @@
   "model": "eleven_v3",
   "voice": "TEyBWD5tAHAWqAGEv6yI",
   "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
-  "duration_sec": 102.63,
-  "asr_mean_cer": 0.046,
+  "duration_sec": 99.83,
+  "asr_mean_cer": 0.05,
   "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
-  "description": "Щоденний випуск BRIEF. Новин у випуску: 7. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
-  "script_sha256": "f42499dd3551053c2bfc6619ee97b68715510dbd87342ca204e55c9da199f714",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "9fda0564bd9d96edc50e3673491323237cf374e58227e38516ade3d24ec1ec78",
   "sonic": {
     "intro": "audio/intro.mp3",
     "outro": "audio/outro.mp3"
@@ -22,9 +22,9 @@
       "block": "intro",
       "title": null,
       "audio": "demo/2026-11-17-daily/intro.mp3",
-      "duration_sec": 11.69,
+      "duration_sec": 12.66,
       "text": [
-        "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: російський удар по мостах Києва, масштабні знеструмлення на сході та завершення пошуків у Комишувасі."
+        "Це BRIEF. Головне за добу станом на ранок сімнадцятого листопада: удар по мостах у Києві, заяви окупантів про удари по Кримському мосту та повний блекаут у Дніпрі."
       ],
       "sources": []
     },
@@ -32,56 +32,66 @@
       "id": "story-1",
       "kind": "story",
       "block": "national",
-      "title": "Знеструмлення на сході",
+      "title": "Мости Києва",
       "audio": "demo/2026-11-17-daily/story-1.mp3",
-      "duration_sec": 10.53,
+      "duration_sec": 17.39,
       "topics": [
         "Війна та безпека",
         "Економіка"
       ],
       "regions": [
-        "kharkiv",
-        "dnipropetrovsk",
-        "lviv",
-        "poltava",
-        "zaporizhzhia"
+        "kyiv"
       ],
       "text": [
-        "За даними «Укренерго», через російські удари на сході України масштабні знеструмлення.",
-        "Найскладніша ситуація у Дніпрі, Харкові, Полтаві та Запоріжжі."
+        "У ніч з 16 на 17 листопада Росія вдарила балістикою по Києву.",
+        "За словами мера Віталія Кличка, попередньо, є влучання в Північний і Південний мости.",
+        "Рух обома мостами тимчасово перекрили.",
+        "Київ розділяє Дніпро, і це головні мости між берегами."
       ],
       "sources": [
         {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/rosiyani-vdarili-ta-potrapili-do-pivnichnogo-ta-pivdennogo-mostiv-kiyeva-klichko-50659772.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237471.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/17/novyna/suspilstvo/voroh-atakuvav-balistykoyu-kyyiv-poperedno-ye-vluchannya-po-dvox-stolychnyx-mostax"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063196"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185377-vnaslidok-vorozih-udariv-po-kievu-timcasovo-perekritij-ruh-pivnicnim-i-pivdennim-mostami.html"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosija-atakuvala-mosti-kijeva-balistichnimi-raketami.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1453870-u-kievi-perekrili-pivnicnij-ta-pivdennij-mosti-ak-kursue-transport"
+        },
+        {
           "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781518_ukrenergo_cherez_ataki_rf.html"
+          "url": "https://lb.ua/society/2026/11/17/781594_rosiyani_kilka_hvil_vdarili.html"
         },
         {
-          "name": "Слобідський край",
-          "url": "https://slk.kh.ua/oblast-online/harkiv/harkiv-sered-mist-iz-najskladnisou-situacieu-zi-svitlom-pisla-rosijskih-udariv.html"
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kyiv-ataka-mosty/33900080.html"
         },
         {
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1116925-rosiia-ponad-misiac-atakuje-energeticnu-infrastrukturu-ukrayini-naslidki-novix-udariv"
-        },
-        {
-          "name": "Dnipro.media",
-          "url": "https://dnipro.media/novyny-dnipro/masshtabni-znestrumlennya-na-shodi-ukrayiny-cherez-vorozhi-udary"
-        },
-        {
-          "name": "Еспресо",
-          "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiyski-udari-sprichinili-masshtabni-znestrumlennya-na-skhodi-ukraini-de-situatsiya-nayskladnisha"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/ukrenerho-nazvalo-chotyry-mista-de-najskladnishe-zi-svitlom"
-        },
-        {
-          "name": "Букви",
-          "url": "https://bukvy.org/v-ukrenergo-poperedyly-pro-masshtabni-znestrumlennya-na-shodi-krayiny"
-        },
-        {
-          "name": "SPEKA",
-          "url": "https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm"
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781470_kiievi_vidnovlyuyut_ruh.html"
         }
       ]
     },
@@ -89,9 +99,178 @@
       "id": "story-2",
       "kind": "story",
       "block": "national",
-      "title": "Комишуваха",
+      "title": "Кримський міст",
       "audio": "demo/2026-11-17-daily/story-2.mp3",
-      "duration_sec": 17.3,
+      "duration_sec": 27.65,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "Окупаційний глава Криму Сергій Аксьонов заявив про удар по Кримському мосту 16 листопада.",
+        "Рух транспорту обмежили, на під'їздах стояли кілька тисяч авто.",
+        "У ніч на 17 листопада окупанти заявили про повторний удар.",
+        "Україна вже уражала міст 8 жовтня 2022 року і 17 липня 2023 року."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063032"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1453425-aksonov-zaaviv-pro-urazenna-krimskogo-mostu-16-listopada"
+        },
+        {
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/okupatsijna-vlada-krimu-zajavila-pro-udar-po-krimskomu-mostu-ruh-obmezheno"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312286-okupanti-zayavili-pro-udar-po-krimskomu-mostu"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-krym-mist-ataka/33899386.html"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/u-krimu-zaiavili-pro-udar-po-krimskomu-mostu-rukh-pieriekrili-poyizdi-zatrimuiutsia"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1236946.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4185035-krimskij-mist-perekrili-pisla-ataki-zmi.html"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407643-ponad-sotnyu-bezpilotnykiv-atakuvaly-krymskyj-mist-shho-vidomo-pro-naslidky"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/16/atakovanij-krimskij-mist-ruh-obmezhenij-zastryagli-tisyachi-avto-pokosilo-arku"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/16/ukraina-vdaryla-po-krymskomu-mostu"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-okupanti-zayavili-shcho-ukraina-zavdala-udaru-po-krimskomu-mostu"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/16/novyna/bezpeka/rosiyi-zayavyly-pro-ataku-krymskyj-mist-rux-perekryto"
+        },
+        {
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/news-krym-kerchenskyi-mist-ataka/33899408.html"
+        },
+        {
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/krymskyj-mist-perekryly-pislya-ataky-droniv-blyzko-2000-avto-zastryagly-v-zatorah"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1116756-ukrayinski-viiskovi-urazili-krimskii-mist"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13721-po-krymskomu-mostu-zavdaly-udaru-rukh-transportu-obmezheno-poshkodzheno-arku"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/aksonov-zaiavyv-pro-udar-po-krymskomu-mostu-rukh-perekrytyi-zatrymuiutsia-poizdy"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407704-zyavylysya-pershi-foto-poshkodzhen-krymskogo-mostu-pislya-nichnoyi-ataky-bezpilotnykiv"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063184"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/17/novyna/bezpeka/okupanty-vdruhe-dobu-zayavyly-pro-urazhennya-krymskoho-mostu"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/udar-po-krymskomu-mostu-okupanty-obmezhyly-rukh-u-merezhi-pokazaly-poshkodzhenu-arku"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185360-eksdeputatku-vr-krimu-zasudili-do-13-rokiv-za-derzzradu.html"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Блекаут у Дніпрі",
+      "audio": "demo/2026-11-17-daily/story-3.mp3",
+      "duration_sec": 13.68,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk"
+      ],
+      "text": [
+        "Місто Дніпро повністю знеструмлене після російської атаки на енергооб'єкти, повідомили в ДТЕК.",
+        "Це вже шостий блекаут у місті за два тижні.",
+        "Енергетики спершу відновлюють живлення водогону і теплопостачання."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/16/8063149"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/16/dnipro-povnistyu-znestrumlenyj-pislya-rosijskyh-udariv-po-energetytsi"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/energetics/shostij-blekaut-za-dva-tizhni-rosijski-ataki-znestrumili-ves-dnipro.html"
+        },
+        {
+          "name": "SPEKA",
+          "url": "https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/16/781544_dtek_misto_dnipro_povnistyu.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Комишуваха",
+      "audio": "demo/2026-11-17-daily/story-4.mp3",
+      "duration_sec": 16.71,
       "topics": [
         "Війна та безпека",
         "Суспільство"
@@ -100,8 +279,8 @@
         "zaporizhzhia"
       ],
       "text": [
-        "У Комишувасі на Запоріжжі завершили пошуково-рятувальні роботи після російського удару 2 листопада.",
-        "За словами міністра внутрішніх справ Івана Вигівського, загинули 72 людини, четверо вважаються зниклими безвісти."
+        "У селищі Комишуваха Запорізької області завершили пошуки після російського удару 2 листопада.",
+        "За даними міністра внутрішніх справ Івана Вигівського, загинули 72 людини, 4 вважаються зниклими безвісти."
       ],
       "sources": [
         {
@@ -187,322 +366,6 @@
         {
           "name": "ПІК",
           "url": "https://pik.net.ua/2026/11/17/zagynuly-72-lyudyny-u-komyshuvasi-zavershyly-poshukovo-ryatuvalni-roboty"
-        }
-      ]
-    },
-    {
-      "id": "story-3",
-      "kind": "story",
-      "block": "national",
-      "title": "Атаки на Дніпро",
-      "audio": "demo/2026-11-17-daily/story-3.mp3",
-      "duration_sec": 10.24,
-      "topics": [
-        "Війна та безпека",
-        "Суспільство"
-      ],
-      "regions": [
-        "dnipropetrovsk"
-      ],
-      "text": [
-        "У Дніпрі через російські атаки загинули двоє людей, повідомив мер Борис Філатов.",
-        "Ще восьмеро в лікарнях.",
-        "Майже пів міста без світла."
-      ],
-      "sources": [
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237384.html"
-        },
-        {
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/u-dnipri-vnaslidok-obstriliv-zagynulo-dvoye-tsyvilnyh-poshkodzheno-10-bagatopoverhivok-polovyna-i573374"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html"
-        },
-        {
-          "name": "Mind.ua",
-          "url": "https://mind.ua/news/20312327-rf-vdarila-po-obektu-harchovoyi-promislovosti-u-dnipri-tam-vinikla-pozhezha"
-        }
-      ]
-    },
-    {
-      "id": "story-4",
-      "kind": "story",
-      "block": "national",
-      "title": "Удар по Миколаєву",
-      "audio": "demo/2026-11-17-daily/story-4.mp3",
-      "duration_sec": 10.78,
-      "topics": [
-        "Війна та безпека",
-        "Суспільство"
-      ],
-      "regions": [
-        "mykolaiv"
-      ],
-      "text": [
-        "У Миколаєві внаслідок російської атаки на порт і підприємство 16 листопада загинули двоє людей, троє поранені."
-      ],
-      "sources": [
-        {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326418-mykolaievi-vnaslidok-rosiiskoi-ataky-zahynuv-cholovik-dvoie-liudei"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185148-u-mikolaevi-vnaslidok-ataki-rf-zaginula-ludina-dvoe-poraneni.html"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781474_mikolaievi_vnaslidok_ataki_rf.html"
-        },
-        {
-          "name": "Інтент",
-          "url": "https://intent.press/news/society/2026/u-mikolaievi-vid-ataki-rosiiskikh-banderolei-zaginuv-cholovik-shche-dvoie-poraneni"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni"
-        },
-        {
-          "name": "МикВісті",
-          "url": "https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh"
-        }
-      ]
-    },
-    {
-      "id": "story-5",
-      "kind": "story",
-      "block": "national",
-      "title": "Удар по Азову",
-      "audio": "demo/2026-11-17-daily/story-5.mp3",
-      "duration_sec": 10.26,
-      "topics": [
-        "Війна та безпека",
-        "Міжнародне"
-      ],
-      "regions": [
-        "crimea"
-      ],
-      "text": [
-        "Генштаб ЗСУ підтвердив удар по нафтобазі «Флеш Енерджі» в Азові Ростовської області Росії та по Ільському НПЗ у Краснодарському краї."
-      ],
-      "sources": [
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781370_rosiya_krim_zaznali_masovanoyi.html"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/svit/rostovskij-oblasti-rf-pislya-ataky-droniv-spalaxnuly-pozhezhi-rajoni-naftobaz"
-        },
-        {
-          "name": "Еспресо",
-          "url": "https://espreso.tv/viyna-z-rosiyeyu-u-rosiyskomu-azovi-pislya-ataki-droniv-spalakhnula-pozhezha-bilya-dvokh-naftobaz"
-        },
-        {
-          "name": "Букви",
-          "url": "https://bukvy.org/u-rostovskij-oblasti-rf-povidomlyayut-pro-pozhezhu-v-rajoni-dvoh-naftobaz-pislya-ataky-bpla"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-world/4185029-u-rosijskomu-azovi-pisla-ataki-droniv-spalahnula-pozeza-poblizu-dvoh-naftobaz-zmi.html"
-        },
-        {
-          "name": "Новинарня",
-          "url": "https://novynarnia.com/2026/11/16/ukrainski-drony-pidpalyly-naftobazu-v-azovi-rostovskoi-oblasti-rosii"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/u-rostovskij-oblasti-pislia-ataky-droniv-spalakhnula-pozhezha-poblyzu-dvokh-naftobaz"
-        },
-        {
-          "name": "Реальна газета",
-          "url": "https://realgazeta.com.ua/u-rosiiskomu-azovi-pislia-ataki-droniv-spalakhnuli-pozhiezhi-v-raioni-naftobazi-vidieo"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-rosia-azov-ataka-naftobaza/33899525.html"
-        },
-        {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/16/8063078"
-        },
-        {
-          "name": "Прихист",
-          "url": "https://prikhist.com/2026/11/16/syly-oborony-urazyly-naftobazu-v-rostovskij-oblasti-ta-punkty-upravlinnia-rosijskykh-vijsk"
-        },
-        {
-          "name": "Фарватер.Схід",
-          "url": "https://farvatermedia.com/news/syly-oborony-urazyly-naftobazu-v-rostovskii-oblasti-ta-punkty-upravlinnia-rosiiskykh-viisk"
-        },
-        {
-          "name": "Львівський портал",
-          "url": "https://portal.lviv.ua/news/2026/11/16/ukrainski-vijskovi-zavdaly-udaru-po-dvokh-naftobazakh-v-rostovskij-oblasti-rf"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781452_genshtab_pidtverdiv_urazhennya.html"
-        },
-        {
-          "name": "Рубрика",
-          "url": "https://rubryka.com/2026/11/16/udar-po-naftobazi-v-rosijskomu"
-        },
-        {
-          "name": "Район.in.ua",
-          "url": "https://rayon.in.ua/news/1116819-zsu-urazili-naftobazu-v-rostovskii-oblasti-ta-punkti-upravlinnia-protivnika"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/16/novyna/bezpeka/syly-oborony-vdaryly-po-klyuchovij-naftobazi-yaka-zabezpechuvala-pivdenne-uhrupovannya-armiyi-rf"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-ato/4185121-sili-oboroni-urazili-dvi-naftobazi-v-rostovskij-oblasti-rf.html"
-        },
-        {
-          "name": "Бабель",
-          "url": "https://babel.ua/news/131792-sili-oboroni-vnochi-vdarili-po-ilskomu-npz-ta-odrazu-dvoh-naftobazah-v-rosiyskomu-azovi"
-        },
-        {
-          "name": "ОстроВ",
-          "url": "https://ostro.org/news/u-genshtabi-pidtverdyly-uspishnyj-udar-po-naftobazi-v-azovi-rostovskoyi-oblasti-i573342"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-ataka-droniv-azov-suputnykove-foto/33899835.html"
-        },
-        {
-          "name": "Новини Донбасу",
-          "url": "https://novosti.dn.ua/news/407719-syly-oborony-urazyly-ilskyj-naftopererobnyj-zavod"
-        }
-      ]
-    },
-    {
-      "id": "story-6",
-      "kind": "story",
-      "block": "national",
-      "title": "Одещина без світла",
-      "audio": "demo/2026-11-17-daily/story-6.mp3",
-      "duration_sec": 10.49,
-      "topics": [
-        "Війна та безпека",
-        "Бізнес"
-      ],
-      "regions": [
-        "odesa",
-        "dnipropetrovsk",
-        "kyiv"
-      ],
-      "text": [
-        "На півночі Одещини через російську атаку 16 листопада без світла 52,2 тисячі родин, повідомили в ДТЕК."
-      ],
-      "sources": [
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/odesa/1453475-rf-zavdala-udaru-po-energoobektah-i-majdanciku-dtek-na-odesini-ponad-52-tisaci-spozivaciv-zalisilisa-bez-svitla"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/16/781412_odeschini_cherez_rosiyski_ataki.html"
-        },
-        {
-          "name": "Odesa.Online",
-          "url": "https://odessa.online/rosiyani-atakuvali-energoob-yekti-dtek-na-odeshhini-ponad-52-tisyachi-rodin-bez-svitla"
-        },
-        {
-          "name": "Гривна",
-          "url": "https://grivna.ua/news/vorog-atakuvav-odeshhynu-bez-svitla-zalyshylysya-ponad-52-tysyachi-abonentiv"
-        },
-        {
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/rf-atakuvala-objekti-dtek-na-odeshchini-desjatki-tisjach-rodin-zalishilisja-bez-svitla.html"
-        },
-        {
-          "name": "Інтент",
-          "url": "https://intent.press/news/war/2026/ponad-52-tisiachi-rodin-na-odeshchini-zalishilisia-bez-svitla"
-        },
-        {
-          "name": "Море людей",
-          "url": "https://moreliudei.media/teksty/rf-atakuvala-enerhetyku-odeshchyny-bez-svitla-ponad-52-tys-rodyn"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka/33899536.html"
-        },
-        {
-          "name": "Odesa.Online",
-          "url": "https://odessa.online/na-odeshhini-ponad-300-tisyach-rodin-znovu-zi-svitlom-pislya-vorozhih-atak"
-        },
-        {
-          "name": "Місто і річка",
-          "url": "https://mistorichka.media/novyny/ekstreni-vidkliuchennia-svitla-dniprovshchyna-16-lystopada"
-        }
-      ]
-    },
-    {
-      "id": "story-7",
-      "kind": "story",
-      "block": "national",
-      "title": "Росіяни вдарили та влучили у Північний та Південний мости Києва — Кличко",
-      "audio": "demo/2026-11-17-daily/story-7.mp3",
-      "duration_sec": 9.62,
-      "topics": [
-        "Війна та безпека",
-        "Економіка"
-      ],
-      "regions": [
-        "kyiv"
-      ],
-      "text": [
-        "В ніч з 16 на 17 листопада в ході ракетної атаки російські окупанти, попередньо, влучили у Північний і Південний мости у столиці України."
-      ],
-      "sources": [
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-kyyiv-ataka-rf-balistyka-poperedzhennya/33899838.html"
-        },
-        {
-          "name": "NV",
-          "url": "https://nv.ua/ukr/kyiv/rosiyani-vdarili-ta-potrapili-do-pivnichnogo-ta-pivdennogo-mostiv-kiyeva-klichko-50659772.html"
-        },
-        {
-          "name": "Інтерфакс-Україна",
-          "url": "https://interfax.com.ua/news/general/1237471.html"
-        },
-        {
-          "name": "Слово і Діло",
-          "url": "https://slovoidilo.ua/2026/11/17/novyna/suspilstvo/voroh-atakuvav-balistykoyu-kyyiv-poperedno-ye-vluchannya-po-dvox-stolychnyx-mostax"
-        },
-        {
-          "name": "Українська правда",
-          "url": "https://pravda.com.ua/news/2026/11/17/8063196"
-        },
-        {
-          "name": "Укрінформ",
-          "url": "https://ukrinform.ua/rubric-regions/4185377-vnaslidok-vorozih-udariv-po-kievu-timcasovo-perekritij-ruh-pivnicnim-i-pivdennim-mostami.html"
-        },
-        {
-          "name": "ZN.UA",
-          "url": "https://zn.ua/ukr/war/rosija-atakuvala-mosti-kijeva-balistichnimi-raketami.html"
-        },
-        {
-          "name": "Суспільне Новини",
-          "url": "https://suspilne.media/kyiv/1453870-u-kievi-perekrili-pivnicnij-ta-pivdennij-mosti-ak-kursue-transport"
-        },
-        {
-          "name": "LB.ua",
-          "url": "https://lb.ua/society/2026/11/17/781594_rosiyani_kilka_hvil_vdarili.html"
-        },
-        {
-          "name": "Радіо Свобода",
-          "url": "https://radiosvoboda.org/a/news-kyiv-ataka-mosty/33900080.html"
         }
       ]
     },

@@ -1,6 +1,6 @@
 # BRIEF — чернетка випуску за 2026-11-17
 
-Статус: **draft** · згенеровано 2026-11-17T06:00:00+00:00 · sha256 `6125caae8a5f`
+Статус: **draft** · згенеровано 2026-11-17T06:00:00+00:00 · sha256 `a8f72766d345`
 
 > Чернетка для редакційної перевірки. Не публікувати без затвердження.
 
@@ -9,31 +9,35 @@
 ✓ Випуск за сімнадцяте листопада.
 ✓ Новини України.
 ### national #1 · score 0.8565 · Війна та безпека, Міжнародне · обов'язкова
-✓ ЗСУ ударили по нафтобазі у Ростовській області, повідомляє Район.in.ua.
-  - чутлива тема (удар); незалежних джерел: 16
+✓ Окупаційна влада Криму заявила, що Україна завдала удару по Кримському мосту, повідомляє МОСТ.
+  - чутлива тема (удар); незалежних джерел: 19
+✓ Рух транспорту мостом обмежили приблизно до середини дня.
 
-  - [LB.ua](https://lb.ua/society/2026/11/16/781370_rosiya_krim_zaznali_masovanoyi.html) — Росія і Крим зазнали масованої атаки: ворог заявив про збиття понад 1300 БпЛА. Перекривали Керченський міст
-  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/svit/rostovskij-oblasti-rf-pislya-ataky-droniv-spalaxnuly-pozhezhi-rajoni-naftobaz) — У Ростовській області рф після атаки дронів спалахнули пожежі в районі нафтобаз
-  - [Еспресо](https://espreso.tv/viyna-z-rosiyeyu-u-rosiyskomu-azovi-pislya-ataki-droniv-spalakhnula-pozhezha-bilya-dvokh-naftobaz) — У російському Азові після атаки дронів спалахнула пожежа біля двох нафтобаз
-  - [Букви](https://bukvy.org/u-rostovskij-oblasti-rf-povidomlyayut-pro-pozhezhu-v-rajoni-dvoh-naftobaz-pislya-ataky-bpla) — У Ростовській області РФ повідомляють про пожежу в районі двох нафтобаз після атаки БпЛА
-  - [Укрінформ](https://ukrinform.ua/rubric-world/4185029-u-rosijskomu-azovi-pisla-ataki-droniv-spalahnula-pozeza-poblizu-dvoh-naftobaz-zmi.html) — У російському Азові після атаки дронів спалахнула пожежа поблизу двох нафтобаз - ЗМІ
-  - [Новинарня](https://novynarnia.com/2026/11/16/ukrainski-drony-pidpalyly-naftobazu-v-azovi-rostovskoi-oblasti-rosii) — Українські дрони підпалили нафтобазу в Азові Ростовської області Росії
-  - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/u-rostovskij-oblasti-pislia-ataky-droniv-spalakhnula-pozhezha-poblyzu-dvokh-naftobaz) — У Ростовській області після атаки дронів спалахнула пожежа поблизу двох нафтобаз
-  - [Реальна газета](https://realgazeta.com.ua/u-rosiiskomu-azovi-pislia-ataki-droniv-spalakhnuli-pozhiezhi-v-raioni-naftobazi-vidieo) — У російському Азові після атаки дронів спалахнули пожежі в районі нафтобази — відео
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-rosia-azov-ataka-naftobaza/33899525.html) — У російському Азові повідомляють про пожежу на нафтобазі через атаку БпЛА
-  - [Українська правда](https://pravda.com.ua/news/2026/11/16/8063078) — Генштаб підтвердив удар по нафтобазі в російському Азові – які наслідки
-  - [Прихист](https://prikhist.com/2026/11/16/syly-oborony-urazyly-naftobazu-v-rostovskij-oblasti-ta-punkty-upravlinnia-rosijskykh-vijsk) — Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ
-  - [Фарватер.Схід](https://farvatermedia.com/news/syly-oborony-urazyly-naftobazu-v-rostovskii-oblasti-ta-punkty-upravlinnia-rosiiskykh-viisk) — Сили оборони уразили нафтобазу в Ростовській області та пункти управління російських військ
-  - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/ukrainski-vijskovi-zavdaly-udaru-po-dvokh-naftobazakh-v-rostovskij-oblasti-rf) — Українські військові завдали удару по двох нафтобазах в Ростовській області РФ
-  - [LB.ua](https://lb.ua/society/2026/11/16/781452_genshtab_pidtverdiv_urazhennya.html) — Генштаб підтвердив ураження нафтобази в Азові та Ільського НПЗ (доповнено)
-  - [Рубрика](https://rubryka.com/2026/11/16/udar-po-naftobazi-v-rosijskomu) — Генштаб підтвердив удар по нафтобазі в російському Азові: також уражено пункти управління та військову техніку
-  - [Район.in.ua](https://rayon.in.ua/news/1116819-zsu-urazili-naftobazu-v-rostovskii-oblasti-ta-punkti-upravlinnia-protivnika) — ЗСУ уразили нафтобазу в Азові та пункти управління РФ
-  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/bezpeka/syly-oborony-vdaryly-po-klyuchovij-naftobazi-yaka-zabezpechuvala-pivdenne-uhrupovannya-armiyi-rf) — Сили оборони вдарили по ключовій нафтобазі, яка забезпечувала південне угруповання армії рф
-  - [Укрінформ](https://ukrinform.ua/rubric-ato/4185121-sili-oboroni-urazili-dvi-naftobazi-v-rostovskij-oblasti-rf.html) — Сили оборони уразили Ільський НПЗ та дві нафтобази в Ростовській області РФ
-  - [Бабель](https://babel.ua/news/131792-sili-oboroni-vnochi-vdarili-po-ilskomu-npz-ta-odrazu-dvoh-naftobazah-v-rosiyskomu-azovi) — Сили оборони вночі вдарили по Ільському НПЗ та одразу двох нафтобазах у російському Азові
-  - [ОстроВ](https://ostro.org/news/u-genshtabi-pidtverdyly-uspishnyj-udar-po-naftobazi-v-azovi-rostovskoyi-oblasti-i573342) — У Генштабі підтвердили успішний удар по нафтобазі в Азові Ростовської області
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-ataka-droniv-azov-suputnykove-foto/33899835.html) — З’явилося супутникове фото нафтобаз в російському Азові після атаки дронів
-  - [Новини Донбасу](https://novosti.dn.ua/news/407719-syly-oborony-urazyly-ilskyj-naftopererobnyj-zavod) — Сили оборони уразили Ільський нафтопереробний завод
+  - [Українська правда](https://pravda.com.ua/news/2026/11/16/8063032) — Окупанти заявили про удар по Кримському мосту: розгорнули оперативний штаб
+  - [Суспільне Новини](https://suspilne.media/crimea/1453425-aksonov-zaaviv-pro-urazenna-krimskogo-mostu-16-listopada) — Аксьонов заявив про ураження Кримського мосту 16 листопада
+  - [МОСТ](https://most.ks.ua/news/url/okupatsijna-vlada-krimu-zajavila-pro-udar-po-krimskomu-mostu-ruh-obmezheno) — Окупаційна влада Криму заявила про удар по Кримському мосту, рух обмежено
+  - [Mind.ua](https://mind.ua/news/20312286-okupanti-zayavili-pro-udar-po-krimskomu-mostu) — Окупанти заявили про удар по Кримському мосту
+  - [ZN.UA](https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html) — Аксьонов заявив, що Україна вдарила по Кримському мосту
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-krym-mist-ataka/33899386.html) — В окупованому Криму підтвердили удар по Керченському мосту, рух ним обмежили
+  - [Реальна газета](https://realgazeta.com.ua/u-krimu-zaiavili-pro-udar-po-krimskomu-mostu-rukh-pieriekrili-poyizdi-zatrimuiutsia) — У Криму заявили про удар по Кримському мосту: рух перекрили, поїзди затримуються
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1236946.html) — ЗСУ завдали удару по Кримському мосту, рух обмежено щонайменше до середини дня – медіа
+  - [Укрінформ](https://ukrinform.ua/rubric-ato/4185035-krimskij-mist-perekrili-pisla-ataki-zmi.html) — Кримський міст перекрили після атаки - ЗМІ
+  - [Новини Донбасу](https://novosti.dn.ua/news/407643-ponad-sotnyu-bezpilotnykiv-atakuvaly-krymskyj-mist-shho-vidomo-pro-naslidky) — Понад сотню безпілотників атакували Кримський міст: що відомо про наслідки
+  - [Об'єктив Новини](https://objectiv.tv/uk/objectively/2026/11/16/atakovanij-krimskij-mist-ruh-obmezhenij-zastryagli-tisyachi-avto-pokosilo-arku) — Атакований Кримський міст: рух обмежений, застрягли тисячі авто, покосило арку
+  - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/ukraina-vdaryla-po-krymskomu-mostu) — Україна вдарила по Кримському мосту
+  - [Еспресо](https://espreso.tv/viyna-z-rosiyeyu-okupanti-zayavili-shcho-ukraina-zavdala-udaru-po-krimskomu-mostu) — Окупанти заявили, що Україна завдала удару по Кримському мосту
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/bezpeka/rosiyi-zayavyly-pro-ataku-krymskyj-mist-rux-perekryto) — У росії заявили про атаку на Кримський міст, рух перекрито
+  - [Крим.Реалії](https://ua.krymr.com/a/news-krym-kerchenskyi-mist-ataka/33899408.html) — В анексованому Криму підтвердили атаку на Керченський міст, рух транспорту обмежили
+  - [Гривна](https://grivna.ua/news/krymskyj-mist-perekryly-pislya-ataky-droniv-blyzko-2000-avto-zastryagly-v-zatorah) — Кримський міст перекрили після атаки: окупанти повідомляють про пошкодження та величезні затори
+  - [Район.in.ua](https://rayon.in.ua/news/1116756-ukrayinski-viiskovi-urazili-krimskii-mist) — Українські військові вдарили по Кримському мосту
+  - [Твоє місто](https://tvoemisto.tv/uk/news/13721-po-krymskomu-mostu-zavdaly-udaru-rukh-transportu-obmezheno-poshkodzheno-arku) — По Кримському мосту завдали удару: рух транспорту обмежено, пошкоджено арку
+  - [Фарватер.Схід](https://farvatermedia.com/news/aksonov-zaiavyv-pro-udar-po-krymskomu-mostu-rukh-perekrytyi-zatrymuiutsia-poizdy) — Аксьонов заявив про удар по Кримському мосту: рух перекритий, затримуються поїзди
+  - [Новини Донбасу](https://novosti.dn.ua/news/407704-zyavylysya-pershi-foto-poshkodzhen-krymskogo-mostu-pislya-nichnoyi-ataky-bezpilotnykiv) — З’явилися перші фото пошкоджень Кримського мосту після нічної атаки безпілотників
+  - [Українська правда](https://pravda.com.ua/news/2026/11/17/8063184) — Окупанти заявили про повторний удар по Кримському мосту
+  - [Суспільне Новини](https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist) — Аксьонов заявив про нову атаку на Кримський міст
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/17/novyna/bezpeka/okupanty-vdruhe-dobu-zayavyly-pro-urazhennya-krymskoho-mostu) — Окупанти вдруге за добу заявили про ураження Кримського мосту
+  - [Точка Сходу](https://cxid.media/news/udar-po-krymskomu-mostu-okupanty-obmezhyly-rukh-u-merezhi-pokazaly-poshkodzhenu-arku) — Удар по Кримському мосту: окупанти обмежили рух, у мережі показали пошкоджену арку
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4185360-eksdeputatku-vr-krimu-zasudili-do-13-rokiv-za-derzzradu.html) — Ексдепутатку ВР Криму засудили до 13 років за держзраду
 
 ### national #2 · score 0.8436 · Війна та безпека, Бізнес · обов'язкова
 ✓ Через обстріли без світла залишилися 52,2 тисячі родин.
@@ -49,19 +53,59 @@
   - [Радіо Свобода](https://radiosvoboda.org/a/news-odeshchyna-ataka/33899536.html) — На Одещині через атаку РФ без світла залишилися понад 50 тисяч родин, дві людини постраждали
   - [Odesa.Online](https://odessa.online/na-odeshhini-ponad-300-tisyach-rodin-znovu-zi-svitlom-pislya-vorozhih-atak) — На Одещині понад 300 тисяч родин знову зі світлом після ворожих атак
   - [Місто і річка](https://mistorichka.media/novyny/ekstreni-vidkliuchennia-svitla-dniprovshchyna-16-lystopada) — Росіяни атакували енергооб’єкт ДТЕК: на Дніпровщині понад 31 тисяча родин без світла
+  - [Суспільне Новини](https://suspilne.media/odesa/1453516-na-odesini-rosijska-armia-atakuvala-pidpriemstva-agrologistiki-ta-pakuvalnoi-promislovosti-e-travmovani) — На Одещині російська армія атакувала підприємства агрологістики та пакувальної промисловості: є травмовані
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/polityka/apelyaczijna-palata-vaks-uxvalyla-novyj-vyrok-eksholovi-raxunkovoyi-palaty) — Апеляційна палата ВАКС ухвалила новий вирок ексголові Рахункової палати
+  - [Суспільне Новини](https://suspilne.media/odesa/1453720-majze-400-tisac-griven-zbitkiv-na-odesini-vikrili-nezakonnij-vilov-ribi-na-ozeri-alpug) — Майже 400 тисяч гривень збитків: на Одещині викрили незаконний вилов риби на озері Ялпуг
 
-### national #3 · score 0.8241 · Війна та безпека, Суспільство · обов'язкова
-✓ Через масовані ворожі атаки Дніпра двоє людей загинули, ще восьмеро наразі у лікарнях з опіками та уламковими пораненнями, майже пів міста без електропостачання, повідомив мер Борис Філатов.
-  - чутлива тема (загин, поранен, атак); незалежних джерел: 3
+### national #3 · score 0.8375 · Війна та безпека, Політика · обов'язкова
+✓ Російські окупанти в понеділок, 16 листопада атакували кілька енергетичних об’єктів у Звенигородському районі на Черкащині, внаслідок чого частина жителів області залишилась без світла.
+  - чутлива тема (атак); незалежних джерел: 6
 
-  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1237384.html) — Мер про атаки на Дніпро: двоє людей загинули, майже пів міста без світла, знову вдарили по "Олейні"
-  - [ОстроВ](https://ostro.org/news/u-dnipri-vnaslidok-obstriliv-zagynulo-dvoye-tsyvilnyh-poshkodzheno-10-bagatopoverhivok-polovyna-i573374) — У Дніпрі внаслідок обстрілів загинуло двоє цивільних. Пошкоджено 10 багатоповерхівок, половина міста - без світла
-  - [Радіо Свобода](https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html) — Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1236816.html) — На Черкащині через атаку РФ на енергетику частина споживачів без світла – ОВА
+  - [Рубрика](https://rubryka.com/2026/11/16/na-vinnychchyni-atakovano-promyslovyj) — У Дніпрі є загиблий і поранені, на Вінниччині атаковано промисловий об’єкт, на Черкащині – енергетику
+  - [ЗMI.ck.ua](https://zmi.ck.ua/oblast/na-cherkaschin-vnochatakuvali-energetichn-ob-kti-chastina-spojivachv-bez-svtla.html) — На Черкащині вночі атакували енергетичні об'єкти: частина споживачів без світла
+  - [Громадське радіо](https://hromadske.radio/news/2026/11/16/rosiiany-atakuvaly-kilka-enerhetychnykh-ob-iektiv-na-cherkashchyni) — Росіяни атакували кілька енергетичних об’єктів на Черкащині
+  - [ЗMI.ck.ua](https://zmi.ck.ua/oblast/u-zvenigorodskomu-rayon-ulamki-rosyskogo-bpla-poshkodili-jitlovu-dvopoverhvku.html) — У Звенигородському районі уламки російського БпЛА пошкодили житлову двоповерхівку
+  - [18000](https://18000.com.ua/strichka-novin/na-cherkashhini-ulamki-rosijskogo-bpla-poshkodili-zhitlovu-dvopoverxivku) — На Черкащині уламки російського БпЛА пошкодили житлову двоповерхівку
+  - [Mind.ua](https://mind.ua/news/20312289-na-cherkashchini-rosijski-udari-poshkodili-kilka-energetichnih-ob-ektiv) — На Черкащині російські удари пошкодили кілька енергетичних об’єктів
+  - [Суспільне Новини](https://suspilne.media/cherkasy/1453508-na-cerkasini-17-listopada-vimikatimut-svitlo-v-oblenergo-opriludnili-grafiki) — На Черкащині 17 листопада вимикатимуть світло: в обленерго оприлюднили графіки
+
+### national #4 · score 0.8241 · Війна та безпека, Суспільство
+✓ Російські окупанти вранці в понеділок, 16 листопада атакували Дніпро, внаслідок чого одна людина загинула, ще троє зазнали поранень.
+  - чутлива тема (загин, поранен, атак); незалежних джерел: 18
+
+  - [Dnipro.media](https://dnipro.media/novyny-dnipro/u-dnipri-vnaslidok-rosijskoyi-ataky-zagynula-lyudyna-shhe-troye-poraneni) — У Дніпрі внаслідок російської атаки загинула людина, ще троє поранені
+  - [Суспільне Новини](https://suspilne.media/dnipro/1453423-udar-rf-po-dnipru-zaginula-ludina-troe-poranenih) — Удар РФ по Дніпру: загинула людина, є поранені
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1236844.html) — Внаслідок нового удару РФ по Дніпру загинула людина, ще троє поранені – ОВА
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4185023-rosiani-vdarili-po-dnipru-zaginula-ludina-troe-poranenih.html) — Росіяни вдарили по Дніпру - загинула людина, троє поранених
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/okupanty-vdaryly-dronom-po-dorozi-dnipri-ye-zhertva-ta-poraneni) — Окупанти вдарили дроном по дорозі у Дніпрі, є жертва та поранені (оновлено)
+  - [ОстроВ](https://ostro.org/news/rosiyany-vrantsi-v-ponedilok-dvichi-atakuvaly-dnipro-ye-zagyblyj-i-poraneni-i573308) — Росіяни вранці в понеділок двічі атакували Дніпро: є загиблий і поранені
+  - [Громадське радіо](https://hromadske.radio/news/2026/11/16/poshkodzheni-bahatopoverkhivky-zahorilysia-avtomobili-naslidky-rankovykh-udariv-rosiian-po-dnipru-foto) — Пошкоджені багатоповерхівки, загорілися автомобілі — наслідки ранкових ударів росіян по Дніпру (ФОТО)
+  - [Фарватер.Схід](https://farvatermedia.com/news/rosiiany-atakuvaly-dnipro-odna-liudyna-zahynula-troie-postrazhdaly) — Росіяни атакували Дніпро: одна людина загинула, троє постраждали
+  - [Еспресо](https://espreso.tv/viyna-z-rosiyeyu-rosiya-atakuvala-kilka-regioniv-ukraini-e-zagibli-ta-poraneni-sered-postrazhdalikh-diti) — Росія атакувала кілька регіонів України: є загиблі та поранені, серед постраждалих — діти
+  - [Курс](https://kurs.if.ua/unaslidok-ataky-rf-u-dnipri-zagynula-lyudyna-shhe-10-postrazhdaly) — Унаслідок атаки рф у Дніпрі загинула людина, ще 10 постраждали
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1236960.html) — Кількість поранених унаслідок російської атаки на Дніпро зросла до 10 – ОВА
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4185044-u-dnipri-vid-udaru-rf-poskodzeni-bagatopoverhivki-kilkist-poranenih-zrosla-do-10-zaginula-ludina.html) — У Дніпрі від удару РФ пошкоджені багатоповерхівки - кількість поранених зросла до 10, загинула людина
+  - [Новинарня](https://novynarnia.com/2026/11/16/zahynula-liudyna-ie-poraneni-palaly-avtivky-naslidky-ataky-rosii-v) — Загинула людина, є поранені, палали автівки: наслідки атаки Росії в Дніпрі
+  - [Прихист](https://prikhist.com/2026/11/16/u-dnipri-vnaslidok-rankovykh-atak-rf-zahynula-liudyna-kilkist-poranenykh-zrosla-do-10) — У Дніпрі внаслідок ранкових атак рф загинула людина, кількість поранених зросла до 10
+  - [Місто і річка](https://mistorichka.media/novyny/atakuvaly-dnipro-16-lystopada) — Росіяни атакували Дніпро: одна людина загинула, кількість поранених зросла до 10 (ОНОВЛЕННЯ)
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-dnipro-ataka/33899440.html) — Одна людина загинула, десять поранені через атаку РФ у Дніпрі – ОВА
+  - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/rosiiany-vdaryly-po-dnipru-ie-zahyblyj-ta-poraneni) — Росіяни вдарили по Дніпру: є загиблий та поранені
+  - [Dnipro.media](https://dnipro.media/novyny-dnipro/u-dnipri-cherez-rosijsku-ataku-poshkodzheni-dev-yat-bagatopoverhivok-u-troh-rajonah-10-poranenyh-ye-zagyblyj) — У Дніпрі через російську атаку пошкоджені дев’ять багатоповерхівок у трьох районах: 10 поранених, є загиблий
+  - [Українська правда](https://pravda.com.ua/news/2026/11/16/8063033) — Росіяни знову атакували Дніпро: загинула людина, 13 поранено, палали автівки
+  - [ZN.UA](https://zn.ua/ukr/war/rf-vdarila-po-dnipru-poshkodzheni-bahatopoverkhivki-na-dorozi-zajnjalisja-avto-je-zahiblij-ta-poraneni.html) — Удар по автодорозі у Дніпрі: кількість постраждалих зросла до 13, одна людина загинула
+  - [Район.in.ua](https://rayon.in.ua/news/1116726-u-dnipri-cerez-rosiisku-ataku-odna-liudina-zaginula-shhe-desiat-postrazdali) — У Дніпрі обстріл РФ убив людину, десятеро постраждали
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/dnipri-zrosla-kilkist-postrazhdalyx-vnaslidok-rankovoyi-ataky-rf) — У Дніпрі зросла кількість постраждалих внаслідок ранкової атаки рф
+  - [Dnipro.media](https://dnipro.media/novyny-dnipro/u-dnipri-vnaslidok-vorozhogo-udaru-poraneno-cholovika) — У Дніпрі внаслідок ворожого удару поранено чоловіка
   - [Mind.ua](https://mind.ua/news/20312327-rf-vdarila-po-obektu-harchovoyi-promislovosti-u-dnipri-tam-vinikla-pozhezha) — рф вдарила по об'єкту харчової промисловості у Дніпрі, там виникла пожежа
+  - [Укрінформ](https://ukrinform.ua/rubric-regions/4185388-zagarbniki-z-vecora-majze-20-raziv-atakuvali-dnipro-ta-oblast-e-poskodzenna.html) — Загарбники з вечора майже 20 разів атакували Дніпро та область, є пошкодження
 
-### national #4 · score 0.8207 · Війна та безпека, Економіка
+### national #5 · score 0.8207 · Війна та безпека, Економіка
 ✓ Особливо складною залишається ситуація у Дніпрі, Харкові, Полтаві та Запоріжжі.
 ✓ Через суттєві пошкодження енергетичної інфраструктури можливості електропостачання цих міст наразі обмежені.
+✓ Енергетики та інші відповідальні служби продовжують усувати наслідки російських атак.
+  - чутлива тема (атак); незалежних джерел: 8
+✓ Роботи координують між собою, щоб стабілізувати ситуацію та якомога швидше відновити подачу електроенергії.
 
   - [LB.ua](https://lb.ua/society/2026/11/16/781518_ukrenergo_cherez_ataki_rf.html) — "Укренерго": через атаки РФ по енергоінфраструктурі на сході України фіксують масштабні відключення
   - [Слобідський край](https://slk.kh.ua/oblast-online/harkiv/harkiv-sered-mist-iz-najskladnisou-situacieu-zi-svitlom-pisla-rosijskih-udariv.html) — У Харкові склалася одна з найскладніших ситуацій з електропостачанням — «Укренерго»
@@ -71,8 +115,20 @@
   - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/ukrenerho-nazvalo-chotyry-mista-de-najskladnishe-zi-svitlom) — «Укренерго» назвало чотири міста, де найскладніше зі світлом
   - [Букви](https://bukvy.org/v-ukrenergo-poperedyly-pro-masshtabni-znestrumlennya-na-shodi-krayiny) — В Укренерго попередили про масштабні знеструмлення на сході країни
   - [SPEKA](https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm) — Знеструмлення на сході: Росія атакувала енергетику 116 разів за тиждень
+  - [Суспільне Новини](https://suspilne.media/kharkiv/1453737-stribki-naprugi-u-harkovi-novi-znestrumlenna-ta-pereboi-u-roboti-metro) — Стрибки напруги: у Харкові — нові знеструмлення та перебої у роботі метро
+  - [KHARKIV Today](https://2day.kh.ua/ua/kharkow/avariyni-ta-planovi-vidklyuchennya-svitla-yaki-hrafiky-diyut-u-kharkovi-ta-v-oblasti-16) — У Харкові від учора діють аварійні відключення світла, в області застосовують погодинні знеструмлення
 
-### national #5 · score 0.8008 · Війна та безпека, Суспільство
+### national #6 · score 0.8061 · Війна та безпека, Економіка
+✓ Енергетики спершу відновлюють електропостачання водогону, систем теплопостачання та соціальних закладів.
+
+  - [Українська правда](https://pravda.com.ua/news/2026/11/16/8063149) — Шостий блекаут за два тижні: РФ залишила без світла майже половину Дніпра
+  - [ПІК](https://pik.net.ua/2026/11/16/dnipro-povnistyu-znestrumlenyj-pislya-rosijskyh-udariv-po-energetytsi) — Дніпро повністю знеструмлений після російських ударів по енергетиці
+  - [ZN.UA](https://zn.ua/ukr/energetics/shostij-blekaut-za-dva-tizhni-rosijski-ataki-znestrumili-ves-dnipro.html) — Шостий блекаут за два тижні: російські атаки знеструмили весь Дніпро
+  - [SPEKA](https://speka.ua/news/znestrumlennya-skhid-ukrayiny-ukrenergo-9q46jm) — Знеструмлення на сході: Росія атакувала енергетику 116 разів за тиждень
+  - [LB.ua](https://lb.ua/society/2026/11/16/781544_dtek_misto_dnipro_povnistyu.html) — ДТЕК: місто Дніпро повністю знеструмлене після російської атаки на енергооб’єкти
+  - [Радіо Свобода](https://radiosvoboda.org/a/news-ataka-rf-dnipro-oleyna/33899816.html) — Філатов: війська РФ вдарили по заводу «Олейна» у Дніпрі
+
+### national #7 · score 0.8008 · Війна та безпека, Суспільство
 ✓ Армія РФ сьогодні вдень атакувала “Бандеролями” портову інфраструктуру та підприємство у Миколаєві, один чоловік загинув, ще двоє поранених.
   - чутлива тема (загин, поранен, атак); незалежних джерел: 6
 
@@ -83,8 +139,39 @@
   - [Новинарня](https://novynarnia.com/2026/11/16/rosiiany-dronamy-atakuvaly-mykolaiv-zahynula-liudyna-ie-poraneni) — Росіяни дронами атакували Миколаїв: загинула людина, є поранені
   - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/mykolayevi-vnaslidok-udaru-banderolyamy-zahynuv-cholovik-ye-poraneni) — У Миколаєві внаслідок удару «Бандеролями» загинув чоловік, є поранені
   - [МикВісті](https://nikvesti.com/news/defence/326442-ataky-port-pidpryiemstvo-mykolaievi-kilkist-zahyblykh-zrosla-dvokh) — Після атаки на порт та підприємство в Миколаєві кількість загиблих зросла до двох
+  - [Суспільне Новини](https://suspilne.media/mykolaiv/1453817-znestrumili-76-naselenih-punktiv-rf-atakuvala-energetiku-mikolaivsini) — Знеструмили 76 населених пунктів: РФ атакувала енергетику Миколаївщини
+  - [Сихів.Медіа](https://sykhiv.media/lvivyan-zaproshuyut-staty-pomichnykamy-svyatogo-mykolaya-yak-doluchytysya-do-akcziyi) — Львів’ян запрошують стати помічниками святого Миколая: як долучитися до акції
+  - [МикВісті](https://nikvesti.com/news/incidents/326423-mykolaivshchyni-dvoie-liudei-otruilysia-nepravylne-korystuvannia) — На Миколаївщині двоє людей отруїлися через неправильне користування піччю
 
-### national #6 · score 0.7897 · Війна та безпека, Економіка
+### national #8 · score 0.6431 · Війна та безпека, Економіка
+✓ Війська рф 16 листопада завдали ударів по підприємствах та об'єктах інфраструктури у Чернігові, Балаклії Харківської області та Дніпрі.
+  - чутлива тема (удар); незалежних джерел: 9
+✓ Внаслідок атак у Чернігові та Балаклії загинули троє людей, ще восьмеро дістали поранення.
+  - чутлива тема (загин, поранен, атак); незалежних джерел: 9
+✓ У Дніпрі після влучання в об'єкт харчової промисловості виникла пожежа, інформацію про можливих постраждалих уточнюють.
+  - чутлива тема (постражд); незалежних джерел: 9
+
+  - [Українська правда](https://pravda.com.ua/news/2026/11/16/8063084) — Росіяни атакували підприємства у Чернігові: 2 загиблих
+  - [Новинарня](https://novynarnia.com/2026/11/16/u-chernihovi-vnaslidok-rosiiskykh-udariv-po-pidpryiemstvakh-zahynuly) — У Чернігові внаслідок російських ударів по підприємствах загинули дві людини
+  - [Слово і Діло](https://slovoidilo.ua/2026/11/16/novyna/suspilstvo/rosiyany-atakuvaly-dva-pidpryyemstva-chernihovi-ye-zahybli-ta-postrazhdali) — Росіяни атакували два підприємства у Чернігові, є загиблі та постраждалі
+  - [Інтерфакс-Україна](https://interfax.com.ua/news/general/1237120.html) — Окупанти завдали ударів по підприємствах у Чернігові, відомо про двох загиблих
+  - [Громадське радіо](https://hromadske.radio/news/2026/11/16/rosiiany-atakuvaly-pidpryiemstva-v-chernihovi-dvoie-zahyblykh) — Росіяни атакували підприємства в Чернігові, двоє загиблих
+  - [Рубрика](https://rubryka.com/2026/11/16/v-chernigovi-balakliyi-ta-dnipri) — Окупанти атакували підприємства в Чернігові, Балаклії та Дніпрі: є загиблі, поранені та руйнування
+  - [Курс](https://kurs.if.ua/rf-atakuvala-pidpryyemstva-u-chernigovi-ye-zagybli-ta-postrazhdali) — рф атакувала підприємства у Чернігові – є загиблі та постраждалі
+  - [NV](https://nv.ua/ukr/ukraine/events/chernigiv-atakuvali-banderoli-ta-droni-ye-zagibli-ta-poraneni-novini-chernigova-50659576.html) — У Чернігові внаслідок російських ударів по підприємствах загинули дві людини
+  - [Час Чернігівський](https://cntime.cn.ua/rosijski-vijska-atakuvali-dva-privatni-pidpriyemstva-u-chernigovi-sho-vidomo-article) — Російські війська атакували два приватні підприємства у Чернігові: що відомо
+  - [Ірта-fax](https://irtafax.com/rf-vdaryla-po-kharchovomu-pidpryiemstvu-u-dnipri-atakuvala-promyslovist-na-odeshchyni-ta-u-chernihovi) — рф вдарила по харчовому підприємству у Дніпрі, атакувала промисловість на Одещині та у Чернігові
+  - [Час Чернігівський](https://cntime.cn.ua/rosiyani-polyuyut-na-energetiku-chernigivshini-sho-vidomo-pro-ataki-za-tizhden-article) — Росіяни полюють на енергетику Чернігівщини: що відомо про атаки за тиждень
+  - [LB.ua](https://lb.ua/society/2026/11/16/781450_armiya_rf_vdarila_dvoh.html) — Армія РФ вдарила по двох підприємствах у Чернігові, є жертви і постраждалі (оновлено)
+
+✓ Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.
+✓ Посилання на всі джерела — на сайті BRIEF.
+✓ Там само можна обрати теми й регіон — і випуск підлаштується під вас.
+
+**[ЗВУКОВИЙ ПЕРЕХІД]**
+
+✓ А тепер — новини регіонів.
+### regional #1 · score 0.7611 · Війна та безпека, Економіка
 ✓ В ніч з 16 на 17 листопада в ході ракетної атаки російські окупанти, попередньо, влучили у Північний і Південний мости у столиці України.
   - чутлива тема (атак, ракет); незалежних джерел: 8
 
@@ -98,8 +185,9 @@
   - [Суспільне Новини](https://suspilne.media/kyiv/1453870-u-kievi-perekrili-pivnicnij-ta-pivdennij-mosti-ak-kursue-transport) — У Києві перекрили Північний та Південний мости: як курсує транспорт
   - [LB.ua](https://lb.ua/society/2026/11/17/781594_rosiyani_kilka_hvil_vdarili.html) — Росіяни в кілька хвиль вдарили по Києву балістикою, є влучання в мости та загиблі (доповнено)
   - [Радіо Свобода](https://radiosvoboda.org/a/news-kyiv-ataka-mosty/33900080.html) — Рух Північним і Південним мостами в Києві перекрили після нічного удару РФ – влада
+  - [LB.ua](https://lb.ua/society/2026/11/16/781470_kiievi_vidnovlyuyut_ruh.html) — У Києві відновлюють рух електротранспорту
 
-### national #7 · score 0.7599 · Війна та безпека, Міжнародне
+### regional #2 · score 0.7599 · Війна та безпека, Міжнародне
 ✓ Російський безпілотник вдарив по автомобілю Центру первинної медико-санітарної допомоги у Краматорську.
 ✓ Бойова частина не здетонувала, обійшлося без постраждалих.
   - чутлива тема (постражд, бойов); незалежних джерел: 7
@@ -113,17 +201,11 @@
   - [Суспільне Новини](https://suspilne.media/donbas/1453733-rosijskij-dron-atakuvav-gazovikiv-u-kramatorsku-v-gromadi-vidnovluut-gazopostacanna) — Російський дрон атакував газовиків у Краматорську: в яких умовах на Донеччині відновлюють газопостачання
   - [Східний Варіант](https://v-variant.com.ua/vorozhii-dron-atakuvav-avto-pratsivnikiv-kramatorskogho-upravlinnia-po-ghazopostachanniu-ie-poranieni) — Ворожий дрон атакував авто працівників Краматорського управління по газопостачанню: є поранені
   - [Новини Донбасу](https://novosti.dn.ua/news/407724-armiya-rf-vdaryla-po-gazovykam-u-kramatorsku-ye-poraneni) — Армія РФ вдарила по газовикам у Краматорську: є поранені
+  - [Антикризовий медіа-центр](https://acmc.ua/okupanty-atakuvaly-avtomobil-doneczkoblgazu-v-kramatorsku-dvoye-praczivnykiv-poraneni) — Окупанти атакували автомобіль «Донецькоблгазу» в Краматорську: двоє працівників поранені
+  - [Точка Сходу](https://cxid.media/news/u-kramatorsku-vidnovyly-hazopostachannia-odnak-rozpochaty-opaliuvalnyy-sezon-poky-ne-mozhut) — У Краматорську відновили газопостачання, однак розпочати опалювальний сезон поки не можуть
   - [Антикризовий медіа-центр](https://acmc.ua/na-70-terytoriyi-kramatorskoyi-gromady-ne-mozhut-vidnovlyuvaty-elektropostachannya-cherez-obstrily) — На 70% території Краматорської громади не можуть відновлювати електропостачання через обстріли
-  - [Суспільне Новини](https://suspilne.media/donbas/1453696-droni-litaut-a-mi-zvikli-ak-vizivaut-u-kramatorsku-na-doneccini-bez-elektriki-ta-vodi) — «Дрони літають, а ми звикли». Як виживають у Краматорську на Донеччині без електрики та води
 
-✓ Нагадуємо: ви слухаєте BRIEF — новини з перевірених медіа.
-✓ Посилання на всі джерела — на сайті BRIEF.
-✓ Там само можна обрати теми й регіон — і випуск підлаштується під вас.
-
-**[ЗВУКОВИЙ ПЕРЕХІД]**
-
-✓ А тепер — новини регіонів.
-### regional #1 · score 0.7555 · Війна та безпека, Економіка
+### regional #3 · score 0.7555 · Війна та безпека, Економіка
 ✓ Вранці 17 листопада РФ атакувала Чернівецьку область двома безпілотниками.
   - чутлива тема (атак); незалежних джерел: 5
 ✓ Один влучив в електричну підстанцію.
@@ -134,15 +216,11 @@
   - [Молодий буковинець](https://molbuk.ua/chernivtsi_news/366734-u-chernivciakh-vnaslidok-udaru-rf-chastyna-mista-bez-svitla-ne-izdyt-troleibus-2.html) — У Чернівцях внаслідок удару РФ - частина міста без світла, не їздить тролейбус №2
   - [А.С.С.](https://acc.cv.ua/news/chernivtsi/u-chernivcyah-poshkodzhena-pidstanciya-na-svitanku-vorog-atakuvav-chernivecku-oblast-dvoma-bezpilotnikami-123285) — У Чернівцях пошкоджена підстанція: на світанку ворог атакував Чернівецьку область двома безпілотниками
   - [Шпальта](https://shpalta.media/2026/11/17/rosiyani-atakuvali-chernivci-dvoma-bezpilotnikami-poshkodzheno-obyekt-energetiki) — Росіяни атакували Чернівці двома безпілотниками: пошкоджено об’єкт енергетики
+  - [Укрінформ](https://ukrinform.ua/rubric-economy/4185201-nacbank-vvodit-v-obig-pamatni-moneti-prisvaceni-trom-oblastam.html) — Нацбанк вводить в обіг пам’ятні монети, присвячені трьом областям
+  - [С4](https://c4.com.ua/video/u-chernivcyax-vidbuvsya-dvodennij-kubok-mista-z-ampfutbolu-stalevi-duxom) — У Чернівцях відбувся дводенний Кубок міста з ампфутболу «Сталеві духом»
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4185385-castina-cernivciv-znestrumlena-pisla-rosijskoi-ataki.html) — Частина Чернівців знеструмлена після російської атаки
 
-### regional #2 · score 0.7307 · Війна та безпека, Політика
-✓ Віцепрем’єр російського уряду Марат Хуснуллін заявив, що РФ частково відновила рух незаконно збудованим Кримським (Керченським) мостом, який сполучає цю країну з окупованим Кримом.
-
-  - [NV](https://nv.ua/ukr/ukraine/events/kerchenskiy-mist-rosiya-vidnovila-chastkoviy-ruh-pislya-poshkodzhen-50659738.html) — Росіяни заявили про часткове відновлення руху Кримським мостом після удару
-  - [Інтент](https://intent.press/news/society/2026/okupanti-vidzvituvali-pro-vidnovlennia-rukhu-kerchenskim-mostom) — Окупанти відзвітували про відновлення руху Керченським мостом
-
-### regional #3 · score 0.719 · Війна та безпека, Суспільство
+### regional #4 · score 0.7516 · Війна та безпека, Суспільство
 ✓ У селищі Комишуваха Запорізької області завершили пошуково-рятувальні роботи після російського обстрілу 2 листопада, внаслідок якого загинули 72 людини.
   - чутлива тема (загин, обстріл); незалежних джерел: 20
 ✓ Ще четверо вважаються зниклими безвісти.
@@ -169,7 +247,7 @@
   - [Суспільне Новини](https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada) — 72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада
   - [ПІК](https://pik.net.ua/2026/11/17/zagynuly-72-lyudyny-u-komyshuvasi-zavershyly-poshukovo-ryatuvalni-roboty) — Загинули 72 людини: у Комишувасі завершили пошуково-рятувальні роботи
 
-### regional #4 · score 0.7052 · Війна та безпека, Міжнародне
+### regional #5 · score 0.7052 · Війна та безпека, Міжнародне
 ✓ Унаслідок російського удару по центру Херсону 16 листопада вкотре постраждав Херсонський обласний академічний музично-драматичний театр імені Миколи Куліша.
   - чутлива тема (постражд, удар); незалежних джерел: 6
 
@@ -179,8 +257,11 @@
   - [Гривна](https://grivna.ua/news/okupanty-znovu-obstrilyaly-hersonskyj-dramteatr-snaryad-vluchyv-u-dah-budivli) — Окупанти знову обстріляли Херсонський драмтеатр
   - [NV](https://nv.ua/ukr/kultura/ataka-na-herson-16-listopada-postrazhdav-hersonskiy-teatr-imeni-kulisha-foto-50659582.html) — «Терор продовжується». Внаслідок атаки РФ постраждав Херсонський театр імені Миколи Куліша
   - [Новинарня](https://novynarnia.com/2026/11/16/unaslidok-ataky-rosii-postrazhdav-khersonskyi-teatr-imeni-mykoly) — Унаслідок атаки Росії постраждав Херсонський театр імені Миколи Куліша
+  - [Ірта-fax](https://irtafax.com/okupanty-hotuiutsia-pryvlasnyty-ponad-1100-budynkiv-na-khersonshchyni-hur) — Окупанти готуються привласнити понад 1100 будинків на Херсонщині – ГУР
+  - [МОСТ](https://most.ks.ua/news/url/u-hersonskij-gromadi-cherez-rosijski-udari-zaginula-ljudina-dvoje-poraneni) — У Херсонській громаді через російські удари загинула людина, двоє поранені
+  - [МикВісті](https://nikvesti.com/news/defence/326405-rosiiany-vdaryly-troma-kerovanymy-aviabombamy-khersonu) — Росіяни вдарили трьома керованими авіабомбами по Херсону
 
-### regional #5 · score 0.6797 · Війна та безпека, Економіка
+### regional #6 · score 0.6797 · Війна та безпека, Економіка
 ✓ Полтавська обласна рада розглядає проєкт рішення про тарифи на централізоване водопостачання та водовідведення для «Полтававодоканалу».
 ✓ У разі затвердження нові розцінки діятимуть із 1 січня до 31 грудня 2027 року.
 
@@ -198,6 +279,8 @@
   - [Полтавська думка](https://dumka.poltava.ua/na-vijni-polih-zakhysnyk-z-poltavskoi-oblasti-3) — На війні поліг захисник з Полтавської області
   - [Кременчуцький Телеграф](https://telegraf.in.ua/blackout/na-poltavshhyni-zaprovadyly-speczialnyj-grafik-avarijnyh-vidklyuchen-svitla.html) — На Полтавщині запровадили спеціальний графік аварійних відключень світла
   - [Полтавська хвиля](https://poltavawave.com.ua/koli-vimikatimut-svitlo-na-poltavshchini-17-listopada) — Коли вимикатимуть світло на Полтавщині 17 листопада (оновлено)
+  - [LB.ua](https://lb.ua/society/2026/11/16/781490_poltavschini_dva_rosiyski_bpla.html) — На Полтавщині два російські БпЛА впали на відкритій місцевості, є пошкодження
+  - [Полтавська думка](https://dumka.poltava.ua/u-poltavskij-oblasti-znajshly-bojovu-chastynu-rosijskoi-rakety-iaka-ne-zdetonuvala) — У Полтавській області знайшли бойову частину російської ракети, яка не здетонувала
 
 ✓ А тепер — Волинь.
 ### local:volyn #1 · score 0.3984 · Суспільство
@@ -231,6 +314,8 @@
 
   - [LB.ua](https://lb.ua/pravo/2026/11/16/781422_pidriv_zaliznitsi_zamovlennya.html) — За підрив залізниці на замовлення спецслужб РФ двох жителів Хмельниччини засудили до 15 років
   - [Укрінформ](https://ukrinform.ua/rubric-regions/4185363-dvoh-ziteliv-hmelniccini-zasudili-do-15-rokiv-uvaznenna-za-pidriv-zaliznici-na-zamovlenna-rf.html) — Двох жителів Хмельниччини засудили до 15 років ув’язнення за підрив залізниці на замовлення РФ
+  - [Є](https://ye.ua/syspilstvo/81106_Na_Hmelnichchini_15_listopada_stalosya_tri_pozhezhi__v_odnomu_z_budinkiv_znayshli_tilo_zhinki.html) — На Хмельниччині 15 листопада сталося три пожежі: в одному з будинків знайшли тіло жінки
+  - [Суспільне Новини](https://suspilne.media/khmelnytskiy/1451109-blizko-30-tisac-ziteliv-hmelniccini-hvoriut-na-psoriaz-pricini-zahvoruvanna-ta-ak-likuvati) — Близько 30 тисяч жителів Хмельниччини хворіють на псоріаз: причини захворювання та як лікувати
 
 ### local:khmelnytskyi #3 · score 0.3309 · Культура
 ✓ Локація у Маліївецькому музеї запрацює 20 листопада, а в Хмельницькому театрі ляльок – 1 грудня.
@@ -244,12 +329,18 @@
 
   - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/troye-molodykh-naukovtsiv-iz-zakarpattya-otrymuvatymut-stypendiyi-kabminu) — Троє молодих науковців із Закарпаття отримуватимуть стипендії Кабміну
   - [PMG.ua](https://pmg.ua/economy/144333-kilkom-zakarpatskym-uchenym-vydiliat-stypendiiu-kabminu) — Кільком закарпатським ученим виділять стипендію Кабміну
+  - [Репортер](https://report.if.ua/lyudy/try-naukovyczi-frankivskogo-medychnogo-universytetu-otrymaly-stypendiyi-kabminu) — Три науковиці франківського медичного університету отримали стипендії Кабміну
+  - [МОСТ](https://most.ks.ua/news/url/naukovtsju-hersonskoji-morskoji-akademiji-prodovzhili-viplatu-derzhavnoji-stipendiji) — Науковцю Херсонської морської академії продовжили виплату державної стипендії
+  - [С4](https://c4.com.ua/novyny/pyatox-naukovciv-chnu-rekomenduvali-do-priznachennya-stipendii-kabminu) — П’ятьох науковців ЧНУ рекомендували до призначення стипендії Кабміну
 
-### local:zakarpattia #2 · score 0.4257 · Суспільство
-✓ З 1 по 6 грудня в Ужгородському скансені працюватиме резиденція Святого Миколая.
-✓ Її облаштують у Шелестівській церкві.
+### local:zakarpattia #2 · score 0.4257 · Міжнародне
+✓ Дітям запропонували дарувати "AfD-Святих Миколаїв".
 
-  - [Zaholovok.com.ua (Закарпаття. Про головне)](https://zaholovok.com.ua/v-uzhhorodskomu-skanseni-1-hrudnya-vidkryyetsya-rezydentsiya-svyatoho-mykolaya) — В Ужгородському скансені 1 грудня відкриється резиденція Святого Миколая
+  - [hromadske](https://hromadske.ua/europa/274477-ultraprava-afd-prodaye-shokoladni-fihurky-sviatoho-mykolaia-zi-svoyim-lohotypom-nimetskyy-yepyskop-zasudyv-tse) — Ультраправа AfD продає шоколадні фігурки Святого Миколая зі своїм логотипом. Німецький єпископ засудив це
+  - [Бабель](https://babel.ua/news/131800-alternativa-dlya-nimechchini-pochala-prodavati-shokoladnogo-svyatogo-mikolaya-z-logotipom-partiji-nimeckiy-yepiskop-rozkritikuvav-ce) — «Альтернатива для Німеччини» почала продавати шоколадного Святого Миколая з логотипом партії. Німецький єпископ розкритикував це
+  - [LB.ua](https://lb.ua/world/2026/11/17/781610_ultraprava_alternativa.html) — Ультраправа "Альтернатива для Німеччини" посварилась з єпископом через шоколадні фігурки
+  - [Сихів.Медіа](https://sykhiv.media/lvivyan-zaproshuyut-staty-pomichnykamy-svyatogo-mykolaya-yak-doluchytysya-do-akcziyi) — Львів’ян запрошують стати помічниками святого Миколая: як долучитися до акції
+  - [Львівський портал](https://portal.lviv.ua/news/2026/11/16/kapela-dudaryk-predstavyt-u-lvovi-miuzykl-pryhody-sviatoho-mykolaia) — Капела «Дударик» представить у Львові мюзикл «Пригоди святого Миколая»
 
 ### local:zakarpattia #3 · score 0.3159 · Суспільство
 ✓ Закарпатець на джипі збив прикордонника на КПП і втік.
