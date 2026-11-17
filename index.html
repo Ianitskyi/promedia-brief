@@ -49,6 +49,7 @@ button,input{font:inherit}.app{max-width:480px;margin:auto;min-height:100vh;back
 }
 </style>
 <link rel="stylesheet" href="/analytics.css?v=20261113">
+<script src="/brief-listen.js?v=20261117"></script>
 </head>
 <body><main class="app">
 <header class="top"><a class="brand" href="./" onclick="go('home');return false" aria-label="BRIEF — на головну" style="color:inherit;text-decoration:none">BRIEF <span style="font-size:12px;letter-spacing:0;color:var(--muted);font-weight:700">by ProMedia</span></a><nav class="nav" style="grid-template-columns:repeat(2,1fr)">
@@ -247,7 +248,7 @@ renderTopics(); loadSources(); loadRegions();
 // Personal order by topics and region: off until it is set up and funded (owner, 2026-11-16).
 // Everyone hears the editorial order; saved settings are kept and work again when this is true.
 const PERSONALIZE=false;
-let featured=null, demoList=[], demoIdx=0, demoSeekTo=null, demoGap=null;
+let demoListen=null, featured=null, demoList=[], demoIdx=0, demoSeekTo=null, demoGap=null;
 const dp=document.getElementById('demoPlayer');
 const PAUSE_BETWEEN_SEC=1.0;  // a clear gap between stories, as in the full mp3
 function fmt(s){s=Math.max(0,Math.round(s||0));return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}
@@ -277,6 +278,7 @@ function demoShow(){
   document.getElementById('demoTime').textContent=`${fmt(pos)} / ${fmt(total)}`;
   const playing=!dp.paused||demoGap!==null;
   document.getElementById('demoPlay').textContent=playing?'❚❚':'▶';
+  if(featured){if(!demoListen||demoListen.edition!==featured.date){demoListen=briefListen(featured.date,'brief_home');demoListen.edition=featured.date}demoListen(pos,total,playing)}
   const p=demoList[demoIdx];
   document.getElementById('demoNow').textContent=playing&&p&&p.kind==='story'&&p.title?p.title:(playing?'Звучить випуск':'Слухати весь випуск');
 }
@@ -345,6 +347,6 @@ function setDemo(d, keepPosition){
   }catch(e){}
 })();
 </script>
-<script defer src="/analytics.js?v=20261113"></script>
+<script defer src="/analytics.js?v=20261117"></script>
 <script defer src="https://news.promedia.report/js/promedia-global-shell.js?v=santa-20261113"></script>
 </body></html>
