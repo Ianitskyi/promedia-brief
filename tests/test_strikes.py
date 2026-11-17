@@ -103,10 +103,32 @@ def test_one_event_is_not_counted_in_two_regions():
     assert "огляд" in reasons and "Крим" in reasons and "та сама цифра" in reasons
 
 
-def test_no_sum_when_one_region_has_a_very_large_figure():
-    """A big toll (often the final toll of an earlier attack) is its own story, never part of a sum «за добу»."""
-    evidence = {"a": "Удар РФ по Запоріжжю: 72 загинули.", "b": "Росіяни атакували Миколаїв, двоє загиблих."}
-    stories = [seg("s1", "x", ["a"]), seg("s2", "y", ["b"])]
+def test_a_very_large_figure_is_told_apart_and_the_rest_is_summed():
+    """Owner, 17.11.2026: Komyshuvakha's 72 (final toll of an earlier attack) is its own story;
+    the other strikes are still one summary, which then starts with «Крім того»."""
+    evidence = {"a": "Удар РФ по Запоріжжю: 72 загинули.", "b": "Росіяни атакували Миколаїв, двоє загиблих.",
+                "c": "Росіяни атакували Харків, троє поранені."}
+    stories = [seg("s1", "x", ["a"]), seg("s2", "y", ["b"]), seg("s3", "z", ["c"])]
     items = _items(stories)
     out, log = strikes.build_digest(items, {s["id"]: s for s in stories}, evidence, DATE, max_region_killed=20)
-    assert out == items and log["merged"] is False and log["regions"] == {"zaporizhzhia": 72}
+    assert log["merged"] and log["killed"] == 2 and log["injured"] == 3 and log["apart"] == ["s1"]
+    assert out[0]["ids"] == ["s1"]
+    assert out[1]["lines"][0].startswith("Крім того, унаслідок інших російських ударів за добу в Україні загинули "
+                                         "щонайменше 2 людини")
+
+
+def test_older_figure_in_a_lead_gives_way_to_the_headline():
+    it = {"ids": ["s1"], "lines": ["Росіяни вдарили КАБами по школі в Комишувасі Запорізької області: наразі "
+                                   "відомо про 31 загиблого і 5 поранених.", "Тривають пошуки."],
+          "sources": [{"item_id": "a", "title": "У Комишувасі завершили пошуково-рятувальні роботи - кількість "
+                                                "загиблих зросла до 72"}]}
+    log = strikes.freshen([it])
+    assert it["lines"] == ["У Комишувасі завершили пошуково-рятувальні роботи — кількість загиблих зросла до 72.",
+                           "Тривають пошуки."]
+    assert len(log) == 1
+
+
+def test_a_headline_about_another_place_does_not_replace_a_line():
+    it = {"ids": ["s1"], "lines": ["Окупанти вдарили по Запоріжжю, загинув водій та ще одну людину поранено."],
+          "sources": [{"item_id": "a", "title": "Шестеро людей травмовані: війська РФ атакували Черкащину балістикою"}]}
+    assert strikes.freshen([it]) == [] and it["lines"][0].startswith("Окупанти вдарили по Запоріжжю")
