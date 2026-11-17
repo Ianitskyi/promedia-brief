@@ -288,3 +288,21 @@ def test_elevenlabs_spells_numbers_and_stress_is_opt_in(monkeypatch):
     assert tts_text("Поранено 15 людей 22 жовтня.", p, []) == "Поранено п'ятнадцять людей двадцять другого жовтня."
     monkeypatch.setenv("BRIEF_ELEVENLABS_STRESS", "1")
     assert tts.get("elevenlabs").auto_stress
+
+
+def test_every_sentence_and_the_intro_get_a_business_tone(approved, monkeypatch):
+    """Owner, 2026-11-17: the voices sounded cheerful about strikes; each sentence is a separate request."""
+    from brief import render
+
+    monkeypatch.setenv("BRIEF_ROOT", str(approved))
+    a = json.loads((approved / "editions" / "2026-10-20" / "approved.json").read_text())
+    moods = {"sombre": {"tag": "[serious tone]", "markers": ["пожеж"]}, "neutral": {"tag": "[matter-of-fact]"}}
+    p = tts.get("mock")
+    p.audio_tags = True
+    tagged = render.plan(a, p, [], moods)
+    assert all(c.startswith("[") for seg in tagged for s in seg["sentences"] for c in s["chunks"])
+    fire = next(seg for seg in tagged if seg["kind"] == "story"
+                and "пожеж" in " ".join(s["text"] for s in seg["sentences"]).lower())
+    assert all(s["chunks"][0].startswith("[serious tone] ") for s in fire["sentences"])
+    intro = next(seg for seg in tagged if seg["kind"] != "story")
+    assert intro["sentences"][0]["chunks"][0].startswith("[matter-of-fact] ")

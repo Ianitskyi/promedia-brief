@@ -57,14 +57,16 @@ def plan(approved, provider, lexicon, moods=None):
         if not seg["sentences"]:
             continue
         tone = mood(seg, moods) if provider.audio_tags else None
+        # every part of the edition — intro and outro too — gets a tone; without one the voices sounded
+        # cheerful about strikes (owner, 2026-11-17: «більш ділову тональність»)
         tag = moods.get(tone, {}).get("tag") if tone else (moods.get("neutral", {}).get("tag") if provider.audio_tags
-                                                           and seg["kind"] == "story" else None)
+                                                           else None)
         sents = []
         for i, s in enumerate(seg["sentences"]):
             text = tts_text(s["text"], provider, lexicon)
             chunks = tts.chunk_text(text, provider.max_chars, measure)
-            if tag and i == 0:
-                chunks = [f"{tag} {chunks[0]}"] + chunks[1:]  # the tag sets the tone; it is not spoken
+            if tag:  # each sentence is a separate request, so each needs the tone; the tag is not spoken
+                chunks = [f"{tag} {c}" for c in chunks]
             sents.append({"id": s["id"], "text": text, "chunks": chunks, "mood": tone})
         out.append({"id": seg["id"], "kind": seg["kind"], "block": seg["block"], "sentences": sents})
     return out
