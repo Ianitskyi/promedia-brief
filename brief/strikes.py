@@ -283,10 +283,20 @@ def lead_sentences(result, besides=False):
     return out
 
 
+def _major(seg):
+    f = seg.get("score_breakdown") or {}
+    return f.get("impact", 0) >= 0.9 and (seg.get("coverage") or 0) >= 8
+
+
 def build_digest(items, by_id, evidence, date, max_details=3, max_region_killed=None):
     """items: the edition's stories (dicts with ids, title, lines, sources, rank, retold), in order.
     Returns (items with the strike stories replaced by one digest, digest log or None)."""
     strike = [it for it in items if any(is_strike_story(by_id[i], evidence) for i in it["ids"] if i in by_id)]
+    # A strike that disrupted life for very many people (bridges of Kyiv) is its own story, not a line of the
+    # summary; reports from occupied Crimea are about something else (owner, 2026-11-17).
+    major = [it for it in strike if any(_major(by_id[i]) for i in it["ids"] if i in by_id)]
+    strike = [it for it in strike if it not in major
+              and not all((by_id[i].get("regions") or [None])[0] == "crimea" for i in it["ids"] if i in by_id)]
     if len(strike) < 2:
         return items, None
     segs = [by_id[i] for it in strike for i in it["ids"] if i in by_id]
@@ -297,7 +307,7 @@ def build_digest(items, by_id, evidence, date, max_details=3, max_region_killed=
         config("editorial.json").get("daily", {}).get("strikes_max_region_killed", 20)
     result, skipped = tally(segs, evidence, date, max_killed=limit)
     big = set(result["big"])
-    apart = [it for it in strike if any(src["item_id"] in big for src in it["sources"])]
+    apart = major + [it for it in strike if any(src["item_id"] in big for src in it["sources"])]
     strike = [it for it in strike if it not in apart]
     if len(strike) < 2:
         return items, {"merged": False, "why": "менше двох сюжетів про удари без великої цифри", "skipped": skipped}

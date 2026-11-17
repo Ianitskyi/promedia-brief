@@ -20,6 +20,7 @@ Output: editions/<date>/spoken.json, same segment shape as approved.json, with i
 sha256 and the sha256 of the approved text it was made from.
 """
 import calendar
+import datetime as dt
 import json
 import os
 import re
@@ -28,7 +29,7 @@ from . import strikes, tts
 from .edition import EDITIONS, script_hash, script_text
 from .factcheck import extract_claims, _found
 from .review import load_approved
-from .speech import date_words, date_words_gen, load_lexicon
+from .speech import MONTHS_GEN, date_words, date_words_gen, load_lexicon
 from .util import ROOT, config, iso, load_json, now_utc, write_json
 
 USAGE = ROOT / "data" / "tts-usage.json"
@@ -42,8 +43,8 @@ SYSTEM = """Ти — редактор українського аудіовип�
 перше речення сюжету — суть новини.
 
 Правила точності (порушення будь-якого = сюжет не вийде в ефір):
-1. Використовуй ЛИШЕ факти з наданих текстів джерел цього сюжету. Нічого не додавай від себе, \
-навіть загальновідомого.
+1. Використовуй ЛИШЕ факти з наданих текстів джерел цього сюжету і його «Довідки». Нічого не додавай \
+від себе, навіть загальновідомого.
 2. Числа пиши цифрами точно як у джерелі. Не округлюй, не перераховуй, не додавай числа з різних \
 повідомлень, не пиши загальних підсумків («загалом», «усього», «разом»).
 3. Імена, назви, посади, цитати — лише ті, що є в джерелі цього сюжету.
@@ -53,10 +54,24 @@ SYSTEM = """Ти — редактор українського аудіовип�
 збережи це посилання. Назви медіа, яке опублікувало новину, не називай.
 6. Не оцінюй, не коментуй, без сенсаційності.
 
+Порядок і відбір (як у BBC чи Reuters): перший сюжет — найважливіша подія доби, далі за спаданням \
+важливості. Важливість — це масштаб впливу: скільки людей подія зачіпає і як надовго змінює їхнє життя. \
+Удар, що порушив життя мільйонів (мости, світло, вода, тепло, транспорт великого міста чи регіону), \
+важливіший за подію з однією-двома жертвами, хоч яка вона трагічна. Безпрецедентна подія чи новий \
+поворот великої історії важливіші за щоденну рутину (графіки відключень, звичайні обстріли). Скільки \
+медіа писали про подію — підказка, наскільки вона важлива. Пов'язані події можна подати одним сюжетом \
+(наприклад, удари сторін по мостах однієї ночі) — але без підсумкових чисел. Якщо подія сталася раніше, \
+а зараз є лише її продовження (завершили пошуки, назвали остаточне число жертв), кажи саме про \
+продовження і назви дату події, якщо вона є в джерелі.
+
+Контекст: слухач може не знати місця чи передісторії. Якщо до сюжету дано «Довідку», після суті новини \
+можна додати одне коротке речення контексту лише з неї (наприклад, що Київ розділяє Дніпро). Нічого \
+понад довідку й джерела. Оцінок і намірів сторін від себе не додавай — лише якщо так пишуть джерела, \
+з посиланням на того, хто це сказав.
+
 Повідомлення про наслідки російських ударів (загиблі, поранені) у різних областях переказуй окремими сюжетами, а не одним: перше речення — де стався удар і що сталося. Програма сама складе з них одне зведення й порахує перевірену суму.
 
-Стиль: 2–4 речення на сюжет. Сюжети про одну подію чи тему (наприклад, наслідки одного обстрілу \
-в різних містах) можна об'єднати в один, перелічивши місця, — але без підсумкових чисел.
+Стиль: 2–4 речення на сюжет. Сюжети в масиві stories — у порядку важливості, найважливіший перший.
 
 Приклад гарного сюжету (стиль, не факти):
 «Чотирнадцять людей загинули в Дніпрі внаслідок російського удару дроном по залізничному вокзалу. \
@@ -146,17 +161,29 @@ def sentences_of(text):
 
 # --- Claude -------------------------------------------------------------------------------
 
-def story_evidence(seg, evidence):
-    return {src["item_id"]: evidence[src["item_id"]] for src in seg["sources"] if src["item_id"] in evidence}
+def story_evidence(seg, evidence, with_context=True):
+    ev = {src["item_id"]: evidence[src["item_id"]] for src in seg["sources"] if src["item_id"] in evidence}
+    if with_context:  # vetted background for listeners who don't know the place (owner, 2026-11-17)
+        ev.update({f"context:{f['id']}": f["text"] for f in context_for(seg, ev)})
+    return ev
+
+
+def context_for(seg, ev):
+    text = " ".join([seg.get("title") or ""] + list(ev.values()))
+    return [f for f in config("context.json").get("facts", []) if re.search(f["match"], text, re.I)]
 
 
 def request_text(date, stories, evidence, budget):
     lines = [f"Дата випуску: {date}. Обсяг усіх сюжетів разом — не більше {budget} символів; "
-             "якщо всі не вміщаються, залиш найважливіші (вони йдуть першими).", ""]
+             "якщо всі не вміщаються, залиш найважливіші.", ""]
     for seg in stories:
-        lines.append(f"### Сюжет {seg['id']} (важливість {seg['rank']}, блок {seg['block']})")
-        for iid, txt in story_evidence(seg, evidence).items():
+        lines.append(f"### Сюжет {seg['id']} (блок {seg['block']}; про цю подію писали медіа: "
+                     f"{seg.get('coverage') or seg.get('independent_sources', 1)})")
+        for iid, txt in story_evidence(seg, evidence, with_context=False).items():
             lines.append(f"Джерело {iid}: {txt}")
+        ev = story_evidence(seg, evidence, with_context=False)
+        for f in context_for(seg, ev):
+            lines.append(f"Довідка context:{f['id']} (перевірений контекст, можна використати): {f['text']}")
         lines.append("")
     return "\n".join(lines)
 
@@ -231,8 +258,9 @@ def build(date, use_llm=True, budget=None, provider_name=None):
                 continue
             used.update(ids)
             sources = [src for i in ids for src in by_id[i]["sources"]]
+            # the editor's order (news values), not the program's score (owner, 2026-11-17)
             retold.append({"ids": ids, "title": st["title"].strip(" ."), "lines": sentences_of(st["text"]),
-                           "sources": sources, "rank": min(stories.index(by_id[i]) for i in ids), "retold": True})
+                           "sources": sources, "rank": len(retold), "retold": True})
         teaser = answer["teaser"].strip(" .") or None
     # Stories whose retelling failed the check (or all of them, without Claude): read from their
     # approved, verbatim sentences. Stories Claude left out to keep the edition short stay out.
@@ -245,7 +273,7 @@ def build(date, use_llm=True, budget=None, provider_name=None):
             log.setdefault("dropped_relative_time", []).append(seg["id"])
             continue
         retold.append({"ids": [seg["id"]], "title": seg.get("title"), "lines": lines,
-                       "sources": seg["sources"], "rank": stories.index(seg), "retold": False})
+                       "sources": seg["sources"], "rank": (100 if answer else 0) + stories.index(seg), "retold": False})
         if answer:
             log["fallback"].append(seg["id"])
     if answer:

@@ -1,0 +1,26 @@
+{
+  "_comment": "Background facts a listener may not know (owner, 2026-11-17: «додавати трошки контексту»). Claude may use a fact only for a story that matches its pattern, and the program checks every name and number of the retelling against the sources plus these facts. Each fact has its sources; add or change a fact only with the owner's approval.",
+  "status": "draft — awaiting the owner's approval",
+  "facts": [
+    {
+      "id": "kyiv-bridges",
+      "match": "(Північн|Південн|Патона)\\w* міст|(Північн|Південн|Патона)\\w* мост|мост\\w* (у|в) Києв|київськ\\w* мост|мости Києва",
+      "text": "Київ розділяє Дніпро. Головні автомобільні мости між лівим і правим берегом — Північний, Патона і Південний. Південним мостом проходить також зелена лінія метро. На лівому березі, у Дарницькому, Деснянському і Дніпровському районах, живе понад мільйон киян.",
+      "sources": [
+        "https://www.slovoidilo.ua/2026/10/09/infografika/suspilstvo/alternatyva-holovnym-mostam-kyyeva-yaki-ye-najblyzhchi-obyizni-shlyaxy-cherez-dnipro",
+        "https://www.kyivpost.com/uk/post/86426",
+        "https://kyivcity.gov.ua/kyiv_ta_miska_vlada/pro_kyiv/raiony_kyieva/"
+      ]
+    },
+    {
+      "id": "crimean-bridge",
+      "match": "Кримськ\\w* (міст|мост)|Керченськ\\w* (міст|мост)",
+      "text": "Кримський міст через Керченську протоку Росія збудувала після окупації Криму, автомобільну частину відкрила 2018 року. Ні Україна, ні світ не визнають цей міст, бо його збудовано незаконно. Україна вже уражала міст 8 жовтня 2022 року і 17 липня 2023 року.",
+      "sources": [
+        "https://militarnyi.com/uk/articles/krymskyj-mist-istoriya-znachennya-oborona-ta-urazhennya/",
+        "https://24tv.ua/krimskiy_mist_tag6037/",
+        "https://en.wikipedia.org/wiki/Crimean_Bridge"
+      ]
+    }
+  ]
+}

@@ -5,6 +5,8 @@ The breakdown is stored next to each story so editors can see *why* it ranked wh
 Popularity signals (views, clicks, shares) are deliberately not used.
 """
 import math
+
+from .impact import coverage_factor, impact
 import re
 
 from .textmatch import has_marker
@@ -58,9 +60,16 @@ def factors(cluster, items_by_id, now, scoring, target_region=None, previous_tit
     text = " ".join(f"{m['title']}. {m.get('description', '')}" for m in members)
 
     n = cluster["independent_sources"]
-    confirmations = min(1.0, (n - 1) / max(1, scoring["confirmations_saturation"] - 1))
+    if "coverage" in cluster:  # outlets across the whole subject, on a log scale (owner, 2026-11-17)
+        sat = scoring.get("coverage_saturation", 15)
+        # mostly the subject's coverage; a little of the cluster's own, so its main cluster represents it
+        confirmations = round(0.8 * coverage_factor(cluster["coverage"], sat) + 0.2 * coverage_factor(n, sat), 3)
+    else:
+        confirmations = min(1.0, (n - 1) / max(1, scoring["confirmations_saturation"] - 1))
 
     newest = max((from_iso(m["published_at"]) for m in members if m.get("published_at")), default=None)
+    if cluster.get("newest_related"):  # a subject is as fresh as its latest development
+        newest = max(filter(None, [newest, from_iso(cluster["newest_related"])]), default=None)
     age_h = max(0.0, (now - newest).total_seconds() / 3600) if newest else 24.0
     recency = math.pow(0.5, age_h / scoring["recency_half_life_hours"])
 
@@ -88,7 +97,14 @@ def factors(cluster, items_by_id, now, scoring, target_region=None, previous_tit
     severity = killed * scoring.get("casualty_killed_weight", 3) + injured
     casualty = min(1.0, math.log1p(severity) / math.log1p(scoring.get("casualty_saturation", 60)))
 
+    places = list(cluster.get("regions") or []) or ([cluster["primary_region"]] if cluster.get("primary_region") else [])
+    # what the story is about is in its headlines; descriptions mention everything around it
+    headlines = " ".join(m["title"] for m in members)
+    reach_people = impact(headlines, places, cluster.get("coverage", n), scoring["impact"]) if "impact" in scoring else 0.0
+
     return {
+        "impact": reach_people,
+        "rarity": cluster.get("rarity", 0.5),
         "casualties": round(casualty, 3),
         "confirmations": round(confirmations, 3),
         "public_significance": _tiered(text, scoring["public_significance_markers"]),

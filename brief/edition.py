@@ -10,6 +10,7 @@ import datetime as dt
 import re
 
 from . import cluster as clus
+from . import impact as impact_mod
 from .classify import detect_places, excluded, primary_region, topics
 from .collect import load_pool
 from .factcheck import check_sentence
@@ -355,6 +356,13 @@ def build(date, now=None):
     log["multi_source_clusters"] = sum(1 for c in clusters if c["independent_sources"] > 1)
 
     prev = previous_titles(date)
+    # one subject often arrives as many clusters; count its coverage across all of them (owner, 2026-11-17)
+    if "impact" in scoring:
+        history = []
+        for k in range(2, scoring["impact"].get("rarity_history_days", 14) + 2):
+            day = (dt.date.fromisoformat(date) - dt.timedelta(days=k)).isoformat()
+            history.append((day, [set(content_stems(it["title"])) for it in load_pool(day)["items"]]))
+        impact_mod.families(clusters, items_by_id, scoring["impact"], history)
     for c in clusters:
         members = [items_by_id[i] for i in c["item_ids"]]
         text = " ".join(f"{m['title']}. {m.get('description', '')}" for m in members)
@@ -381,6 +389,32 @@ def build(date, now=None):
                                            int(date[:4]), region, gaz, key=key_story)
         return story_cache[key]
 
+    by_cluster = {c["id"]: c for c in clusters}
+
+    def with_related(c, story, n_related=3):
+        """The latest developments of the same subject from related clusters, as extra sources for the
+        retelling (17.11.2026: the Crimean bridge cluster said nothing about the second strike that night)."""
+        pair = c.get("topic_pair")
+        if not pair:
+            return story
+
+        def on_topic(r):  # the same main subject, not just a shared place («Запоріжжя»)
+            return any(set(pair) <= set(content_stems(items_by_id[i]["title"])) for i in r["item_ids"][:10])
+
+        rel = sorted((by_cluster[r] for r in c.get("related", ()) if r in by_cluster and on_topic(by_cluster[r])),
+                     key=lambda r: (-r["independent_sources"], r["id"]))[:n_related]
+        if not rel:
+            return story
+        story = dict(story, sources=list(story["sources"]), evidence=dict(story["evidence"]))
+        for r in rel:
+            m = max((items_by_id[i] for i in r["item_ids"]), key=lambda m: m.get("published_at") or "")
+            if m["id"] in story["evidence"]:
+                continue
+            story["sources"].append({"item_id": m["id"], "name": m["source"], "url": m["url"], "title": m["title"],
+                                     "published_at": m.get("published_at"), "related": True})
+            story["evidence"][m["id"]] = f"{m['title']}. {m.get('description', '')}"
+        return story
+
     def take(cands, n, block, region=None, per_region=None, used=(), prior=()):
         picked, counts = [], {}
         for c in cands:
@@ -388,7 +422,9 @@ def build(date, now=None):
                 break
             if c["id"] in used:
                 continue
-            dup = next((p for p, _ in list(prior) + picked if clus.likely_same_event(c, p, items_by_id)), None)
+            dup = next((p for p, _ in list(prior) + picked
+                        if p["id"] in c.get("related", ())
+                        or clus.likely_same_event(c, p, items_by_id)), None)
             if dup:
                 skipped.append({"cluster": c["id"], "block": block, "reason": f"possible duplicate of {dup['id']}"})
                 continue
@@ -406,7 +442,7 @@ def build(date, now=None):
                 continue
 
             counts[key] = counts.get(key, 0) + 1
-            picked.append((c, story))
+            picked.append((c, with_related(c, story)))
         return picked
 
     national = take(sorted((c for c in clusters if c["has_national_source"]), key=lambda c: -c["score"]),
@@ -436,7 +472,8 @@ def build(date, now=None):
         return {"id": f"{block}-{c['id']}".replace(":", "-"), "kind": "story", "block": block, "region": region,
                 "rank": rank, "cluster_id": c["id"], "title": story["title"], "topics": c["topics"],
                 "regions": c["regions"], "score": c["score"], "score_breakdown": c["score_breakdown"],
-                "independent_sources": c["independent_sources"], "must_include": must,
+                "independent_sources": c["independent_sources"], "coverage": c.get("coverage"),
+                "must_include": must,
                 "sentences": story["sentences"], "sources": story["sources"], "include": True}
 
     evidence = {}
