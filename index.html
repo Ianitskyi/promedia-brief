@@ -96,6 +96,7 @@ function place(){if(mq.matches){top.insertBefore(nav,pill)}else{app.appendChild(
 place();mq.addEventListener('change',place)})();
 </script>
 </main>
+<promedia-global-footer></promedia-global-footer>
 <script>
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeUrl=u=>/^https?:\/\//i.test(u||'')?u:'#';
