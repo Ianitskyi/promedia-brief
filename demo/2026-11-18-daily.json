@@ -1,0 +1,310 @@
+{
+  "date": "2026-11-18",
+  "variant": "daily",
+  "audio": "demo/2026-11-18-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 88.65,
+  "asr_mean_cer": 0.046,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 3. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "89f7d8cec133d1d2e44b052c9f0f46bac4a2ffc71fe0030bde2f85331b415a27",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-18-daily/intro.mp3",
+      "duration_sec": 10.95,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок вісімнадцятого листопада: удари по мостах Києва, ураження Кримського мосту та знеструмлення через російські атаки."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Мости Києва",
+      "audio": "demo/2026-11-18-daily/story-1.mp3",
+      "duration_sec": 22.75,
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "kyiv",
+        "cherkasy",
+        "dnipropetrovsk",
+        "kharkiv",
+        "vinnytsia",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "У ніч на 17 листопада Росія вдарила балістичними ракетами по Північному і Південному мостах Києва.",
+        "За словами Зеленського, по Південному мосту випустили 4 ракети, по Північному — 3.",
+        "Рух мостами перекривали, а ввечері, за даними КМДА, ними знову пішли автобуси.",
+        "Київ розділяє Дніпро, а Південним мостом проходить і зелена лінія метро."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063203"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/17/rosiiany-atakuvaly-kyiv-balistykoiu-i-vluchyly-u-pivnichnyj-i-pivdennyj-mosty"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131814-rosiyani-atakuvali-dva-mosti-u-kiyevi-pivnichniy-ta-pivdenniy-ruh-nimi-timchasovo-perekrili"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/incidents/326447-rosiiany-atakuvaly-pivnichnyi-pivdennyi-mosty-kyievi-rukh-perekryly"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ciyeji-nochi-bulo-chotiri-balistiki-po-pivdennomu-mostu-i-tri-po-pivnichnomu-zelenskiy-50659913.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237782.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063258"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/perekrittya-mostiv-u-kiyevi-zmini-ruhu-transportu-pislya-udariv-50659789.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/povitryani-sili-zsu-udar-balistikoyu-po-zaporizhzhi-dnipri-harkovi-kiyevi-50659765.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1454063-u-kmda-rozpovili-ak-pracuut-mosti-kieva-stanom-na-17-listopada"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/274526-rosiiany-vdaryly-chotyrma-balistychnymy-raketamy-po-pivdennomu-mostu-a-po-pivnichnomu-tryoma-hotuiut-rezervni-spoluchennia"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185605-zelenskij-u-kievi-vnoci-bulo-cotiri-balistiki-po-pivdennomu-mostu-j-tri-po-pivnicnomu.html"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131839-u-kiyevi-chastkovo-vidnovili-ruh-pivdennim-i-pivnichnim-mostami-pislya-rosiyskoji-ataki"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-kyyevi-avtobusy-vidnovyly-ruh-pivnichnym-i-pivdennym-mostamy-i573492"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185587-ak-pracuut-mosti-u-kivi-pisla-nicnoi-ataki-rf.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Кримський міст",
+      "audio": "demo/2026-11-18-daily/story-2.mp3",
+      "duration_sec": 29.95,
+      "topics": [
+        "Війна та безпека",
+        "Політика",
+        "Міжнародне"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "Сили оборони в ніч на 17 листопада уразили автомобільну і залізничну частини Кримського мосту.",
+        "У Генштабі заявили про обвалення арки та прольоту автомобільної частини.",
+        "Зеленський назвав удар сьомим етапом операції, яку готували кілька тижнів.",
+        "Генсек НАТО Марк Рютте заявив, що Україна має право бити по логістичних вузлах Росії."
+      ],
+      "sources": [
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/krym/274514-udar-po-krymskomu-mostu-syomyy-etap-operatsiyi-po-nyomu-vdaryly-palianytseiu-rutoiu-ta-flaminho-zelenskyy"
+        },
+        {
+          "name": "#ШОТАМ",
+          "url": "https://shotam.info/palianytsia-neptun-i-flaminho-zsu-znyshchyly-avtomobilnyy-prolit-krymskoho-mostu-video"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/zelenskyj-rozpoviv-pro-somyj-etap-operatsiyi-zi-znyshhennya-krymskogo-mostu"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/17/rezultat-vzhe-somogo-etapu-zelenskij-pro-udar-po-krimskomu-mostu"
+        },
+        {
+          "name": "SPEKA",
+          "url": "https://speka.ua/news/vid-palyanici-do-flamingo-yakoyu-ukrayinskoyu-zbrojeyu-urazili-krimskii-mist-vr12zr"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/krimskiy-mist-detali-urazhennya-silami-oboroni-ukrajini-za-uchasti-droniv-i-raket-50659873.html"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312349-zelenskij-rozkriv-podrobici-udaru-po-krimskomu-mostu-operaciyu-gotuvali-kilka-tizhniv"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/vms-rozpovili-chim-i-iak-urazili-kerchenskii-mist"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326480-sim-etapiv-kilka-tyzhniv-pidhotovky-zelenskyi-rozpoviv-podrobytsi"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1117100-zelenskii-pidtverdiv-udari-po-krimskomu-mostu"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312381-ukrayina-proponue-ssha-gumanitarnu-operaciyu-podibnu-do-oleshok-shche-u-10-okupovanih-naselenih-punktah"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4185605-zelenskij-u-kievi-vnoci-bulo-cotiri-balistiki-po-pivdennomu-mostu-j-tri-po-pivnicnomu.html"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/svit-ukraina-mae-pravo-biti-po-logistitsi-rf-gensek-nato-ryutte-pro-udar-po-kerchenskomu-mostu"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1454230-ukraina-zahisaetsa-rutte-prokomentuvav-udari-po-kercenskomu-mostu"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4185777-rutte-vivedenna-z-ladu-rosijskoi-voennoi-masini-e-vazlivim-elementom-oboroni-ukraini.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/kerchenskiy-mist-ryutte-pidtrimav-udari-po-logistichnih-vuzlah-ukrajini-50660130.html"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/17/sbu-pokazala-unikalne-video-urazhennya-krymskogo-mostu-potuzhni-vybuhy-ta-obval-konstruktsij"
+        },
+        {
+          "name": "Радіо Свобода Україна",
+          "url": "https://radiosvoboda.org/a/video-udar-po-kerchenskomu-mostu/33900267.html"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/oborona-ta-bezpeka-deep-strike-na-novomu-rivni-ukraina-planue-u-2027-rotsi-bilsh-nizh-utrichi-zbilshiti-kilkist-droniv-dlya-udariv-po-rf"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Знеструмлення",
+      "audio": "demo/2026-11-18-daily/story-3.mp3",
+      "duration_sec": 13.33,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "chernihiv",
+        "chernivtsi",
+        "donetsk",
+        "kharkiv",
+        "kyiv",
+        "mykolaiv",
+        "rivne",
+        "sumy",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "На Дніпропетровщині після ранкової російської атаки без світла залишилися 700000 родин, повідомили в ДТЕК.",
+        "У Міненерго заявили, що 17 листопада частина споживачів була знеструмлена в 9 областях."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/17/781656_energetiki_pratsyuyut_nad.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4185441-cerez-novi-rosijski-ataki-e-znestrumlenna-u-dvoh-oblastah.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1453934-vidnovlenna-dovoditsa-pocinati-znovu-rf-povtorno-poskodila-energoobekti-ukraini"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/masshtabni-znestrumlennia-cherez-novi-ataky-rf-u-iakykh-oblastiakh-pereboi-zi-svitlom-i-avarijni-vidkliuchennia"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-minenerho-znestrumlennia/33900184.html"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshchyni-cherez-rankovu-ataku-bez-svitla-zalyshylysya-2026"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1237691.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/17/8063253"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1454092-sim-balisticnih-raket-po-mostah-kieva-ta-problemi-zi-svitlom-zelenskij-rozpoviv-pro-naslidki-atak"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/18/8063376"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/energetics/droni-dvichi-atakuvali-rivnensku-oblast-ponad-300-naselenikh-punktiv-znestrumleno-.html"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshhyni-cherez-rosijski-obstrily-postrazhdalo-20-lyudej"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-18-daily/outro.mp3",
+      "duration_sec": 5.47,
+      "text": [
+        "Це був BRIEF за вісімнадцяте листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
