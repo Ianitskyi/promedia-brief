@@ -306,3 +306,26 @@ def test_every_sentence_and_the_intro_get_a_business_tone(approved, monkeypatch)
     assert all(s["chunks"][0].startswith("[serious tone] ") for s in fire["sentences"])
     intro = next(seg for seg in tagged if seg["kind"] != "story")
     assert intro["sentences"][0]["chunks"][0].startswith("[matter-of-fact] ")
+
+
+def test_stress_marks_every_form_of_vuzol_once():
+    """Owner, 18.11.2026: «логістичних вузла́х», not «ву́злах»; a mark is never doubled."""
+    from brief.speech import apply_stress, load_stress
+    out = apply_stress("по логістичних вузлах, вузлів і вузла", load_stress())
+    assert out == "по логістичних вузла\u0301х, вузлі\u0301в і вузла\u0301"
+
+
+@needs_ffmpeg
+def test_sentence_silence_is_trimmed(tmp_path):
+    """Owner, 18.11.2026: no long gaps inside a story. A synthesized sentence with ~1 s of silence on each
+    side keeps only its speech, so the pauses are just the ones render.py sets."""
+    from brief import audio
+    src = tmp_path / "s.wav"
+    subprocess.run(["ffmpeg", "-v", "error", "-f", "lavfi", "-i", "anoisesrc=d=0.9:a=0.0005", "-f", "lavfi",
+                    "-i", "sine=f=300:d=1.5", "-f", "lavfi", "-i", "anoisesrc=d=1.1:a=0.0005", "-filter_complex",
+                    "[0][1][2]concat=n=3:v=0:a=1", "-ac", "1", str(src)], check=True)
+    out = tmp_path / "story.mp3"
+    dur = audio.assemble([("speech", src), ("pause", 300), ("speech", src)], out, tmp_path / "w")
+    assert 3.2 < dur < 3.6  # 1.5 + 0.3 + 1.5 and a little margin, not ~7 s
+    keep = tmp_path / "keep.mp3"
+    assert audio.assemble([("file", src)], keep, tmp_path / "k") > 3.4  # the jingle and other files are untouched

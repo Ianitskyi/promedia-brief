@@ -19,8 +19,10 @@ from .review import load_script
 from .speech import load_lexicon, load_stress, speech_text
 from .util import ROOT, config, iso, now_utc, write_json
 
-PAUSE_SENTENCE_MS = 350
-PAUSE_STORY_MS = 1300  # a clear gap between stories
+# Sentences are trimmed to their speech (audio.TRIM), so these are the real gaps (owner, 18.11.2026):
+# short inside a story — it sounds as one block — and a clear gap between stories.
+PAUSE_SENTENCE_MS = 300
+PAUSE_STORY_MS = 1300
 PAUSE_CHUNK_MS = 120
 SONIC = {"intro": ROOT / "audio" / "intro.mp3", "bumper": ROOT / "audio" / "bumper.mp3",
          "outro": ROOT / "audio" / "outro.mp3"}
@@ -129,7 +131,7 @@ def render(date, provider_name="mock", voice=None, out_dir=None, cache_dir=None,
                         voice_of.synthesize(chunk, tmp)
                         tmp.replace(path)  # only complete files enter the cache
                         calls += 1
-                    parts.append(("file", path, service_af if voice_of is service and service is not provider else news_af))
+                    parts.append(("speech", path, service_af if voice_of is service and service is not provider else news_af))
                     if ci < len(s["chunks"]) - 1:
                         parts.append(("pause", PAUSE_CHUNK_MS))
                 if si < len(seg["sentences"]) - 1:

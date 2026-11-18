@@ -323,9 +323,10 @@ def apply_stress(text, entries):
     """Mark stress in words the engine's own dictionary gets wrong (config/stress.json).
     Only for engines that read stress marks; the approved display text never changes."""
     for e in sorted(entries, key=lambda e: -len(e["word"])):
-        tail = r"[\w'’]*" if e.get("prefix") else ""
+        # The stress mark counts as part of a word, so «вузла» does not match inside an already marked «вузла́х».
+        tail = r"[\w'’\u0301]*" if e.get("prefix") else ""
         stressed = e["stressed"].replace("+", STRESS)
-        text = re.sub(r"(?<![\w'’])" + re.escape(e["word"]) + r"(?=" + tail + r"(?![\w'’]))",
+        text = re.sub(r"(?<![\w'’\u0301])" + re.escape(e["word"]) + r"(?=" + tail + r"(?![\w'’\u0301]))",
                       stressed, text)
     return text
 

@@ -78,6 +78,8 @@ def test_teaser_with_numbers_or_unknown_names_is_dropped(root, monkeypatch):
         {"story_ids": [nat["id"]], "title": "Компенсації", "text": "Уряд виділив 2,5 млрд гривень на компенсації."}]}))
     s = spoken.build(DATE, budget=5000)
     assert s["segments"][0]["sentences"][0]["text"] == "Це BRIEF. Головне за добу станом на ранок двадцятого жовтня."
+    # Owner, 18.11.2026: the outro says "as of the morning" too, not just "BRIEF for the 20th".
+    assert s["segments"][-1]["sentences"][0]["text"].startswith("Це був BRIEF станом на ранок двадцятого жовтня.")
     assert not spoken.check_teaser("рішення Нацбанку", {"a": "Уряд виділив гроші."})
 
 
