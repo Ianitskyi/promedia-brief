@@ -1,9 +1,1924 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-17T22:23:30+00:00",
-  "source_count": 9,
-  "item_count": 17,
+  "generated_at": "2026-11-18T04:20:01+00:00",
+  "source_count": 20,
+  "item_count": 122,
   "items": [
+    {
+      "id": "62636348c7686bf1",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1454261-golovni-novini-doneckoi-ta-luganskoi-oblastej-18-listopada-2026-roku",
+      "title": "Головні новини Донецької та Луганської областей 18 листопада 2026 року",
+      "published_at": "2026-11-18T04:19:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:19:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Новини Донбасу: події в Донецькій області 18 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 18.11.2026 — відео, фото",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d5ab1f8722c88506",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/odesskij-yumor-krymskij-most-opyat-ustal-i-set-memami-vzorval",
+      "title": "Одесский юмор: Крымский мост опять «устал» и сеть мемами взорвал",
+      "published_at": "2026-11-18T04:14:35+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:14:35 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Доброе утро, Одесса! На календаре среда – экватор рабочей недели, а в ленте новостей снова сплошной повод для искренней улыбки. Пока враг пытается нас запугать, сломить или лишить света, украинцы отвечают самым грозным оружием – неиссякаемым чувством юмора, верой в наших защитников и меткими фотожабами на злобу дня. Сообщение Одесский юмор: Крымский мост опять «устал» и сеть мемами взорвал появились сначала на Одеське життя .",
+      "categories": [
+        "Positive News",
+        "Новости Одессы",
+        "одесский юмор"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e3c4d5b4c060cfa6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/tramp-si-czinpin-i-putin-u-shenchzheni-hto-vigraye-vid-zustrichi-bezsmertniy-novini-ukrajini-50659976.html",
+      "title": "«Теми України там не буде». Чому від тристоронньої зустрічі виграють Сі та Путін, а для Трампа вона стане повним провалом — розмова з Безсмертним",
+      "published_at": "2026-11-18T04:14:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:14:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Політик, надзвичайний і повноважний посол України Роман Безсмертний розповів в інтерв'ю Radio NV, про що домовлятимуться на тристоронній зустрічі в Шеньчжені президент США Дональд Трамп, лідер Китаю Сі Цзіньпін та російський диктатор Володимир Путін.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b0b0d2aef13666bf",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4185694-britania-vtratila-vid-brexit-bilse-niz-zdobula-i-potrebue-novoi-ugodi-z-es-premer.html",
+      "title": "Британія втратила від Brexit більше, ніж здобула, і потребує нової угоди з ЄС - прем’єр",
+      "published_at": "2026-11-18T04:13:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:13:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Голова уряду Великої Британії Енді Бернем заявив, що його країна втратила від Brexit більше, ніж здобула, та потребує угоди з Європейським Союзом, яка відкрила б нові можливості для британської економіки.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ac2aab198d95e2d2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/dali-dobro-na-likvidaciyu-zelenskogo-komentuye-ekszastupnik-golovi-sbu-viktor-yagun-50659894.html",
+      "title": "Як ухвалюють рішення про ліквідацію перших осіб держав",
+      "published_at": "2026-11-18T04:12:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:12:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Російське пропагандистське видання Московский комсомолец днями опублікувало статтю, де йдеться, що нібито було «зняте табу на ліквідацію Зеленського»",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "36e5198169b6335f",
+      "source_id": "map-873",
+      "source": "Менщина",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://mena.org.ua/pohoda-v-meni-na-18-11-2026",
+      "title": "Погода в Мені на 18.11.2026",
+      "published_at": "2026-11-18T04:08:44+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:08:44 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Запис Погода в Мені на 18.11.2026 спершу з'явиться на Менщина .",
+      "categories": [
+        "Погода"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "42ae5b9247d5c668",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/18/sogodni-18-listopada-2026-yake-svyato-ta-den-v-istoriyi",
+      "title": "Сьогодні 18 листопада 2026: яке свято та день в історії",
+      "published_at": "2026-11-18T04:00:36+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:00:36 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "18 листопада – День сержанта Збройних Сил України. Цього дня 1421 року розпочалася природна катастрофа...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dae8ecafd97ce48b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1450205-instrument-i-zal-stvoruvalisa-odnocasno-harkivskomu-organa-analogiv-akogo-nemae-v-ukraini-vipovnuetsa-10-rokiv",
+      "title": "«Інструмент і зал створювалися одночасно». Харківському органа, аналогів якого немає в Україні, виповнюється 10 років",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:00:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "18 листопада 2016 року відбулася «інавгурація» органу, який для Харківської обласної філармонії виготовили в Німеччині. Аналогів цьому музичному інструменту немає в Україні, він має 5700 труб та 72 органні регістри",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6b1ba353afa6fe73",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/326485-semero-predstavnykiv-mykolaivshchyny-vzialy-uchast-vseukrainskykh",
+      "title": "Семеро представників Миколаївщини взяли участь у Всеукраїнських Іграх Нескорених у Львові",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 06:00:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Семеро військових і ветеранів із Миколаївської області взяли участь у Всеукраїнських Іграх Нескорених 2026, які завершилися у Львові. Ці змагання стали відбірковим етапом до міжнародних Invictus Games, що відбудуться наступного року у Великій Британії.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "6e61bf55818608c8",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/18/novyna/bezpeka/kanada-oholosyla-pro-vydilennya-120-mln-vijskovu-dopomohu-ukrayini",
+      "title": "Канада оголосила про виділення $120 млн на військову допомогу Україні",
+      "published_at": "2026-11-18T03:54:02+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:54:02 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Уряд Канади оголосив про новий пакет військової допомоги для України на загальну суму 120 мільйонів доларів.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2facc93274371c37",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/magnitnaya-burya-teryaet-silu-prognoz-na-18-noyabrya",
+      "title": "Магнитная буря теряет силу: прогноз на 18 ноября",
+      "published_at": "2026-11-18T03:51:23+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:51:23 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Сегодня, в среду, 18 ноября 2026 года, геомагнитная обстановка на Земле постепенно будет успокаиваться. После кратковременного усиления активности ожидается ее снижение: сильных магнитных бурь в течение дня прогноз не обещает. Сообщение Магнитная буря теряет силу: прогноз на 18 ноября появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "магнитные бури",
+        "прогноз"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "23198317b9884039",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4185830-vibori-u-ssa-na-alasci-demokratka-peltola-peremogla-senatorarespublikanca-sallivana.html",
+      "title": "Вибори у США: на Алясці демократка Пелтола перемогла сенатора-республіканця Саллівана",
+      "published_at": "2026-11-18T03:51:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:51:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Представниця Демократичної партії Мері Пелтола перемогла чинного сенатора-республіканця Дена Саллівана на виборах до Сенату США від штату Аляска.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0f6bb3de0fb79752",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/vohnepalnoi-zbroi-narkotyky-dniprovshchyna-sud",
+      "title": "Автомати, 1900 патронів і пів кілограма наркотиків: на Дніпровщині судитимуть чоловіка",
+      "published_at": "2026-11-18T03:50:40+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:50:40 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "The post Автомати, 1900 патронів і пів кілограма наркотиків: на Дніпровщині судитимуть чоловіка appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "Дніпровщина",
+        "зброя",
+        "поліція"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "b458019ac009921f",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454329-huang-proponue-svoe-povernenna-na-post-gendirektora-nvidia-kompania-vidmovila",
+      "title": "Хуанг пропонує своє повернення на пост гендиректора Nvidia, компанія відмовила",
+      "published_at": "2026-11-18T03:46:19+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:46:19 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Nvidia заявила, що не повертатиме Дженсена Хуанга на посаду гендиректора, навіть попри різкий зріст прибутку компанії. Наразі триває пошук нового керівника",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "458fa6b447c2419b",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454328-uradovij-litak-merkel-pisla-spisanna-peretvorili-na-suveniri",
+      "title": "Урядовий «літак Меркель» після списання перетворили на сувеніри",
+      "published_at": "2026-11-18T03:33:36+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:33:36 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "З колишнього урядового літака Німеччини Airbus A340-300, який заочно називають літаком Меркель зробили сувеніри: брелоки для ключів, багажні бирки та підставки під склянки",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e82f43ce8bf3360d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/aeroport-shennon-cholovik-iz-sokiroyu-znishchiv-viyskoviy-litak-c-130-hercules-50660133.html",
+      "title": "На знак протесту проти війни. В Ірландії чоловік сокирою знищив військовий літак США вартістю $60 млн — фото",
+      "published_at": "2026-11-18T03:32:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:32:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Чоловік із сокирою проник до аеропорту Шеннон в Ірландії та вивів з ладу американський військово-транспортний літак C-130 Hercules вартістю $60 млн. Він перерізав гідравлічні магістралі, розбив прилади в кабіні пілотів і засипав підшипники в паливні баки. За це йому загрожує до 10 років ув’язнення.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "481aac80873a4e1f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185823-suprovid-ta-integraciu-u-gromadah-evakujovanih-meskanciv-oleskiv-maut-zabezpeciti-ova-lubinec.html",
+      "title": "Супровід та інтеграцію у громадах для евакуйованих мешканців Олешків мають забезпечити ОВА - Лубінець",
+      "published_at": "2026-11-18T03:27:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:27:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Обласні військові адміністрації мають забезпечити належний супровід та інтеграцію у місцевих громадах евакуйованих мешканців Олешків Херсонської області.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0026f2d6f9520b08",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1238218.html",
+      "title": "Фон дер Ляєн привітала нового прем'єра Латвії Кулберґса і наголосила на підтримці України в наступному бюджеті ЄС",
+      "published_at": "2026-11-18T03:26:41+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:26:41 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Президентка Єврокомісії Урсула фон дер Ляєн привітала Андріса Кулберґса з отриманням мандата прем'єр-міністра Латвії, наголосивши, що наступний довгостроковий бюджет ЄС має забезпечити потужну підтримку Україні.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4383eb3cd5df3fbd",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144368-iakshcho-zberihayete-vdoma-zaoshchadzhennia-u-hryvniakh-dlia-ukrayintsiv-daly-vazhlyve-utochnennia",
+      "title": "Якщо зберігаєте вдома заощадження у гривнях: для українців дали важливе уточнення",
+      "published_at": "2026-11-18T03:14:10+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:14:10 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Для українців спрогнозували, яким буде курс валют до кінця 2026 року. Інформація важлива для тих людей, які тримають свої заощадження вдома у гривнях.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3c1302895cfa0e41",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/zherebkuvannya-yevro-2028-sklad-koshikiv-de-zbirna-ukrajini-50660125.html",
+      "title": "Україні буде дуже складно вийти на Євро-2028: став відомим склад кошиків перед жеребкуванням",
+      "published_at": "2026-11-18T03:08:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:08:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Посівши лише третє місце у другому дивізіоні Ліги націй, українці ускладнили собі завдання пробитися на чемпіонат Європи.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "73703ba50b632250",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4185826-kanada-vidilit-120-miljoniv-na-vijskovu-dopomogu-ukraini.html",
+      "title": "Канада виділить $120 мільйонів на військову допомогу Україні",
+      "published_at": "2026-11-18T03:05:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:05:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Уряд Канади оголосив про новий пакет військової допомоги для України, до якого увійдуть боєприпаси, спеціальні датчики для ППО, військове спорядження та сухпайки.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3d9248b069495879",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/food/eat/polunicya-yak-pidgotuvati-kushchi-do-zimi-dlya-zberezhennya-vrozhaynosti-50659931.html",
+      "title": "Морози їй не будуть страшні. Як захистити полуницю взимку та зберегти майбутній урожай",
+      "published_at": "2026-11-18T03:00:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:00:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Полуниця може плодоносити на одній грядці два-три роки, проте для збереження врожайності рослинам потрібен належний догляд перед настанням холодів. Кілька простих процедур допоможуть захистити кущі від морозів і грибкових захворювань та забезпечити гарний урожай ягід у наступному сезоні.",
+      "categories": [
+        "Food/Їжа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b9f3e16311d76d71",
+      "source_id": "map-418",
+      "source": "Informer.od.ua",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://informer.od.ua/news/odeshhynu-skolyhnuly-poshtovhy-vid-zemletrusu-v-rumuniyi",
+      "title": "Одещину сколихнули поштовхи від землетрусу в Румунії",
+      "published_at": "2026-11-18T03:00:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 05:00:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У ніч на 18 листопада в Україні відчули сильні підземні поштовхи. Землетрус сколихнув одразу кілька регіонів країни, зокрема Одеську, Полтавську, Кіровоградську, Миколаївську, Черкаську та Дніпропетровську області, а також Київ. Серед міст, де відчули землетрус, — Ізмаїл та Одеса. Поштовхи відчули місцеві мешканці посеред ночі. Поштовхи зафіксували о 02:49. Попередньо, епіцентр розташовувався на території Румунії. За [...]",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "735cff132abc8e33",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/vstup-ukrajini-do-nato-v-obmin-na-donbas-zelenskiy-hoche-pismovih-garantiy-poziciya-ssha-i-rosiji-50659732.html",
+      "title": "Яку, чорт забирай, гру ведуть Кушнер і Віткофф?",
+      "published_at": "2026-11-18T02:54:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:54:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Не дивно, що Зеленський вимагає чітких роз’яснень і хоче побачити всі умови можливої угоди з Росією в письмовому вигляді",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "26d36067e6c62e42",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185819-dvodenna-model-nmt-potrebuvatime-bilse-kostiv-i-novih-tehnicnih-risen-vakulenko.html",
+      "title": "Дводенна модель НМТ потребуватиме більше коштів і нових технічних рішень - Вакуленко",
+      "published_at": "2026-11-18T02:48:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:48:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Переведення національного мультипредметного тесту на дводенну модель потребуватиме не лише змін у реєстрації та розподілі учасників, а й збільшення фінансування.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e10e58f01ac349f9",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/18/novyna/suspilstvo/rumuniyi-stavsya-zemletrus-mahnitudoyu-5-baliv-poshtovxy-vidchuly-ukrayini",
+      "title": "У Румунії стався землетрус магнітудою понад 5 балів, поштовхи відчули в Україні",
+      "published_at": "2026-11-18T02:47:15+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:47:15 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Вночі 18 листопада у кількох регіонах Молдови та України було відчутно потужні підземні поштовхи, які стали наслідком землетрусу в Румунії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7aa31c041c407117",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/18/781880_rumuniyi_stavsya_zemletrus_yakiy.html",
+      "title": "У Румунії стався землетрус, який відчували навіть у Києві",
+      "published_at": "2026-11-18T02:47:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:47:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У столиці України хитались люстри, а в Кишиневі люди отримали сповіщення системи тривоги.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "098bcee8ca912670",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/naslidki-ataki-na-krimskiy-mist-yak-ce-vpline-na-peregovori-putina-si-i-trampa-50659985.html",
+      "title": "«Це посилить позицію Сі». Як удар по Кримському мосту вплине на саміт лідерів РФ, США та КНР і що зміниться для України — інтерв'ю",
+      "published_at": "2026-11-18T02:43:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:43:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Виконавчий директор Центру прикладних політичних досліджень Пента Олександр Леонов в інтерв'ю Radio NV — про символічне значення удару по Кримському мосту напередодні зустрічі російського диктатора Володимира Путіна, лідера Китаю Сі Цзіньпіна і президента США Дональда Трампа, перспективи ядерного роззброєння, максималістські вимоги Москви та чутки про підготовку Кремля до швидкого миру.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e5d5337e8400bdfc",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/viktor-yagun-tabu-na-zamahi-na-lideriv-derzhav-neridko-ignoruyut-50660054.html",
+      "title": "Це все умовності, на які мало хто звертає увагу — Ягун про «табу» на ліквідацію лідерів держав",
+      "published_at": "2026-11-18T02:43:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:43:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Ексзаступник голови СБУ, генерал-майор запасу СБУ Віктор Ягун в інтерв’ю Radio NV заявив, що \"табу\" на ліквідацію лідерів держав - це умовності, на які ніхто не звертає увагу.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b04ff2571e13d18c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/auto/articles/stukit-u-pidvisci-avto-yak-zrozumiti-shcho-pora-minyati-amortizatori-chi-shchos-inshe-50659643.html",
+      "title": "П’ять хвилин біля гаража. ТОП-3 способи знайти джерело стукоту в підвісці до поїздки на СТО",
+      "published_at": "2026-11-18T02:26:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:26:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Глухий удар знизу під час переїзду «лежачого поліцейського» чи трамвайної колії миттєво псує настрій.",
+      "categories": [
+        "Авто/Статті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4c69903a62334c77",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/openai-vipustila-gpt-62-astra-i-gpt-62-sol-dlja-roboti-z-dokumentami-j-kodom.html",
+      "title": "OpenAI випустила GPT-6.2 Astra і GPT-6.2 Sol для роботи з документами й кодом",
+      "published_at": "2026-11-18T02:22:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:22:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Флагман відтворює оформлення слайдів зі скриншота, а дешевша модель підійде для щоденних справ.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "003802fb35b90e3e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ruynuvannya-krimskogo-mostu-chomu-zsu-zavdali-takogo-udaru-rosiji-same-zaraz-sharp-novini-ukrajini-50660022.html",
+      "title": "«Неписані правила». Чому Україна так довго не била по Кримському мосту й тримала цей козир до останнього — Шарп",
+      "published_at": "2026-11-18T02:21:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:21:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Військовий оглядач Давид Шарп пояснив в ефірі Radio NV, який військовий, економічний і політичний ефект матиме удар по Кримському мосту, де обвалилася автомобільна частина, та чому саме зараз Україна атакувала цю незаконну споруду.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "05b3e5ba32289d8d",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://techno.nv.ua/ukr/it-industry/fbr-povidomilo-pro-masove-poshirennya-platformi-artex-dlya-avtomatizaciji-kiberatak-50660132.html",
+      "title": "Глобальна загроза. ФБР попередило, що хакери використовують ШІ для автоматизації кібератак",
+      "published_at": "2026-11-18T02:21:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:21:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Федеральне бюро розслідувань США попередило про поширення платформи ARTEX, яка за допомогою штучного інтелекту автоматизує кібератаки, від пошуку вразливостей до викрадення даних. Зловмисники використовують її для масштабних атак на організації в різних країнах, причому навіть невеликі угруповання можуть отримувати доступ до захищених систем менш ніж за три години.",
+      "categories": [
+        "Техно/IT-індустрія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "777f0e56e4b618a1",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185669-udar-kalibrami-po-bagatopoverhivci-u-kievi-ukraina-zaocno-ogolosila-pidozru-rosijskomu-viceadmiralu.html",
+      "title": "Удар «Калібрами» по багатоповерхівці у Києві: Україна заочно оголосила підозру російському віцеадміралу",
+      "published_at": "2026-11-18T02:21:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:21:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Служба безпеки України та прокуратура заочно повідомили про підозру віце-адміралу Чорноморського флоту Російської Федерації Аркадію Романову, причетному до наведенні ракет «Калібр» по багатоповерхівці у Києві в липні 2024 року",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfc252e93da426b6",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/u-roboti-servisiv-apple-stavsja-masshtabnij-zbij-kompanija-nazvala-prichinu-.html",
+      "title": "У роботі сервісів Apple стався масштабний збій: компанія назвала причину",
+      "published_at": "2026-11-18T02:04:25+00:00",
+      "published_raw": "Wed, 18 Nov 2026 04:04:25 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Збій зачепив користувачів у всьому світі.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c6070b24c00eb09e",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4185817-doneccina-spramuvala-na-potrebi-sil-oboroni-se-majze-18-miljoniv.html",
+      "title": "Донеччина спрямувала на потреби Сил оборони ще майже ₴18 мільйонів",
+      "published_at": "2026-11-18T01:56:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:56:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Донецька область спрямувала ще 17,8 млн грн на потреби українських військових, які виконують бойові завдання в регіоні.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fe0dfbecd1a8fb8d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454327-putin-pribuv-do-kitau-dla-zustrici-z-si-czinpinom-ta-trampom",
+      "title": "Путін прибув до Китаю для зустрічі з Сі Цзіньпіном та Трампом",
+      "published_at": "2026-11-18T01:55:20+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:55:20 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Очільник Кремля Володимир Путін прибув до Китаю: 19 листопада він зустрінеться з головою КНР Сі Цзіньпіном та президентом США Дональдом Трампом",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5d91cb69b0b7ac1a",
+      "source_id": "map-890",
+      "source": "Місто і річка",
+      "geography": "regional",
+      "source_region": "dnipropetrovsk",
+      "url": "https://mistorichka.media/novyny/102-hektary-lisovykh-zemel-kryvorizkyi-raion",
+      "title": "102 гектари лісу незаконно передали селищній раді: суд повернув землю державі",
+      "published_at": "2026-11-18T01:44:20+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:44:20 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "The post 102 гектари лісу незаконно передали селищній раді: суд повернув землю державі appeared first on Місто і річка .",
+      "categories": [
+        "Новини",
+        "земля",
+        "прокуратура"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "8531f3caf02ff5e7",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1238216.html",
+      "title": "На Одещині під час будівництва укриття дала усадку будівля ліцею – ОВА",
+      "published_at": "2026-11-18T01:42:29+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:42:29 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У селищі Лиманське Роздільнянського району Одещини під час будівництва укриття дала усадку будівля ліцею, повідомив начальник Одеської ОВА Олег Кіпер.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f1959db327403540",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/18/novyna/polityka/ukrayini-vidreahuvaly-namir-pryznachyty-rosiyanyna-ferapontova-zastupnykom-holovy-mahate",
+      "title": "В Україні відреагували на намір призначити росіянина Ферапонтова заступником голови МАГАТЕ",
+      "published_at": "2026-11-18T01:40:20+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:40:20 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "МЗС України висловило рішучий протест у зв'язку з наміром генерального директора МАГАТЕ Рафаеля Гроссі призначити представника Ростехнагляду Олексія Ферапонтова своїм заступником.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1c408dabefd262df",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/nimechchina-j-velika-britanija-vidkinuli-kritiku-ssha-shchodo-udariv-ukrajini-vhlib-rosiji.html",
+      "title": "Німеччина та Велика Британія відкинули критику США щодо ударів України вглиб Росії",
+      "published_at": "2026-11-18T01:39:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:39:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У Брюсселі союзники розійшлися в оцінках атак на нафтову інфраструктуру та комерційні склади.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6d06a7c96dd52368",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/povitryani-sili-zsu-ruh-udarnih-bpla-na-kijivshchinu-z-boku-bilorusi-50660123.html",
+      "title": "Росіяни запустили по Україні групи ударних безпілотників — Повітряні сили",
+      "published_at": "2026-11-18T01:38:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:38:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У ніч на середу, 19 листопада, Повітряні сили попередили про рух групи ударних БпЛА на Київщину з боку Білорусі. Також окупанти запустили ударні безпілотники на півдні та сході України.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10c8f87b69d4da6b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185815-z-likarni-vipisali-pacienta-akomu-vperse-v-ukraini-peresadili-vidrazu-serce-j-pecinku.html",
+      "title": "З лікарні виписали пацієнта, якому вперше в Україні пересадили відразу серце й печінку",
+      "published_at": "2026-11-18T01:34:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:34:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "З Київської міської клінічної лікарні №1 виписали 44-річного чоловіка, якому вперше в Україні виконали одномоментну трансплантацію комплексу «серце-печінка».",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "378e29329fb620fc",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/tech/2026/11/18/781878_rada_direktoriv_nvidia.html",
+      "title": "Рада директорів NVIDIA відмовилась поновити Дженсена Хуанга на посаді",
+      "published_at": "2026-11-18T01:33:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:33:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Фінансові звіти показують, що у компанії все чудово.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "148bc068daea1688",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/u-riznikh-mistakh-ukrajini-vidchuli-zemletrus-shcho-vidomo.html",
+      "title": "У різних містах України відчули землетрус: що відомо",
+      "published_at": "2026-11-18T01:22:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:22:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Причина, ймовірно, сильний землетрус у Румунії.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f07fbe4a428491d2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/zemletrus-u-rumuniji-pidzemni-poshtovhi-vidchuli-v-ukrajini-odesi-y-kiyevi-50660131.html",
+      "title": "У Румунії стався землетрус магнітудою 5,3: поштовхи відчули в Україні",
+      "published_at": "2026-11-18T01:17:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:17:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У ніч проти 18 листопада в Румунії стався землетрус магнітудою 5,3. Його осередок залягав на глибині 130,8 км.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0ec34da4869fa6fa",
+      "source_id": "map-573",
+      "source": "А.С.С.",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://acc.cv.ua/news/storystorynka/zdorovo/zachineni-vikna-vzimku-mozhut-pogirshuvati-samopochuttya-yak-pravilno-provitryuvati-oselyu-123303",
+      "title": "Зачинені вікна взимку можуть погіршувати самопочуття: як правильно провітрювати оселю",
+      "published_at": "2026-11-18T01:16:48+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:16:48 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У приміщеннях накопичуються волога, вуглекислий газ і дрібні частинки.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6aa88277276ee687",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/protistoyannya-navrockogo-i-tuska-rosiyski-vplivi-v-polshchi-i-vihid-z-yes-edvin-bendik-v-interv-yu-50660098.html",
+      "title": "«Це небезпечно і для України». Едвін Бендик — про бажання поляків вийти з ЄС, антинімецькі настрої та протистояння Навроцького з Туском",
+      "published_at": "2026-11-18T01:13:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:13:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Голова Фонду імені Стефана Баторія, польський журналіст, колумніст Едвін Бендик в інтерв'ю Radio NV — про захоплення Конституційного трибуналу Польщі, протистояння президента Кароля Навроцького і прем'єра Дональда Туска, російські впливи на внутрішній конфлікт, євроскептицизм і антинімецькі настрої частини суспільства.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fc5e1fcc7b7549db",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185681-virmenia-peredala-ukraini-12-minielektrostancij-dla-prifrontovih-regioniv.html",
+      "title": "Вірменія передала Україні 12 мініелектростанцій для прифронтових регіонів",
+      "published_at": "2026-11-18T01:09:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:09:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Посольство України в Республіці Вірменія доставило до МЗС України 12 інверторних генераторів, які будуть направлені до прифронтових та постраждалих регіонів України.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8bdae3c4be3d0b9e",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/odesa/1454325-na-odesini-vnoci-18-listopada-vidculi-zemletrus",
+      "title": "На Одещині вночі 18 листопада відчули землетрус",
+      "published_at": "2026-11-18T01:08:19+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:08:19 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У ніч на 18 листопада жителі Одещини відчули землетрус з епіцентром у Румунії. Android повідомив про магнітуду 6,3–6,5. Інформації про руйнування чи травмованих у регіоні немає",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f1826d4d5a76b12c",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/desjat-krajin-jes-vimahajut-ne-dopustiti-rosiju-do-venetsijskoji-bijenale.html",
+      "title": "Десять країн ЄС вимагають не допустити Росію до Венеційської бієнале",
+      "published_at": "2026-11-18T01:08:13+00:00",
+      "published_raw": "Wed, 18 Nov 2026 03:08:13 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Польща очолює зусилля щодо недопущення Росії до участі у Венеційській архітектурній бієнале.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1dece4890764af46",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454324-ministr-oboroni-hmara-mi-bacimo-perspektivi-u-dalekobijnih-udarah-po-teritorii-rf",
+      "title": "Міністр оборони Хмара: ми бачимо перспективи у далекобійних ударах по території РФ",
+      "published_at": "2026-11-18T00:56:24+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:56:24 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Міністр оборони Євген Хмара заявив, що Україна бачить перспективи у далекобійних ударах по території РФ та планує розвивати цей напрям у 2027 році",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dad46d39ea6315ee",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/kerchenskiy-mist-ryutte-pidtrimav-udari-po-logistichnih-vuzlah-ukrajini-50660130.html",
+      "title": "«Це неминуче». Рютте прокоментував удар по Керченському мосту",
+      "published_at": "2026-11-18T00:56:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:56:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Генеральний секретар НАТО Марк Рютте заявив, що Україна має захищати себе, зокрема завдаючи ударів по логістичних вузлах. Так він прокоментував атаку на Керченський міст, внаслідок якої обвалилося понад 270 метрів автомобільного полотна.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d50fff8a62882d49",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/nimechchina-j-norvehija-profinansujut-zakupivlju-dodatkovikh-raket-patriot-dlja-ukrajini.html",
+      "title": "Німеччина й Норвегія профінансують закупівлю додаткових ракет Patriot для України",
+      "published_at": "2026-11-18T00:49:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:49:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Берлін виділить 300 мільйонів доларів на придбання американських засобів протиповітряної оборони.",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ddd762d5b46c8f57",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1238214.html",
+      "title": "Генштаб зафіксував 18 боїв на покровському напрямку від початку доби",
+      "published_at": "2026-11-18T00:47:40+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:47:40 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Від початку доби 17 листопада на фронті відбулося 139 бойових зіткнень, повідомляє Генштаб ЗСУ.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "719018d945d3f127",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/krimskiy-mist-obvalivsya-fursa-pro-ganbu-putina-naperedodni-zustrichi-i-trampom-i-si-50659878.html",
+      "title": "Символ найвеличнішої перемоги Путіна обвалився",
+      "published_at": "2026-11-18T00:41:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:41:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Якраз вчасно — перед «зустріччю переможців»",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a33d29bcf9d81a14",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-world/4185816-ssa-znovu-zavdali-udariv-po-raketnomu-obektu-iranu-na-ostrovi-kesm.html",
+      "title": "США знову завдали ударів по ракетному об’єкту Ірану на острові Кешм",
+      "published_at": "2026-11-18T00:41:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:41:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Американські винищувачі завдали нових ударів по іранському об’єкту на острові Кешм, з якого здійснюються запуски ракет.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5b994b7bf6177dda",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/politics/zelenskiy-ne-maye-namiru-zvilnyati-zastupnika-golovi-op-ekszastupnik-genprokurora-50660036.html",
+      "title": "Зеленський до останнього триматиметься за Татарова — ексзаступник генпрокурора",
+      "published_at": "2026-11-18T00:36:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:36:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Народний депутат VII-VIII скликань, колишній заступник генерального прокурора Віктор Чумак в інтерв'ю Radio NV заявив, що президент України Володимир Зеленський до кінця триматиметься за заступника голови Офісу президента Олега Татарова.",
+      "categories": [
+        "Україна/Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9a811c7b8f6ec651",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/18/781876_kembridzhskiy_slovnik_nazvav.html",
+      "title": "Кембриджський словник назвав \"людина\" словом року через засилля штучного інтелекту",
+      "published_at": "2026-11-18T00:32:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:32:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Human також може вживатися як прикметник.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8d76e259c6e93e9e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/704318-den-serzhanta-zbrojnikh-sil-ukrajini-istorija.html",
+      "title": "День сержанта Збройних Сил України: історія",
+      "published_at": "2026-11-18T00:30:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:30:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Його запровадили у 2019 році.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "984a12de0dd8c1a5",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/zelenskiy-zaklikav-partneriv-peredati-raketi-perehoplyuvachi-ukrajini-zasidannya-ramshtayn-50660127.html",
+      "title": "Зеленський на Рамштайні попросив партнерів не тримати перехоплювачі на складах, а передати їх Україні",
+      "published_at": "2026-11-18T00:23:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:23:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Президент Володимир Зеленський закликав партнерів передати Україні наявні в них ракети-перехоплювачі для систем протиповітряної оборони, щоб захистити українські міста від російських атак.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "27e128ae32a87305",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/18/novyna/svit/ssha-ta-iran-obminyalysya-novymy-aviaudaramy-urazheno-ostriv-keshm-ormuzkij-protoczi-zmi",
+      "title": "США та Іран обмінялися новими авіаударами, уражено острів Кешм в Ормузькій протоці – ЗМІ",
+      "published_at": "2026-11-18T00:11:21+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:11:21 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "США уразили іранський ракетний полігон на острові Кешм у відповідь на спробу КВІР завдати удару по американські військовій радарнійсистемі в Бахрейні.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dfc8372129cba69f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185814-koordstab-poperedzae-rodiciv-polonenih-pro-aktivizaciu-sahraiv-na-tli-novin-pro-mozlivij-obmin.html",
+      "title": "Коордштаб попереджає родичів полонених про активізацію шахраїв на тлі новин про можливий обмін",
+      "published_at": "2026-11-18T00:05:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:05:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Після появи інформації про можливий великий обмін полоненими між Україною та РФ шахраї намагаються нажитися на українцях, які чекають повернення своїх близьких.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "58f32e65468ac6cd",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/18/pogoda-u-harkovi-ta-oblasti-na-18-listopada-prognoz-sinoptikiv",
+      "title": "Погода у Харкові та області на 18 листопада — прогноз синоптиків",
+      "published_at": "2026-11-18T00:01:27+00:00",
+      "published_raw": "Wed, 18 Nov 2026 02:01:27 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Синоптики прогнозують дощ, місцями значний.",
+      "categories": [
+        "Інше"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cd253e972bb17dcc",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/ukrajinskij-zhurnalist-stanislav-asjejev-stav-laureatom-premiji-pamjat-narodiv.html",
+      "title": "Український журналіст Станіслав Асєєв став лауреатом премії «Пам'ять народів»",
+      "published_at": "2026-11-17T23:57:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:57:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Церемонія нагородження відбулася в Національному театрі Праги.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "407c6531f831c8e5",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/tech/2026/11/18/781874_hvilya_zboyiv_roboti_tsifrovih.html",
+      "title": "Хвиля збоїв у роботі цифрових систем дісталася компанії Apple",
+      "published_at": "2026-11-17T23:48:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:48:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Проблеми спостерігались навіть в найбільш захищених мережах уряду США.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb0d7e92caf52c1a",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/18/u-harkivskij-oblasti-18-listopada-diyatimut-grafiki-pogodinnih-vidklyuchen-elektriki-2",
+      "title": "У Харківській області 18 листопада діятимуть графіки погодинних відключень електрики",
+      "published_at": "2026-11-17T23:44:16+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:44:16 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Для промисловості та бізнесу з 00:00 до 24:00 діятимуть графіки обмеження потужності.",
+      "categories": [
+        "Регіон"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "af76f96966760a97",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/POLITICS/ssha-napoljahajut-na-rozhljadi-propozitsij-shchodo-nato-ta-vijsk-u-jevropi-na-mirnikh-perehovorakh-bloomberg.html",
+      "title": "США наполягають на розгляді пропозицій щодо НАТО та військ у Європі на мирних переговорах — Bloomberg",
+      "published_at": "2026-11-17T23:44:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:44:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Посланці Вашингтона просувають домовленості щодо озброєнь і розташування сил на континенті.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c76a21060134b7cb",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/europe/cnn-jevropa-pobojujetsja-toho-shcho-tramp-si-ta-putin-mozhut-obhovoriti-za-zachinenimi-dverima-v-kitaji.html",
+      "title": "CNN: Європа побоюється того, що Трамп, Сі та Путін можуть обговорити за зачиненими дверима в Китаї",
+      "published_at": "2026-11-17T23:42:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:42:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Троє авторитарних лідерів віком понад 70 років, 90% світового арсеналу ядерної зброї, дві війни, що тривають, одна кімната й жодного конкретного порядку денного. Що може піти не так?",
+      "categories": [
+        "Європа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2a2ef53da686fc8a",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185735-lubinec-v-ukraini-ponad-247-tisaci-ditej-zalisautsa-v-internatah-tisaci-na-tot.html",
+      "title": "Лубінець: В Україні понад 24,7 тисячі дітей залишаються в інтернатах, тисячі - на ТОТ",
+      "published_at": "2026-11-17T23:39:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:39:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "В Україні 24 754 дитини залишаються в інтернатних закладах, а тисячі - на тимчасово окупованих територіях.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10a79004dd2b056b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ruynuvannya-krimskogo-mostu-yaki-problemi-chekayut-na-rf-ta-shcho-skazhut-ssha-50660032.html",
+      "title": "Болюче місце Путіна. Які очевидні та неочевидні ефекти для РФ і для України матиме часткове руйнування Кримського мосту — розбір NV",
+      "published_at": "2026-11-17T23:32:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:32:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "NV разом з військовими експертами та депутатами оцінив, які наслідки матиме руйнування Кримського мосту для російської економіки та як вплине на ситуацію на фронті.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f7662a5d63152b7",
+      "source_id": "map-683",
+      "source": "Харків Times",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://times.kharkiv.ua/2026/11/18/masovanij-obstril-chuguyeva-troye-meshkantsiv-potrebuvali-dopomogi-medikiv",
+      "title": "Масований обстріл Чугуєва: троє мешканців потребували допомоги медиків",
+      "published_at": "2026-11-17T23:27:37+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:27:37 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "В одному з мікрорайонів пошкоджено близько десяти приватних будинків і навчальний заклад.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4ff4b9a15ca29e67",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/viznachilisja-vsi-uchasniki-chvertfinalu-lihi-natsij.html",
+      "title": "Визначилися всі учасники чвертьфіналу Ліги націй",
+      "published_at": "2026-11-17T23:25:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:25:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Наступного року боротьбу за трофей продовжать вісім команд.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a9ef40c4e91a38e3",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/18/781872_parlamenti_izrayilyu_obrali.html",
+      "title": "У парламенті Ізраїлю обрали спікера від партії суперника Нетаньягу",
+      "published_at": "2026-11-17T23:20:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:20:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Перший крок до зміни політичного курсу країни.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e25b3893e4fe5d29",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/aviaudari-ssha-po-iranu-amerikanska-aviaciya-atakuvala-raketniy-maydanchik-keshm-50660126.html",
+      "title": "США знову завдали ударів по Ірану — Reuters",
+      "published_at": "2026-11-17T23:16:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:16:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Американські військові у вівторок, 17 листопада, завдали нових авіаударів по Ірану.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fbb7b04d6c1a304d",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/pishov-iz-zhittja-pershij-predstavnik-vatikanu-v-nezalezhnij-ukrajini.html",
+      "title": "Пішов із життя перший представник Ватикану в незалежній Україні",
+      "published_at": "2026-11-17T23:14:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:14:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Архієпископ представляв Святий Престол у Києві з 1992 року.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "da8fbe506986eaab",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454321-udari-po-wildberries-imovirno-zmicnili-gotovnist-kremla-do-eskalacii-zastupnik-golovi-pentagonu",
+      "title": "«Удари по Wildberries, імовірно, зміцнили готовність Кремля до ескалації» — заступник голови Пентагону",
+      "published_at": "2026-11-17T23:12:09+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:12:09 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Заступник голови Пентагону Елбрідж Колбі засудив удари України по РФ та заявив, що удари по Wildberries тільки підсили готовність Кремля до ескалації",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "85bfb79e283b1848",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185812-fundacia-zelenskoi-vperse-predstavila-svoi-proekti-na-rebuild-ukraine-u-varsavi.html",
+      "title": "Фундація Зеленської вперше представила свої проєкти на ReBuild Ukraine у Варшаві",
+      "published_at": "2026-11-17T23:12:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:12:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Фундація Олени Зеленської вперше взяла участь у міжнародній виставці-конференції ReBuild Ukraine у Варшаві, де презентувала проєкти соціальної відбудови України.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "65676bace6dda16d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1454320-tisk-buv-veliceznij-maldera-pidsumuvav-virisalnij-matc-ukraini-za-zberezenna-misca-v-divizioni",
+      "title": "«Тиск був величезний»: Мальдера підсумував вирішальний матч України за збереження місця в дивізіоні",
+      "published_at": "2026-11-17T23:11:37+00:00",
+      "published_raw": "Wed, 18 Nov 2026 01:11:37 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Андреа Мальдера, головний тренер збірної України, підсумував вирішальну гру за збереження місця в дивізіоні В, коментар, «синьо-жовті» здобули перемогу в матчі проти Грузії у шостому турі групового етапу Ліги націй (1:0)",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1aea2f525cae6cbb",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1454319-des-sist-z-polovinou-andrea-maldera-ociniv-persij-etap-roboti-na-coli-zbirnoi-ukraini-z-futbolu",
+      "title": "«Результат — десь на шість з половиною». Андреа Мальдера підбив підсумки першого турніру на чолі збірної України",
+      "published_at": "2026-11-17T22:59:39+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:59:39 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Андреа Мальдера: головний тренер збірної України з футболу, виступ команди в Лізі націй УЄФА, коментар наставника після завершення турніру",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ceb44be5e2cfe2a1",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/18/novyna/bezpeka/zelenskyj-zaklykav-yevropu-spryamuvaty-nevykorystani-21-mlrd-spilni-oboronni-proyekty",
+      "title": "Зеленський закликав Європу спрямувати невикористані €21 млрд на спільні оборонні проєкти",
+      "published_at": "2026-11-17T22:57:48+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:57:48 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Президент Володимир Зеленський закликав союзників виконати декларацію саміту в Анкарі та надати Україні 8 млрд євро цього року, а також спрямувати 21 млрд євро невикористаних коштів на спільні оборонні проєкти.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "adf2ef0297e62847",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/futbolist-zbirnoji-ukrajini-zabiv-najshvidshij-hol-v-istoriji-ofitsijnikh-matchiv-komandi.html",
+      "title": "Футболіст збірної України забив найшвидший гол в історії офіційних матчів команди",
+      "published_at": "2026-11-17T22:55:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:55:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Данило Сікан приніс збірній перемогу.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c915fa3aa3502838",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/18/781870_kerivniku_chornomorskogo_flotu.html",
+      "title": "Керівнику Чорноморського флоту РФ повідомили про підозру в ударі \"Калібрами\" по будинку в Києві",
+      "published_at": "2026-11-17T22:52:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:52:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "За даними слідства, він віддав наказ про запуск 10 крилатих ракет.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "aeb8152761b95c58",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4185722-v-ukraini-zavtra-dositime-vden-do-13.html",
+      "title": "В Україні дощитиме, вдень до +13°",
+      "published_at": "2026-11-17T22:50:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:50:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "В Україні у середу, 18 листопада, очікуються дощі, температура вдень сягатиме +13°.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "796e332c0f476295",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1238212.html",
+      "title": "Збірна України обіграла Грузію з рахунком 1:0, зберігши місце в дивізіоні B Ліги націй",
+      "published_at": "2026-11-17T22:49:02+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:49:02 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Збірна України з футболу у вівторок перемогла команду Грузії з рахунком 1:0 у заключному матчі групового етапу Ліги націй УЄФА 2026/27 і зберегла місце в дивізіоні B.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e1b86481353e4775",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/18/781868_zastupnik_golovi_pentagonu.html",
+      "title": "Заступник голови Пентагону негативно оцінив українські діпстрайки, які \"приносять росіянам біль\"",
+      "published_at": "2026-11-17T22:42:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:42:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Посадовець розкритикував українську стратегію війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e96380cf1bdcf0d8",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/zastupnyk-glavy-pentagonu-rozkrytykuvav-udary-ukrayiny-po-ob-yektah-wildberries",
+      "title": "Заступник глави Пентагону розкритикував удари України по об’єктах Wildberries",
+      "published_at": "2026-11-17T22:40:26+00:00",
+      "published_raw": "Tue, 17 Nov 2026 22:40:26 +0000",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Заступник міністра оборони США Елбрідж Колбі розкритикував українські далекобійні удари по території Росії, зокрема по об’єктах компанії Wildberries. На його думку, такі атаки не наближають завершення війни та спрямовані на те, щоб завдати шкоди російському населенню. Запис Заступник глави Пентагону розкритикував удари України по об’єктах Wildberries спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "атака на Wildberries",
+        "Пентагон"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ada392a17a1f979a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454304-dopomoga-vid-partneriv-za-pidsumkami-ramstajnu-u-kievi-castkovo-vidnovluut-ruh-mostami-pisla-udariv-1729-den-vijni",
+      "title": "Допомога від партнерів за підсумками «Рамштайну», у Києві частково відновлюють рух мостами після ударів. 1729 день війни",
+      "published_at": "2026-11-17T22:39:50+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:39:50 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Допомога від партнерів за підсумками «Рамштайну», у Києві частково відновлюють рух Північним мостом після російських ударів. На Кримському мосту частково зруйноване покриття",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ddec507dc0b3a98d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1454244-ukraina-gruzia-onlajn-translacia-matcu-ligi-nacij",
+      "title": "Україна перемогла Грузію в останньому матчі Ліги націй-2026/27: як це було",
+      "published_at": "2026-11-17T22:39:49+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:39:49 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Україна – Грузія: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "618d34adf80dad2d",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1454316-ppo-pearl-dodatkove-finansuvanna-ta-nato-30-pidsumki-ramstajnu",
+      "title": "ППО, PEARL, додаткове фінансування та НАТО 3.0: підсумки «Рамштайну»",
+      "published_at": "2026-11-17T22:39:31+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:39:31 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Очільник НАТО Марк Рютте та міністри оборони Вес Стрітінг, Борис Пісторіус та Євген Хмара провели спільний брифінг з підсумками контактної зустрічі «Рамштайну»",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9117df9e4c10cd22",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/donald-tramp-namagayetsya-vidnoviti-peregovori-z-kim-chen-inom-novi-plani-zustrichi-50660120.html",
+      "title": "Писав йому листи. Трамп заявив, що хотів би зустрітися з Кім Чен Ином в Китаї — ЗМІ",
+      "published_at": "2026-11-17T22:39:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:39:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Президент США Дональд Трамп неодноразово намагався відновити переговори з лідером Північної Кореї Кім Чен Ином після повернення до Білого дому, зокрема надсилав йому листи з пропозицією відновити канали зв’язку. Тепер Трамп заявив, що хотів би зустрітися з ним під час візиту до Китаю.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a08ea64e3ebf513a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/usa/pidozra-u-shpihunstvi-na-rosiju-britanski-pravookhorontsi-peredali-amerikantsjam-ofitsera-armiji-ssha.html",
+      "title": "Підозра у шпигунстві на Росію: британські правоохоронці передали американцям офіцера армії США",
+      "published_at": "2026-11-17T22:37:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:37:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Британія передала США підполковника, якого нещодавно затримали.",
+      "categories": [
+        "США"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f1feecd3994f8c8",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/ECONOMICS/vidomij-ukrajinskij-virobnik-solodoshchiv-zminiv-nazvu.html",
+      "title": "Відомий український виробник солодощів змінив назву",
+      "published_at": "2026-11-17T22:35:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:35:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Це перший ребрендинг компанії з 1944 року.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ba097f9ccaefc7c3",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1454315-ne-usvidomluu-danilo-sikan-zabiv-najsvidsij-gol-v-istorii-zbirnoi-ukraini-z-futbolu",
+      "title": "«Не усвідомлюю». Данило Сікан забив найшвидший гол в історії офіційних матчів збірної України з футболу",
+      "published_at": "2026-11-17T22:34:50+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:34:50 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Нападник збірної України Данило Сікан став автором найшвидного голу збірної України в офіційних матчах, в грі «синьо-жовтих» проти Грузії у шостому турі групового етапу Ліги націй (1:0), реакція футболіста",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "57c77afceea586f0",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/polityka/274568-boyitesia-zustritysia-z-rosiyeiu-sayt-miznarodnoyi-federatsiyi-khokeiu-perestav-pratsiuvaty-pislia-zlamu-khakeriv",
+      "title": "«Боїтеся зустрітися з росією?». Сайт Міжнародної федерації хокею перестав працювати після зламу хакерів",
+      "published_at": "2026-11-17T22:34:00+00:00",
+      "published_raw": "2026-11-18T00:34:00+02:00",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "02c40635d350cb45",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/18/781864_reuters_ssha_vdarili_iranskomu.html",
+      "title": "Reuters: США вдарили по іранському ракетному полігону",
+      "published_at": "2026-11-17T22:31:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:31:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Іран в свою чергу заявив про атаку на американську радарну систему в Бахрейні.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1f5a894b1a73c516",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4185810-stanislav-aseev-otrimav-u-prazi-nagorodu-pamati-narodiv.html",
+      "title": "Станіслав Асєєв отримав у Празі нагороду «Пам’яті народів»",
+      "published_at": "2026-11-17T22:31:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:31:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Український журналіст і письменник, колишній цивільний полонений Станіслав Асєєв став лауреатом чеської «Нагороди Пам’яті народів» (Cena Paměti národa) за спротив російській окупації та свідчення про злочини РФ в Україні.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "caac956129ec287c",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/krimskiy-mist-yak-strategichna-porazka-rosiji-zminyuye-logistiku-krimu-tri-naslidki-udariv-ukrajini-50659891.html",
+      "title": "Не носіться з методичкою Путіна. Про Кримський міст і «свідків відплати»",
+      "published_at": "2026-11-17T22:30:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:30:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Сьогодні вночі Україна завдала Росії дійсно болючої і (головне) стратегічної поразки, яка сильно вплине на хід війни",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10e72ecce15f6f7a",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/UKRAINE/den-platona-i-romana-istorija.html",
+      "title": "День Платона і Романа: історія",
+      "published_at": "2026-11-17T22:30:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:30:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Вони прийняли мученицьку смерть за свою віру.",
+      "categories": [
+        "Україна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "15f643ff9a2d223a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/politics/sprava-karfagen-chumak-kazhe-shcho-poklad-klimenko-i-malyuk-mayut-sami-podati-u-vidstavku-50660017.html",
+      "title": "Через справу Карфаген Поклад, Клименко і Малюк мають подати у відставку — Чумак",
+      "published_at": "2026-11-17T22:29:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:29:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Народний депутат VII-VIII скликань, колишній заступник генерального прокурора Віктор Чумак в інтерв'ю Radio NV заявив, що через справу Карфаген в.о. голови СБУ Олександр Поклад, секретар РНБО Ігор Клименко та ексголова СБУ Василь Малюк мають піти у відставку.",
+      "categories": [
+        "Україна/Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2d24cb0c69c1992a",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/stanislav-aseyev-chekhiya-premiya-pamyat-narodu/33900595.html",
+      "title": "Станіслав Асєєв отримав чеську премію «Пам'ять народу» за «мужність у боротьбі за свободу»",
+      "published_at": "2026-11-17T22:25:07+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:25:07 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "«Для мене ця премія – це фактично символ продовження боротьби, адже дата 17 листопада – є дуже символічною в Чехії»",
+      "categories": [
+        "Новини",
+        "Україна",
+        "Суспільство",
+        "Донбас"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6d58ba1a993313f3",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/rosija-zastosuvala-slozohinnij-haz-proti-ukrajinskikh-vijskovikh-shcho-vstanovilo-rozsliduvannja-ap.html",
+      "title": "Росія застосувала сльозогінний газ проти українських військових: що встановило розслідування — AP",
+      "published_at": "2026-11-17T22:24:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:24:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Звіт отримали 193 держави напередодні щорічної зустрічі Організації із заборони хімічної зброї.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "4f95d51883667a40",
       "source_id": "map-875",
@@ -119,6 +2034,44 @@
       "status": "new"
     },
     {
+      "id": "d2337f3b07633a7f",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-v-lizi-natsij-rozklad-usikh-matchiv-turnirna-tablitsja.html",
+      "title": "Збірна України в Лізі націй: результати всіх матчів, підсумкова турнірна таблиця",
+      "published_at": "2026-11-17T22:22:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:22:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Українці виступають у Дивізіоні B.",
+      "categories": [
+        "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "03be7c52d7935d2a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/liga-naciy-spisok-uchasnikiv-chvertfinalu-50660118.html",
+      "title": "Визначилися всі учасники чвертьфіналів Ліги націй",
+      "published_at": "2026-11-17T22:16:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:16:00 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "У вівторок, 17 листопада, завершився груповий турнір елітного дивізіону Ліги націй.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6f1a279f6747ae51",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -224,7 +2177,7 @@
       "published_at": "2026-11-17T22:03:33+00:00",
       "published_raw": "Wed, 18 Nov 2026 00:03:33 +0200",
       "fetched_at": "2026-11-17T22:23:30+00:00",
-      "description": "Користувачі з усього світу повідомили про перебої в роботі низки сервісів OpenAI, Google таApple, зокрема App Store, iCloud та Apple Pay. А в Україні скарижлися на роботу мобільного оператора Kyivstar, Lifecell та Vodafon.",
+      "description": "Користувачі з усього світу повідомили про перебої в роботі низки сервісів OpenAI, Google та Apple, зокрема App Store, iCloud та Apple Pay. А в Україні скарижлися на роботу мобільного оператора Kyivstar, Lifecell та Vodafon.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -313,6 +2266,23 @@
       "status": "new"
     },
     {
+      "id": "71107327895348ce",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-kostantinivska-front-doneccini-ta-lugansini-18-listopada-2026-roku",
+      "title": "Найгарячіша ділянка — Костянтинівська. Фронт Донеччини та Луганщини 18 листопада 2026 року",
+      "published_at": "2026-11-17T22:00:44+00:00",
+      "published_raw": "Wed, 18 Nov 2026 00:00:44 +0200",
+      "fetched_at": "2026-11-18T04:20:01+00:00",
+      "description": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео, коментарі з фронту",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "232502a0e5664129",
       "source_id": "zn",
       "source": "ZN.UA",
@@ -334,11 +2304,6 @@
   ],
   "errors": [
     {
-      "source": "Суспільне Новини",
-      "feed": "https://suspilne.media/rss/all.rss",
-      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
-    },
-    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
@@ -357,6 +2322,16 @@
       "source": "Еспресо: Біла Церква",
       "feed": "https://bc.espreso.tv/rss",
       "error": "https://bc.espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> "
+    },
+    {
+      "source": "Хутір.news",
+      "feed": "https://hutir.news/feed/",
+      "error": "feed parse error: <unknown>:94:2: mismatched tag"
+    },
+    {
+      "source": "Ямпіль.INFO",
+      "feed": "https://www.yampil.info/feed",
+      "error": "feed parse error: <unknown>:94:2: mismatched tag"
     }
   ],
   "runs": [
@@ -365,6 +2340,12 @@
       "fetched": 18,
       "added": 17,
       "errors": 5
+    },
+    {
+      "at": "2026-11-18T04:20:01+00:00",
+      "fetched": 118,
+      "added": 105,
+      "errors": 6
     }
   ]
 }
