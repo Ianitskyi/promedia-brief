@@ -52,6 +52,7 @@ audio{width:100%;margin:8px 0}.facts{display:flex;flex-wrap:wrap;gap:7px;margin-
 <div class="card" id="player"><p class="muted">Завантаження…</p></div>
 <div class="card" id="script"></div>
 </main>
+<promedia-global-footer></promedia-global-footer>
 <script>
 const KIND={intro:'Вступ',heading:'Перехід',story:'Сюжет',reminder:'Нагадування',outro:'Завершення'};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
