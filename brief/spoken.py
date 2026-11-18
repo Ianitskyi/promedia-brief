@@ -300,8 +300,9 @@ def build(date, use_llm=True, budget=None, provider_name=None):
     retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date)
 
     words = date_words(date)
-    outro_line = cfg.get("outro", "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF.") \
-        .format(date_words=words)
+    # Owner, 18.11.2026: the outro repeats the intro's "as of the morning", not just the date.
+    outro_line = cfg.get("outro", "Це був BRIEF станом на ранок {date_words_gen}. Посилання на першоджерела — на сайті BRIEF.") \
+        .format(date_words=words, date_words_gen=date_words_gen(date))
 
     def assemble(items, teaser):
         intro_line = cfg.get("intro", "Це BRIEF. Головне за {date_words}").format(

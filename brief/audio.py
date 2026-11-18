@@ -27,11 +27,25 @@ def duration(path):
     return float(json.loads(r.stdout)["format"]["duration"])
 
 
-def to_wav(src, dst, af=None):
+# Silence the voice adds before and after a sentence (ElevenLabs: up to ~1 s each side). Owner, 18.11.2026:
+# a story must sound as one block — a long gap inside it sounded like the story had ended. Each sentence
+# is trimmed to its speech (keeping TRIM_KEEP_S), so the only pauses are the ones render.py sets.
+TRIM_THRESHOLD_DB = -45
+TRIM_KEEP_S = 0.04
+_TRIM_EDGE = (f"silenceremove=start_periods=1:start_duration=0:start_threshold={TRIM_THRESHOLD_DB}dB"
+              f":start_silence={TRIM_KEEP_S}")
+TRIM = ",".join([_TRIM_EDGE, "areverse", _TRIM_EDGE, "areverse"])
+
+
+def to_wav(src, dst, af=None, trim=False):
     """Decode any input to a uniform mono PCM wav so parts can be concatenated safely.
-    af: optional ffmpeg audio filter (tempo/pitch adjustment of a voice)."""
-    _run(["-i", str(src), *(["-af", af] if af else []), "-ac", "1", "-ar", str(SAMPLE_RATE), "-c:a", "pcm_s16le",
-          str(dst)])
+    af: optional ffmpeg audio filter (tempo/pitch adjustment of a voice);
+    trim: cut the silence at the start and end of a synthesized sentence."""
+    filters = ",".join(x for x in (TRIM if trim else None, af) if x)
+    _run(["-i", str(src), *(["-af", filters] if filters else []), "-ac", "1", "-ar", str(SAMPLE_RATE),
+          "-c:a", "pcm_s16le", str(dst)])
+    if trim and pathlib.Path(dst).stat().st_size < SAMPLE_RATE * 2 * 0.05:  # nothing above the threshold
+        return to_wav(src, dst, af)  # a very quiet clip stays whole rather than vanish
     return dst
 
 
@@ -84,7 +98,8 @@ def master(src_wav, dst_mp3, normalize=True):
 
 
 def assemble(parts, dst_mp3, workdir):
-    """parts: list of ("file", path[, ffmpeg filter]) | ("pause", ms). Returns duration of the result."""
+    """parts: list of ("file", path[, ffmpeg filter]) | ("speech", path[, filter]) | ("pause", ms).
+    "speech" is a synthesized sentence: its own leading/trailing silence is cut. Returns the duration."""
     workdir = pathlib.Path(workdir)
     workdir.mkdir(parents=True, exist_ok=True)
     wavs = []
@@ -93,8 +108,8 @@ def assemble(parts, dst_mp3, workdir):
         out = workdir / f"part-{i:04d}.wav"
         if kind == "pause":
             silence(out, value)
-        elif kind == "file":
-            to_wav(value, out, part[2] if len(part) > 2 else None)
+        elif kind in ("file", "speech"):
+            to_wav(value, out, part[2] if len(part) > 2 else None, trim=kind == "speech")
         else:
             raise AudioError(f"unknown part kind {kind}")
         wavs.append(out)

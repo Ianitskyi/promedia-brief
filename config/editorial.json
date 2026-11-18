@@ -578,6 +578,6 @@
     "_cutoff_comment": "Owner, 2026-11-17: the edition is the news as of the morning — only items published before this Kyiv time on the edition day, whenever GitHub actually runs the job.",
     "cutoff": "08:00",
     "strikes_max_region_killed": 20,
-    "outro": "Це був BRIEF за {date_words}. Посилання на першоджерела — на сайті BRIEF."
+    "outro": "Це був BRIEF станом на ранок {date_words_gen}. Посилання на першоджерела — на сайті BRIEF."
   }
 }

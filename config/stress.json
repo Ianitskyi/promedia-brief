@@ -15,6 +15,15 @@
     {"word": "Кремлі", "stressed": "Кремлі+", "prefix": false},
     {"word": "Кремлю", "stressed": "Кремлю+", "prefix": false},
     {"word": "підліт", "stressed": "пі+дліт", "prefix": true},
-    {"word": "Підліт", "stressed": "Пі+дліт", "prefix": true}
+    {"word": "Підліт", "stressed": "Пі+дліт", "prefix": true},
+    {"word": "вузла", "stressed": "вузла+", "prefix": false},
+    {"word": "вузлу", "stressed": "вузлу+", "prefix": false},
+    {"word": "вузлом", "stressed": "вузло+м", "prefix": false},
+    {"word": "вузлі", "stressed": "вузлі+", "prefix": false},
+    {"word": "вузли", "stressed": "вузли+", "prefix": false},
+    {"word": "вузлів", "stressed": "вузлі+в", "prefix": false},
+    {"word": "вузлам", "stressed": "вузла+м", "prefix": false},
+    {"word": "вузлами", "stressed": "вузла+ми", "prefix": false},
+    {"word": "вузлах", "stressed": "вузла+х", "prefix": false}
   ]
 }
