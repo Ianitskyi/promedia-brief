@@ -12,9 +12,10 @@ ROOT = Path(__file__).resolve().parents[1]
 def test_pages_load_the_listening_tracker():
     for page in ("index.html", "demo.html"):
         assert "/brief-listen.js" in (ROOT / page).read_text(encoding="utf-8")
-    frame = (ROOT / "analytics-frame-v2.html").read_text(encoding="utf-8")
+    loader = (ROOT / "analytics.js").read_text(encoding="utf-8")
+    assert "news.promedia.report/js/promedia-analytics.js" in loader
     for name in ("brief_play", "brief_progress", "brief_complete"):
-        assert name in frame
+        assert name in loader
 
 
 @pytest.mark.skipif(not shutil.which("node"), reason="node is not installed")
