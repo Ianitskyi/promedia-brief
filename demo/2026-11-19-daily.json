@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-19",
+  "variant": "daily",
+  "audio": "demo/2026-11-19-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 101.93,
+  "asr_mean_cer": 0.03,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "450fdc2168db3238cb35e550c72c19e651b8ab4212ab5bcdd62923cf4c020db8",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-19-daily/intro.mp3",
+      "duration_sec": 9.86,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок дев'ятнадцятого листопада: нова атака на Кримський міст, рух мостами в Києві та удар по ринку на Харківщині."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Кримський міст",
+      "audio": "demo/2026-11-19-daily/story-1.mp3",
+      "duration_sec": 19.73,
+      "topics": [
+        "Війна та безпека"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "У ніч проти 19 листопада Кримський міст знову зазнав ракетної атаки.",
+        "У Керчі пролунали щонайменше 15 вибухів.",
+        "Окупаційний очільник Криму Сергій Аксьонов підтвердив атаку.",
+        "Рух поїздів залізничною частиною мосту зупинили.",
+        "За даними Міністерства транспорту Росії, постраждалих немає."
+      ],
+      "sources": [
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/krimskij-mist-znovu-pid-atakoju.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/19/novyna/bezpeka/vybuxy-spalaxy-ta-perekryttya-ruxu-vidomo-pro-novu-raketnu-ataku-krymskyj-mist"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/krimskiy-mist-ymovirna-raketna-ataka-ta-vibuhi-v-kerchi-vnochi-19-listopada-50660461.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/syly-oborony-ukrayiny-atakuvaly-zaliznychnu-chastynu-krymskogo-mostu-ruh-zupyneno-i573608"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/19/krymskyj-mist-znovu-atakuvaly-zaliznychnyj-rukh-perekryto"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/19/782158_krimskiy_mist_znovu_opinivsya.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/yak-vyglyadaye-avtomobilna-chastyna-krymskogo-mostu-bez-arky-ta-prolotu-i573556"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/sibiga-i-krimskiy-mist-mist-vasko-da-gama-znovu-naydovshiy-u-yevropi-50660442.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Мости Києва",
+      "audio": "demo/2026-11-19-daily/story-2.mp3",
+      "duration_sec": 20.76,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "kyiv"
+      ],
+      "text": [
+        "У Києві частково відновили рух Південним і Північним мостами, які пошкодили російські удари.",
+        "Про це повідомили в КМДА.",
+        "На окремих мостах діють обмеження і тимчасові схеми руху.",
+        "Київ розділяє Дніпро, і на лівому березі живе понад мільйон киян."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kyiv/1454495-u-kmda-rozpovili-ak-pracuut-stolicni-mosti"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kmda-rukh-mostamy/33901074.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/kyiv/pivdenniy-ta-pivnichniy-mist-u-kiyevi-vidkrili-dlya-transportu-yaki-obmezhennya-diyut-18-listopada-50660295.html"
+        },
+        {
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/kompaniia-z-dosvidom-rickovix-perevezen-na-xersonshhini-proponuje-zapustiti-sudna-miz-beregami-kijeva"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131864-kerchenskiy-mist-rosiyani-vidnovlyat-ne-ranishe-vesni-pitannya-skilki-todi-zalishitsya-mostiv-u-kiyevi-svitovi-media-pro-viynu-18-listopada"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1454744-eksgolova-agencii-z-vidnovlenna-vidpoviv-hto-mae-remontuvati-mosti-u-kievi-ta-ci-realno-pobuduvati-insi-perepravi"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по ринку",
+      "audio": "demo/2026-11-19-daily/story-3.mp3",
+      "duration_sec": 16.02,
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "regions": [
+        "kharkiv",
+        "vinnytsia"
+      ],
+      "text": [
+        "18 листопада росіяни обстріляли ринок у Златополі Харківської області.",
+        "За словами голови ОВА Олега Синєгубова, поранення дістали 11 людей, серед них 11-річний хлопчик.",
+        "На ринку загорілися торгівельні павільйони."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/18/8063392"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/rosiyany-vdaryly-reaktyvnymy-shakhedamy-po-tsentru-mista-na-kharkivshchyni-poraneni-11"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/18/781904_rosiyani_vdarili_rinku_zlatopoli.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/18/rosiiany-obstrilialy-rynok-u-zlatopoli-na-kharkivshchyni"
+        },
+        {
+          "name": "20 хвилин. Вінниця",
+          "url": "https://vn.20minut.ua/Podii/nichna-ataka-dronami-na-vinnichchini-poshkodzheno-agrarne-pidpriemstvo-12013037.html"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/18/naslidki-udaru-rf-po-rinku-u-zlatopoli-pokazali-ryatuvalniki-foto"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/18/dron-udariv-po-zhitlovomu-budinku-ta-poshti-v-chuguyevi-shho-vidomo"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/18/obstrili-harkivshhini-za-dobu-1-zagiblij-8-postrazhdalih-2"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Удари по НПЗ",
+      "audio": "demo/2026-11-19-daily/story-4.mp3",
+      "duration_sec": 22.83,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "Генштаб ЗСУ підтвердив ураження Ільського та Афіпського нафтопереробних заводів у Краснодарському краї Росії.",
+        "Удари завдали 17 листопада та в ніч на 18 листопада.",
+        "За даними Генштабу, на одному заводі уражено резервуари, на іншому — установку переробки нафти."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/krasnodarskiy-kray-atakuvali-droni-vinikli-pozhezhi-na-afipskomu-ta-ilskomu-npz-50660140.html"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/18/u-rosiyi-znovu-atakuvaly-dva-npz-spalahnuly-pozhezhi"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/274572-vybukhy-hrymily-kozni-piv-khvylyny-u-krasnodarskomu-krayi-imovirno-pid-udarom-opynylysia-odrazu-dva-npz-ilskyy-ta-afipskyy"
+        },
+        {
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/news/407937-u-krasnodarskomu-krayi-drony-atakuvaly-odrazu-dva-npz"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-droni-atakuvali-dva-rosiyski-npz-u-krasnodarskomu-krai-na-pidpriemstvakh-spalakhnuli-pozhezhi"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-world/4185852-u-rosii-droni-atakuvali-afipskij-ta-ilskij-naftopererobni-zavodi-zmi.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1454332-u-krasnodarskomu-krai-rf-droni-jmovirno-atakuvali-dva-naftopererobni-zavodi"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/u-krasnodarskomu-krayi-droni-atakuvali-dva-npz-na-pidpriiemstvakh-spalakhnuli-pozhiezhi"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/genshtab-pidtverdyv-urazhennya-ilskogo-i-afipskogo-npz"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/18/782018_sili_oboroni_urazili_odrazu_dva.html"
+        },
+        {
+          "name": "#ШОТАМ",
+          "url": "https://shotam.info/syly-oborony-za-odnu-nich-atakuvaly-odrazu-dva-velyki-npz-u-rosii-shcho-roztashovani-nayblyzhche-do-frontu"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4186031-genstab-pidtverdiv-urazenna-ilskogo-ta-afipskogo-npz.html"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/henshtab-pidtverdyv-urazhennia-dvokh-npz-na-kubani-shche-odnoho-mostu-i-trokh-litakiv-rf"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1238610.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-henshtab-npz-rosia/33901148.html"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312414-sili-oboroni-ukrayini-zavdali-udariv-po-dvoh-npz-u-krasnodarskomu-krayi-rf"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/18/naftovyi-dubl-na-kubani"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-genshtabi-povidomyly-pro-naftovyj-dubl-na-kubani-urazheno-ilskyj-i-afipskyj-npz-i573569"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-19-daily/outro.mp3",
+      "duration_sec": 6.53,
+      "text": [
+        "Це був BRIEF станом на ранок дев'ятнадцятого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
