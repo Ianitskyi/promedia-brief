@@ -1,9 +1,70 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-18T21:56:27+00:00",
+  "generated_at": "2026-11-19T03:26:48+00:00",
   "source_count": 124,
-  "item_count": 2747,
+  "item_count": 2768,
   "items": [
+    {
+      "id": "b66977b01bf78dfd",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/society/2026/11/18/782152_golovne_seredu_18_listopada_205.html",
+      "title": "Головне за середу, 18 листопада: 205 боєзіткнень, удар по Чугуєву, жалоба в Одесі",
+      "published_at": "2026-11-18T21:59:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 23:59:00 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Бойові дії на Донеччині, 205 бойових зіткнень, ворожі обстріли. Яким запам’ятається 1729-й день повномасштабної війни.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5bfe9019ccb8d116",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/krimskiy-mist-ulamki-perekrili-farvater-i-zupinili-ruh-rf-50660457.html",
+      "title": "Уламки Кримського мосту перекрили фарватер — Міноборони",
+      "published_at": "2026-11-18T21:58:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 23:58:00 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Уламки конструкції зруйнованої частини Кримського мосту перекрили фарватер.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8e783d37edd0f247",
+      "source_id": "novynarnia",
+      "source": "Новинарня",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://novynarnia.com/2026/11/18/iurchyshyn-znaiete-shcho-spilnoho-mizh-heneralom-dukoiu-ta",
+      "title": "Юрчишин: “Знаєте, що спільного між генералом Дукою та нацистською Німеччиною?”",
+      "published_at": "2026-11-18T21:57:01+00:00",
+      "published_raw": "Wed, 18 Nov 2026 21:57:01 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Ярослав Юрчишин народний депутат України від фракції “Голос”, голова Комітету Верховної Ради з питань свободи слова, виконавчий директор “Трансперенсі Інтернешнл Україна” в 2016-2018 рр., експерт у галузі адвокації та боротьби з корупцією (FB) Знаєте, що спільного між генералом Дукою та нацистською Німеччиною? Наші сьогоднішні події – це невивчені уроки історії. Гітлерівська Німеччина та СРСР ніколи […] The post Юрчишин: “Знаєте, що спільного між генералом Дукою та нацистською Німеччиною?” first appeared on Новинарня .",
+      "categories": [
+        "Соцмережі",
+        "Дука",
+        "корупція",
+        "ТСК",
+        "Юрчишин"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "7af6499616b6b983",
       "source_id": "map-875",
@@ -181,12 +242,32 @@
       "source_region": null,
       "url": "https://zn.ua/ukr/TECHNOLOGIES/kharari-shi-zbahatit-svit-ale-ne-obovjazkovo-ljudej.html",
       "title": "Харарі: ШІ збагатить світ, але не обов'язково людей",
-      "published_at": "2026-11-18T21:53:46+00:00",
-      "published_raw": "Wed, 18 Nov 2026 23:53:46 +0200",
+      "published_at": "2026-11-18T21:53:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 23:53:00 +0200",
       "fetched_at": "2026-11-18T21:56:27+00:00",
       "description": "Людство вже облаштувало планету лише для себе, і машини можуть повторити цей шлях.",
       "categories": [
         "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7a47632a34a0f959",
+      "source_id": "radiosvoboda",
+      "source": "Радіо Свобода",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://radiosvoboda.org/a/news-portuhaliya-mzs-f-16-postavky/33901332.html",
+      "title": "МЗС: Португалія не зможе передати Україні винищувачі F-16, але може допомогти з обладнанням",
+      "published_at": "2026-11-18T21:51:45+00:00",
+      "published_raw": "Wed, 18 Nov 2026 23:51:45 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Очільник португальського МЗС під час свого вже третього візиту до Києва наголосив, що Португалія завжди була на боці України і засуджує дії Росії",
+      "categories": [
+        "Новини | Події",
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -212,6 +293,25 @@
       "status": "new"
     },
     {
+      "id": "39c5ce5d49ca1dcd",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4186187-kim-mi-zobovazani-cuti-veteraniv-ta-sprijmati-pravdu-akou-vona-e.html",
+      "title": "Кім: Ми зобов’язані чути ветеранів та сприймати правду, якою б незручною вона не була",
+      "published_at": "2026-11-18T21:48:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 23:48:00 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Міністр у справах ветеранів Віталій Кім закликав до відкритої розмови про проблеми, з якими можуть стикнутися захисники після повернення з війни.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f3200b6e907f2a2d",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -222,13 +322,13 @@
       "published_at": "2026-11-18T21:47:27+00:00",
       "published_raw": "Wed, 18 Nov 2026 21:47:27 +0000",
       "fetched_at": "2026-11-18T21:56:27+00:00",
-      "description": "У ніч на 17 листопада 2026 року Сили оборони України (головно – ЗСУ й СБУ) провели масштабну комбіновану операцію з ураження Керченського мосту, в результаті якої обвалилася арка автомобільної частини переправи разом з усім прольотом дорожнього полотна. За офіційними даними, для масованого нальоту залучили щонайменше 11 типів ракет і безпілотників, серед яких – важкі крилаті […] The post “Летіло все!” Чим Сили оборони вдарили по Керченському мосту: 11 видів зброї в одній спецоперації first appeared on Новинарня .",
+      "description": "Уночі проти 17 листопада 2026 року Сили оборони України (головно – ЗСУ й СБУ) провели масштабну комбіновану операцію з ураження Керченського мосту, в результаті якої обвалилася арка автомобільної частини переправи разом з усім прольотом дорожнього полотна. За офіційними даними, для масованого нальоту залучили щонайменше 11 типів ракет і безпілотників, серед яких – важкі крилаті […] The post “Летіло все!” Чим Сили оборони вдарили по Керченському мосту: 11 видів зброї в одній спецоперації first appeared on Новинарня .",
       "categories": [
         "Війна",
         "Публікації",
-        "Україна",
         "don't miss",
-        "атака"
+        "атака",
+        "БПЛА"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -516,6 +616,23 @@
       "status": "new"
     },
     {
+      "id": "46d494e8d92e217d",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/news/131864-kerchenskiy-mist-rosiyani-vidnovlyat-ne-ranishe-vesni-pitannya-skilki-todi-zalishitsya-mostiv-u-kiyevi-svitovi-media-pro-viynu-18-listopada",
+      "title": "Керченський міст росіяни відновлять не раніше весни — питання, скільки тоді залишиться мостів у Києві. Світові медіа про війну 18 листопада",
+      "published_at": "2026-11-18T21:23:23+00:00",
+      "published_raw": "Wed, 18 Nov 26 23:23:23 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "810c5de7a7d84c14",
       "source_id": "map-960",
       "source": "SPEKA",
@@ -758,7 +875,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://nv.ua/ukr/ukraine/politics/vitaliy-kim-interv-yu-posadovec-vidpoviv-na-kritiku-pislya-rezonansnih-zayav-50660451.html",
-      "title": "«Хочу, щоб ми були готові насправді». Кім відреагував на критику свого резонансного інтервʼю про ветеранів та на вимоги відставки",
+      "title": "«Хочу, щоб ми були готові насправді». Кім відреагував на критику свого резонансного інтервʼю про ветеранів та вимоги відставки",
       "published_at": "2026-11-18T21:14:00+00:00",
       "published_raw": "Wed, 18 Nov 2026 23:14:00 +0200",
       "fetched_at": "2026-11-18T21:56:27+00:00",
@@ -1088,6 +1205,29 @@
       "status": "new"
     },
     {
+      "id": "d05a3a5f21cc7304",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/vorogh-zbilshiv-intiensivnist-zastovuvannia-kabiv-po-frontakh-i-tilakh-doniechchini",
+      "title": "Ворог в остання 10 днів збільшив інтенсивність застовування КАБів по фронтах і тилах Донеччини",
+      "published_at": "2026-11-18T21:00:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Протягом минулого тижня супротивник посилив застосуванн",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dcf6c8d86fd6b7b3",
       "source_id": "map-660",
       "source": "Кременчуцький Телеграф",
@@ -1233,7 +1373,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://times.kharkiv.ua/2026/11/18/z-pid-zavaliv-u-chuguyevi-ryatuvalniki-deblokuvali-zhivu-litnyu-zhinku-foto-video",
-      "title": "З-під завалів у Чугуєві рятувальники деблокували живу літню жінку (фото, відео)",
+      "title": "Із завалів у Чугуєві рятувальники деблокували живу літню жінку (фото, відео)",
       "published_at": "2026-11-18T20:55:35+00:00",
       "published_raw": "Wed, 18 Nov 2026 22:55:35 +0200",
       "fetched_at": "2026-11-18T21:56:27+00:00",
@@ -1815,7 +1955,7 @@
       "published_at": "2026-11-18T20:31:00+00:00",
       "published_raw": "Wed, 18 Nov 2026 20:31:00 GMT",
       "fetched_at": "2026-11-18T21:56:27+00:00",
-      "description": "Як повідомляє Східний Варіант, про це розповів військовосл",
+      "description": "Тактика інфільтрації малими групами окупантів на фронтах",
       "categories": [
         "Війна з РФ",
         "Події",
@@ -2285,6 +2425,29 @@
       "status": "new"
     },
     {
+      "id": "a979b1c0f69c217d",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/18/kak-ustroytsya-vodytelem-v-polshe-poshagovyj-plan-ot-dokumentov-do-pervogo-rejsa",
+      "title": "Как устроиться водителем в Польше: пошаговый план от документов до первого рейса",
+      "published_at": "2026-11-18T20:15:06+00:00",
+      "published_raw": "Wed, 18 Nov 2026 20:15:06 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Водители остаются одной из самых востребованных профессий на польском рынке труда. Транспортные и логистические компании ищут сотрудников на международные и внутренние перевозки, на развоз по городу и на работу в распределительных центрах. Для украинцев это понятный вариант: опыт вождения переносится напрямую, а языковой барьер на старте ниже, чем во многих других профессиях. Но чтобы сесть […] The post Как устроиться водителем в Польше: пошаговый план от документов до первого рейса appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Європа",
+        "Польща",
+        "пошук роботи",
+        "PROMOTED"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b5994ae567ac497c",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -2419,7 +2582,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://lb.ua/society/2026/11/18/782140_rosiyski_viyska_atakuvali.html",
-      "title": "Російські війська атакували Запоріжжя: є постраждала",
+      "title": "Російські війська атакували Запоріжжя: є постраждалі (оновлено)",
       "published_at": "2026-11-18T20:10:00+00:00",
       "published_raw": "Wed, 18 Nov 2026 22:10:00 +0200",
       "fetched_at": "2026-11-18T21:56:27+00:00",
@@ -3294,6 +3457,29 @@
       "status": "new"
     },
     {
+      "id": "81680b13ff8adf6e",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/18/milyardna-otsinka-do-listyngu-zvidky-berutsya-tsyfry-novyh-kryptoproyektiv",
+      "title": "Мільярдна оцінка до лістингу: звідки беруться цифри нових криптопроєктів",
+      "published_at": "2026-11-18T19:45:21+00:00",
+      "published_raw": "Wed, 18 Nov 2026 19:45:21 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "У повідомленні про запуск токена може фігурувати оцінка проєкту в мільярд доларів. При цьому на відкритому ринку ще немає жодної угоди з цим активом. Цифра виникає з розрахунку, а не з біржової історії. Такі оцінки трапляються під час первинного розподілу активів, зокрема через лаунчпад. Платформа організовує доступ до токенсейлу за встановленими умовами, а початок вільної […] The post Мільярдна оцінка до лістингу: звідки беруться цифри нових криптопроєктів appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Економіка",
+        "Криптовалюта",
+        "Технології",
+        "PROMOTED"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "147a463620cdb843",
       "source_id": "map-1030",
       "source": "Dnipro.media",
@@ -3306,6 +3492,29 @@
       "fetched_at": "2026-11-18T21:56:27+00:00",
       "description": "Для споживачів ДТЕК Дніпровських електромереж на Дніпропетровщині 19 листопада застосовуватимуть графіки погодинних відключень електроенергії. Про це повідомили у ДТЕК. Увага! 18 листопада о 23:35 ДТЕК оновив графік відключень на 19 листопада: актуальний графік тут. Перевірте свою чергу відключення світла в Дніпрі за адресою. Відключення застосовуватимуть за таким графіком: Черга 1.1: 00:00–02:30, 09:00–13:00, 19:30–22:00. Черга 1.2: 00:00–02:30, […] The post Коли вимикатимуть світло на Дніпропетровщині 19 листопада: графік ДТЕК appeared first on Dnipro.media .",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "de254c1fa7fb08ed",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/18/pochemu-ystoryya-kryptokoshelka-ymeet-znachenye-dazhe-posle-obmena-tokenov",
+      "title": "Почему история криптокошелька имеет значение даже после обмена токенов",
+      "published_at": "2026-11-18T19:45:07+00:00",
+      "published_raw": "Wed, 18 Nov 2026 19:45:07 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Обмен одной криптовалюты на другую меняет состав цифровых активов на балансе, но не обязательно устраняет сведения об их предыдущем движении. Например, пользователь получил USDT, затем конвертировал их в BTC. В результате на балансе появился другой актив, однако история первоначального поступления USDT продолжает существовать в блокчейне. Поэтому aml проверка кошелька онлайн связана не только с текущим […] The post Почему история криптокошелька имеет значение даже после обмена токенов appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Економіка",
+        "Криптовалюта",
+        "Технології",
+        "PROMOTED"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -3393,6 +3602,25 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "f28b57a91a312b01",
+      "source_id": "map-1179",
+      "source": "ЗMI.ck.ua",
+      "geography": "regional",
+      "source_region": "cherkasy",
+      "url": "https://zmi.ck.ua/oblast/yak-vimikatimut-svtlo-na-cherkaschin-19-listopada.html",
+      "title": "Як вимикатимуть світло на Черкащині 19 листопада",
+      "published_at": "2026-11-18T19:45:00+00:00",
+      "published_raw": "Wed, 18 Nov 2026 21:45:00 +0200",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Через постійні ворожі обстріли та наслідки попередніх ракетно-дронових атак за розпорядженням НЕК «Укренерго» 19 листопада з 00:00 до 24:00 у Черкаській області будуть застосовані графіки погодинних відключень (ГПВ). Про це повідомляє пресслужба АТ \"Черкасиобленерго\". Зверніть увагу, що для частини споживачів Уманського району діятімуть окремі тимчасові індивідуальні графіки. Години відсутності електропостачання по області...",
+      "categories": [
+        "Политика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -3903,6 +4131,28 @@
       "description": "У п'ятницю, 20 листопада, розпочинається 13 й тур чемпіонату України з футболу серед команд Прем'єр-ліги.",
       "categories": [
         "Спорт"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2474e42a46d2bf97",
+      "source_id": "rubryka",
+      "source": "Рубрика",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://rubryka.com/2026/11/18/kak-vybrat-zaryadku-dlya-akkumulyatora-osnovnye-kryteryy",
+      "title": "Как выбрать зарядку для аккумулятора: основные критерии",
+      "published_at": "2026-11-18T19:30:39+00:00",
+      "published_raw": "Wed, 18 Nov 2026 19:30:39 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Устройства для зарядки аккумуляторов AA и AAA отличаются по ряду параметров. Перед покупкой важно оценить количество слотов, поддерживаемую химию и контроль заряда. Правильно подобранная зарядка для аккумулятора помогает использовать перезаряжаемые элементы в фонарях, игрушках и другой технике с контролем процесса. Разберемся, на какие параметры стоит обращать внимание перед покупкой. Почему важно учитывать тип аккумулятора Ni-MH […] The post Как выбрать зарядку для аккумулятора: основные критерии appeared first on Рубрика .",
+      "categories": [
+        "Новини",
+        "Суспільство",
+        "техніка",
+        "PROMOTED"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -5718,6 +5968,25 @@
       "status": "new"
     },
     {
+      "id": "1c6bec7191ed40f3",
+      "source_id": "map-1176",
+      "source": "Репортер",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://report.if.ua/viyna/prykarpattya-vtratylo-zahysnykiv-oleksiya-alohina-vasylya-zastavnogo-oleksiya-hymycha-romana-slochaka",
+      "title": "Прикарпаття втратило захисників – Олексія Альохіна, Василя Заставного, Олексія Химича, Романа Слочака, Максима Усова, Олександра Стоногу",
+      "published_at": "2026-11-18T18:48:20+00:00",
+      "published_raw": "Wed, 18 Nov 2026 18:48:20 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "На війні загинули Василь Заставний з Букачівської громади, Олексій Химич з Калуської громади, Роман Слочак з Коломийської громади. Також стало відомо про смерть Олексія Альохіна з Франківської громади The post Прикарпаття втратило захисників – Олексія Альохіна, Василя Заставного, Олексія Химича, Романа Слочака, Максима Усова, Олександра Стоногу appeared first on \"Репортер\" .",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6d5da0ee4ea516a7",
       "source_id": "map-1006",
       "source": "ЖАР.INFO",
@@ -7347,7 +7616,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://babel.ua/news/131867-vitik-dokumentiv-deutsche-bank-kompaniji-trampa-provodili-pidozrili-tranzakciji-z-firmami-yaki-figuruvali-u-shemah-vidmivannya-groshey",
-      "title": "Витік документів Deutsche Bank: Компанії Трампа проводили транзакції з фірмами, які фігурували у схемах відмивання грошей",
+      "title": "Витік документів Deutsche Bank: Компанії Трампа проводили транзакції з фірмами, які фігурували у схемах відмивання грошей у Росії",
       "published_at": "2026-11-18T18:08:03+00:00",
       "published_raw": "Wed, 18 Nov 26 20:08:03 +0200",
       "fetched_at": "2026-11-18T21:56:27+00:00",
@@ -7905,6 +8174,25 @@
         "екологія рівненщини",
         "незаконна деревина",
         "Рокитнівська селищна рада"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10bb375ae8b59531",
+      "source_id": "map-1176",
+      "source": "Репортер",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://report.if.ua/afisha/podyvytysya-na-vlasni-tragediyi-ta-peremogy-pid-inshym-kutom-lyuda-bielousova-u-subotu-prezentuye-frankivczyam-albom-retrospektyva",
+      "title": "«Подивитися на власні трагедії та перемоги під іншим кутом»: Lyuda Bielousova у суботу презентує франківцям альбом «РЕТРОспектива»",
+      "published_at": "2026-11-18T17:59:58+00:00",
+      "published_raw": "Wed, 18 Nov 2026 17:59:58 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "У суботу, 21 листопада, в івано-франківському «Арена-центрі» відбудеться великий концерт співачки Lyuda Bielousova (екс-Lely45) із презентацією нового альбому «РЕТРОспектива» The post «Подивитися на власні трагедії та перемоги під іншим кутом»: Lyuda Bielousova у суботу презентує франківцям альбом «РЕТРОспектива» appeared first on \"Репортер\" .",
+      "categories": [
+        "Афіша"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -9900,6 +10188,25 @@
       "status": "new"
     },
     {
+      "id": "dfa77e9b8d1ce8ee",
+      "source_id": "map-1176",
+      "source": "Репортер",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://report.if.ua/statti/swem-yak-frankivcziv-vchat-ne-gubytysya-v-nebezpeczi",
+      "title": "SWEM: як франківців вчать не губитися в небезпеці",
+      "published_at": "2026-11-18T17:14:51+00:00",
+      "published_raw": "Wed, 18 Nov 2026 17:14:51 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Назва SWEM є англомовною абревіатурою від «Стале управління надзвичайними ситуаціями, пов'язаними з погодними умовами» (ROUA00430). Головним бенефіціаром виступає виконавчий комітет Івано-Франківської міської ради, а партнером – муніципалітет Бая-Маре The post SWEM: як франківців вчать не губитися в небезпеці appeared first on \"Репортер\" .",
+      "categories": [
+        "Статті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "73b644d2b6ace762",
       "source_id": "lb",
       "source": "LB.ua",
@@ -10359,23 +10666,6 @@
       "published_raw": "Wed, 18 Nov 2026 17:02:31 +0000",
       "fetched_at": "2026-11-18T21:56:27+00:00",
       "description": "У середу, 19 листопада, у Дніпрі очікується хмарна погода з проясненнями й дощ. The post Погода в Дніпрі на четвер, 19 листопада: сильний дощ, до +12° appeared first on Dnipro.media .",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "a6ab7639ba1b741a",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/vinnytsia/1454461-gotuvali-u-xii-stolitti-na-vinniccini-rodina-vidrodzue-davnij-ukrainskij-napij-zbiten",
-      "title": "Готували у XII столітті: на Вінниччині родина відроджує давній український напій «збитень»",
-      "published_at": "2026-11-18T17:01:08+00:00",
-      "published_raw": "Wed, 18 Nov 2026 19:01:08 +0200",
-      "fetched_at": "2026-11-18T21:56:27+00:00",
-      "description": "Давній український напій «збитень», який готували у XII столітті, відроджує родина Гродецьких у садибі в Гавришівці на Вінниччині. Рецепт питва розповіли Суспільному",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -10909,23 +11199,6 @@
       "categories": [
         "Новини"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "10073c0bca6825bc",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/vinnytsia/1454690-u-vinnici-na-den-obmezat-ruh-transportu-na-perehresti-vulic-angela-ta-varsavskoi",
-      "title": "У Вінниці на день обмежать рух транспорту на перехресті вулиць Янгеля та Варшавської",
-      "published_at": "2026-11-18T16:46:52+00:00",
-      "published_raw": "Wed, 18 Nov 2026 18:46:52 +0200",
-      "fetched_at": "2026-11-18T21:56:27+00:00",
-      "description": "У Вінниці 19 листопада з 08:00 до 20:00 обмежать рух на перехресті вулиць Академіка Янгеля та Варшавської через ремонт тепломережі. Водіям пропонують об'їзд через вулицю Стеценка. Тролейбуси курсуватимуть без змін",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11737,6 +12010,25 @@
         "Статті",
         "Новини",
         "Новини Костянтинівської громади"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9518724f74ef4527",
+      "source_id": "map-1176",
+      "source": "Репортер",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://report.if.ua/socium/na-prykarpattya-dostavyly-vakczynu-vid-grypu-dlya-medykiv-2",
+      "title": "На Прикарпаття доставили вакцину від грипу для медиків",
+      "published_at": "2026-11-18T16:31:43+00:00",
+      "published_raw": "Wed, 18 Nov 2026 16:31:43 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "На Прикарпаття доставили вакцину проти грипу Flucelvax, призначену для медичних працівників. Першу партію 18 листопада почали розвозити до медичних закладів області The post На Прикарпаття доставили вакцину від грипу для медиків appeared first on \"Репортер\" .",
+      "categories": [
+        "Соціум"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12611,6 +12903,29 @@
       "status": "new"
     },
     {
+      "id": "03318aa35affdfce",
+      "source_id": "map-1202",
+      "source": "Антикризовий медіа-центр",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://acmc.ua/sportsmen-z-donechchyny-zdobuv-chotyry-zoloti-medali-na-chempionati-svitu-z-gyrovogo-sportu",
+      "title": "Спортсмен з Донеччини здобув чотири золоті медалі на чемпіонаті світу з гирьового спорту",
+      "published_at": "2026-11-18T16:13:31+00:00",
+      "published_raw": "Wed, 18 Nov 2026 16:13:31 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Спортсмен із Покровської громади Леон Білицький виборов чотири золоті та одну бронзову медалі на чемпіонаті світу з гирьового спорту в Ризі. У змаганнях взяли участь спортсмени з 31 країни Запис Спортсмен з Донеччини здобув чотири золоті медалі на чемпіонаті світу з гирьового спорту спершу з'явиться на Антикризовий медіа-центр .",
+      "categories": [
+        "Актуальне",
+        "Новини",
+        "Спорт",
+        "Донецька область",
+        "перемога"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "dd6c91ce4a9cbb80",
       "source_id": "map-694",
       "source": "С4",
@@ -13041,7 +13356,7 @@
       "published_at": "2026-11-18T16:05:32+00:00",
       "published_raw": "Wed, 18 Nov 2026 18:05:32 +0200",
       "fetched_at": "2026-11-18T07:03:42+00:00",
-      "description": "Щойно черкаський бізнес пристосувався працювати в умовах відключень електроенергії, як перед підприємцями постало нове завдання. Тепер недостатньо мати генератор і запас пального: потрібно подбати, де зможуть сховатися працівники та відвідувачі, облаштувати укриття або безпечний простір і виконати інші вимоги уряду. За новими правилами, під час жовтого рівня загрози підприємства можуть продовжувати роботу лише за визначених умов. Якщо їх немає, заклади мають зупиняти обслуговування на час тривоги. Перехідний період для бізнесу, який поки не має укриття, завершується 4 грудня 2026 року.",
+      "description": "Нові правила роботи бізнесу під час повітряної тривоги можуть змінити умови діяльності підприємств у Черкасах. Тепер недостатньо мати генератор і запас пального: підприємцям потрібно подбати, де зможуть сховатися працівники та відвідувачі, облаштувати укриття або безпечний простір і виконати інші вимоги уряду. За новими правилами, під час жовтого рівня загрози підприємства можуть продовжувати роботу лише за визначених умов. Якщо їх немає, заклади мають зупиняти обслуговування на час тривоги. Перехідний період для бізнесу, який поки не має укриття, завершується 4 грудня 2026 року.",
       "categories": [
         "Стрічка новин"
       ],
@@ -14007,6 +14322,29 @@
         "Новини",
         "Одеса",
         "Одеська область"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1bf48e6b85e62fd8",
+      "source_id": "map-1202",
+      "source": "Антикризовий медіа-центр",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://acmc.ua/do-90-muzejnoyi-kolekcziyi-mariupolya-poshkodyly-abo-vtratyly-vidkryly-vystavku-pro-znyshchennya-kultury",
+      "title": "До 90% музейної колекції Маріуполя пошкодили або втратили: відкрили виставку про знищення культури",
+      "published_at": "2026-11-18T15:45:47+00:00",
+      "published_raw": "Wed, 18 Nov 2026 15:45:47 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "До 2022 року фонди Маріупольського краєзнавчого музею налічували близько 60 тисяч предметів. Після російського вторгнення близько 90% колекції пошкодили або втратили. У Києві відкрили документально-мистецьку виставку про культурні втрати українських міст Запис До 90% музейної колекції Маріуполя пошкодили або втратили: відкрили виставку про знищення культури спершу з'явиться на Антикризовий медіа-центр .",
+      "categories": [
+        "Актуальне",
+        "Війна",
+        "Культура",
+        "Новини",
+        "культура"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15007,6 +15345,25 @@
       "status": "new"
     },
     {
+      "id": "bcccfbcfd92dc4e6",
+      "source_id": "map-1176",
+      "source": "Репортер",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://report.if.ua/lyudy/vid-nashoyi-roboty-zalezhyt-bojovyj-vylit-u-prykarpatskij-114-brygadi-taktychnoyi-aviacziyi-rozpovily-pro-sluzhbu-serzhanta-burogo",
+      "title": "«Від нашої роботи залежить бойовий виліт». У прикарпатській 114 бригаді тактичної авіації розповіли про службу сержанта «Бурого»",
+      "published_at": "2026-11-18T15:27:41+00:00",
+      "published_raw": "Wed, 18 Nov 2026 15:27:41 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "Зараз він відповідає за організацію роботи та злагодженість особового складу 114 бригади The post «Від нашої роботи залежить бойовий виліт». У прикарпатській 114 бригаді тактичної авіації розповіли про службу сержанта «Бурого» appeared first on \"Репортер\" .",
+      "categories": [
+        "Люди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a762ec8879c72de8",
       "source_id": "map-588",
       "source": "Накипіло",
@@ -15909,6 +16266,29 @@
       "status": "new"
     },
     {
+      "id": "9c099603cf01f869",
+      "source_id": "map-1202",
+      "source": "Антикризовий медіа-центр",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://acmc.ua/povernennya-z-okupacziyi-stalo-vidomo-skilky-ditej-znovu-v-ukrayini",
+      "title": "Повернення з окупації: стало відомо скільки дітей знову в Україні",
+      "published_at": "2026-11-18T15:09:58+00:00",
+      "published_raw": "Wed, 18 Nov 2026 15:09:58 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "У жовтні в Україну вдалося повернути 118 українських дітей, яких росіяни незаконно вивезли або які залишалися на тимчасово окупованих територіях Запис Повернення з окупації: стало відомо скільки дітей знову в Україні спершу з'явиться на Антикризовий медіа-центр .",
+      "categories": [
+        "Актуальне",
+        "Війна",
+        "Новини",
+        "Суспільство",
+        "діти"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6d77905a2833d217",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -16260,6 +16640,23 @@
         "Новини",
         "США"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a6ab7639ba1b741a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1454461-gotuvali-u-xii-stolitti-na-vinniccini-rodina-vidrodzue-davnij-ukrainskij-napij-zbiten",
+      "title": "Готували у XII столітті: на Вінниччині родина відроджує давній український напій «збитень»",
+      "published_at": "2026-11-18T15:01:08+00:00",
+      "published_raw": "Wed, 18 Nov 2026 17:01:08 +0200",
+      "fetched_at": "2026-11-18T21:56:27+00:00",
+      "description": "Давній український напій «збитень», який готували у XII столітті, відроджує родина Гродецьких у садибі в Гавришівці на Вінниччині. Рецепт питва розповіли Суспільному",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -17166,6 +17563,23 @@
       "categories": [
         "CityLife"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "10073c0bca6825bc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1454690-u-vinnici-na-den-obmezat-ruh-transportu-na-perehresti-vulic-angela-ta-varsavskoi",
+      "title": "У Вінниці на день обмежать рух транспорту на перехресті вулиць Янгеля та Варшавської",
+      "published_at": "2026-11-18T14:46:52+00:00",
+      "published_raw": "Wed, 18 Nov 2026 16:46:52 +0200",
+      "fetched_at": "2026-11-18T21:56:27+00:00",
+      "description": "У Вінниці 19 листопада з 08:00 до 20:00 обмежать рух на перехресті вулиць Академіка Янгеля та Варшавської через ремонт тепломережі. Водіям пропонують об'їзд через вулицю Стеценка. Тролейбуси курсуватимуть без змін",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19433,6 +19847,29 @@
       "fetched_at": "2026-11-18T21:56:27+00:00",
       "description": "Родичі щомісяця платили від 30 до 60 тисяч гривень за перебування близьких у реабілітаційному центрі та допомогу в подоланні залежності. Однак замість лікування близькі опинялися в ізоляції, а їхню працю використовували для забезпечення потреб самого закладу.",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "543a98caaeb9c4a4",
+      "source_id": "map-1202",
+      "source": "Антикризовий медіа-центр",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://acmc.ua/u-lugansku-okupanty-planuyut-vidkryty-kadetskyj-korpus-dlya-donok-rosijskyh-vijskovyh",
+      "title": "У Луганську окупанти планують відкрити кадетський корпус для доньок російських військових",
+      "published_at": "2026-11-18T14:03:22+00:00",
+      "published_raw": "Wed, 18 Nov 2026 14:03:22 +0000",
+      "fetched_at": "2026-11-19T03:26:48+00:00",
+      "description": "У тимчасово окупованому Луганську росіяни збираються побудувати кадетський корпус-пансіон для дівчат. Навчальний заклад прийматиме доньок військовослужбовців армії рф Запис У Луганську окупанти планують відкрити кадетський корпус для доньок російських військових спершу з'явиться на Антикризовий медіа-центр .",
+      "categories": [
+        "Актуальне",
+        "Війна",
+        "Новини",
+        "Луганська область",
+        "ТОТ"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -22139,23 +22576,6 @@
       "categories": [
         "КОЛОМИЯ"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "400badb45a3c4085",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/vinnytsia/1454573-peremig-supernikiv-iz-troh-krain-13-ricnij-sportsmen-iz-vinniccini-zdobuv-zoloto-cempionatu-svitu",
-      "title": "Переміг суперників із трьох країн: 13-річний спортсмен із Вінниччини здобув золото чемпіонату світу",
-      "published_at": "2026-11-18T13:30:39+00:00",
-      "published_raw": "Wed, 18 Nov 2026 15:30:39 +0200",
-      "fetched_at": "2026-11-18T13:57:49+00:00",
-      "description": "13-річний Назар Сідлецький втретє поспіль став чемпіоном світу з таїландського боксу Muay Thai. На змаганнях у Греції він переміг суперників із Білорусі, Росії та Польщі й здобув золоту медаль у ваговій категорії до 36 кг",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -32182,6 +32602,23 @@
         "Куп'янський район",
         "Харківська область"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "400badb45a3c4085",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/vinnytsia/1454573-peremig-supernikiv-iz-troh-krain-13-ricnij-sportsmen-iz-vinniccini-zdobuv-zoloto-cempionatu-svitu",
+      "title": "Переміг суперників із трьох країн: 13-річний спортсмен із Вінниччини здобув золото чемпіонату світу",
+      "published_at": "2026-11-18T11:30:39+00:00",
+      "published_raw": "Wed, 18 Nov 2026 13:30:39 +0200",
+      "fetched_at": "2026-11-18T13:57:49+00:00",
+      "description": "13-річний Назар Сідлецький втретє поспіль став чемпіоном світу з таїландського боксу Muay Thai. На змаганнях у Греції він переміг суперників із Білорусі, Росії та Польщі й здобув золоту медаль у ваговій категорії до 36 кг",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -53112,6 +53549,12 @@
       "fetched": 1801,
       "added": 1039,
       "errors": 4
+    },
+    {
+      "at": "2026-11-19T03:26:48+00:00",
+      "fetched": 1709,
+      "added": 21,
+      "errors": 5
     }
   ]
 }
