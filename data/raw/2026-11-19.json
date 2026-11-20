@@ -1,8 +1,8 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-20T05:58:17+00:00",
-  "source_count": 122,
-  "item_count": 2561,
+  "generated_at": "2026-11-20T11:43:08+00:00",
+  "source_count": 127,
+  "item_count": 2606,
   "items": [
     {
       "id": "284a769f7e107837",
@@ -1154,6 +1154,23 @@
       "status": "new"
     },
     {
+      "id": "8ebe507e5c2c9ac7",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/news-zelenskiy-pribuv-do-berlina-na-zustrich-koalitsii-okhochikh",
+      "title": "Вступ у НАТО, мирні переговори, військова підтримка й гарантії безпеки для України: підсумки засідання Коаліції охочих у Берліні",
+      "published_at": "2026-11-19T21:01:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 23:01:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про підсумки й основні теми повідомили на пресконференції після засідання Коаліції охочих. Також за результатами зустрічі її учасники оприлюднили спільну заяву. Спільна заява Коаліції охочих: підтримка України та посилення тиску на Росію Лідери засудили російські ракетні й дронові атаки на цивільне населення та інфраструктуру України, а також гібридні операції Москви в Європі, зокрема диверсії, інформаційні спецоперації та кібератаки. У заяві наголошено, що союзники продовжать надавати Україні політичну, дипломатичну, військову, фінансову та цивільну допомогу.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "273dc3212ef52142",
       "source_id": "map-696",
       "source": "Молодий буковинець",
@@ -1446,11 +1463,28 @@
       "geography": "national",
       "source_region": null,
       "url": "https://slovoidilo.ua/2026/11/19/pidsumky/si-czzinpin-tramp-ta-putin-provely-zustrich-a-syly-oborony-vdaryly-po-krymskomu-mostu.-holovne-den",
-      "title": "Сі Цзіньпін, Трамп та путін провели зустріч, а Сили оборони вдарили по Кримському мосту. Головне за день",
+      "title": "Сі Цзіньпін, Трамп та путін провели зустріч, а Сили оборони знову вдарили по Кримському мосту. Головне за день",
       "published_at": "2026-11-19T20:51:41+00:00",
       "published_raw": "Thu, 19 Nov 2026 22:51:41 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "Головні новини четверга, 19 листопада, – відбулися тристоронні переговори між представниками Китаю, США та росії, а Сили оборони України завдали нового удару по Кримському мосту ракетами «Нептун».",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "eb488485ff1f0cff",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-krim-tse-ukraina-a-zi-svoim-robimo-vse-shcho-zakhochemo-zelenskiy-u-berlini-prokomentuvav-udar-po-kerchenskomu-mostu",
+      "title": "Крим – це Україна, а зі своїм робимо все, що захочемо: Зеленський у Берліні прокоментував удар по Керченському мосту",
+      "published_at": "2026-11-19T20:49:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 22:49:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це президент України сказав після засідання Коаліції охочих у Берліні, повідомляє Укрінформ. За його словами атаки були справедливими. оскільки росіяни вже не перший рік завдають ударів по мостах на підконтрольній Україні території. \"Вони били по наших мостах не перший раз і не перший рік. Тому ми відповідаємо. Я вважаю, що це справедливо. А якщо чесно: Крим – це ж Україна? А все що на території України – це українське? А ми зі своїм робимо все, що захочемо\", — наголосив Зеленський.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -1532,6 +1566,23 @@
       "categories": [
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a25699f684408756",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/zelenskiy_anonsuvav_mirni_peremovini_za_uchasti_ukrayini_ssha_rosiyi_ta_yevropi_n1650582",
+      "title": "Зеленський анонсував мирні перемовини за участі України, США, Росії та Європи",
+      "published_at": "2026-11-19T20:44:44+00:00",
+      "published_raw": "2026-11-19T20:44:44Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Зеленський анонсував мирні перемовини за участі України, США, Росії та Європи]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1938,6 +1989,23 @@
       "status": "new"
     },
     {
+      "id": "91b969e26771b4c0",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-u-voroga-situatsiya-blizka-do-katastrofi-seleznov-pro-naslidki-dlya-logistiki-rf-pislya-udariv-po-kerchenskomu-mostu",
+      "title": "У ворога ситуація близька до катастрофи: Селезньов про наслідки для логістики РФ після ударів по Керченському мосту",
+      "published_at": "2026-11-19T20:28:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 22:28:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це в етері Еспресо розповів військовий експерт, полковник ЗСУ, речник Генерального штабу ЗСУ у 2014–2017 роках Владислав Селезньов. Як зазначив експерт, зруйнована автомобільна арка Керченського мосту впала у воду та перекрила Керч-Єнікальський канал. Через невеликі глибини Азовського моря цей канал є єдиним маршрутом для проходження великих суден із відповідною осадкою. Тепер уламки бетонних і металевих конструкцій перешкоджають судноплавству, зокрема перевезенню вантажів морем.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "7ac9d0a04b0bdb30",
       "source_id": "map-685",
       "source": "Об'єктив Новини",
@@ -2119,6 +2187,23 @@
       "status": "new"
     },
     {
+      "id": "63ec63da2282cea1",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-britaniya-ta-frantsiya-pratsyuyut-nad-stvorennyam-bagatonatsionalnikh-sil-dlya-posilennya-zsu-pislya-peremirya-premer-niderlandiv",
+      "title": "Британія та Франція працюють над створенням багатонаціональних сил для посилення ЗСУ після перемир’я, – прем’єр Нідерландів",
+      "published_at": "2026-11-19T20:20:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 22:20:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це повідомив прем’єр-міністр Нідерландів Роб Єттен за підсумками зустрічі Коаліції охочих у Берліні. За його словами, коаліція вже готується до етапу після завершення бойових дій. Зокрема, йдеться про створення багатонаціональних сил, які сприятимуть зміцненню спроможностей Збройних сил України після встановлення режиму припинення вогню. Єттен також наголосив, що Нідерланди виступають за продовження всебічної підтримки України та закликав партнерів не послаблювати військову, фінансову й зимову допомогу. \"Війна має завершитися.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "e5b4ba24cf19f860",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -2194,6 +2279,23 @@
       "categories": [
         "Новини Чернівців / спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "743a2631fdccc6c1",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/suspilstvo-ukraini-treba-stati-seredinnoyu-derzhavoyu-yaka-zmozhe-protistoyati-vplivu-putina-si-tszinpina-ta-trampa-istorik-snayder",
+      "title": "Україні треба стати \"серединною державою\", яка зможе протистояти впливу Путіна, Сі Цьзіньпіна та Трампа, — історик Снайдер",
+      "published_at": "2026-11-19T20:17:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 22:17:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це сказав американський історик Тімоті Снайдер під час зустрічі в Центрі Шептицького. За його словами, Україна може посилити свої позиції завдяки союзу з іншими державами, які не належать до найбільших світових потуг, але мають значний політичний, економічний і військовий вплив. Серед потенційних партнерів Снайдер назвав Канаду, Велику Британію та європейські країни. \"Люди з Канади, Європи і багатьох інших місць говорять про коаліцію сил середнього розміру\", – заявив Снайдер. Ідея полягає в тому, щоб такі держави діяли спільно, а не намагалися домовлятися з великими гравцями кожна окремо.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2288,6 +2390,23 @@
       "published_raw": "2026-11-19T22:15:00+02:00",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "Торговельна мапа Вінниці формувалася понад три століття, переміщуючись від гамірних ярмарків на берегах Південного Бугу та Калічі до сучасних павільйонів. Деякі легендарні торжища назавжди поступилися місцем універмагам і скверам, тоді як інші успішно адаптувалися та залишаються головними центрами життя міста. У XVIII–XIX століттях базари у Вінниці були не просто місцем купівлі-продажу, а головним суспільним простором, де укладали угоди та обговорювали міські новини.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f07fbe4a13ee3e99",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-putin-tramp-i-si-mayut-odnu-spilnu-pozitsiyu-ale-tsogo-nedostatno-shchob-podiliti-svit-i-evropu-portnikov",
+      "title": "Путін, Трамп і Сі мають одну спільну позицію, але цього недостатньо, щоб поділити світ і Європу, – Портников",
+      "published_at": "2026-11-19T20:15:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 22:15:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це в етері Еспресо розповів журналіст Віталій Портников. Він зауважив, що зустріч Дональда Трампа, Володимира Путіна та Сі Цзіньпіна справді можна назвати історичною, оскільки раніше лідери цих трьох держав не збиралися разом у такому форматі. Однак її значення не варто перебільшувати: підсумкова декларація містить переважно загальні заяви, а реальних рішень учасники не ухвалили. Зокрема, країни не мають спільного бачення ядерного роззброєння та реформування Організації Об'єднаних Націй.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -2828,7 +2947,7 @@
       "geography": "regional",
       "source_region": "kirovohrad",
       "url": "https://cbn.com.ua/news/hrafiky-vidkliuchennia-svitla-diiatymut-na-kirovohradshchyni-20-lystopada",
-      "title": "Графіки відключення світла діятимуть на Кіровоградщині 20 листопада",
+      "title": "Графіки відключення світла діятимуть на Кіровоградщині 20 листопада (оновлено)",
       "published_at": "2026-11-19T20:01:50+00:00",
       "published_raw": "Thu, 19 Nov 26 22:01:50 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
@@ -3046,11 +3165,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/na-poltavshchini-vpav-vorozhii-dron",
-      "title": "Enemy Drone Falls on Private Property in Poltava District",
+      "title": "На Полтавщині впав ворожий дрон",
       "published_at": "2026-11-19T19:58:35+00:00",
       "published_raw": "Thu, 19 Nov 2026 19:58:35 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "On 19 November, an enemy drone fell in an open area of a private household in Poltava District, said Oblast Military Administration head Vitalii Diakivnych. Information on the consequences is being clarified.",
+      "description": "19 листопада у Полтавському районі впав ворожий БпЛА на відкритій місцевості приватного домоволодіння.",
       "categories": [
         "Війна",
         "Новини"
@@ -3363,6 +3482,23 @@
       "categories": [
         "Техно/Ігри"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "0c5a0c6b68deefa0",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-kitay-e-golovnim-vigodonabuvachem-viyni-rosii-proti-ukraini-a-tramp-vtrachae-vpliv-u-ssha-amerikanist-dovgopoliy",
+      "title": "Китай є головним вигодонабувачем війни Росії проти України, а Трамп втрачає вплив у США, – американіст Довгополий",
+      "published_at": "2026-11-19T19:49:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 21:49:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це заявив кандидат історичних наук, американіст, колишній співробітник ООН Дмитро Довгополий у програмі \"Що далі?\" в ефірі Еспресо. Коментуючи переговори Дональда Трампа, Володимира Путіна та Сі Цзіньпіна в Китаї, експерт звернув увагу на відсутність України у спільній декларації трьох лідерів. На його думку, це свідчить про те, що сторони не змогли досягти спільної позиції щодо завершення війни. \"Це свідчить про те, що нема що сказати. Що немає спільної узгодженої мови навіть для коротенького комюніке\", – зазначив Довгополий.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4129,6 +4265,23 @@
       "status": "new"
     },
     {
+      "id": "f4fe392270d3a198",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/kushner_zayaviv_pro_zgodu_rosiyi_na_garantiyi_bezpeki_dlya_ukrayini_za_zrazkom_5_statti_nato_n1650581",
+      "title": "Джаред Кушнер заявив про згоду Росії на гарантії безпеки для України за зразком 5 статті НАТО",
+      "published_at": "2026-11-19T19:28:41+00:00",
+      "published_raw": "2026-11-19T19:28:41Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Джаред Кушнер заявив про згоду Росії на гарантії безпеки для України за зразком 5 статті НАТО]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d38010a224746879",
       "source_id": "map-940",
       "source": "Букви",
@@ -4421,6 +4574,23 @@
       "published_raw": "2026-11-19T21:22:00+02:00",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "Детальний прогноз публікує Тернопільський обласний центр з гідрометеорології. 20 листопада: Хмарно. Вночі помірні, вдень невеликі дощі. Вітер північно-західний, 7 – 12 м/с, вдень пориви 15 – 20 м/с. Температура по області вночі 3 – 8° тепла, вдень 8 – 13° тепла, по м. Тернополю вночі 6 – 8° тепла, вдень 10 – 12° тепла. Попередження про метеорологічні явища Область: 19 листопада вдень місцями пориви південно-західного вітру 15 – 20 м/с. 20 листопада вдень пориви північно-західного вітру 15 – 20 м/с. Місто: 19 листопада вдень пориви південно-західного вітру 15 – 20 м/с.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1b33f0b8320908bd",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-rosiyani-poshkodili-vivtar-ta-fasad-volodimirskogo-soboru-v-kievi",
+      "title": "Росіяни пошкодили вівтар та фасад Володимирського собору в Києві",
+      "published_at": "2026-11-19T19:22:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 21:22:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це повідомляє Православна церква України. \"Шахед\" вибухнув поруч із храмомУ ПЦУ зазначили, що від вибуху поруч з храмом хвилею вибило частину вікон у вівтарі собору, вони з рамами впали всередину. Пошкодження зазнали елементи східного фасаду храму. Також уламки впали на прилеглу територію, пошкодивши припарковані на узбіччі автомобілі. Православна церква України нагадала, що Володимирський собор - унікальна духовна, культурна та історична памʼятка в центрі столиці. На стінах храму знаходяться шедеври монументального іконографічного мистецтва ХІХ століття світового рівня.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -5679,6 +5849,23 @@
       "status": "new"
     },
     {
+      "id": "b9aaa5eb107c3137",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sekretar_lvivskoyi_miskoyi_radi_otrimav_zvannya_pidpolkovnika_n1650580",
+      "title": "Секретар Львівської міськради Маркіян Лопачак став підполковником",
+      "published_at": "2026-11-19T19:00:00+00:00",
+      "published_raw": "2026-11-19T19:00:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Секретар Львівської міської ради отримав звання підполковника]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f321712f74c283e4",
       "source_id": "hromadske-radio",
       "source": "Громадське радіо",
@@ -6126,6 +6313,23 @@
       "categories": [
         "Донбас"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7f1d72f36e946ef1",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-makron-poyasniv-chomu-chas-povernutisya-do-pitannya-vstupu-ukraini-do-nato",
+      "title": "Макрон пояснив, чому настав час повернутися до питання вступу України до НАТО",
+      "published_at": "2026-11-19T18:50:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 20:50:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це Макрон сказав на пресконференції за підсумками зустрічі Коаліції охочих у Берліні, передає Інтерфакс-Україна. Нові обставини На думку президента Франції, повернутися до питання України в НАТО слід з огляду на максималістську позицію Росії. \"Саме час повернутися до питання вступу України до НАТО. Саме це я запропонував кілька днів тому. Цю можливість було відкладено в першій половині 2022 року, коли обставини були зовсім іншими\", – сказав Макрон. Він переконаний, що приєднання країни із потужною армією і зброєю до Альянсу посилить його.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -6837,6 +7041,25 @@
       "status": "new"
     },
     {
+      "id": "f6f49b0352cca0fb",
+      "source_id": "map-593",
+      "source": "Є",
+      "geography": "regional",
+      "source_region": "khmelnytskyi",
+      "url": "https://ye.ua/syspilstvo/81151_Grafik_pogodinnih_vidklyichen_svitla_u_Hmelnickiy_oblasti_na_20_listopada_(ONOVLENO).html",
+      "title": "Графік погодинних відключень світла у Хмельницькій області на 20 листопада (ОНОВЛЕНО)",
+      "published_at": "2026-11-19T18:34:16+00:00",
+      "published_raw": "Thu, 19 Nov 2026 20:34:16 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Електроенергію вимикатимуть в усіх 12 підчергах.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "1a97094b404c9914",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -7007,6 +7230,23 @@
         "війна",
         "Корецький"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e29cdd760bdeaffe",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/grafik_pogodinnih_vidklyuchen_svitla_u_hmelnitskiy_oblasti_2024_n1586025",
+      "title": "Графік погодинних відключень електроенергії у Хмельницькій області",
+      "published_at": "2026-11-19T18:31:00+00:00",
+      "published_raw": "2026-11-19T18:31:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Графік погодинних відключень електроенергії у Хмельницькій області]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -7217,7 +7457,7 @@
       "published_at": "2026-11-19T18:28:26+00:00",
       "published_raw": "Thu, 19 Nov 2026 20:28:26 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "У пятницю, 20 листопада 2026 року, на Землі очікуються сильні магнітні бурі.",
+      "description": "У п'ятницю, 20 листопада 2026 року, на Землі очікуються сильні магнітні бурі.",
       "categories": [
         "Новини"
       ],
@@ -8017,6 +8257,23 @@
       "status": "new"
     },
     {
+      "id": "e590dd85e9f790c7",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/tramp_pislya_rozmovi_z_putinim_pochav_tisnuti_na_yevropu_shhodo_pripinennya_dopomogi_ukrayini_n1650579",
+      "title": "Трамп після розмови з Путіним вимагає від Європи припинити допомогу Україні",
+      "published_at": "2026-11-19T18:11:00+00:00",
+      "published_raw": "2026-11-19T18:11:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Трамп після розмови з Путіним вимагає від Європи припинити допомогу Україні]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "28d523d032848465",
       "source_id": "novynarnia",
       "source": "Новинарня",
@@ -8285,11 +8542,11 @@
       "geography": "regional",
       "source_region": "zaporizhzhia",
       "url": "https://inform.zp.ua/uk/2026/11/19/406761_ivan-fedorov-yizdyt-na-lexus-iz-nomeramy-prykryttya-bihus-info",
-      "title": "У Києві Іван Федоров їздить на Lexus із номерами прикриття – Bihus.Info",
+      "title": "У Києві Іван Федоров їздить на Lexus із номерами прикриття, – Bihus.Info",
       "published_at": "2026-11-19T18:08:00+00:00",
       "published_raw": "Thu, 19 Nov 2026 18:08:00 +0000",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Голова Державного агентства відновлення Іван Федоров користується автомобілем Lexus із номерами прикриття. Журналісти Bihus.Info звернули увагу, що машина схожа на автомобіль матері посадовця, однак має інші номерні знаки. Сообщение У Києві Іван Федоров їздить на Lexus із номерами прикриття – Bihus.Info появились сначала на inform.zp.ua .",
+      "description": "Голова Державного агентства відновлення Іван Федоров користується автомобілем Lexus із номерами прикриття. Журналісти Bihus.Info звернули увагу, що машина схожа на автомобіль матері посадовця, однак має інші номерні знаки. Сообщение У Києві Іван Федоров їздить на Lexus із номерами прикриття, – Bihus.Info появились сначала на inform.zp.ua .",
       "categories": [
         "Політика",
         "Війна Росії з Україною",
@@ -8835,6 +9092,23 @@
       "status": "new"
     },
     {
+      "id": "2d563993ec0f1efe",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/demografichna_ruyina_ukrayini_n1650575",
+      "title": "Демографічна руїна України",
+      "published_at": "2026-11-19T18:00:00+00:00",
+      "published_raw": "2026-11-19T18:00:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Демографічна руїна України]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "65ab21c8e9dd7281",
       "source_id": "map-535",
       "source": "МОСТ",
@@ -9222,11 +9496,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/vidkati-na-riemontakh-dorigh-ta-prilavki-z-mandarinami-gholovi-podiyi-19-listopada",
-      "title": "Poltava news digest, Nov. 19: schoolchildren expose Russian recruiters, bribery verdict, Christmas tree, citrus prices",
+      "title": "Вирок за хабар, ціни на мандарини та ялинка у Полтаві — головні події 19 листопада",
       "published_at": "2026-11-19T17:47:44+00:00",
       "published_raw": "Thu, 19 Nov 2026 17:47:44 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Four Kremenchuk-area schoolchildren turned down Russian intelligence recruiters, a contractor was sentenced for bribing Poltava officials, and the city's tree is being installed. Also: citrus prices and Nova Poshta parcel locker designs.",
+      "description": "19 листопада розповідали про школярів з Полтавщини, яких хотіли завербувати спецслужби рф, хабарі на ремонтах доріг, ціни на мандарини у Полтаві.",
       "categories": [
         "Соціум",
         "Новини"
@@ -9410,7 +9684,7 @@
       "published_at": "2026-11-19T17:42:22+00:00",
       "published_raw": "Thu, 19 Nov 2026 19:42:22 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "У Херсоні 5 квітня 2026 року російський дрон атакував службову автівку поліції, у якій перебували Віталій Кухарчук та його побратим. Поліціянт загинув. За словами його дружини Діни, перед атакою чоловік скерував автівку так, щоб прийняти удар на себе.",
+      "description": "У Херсоні 5 квітня 2026 року російський дрон атакував службову автівку поліції, у якій перебували Віталій Кухарчук та його побратим. Поліціянт загинув. За словами його дружини Діни, перед атакою чоловік скерував автівку так, щоб взяти удар на себе.",
       "categories": [
         "Новини"
       ],
@@ -9484,11 +9758,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/iak-na-poltavshchini-vimikatimut-svitlo-19-listopada",
-      "title": "Poltava Oblast Power Outage Schedule for November 20: Hours for Each Group",
+      "title": "Як на Полтавщині вимикатимуть світло 20 листопада (оновлено)",
       "published_at": "2026-11-19T17:41:22+00:00",
       "published_raw": "Thu, 19 Nov 2026 17:41:22 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Hourly power outages will be introduced in Poltava Oblast on November 20. Here are the outage times for each of the 12 subgroups (1.1 to 6.2) over the day.",
+      "description": "20 листопада у Полтавській області запровадять погодинні вимкнення світла.",
       "categories": [
         "Соціум",
         "Новини"
@@ -10165,6 +10439,23 @@
       "status": "new"
     },
     {
+      "id": "5fcc065df313b05c",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/meshkantsi_sokilnikiv_vistupili_proti_masshtabnoyi_zabudovi_na_gromadskih_sluhannyah_n1650573",
+      "title": "Мешканці Сокільників виступили проти масштабної забудови на громадських слуханнях",
+      "published_at": "2026-11-19T17:30:00+00:00",
+      "published_raw": "2026-11-19T17:30:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Мешканці Сокільників виступили проти масштабної забудови на громадських слуханнях +Відео ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "753f6e69e6a57713",
       "source_id": "map-367",
       "source": "Інтент",
@@ -10615,6 +10906,23 @@
       "status": "new"
     },
     {
+      "id": "4ea3770c3d75b640",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_lvovi_dvoye_lyudey_zaginuli_pid_chas_pozhezhi_v_zakinutiy_budivli_n1650578",
+      "title": "У закинутій будівлі на Миколайчука загинуло двоє безпритульних: що відомо про причини пожежі",
+      "published_at": "2026-11-19T17:18:00+00:00",
+      "published_raw": "2026-11-19T17:18:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ У Львові двоє безпритульних загинули під час пожежі в закинутій будівлі]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c7f863074803fff7",
       "source_id": "map-1154",
       "source": "Bilozerka.info",
@@ -10842,6 +11150,23 @@
         "Новини | Події",
         "Новини"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cce3dee830ff9314",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_poznani_zatrimali_ukrayintsiv_yaki_na_zamovlennya_rf_napisali_na_pamyatnikah_slava_upa_n1650576",
+      "title": "У Познані затримали українців, які на замовлення РФ написали на памʼятниках «Слава УПА»",
+      "published_at": "2026-11-19T17:11:47+00:00",
+      "published_raw": "2026-11-19T17:11:47Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ У Познані затримали українців, які на замовлення РФ написали на памʼятниках «Слава УПА»]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -11830,6 +12155,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "17e9495d54714334",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/shevchenko_vidpoviv_mudriku_na_zvinuvachennya_ta_visunuv_yomu_konkretnu_umovu_n1650577",
+      "title": "Андрій Шевченко відповів Михайлу Мудрику на звинувачення та висунув йому конкретну умову",
+      "published_at": "2026-11-19T16:53:00+00:00",
+      "published_raw": "2026-11-19T16:53:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Андрій Шевченко відповів Михайлу Мудрику на звинувачення та висунув йому конкретну умову]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13206,15 +13548,32 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/okhorona-sobornosti-40-za-miskii-kosht",
-      "title": "Poltava City Council Plans to Spend Nearly UAH 3 Million on Security, Including for an Illegally Built Office Center",
+      "title": "Міськрада хоче витратити гроші на охорону незаконної будівлі в центрі Полтави",
       "published_at": "2026-11-19T16:22:50+00:00",
       "published_raw": "Thu, 19 Nov 2026 16:22:50 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Poltava's executive committee has opened a tender for guarding three buildings in 2027, including the unauthorized office center at 40 Sobornosti St. The work is valued at almost UAH 3 million; the winner will be chosen after December 4.",
+      "description": "Полтавський виконком оголосив тендер на 3 млн грн для охорони трьох будівель у 2027 році. Серед них — незаконний бізнес-центр на Соборності, 40.",
       "categories": [
         "Схеми",
         "Розслідування"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "15a10d63ca95fc3a",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sbu_ta_prokuratura_priyshli_z_obshukami_do_derzhavnoyi_aviatsiynoyi_sluzhbi_n1650574",
+      "title": "СБУ та прокуратура прийшли з обшуками до Державної авіаційної служби",
+      "published_at": "2026-11-19T16:22:06+00:00",
+      "published_raw": "2026-11-19T16:22:06Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ СБУ та прокуратура прийшли з обшуками до Державної авіаційної служби]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -13933,6 +14292,23 @@
       "status": "new"
     },
     {
+      "id": "8db5d416afc316bc",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/pamyatnik_zhertvam_ataki_rf_u_ternopoli_postavlyat_pri_vhodi_v_park_natsionalnogo_vidrodzhennya_n1650569",
+      "title": "У Тернополі визначили місце, де встановлять пам'ятник загиблим від російської атаки мешканцям",
+      "published_at": "2026-11-19T16:08:00+00:00",
+      "published_raw": "2026-11-19T16:08:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ У Тернополі визначили місце, де встановлять пам'ятник загиблим від російської атаки мешканцям]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "99e3c222b4504c77",
       "source_id": "lb",
       "source": "LB.ua",
@@ -14389,6 +14765,23 @@
       "published_raw": "Thu, 19 Nov 2026 18:00:00 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "У Мукачеві запровадили спеціальний поштовий штемпель постійної дії «Мукачево — місто над Латорицею». Це перший в історії Мукачева міський поштовий штемпель. Над створенням проєкту працював мукачівський клуб філателістів спільно з творчою майстернею «Гусак Вароша» та Укрпоштою.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ef6a9b9c59c7dfb3",
+      "source_id": "map-831",
+      "source": "Еспресо: Біла Церква",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bc.espreso.tv/news-bilotserkivteplomerezha-cherez-sud-styague-borgi-za-opalennya",
+      "title": "Білоцерківтепломережа через суд стягує борги за опалення",
+      "published_at": "2026-11-19T16:00:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 18:00:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це свідчать судові документи БМС. Зокрема, у листопаді 2026 року суд видав наказ про стягнення з одного зі споживачів 13 720,64 грн боргу за опалення. Разом з інфляційними втратами, річними та судовим збором загальна сума до сплати становить 17 373,93 грн. В іншій справі, яку суд розглянув 10 листопада, підприємство вимагало стягнути з одного зі споживачів 23 658,25 грн боргу за тепло. Разом з інфляційними втратами, річними та судовим збором загальна сума до сплати становить 27 487,15 грн.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -15265,6 +15658,40 @@
       "status": "new"
     },
     {
+      "id": "1bb303ce647e051f",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/prikarpattsyu_unik_dovichnogo_uvyaznennya_za_valtuvannya_malolitnoyi_padcherki_n1650566",
+      "title": "Прикарпатець уник довічного ув’язнення за ґвалтування малолітньої падчерки",
+      "published_at": "2026-11-19T15:41:43+00:00",
+      "published_raw": "2026-11-19T15:41:43Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Прикарпатець уник довічного ув’язнення за ґвалтування малолітньої падчерки]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8b28b986c1062311",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/shtrafi_i_kriminalna_vidpovidalnist_dlya_riyeltoriv_shho_proponuye_verhovna_rada_n1650565",
+      "title": "У Верховній Раді зареєстрували законопроєкт про кримінальну відповідальність рієлторів",
+      "published_at": "2026-11-19T15:41:00+00:00",
+      "published_raw": "2026-11-19T15:41:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ У Верховній Раді зареєстрували законопроєкт про кримінальну відповідальність рієлторів]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "44385952165fc85a",
       "source_id": "map-560",
       "source": "Varosh",
@@ -15362,6 +15789,23 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "05b829a2da3fda21",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/ukrzaliznitsya_vistavila_na_prodazh_angari_na_viyizdi_zi_lvova_n1650564",
+      "title": "«Укрзалізниця» продає у Львові майновий комплекс з ангарами на виїзді з міста",
+      "published_at": "2026-11-19T15:39:00+00:00",
+      "published_raw": "2026-11-19T15:39:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ «Укрзалізниця» виставила на продаж у Львові комплекс із 26 будівель ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -16587,6 +17031,23 @@
       "status": "new"
     },
     {
+      "id": "5e6a5d21ada5097f",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sinoptiki_poperedzhayut_pro_shtormoviy_viter_ta_znizhennya_temperaturi_na_bukovini_n1650560",
+      "title": "Синоптики попередили про штормовий вітер та похолодання на Буковині",
+      "published_at": "2026-11-19T15:16:45+00:00",
+      "published_raw": "2026-11-19T15:16:45Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Синоптики попередили про штормовий вітер та похолодання на Буковині]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6162db99a12b6498",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -16658,6 +17119,23 @@
         "наглядова рада",
         "новини Запоріжжя"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5cae54130ae1bf97",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/anastasiya_bondar_stala_zastupnitseyu_ministra_osviti_i_nauki_shho_pro_neyi_vidomo_n1650563",
+      "title": "З культури в освіту: у Міністерстві освіти та науки призначили нову заступницю з цифровізації",
+      "published_at": "2026-11-19T15:14:11+00:00",
+      "published_raw": "2026-11-19T15:14:11Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ З культури в освіту: у Міністерстві освіти та науки призначили нову заступницю з цифровізації]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -17048,11 +17526,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/u-poltavi-dvokh-zhinok-proopieruvali-chieriez-pukhlini-kishkivnika",
-      "title": "Two Women with Colon Cancer Undergo Successful Laparoscopic Surgery at Poltava's Second City Hospital",
+      "title": "У Полтаві прооперували двох жінок із пухлинами кишківника",
       "published_at": "2026-11-19T15:06:23+00:00",
       "published_raw": "Thu, 19 Nov 2026 15:06:23 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Surgeons at Poltava's Second City Clinical Hospital operated on two women with malignant colon tumors who arrived in serious condition with complications. Both had laparoscopic surgery and were discharged on the fourth day.",
+      "description": "У Другій міській лікарні Полтави прооперували двох пацієнток зі злоякісними пухлинами товстої кишки. Обох жінок виписали на четверту добу.",
       "categories": [
         "Соціум",
         "Новини"
@@ -17653,6 +18131,23 @@
       "status": "new"
     },
     {
+      "id": "ed2c60ab0ee07bf0",
+      "source_id": "map-831",
+      "source": "Еспресо: Біла Церква",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bc.espreso.tv/news-fortepiano-premiumklasu-zimmermann-prezentuvali-u-bilotserkivskiy-shkoli-mistetstv-1",
+      "title": "У Білоцерківській школі мистецтв №1 презентували нове фортепіано преміум класу Zimmermann (+ФОТО)",
+      "published_at": "2026-11-19T15:00:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 17:00:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Як повідомила у дописі директорка закладу Леся Крижешевська, окрасою презентації фортепіано став концерт, який провела викладачка Білоцерківської школи мистецтв №1 Наталія Некраш. Новий інструмент зазвучав у виконанні учнів, викладачів школи та студентів Київської муніципальної академії музики імені Р. М. Глієра. На заході прозвучали такі музичні твори:\"Танець\" Юрія Щуровського;\"Гопак\" Юрія Щуровського;\"Полька-галоп\" Альфредо Казелла;\"Ноктюрн cis-moll\" Фредеріка Шопена;\"Гей, соколи\" Мацея Камінського, аранжування Дзюби;\"Вальс-скерцо\" Сергія Нікітіна;та інші твори.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "28d590963684c0f2",
       "source_id": "map-569",
       "source": "Цукр",
@@ -17803,6 +18298,23 @@
       "status": "new"
     },
     {
+      "id": "0478ca877e18ccf5",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/amku_pidozryuye_lvivsku_kompaniyu_ta_fop_u_zmovi_na_tenderah_dlya_zsu_n1650561",
+      "title": "АМКУ підозрює львівську компанію та ФОП у змові на тендерах для ЗСУ",
+      "published_at": "2026-11-19T14:57:57+00:00",
+      "published_raw": "2026-11-19T14:57:57Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ АМКУ підозрює львівську компанію та ФОП у змові на тендерах для ЗСУ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a8181aff55b215ac",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -17831,6 +18343,23 @@
       "published_raw": "Thu, 19 Nov 2026 16:57:22 +0200",
       "fetched_at": "2026-11-20T03:14:10+00:00",
       "description": "На Тернопільщині в Теребовлі внутрішньо-переміщені люди посадили 30 фруктових дерев. «Алея вдячності» — так назвали сад, у якому ростимуть яблука та груші. Ідея виникла у переселенки з Херсона",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1c4e25687284c759",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/na_tli_atak_na_krimskiy_mist_okupatsiyna_vlada_zapuskaye_pasazhirski_kateri_kerchenskoyu_protokoyu_n1650558",
+      "title": "На тлі атак на Кримський міст окупаційна влада запускає пасажирські катери Керченською протокою",
+      "published_at": "2026-11-19T14:56:05+00:00",
+      "published_raw": "2026-11-19T14:56:05Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ На тлі атак на Кримський міст окупаційна влада запускає пасажирські катери Керченською протокою]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -17890,6 +18419,23 @@
       "status": "new"
     },
     {
+      "id": "3de03dd59e134abd",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sbu_vikrila_dezertira_na_oformlenni_terminaliv_starlink_dlya_rosiyan_n1650559",
+      "title": "СБУ викрила дезертира на оформленні терміналів Starlink для росіян",
+      "published_at": "2026-11-19T14:55:36+00:00",
+      "published_raw": "2026-11-19T14:55:36Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ СБУ викрила дезертира на оформленні терміналів Starlink для росіян ]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "13080d4335b5e4e3",
       "source_id": "map-586",
       "source": "Вгору",
@@ -17927,6 +18473,23 @@
         "легкові авто",
         "Служба відновлення у Запорізькій області"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fce9c0b99ed3d882",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/u_garazhi_na_volini_znayshli_tilo_28_richnogo_cholovika_n1650556",
+      "title": "У гаражному кооперативі Володимира знайшли повішеним 28-річного чоловіка",
+      "published_at": "2026-11-19T14:54:53+00:00",
+      "published_raw": "2026-11-19T14:54:53Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ У гаражному кооперативі Володимира знайшли повішеним 28-річного чоловіка]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -19369,7 +19932,7 @@
       "geography": "regional",
       "source_region": "zakarpattia",
       "url": "https://varosh.com.ua/noviny/vidkryta-rozmova-z-myroslavoiu-honhadze-varosh-zaproshuye-na-zustrich",
-      "title": "Varosh запрошує на відкриту розмова з Мирославою Гонгадзе: як зареєструватися",
+      "title": "Varosh запрошує на відкриту розмову з Мирославою Гонгадзе: як зареєструватися",
       "published_at": "2026-11-19T14:27:51+00:00",
       "published_raw": "Thu, 19 Nov 2026 16:27:51 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
@@ -19700,6 +20263,44 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "c9fa2443f25690d2",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/vdaryat_lyuti_morozi_chi_pogoda_zdivuye_anomalnim_teplom_yak_rozpochnetsya_zima_v_ukrayini_n1650535",
+      "title": "Ударять люті морози чи погода здивує аномальним теплом: як розпочнеться зима в Україні",
+      "published_at": "2026-11-19T14:22:00+00:00",
+      "published_raw": "2026-11-19T14:22:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Ударять люті морози чи погода здивує аномальним теплом: як розпочнеться зима в Україні]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2fde88a30ef9d6a2",
+      "source_id": "map-1120",
+      "source": "Середина-Буда.City",
+      "geography": "regional",
+      "source_region": "sumy",
+      "url": "https://buda.city/?p=12940",
+      "title": "“Людина, яка любила життя”: як згадують рідні Андрія Останіна, який загинув від російського обстрілу Середини-Буди",
+      "published_at": "2026-11-19T14:22:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 14:22:00 +0000",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Людина, яка любила життя, країну, сім’ю та море – 19 листопада 2024 року при черговому російському мінометному обстрілі міста Середини-Буди загинув місцевий мешканець Андрій Останін....",
+      "categories": [
+        "ВІЙНА",
+        "ЛЮДИ",
+        "НОВИНИ МІСТА"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -20039,6 +20640,23 @@
       "status": "new"
     },
     {
+      "id": "db26c041b4aa1108",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/mudrik_zvinuvativ_uaf_ta_shevchenka_u_vidsutnosti_dopomogi_pislya_dopingovogo_skandalu_n1650553",
+      "title": "Мудрик звинуватив УАФ та Шевченка у відсутності допомоги після допінгового скандалу",
+      "published_at": "2026-11-19T14:15:00+00:00",
+      "published_raw": "2026-11-19T14:15:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Мудрик звинуватив УАФ та Шевченка у відсутності допомоги після допінгового скандалу]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "b8819f403627e9c1",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -20067,6 +20685,23 @@
       "published_raw": "Thu, 19 Nov 2026 16:14:02 +0200",
       "fetched_at": "2026-11-20T03:14:10+00:00",
       "description": "На Херсонщині судитимуть колишню «проректорку» захопленої окупантами академії. У 2022 році вона перевела заклад освіти на стандарти РФ",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "adb903316bcf7b92",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/pisniy_salat_z_oseledtsem_buryakom_i_marinovanimi_ogirkami_yak_prigotuvati_pokrokovo_n1650504",
+      "title": "Пісний салат з оселедцем, буряком і маринованими огірками",
+      "published_at": "2026-11-19T14:14:00+00:00",
+      "published_raw": "2026-11-19T14:14:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Пісний салат з оселедцем, буряком і маринованими огірками]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -20228,6 +20863,23 @@
       "published_raw": "2026-11-19T14:11:50+00:00",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "Все менше звернень по психологічну допомогу після обстрілів: таку тенденцію помітила практична психологиня із Чернігова Анжеліна Балєва. За її словами, все частіше люди, які були неподалік обстрілу, розповідають про це, як про подію. Але ця подія не є основною причиною звернення. У студії Українського Радіо Чернігів Анжеліна Балєва розповідає, чому так відбувається і чим це може загрожувати. #небезпека #обстріли #психіка",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "649e539b52ea4af9",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/shhomisyatsya_zbuvali_tonnu_narkotikiv_na_lvivshhini_zatrimali_shistoh_cholovikiv_n1650547",
+      "title": "Збували через телеграм: на Львівщині затримали чоловіків, які продавали кратом",
+      "published_at": "2026-11-19T14:11:00+00:00",
+      "published_raw": "2026-11-19T14:11:00Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Щомісяця збували тонну наркотиків: на Львівщині затримали шістьох чоловіків]]>",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -20569,6 +21221,23 @@
       "status": "new"
     },
     {
+      "id": "6333286e6cb49791",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/vitaliy_kim_pereprosiv_za_skandalni_zayavi_shhodo_veteraniv_n1650543",
+      "title": "Віталій Кім перепросив за скандальні заяви щодо ветеранів",
+      "published_at": "2026-11-19T14:04:36+00:00",
+      "published_raw": "2026-11-19T14:04:36Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Віталій Кім перепросив за скандальні заяви щодо ветеранів]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4ada7cc3354ffefb",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -20783,6 +21452,23 @@
       "status": "new"
     },
     {
+      "id": "939d9d1b4082d2f8",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/yuriy_knorozov_harkivyanin_yakiy_rozshifruvav_pismena_maya_tsikavi_fakti_biografiyi_n1650534",
+      "title": "Юрій Кнорозов: харківʼянин, який розшифрував письмена мая – цікаві факти біографії",
+      "published_at": "2026-11-19T14:00:26+00:00",
+      "published_raw": "2026-11-19T14:00:26Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Уродженець Харківщини, який розшифрував писемність цивілізації мая]]>",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ee3dc1c4dd0bd784",
       "source_id": "map-827",
       "source": "НУШ",
@@ -20905,6 +21591,23 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "07a11b4cebb4a7ac",
+      "source_id": "map-831",
+      "source": "Еспресо: Біла Церква",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bc.espreso.tv/ekologiya-na-bilotserkivshchini-viyavili-stikhiyne-smittezvalishche-ploshcheyu-680-kvadratnikh-metriv",
+      "title": "На Білоцерківщині виявили стихійне сміттєзвалище площею 680 квадратних метрів",
+      "published_at": "2026-11-19T14:00:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 16:00:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це повідомила Державна екологічна інспекція Північного округу. Під час обстеження інспектори встановили, що сміття займає ділянку розміром 40 на 17 метрів. Висота шару відходів сягає приблизно пів метра. В екоінспекції зазначили, що таке засмічення може негативно впливати на здоров'я людей і навколишнє природне середовище. За результатами перевірки фахівці склали акт обстеження та направили Рокитнянській селищній громаді письмову вимогу. До 10 грудня 2026 року територію в Насташці мають привести до належного санітарного стану.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -21114,6 +21817,23 @@
         "Кропивницький",
         "міськрада"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86d02cd61fc294be",
+      "source_id": "map-1058",
+      "source": "ZAXID.NET",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://zaxid.net/sud_na_lvivshhini_uvyazniv_na_sim_z_polovinoyu_rokiv_71_richnogo_pensionera_za_vbivstvo_n1650551",
+      "title": "Суд на Львівщині ув’язнив на сім з половиною років 71-річного пенсіонера за вбивство",
+      "published_at": "2026-11-19T13:57:49+00:00",
+      "published_raw": "2026-11-19T13:57:49Z",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "[CDATA[ Суд на Львівщині ув’язнив на сім з половиною років 71-річного пенсіонера за вбивство]]>",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -22675,11 +23395,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/stalo-vidomo-khto-ocholiv-diepartamient-okhoroni-zdorovia-poltavskoyi-ova",
-      "title": "Olha Bastanohova Becomes Acting Head of Poltava Regional Military Administration's Health Department",
+      "title": "Стало відомо, хто тимчасово очолив Департамент охорони здоров’я Полтавської ОВА",
       "published_at": "2026-11-19T13:27:18+00:00",
       "published_raw": "Thu, 19 Nov 2026 13:27:18 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Olha Bastanohova has been acting director of the Poltava Regional Military Administration's Health Department since Nov. 19, 2026. A permanent appointment is possible after a special background check.",
+      "description": "З 19 листопада обов’язки директорки Департаменту охорони здоров’я Полтавської ОВА виконує Ольга Бастаногова.",
       "categories": [
         "Політика",
         "Новини",
@@ -23052,7 +23772,7 @@
       "published_at": "2026-11-19T13:17:41+00:00",
       "published_raw": "Thu, 19 Nov 2026 13:17:41 GMT",
       "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Ворожий дрон влучив на відкритій території поблизу житлових будинків у Миргороді. Частину будинків і господарчих споруд зруйновано або пошкоджено, за попередніми даними, одна людина отримала травми.",
+      "description": "У Миргороді зафіксовано влучання ворожого дрона на відкритій території поблизу житлової забудови.",
       "categories": [
         "Війна",
         "Новини"
@@ -23092,10 +23812,10 @@
       "description": "Протягом вересня й жовтня домогосподарства із прифронтових територій мали можливість подаватися на державну “Зимову підтримку”: програму одноразової допомоги в 19 400 грн для вразливих категорій населення. Громади Донеччини за цей час прийняли 12 327 таких заяв. Про це у відповіді на запит журналістів Вільного Радіо…",
       "categories": [
         "Новини",
+        "Новини Миколаївської громади",
         "Новини Андріївської громади",
         "Новини Краматорської громади",
-        "Новини Новодонецької громади",
-        "Новини Черкаської громади"
+        "Новини Новодонецької громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -24161,6 +24881,23 @@
         "Новини",
         "Рівненська міська рада"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fdbca7b3e734e0de",
+      "source_id": "map-831",
+      "source": "Еспресо: Біла Церква",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bc.espreso.tv/news-pratsevlashtuvannya-ta-adaptatsiya-vikliki-dlya-veteraniv-biloi-tserkvi",
+      "title": "Працевлаштування та адаптація: виклики для ветеранів Білої Церкви",
+      "published_at": "2026-11-19T13:00:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 15:00:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Про це в інтерв'ю для Еспресо: Біла Церква розповів Герой України, начальник штабу Ветеранського корпусу Білоцерківщини Валерій Кучеренко. Чим займається ветеранський корпус Ветеранський корпус Білоцерківщини працює за багатьма напрямами: від юридичного супроводу та психологічної підтримки до допомоги з працевлаштуванням і започаткуванням власної справи. \"Загальні напрямки — це соціалізація військових після повернення вже додому безпосередньо. Та всіляка допомога. Все, чому можливо придумати, ми всім допомагаємо.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -28734,6 +29471,23 @@
       "published_raw": "Thu, 19 Nov 2026 14:00:00 +0200",
       "fetched_at": "2026-11-19T21:32:48+00:00",
       "description": "Від початку повномасштабного вторгнення російські обстріли пошкодили у Харкові понад 10 тисяч житлових будинків. За словами міського голови Ігоря Терехова, близько 4 тисяч із них уже вдалося відновити . Водночас через руйнування близько 160 тисяч людей залишаються без житла. Для багатьох власників питання компенсації досі не вирішене. Одні місяцями чекають на технічні висновки щодо стану будинку, інші не погоджуються з оцінкою пошкоджень. Ще одна перешкода — відсутність документів, які підтверджують право власності на нерухомість.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "57f4c1dfd431cad7",
+      "source_id": "map-831",
+      "source": "Еспресо: Біла Церква",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bc.espreso.tv/news-khto-budue-novobudovi-biloi-tserkvi-pyat-zabudovnikiv-ta-ikhni-vlasniki",
+      "title": "Хто будує новобудови Білої Церкви: п'ять забудовників та їхні власники",
+      "published_at": "2026-11-19T12:00:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 14:00:00 +0200",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Редакція Еспресо: Біла Церква дослідила п'ять помітних гравців місцевого ринку нерухомості: які об'єкти вони реалізували, хто є їхніми власниками та що можна дізнатися про фінансовий стан бізнесу з відкритих реєстрів. Міськбуд БЦКомпанія працює на білоцерківському ринку з 2015 року. Серед її проєктів — ЖК \"Шевченко\", \"Riviera\", \"Королева\", \"Зелений\", а також таунхауси \"Щастя\" та \"Зоряний\". Загалом у каталогах нерухомості зазначено сім об'єктів компанії.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -34837,6 +35591,26 @@
         "Головне управління ДСНС у Рівненській області",
         "Рівненська обласна державна адміністрація",
         "рівненщина атака рф"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a2506d820b1564fc",
+      "source_id": "map-1072",
+      "source": "Свеса.Online",
+      "geography": "regional",
+      "source_region": "sumy",
+      "url": "https://svesa.online/news/9682",
+      "title": "Росіяни атакували Свеську громаду: відомо про наслідки",
+      "published_at": "2026-11-19T10:30:49+00:00",
+      "published_raw": "Thu, 19 Nov 2026 10:30:49 +0000",
+      "fetched_at": "2026-11-20T11:43:08+00:00",
+      "description": "Війська рф завдали удару по Свеській громаді минулої доби. Внаслідок атаки зафіксовано пошкодження. Про це повідомляє Сумська...",
+      "categories": [
+        "ВСІ НОВИНИ",
+        "ОБСТРІЛИ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -49914,6 +50688,12 @@
       "fetched": 1628,
       "added": 1,
       "errors": 3
+    },
+    {
+      "at": "2026-11-20T11:43:08+00:00",
+      "fetched": 902,
+      "added": 45,
+      "errors": 2
     }
   ]
 }
