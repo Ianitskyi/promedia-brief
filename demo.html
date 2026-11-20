@@ -63,7 +63,7 @@ async function show(file){
   document.getElementById('player').innerHTML=`<b>Випуск за ${esc(d.date)}</b><audio controls preload="metadata" src="${esc(d.audio)}?v=${esc(d.script_sha256||d.date)}-female108"></audio>
     <div class="facts"><span class="tag">${min}:${sec}</span><span class="tag">голос: ${esc(d.provider)}${d.model?' · '+esc(d.model):''}</span>
     ${typeof d.asr_mean_cer === "number" ? `<span class="tag">звірка аудіо з текстом: ${Math.round((1-d.asr_mean_cer)*100)}% збігу</span>` : ""}<span class="tag">${esc(d.approved_by)}</span></div>
-    ${d.provider==='elevenlabs'?'<p class="muted" style="font-size:12px;margin:10px 0 0">Озвучення: <a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a></p>':''}`;
+    <p class="muted" style="font-size:12px;margin:10px 0 0">Випуск підготовлено за допомогою штучного інтелекту й озвучено синтезованим голосом${d.provider==='elevenlabs'?' (<a href="https://elevenlabs.io" target="_blank" rel="noopener">ElevenLabs</a>)':''}.</p>`;
   {const a=document.querySelector('#player audio'),listen=briefListen(d.date,'brief_text');
    ['play','timeupdate','ended'].forEach(ev=>a.addEventListener(ev,()=>listen(ev==='ended'?a.duration:a.currentTime,a.duration||d.duration_sec,ev!=='ended'&&!a.paused||ev==='play')));}
   document.getElementById('script').innerHTML='<b>Текст випуску</b>'+d.segments.map(s=>`<div class="seg"><div class="kind">${KIND[s.kind]||esc(s.kind)}</div>
