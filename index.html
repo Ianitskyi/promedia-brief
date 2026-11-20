@@ -333,7 +333,7 @@ function setDemo(d, keepPosition){
   const at=keepPosition&&current?demoList.findIndex(p=>p.audio===current.audio):-1;
   demoLoad(at>=0?at:0, at>=0?dp.currentTime:null); if(wasPlaying) dp.play().catch(()=>{});
   const personal=demoList[0].kind!=='full';
-  document.getElementById('demoMeta').textContent=`${d.provider==='elevenlabs'?'Озвучення ElevenLabs':'Аудіовипуск'}${personal?' · у порядку ваших тем і регіону':''}`;
+  document.getElementById('demoMeta').textContent=`Підготовлено за допомогою штучного інтелекту · синтезований голос${d.provider==='elevenlabs'?' ElevenLabs':''}${personal?' · у порядку ваших тем і регіону':''}`;
   if('mediaSession' in navigator) navigator.mediaSession.metadata=new MediaMetadata({title:`BRIEF за ${dd}.${m}.${y}`,artist:'BRIEF by ProMedia'});
   document.getElementById('demoCard').style.display='';
 }
