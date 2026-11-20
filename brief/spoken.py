@@ -143,13 +143,36 @@ def record_usage(date, characters, provider):
     return month["characters"]
 
 
+# --- our names for things ----------------------------------------------------------------
+
+def apply_terms(text, terms=None):
+    """BRIEF's own wording where the sources name a thing differently (daily.terms in
+    config/editorial.json). Owner, 2026-11-20: «Керченський міст», not «Кримський міст»."""
+    if not text:
+        return text
+    for t in (settings().get("terms", []) if terms is None else terms):
+        def sub(m, t=t):
+            new = m.expand(t["replacement"])
+            first = m.group(0)[:1]
+            return (new[:1].upper() if first.isupper() else new[:1].lower()) + new[1:]
+        text = re.sub(t["pattern"], sub, text, flags=re.I)
+    return text
+
+
+def _with_terms(evidence):
+    """Evidence texts plus the same texts in our wording, so either name passes the check."""
+    evs = list(evidence.values())
+    return evs + [t for t in (apply_terms(v) for v in evs) if t not in evs]
+
+
 # --- checks -------------------------------------------------------------------------------
 
 def check_text(text, evidence, merged=False):
     """Problems with a retold story; empty list = it may be read."""
     problems = []
+    evs = _with_terms(evidence)
     for c in extract_claims(text):
-        if not any(_found(c, ev) for ev in evidence.values()):
+        if not any(_found(c, ev) for ev in evs):
             problems.append(f"не знайдено в джерелах: {c['type']} «{c['value']}»")
     if RELATIVE_TIME.search(text):
         problems.append(f"відносне слово часу: «{RELATIVE_TIME.search(text).group(0)}»")
@@ -163,7 +186,8 @@ def check_text(text, evidence, merged=False):
 def check_teaser(teaser, evidence):
     if not teaser or re.search(r"\d", teaser) or RELATIVE_TIME.search(teaser) or len(teaser) > 200:
         return False
-    return all(any(_found(c, ev) for ev in evidence.values())
+    evs = _with_terms(evidence)
+    return all(any(_found(c, ev) for ev in evs)
                for c in extract_claims(teaser) if c["type"] in ("name", "quote"))
 
 
@@ -298,6 +322,11 @@ def build(date, use_llm=True, budget=None, provider_name=None):
     # Older figures in a first paragraph give way to the headline of the same story (owner, 17.11.2026).
     log["freshened"] = strikes.freshen(retold)
     retold, log["strikes_digest"] = strikes.build_digest(retold, by_id, evidence, date)
+    # Our names for things (owner, 2026-11-20: «Керченський міст»), in every line and title.
+    for r in retold:
+        r["lines"] = [apply_terms(t) for t in r["lines"]]
+        r["title"] = apply_terms(r.get("title"))
+    teaser = apply_terms(teaser)
 
     words = date_words(date)
     # Owner, 18.11.2026: the outro repeats the intro's "as of the morning", not just the date.

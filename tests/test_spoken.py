@@ -164,3 +164,16 @@ def test_intro_date_in_genitive():
     assert date_words_gen("2026-11-23") == "двадцять третього листопада"
     assert date_words_gen("2026-11-03") == "третього листопада"
     assert date_words_gen("2026-11-30") == "тридцятого листопада"
+
+
+def test_kerch_bridge_name():
+    """Owner, 2026-11-20: say «Керченський міст», not «Кримський міст», in every case."""
+    from brief.spoken import apply_terms, check_text
+    assert apply_terms("Кримський міст закрили.") == "Керченський міст закрили."
+    assert apply_terms("Рух Кримським мостом перекрито, черга до Кримського мосту.") == \
+        "Рух Керченським мостом перекрито, черга до Керченського мосту."
+    assert apply_terms("Вибухи біля кримського мосту") == "Вибухи біля керченського мосту"
+    assert apply_terms("Кримський півострів") == "Кримський півострів"
+    # the retelling may use our name even though the source says «Кримський»
+    ev = {"a": "Сили оборони уразили Кримський міст 20 листопада."}
+    assert check_text("Сили оборони уразили Керченський міст 20 листопада.", ev) == []
