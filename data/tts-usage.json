@@ -1,6 +1,6 @@
 {
   "2026-11": {
-    "characters": 9417,
+    "characters": 10518,
     "editions": {
       "2026-11-13": {
         "characters": 1409,
@@ -28,6 +28,10 @@
       },
       "2026-11-19": {
         "characters": 1563,
+        "provider": "elevenlabs"
+      },
+      "2026-11-20": {
+        "characters": 1101,
         "provider": "elevenlabs"
       }
     }

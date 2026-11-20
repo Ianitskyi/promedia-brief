@@ -1,8 +1,8 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-20T03:14:10+00:00",
+  "generated_at": "2026-11-20T05:58:17+00:00",
   "source_count": 122,
-  "item_count": 2560,
+  "item_count": 2561,
   "items": [
     {
       "id": "284a769f7e107837",
@@ -706,6 +706,23 @@
       "status": "new"
     },
     {
+      "id": "b64777f77bd94636",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1422909-na-harkivsini-20-diatimut-pogodinni-vidklucenna-svitla-grafik",
+      "title": "На Харківщині 20 листопада діятимуть погодинні відключення світла: графік",
+      "published_at": "2026-11-19T21:15:02+00:00",
+      "published_raw": "Thu, 19 Nov 2026 23:15:02 +0200",
+      "fetched_at": "2026-11-20T05:58:17+00:00",
+      "description": "У Харківській області 20 листопада з 00:00 до 23:59 діятимуть графіки погодинних відключень електроенергії. Причиною є складна ситуація в енергосистемі, спричинена російськими ударами",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4e875d7cd84a3ae1",
       "source_id": "map-1020",
       "source": "Волинь Оnline",
@@ -906,25 +923,6 @@
       "status": "new"
     },
     {
-      "id": "210ca5e1bc729166",
-      "source_id": "zn",
-      "source": "ZN.UA",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://zn.ua/ukr/SPORT/ne-khochu-zraditi-svoju-krajinu-ukrajinska-chempionka-svitu-z-boksu-vidmovilasja-vistupati-pid-praporom-ssha.html",
-      "title": "\"Не хочу зрадити свою країну\": українська чемпіонка світу з боксу відмовилася виступати під прапором США",
-      "published_at": "2026-11-19T21:14:39+00:00",
-      "published_raw": "Thu, 19 Nov 2026 23:14:39 +0200",
-      "fetched_at": "2026-11-19T21:32:48+00:00",
-      "description": "Кіра Макогоненко зізналася, що її мотивує можливість виступати за рідну країну.",
-      "categories": [
-        "Спорт"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "0ae2263a9c874534",
       "source_id": "map-940",
       "source": "Букви",
@@ -940,6 +938,25 @@
         "Новини",
         "ендометріоз",
         "хвороба"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "210ca5e1bc729166",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/SPORT/ne-khochu-zraditi-svoju-krajinu-ukrajinska-chempionka-svitu-z-boksu-vidmovilasja-vistupati-pid-praporom-ssha.html",
+      "title": "\"Не хочу зрадити свою країну\": українська чемпіонка світу з боксу відмовилася виступати під прапором США",
+      "published_at": "2026-11-19T21:14:00+00:00",
+      "published_raw": "Thu, 19 Nov 2026 23:14:00 +0200",
+      "fetched_at": "2026-11-19T21:32:48+00:00",
+      "description": "Кіра Макогоненко зізналася, що її мотивує можливість виступати за рідну країну.",
+      "categories": [
+        "Спорт"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -9750,6 +9767,23 @@
       "status": "new"
     },
     {
+      "id": "b0c52d92522c0098",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sumy/1455104-zaginuv-vijskovosluzbovec-z-sum-artur-nazarov",
+      "title": "Загинув військовослужбовець із Сум Артур Назаров",
+      "published_at": "2026-11-19T17:34:56+00:00",
+      "published_raw": "Thu, 19 Nov 2026 19:34:56 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Загинув військовослужбовець з Сум Артур Назаров. Захисник документував події на Майдані під час Революції гідності. У 2014-2015 роках воював на передовій і був у війську з 24 лютого 2022 року",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "f48bc4388c675873",
       "source_id": "babel",
       "source": "Бабель",
@@ -10655,6 +10689,23 @@
       "categories": [
         "Новина"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9722f99ea6c48d31",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1455133-na-fronti-zaginuv-solist-zaporizkoi-oblasnoi-filarmonii-bogdan-hiznak",
+      "title": "На фронті загинув соліст Запорізької обласної філармонії Богдан Хижняк",
+      "published_at": "2026-11-19T17:16:09+00:00",
+      "published_raw": "Thu, 19 Nov 2026 19:16:09 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Захищаючи територіальну цілісність та незалежність України, на фронті загинув соліст Запорізької обласної філармонії Богдан Хижняк",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -12502,6 +12553,23 @@
       "status": "new"
     },
     {
+      "id": "016abed4ee3c8ae2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1455115-cerez-rosijsku-ataku-poskodzeno-najstarisij-zitlovij-budinok-kieva",
+      "title": "Через російську атаку пошкоджено найстаріший житловий будинок Києва",
+      "published_at": "2026-11-19T16:34:48+00:00",
+      "published_raw": "Thu, 19 Nov 2026 18:34:48 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Унаслідок російського удару 19 листопада пошкоджено найстаріший житловий будинок Києва, зведений у 1798 році, та інші пам'ятки заповідника «Стародавній Київ».",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "091b440ab20f7edb",
       "source_id": "suspilne",
       "source": "Суспільне Новини",
@@ -13345,23 +13413,6 @@
       "status": "new"
     },
     {
-      "id": "2f9a0371fec8450a",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1455080-u-robi-ta-jogo-gri-bulo-sos-osoblive-dzeff-bezos-pro-kasting-na-rol-bonda",
-      "title": "«У Робі та його грі було щось особливе»: Джефф Безос про кастинг на роль Бонда",
-      "published_at": "2026-11-19T16:15:47+00:00",
-      "published_raw": "Thu, 19 Nov 2026 18:15:47 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Засновник Amazon Джефф Безос розповів про свою роль у відборі актора на роль агента 007 та про те, як на екранних пробах затвердили Роберта Паттінсона.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "3fa6f17654694bdf",
       "source_id": "map-726",
       "source": "Медіа Доказ",
@@ -14088,7 +14139,7 @@
       "fetched_at": "2026-11-19T05:58:30+00:00",
       "description": "У Черкаській обласній лікарні 18 листопада стартував перший державний пілотний проєкт з остеоінтеграції військових зі складними ампутаціями. У його межах до кінця 2026 року планують провести 25 операцій, із них 16 — у Черкасах. Про те, як працює метод остеоінтеграції, скільки операцій оплатить держава та як військові відновлюються після складних ампутацій, дізнавалися журналісти «18000». Хочеш більше важливих історій про людей і зміни в Черкасах?",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15517,23 +15568,6 @@
       "status": "new"
     },
     {
-      "id": "b0c52d92522c0098",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/sumy/1455104-zaginuv-vijskovosluzbovec-z-sum-artur-nazarov",
-      "title": "Загинув військовослужбовець із Сум Артур Назаров",
-      "published_at": "2026-11-19T15:34:56+00:00",
-      "published_raw": "Thu, 19 Nov 2026 17:34:56 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Загинув військовослужбовець з Сум Артур Назаров. Захисник документував події на Майдані під час Революції гідності. У 2014-2015 роках воював на передовій і був у війську з 24 лютого 2022 року",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "681a63bd0178db4e",
       "source_id": "map-687",
       "source": "Гривна",
@@ -15567,23 +15601,6 @@
       "published_raw": "Thu, 19 Nov 2026 17:34:15 +0200",
       "fetched_at": "2026-11-20T03:14:10+00:00",
       "description": "У Житомирі відновили рух тролейбусів, які були зупинені через брак електроенергії після обстрілів РФ. Трамваї поки на маршрути не вийшли. Яка реакція місцевих жителів",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "d1c5b5da160c7529",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1455078-ukrainska-kinoakademia-obrala-novij-sklad-pravlinna-ta-nagladovoi-radi",
-      "title": "Українська кіноакадемія обрала новий склад правління та наглядової ради",
-      "published_at": "2026-11-19T15:34:14+00:00",
-      "published_raw": "Thu, 19 Nov 2026 17:34:14 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Українська кіноакадемія оголосила результати виборів до Правління та Наглядової ради. До Правління увійшли 15 представників української кіноіндустрії.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -16581,23 +16598,6 @@
       "published_raw": "Thu, 19 Nov 2026 17:16:38 +0200",
       "fetched_at": "2026-11-20T03:14:10+00:00",
       "description": "ЮНЕСКО засудила російську атаку на історичний центр Одеси. За даними Олега Кіпера, пошкоджені 14 будівель — пам'яток архітектури в зоні ЮНЕСКО.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "9722f99ea6c48d31",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/zaporizhzhia/1455133-na-fronti-zaginuv-solist-zaporizkoi-oblasnoi-filarmonii-bogdan-hiznak",
-      "title": "На фронті загинув соліст Запорізької обласної філармонії Богдан Хижняк",
-      "published_at": "2026-11-19T15:16:09+00:00",
-      "published_raw": "Thu, 19 Nov 2026 17:16:09 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Захищаючи територіальну цілісність та незалежність України, на фронті загинув соліст Запорізької обласної філармонії Богдан Хижняк",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -17890,23 +17890,6 @@
       "status": "new"
     },
     {
-      "id": "2e318fee63097344",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1455022-litovskij-paviljon-bojkotue-novu-gladacku-premiu-venecijskoi-bienale-cerez-vidstavku-miznarodnogo-zuri",
-      "title": "Литовський павільйон бойкотує нову глядацьку премію Венеційської бієнале через відставку міжнародного журі",
-      "published_at": "2026-11-19T14:55:34+00:00",
-      "published_raw": "Thu, 19 Nov 2026 16:55:34 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Литовський павільйон відмовився від участі в конкурсі Visitors' Lions на Венеційській бієнале на знак солідарності з п'ятьма членами міжнародного журі, які подали у відставку.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "13080d4335b5e4e3",
       "source_id": "map-586",
       "source": "Вгору",
@@ -18506,23 +18489,6 @@
       "status": "new"
     },
     {
-      "id": "bcf18e75f4bbe867",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1455049-kinofestival-mikolajcuk-open-ogolosiv-dati-provedenna-u-2027-roci-ta-vidkriv-prijom-zaavok",
-      "title": "Кінофестиваль «Миколайчук Open» оголосив дати проведення у 2027 році та відкрив прийом заявок",
-      "published_at": "2026-11-19T14:42:23+00:00",
-      "published_raw": "Thu, 19 Nov 2026 16:42:23 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Шостий фестиваль Миколайчук OPEN відбудеться 12–19 червня 2027 року в Чернівцях. Умови участі, дедлайни подачі фільмів і кліпів на FilmFreeway та розмір грошових призів.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "3b241bd3d08e113f",
       "source_id": "map-645",
       "source": "CBN",
@@ -19102,23 +19068,6 @@
         "військові",
         "медики"
       ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "016abed4ee3c8ae2",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/culture/1455115-cerez-rosijsku-ataku-poskodzeno-najstarisij-zitlovij-budinok-kieva",
-      "title": "Через російську атаку пошкоджено найстаріший житловий будинок Києва",
-      "published_at": "2026-11-19T14:34:48+00:00",
-      "published_raw": "Thu, 19 Nov 2026 16:34:48 +0200",
-      "fetched_at": "2026-11-20T03:14:10+00:00",
-      "description": "Унаслідок російського удару 19 листопада пошкоджено найстаріший житловий будинок Києва, зведений у 1798 році, та інші пам'ятки заповідника «Стародавній Київ».",
-      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -20025,6 +19974,23 @@
         "Запоріжжя",
         "Суспільство"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2f9a0371fec8450a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1455080-u-robi-ta-jogo-gri-bulo-sos-osoblive-dzeff-bezos-pro-kasting-na-rol-bonda",
+      "title": "«У Робі та його грі було щось особливе»: Джефф Безос про кастинг на роль Бонда",
+      "published_at": "2026-11-19T14:15:47+00:00",
+      "published_raw": "Thu, 19 Nov 2026 16:15:47 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Засновник Amazon Джефф Безос розповів про свою роль у відборі актора на роль агента 007 та про те, як на екранних пробах затвердили Роберта Паттінсона.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -22296,6 +22262,23 @@
       "status": "new"
     },
     {
+      "id": "d1c5b5da160c7529",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1455078-ukrainska-kinoakademia-obrala-novij-sklad-pravlinna-ta-nagladovoi-radi",
+      "title": "Українська кіноакадемія обрала новий склад правління та наглядової ради",
+      "published_at": "2026-11-19T13:34:14+00:00",
+      "published_raw": "Thu, 19 Nov 2026 15:34:14 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Українська кіноакадемія оголосила результати виборів до Правління та Наглядової ради. До Правління увійшли 15 представників української кіноіндустрії.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "19badd96c94a6d10",
       "source_id": "lb",
       "source": "LB.ua",
@@ -24446,6 +24429,23 @@
       "status": "new"
     },
     {
+      "id": "2e318fee63097344",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1455022-litovskij-paviljon-bojkotue-novu-gladacku-premiu-venecijskoi-bienale-cerez-vidstavku-miznarodnogo-zuri",
+      "title": "Литовський павільйон бойкотує нову глядацьку премію Венеційської бієнале через відставку міжнародного журі",
+      "published_at": "2026-11-19T12:55:34+00:00",
+      "published_raw": "Thu, 19 Nov 2026 14:55:34 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Литовський павільйон відмовився від участі в конкурсі Visitors' Lions на Венеційській бієнале на знак солідарності з п'ятьма членами міжнародного журі, які подали у відставку.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "895e148e2167c121",
       "source_id": "map-1220",
       "source": "Перша електронна газета",
@@ -25344,6 +25344,23 @@
       "published_raw": "Thu, 19 Nov 2026 14:42:55 +0200",
       "fetched_at": "2026-11-19T13:04:32+00:00",
       "description": "Прем’єр-міністр та очільник МЗС Польщі розкритикувли дружній жест Трампа під час спілкування із путіним на саміті АТЕС.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bcf18e75f4bbe867",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/culture/1455049-kinofestival-mikolajcuk-open-ogolosiv-dati-provedenna-u-2027-roci-ta-vidkriv-prijom-zaavok",
+      "title": "Кінофестиваль «Миколайчук Open» оголосив дати проведення у 2027 році та відкрив прийом заявок",
+      "published_at": "2026-11-19T12:42:23+00:00",
+      "published_raw": "Thu, 19 Nov 2026 14:42:23 +0200",
+      "fetched_at": "2026-11-20T03:14:10+00:00",
+      "description": "Шостий фестиваль Миколайчук OPEN відбудеться 12–19 червня 2027 року в Чернівцях. Умови участі, дедлайни подачі фільмів і кліпів на FilmFreeway та розмір грошових призів.",
       "categories": [],
       "date_issues": [],
       "content_signals": {},
@@ -49890,6 +49907,12 @@
       "at": "2026-11-20T03:14:10+00:00",
       "fetched": 1759,
       "added": 213,
+      "errors": 3
+    },
+    {
+      "at": "2026-11-20T05:58:17+00:00",
+      "fetched": 1628,
+      "added": 1,
       "errors": 3
     }
   ]
