@@ -578,6 +578,13 @@
     "_cutoff_comment": "Owner, 2026-11-17: the edition is the news as of the morning — only items published before this Kyiv time on the edition day, whenever GitHub actually runs the job.",
     "cutoff": "08:00",
     "strikes_max_region_killed": 20,
-    "outro": "Це був BRIEF станом на ранок {date_words_gen}. Посилання на першоджерела — на сайті BRIEF."
+    "outro": "Це був BRIEF станом на ранок {date_words_gen}. Посилання на першоджерела — на сайті BRIEF.",
+    "_terms_comment": "Owner, 2026-11-20: our own wording for names the sources spell differently. Applied by the program to every line of the spoken edition (retold or verbatim), its titles and the teaser; the check accepts both forms. pattern is a regex, replacement may use its groups; the first letter keeps its case.",
+    "terms": [
+      {
+        "pattern": "\\bКримськ(ий|ого|ому|им|ім) (міст|мосту|моста|мостом|мості)\\b",
+        "replacement": "Керченськ\\1 \\2"
+      }
+    ]
   }
 }
