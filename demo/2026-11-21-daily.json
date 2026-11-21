@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-21",
+  "variant": "daily",
+  "audio": "demo/2026-11-21-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 103.48,
+  "asr_mean_cer": 0.024,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "380ccf32e8e8f72b9b2eb55d72ac4b4ae9a9299df80c27286dcf657c258ada54",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-21-daily/intro.mp3",
+      "duration_sec": 14.16,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок двадцять першого листопада: масована російська атака на Київ і енергетику, удари по Львову та Кривому Рогу, а також відновлення Керченського мосту."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по енергетиці",
+      "audio": "demo/2026-11-21-daily/story-1.mp3",
+      "duration_sec": 17.59,
+      "topics": [
+        "Війна та безпека",
+        "Політика",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "kyiv",
+        "kharkiv"
+      ],
+      "text": [
+        "За словами президента Володимира Зеленського, Росія випустила по Україні понад 110 ракет і понад 400 дронів.",
+        "Під ударом були об'єкти, від яких залежать атомні станції та енергозв'язок з Європою.",
+        "АЕС вимушено знизили потужність, а одна з ТЕС ДТЕК припинила генерацію."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/vidklyuchennya-svitla-20-listopada-rosiya-vdarila-po-pidstanciyah-aes-ta-liniyah-spoluchennya-z-yevropoyu-50660983.html"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13952-rosiya-zastosuvala-kasetni-rakety-ta-byla-povtorno-kozhni-2030-khvylyn-zelenskyy-pro-nichnu-ataku"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/20/rosiia-vypustyla-po-ukraini-ponad-110-raket-i-400-droniv-zelenskyj-rozpoviv-pro-osoblyvosti-ataky"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/rakety-pauzamy-20-30-xvylyn-zelenskyj-nazvav-nichnu-ataku-odniyeyu-najmasovanishyx"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/krimskij-mist-vse-odno-ne-vstojit-zelenskij-poperediv-putina-pro-podalshu-dolju-perepravi.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-masovano-atakuvala-tes-dtek-stanciya-pripinila-generaciyu-elektriki-50661119.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/rosiia-masovano-atakuvala-tes-dtek-stantsiia-prypynyla-heneratsiiu"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dtek-tes-ataka-rf-heneratsiya/33902772.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4186958-rosia-zdijsnila-masovanu-ataku-na-tes-dtek-stancia-pripinila-generaciu.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiia-zdiysnyla-masovanu-ataku-na-tes-dtek-stantsiia-prypynyla-heneratsiiu-elektroenerhii"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063877"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/20/cherez-masovanyj-udar-rf-zupynyla-robotu-odna-z-tes-dtek"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782666_tes_dtek_pripinila_generatsiyu.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240102.html"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/ukraina-vidbyla-masovanu-ataku-zneshkodzheno-82-rakety-ta-380-droniv"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/rakety-pauzamy-20-30-xvylyn-zelenskyj-nazvav-nichnu-ataku-odniyeyu-najmasovanishyx"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/unaslidok-rosijskoyi-ataki-na-harkivshhini-poraneno-dvoh-energetikiv"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/ekonomika-cherez-masovanu-ataku-rf-na-energetichnu-infrastrukturu-v-niztsi-regioniv-avariyno-vimikali-svitlo"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/ukrainski-aes-znyzyly-potuzhnist-cherez-rosiiski-udary-po"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/economic/1240116.html"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/na-kharkivshchyni-pid-obstril-potrapyly-spivrobitnyky-poshty-i-enerhetyky"
+        },
+        {
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/na-harkivsini-cerez-rosijski-obstrili-poranilo-dvoh-inzeneriv-energetikiv.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1455301-na-harkivsini-cerez-rosijskij-udar-buli-poraneni-dvoe-energetikiv"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по Львову",
+      "audio": "demo/2026-11-21-daily/story-2.mp3",
+      "duration_sec": 20.24,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "lviv",
+        "kyiv",
+        "zhytomyr"
+      ],
+      "text": [
+        "У Львові 20 листопада двоє людей загинули внаслідок російського удару по залізничній станції «Скнилів».",
+        "Ще 10 людей постраждали, повідомив мер Андрій Садовий.",
+        "Через удар по енергетиці були перебої з електротранспортом і водопостачанням."
+      ],
+      "sources": [
+        {
+          "name": "ZAXID.NET",
+          "url": "https://zaxid.net/vnaslidok_ataki_na_zaliznichnu_stantsiyu_skniliv_u_lvovi_zaginuli_dvoye_lyudey_n1650588"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063746"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1455265-u-lvovi-vnaslidok-ataki-rf-zaginuli-dvi-ludini"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vid-vorozhyh-udariv-u-lvovi-zagynulo-dvoye-lyudej-ye-postrazhdali-ta-rujnuvannya-i573724"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiiany-vbyly-dvokh-liudey-na-zaliznychniy-stantsii-bilia-lvova"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13935-dvoye-zahyblykh-i-semero-poranenykh-u-lvovi-zrosla-kilkist-postrazhdalykh-vnaslidok-ataky-po-stantsiyi-sknyliv"
+        },
+        {
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/zagibli-u-kiyivi-i-lvovi-golovne-pro-naslidki-ataki-20-listopada-12013234.html"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/unaslidok-rosiyskoyi-ataky-u-lvovi-zahynuly-dvoye-lyudey-ye-postrazhdali"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13937-uzhe-10-postrazhdalykh-v-likarnyakh-vnaslidok-ataky-na-lviv"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/suspilstvo/lvovi-zrosla-kilkist-postrazhdalyx-vnaslidok-rosijskoyi-ataky"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/20/u-lvovi-utochnyly-naslidky-rosijskoyi-ataky-foto"
+        },
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/11/20/yakymy-ye-naslidky-udaru-rf-po-lvovu"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-sadovyi-udar-lviv-postrazhdali/33902478.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-vdarila-po-zaliznichniy-stanciji-skniliv-ye-zagibli-ta-poraneni-50660869.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1455399-zupiniv-potag-na-pidizdi-ta-evakuuvav-ludej-v-ukrzaliznici-rozpovili-pro-udar-po-stancii-skniliv-u-lvovi"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782448_vorog_proviv_raketno-dronovu.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-19-listopada-rf-zapustila-po-ukrajini-grupi-bpla-mapa-povitryanih-trivog-50660834.html"
+        },
+        {
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/11/20/pid-chas-rosijskoyi-ataky-na-lvivshhyni-zagynuly-dvoye-cholovikiv"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13978-vidklyuchennya-svitla-na-lvivshchyni-hrafik-na-subotu-21-lystopada"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Кривий Ріг",
+      "audio": "demo/2026-11-21-daily/story-3.mp3",
+      "duration_sec": 12.78,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "kyiv",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Росіяни ввечері 20 листопада вдарили балістичними ракетами по Кривому Рогу.",
+        "Серед загиблих — 20-річна фельдшерка швидкої і 7-річний хлопчик.",
+        "Постраждали щонайменше 42 людини."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4186802-u-krivomu-rozi-povnistu-vidnovili-elektro-ta-teplopostacanna.html"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/kryvyi-rih-zahynula-feldsherka"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/posle-udara-ballystykoj-po-kryvomu-rogu-pry-yspolnenyy-sluzhebnyh-obyazannostej-pogybla-feldsher-i573806"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/kriviy-rig-raketniy-udar-zabrav-zhittya-ditini-i-feldsherki-poshkodzheno-budinki-50661152.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/ataka-kryvyj-rih-zahynuly-feldsherka-ta-7-richnyj-xlopchyk-kilkist-poranenyx-zrosla"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782676_viyska_rf_zavdali_udaru_krivomu.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240162.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-20-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50661162.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kriviy-rig-vnaslidok-udaru-bpla-spalahnula-pozhezha-na-promislovomu-pidpriyemstvi-50661216.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063886"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-kryvyj-rig-raketamy-j-dronamy-dvoye-zagyblyh-23-poranenyh"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "audio": "demo/2026-11-21-daily/story-4.mp3",
+      "duration_sec": 25.63,
+      "topics": [
+        "Війна та безпека",
+        "Політика",
+        "Міжнародне"
+      ],
+      "regions": [
+        "kyiv",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 6 людей, ще щонайменше 17 людей поранено.",
+        "Масована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі.",
+        "У Запоріжжі 17 людей поранені внаслідок російського удару по Космічному району 20 листопада."
+      ],
+      "sources": [
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063766"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/u-kyievi-kilkist-zahyblykh-zrosla-do-6-zahalom-rosiiany-vbyly"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/kilkist-zahyblykh-u-kyievi-zrosla-do-shesty-koretskyy-opryliudnyv-novi-detali-pro-udar-rf-po-ukraini"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-kyyevi-vzhe-shestero-zagyblyh-vnaslidok-nichnoyi-ataky-rashystiv-i573742"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/u-kyievi-vnaslidok-rosiiskoi-ataky-zahynuly-shestero-liudei-shche-15-postrazhdaly"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/masovana-ataka-rf-na-kyiv-i-dev-iat-oblastej-ukrainy-vosmero-zahyblykh-ie-postrazhdali"
+        },
+        {
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-masovana-raketna-ataka-na-kiiv-zaginuli-lyudi-poshkodzheni-mosti-biznes-zaklikali-organizuvati-distantsiynu-robotu"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/20/u-kyyevi-do-shesty-zrosla-kilkist-zagyblyh-vnaslidok-rosijskoyi-ataky-shhe-15-lyudej-postrazhdaly"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1239786.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/nichna-ataka-kyyiv-kilkist-zhertv-ta-poranenyx-zrosla"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/udar-po-kyievu-20-lystopada-semero-zahyblykh-17-postrazhdalykh-i-poshkodzheni-try-mosty"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240148.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/unaslidok-ataky-rosii-na-robochomu-mistsi-zahynuly-pratsivnyky"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/20/406862_okupanty-vdaryly-kabom-bilya-budynku-u-zaporizhzhi-shho-vidomo-pro-naslidky"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/poraneno-lyudey-poshkodzheno-bagatopoverhivku-ta-avto-vse-shho-vidomo-pro-naslidky-udaru-kabu-zaporizhzhyu"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/suspilstvo/okupanty-vdaryly-kabom-bahatopoverxivky-zaporizhzhi-sered-poranenyx-dytyna"
+        },
+        {
+          "name": "Відбудова.Запоріжжя",
+          "url": "https://vidbudova.zp.ua/u-zaporizhzhi-kab-vpav-u-dvir-bahatopoverkhivky-poshkodzheni-desiatky-kvartyr-foto"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiiany-atakuvaly-zaporizhzhia-kabamy-bomba-vpala-bilia-zhytlovoho-budynku"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240111.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782660_17_lyudey_postrazhdali_vnaslidok.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-rf-na-zaporizhzhya-20-listopada-ye-postrazhdali-sered-mirnih-zhiteliv-poshkodzheni-budinki-foto-50661077.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118258-u-zaporizzi-vnaslidok-ataki-rosiian-poraneni-17-liudei-sered-nix-ditina"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/21/406951_nichnyj-obstril-zaporizhzhya-u-misti-poshkodzheno-dytsadok"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/20/406824_rosijskyj-fpv-dron-atakuvav-budivlyu-zaporizkoyi-ova-v-czentri-mista"
+        }
+      ],
+      "digest": {
+        "killed": 6,
+        "injured": 17,
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "parts": [
+          {
+            "place": "у Києві та області",
+            "kind": "загиблі",
+            "n": 6,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/20/8063766"
+          },
+          {
+            "place": "у Києві та області",
+            "kind": "поранені",
+            "n": 17,
+            "source": "Еспресо",
+            "url": "https://espreso.tv/viyna-z-rosiyeyu-masovana-raketna-ataka-na-kiiv-zaginuli-lyudi-poshkodzheni-mosti-biznes-zaklikali-organizuvati-distantsiynu-robotu"
+          }
+        ]
+      }
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-21-daily/outro.mp3",
+      "duration_sec": 6.89,
+      "text": [
+        "Це був BRIEF станом на ранок двадцять першого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}

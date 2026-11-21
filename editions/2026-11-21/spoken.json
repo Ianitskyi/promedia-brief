@@ -1,0 +1,1002 @@
+{
+  "date": "2026-11-21",
+  "kind": "spoken",
+  "made_at": "2026-11-21T06:02:50+00:00",
+  "approved_sha256": "b6c395d58fccd9c8367f58ed2982b1cae7ec61dde62b369ade0330897197dcb9",
+  "approved_by": "BRIEF auto (без редактора)",
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "kind": "intro",
+          "text": "Це BRIEF. Головне за добу станом на ранок двадцять першого листопада: масована російська атака на Київ і енергетику, удари по Львову та Кривому Рогу, а також відновлення Керченського мосту."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по енергетиці",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-1-s1",
+          "kind": "story",
+          "text": "За словами президента Володимира Зеленського, Росія випустила по Україні понад 110 ракет і понад 400 дронів."
+        },
+        {
+          "id": "story-1-s2",
+          "kind": "story",
+          "text": "Під ударом були об'єкти, від яких залежать атомні станції та енергозв'язок з Європою."
+        },
+        {
+          "id": "story-1-s3",
+          "kind": "story",
+          "text": "АЕС вимушено знизили потужність, а одна з ТЕС ДТЕК припинила генерацію."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "da36a659e79508f9",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/vidklyuchennya-svitla-20-listopada-rosiya-vdarila-po-pidstanciyah-aes-ta-liniyah-spoluchennya-z-yevropoyu-50660983.html",
+          "title": "Росія вночі била по енергетичних лініях, що забезпечують роботу АЕС та зв’язок України з Європою — Зеленський",
+          "published_at": "2026-11-20T11:09:00+00:00"
+        },
+        {
+          "item_id": "fb47f6f8fb3ca043",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13952-rosiya-zastosuvala-kasetni-rakety-ta-byla-povtorno-kozhni-2030-khvylyn-zelenskyy-pro-nichnu-ataku",
+          "title": "Росія застосувала касетні ракети та била повторно кожні 20–30 хвилин: Зеленський про нічну атаку",
+          "published_at": "2026-11-20T11:50:00+00:00"
+        },
+        {
+          "item_id": "c7b7f6d3d314378e",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/20/rosiia-vypustyla-po-ukraini-ponad-110-raket-i-400-droniv-zelenskyj-rozpoviv-pro-osoblyvosti-ataky",
+          "title": "Росія випустила по Україні понад 110 ракет і 400 дронів: Зеленський розповів про особливості атаки",
+          "published_at": "2026-11-20T11:13:28+00:00",
+          "related": true
+        },
+        {
+          "item_id": "30b0800da578f3bc",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/rakety-pauzamy-20-30-xvylyn-zelenskyj-nazvav-nichnu-ataku-odniyeyu-najmasovanishyx",
+          "title": "«Ракети з паузами у 20-30 хвилин»: Зеленський назвав нічну атаку однією з наймасованіших",
+          "published_at": "2026-11-20T12:26:19+00:00",
+          "related": true
+        },
+        {
+          "item_id": "1689e2cfdd2d1798",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/krimskij-mist-vse-odno-ne-vstojit-zelenskij-poperediv-putina-pro-podalshu-dolju-perepravi.html",
+          "title": "«Кримський міст все одно не встоїть»: Зеленський попередив Путіна про подальшу долю переправи",
+          "published_at": "2026-11-21T02:02:09+00:00",
+          "related": true
+        },
+        {
+          "item_id": "f459f76a169a8bf2",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-masovano-atakuvala-tes-dtek-stanciya-pripinila-generaciyu-elektriki-50661119.html",
+          "title": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію електрики",
+          "published_at": "2026-11-20T17:37:00+00:00"
+        },
+        {
+          "item_id": "05d94607052c8bdb",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/rosiia-masovano-atakuvala-tes-dtek-stantsiia-prypynyla-heneratsiiu",
+          "title": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію електрики",
+          "published_at": "2026-11-20T17:44:27+00:00"
+        },
+        {
+          "item_id": "a70543471ff32812",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dtek-tes-ataka-rf-heneratsiya/33902772.html",
+          "title": "ДТЕК: після масованої атаки РФ ТЕС компанії припинила генерацію",
+          "published_at": "2026-11-20T18:05:54+00:00"
+        },
+        {
+          "item_id": "f2e75b1828850bcf",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4186958-rosia-zdijsnila-masovanu-ataku-na-tes-dtek-stancia-pripinila-generaciu.html",
+          "title": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію",
+          "published_at": "2026-11-20T18:16:00+00:00"
+        },
+        {
+          "item_id": "5c786e69e3a786d0",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiia-zdiysnyla-masovanu-ataku-na-tes-dtek-stantsiia-prypynyla-heneratsiiu-elektroenerhii",
+          "title": "Росія здійснила масовану атаку на ТЕС ДТЕК — станція припинила генерацію електроенергії",
+          "published_at": "2026-11-20T18:25:51+00:00"
+        },
+        {
+          "item_id": "c0c02f025ca39ab8",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063877",
+          "title": "Через російську атаку ТЕС ДТЕК зупинила роботу",
+          "published_at": "2026-11-20T18:32:00+00:00"
+        },
+        {
+          "item_id": "5443b423fc3bc817",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/20/cherez-masovanyj-udar-rf-zupynyla-robotu-odna-z-tes-dtek",
+          "title": "Через масований удар рф зупинила роботу одна з ТЕС ДТЕК",
+          "published_at": "2026-11-20T18:48:57+00:00"
+        },
+        {
+          "item_id": "f46318c3f9c3225b",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782666_tes_dtek_pripinila_generatsiyu.html",
+          "title": "ТЕС ДТЕК припинила генерацію через масовану атаку Росії",
+          "published_at": "2026-11-20T18:53:00+00:00"
+        },
+        {
+          "item_id": "f15247f2792db471",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240102.html",
+          "title": "Одна з теплоелектростанцій ДТЕК припинила генерацію електроенергії через російську масовану атаку",
+          "published_at": "2026-11-20T18:57:23+00:00"
+        },
+        {
+          "item_id": "4f72a05330572da6",
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/ukraina-vidbyla-masovanu-ataku-zneshkodzheno-82-rakety-ta-380-droniv",
+          "title": "Україна відбила масовану атаку: знешкоджено 82 ракети та 380 дронів",
+          "published_at": "2026-11-20T10:46:39+00:00",
+          "related": true
+        },
+        {
+          "item_id": "30b0800da578f3bc",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/rakety-pauzamy-20-30-xvylyn-zelenskyj-nazvav-nichnu-ataku-odniyeyu-najmasovanishyx",
+          "title": "«Ракети з паузами у 20-30 хвилин»: Зеленський назвав нічну атаку однією з наймасованіших",
+          "published_at": "2026-11-20T12:26:19+00:00",
+          "related": true
+        },
+        {
+          "item_id": "6fd7fd52b89b18eb",
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/unaslidok-rosijskoyi-ataki-na-harkivshhini-poraneno-dvoh-energetikiv",
+          "title": "Унаслідок російської атаки на Харківщині поранено двох енергетиків",
+          "published_at": "2026-11-20T07:43:41+00:00"
+        },
+        {
+          "item_id": "66ec627d992c4186",
+          "name": "Еспресо",
+          "url": "https://espreso.tv/ekonomika-cherez-masovanu-ataku-rf-na-energetichnu-infrastrukturu-v-niztsi-regioniv-avariyno-vimikali-svitlo",
+          "title": "Через масовану атаку РФ на енергетичну інфраструктуру в низці регіонів аварійно вимикали світло",
+          "published_at": "2026-11-20T08:53:00+00:00"
+        },
+        {
+          "item_id": "6054a4959b756167",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/ukrainski-aes-znyzyly-potuzhnist-cherez-rosiiski-udary-po",
+          "title": "Українські АЕС знизили потужність через російські удари по енергосистемі",
+          "published_at": "2026-11-20T11:41:25+00:00"
+        },
+        {
+          "item_id": "46c8d136681b6496",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/economic/1240116.html",
+          "title": "АЕС України поступово нарощують потужність у міру відновлення мереж після російської атаки – ДТЕК",
+          "published_at": "2026-11-20T19:38:18+00:00"
+        },
+        {
+          "item_id": "3acdbd0c1e38dfa6",
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/na-kharkivshchyni-pid-obstril-potrapyly-spivrobitnyky-poshty-i-enerhetyky",
+          "title": "На Харківщині під обстріл потрапили співробітники пошти і енергетики",
+          "published_at": "2026-11-20T14:40:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "624c61ec4b550e26",
+          "name": "Слобідський край",
+          "url": "https://slk.kh.ua/news/suspilstvo/na-harkivsini-cerez-rosijski-obstrili-poranilo-dvoh-inzeneriv-energetikiv.html",
+          "title": "На Харківщині через російські обстріли поранило двох інженерів-енергетиків",
+          "published_at": "2026-11-20T12:30:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "217961b57c422370",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1455301-na-harkivsini-cerez-rosijskij-udar-buli-poraneni-dvoe-energetikiv",
+          "title": "На Харківщині через російський удар були поранені двоє енергетиків",
+          "published_at": "2026-11-20T08:27:07+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-da36a659e79508f9",
+        "national-c-05d94607052c8bdb",
+        "national-c-46c8d136681b6496"
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по Львову",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-2-s1",
+          "kind": "story",
+          "text": "У Львові 20 листопада двоє людей загинули внаслідок російського удару по залізничній станції «Скнилів»."
+        },
+        {
+          "id": "story-2-s2",
+          "kind": "story",
+          "text": "Ще 10 людей постраждали, повідомив мер Андрій Садовий."
+        },
+        {
+          "id": "story-2-s3",
+          "kind": "story",
+          "text": "Через удар по енергетиці були перебої з електротранспортом і водопостачанням."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "7577f20169a75db0",
+          "name": "ZAXID.NET",
+          "url": "https://zaxid.net/vnaslidok_ataki_na_zaliznichnu_stantsiyu_skniliv_u_lvovi_zaginuli_dvoye_lyudey_n1650588",
+          "title": "Внаслідок атаки на залізничну станцію «Скнилів» у Львові загинули двоє людей",
+          "published_at": "2026-11-20T07:07:00+00:00"
+        },
+        {
+          "item_id": "a53206836706d9c2",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063746",
+          "title": "Росіяни атакували залізничну станцію у Львові: 2 загиблих, 10 постраждалих",
+          "published_at": "2026-11-20T07:07:00+00:00"
+        },
+        {
+          "item_id": "3bf5bae8214807a8",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1455265-u-lvovi-vnaslidok-ataki-rf-zaginuli-dvi-ludini",
+          "title": "У Львові внаслідок атаки РФ загинули дві людини, є травмовані",
+          "published_at": "2026-11-20T07:09:10+00:00"
+        },
+        {
+          "item_id": "7749859650db553c",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vid-vorozhyh-udariv-u-lvovi-zagynulo-dvoye-lyudej-ye-postrazhdali-ta-rujnuvannya-i573724",
+          "title": "Від ворожих ударів у Львові загинуло двоє людей, 10 постраждали, є руйнування",
+          "published_at": "2026-11-20T07:12:01+00:00"
+        },
+        {
+          "item_id": "f6c53c532e8b5d9e",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiiany-vbyly-dvokh-liudey-na-zaliznychniy-stantsii-bilia-lvova",
+          "title": "Росіяни вбили двох людей на залізничній станції біля Львова",
+          "published_at": "2026-11-20T07:17:08+00:00"
+        },
+        {
+          "item_id": "89e392360e5f6446",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13935-dvoye-zahyblykh-i-semero-poranenykh-u-lvovi-zrosla-kilkist-postrazhdalykh-vnaslidok-ataky-po-stantsiyi-sknyliv",
+          "title": "Двоє загиблих і семеро поранених: у Львові зросла кількість постраждалих внаслідок атаки по станції \"Скнилів\"",
+          "published_at": "2026-11-20T07:56:13+00:00"
+        },
+        {
+          "item_id": "8c917922aeda294a",
+          "name": "20 хвилин. Тернопіль",
+          "url": "https://te.20minut.ua/Podii/zagibli-u-kiyivi-i-lvovi-golovne-pro-naslidki-ataki-20-listopada-12013234.html",
+          "title": "Загиблі у Київі і Львові: головне про наслідки атаки 20 листопада (оновлене)",
+          "published_at": "2026-11-20T08:02:00+00:00"
+        },
+        {
+          "item_id": "141b5efe6311f6c6",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/unaslidok-rosiyskoyi-ataky-u-lvovi-zahynuly-dvoye-lyudey-ye-postrazhdali",
+          "title": "Унаслідок російської атаки у Львові загинули двоє людей, є постраждалі",
+          "published_at": "2026-11-20T08:03:10+00:00"
+        },
+        {
+          "item_id": "ceb62bb83cc30a88",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13937-uzhe-10-postrazhdalykh-v-likarnyakh-vnaslidok-ataky-na-lviv",
+          "title": "Уже 10 постраждалих в лікарнях Львова внаслідок атаки",
+          "published_at": "2026-11-20T08:18:48+00:00"
+        },
+        {
+          "item_id": "43e0124344825ef9",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/suspilstvo/lvovi-zrosla-kilkist-postrazhdalyx-vnaslidok-rosijskoyi-ataky",
+          "title": "У Львові зросла кількість постраждалих внаслідок російської атаки",
+          "published_at": "2026-11-20T08:28:51+00:00"
+        },
+        {
+          "item_id": "fd8cf736e425649d",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/20/u-lvovi-utochnyly-naslidky-rosijskoyi-ataky-foto",
+          "title": "У Львові уточнили наслідки російської атаки (ФОТО)",
+          "published_at": "2026-11-20T09:46:32+00:00"
+        },
+        {
+          "item_id": "2252901e5d474782",
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/11/20/yakymy-ye-naslidky-udaru-rf-po-lvovu",
+          "title": "Якими є наслідки удару РФ по Львову",
+          "published_at": "2026-11-20T09:50:52+00:00"
+        },
+        {
+          "item_id": "e365036ad0610587",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-sadovyi-udar-lviv-postrazhdali/33902478.html",
+          "title": "Садовий: через удар по Львову постраждали 10 людей, двоє у важкому стані",
+          "published_at": "2026-11-20T10:11:30+00:00"
+        },
+        {
+          "item_id": "62549675c9e49e34",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiya-vdarila-po-zaliznichniy-stanciji-skniliv-ye-zagibli-ta-poraneni-50660869.html",
+          "title": "Удар по Львову та області: Росія атакувала залізничну станцію Скнилів, двоє загиблих, десять постраждалих — головне",
+          "published_at": "2026-11-20T10:22:00+00:00"
+        },
+        {
+          "item_id": "b96f3ac9f99ed709",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/lviv/1455399-zupiniv-potag-na-pidizdi-ta-evakuuvav-ludej-v-ukrzaliznici-rozpovili-pro-udar-po-stancii-skniliv-u-lvovi",
+          "title": "Зупинив потяг на під'їзді та евакуював людей: в «Укрзалізниці» розповіли про удар по станції «Скнилів» у Львові",
+          "published_at": "2026-11-20T11:18:43+00:00"
+        },
+        {
+          "item_id": "5e091d1195bd8405",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782448_vorog_proviv_raketno-dronovu.html",
+          "title": "Ворог провів ракетно-дронову атаку проти Львівської області. Є загиблі внаслідок удару по залізничній станції (оновлено)",
+          "published_at": "2026-11-20T13:01:00+00:00"
+        },
+        {
+          "item_id": "96e220c4fd448055",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/povitryana-trivoga-19-listopada-rf-zapustila-po-ukrajini-grupi-bpla-mapa-povitryanih-trivog-50660834.html",
+          "title": "РФ масовано вдарила по заходу України. Ціль — енергооб'єкти, під атакою були Львів, Івано-Франківщина, аварійні відключення в шести областях та Києві",
+          "published_at": "2026-11-20T10:45:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "858625430423d67d",
+          "name": "Дивись.info",
+          "url": "https://dyvys.info/2026/11/20/pid-chas-rosijskoyi-ataky-na-lvivshhyni-zagynuly-dvoye-cholovikiv",
+          "title": "Під час російської атаки на Львівщині загинули двоє чоловіків",
+          "published_at": "2026-11-20T12:13:38+00:00",
+          "related": true
+        },
+        {
+          "item_id": "f39f5302d0cf7999",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13978-vidklyuchennya-svitla-na-lvivshchyni-hrafik-na-subotu-21-lystopada",
+          "title": "Відключення світла на Львівщині: графік на 21 листопада",
+          "published_at": "2026-11-20T18:00:00+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-141b5efe6311f6c6"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Кривий Ріг",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Росіяни ввечері 20 листопада вдарили балістичними ракетами по Кривому Рогу."
+        },
+        {
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Серед загиблих — 20-річна фельдшерка швидкої і 7-річний хлопчик."
+        },
+        {
+          "id": "story-3-s3",
+          "kind": "story",
+          "text": "Постраждали щонайменше 42 людини."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "8eb7dc98849807f1",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4186802-u-krivomu-rozi-povnistu-vidnovili-elektro-ta-teplopostacanna.html",
+          "title": "У Кривому Розі повністю відновили електро- та теплопостачання",
+          "published_at": "2026-11-20T11:19:00+00:00"
+        },
+        {
+          "item_id": "2f13db0de5ad2549",
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/kryvyi-rih-zahynula-feldsherka",
+          "title": "У Кривому Розі загинула фельдшерка, яка приїхала на місце російського удару (ОНОВЛЕННЯ)",
+          "published_at": "2026-11-20T20:15:21+00:00"
+        },
+        {
+          "item_id": "980223948b1c2810",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/posle-udara-ballystykoj-po-kryvomu-rogu-pry-yspolnenyy-sluzhebnyh-obyazannostej-pogybla-feldsher-i573806",
+          "title": "Після балістичного удару по Кривому Рогу під час виконання службових обов’язків загинула фельдшерка, помер семирічний хлопчик. Кількість поранених зростає",
+          "published_at": "2026-11-20T20:33:00+00:00"
+        },
+        {
+          "item_id": "dee2b7961b885601",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/kriviy-rig-raketniy-udar-zabrav-zhittya-ditini-i-feldsherki-poshkodzheno-budinki-50661152.html",
+          "title": "У Кривому Розі через російський удар у реанімації помер 7-річний хлопчик",
+          "published_at": "2026-11-20T20:37:00+00:00"
+        },
+        {
+          "item_id": "af476bac2a1041d0",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/ataka-kryvyj-rih-zahynuly-feldsherka-ta-7-richnyj-xlopchyk-kilkist-poranenyx-zrosla",
+          "title": "Атака на Кривий Ріг: загинули фельдшерка та 7-річний хлопчик, кількість поранених зросла",
+          "published_at": "2026-11-20T20:59:20+00:00"
+        },
+        {
+          "item_id": "1f8bbf3db2edc31b",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782676_viyska_rf_zavdali_udaru_krivomu.html",
+          "title": "Війська РФ завдали удару по Кривому Розі: є загиблі та щонайменше 42 постраждалих (оновлено)",
+          "published_at": "2026-11-20T21:06:00+00:00"
+        },
+        {
+          "item_id": "cc94754dee1902aa",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240162.html",
+          "title": "РФ завдала ще одного удару БПЛА по промисловому підприємству в Кривому Розі, виникла пожежа – Вілкул",
+          "published_at": "2026-11-21T02:30:07+00:00"
+        },
+        {
+          "item_id": "97cb0785b6d5e62e",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-20-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50661162.html",
+          "title": "Нічна атака шахедами: у низці областей оголосили повітряну тривогу через загрозу БПЛА, є влучання у Запоріжжі, Кривому Розі та Києві",
+          "published_at": "2026-11-21T04:39:00+00:00"
+        },
+        {
+          "item_id": "7e046d5999ae0d81",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kriviy-rig-vnaslidok-udaru-bpla-spalahnula-pozhezha-na-promislovomu-pidpriyemstvi-50661216.html",
+          "title": "Війська РФ вдарили по Кривому Рогу: пошкоджено промислове підприємство, спалахнула пожежа",
+          "published_at": "2026-11-21T02:26:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "3702da99482edc22",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063886",
+          "title": "РФ атакувала балістикою центр Кривого Рогу: загинула фельдшерка і дитина, 47 постраждалих",
+          "published_at": "2026-11-20T23:30:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "747a6513bdbbf8b2",
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-kryvyj-rig-raketamy-j-dronamy-dvoye-zagyblyh-23-poranenyh",
+          "title": "РФ атакувала Кривий Ріг: загинули двоє людей, ще 40 дістали поранення",
+          "published_at": "2026-11-20T21:51:51+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-1f8bbf3db2edc31b"
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-4-s1",
+          "kind": "story",
+          "text": "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 6 людей, ще щонайменше 17 людей поранено."
+        },
+        {
+          "id": "story-4-s2",
+          "kind": "story",
+          "text": "Масована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі."
+        },
+        {
+          "id": "story-4-s3",
+          "kind": "story",
+          "text": "У Запоріжжі 17 людей поранені внаслідок російського удару по Космічному району 20 листопада."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "b17a2b8e66ccf73f",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/20/8063766",
+          "title": "У Києві кількість загиблих зросла до 6, загалом росіяни вбили 8 людей і поранили 30",
+          "published_at": "2026-11-20T08:56:00+00:00"
+        },
+        {
+          "item_id": "d997d77641725b6f",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/u-kyievi-kilkist-zahyblykh-zrosla-do-6-zahalom-rosiiany-vbyly",
+          "title": "У Києві кількість загиблих зросла до 6, загалом росіяни вбили обстрілом 8 людей і поранили 28",
+          "published_at": "2026-11-20T09:24:27+00:00"
+        },
+        {
+          "item_id": "5304d6c976dae22f",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/kilkist-zahyblykh-u-kyievi-zrosla-do-shesty-koretskyy-opryliudnyv-novi-detali-pro-udar-rf-po-ukraini",
+          "title": "Кількість загиблих у Києві зросла до шести: Корецький оприлюднив нові деталі про удар РФ по Україні",
+          "published_at": "2026-11-20T09:27:18+00:00"
+        },
+        {
+          "item_id": "4a787999706713cf",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-kyyevi-vzhe-shestero-zagyblyh-vnaslidok-nichnoyi-ataky-rashystiv-i573742",
+          "title": "У Києві вже шестеро загиблих внаслідок нічної атаки рашистів",
+          "published_at": "2026-11-20T09:28:18+00:00"
+        },
+        {
+          "item_id": "26f0956f01e2e9d4",
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/u-kyievi-vnaslidok-rosiiskoi-ataky-zahynuly-shestero-liudei-shche-15-postrazhdaly",
+          "title": "У Києві внаслідок російської атаки загинули шестеро людей, ще 15 постраждали",
+          "published_at": "2026-11-20T09:34:43+00:00"
+        },
+        {
+          "item_id": "6573be41fc28f8f1",
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/masovana-ataka-rf-na-kyiv-i-dev-iat-oblastej-ukrainy-vosmero-zahyblykh-ie-postrazhdali",
+          "title": "Масована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі",
+          "published_at": "2026-11-20T09:48:04+00:00"
+        },
+        {
+          "item_id": "767796854a7f73d9",
+          "name": "Еспресо",
+          "url": "https://espreso.tv/viyna-z-rosiyeyu-masovana-raketna-ataka-na-kiiv-zaginuli-lyudi-poshkodzheni-mosti-biznes-zaklikali-organizuvati-distantsiynu-robotu",
+          "title": "Масована ракетна атака на Київ: загинули люди, пошкоджені мости, бізнес закликали організувати дистанційну роботу",
+          "published_at": "2026-11-20T10:00:00+00:00"
+        },
+        {
+          "item_id": "8c5430e393437319",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/20/u-kyyevi-do-shesty-zrosla-kilkist-zagyblyh-vnaslidok-rosijskoyi-ataky-shhe-15-lyudej-postrazhdaly",
+          "title": "У Києві до шести зросла кількість загиблих внаслідок російської атаки, ще 15 людей постраждали",
+          "published_at": "2026-11-20T10:05:00+00:00"
+        },
+        {
+          "item_id": "d38bca8a1e9d4adf",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1239786.html",
+          "title": "Кількість постраждалих в Києві зросла до 17 осіб",
+          "published_at": "2026-11-20T10:29:43+00:00"
+        },
+        {
+          "item_id": "3082d46dceeaf0af",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/bezpeka/nichna-ataka-kyyiv-kilkist-zhertv-ta-poranenyx-zrosla",
+          "title": "Нічна атака на Київ: кількість жертв та поранених зросла",
+          "published_at": "2026-11-20T13:43:45+00:00"
+        },
+        {
+          "item_id": "44eff5a199121e7e",
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/udar-po-kyievu-20-lystopada-semero-zahyblykh-17-postrazhdalykh-i-poshkodzheni-try-mosty",
+          "title": "Удар по Києву 20 листопада: семеро загиблих, 17 постраждалих і пошкоджені три мости",
+          "published_at": "2026-11-20T14:26:08+00:00",
+          "related": true
+        },
+        {
+          "item_id": "f2c071173b8987e2",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240148.html",
+          "title": "Внаслідок російського удару повністю знищено знімальний павільйон кінокомпанії Fresh Production Group, люди не постраждали",
+          "published_at": "2026-11-20T23:14:52+00:00",
+          "related": true
+        },
+        {
+          "item_id": "280e576c332d20c5",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/20/unaslidok-ataky-rosii-na-robochomu-mistsi-zahynuly-pratsivnyky",
+          "title": "Унаслідок атаки Росії на робочому місці загинули працівники “Київводоканалу” Віталій Крючек та Дмитро Петров",
+          "published_at": "2026-11-20T19:28:40+00:00",
+          "related": true
+        },
+        {
+          "item_id": "d731b2e789729b49",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/20/406862_okupanty-vdaryly-kabom-bilya-budynku-u-zaporizhzhi-shho-vidomo-pro-naslidky",
+          "title": "Окупанти вдарили КАБом біля будинку у Запоріжжі: що відомо про наслідки (ОНОВЛЮЄТЬСЯ)",
+          "published_at": "2026-11-20T13:33:03+00:00"
+        },
+        {
+          "item_id": "b865e942e2127ad4",
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/poraneno-lyudey-poshkodzheno-bagatopoverhivku-ta-avto-vse-shho-vidomo-pro-naslidky-udaru-kabu-zaporizhzhyu",
+          "title": "Поранено людей, пошкоджено багатоповерхівку та авто: все, що відомо про наслідки удару КАБу Запоріжжю, — ФОТО, ВІДЕО",
+          "published_at": "2026-11-20T14:05:19+00:00"
+        },
+        {
+          "item_id": "b058b9cb26b64209",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/20/novyna/suspilstvo/okupanty-vdaryly-kabom-bahatopoverxivky-zaporizhzhi-sered-poranenyx-dytyna",
+          "title": "Окупанти вдарили КАБом поблизу багатоповерхівки у Запоріжжі, серед поранених – дитина",
+          "published_at": "2026-11-20T14:38:15+00:00"
+        },
+        {
+          "item_id": "6ef3a4aefcea46a2",
+          "name": "Відбудова.Запоріжжя",
+          "url": "https://vidbudova.zp.ua/u-zaporizhzhi-kab-vpav-u-dvir-bahatopoverkhivky-poshkodzheni-desiatky-kvartyr-foto",
+          "title": "У Запоріжжі КАБ впав у двір багатоповерхівки: пошкоджені десятки квартир. ФОТО",
+          "published_at": "2026-11-20T15:03:00+00:00"
+        },
+        {
+          "item_id": "9bf64fa7dc1bbe45",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/20/rosiiany-atakuvaly-zaporizhzhia-kabamy-bomba-vpala-bilia-zhytlovoho-budynku",
+          "title": "Росіяни атакували Запоріжжя КАБами: бомба впала біля житлового будинку",
+          "published_at": "2026-11-20T15:27:28+00:00"
+        },
+        {
+          "item_id": "0f75c62ccf366409",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240111.html",
+          "title": "Армія РФ завдала удару по Запоріжжю: на вечір відомо про 17 постраждалих – ОВА",
+          "published_at": "2026-11-20T19:21:30+00:00"
+        },
+        {
+          "item_id": "d418126dc019d65c",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/20/782660_17_lyudey_postrazhdali_vnaslidok.html",
+          "title": "17 людей постраждали внаслідок російського удару по Запоріжжю (оновлено)",
+          "published_at": "2026-11-20T19:22:00+00:00"
+        },
+        {
+          "item_id": "527a75cfdc82be75",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-rf-na-zaporizhzhya-20-listopada-ye-postrazhdali-sered-mirnih-zhiteliv-poshkodzheni-budinki-foto-50661077.html",
+          "title": "Росія атакувала Запоріжжя: 17 поранених, пошкоджено багатоповерхівки",
+          "published_at": "2026-11-20T19:42:00+00:00"
+        },
+        {
+          "item_id": "b0a92ed1ff47c29a",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118258-u-zaporizzi-vnaslidok-ataki-rosiian-poraneni-17-liudei-sered-nix-ditina",
+          "title": "У Запоріжжі через російський обстріл поранені 17 людей",
+          "published_at": "2026-11-20T20:03:00+00:00"
+        },
+        {
+          "item_id": "8c6b00bd5cb81731",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/21/406951_nichnyj-obstril-zaporizhzhya-u-misti-poshkodzheno-dytsadok",
+          "title": "Нічний обстріл Запоріжжя: у місті пошкоджено дитсадок",
+          "published_at": "2026-11-21T05:08:59+00:00",
+          "related": true
+        },
+        {
+          "item_id": "4be7b9e7b7aecd5d",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/20/406824_rosijskyj-fpv-dron-atakuvav-budivlyu-zaporizkoyi-ova-v-czentri-mista",
+          "title": "Російський FPV-дрон атакував будівлю Запорізької ОВА в центрі міста",
+          "published_at": "2026-11-20T10:04:00+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-26f0956f01e2e9d4",
+        "regional-c-0f75c62ccf366409"
+      ],
+      "digest": {
+        "killed": 6,
+        "injured": 17,
+        "regions": {
+          "kyiv": {
+            "killed": {
+              "n": 6,
+              "clause": "У Києві кількість загиблих зросла до 6",
+              "item_id": "b17a2b8e66ccf73f",
+              "source": "Українська правда",
+              "url": "https://pravda.com.ua/news/2026/11/20/8063766",
+              "reported": [
+                2,
+                6,
+                7,
+                8
+              ]
+            },
+            "injured": {
+              "n": 17,
+              "clause": "Кількість постраждалих збільшилася до 17 людей",
+              "item_id": "767796854a7f73d9",
+              "source": "Еспресо",
+              "url": "https://espreso.tv/viyna-z-rosiyeyu-masovana-raketna-ataka-na-kiiv-zaginuli-lyudi-poshkodzheni-mosti-biznes-zaklikali-organizuvati-distantsiynu-robotu",
+              "reported": [
+                7,
+                15,
+                17,
+                30
+              ]
+            }
+          }
+        },
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "apart": [
+          "national-c-da36a659e79508f9",
+          "national-c-05d94607052c8bdb",
+          "national-c-46c8d136681b6496",
+          "national-c-141b5efe6311f6c6",
+          "national-c-1f8bbf3db2edc31b"
+        ],
+        "skipped": [
+          {
+            "item_id": "3082d46dceeaf0af",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "f2c071173b8987e2",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "d731b2e789729b49",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "b865e942e2127ad4",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "6ef3a4aefcea46a2",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "8c6b00bd5cb81731",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "0f75c62ccf366409",
+            "skipped": "та сама цифра (17) вже є в іншій області: kyiv"
+          }
+        ]
+      }
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "kind": "outro",
+          "text": "Це був BRIEF станом на ранок двадцять першого листопада. Посилання на першоджерела — на сайті BRIEF."
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "evidence": {
+    "7577f20169a75db0": "Внаслідок атаки на залізничну станцію «Скнилів» у Львові загинули двоє людей. [CDATA[ Внаслідок атаки на залізничну станцію «Скнилів» у Львові загинули двоє людей]]>",
+    "a53206836706d9c2": "Росіяни атакували залізничну станцію у Львові: 2 загиблих, 10 постраждалих. Російський удар по станції \"Скнилів\" у Львові 20 листопада – двоє загиблих, 10 поранених. Пошкоджено енергообʼєкт у Стрийському районі.",
+    "3bf5bae8214807a8": "У Львові внаслідок атаки РФ загинули дві людини, є травмовані. У Львові внаслідок атаки РФ по залізничній станції «Скнилів» загинули дві людини. Крім того, є травмовані. Наслідки обстрілу Львівщини 20 листопада.",
+    "7749859650db553c": "Від ворожих ударів у Львові загинуло двоє людей, 10 постраждали, є руйнування. \"Внаслідок ранкової атаки на Львів загинуло двоє людей. Є постраждалі. Щирі співчуття рідним і близьким загиблих\", - повідомив у Телеграм вранці 20 листопада мер міста Андрій Садовий. \"Також є влучання у квитковий термінал на залізничній станції Скнилів (на фото). На місці працюють рятувальники та...",
+    "f6c53c532e8b5d9e": "Росіяни вбили двох людей на залізничній станції біля Львова. Росіяни атакували залізничну станцію «Скнилів» біля Львова, внаслідок чого загинули двоє людей. Про це повідомив голова Львівської обласної військової адміністрації Максим Козицький. За його словами, двоє людей загинули під час атаки ворога по залізничній станції «Скнилів». Ще щонайменше четверо постраждали. Мер Львова Андрій Садовий уточнив, що влучання сталося у квитковий термінал. Козицький пізніше додав, що... Запис Росіяни вбили двох людей на залізничній станції біля Львова спершу з'явиться на Громадське радіо .",
+    "89e392360e5f6446": "Двоє загиблих і семеро поранених: у Львові зросла кількість постраждалих внаслідок атаки по станції \"Скнилів\". Також через нічний та ранковий обстріли Львівщини поранений мешканець Золочівського району, пошкоджений енергооб’єкт та житлові будинки в області.",
+    "8c917922aeda294a": "Загиблі у Київі і Львові: головне про наслідки атаки 20 листопада (оновлене). Двоє загиблих у Львові Внаслідок ранкової атаки на Львів загинуло двоє людей. Є постраждалі. Про це повідомив міський голова Львова Андрій Садовий. — Внаслідок ранкової атаки на Львів загинуло двоє людей. Є постраждалі. Щирі співчуття рідним і близьким загиблих. Також є влучання у квитковий термінал на залізничній станції Скнилів. На фото. На місці працюють рятувальники та інші служби. Більше інформації дамо, як тільки матимемо уточнені дані, — йдеться у повідомленні. Житомирщина: внаслідок російської атаки постраждав чоловік Упродовж доби ворог неодноразово атакував Коростенський район.",
+    "141b5efe6311f6c6": "Унаслідок російської атаки у Львові загинули двоє людей, є постраждалі. Валерія Рубаняк пт, 20/11/2026 - 10:03 Унаслідок російського обстрілу вранці 20 листопада у Львові загинули двоє людей. Ще десятеро – постраждали. Під ударом, зокрема, опинився квитковий термінал на залізничній станції Скнилів. Доповнено : кількість постраждалих зросла до 10. Двоє – у важкому стані, четверо – у стані середньої тяжкості. Ще чотирьох людей медики дообстежують. Про це повідомив міський голова Львова Андрій Садовий. «Внаслідок ранкової атаки на Львів загинуло двоє людей. Є постраждалі. Щирі співчуття рідним і близьким загиблих», – написав він.",
+    "ceb62bb83cc30a88": "Уже 10 постраждалих в лікарнях Львова внаслідок атаки. Двоє з постраждалих у важкому стані. Ще двоє людей загинули.",
+    "43e0124344825ef9": "У Львові зросла кількість постраждалих внаслідок російської атаки. У Львові кількість постраждалих внаслідок російської атаки 20 листопада зросла до 10 людей. Двоє перебувають у важкому стані, ще четверо – у стані середньої тяжкості.",
+    "fd8cf736e425649d": "У Львові уточнили наслідки російської атаки (ФОТО). Двоє загиблих, 10 постраждалих і значні руйнування.",
+    "2252901e5d474782": "Якими є наслідки удару РФ по Львову. У Львові через російську атаку загинули двоє людей, ще десятеро постраждали. Також пошкоджено будівлі та автомобілі, повідомляє міський голова Андрій Садовий.",
+    "e365036ad0610587": "Садовий: через удар по Львову постраждали 10 людей, двоє у важкому стані. Удар по енергетиці спричинив перебої в роботі електротранспорту й водопостачання",
+    "62549675c9e49e34": "Удар по Львову та області: Росія атакувала залізничну станцію Скнилів, двоє загиблих, десять постраждалих — головне. Внаслідок російської атаки на Львів 20 листопада на залізничній станції Скнилів загинули двоє людей. Крім того, у місті є пошкодження та постраждалі на інших локаціях.",
+    "b96f3ac9f99ed709": "Зупинив потяг на під'їзді та евакуював людей: в «Укрзалізниці» розповіли про удар по станції «Скнилів» у Львові. Вранці 20 листопада машиніст електропоїзда «Укрзалізниці» зупинив його на під'їзді до залізничної станції «Скнилів» та евакуював пасажирів. Внаслідок тієї атаки на станції загинуло двоє людей, також є травмовані.",
+    "5e091d1195bd8405": "Ворог провів ракетно-дронову атаку проти Львівської області. Є загиблі внаслідок удару по залізничній станції (оновлено). Внаслідок обстрілу у Львові загинули двоє чоловіків – віком 59 та 82 роки.",
+    "96e220c4fd448055": "РФ масовано вдарила по заходу України. Ціль — енергооб'єкти, під атакою були Львів, Івано-Франківщина, аварійні відключення в шести областях та Києві. У ніч проти п’ятниці, 20 листопада, російські війська атакували Україну балістикою та ударними безпілотниками. У Києві зафіксовані влучання та пожежі. У Харкові внаслідок атаки пошкоджено медзаклад, є поранені. На ранок під масованою атакою дронів і крилатих ракет опинилися західні області України.",
+    "858625430423d67d": "Під час російської атаки на Львівщині загинули двоє чоловіків. Під час атаки РФ на Львівщину загинули двоє чоловіків, ще десятеро людей постраждали, повідомляє поліція Львівщини.",
+    "f39f5302d0cf7999": "Відключення світла на Львівщині: графік на 21 листопада. У суботу на Львівщині знову діятимуть погодинні відключення електроенергії. Коли саме не буде світла та які групи матимуть найдовші перерви - дивіться у графіку.",
+    "b17a2b8e66ccf73f": "У Києві кількість загиблих зросла до 6, загалом росіяни вбили 8 людей і поранили 30. Внаслідок російської атаки в ніч на 20 листопада кількість загиблих у Києві зросла до 6, ще 17 людей у столиці отримали поранення. Загалом по Україні загинули 8 людей, 30 поранені.",
+    "d997d77641725b6f": "У Києві кількість загиблих зросла до 6, загалом росіяни вбили обстрілом 8 людей і поранили 28. У ніч проти 20 листопада Росія ударила по Києву і девʼяти областях. У столиці влучили в мости та критичну інфраструктуру, є загиблі. У регіонах пошкоджені житлові будинки, лікарня, підприємства, обʼєкти енергетики. Про це повідомив прем’єр-міністр Сергій Корецький. «Цієї ночі під ударом були Київ і девʼять областей. Ракети влучили в критичну інфраструктуру столиці, серед цілей були […] The post У Києві кількість загиблих зросла до 6, загалом росіяни вбили обстрілом 8 людей і поранили 28 first appeared on Новинарня .",
+    "5304d6c976dae22f": "Кількість загиблих у Києві зросла до шести: Корецький оприлюднив нові деталі про удар РФ по Україні. Кількість загиблих у Києві через російську атаку зросла до шести. Загалом під ударом, крім столиці, перебували ще дев’ять областей. Він зазначив, що російські ракети влучили в критичну інфраструктуру столиці. Серед цілей були і мости. Також у столиці пошкоджено обʼєкт водовідведення, офісні й комерційні будівлі. Зі слів Корецького, внаслідок атаки в Києві загинули шестеро людей. Ще... Запис Кількість загиблих у Києві зросла до шести: Корецький оприлюднив нові деталі про удар РФ по Україні спершу з'явиться на Громадське радіо .",
+    "4a787999706713cf": "У Києві вже шестеро загиблих внаслідок нічної атаки рашистів. \"У Києві до 6 людей збільшилась кількість загиблих внаслідок нічної атаки рф, ще 15 постраждали. Наразі рятувальники ліквідували всі пожежі, спричинені російським ударом\", - повідомляє ДСНС України 20 листопада. Як повідомлялося, у Києві внаслідок ворожої атаки загинуло троє людей, 15 постраждало,...",
+    "26f0956f01e2e9d4": "У Києві внаслідок російської атаки загинули шестеро людей, ще 15 постраждали. The post У Києві внаслідок російської атаки загинули шестеро людей, ще 15 постраждали appeared first on Фарватер. Схід .",
+    "6573be41fc28f8f1": "Масована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі. Ірта-fax - Інформаційний портал У ніч та вранці 20 листопада росіяни атакували Київ і ще дев’ять областей України. Ракети влучили в критичну інфраструктуру столиці, серед цілей були і мости. Про це повідомив прем’єр-міністр Сергій Корецький. Деталі Пошкоджено обʼєкт водовідведення, офісні й комерційні будівлі. Внаслідок атаки в Києві загинули шестеро людей. Ще 15 постраждали – йдеться в дописі голови уряду. […] Ірта-Fax STREAM",
+    "767796854a7f73d9": "Масована ракетна атака на Київ: загинули люди, пошкоджені мости, бізнес закликали організувати дистанційну роботу. Про наслідки атаки повідомив міський голова Києва Віталій Кличко. Загинули люди, є постраждаліОб 11:47 у КМВА повідомили, що кількість загиблих унаслідок ворожого удару в КИєві зросла до 6 людей. Кількість постраждалих збільшилася до 17 людей. Станом на 07:13 було відомо, що внаслідок ворожої атаки на столицю загинули три людини. Також двоє людей дістали поранення. Їм надають необхідну медичну допомогу. Уночі ворог атакував райони столиціВ Оболонському районі внаслідок падіння уламка ракети виникла пожежа у триповерховій будівлі.",
+    "8c5430e393437319": "У Києві до шести зросла кількість загиблих внаслідок російської атаки, ще 15 людей постраждали. У столиці ракети влучили в критичну інфраструктуру, серед цілей були мости.",
+    "d38bca8a1e9d4adf": "Кількість постраждалих в Києві зросла до 17 осіб. Внаслідок російського удару по Києву в ніч на п'ятницю, 20 листопада, постраждали 17 людей, повідомляє Київська міська військова адміністрація.",
+    "3082d46dceeaf0af": "Нічна атака на Київ: кількість жертв та поранених зросла. У Києві знову зросла кількість загиблих та поранених внаслідок балістичного удару російської федерації 20 листопада.",
+    "44eff5a199121e7e": "Удар по Києву 20 листопада: семеро загиблих, 17 постраждалих і пошкоджені три мости. Ірта-fax - Інформаційний портал Унаслідок російської атаки на Київ 20 листопада загинули семеро людей, ще 17 постраждали. Оновлені дані о 14:44 оприлюднив міський голова Віталій Кличко. Денис Молотов",
+    "f2c071173b8987e2": "Внаслідок російського удару повністю знищено знімальний павільйон кінокомпанії Fresh Production Group, люди не постраждали. У ніч із 19 на 20 листопада внаслідок російського удару згорів знімальний павільйон української кінокомпанії Fresh Production Group, ніхто з людей не постраждав.",
+    "280e576c332d20c5": "Унаслідок атаки Росії на робочому місці загинули працівники “Київводоканалу” Віталій Крючек та Дмитро Петров. Унаслідок атаки російських військ у ніч на 20 листопада на об’єкт “Київводоканалу” загинули двоє працівників підприємства – Дмитро Петров і Віталій Крючек. Про це повідомив “Київводоканал”. У момент удару чоловіки перебували на робочих місцях і виконували свої обов’язки, забезпечуючи безперебійне постачання води жителям столиці. Ще семеро працівників “Київводоканалу” отримали поранення. “Біль та лють, коли гинуть твої […] The post Унаслідок атаки Росії на робочому місці загинули працівники “Київводоканалу” Віталій Крючек та Дмитро Петров first appeared on Новинарня .",
+    "8eb7dc98849807f1": "У Кривому Розі повністю відновили електро- та теплопостачання. У Кривому Розі Дніпропетровської області відновили у повному обсязі електро- та теплопостачання.",
+    "2f13db0de5ad2549": "У Кривому Розі загинула фельдшерка, яка приїхала на місце російського удару (ОНОВЛЕННЯ). The post У Кривому Розі загинула фельдшерка, яка приїхала на місце російського удару (ОНОВЛЕННЯ) appeared first on Місто і річка .",
+    "980223948b1c2810": "Після балістичного удару по Кривому Рогу під час виконання службових обов’язків загинула фельдшерка, помер семирічний хлопчик. Кількість поранених зростає. «У Кривому Розі загинула фельдшерка швидкої допомоги, яка прибула на місце ворожого удару. Її доправили до лікарні, однак врятувати не вдалося», — написав у своєму telegram-каналі начальник Дніпропетровської ОВА Олександр Ганжа. Зазначається, що кількість постраждалих унаслідок...",
+    "dee2b7961b885601": "У Кривому Розі через російський удар у реанімації помер 7-річний хлопчик. У Кривому Розі Дніпропетровської області внаслідок російського ракетного удару загинув 7-річний хлопчик. Дитина померла в реанімації від тяжких травм голови, попри зусилля лікарів.",
+    "af476bac2a1041d0": "Атака на Кривий Ріг: загинули фельдшерка та 7-річний хлопчик, кількість поранених зросла. У Кривому Розі після російського удару померли 20-річна фельдшерка швидкої та 7-річний хлопчик. Кількість постраждалих зросла до 23 людей.",
+    "1f8bbf3db2edc31b": "Війська РФ завдали удару по Кривому Розі: є загиблі та щонайменше 42 постраждалих (оновлено). В місті пошкоджена інфраструктура.",
+    "cc94754dee1902aa": "РФ завдала ще одного удару БПЛА по промисловому підприємству в Кривому Розі, виникла пожежа – Вілкул. Російські окупаційні війська атакували промислове підприємство в Кривому Розі (Дніпропетровська обл.) реактивним безпілотником, унаслідок чого спалахнула пожежа.",
+    "97cb0785b6d5e62e": "Нічна атака шахедами: у низці областей оголосили повітряну тривогу через загрозу БПЛА, є влучання у Запоріжжі, Кривому Розі та Києві. У ніч проти суботи, 21 листопада, у деяких областях України оголосили повітряну тривогу через загрозу атаки безпілотників армії РФ. Є влучання у Києві, Запоріжжі та Кривому Розі.",
+    "7e046d5999ae0d81": "Війська РФ вдарили по Кривому Рогу: пошкоджено промислове підприємство, спалахнула пожежа. У ніч проти суботи, 21 листопада, російські окупанти вдарили реактивним БПЛА по промисловому підприємству у Кривому Розі. На місці атаки спалахнула пожежа.",
+    "3702da99482edc22": "РФ атакувала балістикою центр Кривого Рогу: загинула фельдшерка і дитина, 47 постраждалих. Росія вдарила балістичними ракетами по Кривому Рогу – загинули фельдшерка, дівчина і хлопчик, 42 людини постраждали, пошкоджено 23 будинки та лікарню.",
+    "747a6513bdbbf8b2": "РФ атакувала Кривий Ріг: загинули двоє людей, ще 40 дістали поранення. Увечері 20 листопада російські війська атакували Кривий Ріг Дніпропетровської області балістичними ракетами \"Іскандер-М\" та безпілотниками. Унаслідок ударів загинули двоє людей, ще 23 дістали поранення. Серед загиблих - семирічний хлопчик. Запис РФ атакувала Кривий Ріг: загинули двоє людей, ще 40 дістали поранення спершу з'явиться на Букви .",
+    "44927d55adad15b0": "У Львові тимчасово не курсує трамвай №3 (оновлено). У Львові через відсутність електроенергії тимчасово зупинився рух трамвая №3, повідомляє Львівська міська рада.",
+    "9515402e28e546eb": "В Одесі тимчасово не курсують усі трамваї та тролейбуси. В Одесі у п’ятницю, 20 листопада, через відключення електроенергії тимчасово призупинили рух усіх трамваїв і тролейбусів. Про це повідомили у прес-службі Одеської міськради. Раніше сьогодні через падіння дерев на контактну мережу зупинили тролейбус № 3 і трамвай № 20, а трамваї № 1 та № 7 змінили маршрути. Згодом через відключення електроенергії призупинили рух усього електротранспорту. Про його відновлення повідомлять Сообщение В Одесі тимчасово не курсують усі трамваї та тролейбуси появились сначала на Новини Одеси - Odesa Online .",
+    "c22638d83c82b2bf": "В Одесі через відключення світла не курсують трамваї та тролейбуси. В Одесі 20 листопада 2026 року через відключення електроенергії тимчасово зупинили рух усіх трамваїв і тролейбусів. Про відновлення роботи електротранспорту повідомлять додатково",
+    "fb539d1cd37bb365": "На Закарпатті 21 листопада будуть діяти графіки погодинних відключень електроенергії. Про це повідомили у Закарпаттяобленерго. Графіки відключень застосують для всіх черг.",
+    "4bf6258b4fa674bc": "На Дніпропетровщині о 16:45 оновили графік ДТЕК для черг 2.1, 2.2, 3.1, 3.2, 5.1 і 5.2 на 20 листопада. Для споживачів ДТЕК Дніпровських електромереж на Дніпропетровщині змінили графік погодинних відключень електроенергії на 20 листопада. Про це повідомили у ДТЕК. Відключення застосовуватимуть за таким графіком: Черга 1.1: 07:30–10:00, 16:30–20:30. Черга 1.2: 07:30–10:00, 16:30–20:30. Черга 2.1: 16:30–23:30. Черга 2.2: 07:30–10:00, 16:30–20:30. Черга 3.1: 09:30–13:30, 14:30–16:30, 20:00–00:00. Черга 3.2: 09:30–13:30, 14:30–16:30, 20:00–00:00. Черга 4.1: 09:30–13:30, 20:00–00:00.",
+    "85b41ab9e7e33e77": "Соціальні автобуси та платні маршрутки: як вони курсують в Одесі після зупинки електротранспорту. 20 листопада в Одесі змінили розклад руху соціальних автобусів та збільшили їхню кількість через вимушену тимчасову зупинку міського електротранспорту. Про це повідомили в Департаменті транспорту, зв’язку та організації дорожнього руху Одеської міської ради. На соціальному маршруті С1 «Залізничний вокзал — вул. 28-ї бригади» запровадили чотири додаткові автобуси. Орієнтовний інтервал руху становитиме 30–40 хвилин.",
+    "f459f76a169a8bf2": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію електрики. Росія завдала масованого удару по одній із теплоелектростанцій компанії ДТЕК, обладнання серйозно пошкоджено. Про це компанія повідомила у п'ятницю, 20 листопада.",
+    "05d94607052c8bdb": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію електрики. Росія завдала масованого удару по одній із теплоелектростанцій компанії ДТЕК, обладнання серйозно пошкоджено. Про це компанія повідомила у п’ятницю, 20 листопада. Станція припинила генерацію електроенергії.",
+    "a70543471ff32812": "ДТЕК: після масованої атаки РФ ТЕС компанії припинила генерацію. Унаслідок атаки обладнання станції зазнало значних пошкоджень, ТЕС припинила генерацію електроенергії",
+    "f2e75b1828850bcf": "Росія масовано атакувала ТЕС ДТЕК, станція припинила генерацію. Російська Федерація здійснила масовану атаку на теплову електростанцію компанії ДТЕК, вона припинила генерацію електроенергії.",
+    "5c786e69e3a786d0": "Росія здійснила масовану атаку на ТЕС ДТЕК — станція припинила генерацію електроенергії. Росія здійснила масовану атаку на теплову електростанцію компанії ДТЕК, вона припинила генерацію електроенергії. Про це повідомляє Група ДТЕК. «Росія здійснила масовану атаку на одну з ТЕС ДТЕК. Станція припинила генерацію електроенергії», — ідеться в повідомленні. За даними компанії, суттєво пошкоджено обладнання. Нагадаємо, що росіяни вночі та зранку п’ятниці, 20 листопада масовано обстріляли Київ, пошкодили три... Запис Росія здійснила масовану атаку на ТЕС ДТЕК — станція припинила генерацію електроенергії спершу з'явиться на Громадське радіо .",
+    "c0c02f025ca39ab8": "Через російську атаку ТЕС ДТЕК зупинила роботу. Російські військові здійснила масовану атаку на одну з ТЕС ДТЕК. Станція припинила генерацію електроенергії.",
+    "5443b423fc3bc817": "Через масований удар рф зупинила роботу одна з ТЕС ДТЕК. Росія здійснила масовану атаку на одну з теплоелектростанцій ДТЕК. Внаслідок обстрілу станція припинила генерацію електроенергії. Про це повідомили у пресслужбі компанії. За даними енергетиків, через ворожий удар суттєво пошкоджено обладнання станції. Деталей щодо масштабів руйнувань та термінів відновлення наразі не розголошують. Нагадаємо, раніше 20 листопада у Міністерстві енергетики повідомили, що українські атомні електростанції вимушено знизили … Continue reading Через масований удар рф зупинила роботу одна з ТЕС ДТЕК →",
+    "f46318c3f9c3225b": "ТЕС ДТЕК припинила генерацію через масовану атаку Росії. Суттєво пошкоджено обладнання станції.",
+    "f15247f2792db471": "Одна з теплоелектростанцій ДТЕК припинила генерацію електроенергії через російську масовану атаку. Енергохолдинг ДТЕК повідомив про припинення генерації електроенергії на одній зі своїх теплоелектростанцій (ТЕС) внаслідок російської масованої атаки, йдеться в повідомленні компанії у Facebook в п'ятницю.",
+    "4f72a05330572da6": "Україна відбила масовану атаку: знешкоджено 82 ракети та 380 дронів. Ірта-fax - Інформаційний портал У ніч проти п’ятниці, 20 листопада, російські війська здійснили масовану комбіновану атаку на Україну. За попередніми результатами станом на 10:30, українська протиповітряна оборона збила або подавила 462 повітряні цілі. Денис Молотов",
+    "30b0800da578f3bc": "«Ракети з паузами у 20-30 хвилин»: Зеленський назвав нічну атаку однією з наймасованіших. Протягом ночі росія запустила по Україні понад 400 ударних дронів та понад 110 ракет, зокрема, 27 балістичних, запускавши ракети групами з паузами у 20-30 хвилин, щоб ускладнити ліквідацію наслідків попередніх влучань.",
+    "da36a659e79508f9": "Росія вночі била по енергетичних лініях, що забезпечують роботу АЕС та зв’язок України з Європою — Зеленський. Війська країни-агресора Росії під час масованого удару ракетами та дронами по Україні у п’ятницю, 20 листопада, атакували об'єкти енергосистеми, від яких залежать українські атомні станції та енергетичний зв’язок з Європою. Про це повідомив президент Володимир Зеленський за результатами наради з військовими та урядовцями.",
+    "fb47f6f8fb3ca043": "Росія застосувала касетні ракети та била повторно кожні 20–30 хвилин: Зеленський про нічну атаку. Під вогнем опинилися об’єкти енергетики, від яких залежать АЕС, мости через Дніпро та житлові будинки. Відомо про вісьмох загиблих та майже тридцятьох поранених.",
+    "c7b7f6d3d314378e": "Росія випустила по Україні понад 110 ракет і 400 дронів: Зеленський розповів про особливості атаки. Унаслідок масованої російської атаки 20 листопада загинули восьмеро людей, ще майже 30 дістали поранення. Російські війська запускали ракети кількома групами з інтервалами у 20–30 хвилин, щоб ускладнити ліквідацію наслідків ударів. Про це повідомив президент Володимир Зеленський за підсумками селекторної наради з військовими та урядовцями. За словами глави держави, від ночі Росія випустила по Україні понад … Continue reading Росія випустила по Україні понад 110 ракет і 400 дронів: Зеленський розповів про особливості атаки →",
+    "1689e2cfdd2d1798": "«Кримський міст все одно не встоїть»: Зеленський попередив Путіна про подальшу долю переправи. Зеленський пояснив, чому Росії не варто розраховувати на збереження Кримського мосту.",
+    "6fd7fd52b89b18eb": "Унаслідок російської атаки на Харківщині поранено двох енергетиків. Вночі та вранці Росія здійснила масштабну атаку на енергетику України. На Харківщині внаслідок обстрілу поранення отримали двоє енергетиків. Про це повідомили в Міністерстві енергетики України. За їхніми даними, постраждалі наразі знаходяться в лікарні. Зазначається, що російські війська атакували, зокрема, підстанції систем передачі та розподілу електроенергії. «Атомні електростанції вимушено знизили потужність генерації. Повернення до нормальної схеми роботи відбуватиметься поступово, після відновлення пошкоджених мереж», — йдеться у повідомленні.",
+    "66ec627d992c4186": "Через масовану атаку РФ на енергетичну інфраструктуру в низці регіонів аварійно вимикали світло. Про це повідомив перший заступник міністра енергетики України Артем Некрасов під час брифінгу щодо оперативної ситуації в енергосистемі. Українські АЕС вимушено знизили потужність генерації Унаслідок обстрілів атомні електростанції були змушені знизити потужність генерації. Повернення до нормальної схеми роботи енергосистеми відбуватиметься поступово, після відновлення пошкоджених мереж. Є постраждалі серед енергетиківНа Харківщині внаслідок російської атаки поранені двоє працівників енергетичної галузі. Їх госпіталізували, медики надають необхідну допомогу.",
+    "6054a4959b756167": "Українські АЕС знизили потужність через російські удари по енергосистемі. Після нічних ударів по українській енергетиці атомні електростанції вимушено знизили потужність генерації — відновлюватимуть поступово. Про це під час брифінгу повідомив перший заступник міністра енергетики України Артем Некрасов. За його словами, під ударом опинилися електростанції, підстанції систем передачі та розподілу електроенергії. Українські АЕС можуть відновити нормальну генерацію після відновлення пошкоджених мереж, це відбуватиметься поступово.",
+    "46c8d136681b6496": "АЕС України поступово нарощують потужність у міру відновлення мереж після російської атаки – ДТЕК. Українські атомні електростанції, які знизили потужність через пошкодження мереж після російської масованої атаки, поступово нарощуватимуть її в міру відновлення мереж, повідомив енергохолдинг ДТЕК у телеграм-каналі в п'ятницю.",
+    "3acdbd0c1e38dfa6": "На Харківщині під обстріл потрапили співробітники пошти і енергетики. Автомобіль \"Укрпошти\" атакували FPV-дроном.",
+    "624c61ec4b550e26": "На Харківщині через російські обстріли поранило двох інженерів-енергетиків. У ніч проти 20 листопада та вранці російські війська масовано атакували енергетичну інфраструктуру України. У Харківській області внаслідок обстрілів поранення дістали двоє інженерів-енергетиків.",
+    "217961b57c422370": "На Харківщині через російський удар були поранені двоє енергетиків. Через російський удар по Харківщині були поранені двоє енергетиків, повідомили вранці 20 листопада у Міненерго. Їх ушпиталили та надають медичну допомогу",
+    "944c8bed43dac908": "На Харківщині військові провели операцію «Ведмежий капкан»: звільнено 14 населених пунктів. На Харківщині військові 475-го окремого штурмового полку під командуванням Угрупування об’єднаних сил провели військову операцію «Ведмежий капкан», під час якої вдалося зірвати масштабні плани російських військ щодо оточення українських підрозділів та звільнити 14 населених пунктів. Про це повідомили у 475-му окремому штурмовому полку. За їхньою інформацією, влітку на Харківщині розгорнулася російська операція під назвою «Ведмежий угол», під час якої росіяни планували розділити українські сили, ізолювати підрозділи та методично їх знищити.",
+    "35e665f2fbd2fb68": "На Харківщині ЗСУ зірвали плани рф оточити українських військових і звільнили 14 населених пунктів. The post На Харківщині ЗСУ зірвали плани рф оточити українських військових і звільнили 14 населених пунктів appeared first on #ШОТАМ . Українські військові провели операцію «Ведмежий капкан» на півночі Харківської області, у межах якої вдалося звільнити 14 населених пунктів і майже 200 кв. км території. Операцію готували в умовах повної секретності. Про це повідомили у BBC News Україна. Контрнаступ мав на меті зрізати російський виступ, який армія рф сформувала влітку в районі харківського села Вільхуватка з […]",
+    "b321062e8db2cf75": "ЗСУ звільнили майже 200 кв. км на півночі Харківщини - ВВС. Українські військові провели операцію під назвою \"Ведмежий капкан\" на півночі Харківської області, звільнивши 14 населених пунктів і майже 200 кв. км території. Операція проходила в режимі повної секретності, - повідомляє BBC News Україна дізналась її подробиці. Основне завдання цього контрнаступу...",
+    "1b50dbc89b8f8d3d": "Під час операції «Ведмежий капкан» на Харківщині українські військові повернули контроль над 14 населеними пунктами та зірвали план оточення. ",
+    "1b391cb322a369cd": "Операція «Ведмежий капкан»: на Харківщині ЗСУ звільнили одразу 14 населених пунктів. На Харківщині військові 475-го окремого штурмового полку під командуванням Угрупування об’єднаних сил провели військову операцію «Ведмежий капкан». У…",
+    "cfd74ec28e97a54d": "ЗСУ звільнили 14 населених пунктів на Харківщині під час операції “Ведмежий капкан”. Українські військові під час контрнаступальної операції \"Ведмежий капкан\" на Харківщині відкинули російські війська та відновили контроль над 14 населеними пунктами поблизу Вільхуватки. Також їм вдалося зірвати плани противника щодо оточення українських підрозділів і відрізати від основних сил російської армії територію площею 204 кв. км. Про результати операції повідомили у 475-му окремому штурмовому полку, пише Рубрика. […] The post ЗСУ звільнили 14 населених пунктів на Харківщині під час операції “Ведмежий капкан” appeared first on Рубрика .",
+    "a16f281109c37ffc": "ЗСУ в операції «Ведмежий капкан» звільнили 14 населених пунктів на Харківщині. Кремль доповідав про розгром двох тисяч українських бійців, але в пастці опинилися його власні війська.",
+    "74342678f613ea09": "Синєгубов повідомив про звільнення 14 н.п. і 200 кв. км українськими бійцями під час операції \"Ведмежий капкан\". Бійці 475-го окремого штурмового полку CODE 9.2 під командуванням Угруповання об'єднаних сил зірвали плани росіян щодо оточення українських підрозділів та звільнили низку населених пунктів, повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов.",
+    "a02e9beb3f445cfa": "Операція «Ведмежий капкан»: ЗСУ на Харківщині звільнили 14 населених пунктів (ВІДЕО). Українські військові провели операцію «Ведмежий капкан» та зірвали плани росіян щодо оточення українських військ на Харківщині",
+    "fe449f1a1b7b6c1c": "Ведмежий капкан: майже 200 кв. км звільнили Сили оборони на Харківщині. Ще одну унікальну військову операцію – «Ведмежий капкан» провели Сили оборони на Харківщині. Російські війська...",
+    "cd3a08b63b8bb38f": "Операція «Ведмежий капкан»: на Харківщині ЗСУ звільнили 14 населених пунктів. Військові провели операцію «Ведмежий капкан» та зірвали плани росіян щодо оточення українських військ на Харківщині. Про цю операцію розповів 475-й ОШП CODE 9.2. Влітку російські війська розпочали проникнення на українську територію в Харківській області. Вони планували розділити українські сили, ізолювати підрозділи та методично їх знищити. Свою операцію росіяни назвали «Медвежий угол». Проте українські війська зірвали […]",
+    "db8cf24ebdb1a90f": "«Ведмежий капкан»: як українські бійці зірвали плани РФ створити котел на Харківщині й звільнили 14 населених пунктів. Українські військові провели операцію «Ведмежий капкан» у відповідь на операцію РФ «Ведмежий кут». Як готувалася операція, як вона минула і які її наслідки, читайте",
+    "340f8639f601c1f9": "«Ведмежий капкан»: подробиці операції ЗСУ на Харківщині, яка зірвала плани РФ — BBC News Україна. Українські військові провели операцію під назвою «Ведмежий капкан» на півночі Харківської області, звільнивши 14 населених пунктів і майже 200 кв. км території. Операція проходила в режимі повної секретності. BBC News Україна дізналась її подробиці, пише Олег Черниш.",
+    "dad73d2ae19bf7ee": "Екіпажі «Ахіллеса» уразили на Вовчанському напрямку російський плавучий транспортер. Екіпажі 429-ї окремої бригади безпілотних систем \"Ахіллес\" уразили на Вовчанському напрямку плавучий транспортер, який російські загарбники використовують для переправи особового складу й техніки.",
+    "010f4c19d3412d67": "Скільки дітей загинули під час війни на Харківщині. 20 листопада — Всесвітній день захисту дітей.",
+    "1c97c87535304cbd": "Понад 200 дітей з дитбудинків знайшли сім'ї за п'ять років на Харківщині. На Харківщині з 2022 року усиновили 211 дітей та понад дві тисячі взяли під опіку, повідомили у Службі у справах дітей ОВА. Дивіться повну статистику",
+    "d731b2e789729b49": "Окупанти вдарили КАБом біля будинку у Запоріжжі: що відомо про наслідки (ОНОВЛЮЄТЬСЯ). Вдень 20 листопада росіяни завдали удару поруч із багатоповерхівкою в Космічному районі Запоріжжя. Понівечені вікна та постраждали балкони. Сообщение Окупанти вдарили КАБом біля будинку у Запоріжжі: що відомо про наслідки (ОНОВЛЮЄТЬСЯ) появились сначала на inform.zp.ua .",
+    "b865e942e2127ad4": "Поранено людей, пошкоджено багатоповерхівку та авто: все, що відомо про наслідки удару КАБу Запоріжжю, — ФОТО, ВІДЕО. Вдень 20 листопада військові російської армії завдали новий удар по Запоріжжю. Пошкоджено багатоквартирний будинок та машини припарковані у дворі. Є постраждалі. Про це повідомив Михайло Семікін, тимчасово виконуючий обов’язки голови Запорізької обласної військової адміністрації. Росіяни... The post Поранено людей, пошкоджено багатоповерхівку та авто: все, що відомо про наслідки удару КАБу Запоріжжю, — ФОТО, ВІДЕО first appeared on Перший Запорізький .",
+    "b058b9cb26b64209": "Окупанти вдарили КАБом поблизу багатоповерхівки у Запоріжжі, серед поранених – дитина. Сьогодні вдень, 20 листопада, окупанти вдарили авіабомбами по Запоріжжю. Одна з них влучила поблизу багатоповерхівки, внаслідок чого поранені щонайменше четверо осіб.",
+    "6ef3a4aefcea46a2": "У Запоріжжі КАБ впав у двір багатоповерхівки: пошкоджені десятки квартир. ФОТО. Вдень 20 листопада російські війська завдали удару по Космічному району Запоріжжя. Авіабомба впала у двір багатоповерхівки, а вибухова хвиля пошкодила будинок. «Відбудова. Запоріжжя» розповідає про наслідки атаки. Запис У Запоріжжі КАБ впав у двір багатоповерхівки: пошкоджені десятки квартир. ФОТО спершу з'явиться на Відбудова. Запоріжжя .",
+    "9bf64fa7dc1bbe45": "Росіяни атакували Запоріжжя КАБами: бомба впала біля житлового будинку. Росіяни атакували Запоріжжя керованими авіаційними бомбами. Одна з них впала поруч із багатоквартирним будинком, є постраждалі. Про це повідомив в.о. голови Запорізької ОВА Михайло Семікін. «Росіяни завдали удару поруч із багатоповерхівкою в Космічному районі Запоріжжя», – написав він. Семікін поінформував про двох постраждалих жінок. «На щастя, травми не тяжкі. Обом постраждалим надають необхідну медичну допомогу»,... Запис Росіяни атакували Запоріжжя КАБами: бомба впала біля житлового будинку спершу з'явиться на Громадське радіо .",
+    "0f75c62ccf366409": "Армія РФ завдала удару по Запоріжжю: на вечір відомо про 17 постраждалих – ОВА. Російські окупаційні війська в п'ятницю завдали удару по Космічному району Запоріжжя; станом на вечір кількість людей, які дістали поранення, зросла до 17, повідомив голова Запорізької обласної військової адміністрації Михайло Семікін.",
+    "d418126dc019d65c": "17 людей постраждали внаслідок російського удару по Запоріжжю (оновлено). Пошкоджена багатоповерхівка.",
+    "527a75cfdc82be75": "Росія атакувала Запоріжжя: 17 поранених, пошкоджено багатоповерхівки. Країна-агресор РФ вдень у п’ятницю, 20 листопада, завдала удару по Запоріжжю. В.о. голови ОВА Михайло Семікін повідомив у Telegram, що удар був поряд із багатоповерхівкою в Космічному районі міста.",
+    "b0a92ed1ff47c29a": "У Запоріжжі через російський обстріл поранені 17 людей. Унаслідок російського обстрілу Запоріжжя травмовані 17 людей. Пошкоджені житлові будинки, горіли балкон багатоповерхівки та автомобіль.",
+    "8c6b00bd5cb81731": "Нічний обстріл Запоріжжя: у місті пошкоджено дитсадок. Сьогодні вночі, 21 листопада, російські війська атакували Запоріжжя. Під ударом опинився дитячий садок, а в п'ятиповерховому будинку загорілася квартира. Сообщение Нічний обстріл Запоріжжя: у місті пошкоджено дитсадок появились сначала на inform.zp.ua .",
+    "4be7b9e7b7aecd5d": "Російський FPV-дрон атакував будівлю Запорізької ОВА в центрі міста. Російські військові атакували FPV-дроном будівлю Запорізької обласної військової адміністрації в центрі Запоріжжя. Безпілотник влучив у стіну на рівні сьомого поверху. Внаслідок атаки ніхто не постраждав. Сообщение Російський FPV-дрон атакував будівлю Запорізької ОВА в центрі міста появились сначала на inform.zp.ua .",
+    "976a1e23f666d2fb": "Графіки погодинних вимкнень на 20 листопада для Прикарпаття. Оновлюється. Новини ☝️ Графіки погодинних вимкнень на 20 листопада для Прикарпаття. Оновлюється. ✅ Інформатор Коломия.",
+    "dcf788be999f5d0e": "Внаслідок атаки РФ на Франківщині ввели графіки аварійних та погодинних вимкнень електроенергії. Унаслідок російської атаки 20 листопада на Франківщині запровадили графіки аварійних та погодинних вимкнень електроенергії — Прикарпаттяобленерго",
+    "7e4e44daf5706acc": "На Прикарпатті 20 листопада вводять графіки вимкнень світла через російську атаку (ОНОВЛЕНО). Аварійні вимкнення також завпровадили у Львівській та Закарпатській областях. Обмеження вводять у зв’язку з масованим російським ракетним обстрілом The post На Прикарпатті 20 листопада вводять графіки вимкнень світла через російську атаку (ОНОВЛЕНО) appeared first on \"Репортер\" .",
+    "df7abcd8a296198f": "Пошкоджені будинки та аварійні вимкнення світла: наслідки атаки на Прикарпатті. Новини ☝️ Пошкоджені будинки та аварійні вимкнення світла: наслідки атаки на Прикарпатті. ✅ Інформатор Коломия.",
+    "16fe56747634f800": "Графіки погодинних вимкнень на Прикарпатті 21 листопада. 21 листопада на Прикарпатті будуть діяти графіки погодинних вимкнень для побутових споживачів, пише КУРС з посиланням на Прикарпаттяобленерго. Нагадаємо, 20 листопада через наслідки ворожих атак на Прикарпатті запровадили графіки погодинних та аварійних вимкнень.",
+    "af9ff13dcee906f1": "Графіки погодинних вимкнень на 21 листопада для Прикарпаття. Новини ☝️ Графіки погодинних вимкнень на 21 листопада для Прикарпаття. ✅ Інформатор Коломия.",
+    "cc6f8114977ad9d9": "До 11,5 годин без світла: графіки вимкнень на 21 листопада для Прикарпаття. Прикарпаттяобленерго опублікувало графіки вимкнень електропостачання на 21 листопада для Івано-Франківської області. Про це пише “Галка” з посиланням на Прикарпаттяобленерго. Вимкнення за Чергою 1.1: Вимкнення за Чергою 1.2: Вимкнення за Чергою 2.1: Вимкнення за Чергою... The post До 11,5 годин без світла: графіки вимкнень на 21 листопада для Прикарпаття appeared first on Galka.if.ua .",
+    "6da03e9b518fcb45": "Графіки погодинних вимкнень електроенергії на Івано-Франківщині 21 листопада. 21 листопада в Івано-Франківській області будуть діяти графіки погодинних відключень світла для споживачів. Також протягом доби обмежать потужності для підприємств",
+    "494e6fad7da68e35": "У суботу, 21 листопада, на Прикарпатті діятимуть графіки погодинних вимкнень світла. та обмеження для бізнесу. Де перевірити свою чергу The post У суботу, 21 листопада, на Прикарпатті діятимуть графіки погодинних вимкнень світла appeared first on \"Репортер\" .",
+    "ce6101469111f977": "На Прикарпатті 21 листопада діятимуть графіки погодинних вимкнень: розклад черг. Причиною обмежень є наслідки російських атак на енергетичну інфраструктуру.",
+    "18deabf65b963211": "На Прикарпатті обстежили пошкоджені будинки та авто в трьох громадах. У Бурштинській, Рогатинській та Галицькій громадах обстежили пошкоджене через атаку майно. Як мешканці можуть отримати компенсацію The post На Прикарпатті обстежили пошкоджені будинки та авто в трьох громадах appeared first on \"Репортер\" .",
+    "47e10a7f5f1e5168": "Якою буде погода на Прикарпатті 21 та 22 листопада. На погоду області впливатиме циклон. У гірських районах можливі опади у вигляді мокрого снігу.",
+    "5295b3ffa9b4a5dc": "На Прикарпатті оновили графік відключень на вечір 20 листопада. Оновлення стосуються трьох черг.",
+    "bec4c9aa2359f79c": "Через ворожу атаку понад 41 тисяча споживачів в Одеському та Роздільнянському районах залишилася без світла (оновлено). Частина Одеського та Роздільнянського районів Одеської області залишилася без електропостачання внаслідок ворожої атаки. Про це повідомили у пресслужбі ДТЕК «Одеські електромережі». За інформацією компанії, фахівці вже працюють над тим, щоб якнайшвидше відновити електропостачання в усіх знеструмлених оселях. Водночас за розпорядженням НЕК «Укренерго» сьогодні з 07:30 до 24:00 діють стабілізаційні відключення електроенергії.",
+    "ed9035aece94114a": "Понад 40 тисяч споживачів без світла: РФ атакувала енергооб'єкт ДТЕК на Одещині. РФ атакувала енергооб'єкт ДТЕК на Одещині. Без світла залишилися понад 41 тисяча споживачів в Одеському та Роздільнянському районах. Попередньо, загиблих і поранених немає",
+    "f8b51f6004000468": "Понад 41 тисяча родин на Одещині залишилися без світла через російську атаку на енергетику. Вранці 20 листопада росіяни атакували енергетичний об’єкт ДТЕК «Одеські електромережі». Через удар без світла залишилися частина Одеського та Роздільнянського районів.",
+    "2e21a69de52e526a": "Вранці російські війська атакували енергообʼєкт ДТЕК Одеські електромережі. За попередніми даними від Одеської ОВА, постраждалих немає. Внаслідок атаки тимчасово без світла залишилися понад 41 тис споживачів в Одеському та Роздільнянському районах. Енергетики оцінюють наслідки атаки та працюють над відновленням енергопостачання.",
+    "a25c826374e18e49": "Атаки рф знеструмили Одещину та інші міста країни. Понад 41 тисяча жителів Одещини залишилися без електрики зранку 20 листопада. Водночас атомні електростанції скоротили потужність генерації.",
+    "396d62e02698c052": "Понад 40 тисяч споживачів без світла: Росія атакувала енергооб’єкт ДТЕК на Одещині. Російська атака на енергетичний об’єкт ДТЕК вранці 20 листопада залишила без світла 41 тисячу родин в Одеському та Розділянському районах. Про це повідомила пресслужба ДТЕК. Енергетики розпочнуть огляд вцілілого обладнання, ремонти та відновлення електропостачання, щойно дозволить безпекова ситуація. Строків повернення світла компанія не назвала.",
+    "0a8419d3ad36ab24": "Росія атакувала енергетику: АЕС знизили генерацію, на Одещині та ще в десяти регіонах знеструмлені споживачі. The post Росія атакувала енергетику: АЕС знизили генерацію, на Одещині та ще в десяти регіонах знеструмлені споживачі appeared first on Море Людей .",
+    "906d46984d1c80bf": "«Ніхто не знає, як пройде ця зима». Харківський «Центр поводження з тваринами» готується до холодів та відключень світла. У харківському «Центрі поводження з тваринами» утеплюють вольєри, збільшують добові норми корму для тварин та запасаються пальним, щоб таким чинам підготуватися до зими та відключень світла",
+    "816d9c89fcebab3c": "Віцепрем’єр РФ не зміг назвати терміни відновлення Керченського мосту. Президент України Володимир Зеленський раніше заявив, що удари по Керченському мосту є відповіддю на атаки по українських мостах",
+    "bd907b70939adf1f": "Віцепрем’єр РФ Хуснуллін заявив, що терміни відновлення Керченського (Кримського) мосту ще невідомі – їх визначать після інженерних рішень. Президент України Володимир Зеленський раніше заявив, що удари по Керченському мосту є відповіддю на атаки по українських мостах",
+    "77471d0d450ebb1d": "Як ЗСУ готували операцію атаки на Керченський міст. Українські військові перед ударами по Керченському мосту послідовно послаблювали російську систему його захисту.",
+    "1c5a0e5453d899f1": "День 1731. 20 листопада. Що обговорюють херсонці у соцмережах. На новому супутниковому знімку Керченського мосту видно значні пошкодження залізничного полотна Журналісти «Радіо Свобода» опублікували кольоровий супутниковий знімок від 19 листопада після ударів українських військ 17-19 листопада. За їх даними, залізничне…",
+    "167f68b7ae771614": "«Полювання на «очі» та «вуха» армії РФ». Як ЗСУ готували і завдавали ударів по Керченському (Кримському) мосту. Какую тактику, оружие и новые технологии применили СОУ",
+    "8d8035ae45a6253f": "Після Керченського мосту. Яким буде повернення Криму. «Важливий сигнал кожній та кожному, хто чекає на Україну»",
+    "273c5589be64ae6a": "Через ворожу атаку на Сарненщині знеструмлено близько 50 населених пунктів. Унаслідок російської атаки на Сарненський район, що на Рівненщині, без електропостачання залишилися близько 50 населених пунктів. Енергетики не можуть оперативно відновити живлення через постійні повітряні тривоги. Про це повідомив голова РівнеОДА Олександр Коваль. Наразі в районі знову оголосили повітряну тривогу. Жителів закликають подбати про власну безпеку та безпеку близьких.",
+    "24019e75e91a90ff": "На Рівненщині через російську атаку знеструмлено 50 населених пунктів — ОВА. У Рівненській області внаслідок атаки армії РФ без електропостачання залишилися близько 50 населених пунктів.",
+    "ab1753686eea8b78": "На Рівненщині через ворожу атаку знеструмлено пів сотні населених пунктів, ремонтні роботи ускладнені постійними тривогами – ОВА. Внаслідок атаки російських окупантів на Сарненський район Рівненської області 50 населених пунктів залишилися без електропостачання, оперативному відновленню світла заважають повітряні тривоги.",
+    "cafdf1ea7b9f243d": "Підприємство зазнало ураження під час атаки на Рівненщину: є поранений. Під час чергової російської атаки на Рівненщину ураження зазнало одне з цивільних підприємств. За попередньою інформацією, одна людина отримала поранення. Про це повідомив голова РівнеОДА Олександр Коваль. На місці події працюють представники відповідних служб. Інформацію уточнюють.",
+    "11c25c66741eb0e0": "На Волині 20 листопада запровадили графіки відключення світла і обмежили потужності для підприємств. Через складну ситуацію в енергосистемі після чергового російського обстрілу 20 листопада підприємствам і споживачам на Волині обмежать електропостачання",
+    "6606d54263279bc0": "На Волині оновили графіки відключень світла. У п'ятницю, 20 листопада, на Волині оновили графіки погодинних відключень електроенергії через складну ситуацію в енергосистемі після масованих російських обстрілів.",
+    "5eb235ff08ed4813": "Завтра на Волині діятимуть графіки погодинного відключення електроенергії. Через складну ситуацію в енергосистемі завтра, 21 листопада, на території Волинської області будуть застосовуватися заходи обмеження споживання. Про це повідомили на сторінці ПрАТ «Волиньобленерго» у «Фейсбук». Графіки погодинного відключення діють в такому обсязі: підчерга 1.1: 14:00-17:30 21:00-24:00 підчерга 1.2: 07:00-10:30 14:00-17:30 21:00-24:00 підчерга 2.1: 07:00-10:30 14:00-17:30 21:00-24:00 підчерга 2.2: 07:00-10:30 14:00-17:30 21:00-24:00 підчерга 3.1: 06:00-10:30 […] The post Завтра на Волині діятимуть графіки погодинного відключення електроенергії appeared first on Волинь Online .",
+    "01581921c68f6b88": "На Волині діятимуть графіки відключень 21 листопада. У суботу, 21 листопада, на території Волинської області діятимуть графіки погодинного відключення електроенергії для всіх підчерг та обмеження потужності для промисловості й бізнесу.",
+    "46fe09cfe65b9209": "З 26 листопада на Волині діятимуть оновленні критерії для критично важливих підприємств. Із 26 листопада 2026 року на Волині набудуть чинності оновлені регіональні критерії, за якими визначають підприємства, установи та організації, що мають важливе значення для економіки області та забезпечення життєдіяльності населення. Зміни пов’язані з набранням чинності постановою Кабінету Міністрів України від 23 жовтня 2026 року № 1328, якою оновлено порядок визначення критично важливих підприємств і правила […] The post З 26 листопада на Волині діятимуть оновленні критерії для критично важливих підприємств appeared first on Волинь Online .",
+    "bd53d10af9baf1c1": "На Волині змінять критерії критичності. Із 26 листопада на Волині діятимуть оновлені критерії визначення підприємств, важливих для економіки області та життєзабезпечення населення. Зміни стосуються сфер діяльності, документів і обґрунтування статусу критично важливого підприємства. Про нові правила під час зустрічі на платформі «Діалог влади з бізнесом» розповіла директорка департаменту економіки, інвестиційної діяльності та регіональної політики Волинської ОДА Вероніка Бальбуза. Критерії оновили […]",
+    "6acb5cdaaea38896": "Підтвердили загибель військовослужбовця з Нововолинської громади. Експертиза ДНК підтвердила загибель нашого Захисника Євгенія Супенка, 1975 року народження. Жителя селища Благодатне. Про це повідомив Нововолинський міський голова Борис Карпус на своїй сторінці у «Фейсбук». Він визнаний загиблим 18 листопада 2024 року на Донеччині. «Висловлюю щирі співчуття рідним і близьким. Вічна памʼять Герою!», — зазначив мер. Інформація щодо прибуття тіла та чину поховання […] The post Підтвердили загибель військовослужбовця з Нововолинської громади appeared first on Волинь Online .",
+    "8fd70c79b82ddff0": "Графік погодинних відключень світла 21 листопада на Хмельниччині. Завтра, 21 листопада, на Хмельниччині буде діяти графік погодинних відключень світла. Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності",
+    "eed16c10a0f912de": "Графік відключень електроенергії у Хмельницькій області на 21 листопада. Знеструмлення застосовуватимуть для всіх 12 підчерг.",
+    "568b87dfb716c734": "Погода на завтра: мокро і вітряно буде на Хмельниччині 21 листопада. Уночі стовпчики термометрів опустяться до +1 градуса, а вдень повітря прогріється до +11.",
+    "80fee43c1b383110": "Дощитиме: погода 21 листопада на Хмельниччині. Завтра, 21 листопада, на Хмельниччині буде хмарно з проясненням. За прогнозами синоптиків, дощитиме. Про це повідомили у Хмельницькому обласному центру з гідрометеорології",
+    "cd6ab971cb9664fd": "У Хмельницькому іноземця підозрюють у створенні дитячої порнографії. Суд відправив його під варту без права внесення застави.",
+    "166dd69e480043de": "У Хмельницькому викрили студію дитячої порнографії. У Хмельницькому викрили 56-річного іноземця, який облаштував вдома студію для створення дитячої порнографії.",
+    "972c518c11a89129": "Студія для виготовлення дитячої порнографії: у Хмельницькому іноземцю оголосили підозру. Іноземцю з Хмельницького, який, за даними слідства, облаштував у приватному будинку «дитячу порностудію», обладнавши кімнати для фото- та відеозйомки, оголосили підозру. За попередніми даними, від його дій травмувалися 5 дітей",
+    "107747b3ec50514d": "У Хмельницькому на маршрут №7А додали ще один тролейбус. Додатковий транспорт курсуватиме між мікрорайонами Ракове та Південно-Західний і міською лікарнею.",
+    "dc0fe835d6a21ac3": "У Закарпатській області запровадили аварійні відключення світла. У Закарпатській області 20 листопада запровадили аварійні відключення електроенергії. Про це повідомили в Укренерго. Аварійні відключення застосували як вимушений захід для стабілізації роботи об'єднаної енергосистеми України.",
+    "25878d7b8fe40499": "У Закарпатській та ще двох областях — аварійні відключення. Від ночі росія атакує Україну з повітря.",
+    "5ca9a23af1c958d7": "Аварійні відключення світла 20 листопада після атаки РФ охопили чотири області. Аварійні відключення світла 20 листопада 2026 року запровадили після атаки РФ. Де ввели обмеження та як перевірити графік за адресою в областях України. Запис Аварійні відключення світла 20 листопада після атаки РФ охопили чотири області спершу з'явиться на Медіа \"Ворскла\" .",
+    "8a5670e6ece11818": "Укренерго повідомило, як відключатимуть світло 21 листопада. У суботу, 21 листопада, у частині областей України цілодобово діятимуть планові відключення електроенергії. Запис Укренерго повідомило, як відключатимуть світло 21 листопада спершу з'явиться на Букви .",
+    "32bd247bae4b125c": "Як відключатимуть світло 21 листопада: прогноз Укренерго. У суботу, 21 листопада, у частині областей України протягом усієї доби діятимуть графіки погодинних відключень електроенергії.",
+    "f650e06b95b3e964": "До 12 годин без світла: в \"Укренерго\" розповіли про відключення на суботу. Завтра, 21 листопада, у частині регіонів України будуть застосовувати графіки відключення електроенергії.",
+    "5da840cc8008e563": "Графіки відключення світла в суботу діятимуть у частині областей. У частині областей України у суботу, 21 листопада, діятимуть планові відключення електрики.",
+    "8038e9da6d7d7000": "В Україні 21 листопада запровадять графіки відключень. У суботу, 21 листопада, у частині областей України цілодобово діятимуть планові відключення електроенергії обсягом від 1,5 до 3 черг для всіх категорій споживачів та графіки обмеження потужності для промисловості.",
+    "c0763372bbc3c71a": "В Ужгороді згадають полеглого капітана Євгена Гайдука. Валерія Рубаняк пт, 20/11/2026 - 11:37 У понеділок, 23 листопада, о 12:00 в Ужгородському ліцеї № 3 відбудеться меморіальна зустріч, присвячена пам'яті воїна-героя Євгена Гайдука. Саме цього дня йому би виповнилося 45 років, однак влітку 2024 року він загинув на Запорізькому напрямку. Євген Гайдук виріс у відомій в Ужгороді родині: мама завідувала дитячим садочком, а батько був військовим прокурором. Однак Євген завжди тримався просто, проявляв кращі чоловічі якості. Недарма взяв собі позивний “Дуб”.",
+    "2c53ddfd0a019ce9": "На Ужгородщині госпіталізували 7-місячну дитину. Медиків швидкої викликали, бо маленька дитина ймовірно проковтнула пластилін.",
+    "963887fc8a6e62f8": "На Ужгородщині госпіталізували 7-місячну дівчинку, яка з'їла пластилін. Валерія Рубаняк пт, 20/11/2026 - 15:36 На Ужгородщині до лікарні потрапила 7-місячна дівчинка, яка проковтнула пластилін. Наразі дитину обстежують медики. Як у п’ятницю, 20 листопада, повідомили у Закарпатському центрі екстреної меддопомоги, на лінію 103 надійшов виклик щодо 7-місячної дівчинки, яка, ймовірно, проковтнула пластилін. Бригада швидкої, яка прибула на виклик, оглянула дитину та відвезла до лікарні. «Дівчинку доставили до обласної дитячої лікарні для подальшого обстеження та надання необхідної допомоги», – поінформували у швидкій."
+  },
+  "budget_characters": 1648,
+  "characters": 1548,
+  "stories": 4,
+  "retold": 4,
+  "log": {
+    "llm": {
+      "model": "claude-opus-5-5",
+      "input_tokens": 23668,
+      "output_tokens": 2930,
+      "request_id": "req_011ChFZmhW8nqjchyc8UH1fr"
+    },
+    "rejected": [],
+    "fallback": [],
+    "left_out": [
+      "national-c-44927d55adad15b0",
+      "regional-c-16fe56747634f800",
+      "regional-c-2e21a69de52e526a",
+      "regional-c-906d46984d1c80bf",
+      "regional-c-24019e75e91a90ff"
+    ],
+    "freshened": [
+      {
+        "story": [
+          "national-c-26f0956f01e2e9d4"
+        ],
+        "old": "Семеро людей загинули в Києві внаслідок російської атаки 20 листопада, ще 17 постраждали.",
+        "new": "Масована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі."
+      }
+    ],
+    "strikes_digest": {
+      "merged": true,
+      "stories": 2,
+      "killed": 6,
+      "injured": 17,
+      "apart": [
+        "national-c-da36a659e79508f9",
+        "national-c-05d94607052c8bdb",
+        "national-c-46c8d136681b6496",
+        "national-c-141b5efe6311f6c6",
+        "national-c-1f8bbf3db2edc31b"
+      ]
+    },
+    "cut_for_budget": [
+      [
+        "regional-c-77471d0d450ebb1d"
+      ],
+      [
+        "national-c-1b391cb322a369cd"
+      ]
+    ]
+  },
+  "script_sha256": "380ccf32e8e8f72b9b2eb55d72ac4b4ae9a9299df80c27286dcf657c258ada54",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок двадцять першого листопада: масована російська атака на Київ і енергетику, удари по Львову та Кривому Рогу, а також відновлення Керченського мосту.\nЗа словами президента Володимира Зеленського, Росія випустила по Україні понад 110 ракет і понад 400 дронів.\nПід ударом були об'єкти, від яких залежать атомні станції та енергозв'язок з Європою.\nАЕС вимушено знизили потужність, а одна з ТЕС ДТЕК припинила генерацію.\nУ Львові 20 листопада двоє людей загинули внаслідок російського удару по залізничній станції «Скнилів».\nЩе 10 людей постраждали, повідомив мер Андрій Садовий.\nЧерез удар по енергетиці були перебої з електротранспортом і водопостачанням.\nРосіяни ввечері 20 листопада вдарили балістичними ракетами по Кривому Рогу.\nСеред загиблих — 20-річна фельдшерка швидкої і 7-річний хлопчик.\nПостраждали щонайменше 42 людини.\nКрім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 6 людей, ще щонайменше 17 людей поранено.\nМасована атака рф на Київ і дев’ять областей України: восьмеро загиблих, є постраждалі.\nУ Запоріжжі 17 людей поранені внаслідок російського удару по Космічному району 20 листопада.\nЦе був BRIEF станом на ранок двадцять першого листопада. Посилання на першоджерела — на сайті BRIEF."
+}

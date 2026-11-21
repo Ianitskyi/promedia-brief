@@ -1,9 +1,1853 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T02:13:37+00:00",
-  "source_count": 18,
-  "item_count": 79,
+  "generated_at": "2026-11-21T05:57:54+00:00",
+  "source_count": 38,
+  "item_count": 174,
   "items": [
+    {
+      "id": "c88457c3f4c8cffa",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187038-vorog-iz-vecora-majze-10-raziv-biv-po-dnipropetrovsini-dvoe-zagiblih-55-poranenih.html",
+      "title": "Ворог із вечора майже 10 разів бив по Дніпропетровщині - двоє загиблих, 55 поранених",
+      "published_at": "2026-11-21T05:50:27+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:50:27 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Війська РФ із вечора 20 листопада майже 10 разів атакували п’ять районів Дніпропетровської області безпілотниками та ракетами. Двоє людей загинули, 55 дістали поранень. Серед загиблих і поранених є діти.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86816438becc57fe",
+      "source_id": "map-103",
+      "source": "Inform.zp",
+      "geography": "regional",
+      "source_region": "zaporizhzhia",
+      "url": "https://inform.zp.ua/uk/2026/11/21/406956_u-zaporizhzhi-posylyly-grafiky-vidklyuchennya-svitla-na-21-lystopada",
+      "title": "У Запоріжжі посилили графіки відключення світла на 21 листопада",
+      "published_at": "2026-11-21T05:50:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:50:00 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сьогодні, 21 листопада, у Запоріжжі та області діють графіки погодинних відключень електроенергії. Обмеження стали тривалішими: для окремих підчерг світло вимикатимуть до 13 годин на добу. Сообщение У Запоріжжі посилили графіки відключення світла на 21 листопада появились сначала на inform.zp.ua .",
+      "categories": [
+        "ЖКГ",
+        "відключення світла",
+        "Запоріжжя",
+        "запоріжжяобленерго",
+        "світло"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "16a517f60a35420b",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/rosiyu-mozhna-rozzbrojiti-chaliy-pro-naslidki-zustrichi-trampa-putina-ta-si-dlya-ukrajini-50661200.html",
+      "title": "«Приниження не було, але сигнали — чіткі». Чого досяг Путін у Шеньчжені та в чому збігаються інтереси України і Китаю — розмова з Чалим",
+      "published_at": "2026-11-21T05:49:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:49:00 +0200",
+      "fetched_at": "2026-11-21T02:13:37+00:00",
+      "description": "Голова правління Українського кризового медіа-центру, посол України у США у 2015-2019 роках Валерій Чалий в інтерв’ю Radio NV - про підсумки зустрічі президента США Дональда Трампа, китайського лідера Сі Цзіньпіна і російського диктатора Володимира Путіна і її наслідки для України",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bf5e51d59d4ed93a",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240171.html",
+      "title": "Кількість постраждалих унаслідок атаки дрона по Солоницівці зросла до 11 осіб, серед них двоє дітей",
+      "published_at": "2026-11-21T05:48:44+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:48:44 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Кількість людей, які дістали поранення внаслідок удару російського безпілотника по селищу Солоницівка на Харківщині, зросла до 11, серед них двоє дітей, повідомляє Державна служба України з надзвичайних ситуацій (ДСНС).",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cce051dc0ee18176",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/genshtab-rosiya-vtratyla-shhe-1730-vijskovyh-za-dobu",
+      "title": "Генштаб: Росія втратила ще 1730 військових за добу",
+      "published_at": "2026-11-21T05:47:13+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:47:13 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "За останню добу Сили оборони знешкодили 1730 російських військовослужбовців та знищили чимало ворожого озброєння, включно з артсистемами, БПЛА та автотехнікою. Запис Генштаб: Росія втратила ще 1730 військових за добу спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "втрати РФ",
+        "Російсько-Українська війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cc5dabfd5d6a3849",
+      "source_id": "map-1147",
+      "source": "ПІК",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://pik.net.ua/2026/11/21/na-prykarpatti-zminyly-grafiky-vidklyuchen-na-21-lystopada-onovleno",
+      "title": "На Прикарпатті змінили графіки відключень на 21 листопада (ОНОВЛЕНО)",
+      "published_at": "2026-11-21T05:45:33+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:45:33 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "причиною обмежень є наслідки російських атак на енергетичну інфраструктуру.",
+      "categories": [
+        "Соціум",
+        "Верховинський район",
+        "Івано-Франківськ",
+        "Івано-Франківський район",
+        "Калуський район"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b982b71fae6ea970",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240170.html",
+      "title": "Окупанти за добу втратили 1 730 осіб та 285 од. авто- і спецтехніки",
+      "published_at": "2026-11-21T05:42:51+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:42:51 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сили оборони України за минулу добу ліквідували 1 730 окупантів, 24 бронемашини, 21 артсистему, 1 065 БпЛА, 82 крилаті ракети, а також 285 од.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5c7a4aa217c13929",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-ato/4187037-armia-rf-vtratila-na-vijni-proti-ukraini-se-1730-osib-i-dva-zasobi-ppo.html",
+      "title": "Армія РФ втратила на війні проти України ще 1730 осіб і два засоби ППО",
+      "published_at": "2026-11-21T05:42:44+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:42:44 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Загальні бойові втрати російських військ від початку повномасштабного вторгнення в Україну, з 24 лютого 2022 року по 21 листопада 2026 року, становлять близько 1 634 860 осіб, зокрема 1 730 осіб – за минулу добу.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e23b8ff9122390e8",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20312535-policiya-zafiksuvala-ponad-300-vipadkiv-poshkodzhennya-pidpriemstv-z-inozemnoyu-uchastyu",
+      "title": "Поліція зафіксувала понад 300 випадків пошкодження підприємств з іноземною участю",
+      "published_at": "2026-11-21T05:42:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:42:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Слідчі збирають докази та визначають розмір збитків, щоб компанії могли захищати свої права в судах",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d340183d40e3d4b1",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240167.html",
+      "title": "У Подільському районі Києва через ворожу атаку спалахнули два приватні будинки – КМВА",
+      "published_at": "2026-11-21T05:41:23+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:41:23 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У Подільському районі столиці внаслідок атаки російських окупаційних військ виникла пожежа у двох приватних житлових будинках.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6ffe93f53f4824e1",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/21-lystopada-yake-sogodni-svyato-imenyny-tradytsiyi-prykmety-2",
+      "title": "21 листопада: яке сьогодні свято, іменини, традиції, прикмети",
+      "published_at": "2026-11-21T05:39:58+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:39:58 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "21 листопада відзначають Всесвітній день телебачення, Всесвітній день вітань, Міжнародний день філософії та Міжнародний день відмови від куріння. Запис 21 листопада: яке сьогодні свято, іменини, традиції, прикмети спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "21 листопада",
+        "іменини",
+        "прикмети",
+        "свята"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2e17f087cf37550d",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240166.html",
+      "title": "РФ відмовилася від балотування до Ради ІСАО завдяки спільній позиції України та партнерів",
+      "published_at": "2026-11-21T05:39:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:39:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Російська Федерація не висунула свою кандидатуру до складу Ради Міжнародної організації цивільної авіації (ІСАО) під час 43-ї позачергової сесії Асамблеї завдяки спільній роботі та тиску з боку України, США та європейських партнерів.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b4c633682be6f5f9",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187036-kilkist-postrazdalih-vid-vorozih-obstriliv-na-harkivsini-zrosla-do-11-sered-nih-dvoe-ditej.html",
+      "title": "Кількість постраждалих від ворожих обстрілів на Харківщині зросла до 11, серед них - двоє дітей",
+      "published_at": "2026-11-21T05:38:48+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:38:48 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3eb2c2b170ba3b90",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/hehset-zaprovadiv-novi-obmezhennja-na-oboronnu-spivpratsju-ssha-z-kanadoju-wp.html",
+      "title": "Гегсет запровадив нові обмеження на оборонну співпрацю США з Канадою — WP",
+      "published_at": "2026-11-21T05:36:46+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:36:46 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Це може ще більше загострити відносини між Вашингтоном та Оттавою.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "57697fae886c84d1",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/WORLD/bez-pojasnen-bez-hroshej-spacex-mozhe-vtratiti-derzhfinansuvannja-cherez-obmezhennja-starshield-v-ukrajini-cnn.html",
+      "title": "Демократи погрожують призупинити фінансування проєктів SpaceX через перебої в роботі Starshield в Україні — CNN",
+      "published_at": "2026-11-21T05:36:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:36:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Після обмеження швидкості роботи Starshield деякі представники адміністрації Дональда Трампа почали покладати відповідальність на Ілона Маска.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6e483ce84d332706",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187035-rosiani-za-dobu-489-raziv-bili-po-zaporizkij-oblasti-dvoe-zagiblih-22-poranenih.html",
+      "title": "Росіяни за добу 489 разів били по Запорізькій області - двоє загиблих, 22 поранених",
+      "published_at": "2026-11-21T05:32:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:32:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Упродовж доби окупанти завдали 489 ударів по 48 населених пунктах Запорізької області. Дві людини загинули, ще 22, зокрема одна дитина, поранені внаслідок ворожих атак на Запоріжжя та Запорізький район.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d325ca9448015f4b",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/kredytory-spacex-chypy-nvidia-orbitalni-tsod-v5m7l1",
+      "title": "Чи полетять чипи Nvidia в космос: кредитори SpaceX проти цього",
+      "published_at": "2026-11-21T05:30:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:30:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Кредитори SpaceX намагалися заборонити Ілону Маску запускати в космос чипи, які забезпечують борг на $43 млрд.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ec27b81b1132ad70",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/21/turel-iz-shi-j-shvidki-droni-yak-na-pivnochi-harkivshhini-nishhat-banderoli",
+      "title": "Турель із ШІ й швидкі дрони: як на півночі Харківщини нищать «бандеролі»",
+      "published_at": "2026-11-21T05:28:33+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:28:33 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Як на Вовчанському напрямку підрозділи ЗСУ борються з «бандеролями», МГ «Об’єктив» розповів заступник командира батальйону...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7d5e5afecb54cc95",
+      "source_id": "hromadske",
+      "source": "hromadske",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://hromadske.ua/pivnichna-ameryka/274750-ilon-mask-nayniav-lobistiv-iz-zviazkamy-sered-demokrativ-iaki-khochut-rozsliduvaty-obmezennia-starlink-v-ukrayini-fox-news",
+      "title": "Ілон Маск найняв лобістів із звʼязками серед демократів, бо ті хочуть розслідувати обмеження Starlink в Україні — Fox News",
+      "published_at": "2026-11-21T05:27:00+00:00",
+      "published_raw": "2026-11-21T07:27:00+02:00",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e36acfcee45bfc3e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/u-mea-poperedili-pro-bezprecedentniy-energetichniy-shok-cherez-krizu-v-ormuzkiy-protoci-ta-naftu-50661196.html",
+      "title": "Транзит нафти може впасти у 10 разів. Що буде з цінами на пальне й газ через кризу в Ормузькій протоці — прогноз МЕА",
+      "published_at": "2026-11-21T05:27:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:27:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Конфлікт на Близькому Сході та перебої із судноплавством в Ормузькій протоці спричинили наймасштабніший шок на ринку енергоносіїв. Світовий енергетичний сектор уже не повернеться до минулого стану навіть після завершення бойових дій.",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1d0c307a5130f586",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/countries/leningradsku-oblast-atakuvali-droni-21-listopada-video-50661220.html",
+      "title": "Ленінградську область РФ атакували дрони, у Мережі пишуть про ймовірний удар по порту Усть-Луга",
+      "published_at": "2026-11-21T05:25:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:25:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ленінградську область РФ вранці у суботу, 21 листопада, атакували десятки дронів. У російському регіоні пролунали вибухи.",
+      "categories": [
+        "Світ/Країни"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfc10b621ab6519f",
+      "source_id": "map-940",
+      "source": "Букви",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://bukvy.org/doshhi-mokryj-snig-i-sylnyj-viter-yakoyu-bude-pogoda-v-ukrayini-21-lystopada",
+      "title": "Дощі, мокрий сніг і сильний вітер: якою буде погода в Україні 21 листопада",
+      "published_at": "2026-11-21T05:23:09+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:23:09 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У суботу, 21 листопада, в Україні очікується хмарна погода з проясненнями. У більшості областей пройдуть невеликі дощі, а на заході вночі можливий мокрий сніг. Запис Дощі, мокрий сніг і сильний вітер: якою буде погода в Україні 21 листопада спершу з'явиться на Букви .",
+      "categories": [
+        "Новини",
+        "21 листопада",
+        "погода",
+        "погода 21 листопада",
+        "прогноз погоди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c4c0b12555596a59",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/CULTURE/rockstar-pidtverdila-absoljutnij-rekord-gta-6-prinesla-3-79-miljarda-u-pershij-den.html",
+      "title": "Rockstar підтвердила абсолютний рекорд: GTA 6 принесла $3,79 мільярда у перший день",
+      "published_at": "2026-11-21T05:23:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:23:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ще до релізу гру придбали 32,5 мільйона разів.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6dbd282cad53cc9e",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/v-odesse-na-ves-den-ostanovyat-tramvai-%e2%84%9617-i-%e2%84%9618-chto-sluchilos",
+      "title": "В Одессе на весь день остановят трамваи №17 и №18: что случилось",
+      "published_at": "2026-11-21T05:22:07+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:22:07 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сегодня, в субботу, 21 ноября, одесситы не смогут воспользоваться трамваями №17 и №18 – движение обоих маршрутов приостановят на весь день. Причина – аварийно-ремонтные работы на трамвайной колее. Сообщение В Одессе на весь день остановят трамваи №17 и №18: что случилось появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "городской транспорт",
+        "общественный транспорт",
+        "ремонтные работы",
+        "Топ новости"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "600f3b383acc52fe",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/food/eat/yak-zrozumiti-shcho-kavovarka-zlamalasya-v-chomu-mozhe-buti-prichina-ta-koli-remont-ne-maye-sensu-50660225.html",
+      "title": "Чому кавоварка готує каву дедалі повільніше: основні причини та способи це виправити",
+      "published_at": "2026-11-21T05:22:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:22:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ранкова кава — маленький ритуал, який не хочеться перетворювати на довге очікування. Але якщо кавоварка, яка раніше готувала напій за кілька хвилин, раптом почала працювати значно повільніше, це не обов’язково означає, що настав час купувати нову техніку.",
+      "categories": [
+        "Food/Їжа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b3c80239f8ead7ea",
+      "source_id": "map-545",
+      "source": "KHARKIV Today",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://2day.kh.ua/ua/kharkow/na-kharkivshchynu-yde-moroz-do-14-hradusiv",
+      "title": "На Харківщину йде мороз до 14 градусів: метеорологи назвали дату",
+      "published_at": "2026-11-21T05:21:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:21:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Холодно буде 28 листопада.",
+      "categories": [
+        "Харків"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7cecee76a8524883",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144444-veryfikatsiia-na-olx-cherez-diiu-novi-pravyla-ta-podatky-z-2027-roku",
+      "title": "Верифікація на OLX через «Дію»: нові правила та податки з 2027 року",
+      "published_at": "2026-11-21T05:21:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:21:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Від 1 січня 2027 для тих, хто продає на платформі OLX — фізичних осіб та підприємців — діятимуть зміни.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b589c163d770c612",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4187023-saperi-derzspecsluzbi-transportu-vze-rozminuvali-ponad-230-tisac-gektariv-zvilnenih-teritorij.html",
+      "title": "Сапери Держспецслужби транспорту вже розмінували понад 230 тисяч гектарів звільнених територій",
+      "published_at": "2026-11-21T05:20:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:20:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сапери Державної спеціальної служби транспорту Міністерства оборони України з початку виконання завдань з гуманітарного розмінування обстежили та очистили понад 230 тисяч гектарів звільнених від російських загарбників територій.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "564c0e0ccd20da03",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://biz.nv.ua/ukr/economics/de-v-yevropi-naybilshiy-rozriv-cin-na-zhitlo-mizh-mistami-ta-selami-i-chomu-dorozhchayut-megapolisi-50661160.html",
+      "title": "17 років різниці на одній квартирі. Де в Європі житло в містах у 3,4 раза дорожче за сільське",
+      "published_at": "2026-11-21T05:15:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:15:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ціни на житло в містах Європи в середньому на 31% перевищують середній показник по країні, тоді як у сільській місцевості вони нижчі на 30%. Найбільший ціновий розрив між містом і селом зафіксували в Данії, Угорщині та Фінляндії.",
+      "categories": [
+        "Бізнес/Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4a7a88af572c624f",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/primarnij-lis-na-zamerzlikh-djunakh-orbitalnij-aparat-zrobiv-vrazhajuchij-znimok-marsa.html",
+      "title": "«Примарний ліс» на замерзлих дюнах: орбітальний апарат зробив разючий знімок Марса",
+      "published_at": "2026-11-21T05:15:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:15:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Фотографію отримали ще у 2008 році.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "dd4b905b55db373e",
+      "source_id": "map-332",
+      "source": "Слобідський край",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://slk.kh.ua/news/suspilstvo/svato-21-listopada-prikmeti-tradicii-ta-zaboroni.html",
+      "title": "Свято 21 листопада: прикмети, традиції та заборони",
+      "published_at": "2026-11-21T05:15:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:15:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Розповідаємо, яке церковне свято відзначається в Україні у суботу, 21 листопада, за новим стилем, що не можна робити, які народні прикмети, а також у кого іменини.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5da840cc8008e563",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-economy/4186928-grafiki-vidklucenna-svitla-v-subotu-diatimut-u-castini-oblastej.html",
+      "title": "Від 1,5 до 3 черг: графіки відключення світла діють у частині областей",
+      "published_at": "2026-11-21T05:12:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:12:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У частині областей України у суботу, 21 листопада, діятимуть планові відключення електрики.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2174c489a2395196",
+      "source_id": "map-664",
+      "source": "Курс",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://kurs.if.ua/kudy-pity-v-ivano-frankivsku-21-22-lystopada",
+      "title": "Куди піти в Івано-Франківську на вихідних 21-22 листопада: добірка подій",
+      "published_at": "2026-11-21T05:10:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:10:00 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Листопад — час, коли особливо хочеться тепла. Не лише домашнього, а й того, яке народжується у спілкуванні, музиці, мистецтві та відчутті, що ми поруч одне з одним. Цими вихідними Франківськ запрошує на події, які по-різному нагадують про важливе. Через мистецтво — осмислити пам’ять поколінь і трагедії минулого. У День Гідності та Свободи — згадати Помаранчеву […]",
+      "categories": [
+        "Суспільство",
+        "розваги",
+        "вихідні",
+        "анонс",
+        "вікенд"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8c6b00bd5cb81731",
+      "source_id": "map-103",
+      "source": "Inform.zp",
+      "geography": "regional",
+      "source_region": "zaporizhzhia",
+      "url": "https://inform.zp.ua/uk/2026/11/21/406951_nichnyj-obstril-zaporizhzhya-u-misti-poshkodzheno-dytsadok",
+      "title": "Нічний обстріл Запоріжжя: у місті пошкоджено дитсадок",
+      "published_at": "2026-11-21T05:08:59+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:08:59 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сьогодні вночі, 21 листопада, російські війська атакували Запоріжжя. Під ударом опинився дитячий садок, а в п'ятиповерховому будинку загорілася квартира. Сообщение Нічний обстріл Запоріжжя: у місті пошкоджено дитсадок появились сначала на inform.zp.ua .",
+      "categories": [
+        "Суспільство",
+        "Війна Росії з Україною",
+        "Запоріжжя"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "be651597f58a7e89",
+      "source_id": "map-1114",
+      "source": "Інформатор Коломия",
+      "geography": "regional",
+      "source_region": "ivano-frankivsk",
+      "url": "https://kl.informator.ua/uk/cey-den-v-kalendari-svyata-imenini-prikmeti-21-listopada-2",
+      "title": "Цей день в календарі: свята, іменини, прикмети 21 листопада",
+      "published_at": "2026-11-21T05:03:03+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:03:03 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Новини ☝️ Цей день в календарі: свята, іменини, прикмети 21 листопада. ✅ Інформатор Коломия.",
+      "categories": [
+        "НОВИНИ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3fbf610335de9d9c",
+      "source_id": "map-535",
+      "source": "МОСТ",
+      "geography": "regional",
+      "source_region": "kherson",
+      "url": "https://most.ks.ua/news/url/u-hersoni-j-antonivtsi-pislja-rosijskih-udariv-poshkodzheni-budinki",
+      "title": "У Херсоні й Антонівці після російських ударів пошкоджені будинки",
+      "published_at": "2026-11-21T05:01:09+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:01:09 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Протягом минулої доби російських ударів зазнали Херсон і Антонівка у Херсонській громаді. Про це начальник Херсонської МВА Ярослав Шанько написав у своєму Telegram-каналі. Під вогнем артилерії та дроновими атаками опинилися два населені пункти громади. Зокрема, пошкоджено багатоповерхові та приватні будинки. Інформація про загиблих або поранених не надходила. Запис У Херсоні й Антонівці після російських ударів пошкоджені будинки спершу з'явиться на Мост .",
+      "categories": [
+        "Новина"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7b09a3fbbe5a1d90",
+      "source_id": "map-332",
+      "source": "Слобідський край",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://slk.kh.ua/news/suspilstvo/21-listopada-den-gidnosti-ta-svobodi.html",
+      "title": "21 листопада — День Гідності та Свободи",
+      "published_at": "2026-11-21T05:01:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:01:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "21 листопада Україна відзначає День Гідності та Свободи — свято, присвячене Помаранчевій революції 2004 року та Революції Гідності 2013–2014 років. Харків'яни долучилися до боротьби за європейський вибір ще до початку масових протестів у Києві.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a47ab698b9d1b9c6",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240164.html",
+      "title": "21 листопада: Яке сьогодні свято, все про цей день",
+      "published_at": "2026-11-21T05:00:35+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:35 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "21 листопада в Україні відзначають День Гідності та Свободи.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6098a6005df3f5aa",
+      "source_id": "map-696",
+      "source": "Молодий буковинець",
+      "geography": "regional",
+      "source_region": "chernivtsi",
+      "url": "https://molbuk.ua/chernivtsi_news/366939-pogoda-na-bukovyni-21-lystopada.html",
+      "title": "Погода на Буковині 21 листопада",
+      "published_at": "2026-11-21T05:00:32+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:32 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Хмарно з проясненням. Вдень дощ.",
+      "categories": [
+        "Новини Чернівців / погода чернівці"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d107e35f06684df0",
+      "source_id": "babel",
+      "source": "Бабель",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://babel.ua/texts/131899-shcho-podivitisya-u-vihidni-prodovzhennya-persi-dzheksona-ta-olimpiyciv-final-shershniv-ta-rizdvyaniy-romkom-z-zirkami-plitkarki-i-nadprirodnogo",
+      "title": "Що подивитися у вихідні. Продовження «Персі Джексона та Олімпійців», фінал «Шершнів» і різдвяний ромком із зірками «Пліткарки» й «Надприродного»",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 26 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Цього тижня на Netflix, Paramount+ і Disney+ вийшли чотири цікаві релізи. Це третій сезон «Персі Джексона та Олімпійців», фінальний сезон «Шершнів», ромком «Охоронниця» з Лейтон Містер («Пліткарка») і Джаредом Падалекі («Надприродне») та кримінальний серіал «Альтруїсти» на основі реальних подій — масштабних фінансових махінацій власників криптобіржі FTX. «Бабель» зібрав відгуки й оцінки критиків та підказує, що подивитися у вихідні.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86402c3107f9b5c2",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/revolyuciya-gidnosti-steckiv-pro-pomilki-lideriv-maydanu-ta-prichini-vtrati-krimu-50660906.html",
+      "title": "«Навіть Порошенка не завжди допускали». Чому Революція Гідності ледь не програла і які політики втратили Крим — інтерв'ю зі Стецьківим",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "NV поговорив із Тарасом Стецьківим, досвідченим політиком та учасником двох Майданів, про те, чим відрізнялись українські революції, хто, як хотів використати протести, через кого стала можливою російська окупація Криму.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "90fb12e6d2384201",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4187010-za-foto-i-video-identifikovani-77-polonenih-ukrainskih-vijskovosluzbovciv-lubinec.html",
+      "title": "За фото і відео ідентифіковані 77 полонених українських військовослужбовців - Лубінець",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "За результатами дослідження фахівцями фото- і відеоматеріалів ідентифіковано 77 українських військовослужбовців у російському полоні.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e9cda9c9287d863a",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/news/rozevii-sum-uvi-sni-dopomagaje-mozku-krashhe-pribiratisya-doslidzennya-vz8gyg",
+      "title": "Рожевий шум уві сні допомагає мозку краще «прибиратися»: дослідження",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Науковці в МІТ знайшли простий спосіб посилити нічне очищення мозку: короткі сплески рожевого шуму під час сну. Про нове дослідження вчених пише Science Alert.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "956b4a8d9ce508fc",
+      "source_id": "map-960",
+      "source": "SPEKA",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://speka.ua/business/andrii-cumacenko-tix-xto-dilitsya-lyublyat-super-board-2026-pjze71",
+      "title": "Андрій Чумаченко: «Тих, хто ділиться, люблять. А тих, хто не ділиться, просто не помічають»",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Понад 120 заявок, 59 фіналістів і шість номінацій – так виглядав Super Board 2026 у цифрах. За ними стоять години, які журі провело над анкетами українських C-level. Один із суддів – Андрій Чумаченко, співзасновник Netpeak і CEO агенції BASE. Він шукав у кандидатах не гучні посади, а сигнали: чи видно людину в професійних медіа, чи стоїть за нею сильна команда і чи готова вона брати відповідальність.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "814ab2296bdedbd6",
+      "source_id": "map-365",
+      "source": "Твоє місто",
+      "geography": "regional",
+      "source_region": "lviv",
+      "url": "https://tvoemisto.tv/uk/news/13981-shcho-vidomo-pro-obstril-lvova--detali-khto-rozpalyuye-konflikt-u-sokilnykakh-ta-chy-vidklyuchatymut-nyni-svitlo-klyuchove-za-20-lystopada",
+      "title": "Що відомо про обстріл Львова – деталі, хто розпалює конфлікт у Сокільниках та чи відключатимуть нині світло. Ключове за 20 листопада",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:00:00 GMT",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Нині 1 732 доба героїчного спротиву агресії рф.",
+      "categories": [
+        "CityLife"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3a5160c0a5f2c948",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/politics/326644-uhorshchyna-zniala-blokuvannia-perehovoriv-vstup-ukrainy-yes",
+      "title": "Угорщина зняла блокування переговорів про вступ України до ЄС",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 07:00:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Угорщина перестала блокувати два переговорні кластери України на шляху до ЄС.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "f0fc17ef6a00054c",
+      "source_id": "map-1253",
+      "source": "Полісся News",
+      "geography": "regional",
+      "source_region": "rivne",
+      "url": "https://polissia.news/goroskop-na-21-lystopada-2026-roku-dlya-vsih-znakiv-zodiaku",
+      "title": "Гороскоп на 21 листопада 2026 року для всіх знаків зодіаку",
+      "published_at": "2026-11-21T05:00:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:00:00 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Субота, 21 листопада, стане гарною нагодою трохи сповільнитися, приділити увагу близьким і переглянути плани на майбутнє. Для одних знаків день буде сприятливим для спілкування та нових знайомств, для інших – для відпочинку й розв’язання особистих питань. Читайте гороскоп для всіх знаків зодіаку. Овен (21 березня – 19 квітня) День принесе бажання діяти й не відкладати […]",
+      "categories": [
+        "Гороскоп"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1b32bb6b17fe3f6a",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/football/nyukasl-arsenal-de-divitisya-match-apl-i-shansi-na-peremogu-21-listopada-50660918.html",
+      "title": "Ньюкасл — Арсенал: анонс і коефіцієнти на матч чемпіонату Англії",
+      "published_at": "2026-11-21T04:59:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:59:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Матч 11-го туру англійської футбольної Прем'єр-ліги відбудеться в суботу, 21 листопада.",
+      "categories": [
+        "Спорт/Футбол"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "42e48f5904d93743",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/food/eat/kvasolya-dlya-zdorov-ya-kishechnika-yak-pokrashchiti-travlennya-ta-mikrofloru-50660294.html",
+      "title": "Секрет здорового травлення. Дієтологи назвали доступний продукт, який варто їсти частіше",
+      "published_at": "2026-11-21T04:58:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:58:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Квасоля — один із найкорисніших продуктів для здоров’я кишечника. Завдяки високому вмісту клітковини, пребіотичних компонентів і мікроелементів вона покращує травлення, підтримує корисну мікрофлору та сприяє нормальній роботі організму.",
+      "categories": [
+        "Food/Їжа"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c88b204df93c7376",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/kyiv/ataka-na-kijiv-u-podilskomu-rayoni-cherez-udar-rf-spalahnuli-dva-privatni-50661219.html",
+      "title": "У Подільському районі Києва внаслідок російського удару спалахнули два приватні будинки",
+      "published_at": "2026-11-21T04:54:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:54:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Вранці суботи, 21 листопада, у Подільському районі Києва внаслідок російської атаки загорілися два приватні житлові будинки.",
+      "categories": [
+        "Київ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9119426a0a23f1f8",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/21/8063908",
+      "title": "За минулу добу Сили оборони ліквідували більше 1700 російських військових – Генштаб",
+      "published_at": "2026-11-21T04:53:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:53:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "За добу Сили оборони знешкодили 1730 військових РФ, загальні втрати армії Росії становлять близько 1 634 860 осіб. Деталі від Генштабу ЗСУ.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f6c8ee50b0259eaa",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187019-na-front-dostavili-66-tonn-antidronovoi-sitki-dla-semi-pidrozdiliv-zsu.html",
+      "title": "На фронт доставили 66 тонн антидронової сітки для семи підрозділів ЗСУ",
+      "published_at": "2026-11-21T04:52:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:52:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Лисичанська міська влада спільно з двома громадськими організаціями придбала й передала українським військовим 66 тонн антидронової сітки.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "21f06afefde542ac",
+      "source_id": "map-367",
+      "source": "Інтент",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://intent.press/publications/localgovernment/2026/330-proiektiv-i-173-mlrd-iak-vlashtovanii-plan-zakhodiv-strategii-rozvitku-odesi",
+      "title": "330 проєктів і 17,3 млрд: як влаштований План заходів Стратегії розвитку Одеси",
+      "published_at": "2026-11-21T04:49:36+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:49:36 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Одеська міська рада затвердила План заходів до Стратегії розвитку міста на 2026–2027 роки. Інтент проаналізував, як влаштований документ, скільки коштів потребує його реалізація та наскільки вдало в ньому визначені показники результативності.",
+      "categories": [
+        "Одеса",
+        "Проєкт Коло впливу",
+        "Стратегія Одеси",
+        "бюджет",
+        "місцеве самоврядування"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "098d66dbb6f5cb0c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4187025-na-cop31-ne-pogodili-pidsumkove-risenna-peregovori-prodovzat-u-subotu.html",
+      "title": "На COP31 не погодили підсумкове рішення, переговори продовжать у суботу",
+      "published_at": "2026-11-21T04:47:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:47:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Учасники кліматичної конференції ООН COP31 в Анталії не погодили остаточного тексту підсумкового рішення до завершення конференції. Переговори продовжать сьогодні. Одним зі спірних питань залишається відмова від викопного палива, формулювання про яку прибрали в останній редакції проєкту, що викликало різку критику низки країн та кліматичних активістів.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "97cb0785b6d5e62e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-20-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50661162.html",
+      "title": "Нічна атака шахедами: у низці областей оголосили повітряну тривогу через загрозу БПЛА, є влучання у Запоріжжі, Кривому Розі та Києві",
+      "published_at": "2026-11-21T04:39:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:39:00 +0200",
+      "fetched_at": "2026-11-21T02:13:37+00:00",
+      "description": "У ніч проти суботи, 21 листопада, у деяких областях України оголосили повітряну тривогу через загрозу атаки безпілотників армії РФ. Є влучання у Києві, Запоріжжі та Кривому Розі.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "86921b09599ef757",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187028-u-kievi-vnaslidok-vorozoi-ataki-stalosa-zagoranna-privatnih-zitlovih-budinkiv.html",
+      "title": "У Києві внаслідок ворожої атаки сталося загоряння приватних житлових будинків",
+      "published_at": "2026-11-21T04:34:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:34:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У Подільському районі Києва внаслідок ворожої атаки сталося загоряння приватних житлових будинків.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "72eb5f6d230f876e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/shi-proti-ljudini-vcheni-predstavili-dva-riznikh-dovedennja-zadachi-tisjacholittja.html",
+      "title": "ШІ проти людини: вчені представили два різних доведення «задачі тисячоліття»",
+      "published_at": "2026-11-21T04:33:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:33:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Йдеться про 167-річну гіпотезу Рімана, яку одночасно спробували розв’язати в Anthropic і Стенфорді.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "b67a6396c476a65f",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4186863-sogodni-v-ukraini-prognozuut-dosi-do-14-tepla.html",
+      "title": "Сьогодні в Україні прогнозують дощі, до 14° тепла",
+      "published_at": "2026-11-21T04:31:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:31:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "В Україні у суботу, 21 листопада, очікуються невеликі дощі, пориви вітру до 20 м/с.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8d8035ae45a6253f",
+      "source_id": "map-258",
+      "source": "Радіо Свобода Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://radiosvoboda.org/a/33901905.html",
+      "title": "Після Керченського мосту. Яким буде повернення Криму",
+      "published_at": "2026-11-21T04:30:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:30:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "«Важливий сигнал кожній та кожному, хто чекає на Україну»",
+      "categories": [
+        "Війна",
+        "Україна",
+        "Політика",
+        "Крим"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "68e6664e002712c6",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/zmagannya-diki-droni-naykrashchi-viyskovi-piloti-ukrajini-u-finali-2026-roku-50660493.html",
+      "title": "З поля бою на арену. Як досвід українських дронарів перетворили на спортивне змагання і хто став найкращим — репортаж",
+      "published_at": "2026-11-21T04:25:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:25:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У листопаді на заході України найкращі бойові пілоти повітряних та наземних дронів конкурували за першість у вже традиційних змаганнях Дикі дрони, демонструючи здобуті на фронті навички. Журналіст NV Сергій Окунєв відвідав ці змагання.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6894451a667f5308",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/opinion/zustrich-lideriv-kitayu-ssha-i-rosiji-pidsumki-samitu-v-shenchzheni-50660945.html",
+      "title": "Ось і все. Про Україну жодного слова",
+      "published_at": "2026-11-21T04:21:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:21:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Нотатки про зустріч трьох лідерів у Шеньчжені",
+      "categories": [
+        "Погляди"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1b57ba336a1a17d3",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/odesskij-yumor-14",
+      "title": "Одесский юмор: когда начинается самая интересная жизнь",
+      "published_at": "2026-11-21T04:17:08+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:17:08 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Доброе утро, Одесса! Пусть утро субботы начнется не с спешки, а с хорошей улыбки. Настройтесь на хорошее самочувствие, внутреннюю гармонию и хорошее настроение. Пусть веселые приколы мотивируют вас и подарят энергию. Сообщение Одесский юмор: когда начинается самая интересная жизнь появились сначала на Одеське життя .",
+      "categories": [
+        "Positive News",
+        "Новости Одессы",
+        "одесский юмор",
+        "юмор"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f18a82af60e5ed92",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4186927-pidpal-avto-za-vkazivkami-kuratoriv-z-rf-u-kievi-zatrimali-dvoh-pidozruvanih.html",
+      "title": "Підпал авто за вказівками кураторів з РФ: у Києві затримали двох підозрюваних",
+      "published_at": "2026-11-21T04:17:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:17:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Столичні поліцейські затримали двох чоловіків, які, за версією слідства, підпалювали у Києві автомобілі за вказівками кураторів із РФ.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "902e8658f6e41610",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/advices/144445-chy-zmenshytsia-platizhka-iakshcho-perekryty-batareyi-u-kvartyri",
+      "title": "Чи зменшиться платіжка, якщо перекрити батареї у квартирі",
+      "published_at": "2026-11-21T04:17:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:17:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "За рахунок розташування, планування та утеплення у деяких квартирах може бути тепліше, ніж у сусідів.",
+      "categories": [
+        "Поради"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cfd2f6cf1d51d7a4",
+      "source_id": "map-873",
+      "source": "Менщина",
+      "geography": "regional",
+      "source_region": "chernihiv",
+      "url": "https://mena.org.ua/pohoda-v-meni-na-21-11-2026",
+      "title": "Погода в Мені на 21.11.2026",
+      "published_at": "2026-11-21T04:08:41+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:08:41 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Запис Погода в Мені на 21.11.2026 спершу з'явиться на Менщина .",
+      "categories": [
+        "Погода"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c629705d5b4f0f43",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-culture/4187024-u-kanadi-pokazali-kino-pro-rol-ziteliv-kraini-klenovogo-listka-v-zdobutti-ukrainou-nezaleznosti.html",
+      "title": "У Канаді показали кіно про роль жителів «Країни кленового листка» в здобутті Україною незалежності",
+      "published_at": "2026-11-21T04:06:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:06:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У Канаді відбулися кілька показів документального фільму “Відстань до Незалежності” про канадців, які підтримали незалежність України у 1991-му році.",
+      "categories": [
+        "Культура"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f2b1c10e0f3f4fc5",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/zimovij-vstup-u-harkovi-yaki-universiteti-gotuvatimut-do-nmt-ta-koli-podavati-zayavi",
+      "title": "«Зимовий вступ» у Харкові: які університети готуватимуть до НМТ та коли подавати заяви",
+      "published_at": "2026-11-21T04:06:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:06:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У 2026/2027 навчальному році в Україні продовжує діяти програма «Зимовий вступ» — підготовчі курси при закладах вищої освіти, які допоможуть майбутнім вступникам підготуватися до Національного мультипредметного тесту (НМТ)",
+      "categories": [
+        "Всi новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d9b23b299e43166e",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/na-fihurtsi-vikom-15-tisjach-rokiv-vijavili-vidbitki-paltsiv-doroslikh-i-ditej-pro-shcho-tse-svidchit.html",
+      "title": "На фігурці віком 15 тисяч років виявили відбитки пальців дорослих і дітей: про що це свідчить",
+      "published_at": "2026-11-21T04:05:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 06:05:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ймовірно, люди різного віку працювали разом.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "269ad29c3152eb17",
+      "source_id": "map-685",
+      "source": "Об'єктив Новини",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://objectiv.tv/uk/objectively/2026/11/21/sogodni-21-listopada-2026-yake-svyato-ta-den-v-istoriyi",
+      "title": "Сьогодні 21 листопада 2026: яке свято та день в історії",
+      "published_at": "2026-11-21T04:00:12+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:00:12 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "21 листопада в Україні – День Гідності та Свободи. У цей день у 2004 та...",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "142abe6eb63671f3",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/world/geopolitics/melaniya-tramp-spodivayetsya-shcho-do-rizdva-mozhe-buti-nove-pripinennya-vognyu-mizh-ukrajinoyu-ta-rf-50661218.html",
+      "title": "Меланія Трамп сподівається на нове припинення вогню між Україною та Росією до Різдва",
+      "published_at": "2026-11-21T03:58:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:58:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Перша леді США Меланія Трамп висловила сподівання, що Україна та Росія зможуть домовитися про нове припинення вогню до Різдва.",
+      "categories": [
+        "Світ/Геополітика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2a137fa624654c3c",
+      "source_id": "map-902",
+      "source": "Одеське життя",
+      "geography": "regional",
+      "source_region": "odesa",
+      "url": "https://odessa-life.od.ua/news/spokojnye-vyhodnye-bez-magnitnyh-bur-prognoz-na-21-noyabrya",
+      "title": "Спокойные выходные без магнитных бурь? Прогноз на 21 ноября",
+      "published_at": "2026-11-21T03:52:22+00:00",
+      "published_raw": "Sat, 21 Nov 2026 03:52:22 +0000",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Сегодня, в субботу, 21 ноября 2026 года, сильных магнитных бурь на Земле не ожидается. Согласно прогнозу космической погоды, геомагнитная активность будет низкой, а индекс возмущений составит около 2,7 балла. Однако прогноз может меняться по мере поступления новых данных. Сообщение Спокойные выходные без магнитных бурь? Прогноз на 21 ноября появились сначала на Одеське життя .",
+      "categories": [
+        "Новости Одессы",
+        "магнитные бури",
+        "прогноз"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6845ad366c0e5297",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187027-u-kievi-prolunav-vibuh-dla-stolici-ta-nizci-regioniv-zagroza-balisticnogo-ozbroenna.html",
+      "title": "У Києві пролунав вибух, для столиці та низки регіонів - загроза балістичного озброєння",
+      "published_at": "2026-11-21T03:47:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:47:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Росіяни атакували Київ ракетою, у столиці пролунав потужний вибух.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8e701caea49000db",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-polytics/4187026-dla-nas-vin-vorog-i-ubivca-zelenskij-pro-putina-akogo-tramp-nazvav-drugom.html",
+      "title": "«Для нас він - ворог і убивця»: Зеленський про Путіна, якого Трамп назвав другом",
+      "published_at": "2026-11-21T03:33:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:33:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Президент України Володимир Зеленський заявив, що вважає російського диктатора Володимира Путіна вбивцею та ворогом України, після того, як президент США Дональд Трамп назвав його своїм другом.",
+      "categories": [
+        "Політика"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "a03e8e806f482228",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/war/nichnij-udar-po-zaporizhzhju-pid-atakoju-opinivsja-ditsadok-u-bahatopoverkhivtsi-poruch-spalakhnula-pozhezha.html",
+      "title": "Нічний удар по Запоріжжю: під атакою опинився дитсадок, у багатоповерхівці поруч спалахнула пожежа",
+      "published_at": "2026-11-21T03:32:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:32:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Унаслідок удару поранення дістав 63-річний чоловік.",
+      "categories": [
+        "Війна"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "c92a748a110d4ed9",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kriviy-rig-20-listopada-rosiya-vdarila-balistikoyu-po-centru-mista-novini-ukrajini-50661136.html",
+      "title": "РФ вдарила балістикою по центру Кривого Рогу: понад 40 постраждалих, двоє загиблих, серед них семирічний хлопчик — головне",
+      "published_at": "2026-11-21T03:29:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:29:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Увечері в п’ятницю, 20 листопада, країна-агресор РФ завдала удару балістичною ракетою по Кривому Рогу Дніпропетровської області.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8363502b933195d7",
+      "source_id": "map-340",
+      "source": "Гвара Медіа",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gwaramedia.com/armiya-rf-atakuvala-peredmistya-harkova-ye-postrazhdali",
+      "title": "Армія РФ атакувала передмістя Харкова: є постраждалі",
+      "published_at": "2026-11-21T03:29:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:29:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Ввечері 21 листопада російські війська вдарили по передмістю Харкова. Внаслідок цього постраждали шість людей, серед них — дві дитини. Про це повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов. За його даними, через російський удар постраждали 12-річний та 14-річний хлопчики. Їм надається медична допомога. Крім цього, сталися загорання на четвертому та п’ятому поверхах п’ятиповерхового будинку. Нагадаємо, що вдень 20 листопада російські війська вдарили по Салтівському району Харкова . Внаслідок цього постраждало двоє людей.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f0a3b39cd46928e4",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/krimskiy-mist-deficit-palnogo-i-produktiv-pislya-udariv-sil-oboroni-ukrajini-50661112.html",
+      "title": "Після влучень по Керченському мосту. Які настрої панують в Криму, чим займаються його жителі і чого бояться — аналіз NV",
+      "published_at": "2026-11-21T03:25:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:25:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Чергами за паливом та скуповуванням продуктів мешканці півострова відреагували на успішні удари Сил оборони України по мосту, що поки єднає окупований Крим із РФ.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6788981401206828",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/pogoda-v-ukrajini-de-bude-znachniy-snig-doshch-i-nichniy-moroz-do-8-v-nedilyu-50661096.html",
+      "title": "Від -8 до +12. Синоптики повідомили про коливання температури в Україні та де очікується дощ і значний сніг",
+      "published_at": "2026-11-21T03:22:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:22:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Погода в Україні продовжує перебувати під впливом атмосферних фронтів з дощами, наприкінці тижня до них доєднається сніг.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3ca7accc74a86a4c",
+      "source_id": "map-943",
+      "source": "PMG.ua",
+      "geography": "regional",
+      "source_region": "zakarpattia",
+      "url": "https://pmg.ua/economy/144441-z-1-sichnia-posluha-pryvatbanku-stane-platnoiu-komu-dovedetsia-platyty-80-hryven",
+      "title": "З 1 січня послуга Приват Банку стане платною: кому доведеться платити 80 гривень",
+      "published_at": "2026-11-21T03:12:35+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:12:35 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Від першого січня 2027 року змінять тариф по Україні та за кордон.",
+      "categories": [
+        "Економіка"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "15ef83c95388a70b",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-society/4187017-peregovori-z-ukrainou-sodo-klimatu-v-mezah-vstupu-do-es-mozut-rozpocatisa-duze-svidko-dg-clima.html",
+      "title": "Переговори з Україною щодо клімату в межах вступу до ЄС можуть розпочатися дуже швидко - DG CLIMA",
+      "published_at": "2026-11-21T03:07:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:07:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Переговори з Україною щодо клімату в межах її вступу до Європейського Союзу можуть розпочатися дуже швидко, особливо якщо Україна просуватиметься у розв'язанні таких фундаментальних питань як належне врядування. Що також важливо для залучення масштабних інвестицій, необхідних для повоєнної відбудови.",
+      "categories": [
+        "Суcпільcтво"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3cb1d5b9e19e42b6",
+      "source_id": "map-340",
+      "source": "Гвара Медіа",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gwaramedia.com/u-subotu-na-harkivshhini-bude-hmarno-z-proyasnennyami-prognoz-2",
+      "title": "У суботу на Харківщині буде хмарно з проясненнями — прогноз",
+      "published_at": "2026-11-21T03:03:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 05:03:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "22 листопада у Харкові очікується хмарна погода з проясненнями. Повітря прогріється до восьми градусів тепла вдень. Вітер сягатиме 12 метрів на секунду. Про це повідомили у Харківському регіональному гідрометеоцентрі. В області температура становитиме від шести до 11 градуса тепла. Вдень без істотних опадів. Вітер південно-західний, 7 – 12 м/с. Нагадаємо, що у Харкові 5 грудня відбудеться зустріч з містянами , під час якої обговорять майбутній розвиток району Залопань.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "8e6162a45708d2f7",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/21/novyna/ekonomika/yes-2022-zaplatyly-rf-enerhonosiyi-majzhe-stilky-skilky-nadaly-dopomohy-ukrayini-zmi",
+      "title": "Країни ЄС з 2022 заплатили рф за енергоносії майже стільки ж, скільки надали допомоги Україні – ЗМІ",
+      "published_at": "2026-11-21T02:57:47+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:57:47 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Від початку повномасштабної війни країни ЄС заплатили росії за енергоносії 232,05 млрд євро, тоді як допомога Україні за цей період становила 231,5 млрд євро.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "96d9265628fbf42c",
+      "source_id": "lb",
+      "source": "LB.ua",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://lb.ua/world/2026/11/21/782716_fbr_zaznalo_novoyi_kiberataki_z.html",
+      "title": "ФБР зазнало нової кібератаки з викраденням даних",
+      "published_at": "2026-11-21T02:57:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:57:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Цього разу хакерів цікавила база правопорушників.",
+      "categories": [
+        "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e8a36ccf3869dd96",
+      "source_id": "slovoidilo",
+      "source": "Слово і Діло",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://slovoidilo.ua/2026/11/21/novyna/suspilstvo/niderlandy-shukayut-alternatyvu-tymchasovomu-zaxystu-ukrayincziv-vidomo",
+      "title": "Нідерланди шукають альтернативу тимчасовому захисту для українців: що відомо",
+      "published_at": "2026-11-21T02:48:45+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:48:45 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Нідерланди розглядають можливість надати українцям спеціальний документ для проживання та роботи ще на три роки після завершення тимчасового захисту.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "f36bb9e88d1a781c",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187022-u-cernivcah-prezentuvali-komiks-pro-podvig-geroa-ukraini-volodimira-gucula.html",
+      "title": "У Чернівцях презентували комікс про подвиг Героя України Володимира Гуцула",
+      "published_at": "2026-11-21T02:46:46+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:46:46 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У Чернівцях презентували комікс «Люди перемоги. Апачі», створений на основі реальних подій 2022 року на Херсонщині. Він розповідає про бойовий шлях Героя України Володимира Гуцула, який командував 82-ю окремою десантно-штурмовою Буковинською бригадою з березня 2025 до вересня 2026 року.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cc94754dee1902aa",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240162.html",
+      "title": "РФ завдала ще одного удару БПЛА по промисловому підприємству в Кривому Розі, виникла пожежа – Вілкул",
+      "published_at": "2026-11-21T02:30:07+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:30:07 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Російські окупаційні війська атакували промислове підприємство в Кривому Розі (Дніпропетровська обл.) реактивним безпілотником, унаслідок чого спалахнула пожежа.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "590cfbc31dd7979f",
+      "source_id": "pravda",
+      "source": "Українська правда",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://pravda.com.ua/news/2026/11/21/8063899",
+      "title": "Маск найняв лобістів через плани демократів розслідувати обмеження Starshield в Україні – Fox News",
+      "published_at": "2026-11-21T02:30:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:30:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "SpaceX Ілона Маска найняла лобістів з Mehlman Consulting перед розслідуванням демократів щодо обмежень роботи Starshield в Україні та бізнес-зв'язків компанії.",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3b34aa4774fb8f15",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://sport.nv.ua/ukr/boxing/petra-ocheretyanogo-zasudili-na-sim-rokiv-pislya-udaru-boksera-zaginuv-spivrobitnik-udo-50661099.html",
+      "title": "«Ніхто не розрахував, що станеться трагедія». Чому українського боксера засудили до 7 років — від його удару загинув співробітник УДО",
+      "published_at": "2026-11-21T02:30:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:30:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Колишній український боксер Петро Очеретяний посварився з пасажиром автомобіля, яким, за словами спортсмена, ледь не наїхали на його собаку. Під час конфлікту він ударив чоловіка, який помер на місці від отриманої травми.",
+      "categories": [
+        "Спорт/Бокс"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "30090a37ad22d936",
+      "source_id": "zn",
+      "source": "ZN.UA",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://zn.ua/ukr/TECHNOLOGIES/u-2027-rotsi-na-orbitu-zapustjat-pershij-humanitarnij-suputnik.html",
+      "title": "У 2027 році на орбіту запустять перший «гуманітарний» супутник",
+      "published_at": "2026-11-21T02:30:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:30:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Його створює некомерційна організація.",
+      "categories": [
+        "Технології"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4f4c5c632237a3aa",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4187018-na-rivnensini-posadovici-miskradi-povidomili-pro-pidozru-v-oderzanni-nepravomirnoi-vigodi-za-zemlu.html",
+      "title": "На Рівненщині посадовиці міськради повідомили про підозру в одержанні неправомірної вигоди за землю",
+      "published_at": "2026-11-21T02:28:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:28:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "На Рівненщині у Сарненському районі посадовиці міськради повідомили про підозру в одержанні неправомірної вигоди в розмірі 4,7 тис. дол. за вирішення земельного питання.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "87a6595d8cb4f2f4",
+      "source_id": "map-289",
+      "source": "МикВісті",
+      "geography": "regional",
+      "source_region": "mykolaiv",
+      "url": "https://nikvesti.com/news/public/326643-dity-molod-yakykh-povernuly-okupatsii-mozhut-otrymaty-50-tysiach",
+      "title": "Діти та молодь, яких повернули з окупації, можуть отримати ₴50 тисяч допомоги",
+      "published_at": "2026-11-21T02:28:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:28:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "В Україні діти та молодь, яких повернули з депортації або окупації, можуть отримати ₴50 тисяч. Для виплати у 2026 році заяву потрібно подати до 11 грудня",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no"
+      },
+      "status": "new"
+    },
+    {
+      "id": "be42135608496010",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/auto/articles/chi-mozhna-dyakuvati-avariykoyu-za-pdr-ukrajini-ta-shcho-za-ce-zagrozhuye-vodiyam-u-2026-roci-50660597.html",
+      "title": "Штраф чи просто лякалка з мережі. Чи справді в Україні карають за подяку аварійкою",
+      "published_at": "2026-11-21T02:26:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:26:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Два коротких миготіння аварійкою на дорозі давно стали українським аналогом кивка головою або тихого «дякую» у ліфті.",
+      "categories": [
+        "Авто/Статті"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "7e046d5999ae0d81",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/ataka-na-kriviy-rig-vnaslidok-udaru-bpla-spalahnula-pozhezha-na-promislovomu-pidpriyemstvi-50661216.html",
+      "title": "Війська РФ вдарили по Кривому Рогу: пошкоджено промислове підприємство, спалахнула пожежа",
+      "published_at": "2026-11-21T02:26:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:26:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "У ніч проти суботи, 21 листопада, російські окупанти вдарили реактивним БПЛА по промисловому підприємству у Кривому Розі. На місці атаки спалахнула пожежа.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "1eb943f753027acf",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240160.html",
+      "title": "Унаслідок удару РФ по дитсадку в Запоріжжі поранено чоловіка – ОВА",
+      "published_at": "2026-11-21T02:25:42+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:25:42 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Російські окупаційні війська завдали удару по Запоріжжю, поціливши в дитячий садок, наразі відомо про травмування 63-річного чоловіка, повідомив голова Запорізької обласної військової адміністрації (ОВА) Михайло Семікін.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "cb2da06145f0559c",
+      "source_id": "map-894",
+      "source": "Інтерфакс-Україна",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://interfax.com.ua/news/general/1240158.html",
+      "title": "Данія висилає російського аташе через причетність РФ до підготовки замаху на українсько-американського репера Kyivstoner",
+      "published_at": "2026-11-21T02:21:31+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:21:31 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Уряд Данії ухвалив рішення вислати з країни російського аташе з питань оборони через організацію Росією невдалого замаху на українсько-американського громадянина у вересні цього року, заявив міністр закордонних справ країни Ларс Лекке Расмуссен.",
+      "categories": [
+        "Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "bb391531552feb7e",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/pidozri-nabu-pracivnikam-sbu-yak-ochistiti-pravoohoronni-organi-novini-ukrajini-50661041.html",
+      "title": "«Трагічна, абсолютно ганебна історія». Чому працівники СБУ не повинні підтримувати Дуку та як виправити «тріщину» у системі безпеки — інтерв'ю з Наливайченком",
+      "published_at": "2026-11-21T02:21:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:21:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Народний депутат від фракції Батьківщина, колишній голова Служби безпеки України Валентин Наливайченко в інтерв'ю Radio NV — про підозри НАБУ та САП співробітникам СБУ, поведінку генерала Сергія Дуки та можливе протистояння правоохоронних органів в Україні.",
+      "categories": [
+        "Україна/Події"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
     {
       "id": "1996c0bc1f0bbac7",
       "source_id": "map-875",
@@ -75,6 +1919,25 @@
       "description": "",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "340f8639f601c1f9",
+      "source_id": "nv",
+      "source": "NV",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://nv.ua/ukr/ukraine/events/vedmezhiy-kapkan-yak-zsu-zvilnili-14-sil-i-200-kv-km-na-harkivshchini-50661197.html",
+      "title": "«Ведмежий капкан»: подробиці операції ЗСУ на Харківщині, яка зірвала плани РФ — BBC News Україна",
+      "published_at": "2026-11-21T02:13:00+00:00",
+      "published_raw": "Sat, 21 Nov 2026 04:13:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Українські військові провели операцію під назвою «Ведмежий капкан» на півночі Харківської області, звільнивши 14 населених пунктів і майже 200 кв. км території. Операція проходила в режимі повної секретності. BBC News Україна дізналась її подробиці, пише Олег Черниш.",
+      "categories": [
+        "Україна/Події"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -167,25 +2030,6 @@
       "fetched_at": "2026-11-21T02:13:37+00:00",
       "description": "Зеленський в інтерв'ю CNN заявив, що Путін не відчуває достатнього тиску, коли про нього говорять як про друга, і тому вважає, що може продовжувати",
       "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "97cb0785b6d5e62e",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/ukraine/events/ataka-shahediv-20-listopada-u-nizci-oblastey-fiksuyut-rosiyski-bpla-mapa-povitryanih-trivog-50661162.html",
-      "title": "Нічна атака шахедами: у низці областей оголосили повітряну тривогу через загрозу БПЛА, є влучання у Запоріжжі та Кривому Розі",
-      "published_at": "2026-11-21T01:51:00+00:00",
-      "published_raw": "Sat, 21 Nov 2026 03:51:00 +0200",
-      "fetched_at": "2026-11-21T02:13:37+00:00",
-      "description": "У ніч проти суботи, 21 листопада, у деяких областях України оголосили повітряну тривогу через загрозу атаки безпілотників армії РФ. Повідомлялося про вибухи у Києві. Є влучання у Запоріжжі.",
-      "categories": [
-        "Україна/Події"
-      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -307,7 +2151,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://slovoidilo.ua/2026/11/21/novyna/svit/ilon-mask-dystancziyuyetsya-respublikancziv-ta-najmaye-lobistiv-demokrativ-zmi",
-      "title": "Ілон Маск дистанціюється від республіканців та наймає лобістів від демократів – ЗМІ",
+      "title": "Ілон Маск дистанціюється від республіканців, а SpaceX наймає лобістів-демократів – ЗМІ",
       "published_at": "2026-11-21T01:22:31+00:00",
       "published_raw": "Sat, 21 Nov 2026 03:22:31 +0200",
       "fetched_at": "2026-11-21T02:13:37+00:00",
@@ -369,25 +2213,6 @@
       "description": "Керівники Національного антикорупційного бюро України та Спеціалізованої антикорупційної прокуратури заявляють, що голова Служби безпеки України Олександр Поклад надає максимальне сприяння деяким фігурантам їхніх розслідувань, зокрема генерал-майору СБУ Сергію Дуці, підозрюваному у справі \"Карфаген-2\".",
       "categories": [
         "Події"
-      ],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
-      "id": "16a517f60a35420b",
-      "source_id": "nv",
-      "source": "NV",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://nv.ua/ukr/world/geopolitics/rosiyu-mozhna-rozzbrojiti-chaliy-pro-naslidki-zustrichi-trampa-putina-ta-si-dlya-ukrajini-50661200.html",
-      "title": "«Приниження не було, але сигнали — чіткі». Чого досяг Путін у Шеньчжені та в чому збігаються інтереси України і Китаю — розмова з Чалим",
-      "published_at": "2026-11-21T01:03:00+00:00",
-      "published_raw": "Sat, 21 Nov 2026 03:03:00 +0200",
-      "fetched_at": "2026-11-21T02:13:37+00:00",
-      "description": "Голова правління Українського кризового медіа-центру, посол України у США у 2015-2019 роках Валерій Чалий в інтерв’ю Radio NV - про підсумки зустрічі президента США Дональда Трампа, китайського лідера Сі Цзіньпіна і російського диктатора Володимира Путіна і її наслідки для України",
-      "categories": [
-        "Світ/Геополітика"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -734,7 +2559,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://pravda.com.ua/news/2026/11/21/8063886",
-      "title": "РФ атакувала балістикою центр Кривого Рогу: загинула фельдшерка і дитина, 42 постраждалих",
+      "title": "РФ атакувала балістикою центр Кривого Рогу: загинула фельдшерка і дитина, 47 постраждалих",
       "published_at": "2026-11-20T23:30:00+00:00",
       "published_raw": "Sat, 21 Nov 2026 01:30:00 +0200",
       "fetched_at": "2026-11-21T02:13:37+00:00",
@@ -1492,19 +3317,24 @@
   ],
   "errors": [
     {
+      "source": "Суспільне Новини",
+      "feed": "https://suspilne.media/rss/all.rss",
+      "error": "https://suspilne.media/rss/all.rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE "
+    },
+    {
       "source": "Еспресо",
       "feed": "https://espreso.tv/rss",
       "error": "https://espreso.tv/rss: HTTP 403 <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <ht"
     },
     {
+      "source": "Dnipro.media",
+      "feed": "https://www.dnipro.media/feed/?post_type=novyny_dnipro",
+      "error": "https://www.dnipro.media/feed/?post_type=novyny_dnipro: The read operation timed out"
+    },
+    {
       "source": "Обрії Ізюмщини",
       "feed": "https://obrii.com.ua/feed",
       "error": "https://obrii.com.ua/feed: HTTP 404 <html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>"
-    },
-    {
-      "source": "Слобідський край",
-      "feed": "https://www.slk.kh.ua/rss.xml",
-      "error": "https://www.slk.kh.ua/rss.xml: The read operation timed out"
     },
     {
       "source": "Еспресо: Біла Церква",
@@ -1518,6 +3348,12 @@
       "fetched": 81,
       "added": 79,
       "errors": 4
+    },
+    {
+      "at": "2026-11-21T05:57:54+00:00",
+      "fetched": 163,
+      "added": 95,
+      "errors": 5
     }
   ]
 }

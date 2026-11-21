@@ -1,8 +1,8 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-21T02:13:37+00:00",
+  "generated_at": "2026-11-21T05:57:54+00:00",
   "source_count": 125,
-  "item_count": 2847,
+  "item_count": 2848,
   "items": [
     {
       "id": "0a29f1419b76afa1",
@@ -1699,11 +1699,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/koli-nie-budie-svitla-na-poltavshchini-21-listopada",
-      "title": "Power Outage Schedules for Poltava Region on 21 November: Times by Queue",
+      "title": "Коли вимикатимуть світло на Полтавщині 21 листопада (оновлено)",
       "published_at": "2026-11-20T20:34:18+00:00",
       "published_raw": "Fri, 20 Nov 2026 20:34:18 GMT",
       "fetched_at": "2026-11-21T02:13:37+00:00",
-      "description": "Rolling power outage schedules will remain in effect in the Poltava region on 21 November. Here are the times when each of the 12 queues (sub-groups of consumers) will have no electricity.",
+      "description": "Двадцять першого листопада на Полтавщині діятимуть графіки погодинних відключень світла. Для кожної з 12 підчерг розписано по чотири проміжки без електрики, тож варто заздалегідь перевірити свій час.",
       "categories": [
         "Соціум",
         "Новини"
@@ -2613,6 +2613,25 @@
       "fetched_at": "2026-11-20T20:18:00+00:00",
       "description": "20 листопада у Карпатах завершили пошуки жителя Дніпра, який 13 листопада зник під час мандрівки до озера Несамовите. За час пошуків рятувальники обстежили 79 гектарів лісу та 102,7 кілометра гірських стежок",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "52f01c3b9932d827",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/blogi/lyudi-z-lihtarikami-glyajvic-20-i-prostrocheni-konservi",
+      "title": "«Люди з ліхтариками»: Гляйвіц 2.0 і прострочені «Консерви»",
+      "published_at": "2026-11-20T20:06:00+00:00",
+      "published_raw": "Fri, 20 Nov 2026 22:06:00 +0200",
+      "fetched_at": "2026-11-21T05:57:54+00:00",
+      "description": "Чотири хвилини в ефірі, чиїсь чужі кроки в темряві й один сценарій, який чомусь вирішили переграти знову. Коли історія повертається без запрошення, головне — встигнути помітити тінь до того, як вона стане пострілом.",
+      "categories": [
+        "Блоги"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -4340,7 +4359,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/viyna/274743-rosiiany-vdaryly-balistykoiu-po-seredmistiu-kryvoho-rohu-20-postrazdalykh-sered-nykh-troye-ditey",
-      "title": "росіяни вдарили балістикою по центру Кривого Рогу. 2 людини загинули, ще 21 постраждала (ДОПОВНЕНО)",
+      "title": "росіяни вдарили балістикою по центру Кривого Рогу. 2 людини загинули, ще 40 постраждали (ДОПОВНЕНО)",
       "published_at": "2026-11-20T19:27:00+00:00",
       "published_raw": "2026-11-20T21:27:00+02:00",
       "fetched_at": "2026-11-20T20:18:00+00:00",
@@ -8969,8 +8988,8 @@
       "fetched_at": "2026-11-20T20:18:00+00:00",
       "description": "На початку грудня дитячий розважальний центр Чубі Бум в Івано-Франківську проведе дводенне свято до дня Святого Миколая. А з 1 грудня до 15 січня тут можна замовити новорічну програму для... The post Миколай, квести й новорічні програми для класів: що готує Чубі Бум цієї зими appeared first on Galka.if.ua .",
       "categories": [
-        "Новини",
         "Новини компаній",
+        "Новини",
         "ЧУБІ БУМ"
       ],
       "date_issues": [],
@@ -11647,9 +11666,9 @@
       "categories": [
         "Суспільство",
         "Спорт",
-        "blago",
         "мініфутбол",
-        "УКД"
+        "УКД",
+        "blago"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -54870,6 +54889,12 @@
       "fetched": 1789,
       "added": 114,
       "errors": 4
+    },
+    {
+      "at": "2026-11-21T05:57:54+00:00",
+      "fetched": 1527,
+      "added": 1,
+      "errors": 5
     }
   ]
 }
