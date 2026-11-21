@@ -326,8 +326,10 @@ def apply_stress(text, entries):
         # The stress mark counts as part of a word, so «вузла» does not match inside an already marked «вузла́х».
         tail = r"[\w'’\u0301]*" if e.get("prefix") else ""
         stressed = e["stressed"].replace("+", STRESS)
-        text = re.sub(r"(?<![\w'’\u0301])" + re.escape(e["word"]) + r"(?=" + tail + r"(?![\w'’\u0301]))",
-                      stressed, text)
+        # A word already marked by a longer rule («Садови́й») keeps its mark: a shorter prefix rule
+        # («Садов» for the village Садове) must not add a second one.
+        text = re.sub(r"(?<![\w'’\u0301])" + re.escape(e["word"]) + r"(" + tail + r")(?![\w'’\u0301])",
+                      lambda m: m.group(0) if STRESS in m.group(1) else stressed + m.group(1), text)
     return text
 
 
