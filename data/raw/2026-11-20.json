@@ -1,8 +1,8 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-21T09:51:22+00:00",
+  "generated_at": "2026-11-21T17:31:23+00:00",
   "source_count": 125,
-  "item_count": 2851,
+  "item_count": 2852,
   "items": [
     {
       "id": "0a29f1419b76afa1",
@@ -1703,7 +1703,7 @@
       "published_at": "2026-11-20T20:34:18+00:00",
       "published_raw": "Fri, 20 Nov 2026 20:34:18 GMT",
       "fetched_at": "2026-11-21T02:13:37+00:00",
-      "description": "Двадцять першого листопада на Полтавщині діятимуть графіки погодинних відключень світла. Для кожної з 12 підчерг розписано по чотири проміжки без електрики, тож варто заздалегідь перевірити свій час.",
+      "description": "Розповідаємо, коли і в якої черги не буде електрики.",
       "categories": [
         "Соціум",
         "Новини"
@@ -3855,7 +3855,7 @@
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://mind.ua/news/20312531-tramp-hoche-shiliti-ukrayinu-do-mirnoyi-ugodi-z-rosieyu-do-sichnya-poki-demokrati-ne-vzyali-pid-kontrol",
-      "title": "Трамп хоче схилити Україну до «мирної» угоди з росією до січня, поки демократи не взяли під контроль Конгрес США — FT",
+      "title": "Трамп хоче схилити Україну до «мирної» угоди з росією до січня, поки демократи не взяли під контроль Конгрес — FT",
       "published_at": "2026-11-20T19:40:00+00:00",
       "published_raw": "Fri, 20 Nov 2026 21:40:00 +0200",
       "fetched_at": "2026-11-20T20:18:00+00:00",
@@ -9965,6 +9965,25 @@
         "Гроші",
         "Новини",
         "рівненщина бізнес"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "5dc3406c4b24cffc",
+      "source_id": "map-899",
+      "source": "Громада. Груп",
+      "geography": "regional",
+      "source_region": "kharkiv",
+      "url": "https://gromada.group/news/all/u-den-zahistu-ditej-vshanuvali-pamyat-malenkih-zhiteliv-harkivshini-yakih-ubila-rosijska-armiya-oleg-sinyegubov",
+      "title": "«У День захисту дітей вшанували пам’ять маленьких жителів Харківщини, яких убила російська армія», — Олег Синєгубов",
+      "published_at": "2026-11-20T17:30:00+00:00",
+      "published_raw": "Fri, 20 Nov 2026 19:30:00 +0200",
+      "fetched_at": "2026-11-21T17:31:23+00:00",
+      "description": "на сайті Gromada Group Media | «У День захисту дітей вшанували пам’ять маленьких жителів Харківщини, яких убила російська армія», — Олег Синєгубов",
+      "categories": [
+        "Всi новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -54958,6 +54977,12 @@
       "fetched": 1243,
       "added": 3,
       "errors": 5
+    },
+    {
+      "at": "2026-11-21T17:31:23+00:00",
+      "fetched": 880,
+      "added": 1,
+      "errors": 3
     }
   ]
 }
