@@ -1,0 +1,1049 @@
+{
+  "date": "2026-11-22",
+  "kind": "spoken",
+  "made_at": "2026-11-22T06:00:01+00:00",
+  "approved_sha256": "927dbdabff612e4ce9e02f8132b7d05f542bb14c9d05491e166538d1d6d955da",
+  "approved_by": "BRIEF auto (без редактора)",
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "kind": "intro",
+          "text": "Це BRIEF. Головне за добу станом на ранок двадцять другого листопада: масштабні знеструмлення на Одещині, заява Зеленського про удари по мостах та пропозиція евакуації з окупованих населених пунктів."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-1-s1",
+          "kind": "story",
+          "text": "Унаслідок російських ударів за добу в Україні поранено щонайменше 5 людей."
+        },
+        {
+          "id": "story-1-s2",
+          "kind": "story",
+          "text": "Найбільше постраждалих на Запоріжжі та Житомирщині."
+        },
+        {
+          "id": "story-1-s3",
+          "kind": "story",
+          "text": "На Одещині тривають масштабні знеструмлення через постійні російські удари по енергетиці."
+        },
+        {
+          "id": "story-1-s4",
+          "kind": "story",
+          "text": "Російські війська атакували Запоріжжя, поранено дитину у Вознесенівському районі."
+        },
+        {
+          "id": "story-1-s5",
+          "kind": "story",
+          "text": "Росіяни 21 листопада вдарили реактивним дроном по залізничному вокзалу в Овручі."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "efd345b1e8345df8",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1455877-masstabni-znestrumlenna-ta-perepadi-naprugi-aka-situacia-z-elektropostacannam-na-odesini",
+          "title": "Масштабні знеструмлення та перепади напруги: яка ситуація з електропостачанням на Одещині",
+          "published_at": "2026-11-21T15:14:50+00:00"
+        },
+        {
+          "item_id": "7aaf959c750e0e8a",
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/na-odeshhini-masshtabni-znestrumlennya-minenergo-poperedilo-pro-perepadi-naprugi",
+          "title": "На Одещині масштабні знеструмлення: Міненерго попередило про перепади напруги",
+          "published_at": "2026-11-21T15:22:43+00:00"
+        },
+        {
+          "item_id": "59176d3025bb8215",
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/v-odesi-trivaiut-masshtabni-znestrumlennia-cherez-postiini-ataki-na-magistralni-merezhi",
+          "title": "В Одесі тривають масштабні знеструмлення через постійні атаки",
+          "published_at": "2026-11-21T15:31:10+00:00"
+        },
+        {
+          "item_id": "9ceab3c70f430f78",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/21/782810_odeschini_zalishayutsya.html",
+          "title": "На Одещині залишаються масштабні знеструмлення. Міненерго попередило про перепади напруги",
+          "published_at": "2026-11-21T16:09:00+00:00"
+        },
+        {
+          "item_id": "70ea5d2878609fb6",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/ukrenergo-cherez-rosijski-udary-na-odeshhyni-masshtabni-znestrumlennya-i573870",
+          "title": "\"Укренерго\": Через російські удари на Одещині — масштабні знеструмлення",
+          "published_at": "2026-11-21T18:05:09+00:00"
+        },
+        {
+          "item_id": "818efddf6639fb6a",
+          "name": "Букви",
+          "url": "https://bukvy.org/na-odeshhyni-tryvayut-masshtabni-znestrumlennya-cherez-ataky-rf-na-energetyku-ukrenergo",
+          "title": "На Одещині тривають масштабні знеструмлення через атаки РФ на енергетику – Укренерго",
+          "published_at": "2026-11-21T18:17:46+00:00"
+        },
+        {
+          "item_id": "e38c5990ea27a0c7",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/21/rosijska-ataka-poshkodyla-tsyvilnu-infrastrukturu-odeshhyny-v-regioni-skladna-sytuatsiya-z-elektropostachannyam",
+          "title": "Російська атака пошкодила цивільну інфраструктуру Одещини: в регіоні складна ситуація з електропостачанням",
+          "published_at": "2026-11-21T17:59:37+00:00",
+          "related": true
+        },
+        {
+          "item_id": "dbb7099eee54192d",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240347.html",
+          "title": "Ситуація зі світлом на Одещині залишається складною – ДТЕК",
+          "published_at": "2026-11-21T19:10:03+00:00",
+          "related": true
+        },
+        {
+          "item_id": "4ae149a04ea1aa83",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/rehiony/274778-vnaslidok-obstriliv-na-dnipropetrovshchyni-ta-khersonshchyni-postrazdaly-11-liudey-a-na-odeshchyni-masshtabni-znestrumlennia",
+          "title": "Унаслідок обстрілів на Дніпропетровщині та Херсонщині постраждали 11 людей. А на Одещині — масштабні знеструмлення",
+          "published_at": "2026-11-21T17:36:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "474efb2a0af1ece3",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/21/406960_yak-praczyuvatyme-transport-u-zaporizhzhi-21-lystopada-zminy-marshrutiv",
+          "title": "Як працюватиме транспорт у Запоріжжі 21 листопада: зміни маршрутів",
+          "published_at": "2026-11-21T07:05:00+00:00"
+        },
+        {
+          "item_id": "e143ce574b7b0692",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240345.html",
+          "title": "Рух транспорту мостами і греблею ДніпроГЕС у Запоріжжі повністю перекрито – ОВА",
+          "published_at": "2026-11-21T19:05:33+00:00"
+        },
+        {
+          "item_id": "a3a43fcca87730da",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187241-u-zaporizzi-prolunali-vibuhi-ruh-transportu-cerez-dniproges-povnistu-perekritij.html",
+          "title": "У Запоріжжі пролунали вибухи, рух транспорту через ДніпроГЕС повністю перекритий, поранена дитина",
+          "published_at": "2026-11-21T19:28:00+00:00"
+        },
+        {
+          "item_id": "5f5cbd1774dd4250",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187247-u-zaporizzi-vidnovili-ruh-transportu-cerez-dniproges.html",
+          "title": "У Запоріжжі відновили рух транспорту через ДніпроГЕС",
+          "published_at": "2026-11-21T20:01:00+00:00"
+        },
+        {
+          "item_id": "10dd50ebe926f3e2",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063994",
+          "title": "Росіяни атакували Запоріжжя: серед поранених – діти",
+          "published_at": "2026-11-21T20:22:00+00:00"
+        },
+        {
+          "item_id": "5a40c715c8026c8b",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/zaporizhzhya-povnistyu-perekrito-mosti-ta-dniproges-cherez-rosiysku-ataku-50661364.html",
+          "title": "РФ атакувала Запоріжжя: пошкоджено будинки, троє постраждалих, рух мостами та греблею ДніпроГЕС перекривали",
+          "published_at": "2026-11-21T21:33:00+00:00"
+        },
+        {
+          "item_id": "15829dfa16128556",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187261-u-zaporizzi-povnistu-vidnovleno-ruh-mostami-ta-grebleu-dniproges.html",
+          "title": "У Запоріжжі повністю відновлено рух мостами та греблею ДніпроГЕС",
+          "published_at": "2026-11-21T22:52:00+00:00"
+        },
+        {
+          "item_id": "f5bbff5a81115c39",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240350.html",
+          "title": "Внаслідок атаки на Запоріжжя поранено дитину – ОВА",
+          "published_at": "2026-11-21T19:52:54+00:00",
+          "related": true
+        },
+        {
+          "item_id": "8b3cee7c423730d6",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/21/782770_2_lyudini_zaginuli_22_otrimali.html",
+          "title": "2 людини загинули і 22 отримали поранення внаслідок обстрілів Запорізького району",
+          "published_at": "2026-11-21T12:18:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "955c1eafb57cea20",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/22/novyna/suspilstvo/cherez-vidklyuchennya-dvox-lep-odna-ukrayinskyx-aes-znyzyla-potuzhnist",
+          "title": "Через відключення двох ЛЕП одна з українських АЕС знизила потужність",
+          "published_at": "2026-11-22T00:59:10+00:00",
+          "related": true
+        },
+        {
+          "item_id": "bd98a0685620e91d",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/21/782736_rosiya_atakuvala_energetichnu.html",
+          "title": "Росія атакувала енергетичну та цивільну інфраструктуру Житомирщини: двоє постраждалих",
+          "published_at": "2026-11-21T09:26:00+00:00"
+        },
+        {
+          "item_id": "3d5b197ff55f0db7",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063982",
+          "title": "Росіяни атакували залізничний вокзал на Житомирщині",
+          "published_at": "2026-11-21T15:52:00+00:00"
+        },
+        {
+          "item_id": "29d24d554f401667",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187210-okupanti-zavdali-udaru-po-vokzalu-na-zitomirsini-e-postrazdalij.html",
+          "title": "Окупанти завдали удару по вокзалу на Житомирщині, є постраждалий",
+          "published_at": "2026-11-21T15:54:48+00:00"
+        },
+        {
+          "item_id": "56de9ef10fc34a2e",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240325.html",
+          "title": "Ворог атакував залізничний вокзал в Овруцькій громаді на Житомирщині, постраждала одна людина",
+          "published_at": "2026-11-21T15:58:42+00:00"
+        },
+        {
+          "item_id": "15f6ada2a04210e7",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118331-vnaslidok-rosiiskogo-udaru-po-zaliznicnomu-vokzalu-u-zitomirskii-oblasti-postrazdala-liudina",
+          "title": "В Овруцькій громаді РФ атакувала вокзал: є поранений",
+          "published_at": "2026-11-21T16:04:00+00:00"
+        },
+        {
+          "item_id": "b6a56ed3d42039d9",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1455893-rosijskij-dron-atakuvav-zaliznicnij-vokzal-na-zitomirsini-so-vidomo-pro-situaciu",
+          "title": "Російський дрон атакував залізничний вокзал на Житомирщині: що відомо про ситуацію",
+          "published_at": "2026-11-21T16:10:30+00:00"
+        },
+        {
+          "item_id": "47a6fae098598948",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/21/novyna/bezpeka/rosiyany-atakuvaly-zaliznychnyj-vokzal-zhytomyrshhyni",
+          "title": "Росіяни атакували залізничний вокзал на Житомирщині",
+          "published_at": "2026-11-21T16:20:00+00:00"
+        },
+        {
+          "item_id": "769958d0ef69d3fa",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/33903209.html",
+          "title": "Сили РФ вдарили по залізничному вокзалу на Житомирщині, постраждав чоловік – ОВА",
+          "published_at": "2026-11-21T16:22:25+00:00"
+        },
+        {
+          "item_id": "5aac1f4c582252a7",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/21/rosiiski-viiska-vdaryly-po-vokzalu-na-zhytomyrshchyni",
+          "title": "Російські війська вдарили по вокзалу на Житомирщині",
+          "published_at": "2026-11-21T16:42:32+00:00"
+        },
+        {
+          "item_id": "913a932337503ac6",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/rosija-zavdala-udaru-po-zaliznichnomu-vokzalu-na-zhitomirshchini-je-poranenij-.html",
+          "title": "Росія завдала удару по залізничному вокзалу на Житомирщині: є поранений",
+          "published_at": "2026-11-21T16:43:00+00:00"
+        },
+        {
+          "item_id": "3e06f32c9139fe43",
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-vdaryla-po-zaliznychnomu-vokzalu-na-zhytomyrshhyni-ye-postrazhdalyj",
+          "title": "РФ вдарила по залізничному вокзалу на Житомирщині: є постраждалий",
+          "published_at": "2026-11-21T16:54:30+00:00"
+        },
+        {
+          "item_id": "e6d3a5fd18c2c91c",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/21/okupanty-atakuvaly-zaliznychnyy-vokzal-na-zhytomyrshchyni",
+          "title": "Окупанти атакували залізничний вокзал на Житомирщині",
+          "published_at": "2026-11-21T16:56:09+00:00"
+        },
+        {
+          "item_id": "9006d7bff19bd3ff",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/rosiyski-viyska-vdarili-po-zaliznichnomu-vokzalu-na-zhitomirshchini-50661346.html",
+          "title": "Росіяни атакували залізничний вокзал на Житомирщині",
+          "published_at": "2026-11-21T16:57:00+00:00"
+        },
+        {
+          "item_id": "9fdaadd6c74a3740",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/21/rosiya-atakuvala-reaktyvnym-dronom-zaliznychnyj-vokzal-na-zhytomyrshhyni-ye-postrazhdalyj",
+          "title": "росія атакувала реактивним дроном залізничний вокзал на Житомирщині: є постраждалий",
+          "published_at": "2026-11-21T16:59:22+00:00"
+        },
+        {
+          "item_id": "a76c72d6846f4365",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118337-na-zitomirshhini-vnaslidok-rosiiskoyi-ataki-travmovano-dvox-liudei",
+          "title": "Обстріл Коростенського району: двоє постраждалих",
+          "published_at": "2026-11-21T17:38:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "f7c60dcd41e72553",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/ponad-10-atak-na-dnipropetrovshhynu-rosiyany-byly-po-p-yaty-rajonah-3",
+          "title": "Понад 10 атак на Дніпропетровщину: росіяни били по п’яти районах",
+          "published_at": "2026-11-22T05:45:59+00:00",
+          "related": true
+        },
+        {
+          "item_id": "5437fb1c706e77bd",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1455854-na-zitomirsini-policia-rozsukue-zniklu-50-ricnu-zitelku-andrusivskoi-gromadi",
+          "title": "На Житомирщині поліція розшукує зниклу 50-річну жительку Андрушівської громади",
+          "published_at": "2026-11-21T13:41:50+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-59176d3025bb8215",
+        "national-c-10dd50ebe926f3e2",
+        "regional-c-15f6ada2a04210e7"
+      ],
+      "digest": {
+        "killed": 0,
+        "injured": 5,
+        "regions": {
+          "zaporizhzhia": {
+            "injured": {
+              "n": 3,
+              "clause": "троє постраждалих",
+              "item_id": "5a40c715c8026c8b",
+              "source": "NV",
+              "url": "https://nv.ua/ukr/ukraine/events/zaporizhzhya-povnistyu-perekrito-mosti-ta-dniproges-cherez-rosiysku-ataku-50661364.html",
+              "reported": [
+                3
+              ]
+            }
+          },
+          "zhytomyr": {
+            "injured": {
+              "n": 2,
+              "clause": "двоє постраждалих",
+              "item_id": "bd98a0685620e91d",
+              "source": "LB.ua",
+              "url": "https://lb.ua/society/2026/11/21/782736_rosiya_atakuvala_energetichnu.html",
+              "reported": [
+                1,
+                2
+              ]
+            }
+          }
+        },
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "apart": [],
+        "skipped": [
+          {
+            "item_id": "efd345b1e8345df8",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "7aaf959c750e0e8a",
+            "skipped": "інша дата в тексті: 20 листопада"
+          },
+          {
+            "item_id": "59176d3025bb8215",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "9ceab3c70f430f78",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "70ea5d2878609fb6",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "818efddf6639fb6a",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "e38c5990ea27a0c7",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "dbb7099eee54192d",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "4ae149a04ea1aa83",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "474efb2a0af1ece3",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "e143ce574b7b0692",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "a3a43fcca87730da",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "5f5cbd1774dd4250",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "10dd50ebe926f3e2",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "15829dfa16128556",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "f5bbff5a81115c39",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "8b3cee7c423730d6",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "955c1eafb57cea20",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "15f6ada2a04210e7",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "b6a56ed3d42039d9",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "47a6fae098598948",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "f7c60dcd41e72553",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "5437fb1c706e77bd",
+            "skipped": "не про російський удар"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Керченський міст",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-2-s1",
+          "kind": "story",
+          "text": "Зеленський заявив, що до українського удару по Керченському мосту Росія 109 разів атакувала українські мости."
+        },
+        {
+          "id": "story-2-s2",
+          "kind": "story",
+          "text": "Він сказав це 21 листопада перед зустріччю з міністром оборони Британії Весом Стрітінгом."
+        },
+        {
+          "id": "story-2-s3",
+          "kind": "story",
+          "text": "За словами Хмари, Росії може знадобитися кілька місяців, щоб підняти пошкоджену конструкцію мосту."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "d197a0b6060181a6",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13985-krymskoho-mosta-ne-bude--zelenskyy-zvernuvsya-do-putina",
+          "title": "Кримського моста не буде – Зеленський звернувся до путіна",
+          "published_at": "2026-11-21T08:53:00+00:00"
+        },
+        {
+          "item_id": "2e33a4dd5623fda0",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240250.html",
+          "title": "РФ 109 разів атакувала українські мости ракетами та дронами – Зеленський",
+          "published_at": "2026-11-21T11:22:39+00:00"
+        },
+        {
+          "item_id": "e44921e721a2e3a3",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1455825-do-udaru-po-krimskomu-mostu-putin-zavdav-udariv-po-ukrainskih-mostah-109-raziv-zelenskij",
+          "title": "До удару по Кримському мосту Путін завдав ударів по українських мостах 109 разів — Зеленський",
+          "published_at": "2026-11-21T11:49:30+00:00"
+        },
+        {
+          "item_id": "58aa96a9a34f2e80",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1455827-zelenskij-rf-109-raziv-atakuvala-ukrainski-mosti-do-udaru-po-krimskomu-mostu",
+          "title": "Зеленський: РФ 109 разів атакувала українські мости до удару по Кримському мосту",
+          "published_at": "2026-11-21T12:13:34+00:00"
+        },
+        {
+          "item_id": "0dd5a3f89baa192a",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/POLITICS/zelenskij-rozpoviv-skilki-raziv-rosijani-atakuvali-mosti-v-ukrajini-.html",
+          "title": "Зеленський розповів, скільки разів росіяни атакували мости в Україні",
+          "published_at": "2026-11-21T12:20:50+00:00"
+        },
+        {
+          "item_id": "e7324be3a8841ada",
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/13996-do-udaru-po-krymskomu-mostu-rf-109-raziv-atakuvala-ukrayinski-mosty-raketamy-ta-dronamy--zelenskyy",
+          "title": "До удару по Кримському мосту рф 109 разів атакувала українські мости ракетами та дронами, – Зеленський",
+          "published_at": "2026-11-21T12:50:00+00:00"
+        },
+        {
+          "item_id": "8e34583365c3e5e4",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/21/novyna/bezpeka/rosiya-109-raziv-atakuvala-ukrayinski-mosty-udariv-po-krymskomu-zelenskyj",
+          "title": "Росія 109 разів атакувала українські мости до ударів по Кримському – Зеленський",
+          "published_at": "2026-11-21T12:56:30+00:00"
+        },
+        {
+          "item_id": "6d22c26421631436",
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312544-rosiya-109-raziv-vdarila-po-ukrayinskih-mostah-persh-nizh-ukrayina-vdarila-po-krimskomu-mostu-zelens",
+          "title": "росія 109 разів вдарила по українських мостах, перш ніж Україна вдарила по Кримському мосту – Зеленський",
+          "published_at": "2026-11-21T14:08:00+00:00"
+        },
+        {
+          "item_id": "68ba14e7bc5401b6",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063973",
+          "title": "Зеленський: До нашого удару по Кримському мосту Росія 109 разів атакувала українські мости",
+          "published_at": "2026-11-21T14:41:00+00:00"
+        },
+        {
+          "item_id": "826d66e0cc36cf1f",
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/news-krym-zelenskyy-rosiya-109-raziv-ataka-ukrayinski-mosty-udar-kerchenskiy-most/33903181.html",
+          "title": "Зеленський заявив, що Росія 109 разів атакувала українські мости до ударів по Керченському (Кримському) мосту",
+          "published_at": "2026-11-21T15:00:00+00:00"
+        },
+        {
+          "item_id": "214ba555c241a910",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/274772-rosiia-109-raziv-atakuvala-ukrayinski-mosty-shche-do-udaru-po-krymskomu-mostu-zelenskyy",
+          "title": "росія 109 разів атакувала українські мости ще до удару по Кримському мосту — Зеленський",
+          "published_at": "2026-11-21T15:23:00+00:00"
+        },
+        {
+          "item_id": "0c5f3245eda335c5",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/21/do-udaru-po-krymskomu-mostu-rf-atakuvala-ukrainski-mosty-109-raziv-zelenskyj",
+          "title": "До удару по Кримському мосту рф атакувала українські мости 109 разів, – Зеленський",
+          "published_at": "2026-11-21T15:34:23+00:00"
+        },
+        {
+          "item_id": "cf67c471eae55523",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/21/zelenskyj-zayavyv-shho-rosiya-109-raziv-atakuvala-ukrayinski-mosty-do-udaru-u-vidpovid-po-krymskomu-mostu",
+          "title": "Зеленський заявив, що росія 109 разів атакувала українські мости до удару у відповідь по Кримському мосту",
+          "published_at": "2026-11-21T15:37:01+00:00"
+        },
+        {
+          "item_id": "b2bca62671584078",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/21/zelenskyy-do-nashoi-vidpovidi-po-kerchenskomu-mostu-rosiia-atakuvala-ukrainski-mosty-109-raziv",
+          "title": "Зеленський: До нашої відповіді по Керченському мосту Росія атакувала українські мости 109 разів",
+          "published_at": "2026-11-21T15:41:12+00:00"
+        },
+        {
+          "item_id": "cfda973f6e468a8f",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/21/782816_hmara_rosiyi_mozhe_znadobitisya.html",
+          "title": "Хмара: Росії може знадобитися кілька місяців, щоб підняти пошкоджену конструкцію Керченського мосту",
+          "published_at": "2026-11-21T16:52:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "cd3eb655b378fcf1",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118344-voni-dozvolu-ne-pitali-mi-tez-minoboroni-nagadalo-putinu-cim-naspravdi-buv-krimskii-mist",
+          "title": "Міноборони назвало Кримський міст військовою ціллю",
+          "published_at": "2026-11-21T19:17:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "28881da57d99fa2e",
+          "name": "Бердянськ 24 (Brd24)",
+          "url": "https://brd24.com/news/znyshchennia-krymskoho-mostu-iak-prynyzhennia-putina-viyskovyy-ekspert-rozpoviv-pro-znachennia-operatsii.html",
+          "title": "Знищення Кримського мосту як приниження Путіна. Військовий експерт розповів про значення операції",
+          "published_at": "2026-11-21T08:52:59+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-0c5f3245eda335c5"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Евакуація з окупованих",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Зеленський назвав 15 окупованих населених пунктів Херсонщини та Запоріжжя, де Україна пропонує гуманітарні місії за прикладом евакуації з Олешок."
+        },
+        {
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Серед них Гола Пристань."
+        },
+        {
+          "id": "story-3-s3",
+          "kind": "story",
+          "text": "Список передали США та омбудсману."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "7ae0ef37b6cdc0ad",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/21/8063949",
+          "title": "Зеленський назвав 15 населених пунктів для евакуації людей за прикладом Олешків",
+          "published_at": "2026-11-21T12:31:00+00:00"
+        },
+        {
+          "item_id": "dbaac9720912aed1",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/21/zelenskyi-nazvav-15-okupovanykh-naselenykh-punktiv-na-tot",
+          "title": "Зеленський назвав 15 окупованих населених пунктів на ТОТ Херсонщини та Запоріжжя, звідки хочуть евакуювати людей за прикладом Олешків",
+          "published_at": "2026-11-21T12:46:41+00:00"
+        },
+        {
+          "item_id": "bdcf8ab4d4d7d657",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240289.html",
+          "title": "Україна запропонувала евакуювати населення з Голої Пристані, Дніпрорудного та Василівки після операції в Олешках – Зеленський",
+          "published_at": "2026-11-21T12:49:26+00:00"
+        },
+        {
+          "item_id": "3a780bd72048c70d",
+          "name": "МОСТ",
+          "url": "https://most.ks.ua/news/url/zelenskij-nazvav-naseleni-punkti-livoberezhzhja-hersonschini-dlja-gumanitarnoji-evakuatsiji-za-prikladom-oleshok",
+          "title": "Зеленський назвав населені пункти лівобережжя Херсонщини для гуманітарної евакуації за прикладом Олешок",
+          "published_at": "2026-11-21T12:50:23+00:00"
+        },
+        {
+          "item_id": "1cd3495d9ac9304c",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/21/782786_prezident_ozvuchiv_naseleni.html",
+          "title": "Президент озвучив населені пункти, де Україна пропонує провести гуманітарну місію за прикладом Олешок",
+          "published_at": "2026-11-21T13:07:00+00:00"
+        },
+        {
+          "item_id": "330e3caec4e5ad54",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1455848-zelenskij-nazvav-timcasovo-okupovani-naseleni-punkti-evakuaciu-z-akih-proponue-ukraina",
+          "title": "Зеленський назвав тимчасово окуповані населені пункти, евакуацію з яких пропонує Україна",
+          "published_at": "2026-11-21T13:09:50+00:00"
+        },
+        {
+          "item_id": "82362208082ea708",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/21/novyna/bezpeka/zelenskyj-nazvav-naseleni-punkty-planuyut-provesty-novi-humanitarni-misiyi-prykladom-oleshok",
+          "title": "Зеленський назвав населені пункти, де планують провести нові гуманітарні місії за прикладом Олешок",
+          "published_at": "2026-11-21T13:12:02+00:00"
+        },
+        {
+          "item_id": "1c90195e7c13588b",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/zelenskiy-zaproponuvav-provesti-novi-gumanitarni-misiji-za-prikladom-oleshok-yaki-naseleni-punkti-50661306.html",
+          "title": "Після успішної операції в Олешках. Україна запропонувала евакуювати людей з населених пунктів ще двох областей — Зеленський",
+          "published_at": "2026-11-21T13:21:00+00:00"
+        },
+        {
+          "item_id": "95fbb731d7fc5c84",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/suspilstvo/274769-zelenskyy-oholosyv-perelik-iz-15-naselenykh-punktiv-v-iakykh-ukrayina-proponuye-orhanizuvaty-humanitarni-misiyi",
+          "title": "Зеленський оголосив перелік із 15 населених пунктів, у яких Україна пропонує організувати гуманітарні місії",
+          "published_at": "2026-11-21T13:23:00+00:00"
+        },
+        {
+          "item_id": "76297802e4bf322d",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/zelenskij-nazvav-naseleni-punkti-de-khochut-provesti-evakuatsiju-jak-v-oleshkakh.html",
+          "title": "Зеленський назвав населені пункти, де хочуть провести евакуацію, як в Олешках",
+          "published_at": "2026-11-21T13:29:00+00:00"
+        },
+        {
+          "item_id": "207b4284a9f19b8b",
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131933-ukrajina-proponuye-organizuvati-gumanitarni-misiji-za-prikladom-oleshkiv-u-15-naselenih-punktah-na-okupovanih-teritoriyah",
+          "title": "Україна пропонує організувати гуманітарні місії за прикладом Олешків у 15 населених пунктах на окупованих територіях",
+          "published_at": "2026-11-21T13:30:24+00:00"
+        },
+        {
+          "item_id": "6faf4474ce264c9f",
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/ukraina-zaproponuvala-ssha-provesty-evakuatsiini-misii-u-15-naselenykh-punktakh-khersonshchyny-ta-zaporizhzhia",
+          "title": "Україна запропонувала США провести евакуаційні місії у 15 населених пунктах Херсонщини та Запоріжжя",
+          "published_at": "2026-11-21T13:33:51+00:00"
+        },
+        {
+          "item_id": "b6c1b94d2193906e",
+          "name": "Букви",
+          "url": "https://bukvy.org/ukrayina-proponuye-provesty-gumanitarni-misiyi-za-prykladom-oleshkiv-u-15-naselenyh-punktah",
+          "title": "Україна пропонує провести гуманітарні місії за прикладом Олешків у 15 населених пунктах",
+          "published_at": "2026-11-21T13:44:34+00:00"
+        },
+        {
+          "item_id": "95f2c9ad60272575",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/21/zelenskyj-nazvav-15-naselenykh-punktiv-dlia-evakuatsii-liudej-za-prykladom-oleshkiv",
+          "title": "Зеленський назвав 15 населених пунктів для евакуації людей за прикладом Олешків",
+          "published_at": "2026-11-21T13:46:28+00:00"
+        },
+        {
+          "item_id": "02bc823454fdf440",
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/zelenskyj-nazvav-naseleni-punkty-dlya-evakuacziyi-za-prykladom-oleshkiv-shist-z-nyh-zaporizki",
+          "title": "Зеленський назвав населені пункти для евакуації за прикладом Олешків: шість з них — запорізькі",
+          "published_at": "2026-11-21T13:47:54+00:00"
+        },
+        {
+          "item_id": "2f684d36a3461334",
+          "name": "Вгору",
+          "url": "https://vgoru.org/novini/dosvid-evakuaciyi-z-oleskiv-proponuiut-zastosuvati-shhe-u-9-naselenix-punktax-xersonshhini",
+          "title": "Досвід евакуації з Олешків пропонують застосувати ще у 9 населених пунктах Херсонщини",
+          "published_at": "2026-11-21T13:47:57+00:00"
+        },
+        {
+          "item_id": "6ff24bcebaf4798f",
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/public/326660-zelenskyi-nazvav-15-okupovanykh-naselenykh-punktiv-zvidky-ukraina",
+          "title": "Зеленський назвав 15 окупованих населених пунктів, звідки Україна хоче евакуювати людей за прикладом Олешків",
+          "published_at": "2026-11-21T14:00:00+00:00"
+        },
+        {
+          "item_id": "23bb695354804ecb",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/21/407037_yak-v-oleshkah-sela-na-zaporizhzhi-vklyuchyly-do-spysku-dlya-mozhlyvoyi-evakuacziyi",
+          "title": "Як в Олешках: села на Запоріжжі включили до списку для можливої евакуації",
+          "published_at": "2026-11-21T14:10:00+00:00"
+        },
+        {
+          "item_id": "44e8863237aa7f5d",
+          "name": "Новини Донбасу",
+          "url": "https://novosti.dn.ua/vyzhyty-v-okupacziyi/408499-ukrayina-hoche-povtoryty-evakuaczijnu-operacziyu-z-oleshkiv-shhe-u-15-naselenyh-punktah",
+          "title": "Україна хоче повторити евакуаційну операцію з Олешків ще у 15 населених пунктах",
+          "published_at": "2026-11-21T14:16:54+00:00"
+        },
+        {
+          "item_id": "513d695a10ad47f3",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/21/zelenskyy-nazvav-tymchasovo-okupovani-naseleni-punkty-z-iakykh-ukraina-proponuie-evakuatsiiu-za-prykladom-oleshkiv",
+          "title": "Зеленський назвав окуповані населені пункти, з яких Україна пропонує евакуацію за прикладом Олешків",
+          "published_at": "2026-11-21T14:44:26+00:00"
+        },
+        {
+          "item_id": "f454d7aee92b24e5",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/zelenskyj-nazvav-15-naselenyh-punktiv-dlya-evakuatsiyi-do-rizdva-za-prykladom-oleshok-i573856",
+          "title": "Зеленський назвав 15 населених пунктів для евакуації до Різдва за прикладом Олешок",
+          "published_at": "2026-11-21T14:50:16+00:00"
+        },
+        {
+          "item_id": "201f1dd4811b78a0",
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/zelenskii-nazvav-naseleni-punkti-khersonshchini-dlia-evakuatsii-za-prikladom-oleshok",
+          "title": "Зеленський назвав населені пункти Херсонщини для евакуації за прикладом Олешок",
+          "published_at": "2026-11-21T16:15:00+00:00"
+        },
+        {
+          "item_id": "8ce15f9b1d994f4f",
+          "name": "Локатор медіа",
+          "url": "https://lokatormedia.online/z-shesty-naselenykh-punktiv-vasylivskoho-rajonu-planuiut-evakuiuvaty-naselennia-za-prykladom-oleshok",
+          "title": "З шести населених пунктів Василівського району планують евакуювати населення за прикладом Олешок",
+          "published_at": "2026-11-21T16:43:46+00:00"
+        },
+        {
+          "item_id": "cfc59b9e0349feb6",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/gumanitarna-misiya-v-prifrontovih-mistah-zelenskiy-zaproponuvav-novi-napryamki-50661392.html",
+          "title": "Евакуація з 15 населених пунктів. ISW пояснив, чому Україна запропонувала РФ саме ці території для проведення гуманітарної місії",
+          "published_at": "2026-11-22T05:41:00+00:00"
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "regional-c-02bc823454fdf440"
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "kind": "outro",
+          "text": "Це був BRIEF станом на ранок двадцять другого листопада. Посилання на першоджерела — на сайті BRIEF."
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "evidence": {
+    "c1a2f581cdc50a04": "Унаслідок обстрілів Херсонщини постраждали п'ятеро людей (оновлено). Вчора окупанти пошкодили в області багатоповерхівку та чотири приватні будинки.",
+    "e807c5eb4387f083": "Росіяни обстріляли 33 населені пункти Херсонщини: пошкоджено п’ять будинків. Упродовж 20 листопада російські війська атакували 33 населені пункти Херсонського та Бериславського районів із артилерії та безпілотників різних типів, зокрема «Shahed/Гербера». Про це повідомили у пресслужбі ГУНП у Херсонській області. Унаслідок російських обстрілів пошкоджено багатоквартирний та чотири приватні будинки. Зокрема, війська РФ обстріляли з артилерії Корабельний район Херсона, де пошкоджень зазнали чотири приватні будинки.",
+    "4ae149a04ea1aa83": "Унаслідок обстрілів на Дніпропетровщині та Херсонщині постраждали 11 людей. А на Одещині — масштабні знеструмлення. ",
+    "cfc59b9e0349feb6": "Евакуація з 15 населених пунктів. ISW пояснив, чому Україна запропонувала РФ саме ці території для проведення гуманітарної місії. Усі 15 населених пунктів Херсонської та Запорізької областей, в яких президент України Володимир Зеленський запропонував провести наступну гуманітарну місію, розташовані або безпосередньо на березі Дніпра чи Каховського водосховища, як-от Олешки, або за кілька кілометрів на південь від річки, у найближчому тилу російських військ.",
+    "d0497b6fec45cce4": "Через російські обстріли Києва і Херсонщини є постраждалі. ",
+    "7d9d0414eea82798": "Двоє херсонців дістали поранення внаслідок ранкової атаки російського дрона. У Херсоні внаслідок атаки російського безпілотника постраждали двоє чоловіків літнього віку.",
+    "efd345b1e8345df8": "Масштабні знеструмлення та перепади напруги: яка ситуація з електропостачанням на Одещині. На Одещині 21 листопада через повторні російські атаки на енергетику відбуваються масштабні знеструмлення. У ДТЕК попередили про можливі перепади напруги після відновлення електропостачання",
+    "7aaf959c750e0e8a": "На Одещині масштабні знеструмлення: Міненерго попередило про перепади напруги. Станом на вечір 21 листопада ситуація з електропостачанням в Одеській області залишається складною через постійні російські атаки на магістральні електромережі. Про це повідомили у Міністерстві енергетики України. За даними відомства, в регіоні відбуваються масштабні знеструмлення та спрацьовує автоматичний захист. Після масованої атаки в ніч на 20 листопада енергетикам вдалося частково стабілізувати електропостачання у постраждалих регіонах.",
+    "59176d3025bb8215": "В Одесі тривають масштабні знеструмлення через постійні атаки. На Одещині станом на вечір 21 листопада залишається складною ситуація з електропостачанням. Через постійні російські удари по магістральних мережах у регіоні відбуваються масштабні знеструмлення.",
+    "9ceab3c70f430f78": "На Одещині залишаються масштабні знеструмлення. Міненерго попередило про перепади напруги. Енергетикам вдалось частково стабілізувати ситуацію з енергопостачанням.",
+    "70ea5d2878609fb6": "\"Укренерго\": Через російські удари на Одещині — масштабні знеструмлення. «Ситуація з електропостачанням на Одещині залишається складною. Понад добу ворог безперервно атакує енергетичну інфраструктуру регіону. Внаслідок ударів є пошкодження, зокрема на об’єктах НЕК «Укренерго», - повідомляє відомство у Телеграм ввечері 21...",
+    "818efddf6639fb6a": "На Одещині тривають масштабні знеструмлення через атаки РФ на енергетику – Укренерго. На Одещині тривають масштабні знеструмлення через російські атаки на енергетичну інфраструктуру. Ворог безперервно атакує енергетичні об'єкти регіону понад добу, зокрема пошкоджень зазнали об'єкти НЕК \"Укренерго\". Запис На Одещині тривають масштабні знеструмлення через атаки РФ на енергетику – Укренерго спершу з'явиться на Букви .",
+    "e38c5990ea27a0c7": "Російська атака пошкодила цивільну інфраструктуру Одещини: в регіоні складна ситуація з електропостачанням. Російські загарбники атакували Одещину, в результаті пошкоджена цивільна інфраструктура. також у регіоні зберігається складна ситуація з електропостачанням через масовану російську атаку на енергосистему. В частині Одеського району та в самій Одесі діють відключення світла, можливі перебої з водою та теплом. Про це повідомляє голова Одеської ОВА Олег Кіпер та Міністерство енергетики України, пише Рубрика. «Сьогодні вдень […] The post Російська атака пошкодила цивільну інфраструктуру Одещини: в регіоні складна ситуація з електропостачанням appeared first on Рубрика .",
+    "dbb7099eee54192d": "Ситуація зі світлом на Одещині залишається складною – ДТЕК. Ситуація з електропостачанням в Одеській області залишається складною через російські удари по енергосистемі, повідомляє ДТЕК з посиланням на дані Міненерго.",
+    "d197a0b6060181a6": "Кримського моста не буде – Зеленський звернувся до путіна. Україна має повне право атакувати цей об’єкт, адже Крим є українською територією.",
+    "2e33a4dd5623fda0": "РФ 109 разів атакувала українські мости ракетами та дронами – Зеленський. Росія до відповіді України по Кримському мосту здійснила 109 атак із застосуванням ракет і безпілотників по українських мостах, заявив президент України Володимир Зеленський.",
+    "e44921e721a2e3a3": "До удару по Кримському мосту Путін завдав ударів по українських мостах 109 разів — Зеленський. Зеленський заявив, що Росія 109 разів атакувала українські мости до удару по мосту через Керченську протоку. Він також висловив сумнів у готовності Путіна до компромісів і реальних результатів перегорів",
+    "58aa96a9a34f2e80": "Зеленський: РФ 109 разів атакувала українські мости до удару по Кримському мосту. Президент Володимир Зеленський заявив, що до української операції проти Кримського мосту Росія 109 разів атакувала українські мости",
+    "0dd5a3f89baa192a": "Зеленський розповів, скільки разів росіяни атакували мости в Україні. Президент зазначив, що окупанти використовували Кримський міст для забезпечення своєї військової логістики.",
+    "e7324be3a8841ada": "До удару по Кримському мосту рф 109 разів атакувала українські мости ракетами та дронами, – Зеленський. Дії рф свідчать про небажання путіна припиняти війну",
+    "8e34583365c3e5e4": "Росія 109 разів атакувала українські мости до ударів по Кримському – Зеленський. Президент Володимир Зеленський заявив, що російські війська здійснили 109 атак на українські мости до операції Сил оборони проти Керченського мосту.",
+    "6d22c26421631436": "росія 109 разів вдарила по українських мостах, перш ніж Україна вдарила по Кримському мосту – Зеленський. Мости в Києві, а також в Запоріжжі перебувають під атаками російських балістичних ракет ще з початку жовтня",
+    "68ba14e7bc5401b6": "Зеленський: До нашого удару по Кримському мосту Росія 109 разів атакувала українські мости. Президент Зеленський повідомив, що Кримський міст був головним логістичним маршрутом для мілітаризації Криму. Деталі удару та реакція РФ.",
+    "826d66e0cc36cf1f": "Зеленський заявив, що Росія 109 разів атакувала українські мости до ударів по Керченському (Кримському) мосту. Про це він сказав 21 листопада під час зустрічі з міністром оборони Великої Британії Весом Стрітінгом.",
+    "214ba555c241a910": "росія 109 разів атакувала українські мости ще до удару по Кримському мосту — Зеленський. ",
+    "0c5f3245eda335c5": "До удару по Кримському мосту рф атакувала українські мости 109 разів, – Зеленський. Президент Володимир Зеленський назвав удар по Кримському мосту абсолютно справедливою відповіддю України, нагадавши, що до цього росія понад сто разів атакувала українські мости. Про це глава держави заявив перед зустріччю з міністром оборони Британії Весом Стрітінгом у Києві. «Перш за все, до нашої відповіді, удару по Кримському мосту, путін атакував українські мости 109 разів. Не … Continue reading До удару по Кримському мосту рф атакувала українські мости 109 разів, – Зеленський →",
+    "cf67c471eae55523": "Зеленський заявив, що росія 109 разів атакувала українські мости до удару у відповідь по Кримському мосту. Президент Володимир Зеленський заявив, що до українського удару по Кримському мосту росія 109 разів атакувала українські мости, а сам Кримський міст використовувався як головний логістичний маршрут для мілітаризації окупованого українського півострова. Про це Зеленський заявив перед зустріччю з міністром оборони Британії Весом Стрітінгом у Києві, пише Рубрика. \"До нашого удару у відповідь по Кримському мосту […] The post Зеленський заявив, що росія 109 разів атакувала українські мости до удару у відповідь по Кримському мосту appeared first on Рубрика .",
+    "b2bca62671584078": "Зеленський: До нашої відповіді по Керченському мосту Росія атакувала українські мости 109 разів. Президент Володимир Зеленський заявив, що до українського удару по Керченському мосту Росія 109 разів атакувала українські мости. Про це президент заявив перед зустріччю з Весом Стрітінгом у Києві. «До нашої відповіді по Кримському мосту Росія атакувала українські мости 109 разів. Це не кількість ракет та дронів, а кількість саме атак. Путін та його люди намагаються... Запис Зеленський: До нашої відповіді по Керченському мосту Росія атакувала українські мости 109 разів спершу з'явиться на Громадське радіо .",
+    "cfda973f6e468a8f": "Хмара: Росії може знадобитися кілька місяців, щоб підняти пошкоджену конструкцію Керченського мосту. Наразі окупанти розбираються з деталями, як відтягнути пошкоджений елемент від мосту.",
+    "cd3eb655b378fcf1": "Міноборони назвало Кримський міст військовою ціллю. Міністерство оборони України відреагувало на заяву російського диктатора володимира путіна від 19 листопада, в якій той назвав Кримський міст «виключно мирним об’єктом».",
+    "28881da57d99fa2e": "Знищення Кримського мосту як приниження Путіна. Військовий експерт розповів про значення операції. Удар по Кримському мосту знищив автомобільний шлях, але залізниця досі функціонує. Наскільки серйозним є пошкодження мосту та чи вплинуло воно на військове постачання Росії? І яке значення ця атака мала напередодні міжнародних переговорів? Наслідки удару по Кримському мосту, його військове та політичне значення у новому інтерв’ю «Бердянськ 24» аналізує співголова громадської ініціативи «Права справа», військовий експерт Дмитро Снєгирьов.",
+    "686a7d328ef0a3cc": "Реактивний «шахед» атакував Вінницю. Пошкоджено об’єкт енергетичної інфраструктури. Близько 9.30 у Вінниці пролунав вибух — місто атакував ворожий реактивний безпілотник. Після цього стало відомо про пошкодження об’єкта енергетичної інфраструктури. Через удар у місті виникли перебої з електропостачанням. Вінничани повідомляли про рух дрона в напрямку Тяжилова, Немирівського шосе та інших районів. Перед загрозою атаки людей закликали пройти до укриттів. Пошкоджено енергетичний об’єкт, у місті зникло світло Про наслідки атаки повідомила начальниця Вінницької обласної військової адміністрації Наталя Заболотна.",
+    "cc0dbeb346943e0a": "У Вінниці через атаку РФ 21 листопада пошкоджень зазнав об'єкт енергетичної інфраструктури. Об'єкт енергетичної інфраструктури зазнав пошкоджень внаслідок російської атаки у Вінниці 21 листопада. У місті є відключення електроенергії",
+    "d6a5d409de425cef": "У Вінниці внаслідок російської атаки пошкоджено об'єкт енергетики, місто частково без світла. У Вінниці внаслідок російської атаки вранці у суботу, 21 листопада, пошкоджено об'єкт енергетичної інфраструктури. Про це повідомила голова Вінницької ОВА Наталя Заболотна.",
+    "a3b5ce5bcdb1f654": "У Вінниці через ворожу атаку пошкоджено енергооб'єкт, є відключення світла. Об'єкт енергетичної інфраструктури зазнав пошкоджень у Вінниці внаслідок ворожої атаки, у місті зафіксовані відключення електроенергії, повідомила очільниця Вінницької обласної військової адміністрації (ОВА) Наталя Заболотна.",
+    "fac0c587ea00b5ee": "У Вінниці внаслідок російської атаки пошкоджено об’єкт енергетики. В області – підприємство, СТО та будинки. У Вінниці внаслідок російської атаки вранці у суботу, 21 листопада, пошкоджено об’єкт енергетичної інфраструктури. Про це повідомила очільниця Вінницької ОВА Наталя Заболотна. У місті є відключення електроенергії. Енергетики вже працюють над відновленням електропостачання, додали в ОВА. Внаслідок нічної атаки РФ у Вінницькій області було пошкоджено цивільне підприємство, будівлю СТО та сім автомобілів, повідомляли в ОВА. У […] The post У Вінниці внаслідок російської атаки пошкоджено об’єкт енергетики. В області – підприємство, СТО та будинки first appeared on Новинарня .",
+    "b05ee253c12a72f9": "У Вінниці обстрілом пошкоджений енергооб’єкт - частина міста без світла. У Вінниці через російську атаку пошкоджений енергооб’єкт, є відключення світла.",
+    "8f16409654cc3980": "Частина Вінниці залишилась без світла після обстрілу. Внаслідок ворожої атаки пошкоджено енергооб'єкт.",
+    "52c299bc11bac97e": "У Вінниці російська атака пошкодила енергооб’єкт. У Вінниці внаслідок російської атаки пошкоджено об’єкт енергетичної інфраструктури. Частина міста залишилася без електроенергії, енергетики працюють над відновленням.",
+    "03f8d269ee7cc0d2": "Росіяни обстріляли Вінницю: частина міста без світла, пошкоджено дитячий садок. В ОВА оприлюднили фото наслідків удару по Вінницькій області.",
+    "42261ebd57e46f0f": "ОВА: Через атаку РФ у Вінниці пошкоджений об’єкт енергетичної інфраструктури, у місті є відключення. Унаслідок атаки російських окупантів у Вінниці пошкоджений об’єкт енергетичної інфраструктури. Про це повідомила начальниця Вінницької ОВА Наталя Заболотна. Зазначається, що наразі у місті є відключення електроенергії. «Бригади енергетиків уже працюють над відновленням електропостачання», — наголосила Наталя Заболотна. Нагадаємо, Росія здійснила масовану атаку на теплову електростанцію компанії ДТЕК, вона припинила генерацію електроенергії. Запис ОВА: Через атаку РФ у Вінниці пошкоджений об’єкт енергетичної інфраструктури, у місті є відключення спершу з'явиться на Громадське радіо .",
+    "b4e091e407d3cb92": "Росіяни вдарили по енергооб'єкту у Вінниці: частина міста без світла, пошкоджений дитсадок. Росіяни 21 листопада атакували енергооб'єкт у Вінниці. Частина міста залишилася без світла, вибухова хвиля пошкодила дитсадок. За попередніми даними, постраждалих немає.",
+    "d429b6c8aa9091cf": "У Вінниці РФ вдарила по об'єкту енергетичної інфраструктури, вибуховою хвилею пошкоджено дитсадок. Внаслідок російської атаки у Вінниці 21 листопада пошкоджень зазнав об'єкт енергетичної інфраструктури, у місті є відключення електроенергії. Про це заявила начальниця ОВА Наталя Заболотна, повідомляє \"Суспільне\". За її словами, бригади енергетиків працюють над відновленням електропостачання. Як...",
+    "799c767247c918ad": "Графік відключення світла: де у Вінниці та області не буде електрики. Вінницяобленерго повідомило про введення обмежень електропостачання на Вінниччині. Причина — дефіцит потужності в енергосистемі України, що виник через пошкодження енергетичної інфраструктури, завдані ворогом. Що діє сьогодні За інформацією АТ «Вінницяобленерго», 17 листопада на Вінниччині діятимуть графіки погодинних відключень електроенергії. Також протягом доби діятимуть обмежень споживання потужності для непобутових споживачів області. Що було раніше Погодинні відключення світла ввели на Вінниччині.",
+    "474efb2a0af1ece3": "Як працюватиме транспорт у Запоріжжі 21 листопада: зміни маршрутів. Сьогодні, 21 листопада, у Запоріжжі діють зміни в роботі громадського транспорту через закриття руху автобусів і тролейбусів греблею ДніпроГЕС, ремонтні роботи та відключення електроенергії. Сообщение Як працюватиме транспорт у Запоріжжі 21 листопада: зміни маршрутів появились сначала на inform.zp.ua .",
+    "e143ce574b7b0692": "Рух транспорту мостами і греблею ДніпроГЕС у Запоріжжі повністю перекрито – ОВА. Рух транспорту мостами та греблею ДніпроГЕС у Запоріжжі повністю перекрито, повідомив начальник Запорізької ОВА Михайло Семікін.",
+    "a3a43fcca87730da": "У Запоріжжі пролунали вибухи, рух транспорту через ДніпроГЕС повністю перекритий, поранена дитина. У Запоріжжі пролунала низка вибухів, рух транспорту мостами та греблею ДніпроГЕС повністю перекритий, дитина зазнала поранень.",
+    "5f5cbd1774dd4250": "У Запоріжжі відновили рух транспорту через ДніпроГЕС. У Запоріжжі рух вілновили рух транспорту греблею ДніпроГЕС.",
+    "10dd50ebe926f3e2": "Росіяни атакували Запоріжжя: серед поранених – діти. Російські війська атакували Запоріжжя, поранено дитину у Вознесенівському районі. Рух транспорту мостами та греблею ДніпроГЕС повністю перекрито.",
+    "5a40c715c8026c8b": "РФ атакувала Запоріжжя: пошкоджено будинки, троє постраждалих, рух мостами та греблею ДніпроГЕС перекривали. У суботу, 21 листопада, війська РФ атакували Запоріжжя. Ударом пошкодило приватні та багатоквартирні будинки, виникли пожежі. Троє людей постраждали, серед них двоє — діти. Рух мостами та греблею ДніпроГЕС тимчасово перекривали",
+    "15829dfa16128556": "У Запоріжжі повністю відновлено рух мостами та греблею ДніпроГЕС. У Запоріжжі повністю відновлено рух усіма мостами та греблею ДніпроГЕС.",
+    "f5bbff5a81115c39": "Внаслідок атаки на Запоріжжя поранено дитину – ОВА. Російські війська атакували Запоріжжя, за попередніми даними, поранено дитину, повідомив начальник Запорізької ОВА Михайло Семікін.",
+    "8b3cee7c423730d6": "2 людини загинули і 22 отримали поранення внаслідок обстрілів Запорізького району. Упродовж доби окупанти завдали 489 ударів по 48 населених пунктах регіону.",
+    "955c1eafb57cea20": "Через відключення двох ЛЕП одна з українських АЕС знизила потужність. МАГАТЕ повідомило про скорочення потужності однієї з українських АЕС після відключення двох ліній електропередачі через військові дії.",
+    "895d4b2bcd78d82e": "День гідності та свободи: у Києві вшанували Героїв Небесної Сотні. 21 листопада в Україні відзначають День гідності та свободи. З цієї нагоди на Алеї Героїв Небесної Сотні вшанували загиблих учасників Революції Гідності",
+    "57ea0a12179deaf9": "У Києві Зеленські вшанували Героїв Небесної Сотні. 21 листопада, у День Гідності та Свободи, Володимир Зеленський із першою леді вшанували Героїв Небесної Сотні в Києві. На Алеї оновили капличку, хрест пам’яті та меморіальний простір.",
+    "cdbaf1e6bc52b8af": "Ушанування Президентом України загиблих Героїв Небесної Сотні в Києві на Алеї Слави. на сайті Gromada Group Media | Ушанування Президентом України загиблих Героїв Небесної Сотні в Києві на Алеї Слави",
+    "1fb8cdc4b4ab1f79": "Алея Героїв Небесної сотні у Києві отримала статус пам’ятки національного значення. Сьогодні в Україні вшановують пам’ять загиблих учасників Революції Гідності.",
+    "fea4c2c5fcbbbff4": "Уряд надав місцю подій Революції Гідності в районі алеї Героїв Небесної Сотні статус пам'ятки національного значення – Корецький. Статус пам'ятки національного значення відтепер має місце подій Революції Гідності в районі алеї Героїв Небесної Сотні згідно з ухваленим рішенням уряду, повідомив прем'єр-міністр України Сергій Корецький.",
+    "26c6d1e68d8ca919": "Уряд надав статус пам’ятки національного значення місцю протестів і загибелі учасників Революції Гідності. Уряд ухвалив рішення надати статус пам'ятки національного значення місцю протестів і загибелі учасників Революції Гідності. Про це повідомив прем'єр-міністр України Сергій Корецький у День Гідності та Свободи, вшановуючи пам'ять Героїв Небесної Сотні, пише Рубрика. 21 листопада українці вшановують пам'ять Героїв Небесної Сотні та згадують всіх учасників Революції Гідності. Їхня рішучість не відступати й не здаватися […] The post Уряд надав статус пам’ятки національного значення місцю протестів і загибелі учасників Революції Гідності appeared first on Рубрика .",
+    "db879de77eda1756": "День Гідності та Свободи: в Києві вшанували пам'ять Героїв Небесної Сотні. 13 років тому відбулася Революція гідності.",
+    "11a5b5b52be979dd": "Алея Героїв Небесної Сотні отримала статус пам'ятки національного значення. ",
+    "1ad61297c0029dd9": "Алея Героїв Небесної сотні у Києві отримала статус пам’ятки національного значення. Як повідомив прем’єр-міністр України Сергій Корецький в суботу, 21 листопада, відповідне рішення ухвалив Кабмін. “13 років тому сотні тисяч небайдужих людей по всій країні вийшли на Майдани у своїх містах, щоб захистити свою гідність та європейський вибір України. І не відступили навіть тоді, коли за […] The post Алея Героїв Небесної сотні у Києві отримала статус пам’ятки національного значення first appeared on Новинарня .",
+    "4bbc66ed53af4b0f": "У Львові запалили Ватру до Дня Гідності та Свободи (фоторепортаж). У Львові 21 листопада на Меморіалі Героїв Небесної Сотні відбулася традиційна Ватра до Дня Гідності та Свободи.",
+    "d6cc31f541d9381a": "В Одесі відзначили День Гідності та Свободи. Керівництво області та міста, військові, правоохоронці, духовенство та громадськість взяли участь у покладанні квітів до пам’ятного знака Героям Небесної Сотні. Згадали тих, хто віддав життя за Україну, за наше право бути вільними й самим вирішувати долю своєї країни. Сьогоднішній день повертає нас до подій Помаранчевої революції та Революції Гідності. Тоді мільйони українців вийшли на Майдани, [...]",
+    "5ecf61e143b3025d": "В Одесі вшанували Героїв Небесної Сотні з нагоди Дня Гідності та Свободи. Сьогодні, 21 листопада, в Одесі відзначають День Гідності та Свободи. З цієї нагоди у сквері Героїв Небесної Сотні вшанували пам’ять загиблих героїв. Про це повідомили у пресслужбі Одеської міськради. Учасники заходу поклали квіти до пам’ятного знака, встановленого на місці спорудження майбутнього монумента Героям Небесної Сотні. Віддати шану учасникам Революції Гідності та всім полеглим захисникам України прийшли представники керівництва міста Сообщение В Одесі вшанували Героїв Небесної Сотні з нагоди Дня Гідності та Свободи появились сначала на Новини Одеси - Odesa Online .",
+    "3322a78bc8e06233": "Україна відзначає День гідності та свободи. В Україні 21 листопада відзначають День гідності та свободи.",
+    "95c7e1656cbe363c": "День Гідності та Свободи і Введення у храм Пресвятої Богородиці: які свята відзначають 21 листопада. У суботу, 21 листопада 2026 року, в Україні відзначають День Гідності та Свободи. У світі цього дня проходить Всесвітній день телебачення. За новим церковним календарем православні та греко-католики вшановують велике свято Введення у храм Пресвятої Богородиці. День Гідності та Свободи 21 листопада в Україні відзначають День Гідності та Свободи. Його встановили на честь початку двох […]",
+    "cdbe9f170d1b564e": "Сьогодні, 21 листопада. Церква відзначає Введення в храм Пресвятої Діви Марії. Про це повідомляє Православна Церква України. Свято Введення припадає на Різдвяний піст, але за уставом дозволено споживати рибу. Має один день передсвята і чотири дні післясвята, тож 25 листопада – віддання свята. Напередодні свята Введення, в храмах звершувалося бдіння, а в день свята – відбудеться урочиста Божественна літургія. Священнослужителі будуть убрані в облачення синього або блакитного кольорів, як і в інші Богородичні свята.",
+    "958db6617800dabe": "Українці відзначають День Гідності та Свободи. Історія, прикмети та заборони 21 листопада. Свято 21 листопада Україна відзначає День Гідності та Свободи. Ця дата нагадує про дві революції, під час яких українці виходили на вулиці, щоб відстояти свої права, демократичний вибір і майбутнє країни. Саме 21 листопада 2004 року розпочалися масові протести Помаранчевої революції, а у 2013 році — перші акції Євромайдану після рішення уряду призупинити підготовку до підписання Угоди про асоціацію з Євросоюзом. День Гідності та Свободи встановили у 2014 році. 21 листопада також є Всесвітнім днем телебачення, проголошеним ООН у 1996 році.",
+    "51555058f0a14792": "21 листопада в Україні відзначають День Гідності та Свободи. У суботу, 21 листопада, в Україні відзначають День Гідності та Свободи. Ця дата пов’язана з початком двох важливих подій новітньої української історії – Помаранчевої революції 2004 року та Революції Гідності 2013-го. Запис 21 листопада в Україні відзначають День Гідності та Свободи спершу з'явиться на Букви .",
+    "4dfe818bf7e7da97": "Тоді все зупинилося, навіть «злочинний світ», — спогади учасника Революції гідності. 21 листопада в Україні відзначають День Гідності та Свободи. У цей період розпочалися дві революції – Помаранчева та Революція гідності, які стали переломними подіями для українського народу.",
+    "74f99bc2ca586682": "В Україні відзначають День Гідності та Свободи: події двох революцій. 21 листопада Україна відзначає День Гідності та Свободи",
+    "1ded04f636b0a978": "Україна відзначає День гідності та свободи. ",
+    "4dda723848408ded": "В Ужгороді відзначили День Гідності та Свободи. День Гідності та Свободи відзначили в Ужгороді. Захід відбувся на площі Народній. До нього долучилися студенти, пластуни, нацгвардійці та представники місцевої влади",
+    "174fed8dfef75f0e": "В Україні відзначають День Гідності та Свободи. В Україні 21 листопада відзначають День Гідності та Свободи. Ця дата встановлена указом президента від 13 листопада 2014 року на честь початку цього дня двох ключових подій новітньої української історії — Помаранчевої революції 2004 року та Революції Гідності 2013 року. День Гідності та Свободи став наступником Дня свободи, що з 2005 по 2011 роки відзначали... Запис В Україні відзначають День Гідності та Свободи спершу з'явиться на Громадське радіо .",
+    "5485be3d2511fbc0": "Зеленський вшанував пам'ять Героїв Небесної сотні. Президент України Володимир Зеленський і перша леді Олена Зеленська у День гідності та свободи вшанували пам'ять українців, які загинули під час Революції Гідності.",
+    "c5f7622511ea2d9d": "Україна відзначає День гідності та свободи. В Україні 21 листопада відзначають День гідності та свободи. Його встановлено указом Президента від 13 листопада 2014 року на честь початку Помаранчевої революції 2004 року та Революції гідності 2013 року. День гідності та свободи став наступником Дня свободи, який у 2005-2011 роках відзначали 22 листопада на честь Помаранчевої революції. У грудні 2011 року тодішній президент […]",
+    "ace7e5ccaf85e3aa": "21 листопада в Україні відзначають День Гідності та Свободи: історія та значення дати. Цей день присвячений двом важливим подіям в історії незалежної України — Помаранчевій революції та Революції Гідності Сообщение 21 листопада в Україні відзначають День Гідності та Свободи: історія та значення дати появились сначала на Кременчуцький Телеграф .",
+    "26477c16874aa716": "День Гідності та Свободи. Як починалися два українські Майдани. Ірта-fax - Інформаційний портал 21 листопада Україна відзначає День Гідності та Свободи. Цьогоріч минає 22 роки від початку Помаранчевої революції та 13 років від перших зібрань Євромайдану. Денис Молотов",
+    "f9a8eb8b97ce37a6": "Після важкого поранення у госпіталі помер військовий з Чернівців Ігор Гангала. 20 листопада у військовому госпіталі у Києві помер військовий з Чернівців Ігор Гангала. Перед тим боєць отримав поранення через ураження від FPV-дрона",
+    "27ef5ddab3b598c9": "Помер чернівчанин Ігор Гангала — військовий 107-ї бригади та колишній голова Пласту в Чернівцях. Гангала є одним із засновників 107-го куреня імені Петра Войновського. У 2017–2019 роках очолював Пласт у Чернівцях. 20 листопада в лікарні Києва помер 34-річний захисник із Чернівців, пластун Ігор Гангала з позивним «Прут». Він зазнав важких поранень під час виконання... The post Помер чернівчанин Ігор Гангала — військовий 107-ї бригади та колишній голова Пласту в Чернівцях appeared first on Шпальта .",
+    "63d0d2be331c9639": "Від отриманих на фронті поранень помер військовий, учасник Революції гідності, ексголова “Пласту” в Чернівцях Ігор Гангала. Від отриманих на фронті поранень, не приходячи до тями, помер військовослужбовець, учасник Євромайдану, пластун Ігор Гангала. Про це в суботу, 21 листопада, повідомив голова Крайової Пластової Ради Юрій Юзич у соцмережі Facebook. “Від отриманих на фронті поранень, не приходячи до тями, помер вихованець “Пласт Чернівці” та пластовий виховник Ігор Гангала. Політолог і правник. Співтворець студентського […] The post Від отриманих на фронті поранень помер військовий, учасник Революції гідності, ексголова “Пласту” в Чернівцях Ігор Гангала first appeared on Новинарня .",
+    "e352d5f66f2b4704": "Загинув старший пластун з Чернівців Ігор Гангала. Старший пластун Ігор Гангала з Чернівців помер 20 листопада в лікарні після важкого поранення на фронті. Про це повідомила станиця Пласту в Чернівцях.",
+    "6ab41b9e20674638": "Росіяни атакували Печенізьку дамбу на Харківщині, рух перекритий. Рух Печенізькою дамбою тимчасово перекритий, повідомляє Служба відновлення та розвитку інфраструктури в Харківській області. «21...",
+    "f13f86ee501bea2a": "Росія завдала ракетного удару по Печенізькій дамбі: рух нею перекрито. Оприлюднено маршрут об'їзду.",
+    "816ff6b717eabfa2": "Ракетний удар по Печенізькій дамбі: як тепер проїхати водіям. 21 листопада близько першої години ночі російський ракетний удар пошкодив дорогу на Печенізькій дамбі в Харківській області. Проїзд дамбою наразі неможливий. Для водіїв організовують об'їзд.",
+    "3edd787a54402f12": "Рух Печенізькою дамбою тимчасово перекрито після ракетного удару. У ніч на 21 листопада російські війська завдали ракетного удару, внаслідок якого пошкоджено ділянку автомобільної дороги державного значення Т-21-11 Чугуїв — Печеніги — Великий Бурлук у районі Печенізької дамби. Проїзд цією ділянкою наразі неможливий",
+    "a7d3a9051723f4f1": "На Харківщині перекритий рух Печенізькою дамбою. Як об’їхати?. Автодорога пошкоджена російською ракетою.",
+    "12496545d2efa91d": "Ракетний удар перекрив рух дамбою на Харківщині. ",
+    "796f1004d1ddb11c": "Росіяни ракетним ударом пошкодили дорожнє полотно Печенізької дамби на Харківщині: чи є ризик підтоплення. Уночі 21 листопада ракета пошкодила дорожнє полотно Печенізької дамби на Харківщині. Проїзд перекрили, загрози підтоплення немає, люди не постраждали",
+    "1c8ca9aec388a345": "У Криму знову масштабні відключення електроенергії: без світла залишилися населені пункти п’яти районів. The post У Криму знову масштабні відключення електроенергії: без світла залишилися населені пункти п’яти районів appeared first on Фарватер. Схід .",
+    "8c0556fc3e0f199c": "Сили оборони уразили склад боєприпасів у Криму, два пункти управління окупантів і міст на Луганщині. Протягом 20 листопада та в ніч на 21 листопада Сили оборони України уразили склад боєприпасів у тимчасово окупованому Криму, два пункти управління російських військ у Запорізькій та Донецькій областях, а також автомобільний міст поблизу Луганська. Про це пише Рубрика, посилаючись на Генеральний штаб За даними військових, у районі населеного пункту Первомайське в окупованому Криму уражено […] The post Сили оборони уразили склад боєприпасів у Криму, два пункти управління окупантів і міст на Луганщині appeared first on Рубрика .",
+    "2f324798e05a7b1e": "У Криму без світла залишилися ще 16 сіл Бахчисарайського району – «Крименерго». Раніше цього ж дня «Крименерго» повідомляло про відключення електрики ще у дев'яти населених пунктах Бахчисарайського району.",
+    "7af6b147983196b6": "Відключення світла у Криму 21 листопада: де на ранок немає електроенергії та коли буде. В окупованому Криму 21 листопада світло відключатимуть на 3–6 годин через обмеження споживання електроенергії. У пʼяти районах, Білогірську та Севастополі є знеструмлення",
+    "ba217977ce3cf6ee": "ЗСУ уразили командні пункти росіян на Донеччині та міст під Луганськом — Генштаб. У ніч на 21 листопада Сили оборони України завдали ударів по пунктах управління російських військ у районі Українська на Донеччині та уразили автомобільний міст через Сіверський Донець поблизу Луганська",
+    "27e8d4b00cc7d28d": "Захисники України вразили на ТОТ склад боєприпасів, два штаби і міст через Сіверський Донець. У районі Луганська українські захисники вразили автомобі",
+    "a71eacc55f111630": "ЗСУ уразило автомобільний міст через Сіверський Донець в районі окупованого Луганська. \"Удари по мостах тривають. В районі Луганська Луганської області уражено автомобільний міст через річку Сіверський Донець — ще одну переправу, якою російський агресор підвозить до фронту пальне, боєприпаси та техніку. Масштаби завданих збитків уточнюються\", - повідомляє Генштаб ЗСУ 21...",
+    "87b29cd6cc10f311": "ЗСУ атакували штаби росіян та автомобільний міст біля Луганська. Під удар потрапили також пункти управління.",
+    "c9481a7e0d687795": "У Дніпрі та частині області запровадили екстрені відключення світла. У Дніпропетровській області запроваджені екстрені відключення електроенергії.",
+    "5d0840492b2490fa": "У ДТП на проспекті Героїв у Дніпрі загинув 16-річний чемпіон області з дзюдо та самбо. The post У ДТП на проспекті Героїв у Дніпрі загинув 16-річний чемпіон області з дзюдо та самбо appeared first on Місто і річка .",
+    "4dd01f77556bf38a": "Погода в Дніпрі на неділю, 22 листопада: мінлива хмарність, до +7°. У Дніпрі 22 листопада очікується мінлива хмарність без опадів, температура вдень +5..7°. The post Погода в Дніпрі на неділю, 22 листопада: мінлива хмарність, до +7° appeared first on Dnipro.media .",
+    "04319881d72a6474": "Графіки відключень світла у Дніпрі та області на 22 листопада: години для черг ДТЕК. Для споживачів ДТЕК Дніпровських електромереж на Дніпропетровщині 22 листопада застосовуватимуть графіки погодинних відключень електроенергії. Про це повідомили у ДТЕК. Відключення застосовуватимуть за таким графіком: Черга 1.1: 10:30–14:30, 21:00–00:00. Черга 1.2: 10:30–14:30, 21:00–22:00. Черга 2.1: 16:00–17:30, 21:00–00:00. Черга 2.2: 10:30–14:30, 21:00–00:00. Черга 3.1: 06:00–07:30, 14:00–18:00. Черга 3.2: 06:00–07:30, 14:00–18:00. Черга 4.1: 06:00–07:30, 14:00–21:00. Черга 4.2: 16:00–18:00.",
+    "7ae0ef37b6cdc0ad": "Зеленський назвав 15 населених пунктів для евакуації людей за прикладом Олешків. Президент Володимир Зеленський назвав 15 населених пунктів на тимчасово окупованих територіях Херсонської та Запорізької областей, для яких Україна пропонує організувати гуманітарні місії за прикладом евакуації з Олешків.",
+    "dbaac9720912aed1": "Зеленський назвав 15 окупованих населених пунктів на ТОТ Херсонщини та Запоріжжя, звідки хочуть евакуювати людей за прикладом Олешків. Україна пропонує організувати гуманітарні місії за прикладом евакуації з Олешків для ще 15 населених пунктів у Херсонській та Запорізькій областях. Про це заявив президент Володимир Зеленський в аудіокоментарі українським журналістам, пише 21 листопада “Українська правда”. “Ми вдячні ще раз першій леді США за Олешки, за евакуацію, розблокування, евакуацію наших людей, громадян України. Ми проговорили з […] The post Зеленський назвав 15 окупованих населених пунктів на ТОТ Херсонщини та Запоріжжя, звідки хочуть евакуювати людей за прикладом Олешків first appeared on Новинарня .",
+    "bdcf8ab4d4d7d657": "Україна запропонувала евакуювати населення з Голої Пристані, Дніпрорудного та Василівки після операції в Олешках – Зеленський. Українська сторона передала американській стороні пропозицію організувати гуманітарну місію з евакуації жителів з низки прифронтових населених пунктів Херсонської та Запорізької областей після успіху такої операції в окупованому місті Олешки Херсонської області, повідомив президент України Володимир Зеленський.",
+    "3a780bd72048c70d": "Зеленський назвав населені пункти лівобережжя Херсонщини для гуманітарної евакуації за прикладом Олешок. Президент України Володимир Зеленський назвав дев’ять населених пунктів Херсонської області, для яких Україна пропонує організувати гуманітарні місії за прикладом евакуації жителів Олешок. Про це Зеленський повідомив в аудіокоментарі українським журналістам, передає УП. До переліку увійшли Раденськ, Костогризове, Гола Пристань, Стара Збур’ївка, Нова Збур’ївка, Гладківка, Великі Копані, Кардашинка та Велика Кардашинка. Також до переліку входять населені [...] Запис Зеленський назвав населені пункти лівобережжя Херсонщини для гуманітарної евакуації за прикладом Олешок спершу з'явиться на Мост .",
+    "1cd3495d9ac9304c": "Президент озвучив населені пункти, де Україна пропонує провести гуманітарну місію за прикладом Олешок. Це населені пункти Запорізької та Херсонської областей.",
+    "330e3caec4e5ad54": "Зеленський назвав тимчасово окуповані населені пункти, евакуацію з яких пропонує Україна. Зеленський назвав тимчасово окуповані населені пункти у Херсонській та Запорізькій областях, з яких Україна пропонує евакуацію цивільного населення за принципом Олешків",
+    "82362208082ea708": "Зеленський назвав населені пункти, де планують провести нові гуманітарні місії за прикладом Олешок. Зеленський назвав населені пункти Херсонської та Запорізької областей, де планують провести гуманітарні місії за прикладом Олешок. Список уже передали США.",
+    "1c90195e7c13588b": "Після успішної операції в Олешках. Україна запропонувала евакуювати людей з населених пунктів ще двох областей — Зеленський. Україна запропонувала американській стороні організувати гуманітарну місію з евакуації жителів низки прифронтових населених пунктів Херсонської та Запорізької областей після успіху такої операції в окупованому місті Олешки Херсонської області.",
+    "95fbb731d7fc5c84": "Зеленський оголосив перелік із 15 населених пунктів, у яких Україна пропонує організувати гуманітарні місії. ",
+    "76297802e4bf322d": "Зеленський назвав населені пункти, де хочуть провести евакуацію, як в Олешках. Список вже передали США.",
+    "207b4284a9f19b8b": "Україна пропонує організувати гуманітарні місії за прикладом Олешків у 15 населених пунктах на окупованих територіях. ",
+    "6faf4474ce264c9f": "Україна запропонувала США провести евакуаційні місії у 15 населених пунктах Херсонщини та Запоріжжя. The post Україна запропонувала США провести евакуаційні місії у 15 населених пунктах Херсонщини та Запоріжжя appeared first on Фарватер. Схід .",
+    "b6c1b94d2193906e": "Україна пропонує провести гуманітарні місії за прикладом Олешків у 15 населених пунктах. Президент України Володимир Зеленський назвав 15 тимчасово окупованих населених пунктів на Херсонщині та Запоріжжі, в яких Україна пропонує провести гуманітарну місію на зразок Олешків. Запис Україна пропонує провести гуманітарні місії за прикладом Олешків у 15 населених пунктах спершу з'явиться на Букви .",
+    "95f2c9ad60272575": "Зеленський назвав 15 населених пунктів для евакуації людей за прикладом Олешків. Президент Володимир Зеленський назвав 15 населених пунктів на тимчасово окупованих територіях Херсонської та Запорізької областей, де Україна пропонує провести гуманітарні місії з евакуації цивільних за прикладом Олешків. Про це глава держави повідомив в аудіокоментарі українським журналістам, передає «Українська правда». За словами президента, оновлений список він детально обговорив та підтвердив із головнокомандувачем ЗСУ Михайлом Драпатим, після … Continue reading Зеленський назвав 15 населених пунктів для евакуації людей за прикладом Олешків →",
+    "02bc823454fdf440": "Зеленський назвав населені пункти для евакуації за прикладом Олешків: шість з них — запорізькі. Президент Володимир Зеленський назвав 15 населених пунктів на тимчасово окупованих територіях Херсонської та Запорізької областей, для яких Україна пропонує організувати гуманітарні місії за прикладом евакуації з Олешків. Про це президент сказав в аудіокоментарі українським журналістам,... The post Зеленський назвав населені пункти для евакуації за прикладом Олешків: шість з них — запорізькі first appeared on Перший Запорізький .",
+    "2f684d36a3461334": "Досвід евакуації з Олешків пропонують застосувати ще у 9 населених пунктах Херсонщини. Україна передала Уповноваженому Верховної Ради України з прав людини та США список з 15 населених пунктів, де пропонує провести гуманітарні місії та евакуацію жителів за прикладом Олешків.",
+    "6ff24bcebaf4798f": "Зеленський назвав 15 окупованих населених пунктів, звідки Україна хоче евакуювати людей за прикладом Олешків. Україна запропонувала провести евакуацію людей із 15 населених пунктів на окупованих територіях Херсонської та Запорізької областей. Відповідний список уже передали американській стороні.",
+    "23bb695354804ecb": "Як в Олешках: села на Запоріжжі включили до списку для можливої евакуації. Україна пропонує організувати гуманітарні місії для евакуації людей із 15 населених пунктів на тимчасово окупованих територіях Запорізької та Херсонської областей. Серед них – шість населених пунктів Запорізької області. Евакуацію хочуть провести за прикладом операції в Олешках. Сообщение Як в Олешках: села на Запоріжжі включили до списку для можливої евакуації появились сначала на inform.zp.ua .",
+    "44e8863237aa7f5d": "Україна хоче повторити евакуаційну операцію з Олешків ще у 15 населених пунктах. Україна пропонує провести нові гуманітарні місії на тимчасово окупованих територіях Херсонської та Запорізької областей за прикладом евакуації людей з Олешків. Ідеться про 15 населених пунктів, жителі яких потребують допомоги. Як повідомив Центр вивчення окупації Петра Андрющенка, президент Володимир Зеленський оприлюднив перелік цих населених пунктів. Його вже передали українському омбудсмену та американській стороні. На Херсонщині до […]",
+    "513d695a10ad47f3": "Зеленський назвав окуповані населені пункти, з яких Україна пропонує евакуацію за прикладом Олешків. Президент Володимир Зеленський назвав тимчасово окуповані Росією населені пункти у Херсонській та Запорізькій областях, з яких Україна пропонує евакуацію цивільного населення за принципом Олешків. Про це президент повідомив журналістам, передає «Суспільне». Так, зазначається, що у Херсонській області Україна пропонує евакуацію з таких населених пунктів: Раденськ, Костогризове, Гола Пристань, Стара Збурівка, Нова Збурівка, Гладківка, Великі Копані,... Запис Зеленський назвав окуповані населені пункти, з яких Україна пропонує евакуацію за прикладом Олешків спершу з'явиться на Громадське радіо .",
+    "f454d7aee92b24e5": "Зеленський назвав 15 населених пунктів для евакуації до Різдва за прикладом Олешок. Президент України Володимир Зеленський в аудіокоментарі для українських журналістів назвав 15 населених пунктів на тимчасово окупованих територіях Херсонської та Запорізької областей, для яких Україна пропонує організувати гуманітарні місії за прикладом евакуації з Олешок. Про це 21 листопада...",
+    "201f1dd4811b78a0": "Зеленський назвав населені пункти Херсонщини для евакуації за прикладом Олешок. Україна запропонувала організувати гуманітарну евакуацію жителів дев'яти населених пунктів лівобережжя Херсонщини за прикладом нещодавньої місії в окупованих Олешках.",
+    "8ce15f9b1d994f4f": "З шести населених пунктів Василівського району планують евакуювати населення за прикладом Олешок. Україна передала американським партнерам стороні та Уповноваженому з прав людини перелік населених пунктів Запорізької та Херсонської областей, із яких необхідно провести евакуацію населення, як це було з 27 жовтня по 1 листопада в окупованому місті Олешки під час узгодженого режиму тиші за посередництва США. Про це заявив Володимир Зеленський перед зустріччю з держсекретарем з питань […] Сообщение З шести населених пунктів Василівського району планують евакуювати населення за прикладом Олешок появились сначала на Локатор-Медіа .",
+    "bd98a0685620e91d": "Росія атакувала енергетичну та цивільну інфраструктуру Житомирщини: двоє постраждалих. Завдяки оперативній роботі рятувальників пожежі вдалося швидко ліквідувати.",
+    "3d5b197ff55f0db7": "Росіяни атакували залізничний вокзал на Житомирщині. Росія обстріляла вокзал у Овруцькій громаді Житомирщини, пошкоджена інфраструктура, одна людина поранена, ліквідовано пожежу.",
+    "29d24d554f401667": "Окупанти завдали удару по вокзалу на Житомирщині, є постраждалий. Російські війська атакували залізничний вокзал в Овруцькій громаді Житомирської області, унаслідок атаки постраждала цивільна особа.",
+    "56de9ef10fc34a2e": "Ворог атакував залізничний вокзал в Овруцькій громаді на Житомирщині, постраждала одна людина. У суботу ворог знову атакував Житомирщину, під ударом опинився залізничний вокзал в Овруцькій громаді, внаслідок ворожої атаки постраждала одна людина, повідомив очільник ОВА Віталій Бунечко.",
+    "15f6ada2a04210e7": "В Овруцькій громаді РФ атакувала вокзал: є поранений. Під російським ударом опинився залізничний вокзал в Овруцькій громаді, постраждала одна людина.",
+    "b6a56ed3d42039d9": "Російський дрон атакував залізничний вокзал на Житомирщині: що відомо про ситуацію. Вдень 21 листопада армія РФ реактивним дроном завдала удару по залізничному вокзалу в Овручі. На місці атаки виникла пожежа. Один чоловік отримав ушкодження",
+    "47a6fae098598948": "Росіяни атакували залізничний вокзал на Житомирщині. У суботу, 21 листопада, росіяни завдали удару по залізничному вокзалу на Житомирщині. На місці виникла пожежа, яку рятувальники ліквідували. Постраждалого госпіталізували.",
+    "769958d0ef69d3fa": "Сили РФ вдарили по залізничному вокзалу на Житомирщині, постраждав чоловік – ОВА. Сили РФ 21 листопада атакували залізничний вокзал в Овруцькій громаді на Житомирщині, повідомив голова обласної військової адміністрації Віталій Бунечко. За його словами, внаслідок російського удару постраждала одна людина – медики госпіталізували постраждалого до лікувального закладу, де йому надають допомогу. «На місці удару виникла пожежа. Завдяки злагодженим діям підрозділів ДСНС станом на 17:00 загоряння повністю ліквідовано», – зазначив місцевий чиновник. Російські військові...",
+    "5aac1f4c582252a7": "Російські війська вдарили по вокзалу на Житомирщині. Російські окупанти знову атакували Житомирщину. Цього разу під ударом опинився залізничний вокзал в Овруцькій громаді. Про це ввечері 21 листопада повідомив голова Житомирської ОВА Віталій Бунечко. Внаслідок ворожої атаки постраждала одна людина. Медики оперативно госпіталізували постраждалого до лікувального закладу, де йому надають необхідну допомогу. На місці удару виникла пожежа. Завдяки злагодженим діям підрозділів ДСНС станом […] The post Російські війська вдарили по вокзалу на Житомирщині first appeared on Новинарня .",
+    "913a932337503ac6": "Росія завдала удару по залізничному вокзалу на Житомирщині: є поранений. Війська РФ посилили обстріли залізничної інфраструктури.",
+    "3e06f32c9139fe43": "РФ вдарила по залізничному вокзалу на Житомирщині: є постраждалий. Російські окупанти атакували залізничний вокзал в Овруцькій громаді Житомирської області. Унаслідок удару постраждала одна людина. Запис РФ вдарила по залізничному вокзалу на Житомирщині: є постраждалий спершу з'явиться на Букви .",
+    "e6d3a5fd18c2c91c": "Окупанти атакували залізничний вокзал на Житомирщині. Російські окупанти знову атакували Житомирщину. Цього разу під ворожим ударом був залізничний вокзал в Овруцькій громаді. Про це повідомив начальник Житомирської обласної військової адміністрації Віталій Бунечко. За його словами, внаслідок ворожої атаки постраждала одна людина: «Медики оперативно госпіталізували постраждалого до лікувального закладу, де йому надають необхідну допомогу». Також повідомляється, що на місці удару виникла пожежа.... Запис Окупанти атакували залізничний вокзал на Житомирщині спершу з'явиться на Громадське радіо .",
+    "9006d7bff19bd3ff": "Росіяни атакували залізничний вокзал на Житомирщині. Російські війська в суботу, 21 листопада, атакували залізничний вокзал в Овруцькій громаді Житомирської області. Внаслідок удару постраждала одна людина.",
+    "9fdaadd6c74a3740": "росія атакувала реактивним дроном залізничний вокзал на Житомирщині: є постраждалий. Вдень 21 листопада росіяни реактивним дроном завдали удару по залізничному вокзалу в Овручі. На місці атаки виникла пожежа. Один чоловік отримав ушкодження. Про це пише Рубрика, посилаючись на Суспільне. Начальник Житомирської ОВА Віталій Бунечко інформував, що під ударом опинився залізничний вокзал в Овруцькій громаді. Внаслідок ворожої атаки постраждала одна людина. \"Медики оперативно госпіталізували постраждалого до […] The post росія атакувала реактивним дроном залізничний вокзал на Житомирщині: є постраждалий appeared first on Рубрика .",
+    "a76c72d6846f4365": "Обстріл Коростенського району: двоє постраждалих. У суботу вдень, 21 листопада, російські війська завдали чергового удару по Коростенському району Житомирської області, внаслідок чого постраждали двоє місцевих жителів.",
+    "f7c60dcd41e72553": "Понад 10 атак на Дніпропетровщину: росіяни били по п’яти районах. У ніч проти 22 листопада російські війська понад 10 разів атакували п’ять районів Дніпропетровської області безпілотниками та авіабомбою. За попередніми даними, люди не постраждали. The post Понад 10 атак на Дніпропетровщину: росіяни били по п’яти районах appeared first on Dnipro.media .",
+    "5437fb1c706e77bd": "На Житомирщині поліція розшукує зниклу 50-річну жительку Андрушівської громади. На Житомирщині поліція просить допомоги у пошуках безвісти зниклої 50-річної жінки, яка на початку вересня пішла з дому і не повернулася. Пошуки поліції не дали результатів, тож, правоохоронці звертаються до людей по допомогу",
+    "478bdb861edc86e4": "Студент з Волині отримав відзнаку президента «Майбутнє України». До дня захисту дітей президент нагородив 17 дітей і підлітків відзнаками «Майбутнє України». Серед нагороджених — студент з Волині Роман Недбайло",
+    "3105771f73e0f695": "Студент з Нововолинська отримав відзнаку Президента України. Студент Нововолинського центру професійної освіти Роман Недбайло отримав відзнаку Президента України «Майбутнє України». Її Глава держави вручив Роману під час зустрічі з дітьми з різних куточків України, у День захисту дітей. Про це повідомив на своїй сторінці у «Фейсбук» т.в.о. начальника Волинської ОВА Роман Романюк. «Роман – один із тих, хто не чекає слушного моменту, […] The post Студент з Нововолинська отримав відзнаку Президента України appeared first on Волинь Online .",
+    "c90b82a6131d853e": "Енергетики оприлюднили графік відключення на Волині на 22 листопада. 22 листопада на Волині планують вимикати світло за графіком для п'яти із шести черг споживачів. Впродовж дня в графіку можливі зміни",
+    "04187d974a30c45b": "На Волині оновили графіки погодинного відключення електроенергії. Графік погодинного відключення електроенергії у Волинській області на 21 листопада оновили станом на 23:02. Про це повідомили на сторінці ПрАТ «Волиньобленерго» у «Фейсбук». Через складну ситуацію в енергосистемі завтра, 21 листопада, на території Волинської області будуть застосовуватись заходи обмеження споживання. Графіки погодинного відключення діють в такому обсязі: підчерга 1.1: 00:00-05:00 14:00-17:30 21:00-24:00 підчерга 1.2: 00:00-05:00 […] The post На Волині оновили графіки погодинного відключення електроенергії appeared first on Волинь Online .",
+    "eede1dc1970a6117": "У Луцьку триває цикл лекцій від провідних істориків України та Литви. На базі Луцького національного технічного університету спільно з Інститутом історії Литви (Lietuvos istorijos institutas) стартував масштабний освітній проєкт — онлайн-цикл лекцій «Велике князівство Литовське: історія, суспільство, джерела». Ініціатива приурочена до наближення знакової дати — 600-річчя З’їзду монархів європейських держав у Луцьку, яке відзначатимуть у 2029 році. Про це йдеться на сайті Луцької міськради. Поштовхом до […] The post У Луцьку триває цикл лекцій від провідних істориків України та Литви appeared first on Волинь Online .",
+    "361b9c1ccea0ff12": "Графік погодинних відключень світла на Хмельниччині 22 листопада. Завтра, 22 листопада, на Хмельниччині буде діяти графік погодинних відключень світла. Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності",
+    "0e10bcede5c188ca": "Графік відключень електроенергії у Хмельницькій області на 22 листопада. Знеструмлення застосовуватимуть для всіх 12 підчерг.",
+    "2d9e013c52f39dd7": "Бронювання священників від військової служби: скільки духовенства на Хмельниччині отримало відстрочку від мобілізації. Станом на початок листопада 2026 року у Хмельницькій області 353 священники забронювали від призову на військову службу під час мобілізації. Серед них є представники релігійних організацій різного напрямку та конфесій",
+    "efb395c5fedaac52": "На Хмельниччині водій отримав 8 років ув’язнення за ДТП, в якій загинуло п’ятеро членів родини. У суді обвинувачений вини не визнав, наполягаючи на винуватості іншого водія.",
+    "1ed56c5ef6535097": "У засвіти пішов відомий закарпатський лікар та духівник Степан Біляк. На 83-му році з життя пішов ієромонах Агапіт, у миру — Степан Біляк.",
+    "8e789ecb4346da45": "Помер заслужений лікар України, засновник клініки в Ужгороді Степан Біляк. Помер Степан Біляк, засновник клініки в Ужгороді, заслужений лікар України. Степан Біляк також був священнослужителем та мав духовне ім'я Агапіт",
+    "64473e8af9476f69": "Пішов із життя заслужений лікар України Степан Біляк. Степан Біляк був заслуженим лікарем України, священнослужителем і активним громадським діячем Закарпаття.",
+    "8e4f94801c67afdd": "Міністри України та Угорщини вшанували пам'ять жертв сталінських репресій на Закарпатті. Пам'ять жертв сталінських репресій вшанували у Меморіальному парку у Сваляві на Закарпатті. У заході взяли участь віцепрем'єр-міністерка України з гуманітарної політики — міністерка культури України Тетяна Бережна",
+    "b14243333d00a881": "На Закарпатті можуть збудувати два заводи з виробництва водню: що відомо про проєкти. На Закарпатті розглядають можливість будівництва двох підприємств із виробництва водню — у Сюртівській громаді поблизу Ужгорода та Великолучківській громаді неподалік Мукачева. Один із проєктів передбачає виробництво 52 тисяч тонн водню на рік, інший — створення потужного виробництва з перспективою збільшення потужності електролізної установки до 1,5 ГВт. Водночас обидві локації поки мають статус можливих. Про це […] The post На Закарпатті можуть збудувати два заводи з виробництва водню: що відомо про проєкти appeared first on Рубрика ."
+  },
+  "budget_characters": 1659,
+  "characters": 1436,
+  "stories": 3,
+  "retold": 3,
+  "log": {
+    "llm": {
+      "model": "claude-opus-5-5",
+      "input_tokens": 25731,
+      "output_tokens": 2144,
+      "request_id": "req_011ChHTNYUKuj3uw8oYUzgcJ"
+    },
+    "rejected": [
+      {
+        "story_ids": [
+          "national-c-10dd50ebe926f3e2"
+        ],
+        "text": "Унаслідок російської атаки на Запоріжжя 21 листопада постраждали 3 людини, серед них 2 дітей. Пошкоджено будинки, виникли пожежі. Рух мостами та греблею ДніпроГЕС перекривали, згодом його повністю відновили.",
+        "problems": [
+          "не знайдено в джерелах: number «3»"
+        ]
+      },
+      {
+        "story_ids": [
+          "national-c-4ae149a04ea1aa83"
+        ],
+        "text": "Унаслідок обстрілів Херсонщини постраждали 5 людей. Окупанти пошкодили багатоповерхівку та 4 приватні будинки.",
+        "problems": [
+          "не знайдено в джерелах: number «5»",
+          "не знайдено в джерелах: number «4»"
+        ]
+      }
+    ],
+    "fallback": [
+      "national-c-10dd50ebe926f3e2"
+    ],
+    "dropped_relative_time": [
+      "national-c-4ae149a04ea1aa83"
+    ],
+    "left_out": [
+      "national-c-11a5b5b52be979dd",
+      "national-c-174fed8dfef75f0e",
+      "national-c-27ef5ddab3b598c9",
+      "regional-c-12496545d2efa91d",
+      "regional-c-1c8ca9aec388a345",
+      "regional-c-27e8d4b00cc7d28d",
+      "regional-c-c9481a7e0d687795"
+    ],
+    "freshened": [
+      {
+        "story": [
+          "regional-c-15f6ada2a04210e7"
+        ],
+        "old": "Як повідомив голова Житомирської ОВА Віталій Бунечко, постраждала одна людина.",
+        "new": "Росія атакувала енергетичну та цивільну інфраструктуру Житомирщини: двоє постраждалих."
+      }
+    ],
+    "strikes_digest": {
+      "merged": true,
+      "stories": 3,
+      "killed": 0,
+      "injured": 5,
+      "apart": []
+    },
+    "cut_for_budget": [
+      [
+        "national-c-03f8d269ee7cc0d2"
+      ]
+    ]
+  },
+  "script_sha256": "b7c202725cba9454a70bd30e880a8ae32057cb2efe1c4dfbed1a03fb4800ed9f",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок двадцять другого листопада: масштабні знеструмлення на Одещині, заява Зеленського про удари по мостах та пропозиція евакуації з окупованих населених пунктів.\nУнаслідок російських ударів за добу в Україні поранено щонайменше 5 людей.\nНайбільше постраждалих на Запоріжжі та Житомирщині.\nНа Одещині тривають масштабні знеструмлення через постійні російські удари по енергетиці.\nРосійські війська атакували Запоріжжя, поранено дитину у Вознесенівському районі.\nРосіяни 21 листопада вдарили реактивним дроном по залізничному вокзалу в Овручі.\nЗеленський заявив, що до українського удару по Керченському мосту Росія 109 разів атакувала українські мости.\nВін сказав це 21 листопада перед зустріччю з міністром оборони Британії Весом Стрітінгом.\nЗа словами Хмари, Росії може знадобитися кілька місяців, щоб підняти пошкоджену конструкцію мосту.\nЗеленський назвав 15 окупованих населених пунктів Херсонщини та Запоріжжя, де Україна пропонує гуманітарні місії за прикладом евакуації з Олешок.\nСеред них Гола Пристань.\nСписок передали США та омбудсману.\nЦе був BRIEF станом на ранок двадцять другого листопада. Посилання на першоджерела — на сайті BRIEF."
+}
