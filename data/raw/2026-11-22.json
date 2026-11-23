@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-23T00:52:35+00:00",
-  "source_count": 99,
-  "item_count": 1813,
+  "generated_at": "2026-11-23T05:58:31+00:00",
+  "source_count": 100,
+  "item_count": 1840,
   "items": [
     {
       "id": "6154bdd4ec3c8dac",
@@ -67,7 +67,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://radiosvoboda.org/a/news-hory-rumuniya-ukrayintsi/33903618.html",
-      "title": "У горах Румунії загинув українець, який незаконно перетнув кордон, двох врятували",
+      "title": "У горах Румунії загинув українець, який незаконно перетнув кордон, двох врятували – поліція",
       "published_at": "2026-11-22T21:58:00+00:00",
       "published_raw": "Sun, 22 Nov 2026 23:58:00 +0200",
       "fetched_at": "2026-11-23T00:52:35+00:00",
@@ -274,6 +274,23 @@
       "status": "new"
     },
     {
+      "id": "8c5953f0949ed6de",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1456184-druge-vlucanna-u-harkovi-za-vecir-rosiani-vdarili-dronom-po-gotelu",
+      "title": "Друге влучання у Харкові за вечір: росіяни вдарили дроном по готелю",
+      "published_at": "2026-11-22T21:29:13+00:00",
+      "published_raw": "Sun, 22 Nov 2026 23:29:13 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Ввечері 22 листопада росіяни атакували будівлю готелю у Холодногірському районі Харкова. Це вже друге влучання у місті за вечір і третє — з початку доби. За медичною допомогою звернувся охоронець",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "6dbdad9aa89c9562",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
@@ -332,6 +349,23 @@
         "відключення світла Вознесенівський",
         "відключення світла Запоріжжя"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "fd4f51c22b1807c2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-23-listopada-2026-roku",
+      "title": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 23 листопада 2026 року",
+      "published_at": "2026-11-22T21:21:28+00:00",
+      "published_raw": "Sun, 22 Nov 2026 23:21:28 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео, коментарі з фронту",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -396,6 +430,23 @@
       "status": "new"
     },
     {
+      "id": "718b3c20fc4eb3d2",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/zaporizhzhia/1456168-pogodinni-vidklucenna-svitla-v-zaporizkij-oblasti-grafik-na-23-listopada",
+      "title": "Погодинні відключення світла в Запорізькій області: графік на 23 листопада",
+      "published_at": "2026-11-22T21:18:06+00:00",
+      "published_raw": "Sun, 22 Nov 2026 23:18:06 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "23 листопада у Запоріжжі та Запорізькій області діятимуть графіки погодинних відключень електроенергії: обмеження передбачені для всіх 12 підчерг упродовж доби",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "2c60accd42366cd3",
       "source_id": "map-899",
       "source": "Громада. Груп",
@@ -448,6 +499,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9b606d3cf50b5c71",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kharkiv/1456123-na-harkivsini-23-listopada-diatimut-pogodinni-vidklucenna-ak-vimikatimut-svitlo",
+      "title": "На Харківщині 23 листопада діятимуть погодинні відключення: як вимикатимуть світло",
+      "published_at": "2026-11-22T21:14:52+00:00",
+      "published_raw": "Sun, 22 Nov 2026 23:14:52 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "23 листопада на Харківщині через складну ситуацію в об'єднаній енергосистемі діятимуть графіки погодинних відключень світла. Дізнайтеся, коли не буде світла за чергами та підчергами",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -967,6 +1035,40 @@
       "status": "new"
     },
     {
+      "id": "a560f34a97209266",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1456176-vvazali-zniklim-bezvisti-pidtverdilasa-zagibel-vijskovogo-z-frankivsini-nazara-skorogo",
+      "title": "Вважали зниклим безвісти. Підтвердилася загибель військового з Франківщини Назара Скорого",
+      "published_at": "2026-11-22T20:45:44+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:45:44 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У листопаді 2026 року за допомогою ДНК-експертизи підтвердили загибель воїна з Івано-Франківської громади Назара Скорого. Він поліг 2 грудня 2024 на Донеччині",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "99f1c2a4b5f9f59a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/chernivtsi/1455992-u-cerniveckij-oblasti-23-listopada-diut-grafiki-vidklucenna-elektriki-oblenergo",
+      "title": "У Чернівецькій області 23 листопада діють графіки відключення електрики — обленерго",
+      "published_at": "2026-11-22T20:45:26+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:45:26 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У понеділок, 23 листопада, у Чернівецькій області вимикають електрику за графіком. Режим роботи графіків може змінюватися протягом доби",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "56426a9579b5b0a1",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1005,6 +1107,23 @@
       "status": "new"
     },
     {
+      "id": "89af1b15104a3aaf",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1456179-vidklucenna-svitla-na-mikolaivsini-23-listopada-grafiki-diatimut-protagom-dobi",
+      "title": "Відключення світла на Миколаївщині 23 листопада: графіки діятимуть протягом доби",
+      "published_at": "2026-11-22T20:43:14+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:43:14 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У Миколаївській області 23 листопада діятимуть графіки погодинних відключень електроенергії. Обмеження електропостачання триватимуть протягом доби.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "4fb3d094c3c5b1dd",
       "source_id": "map-683",
       "source": "Харків Times",
@@ -1019,6 +1138,23 @@
       "categories": [
         "Війна"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "6aa5aa54f6e71897",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1456162-denis-berincik-oderzav-persu-peremogu-pisla-prograsu-titulnogo-bou",
+      "title": "Денис Берінчик одержав першу перемогу після програшу титульного бою",
+      "published_at": "2026-11-22T20:42:21+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:42:21 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Денис Берінчик: ексчемпіон світу з боксу, поєдинок в рукавицях MMA, бій проти Бовара Ханакова, результат поєдинку, як пройшов бій в Києві",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1062,6 +1198,23 @@
       "status": "new"
     },
     {
+      "id": "ed73e09f0ec2acd9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/uzhhorod/1456177-na-zakarpatti-23-listopada-zastosuvali-grafiki-pogodinnih-vidklucen-elektroenergii",
+      "title": "На Закарпатті 23 листопада застосували графіки погодинних відключень електроенергії",
+      "published_at": "2026-11-22T20:38:42+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:38:42 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "На Закарпатті 23 листопада для споживачів запроваджують графіки погодинних відключень електроенергії. Про це повідомили у Закарпаттяобленерго.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ddcbfc1ba432a5c1",
       "source_id": "map-1179",
       "source": "ЗMI.ck.ua",
@@ -1076,6 +1229,23 @@
       "categories": [
         "Политика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "128dd116cd2bc3c9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/cherkasy/1455994-na-cerkasini-vimikatimut-svitlo-grafiki-na-23-listopada",
+      "title": "На Черкащині вимикатимуть світло: графіки на 23 листопада",
+      "published_at": "2026-11-22T20:37:48+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:37:48 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У Черкаській області 23 листопада для населення діятимуть погодинні графіки відключення світла. Про це повідомили у «Черкасиобленерго»",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1102,13 +1272,30 @@
       "status": "new"
     },
     {
+      "id": "17915c50cc6636fd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1456170-u-polsi-vstanovili-so-povitranij-prostir-kraini-porusili-tri-rosijski-raketi-h-101",
+      "title": "У Польщі встановили, що повітряний простір країни порушили три російські ракети Х-101",
+      "published_at": "2026-11-22T20:35:21+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:35:21 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Уламки ракет знайшли на території населених пунктів Новий Липовець, Рудник та Молодич. Попередні висновки також свідчать про те, що всі три ракети були виготовлені в четвертому кварталі 2026 року",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "23e57d2671b67d21",
       "source_id": "map-894",
       "source": "Інтерфакс-Україна",
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://interfax.com.ua/news/general/1240506.html",
-      "title": "США, Україна, Європа та РФ найближчими тижнями проведуть консультації щодо архітектури європейської безпеки – Кушнер",
+      "title": "США, Україна, Європа та РФ найближчими тижнями проведуть консультації щодо архітектури європейської безпеки",
       "published_at": "2026-11-22T20:35:11+00:00",
       "published_raw": "Sun, 22 Nov 2026 22:35:11 +0200",
       "fetched_at": "2026-11-23T00:52:35+00:00",
@@ -1224,6 +1411,23 @@
       "status": "new"
     },
     {
+      "id": "da377980e765f380",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/news-porushennya-pid-chas-roboti-tsk-ne-vidpovidayut-evrointegratsiynim-pragnennyam-ukraini-pravozakhisnik-zakharov",
+      "title": "Порушення під час роботи ТСК не відповідають євроінтеграційним прагненням України, – правозахисник Захаров",
+      "published_at": "2026-11-22T20:30:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:30:00 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Про це заявив правозахисник, директор благодійного фонду \"Людина і право\", голова правління ГО \"Гуманітарна студія \"Хвиля\" Борис Захаров в ефірі програми \"Тепер головне\" на Еспресо. Коментуючи ситуацію навколо роботи тимчасової слідчої комісії Верховної Ради та публічного поширення матеріалів, пов'язаних із розслідуваннями, Захаров зазначив, що проблеми є в обох сторін конфлікту. \"Не можна сказати, що одна сторона повністю біла і пухнаста, а інша сторона повністю чорна. Все достатньо противно виглядає, чесно кажучи, в цій історії\", — сказав правозахисник.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "c3ffcfb798ca2e7c",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -1238,6 +1442,23 @@
       "categories": [
         "Спорт"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "16ab82d9e6074896",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/rivne/1456156-koli-vimikatimut-elektroenergiu-23-listopada-na-rivnensini",
+      "title": "Коли вимикатимуть електроенергію 23 листопада на Рівненщині",
+      "published_at": "2026-11-22T20:27:15+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:27:15 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Графік погодинних знеструмлень діятимуть 23 листопада на Рівненщині. Його застосовують через наслідки російських атак на енергооб'єкти.",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1262,6 +1483,40 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "0ea53f2e35859d10",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla",
+      "title": "23 листопада на Волині діятимуть графіки відключення світла",
+      "published_at": "2026-11-22T20:26:45+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:26:45 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "23 листопада енергетики планують обмежувати електропостачання побутовим споживачам за графіком. Також світло вимикатимуть для бізнеса і промисловості",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "3833e5a79ac882cc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/kropyvnytskiy/1456171-vidklucenna-elektriki-grafik-dla-kirovogradsini-na-23-listopada",
+      "title": "Відключення електрики: графік для Кіровоградщини на 23 листопада",
+      "published_at": "2026-11-22T20:26:34+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:26:34 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "На Кіровоградщині 23 листопада вимикатимуть електрику за погодинним графіком. Його застосовують, щоб зменшити навантаження на мережі та підтримати баланс енергосистеми",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1337,6 +1592,23 @@
       "status": "new"
     },
     {
+      "id": "95477d0f3f518aa9",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/sport/1456169-karlos-alkaras-vperse-vigrav-atp-finals-i-povtoriv-istoricne-dosagnenna-dzokovica-ta-federera",
+      "title": "Карлос Алькарас вперше виграв ATP Finals і повторив історичне досягнення Джоковича та Федерера",
+      "published_at": "2026-11-22T20:21:37+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:21:37 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Карлос Алькарас: іспанський тенісист, фінальний поєдинок Підсумкового турніру ATP, перша перемога в кар'єрі, як пройшов матч за трофей",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "675eea9303081588",
       "source_id": "lb",
       "source": "LB.ua",
@@ -1356,6 +1628,23 @@
       "status": "new"
     },
     {
+      "id": "ff3a65459f0c61b6",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/mykolaiv/1456175-u-mikolaevi-bulo-cutno-vibuhi-so-vidomo-3",
+      "title": "У Миколаєві було чутно вибухи: що відомо",
+      "published_at": "2026-11-22T20:20:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:20:00 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У Миколаєві ввечері 22 листопада було чутно звуки вибухів. У Повітряних Силах попереджали про російські дрони в області. Вибухи чули кореспонденти Суспільного . Хроніка подій Повітряну тривогу в Миколаївському районі оголосили о 2",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "ded24db570978517",
       "source_id": "ukrinform",
       "source": "Укрінформ",
@@ -1370,6 +1659,57 @@
       "categories": [
         "Політика"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "84388f601222502b",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/viyna-z-rosiyeyu-urazhennya-kerchenskogo-mostu-mozhe-nadovgo-uskladniti-sudnoplavstvo-na-volzi-y-donu-ta-spoluchennya-z-kaspiem-gonchar",
+      "title": "Ураження Керченського мосту може надовго ускладнити судноплавство на Волзі й Дону та сполучення з Каспієм, – Гончар",
+      "published_at": "2026-11-22T20:18:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:18:00 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Про це заявив експерт з міжнародних енергетичних та безпекових відносин, президент Центру глобалістики \"Стратегія ХХІ\" Михайло Гончар в ефірі програми \"Східний щит\" на Slawa TV та Еспресо. За його словами, проблеми із судноплавством через Азовське море почалися ще влітку 2026 року, коли Сили оборони України завдали системних ударів по російських об'єктах у Приазов'ї та акваторії Азовського моря. Це суттєво скоротило судновий трафік через регіон і Керченську протоку.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "60dab295da55b808",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/ivano-frankivsk/1456173-grafiki-pogodinnih-vimknen-elektroenergii-na-ivano-frankivsini-23-listopada",
+      "title": "Графіки погодинних вимкнень електроенергії на Івано-Франківщині 23 листопада",
+      "published_at": "2026-11-22T20:16:58+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:16:58 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "23 листопада 2026 року на Івано-Франківщині для побутових споживачів і бізнесу діятимуть графіки погодинних вимкнень електроенергії. Світло вимикатимуть від 3,5 до 7 годин",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "4111852a2c4e32fc",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/khmelnytskiy/1456067-vidklucenna-svitla-na-hmelniccini-povidomili-grafik-na-23-listopada",
+      "title": "Відключення світла на Хмельниччині: повідомили графік на 23 листопада",
+      "published_at": "2026-11-22T20:16:47+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:16:47 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "23 листопада на Хмельниччині буде діяти графік погодинних відключень світла. Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -1635,6 +1975,23 @@
       "status": "new"
     },
     {
+      "id": "31196ba8f72c7331",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/poltava/1456103-ak-u-poltavskij-oblasti-23-listopada-vidklucatimut-svitlo-grafiki",
+      "title": "Як у Полтавській області 23 листопада відключатимуть світло: графіки",
+      "published_at": "2026-11-22T20:00:42+00:00",
+      "published_raw": "Sun, 22 Nov 2026 22:00:42 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У Полтавській області через обстріли РФ 23 листопада діятимуть погодинні відключення електроенергії (ГПВ). Дізнатися графік та свою чергу - у матеріалі",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "adf5158f81eb2b33",
       "source_id": "map-365",
       "source": "Твоє місто",
@@ -1752,6 +2109,23 @@
       "status": "new"
     },
     {
+      "id": "fa776b364cdca77a",
+      "source_id": "espreso",
+      "source": "Еспресо",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://espreso.tv/svit-u-livii-bezpilotniki-atakuvali-korvet-rf-merkuriy-na-bortu-stavsya-potuzhniy-vibukh-osint",
+      "title": "Вже 3 судна РФ уразили в Лівії, які забезпечували військові вантажі з Балтійська: один затонув, – OSINT",
+      "published_at": "2026-11-22T19:56:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 21:56:00 +0200",
+      "fetched_at": "2026-11-22T19:39:12+00:00",
+      "description": "Про це повідомляють OSINT-аналітики. Що відомо про атаку на корвет РФ \"Меркурій\"За даними OSINT-проєкту \"Око Гора\", вночі в одному з портів Лівії безпілотники (або безекіпажні катери) атакували російський корвет \"Меркурій\", який часто супроводжує вантажні судна. Після цього Flightradar зафіксував російський Іл-76 служб екстреної допомоги, що летів до Лівії. Згодом проєкт додав, що знімки підтверджують атаку, і послався на телеграм-канал \"Стратегічна авіація\". Той стверджує, що 22 листопада корвет повністю знищений і затонув унаслідок удару безпілотників.",
+      "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d4c39057fee6477a",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -1806,6 +2180,23 @@
       "categories": [
         "Регіони"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "72fb06dc74a75efd",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/lviv/1456145-na-lvivsini-23-listopada-diatimut-grafiki-pogodinnogo-vimknenna-svitla",
+      "title": "На Львівщині 23 листопада діятимуть графіки погодинного вимкнення світла",
+      "published_at": "2026-11-22T19:54:43+00:00",
+      "published_raw": "Sun, 22 Nov 2026 21:54:43 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "У понеділок, 23 листопада, на Львівщині будуть діяти графіки погодинного відключення електроенергії. Як вимикатимуть світло у Львові та області?",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2023,6 +2414,23 @@
       "categories": [
         "Світ"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "78a1e5b4cbdc8627",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1456164-tramp-zaaviv-so-shilnij-vidnoviti-udari-po-iranu-akso-obidvi-kraini-ne-ukladut-ugodu-pro-pripinenna-vijni",
+      "title": "Трамп заявив, що схильний відновити удари по Ірану, якщо обидві країни не укладуть угоду про припинення війни",
+      "published_at": "2026-11-22T19:41:57+00:00",
+      "published_raw": "Sun, 22 Nov 2026 21:41:57 +0200",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Трамп назвав поточні дипломатичні переговори з Тегераном беззмістовними та звинуватив іранських переговірників у затягуванні процесу",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -2699,23 +3107,6 @@
       "status": "new"
     },
     {
-      "id": "fa776b364cdca77a",
-      "source_id": "espreso",
-      "source": "Еспресо",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://espreso.tv/svit-u-livii-bezpilotniki-atakuvali-korvet-rf-merkuriy-na-bortu-stavsya-potuzhniy-vibukh-osint",
-      "title": "У Лівії уразили два судна РФ, які забезпечували військові вантажі з Балтійська: один затонув, – OSINT",
-      "published_at": "2026-11-22T19:12:00+00:00",
-      "published_raw": "Sun, 22 Nov 2026 21:12:00 +0200",
-      "fetched_at": "2026-11-22T19:39:12+00:00",
-      "description": "Про це повідомляють OSINT-аналітики. Що відомо про атаку на корвет РФ \"Меркурій\"За даними OSINT-проєкту \"Око Гора\", вночі в одному з портів Лівії безпілотники (або безекіпажні катери) атакували російський корвет \"Меркурій\", який часто супроводжує вантажні судна. Після цього Flightradar зафіксував російський Іл-76 служб екстреної допомоги, що летів до Лівії. Згодом проєкт додав, що знімки підтверджують атаку, і послався на телеграм-канал \"Стратегічна авіація\". Той стверджує, що 22 листопада корвет повністю знищений і затонув унаслідок удару безпілотників.",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "997c0c314227abd3",
       "source_id": "babel",
       "source": "Бабель",
@@ -2781,7 +3172,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://suspilne.media/kharkiv/1456149-u-harkovi-rosijskij-sahed-vluciv-u-ditacij-sadok-terehov",
-      "title": "У Харкові російський «Шахед» влучив у дитячий садок — Терехов",
+      "title": "У Харкові російський «Шахед» влучив у дитячий садок — Терехов (фото)",
       "published_at": "2026-11-22T19:07:26+00:00",
       "published_raw": "Sun, 22 Nov 2026 21:07:26 +0200",
       "fetched_at": "2026-11-22T19:39:12+00:00",
@@ -4049,6 +4440,23 @@
       "categories": [
         "Діаcпора"
       ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "50fc2df9f3e95e1a",
+      "source_id": "suspilne",
+      "source": "Суспільне Новини",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini",
+      "title": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
+      "published_at": "2026-11-22T18:19:04+00:00",
+      "published_raw": "Sun, 22 Nov 2026 20:19:04 +0200",
+      "fetched_at": "2026-11-22T19:39:12+00:00",
+      "description": "Троє громадян України, ймовірно, заблукали в горах поблизу держкордону. У повідомленні йдеться, що перед цим вони нібито нелегально перетнули кордон з України до Румунії",
+      "categories": [],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -5651,6 +6059,25 @@
         "Тарифи",
         "тариф",
         "пенсіонери"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "e33b288c659ce5ae",
+      "source_id": "map-707",
+      "source": "Thebuchacity",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://thebuchacity.com/v-ukrayini-stvoryat-platformu-dlya-povidomlen-pro-vidsutnist-svitla-tepla-ta-vody",
+      "title": "В Україні створять платформу для повідомлень про відсутність світла, тепла та води",
+      "published_at": "2026-11-22T17:32:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 17:32:00 +0000",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Мінцифри разом із Мінрегіоном найближчим часом запустить єдину цифрову платформу, через яку українці зможуть повідомляти про відсутність базових комунальних послуг. Зібрані дані допоможуть бачити реальну ситуацію в регіонах і оперативно реагувати на проблеми в режимі 24/7. Ви можете підтримати роботу незалежного медіа Бучанської громади Thebuchacity підпискою або довільним донатом, аби ми могли готувати для вас нові […] The post В Україні створять платформу для повідомлень про відсутність світла, тепла та води appeared first on Thebuchacity .",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -8500,23 +8927,6 @@
       "status": "new"
     },
     {
-      "id": "50fc2df9f3e95e1a",
-      "source_id": "suspilne",
-      "source": "Суспільне Новини",
-      "geography": "national",
-      "source_region": null,
-      "url": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini",
-      "title": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
-      "published_at": "2026-11-22T16:19:04+00:00",
-      "published_raw": "Sun, 22 Nov 2026 18:19:04 +0200",
-      "fetched_at": "2026-11-22T19:39:12+00:00",
-      "description": "Троє громадян України, ймовірно, заблукали в горах поблизу держкордону. У повідомленні йдеться, що перед цим вони нібито нелегально перетнули кордон з України до Румунії",
-      "categories": [],
-      "date_issues": [],
-      "content_signals": {},
-      "status": "new"
-    },
-    {
       "id": "582f2ff43bc9038f",
       "source_id": "map-298",
       "source": "Реальна газета",
@@ -10760,6 +11170,26 @@
         "Одеса",
         "військова академія",
         "стипендії"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ab75e5a94f0fe055",
+      "source_id": "map-707",
+      "source": "Thebuchacity",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://thebuchacity.com/23-lystopada-den-zhaloby-v-kyyivskij-oblasti",
+      "title": "23 листопада — День жалоби в Київській області",
+      "published_at": "2026-11-22T15:29:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 15:29:00 +0000",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Завтра у Київській області оголошено День жалоби за загиблими внаслідок російської атаки 22 листопада. На знак скорботи та пам’яті в області приспустять Державні Прапори України. Роботу розважальних закладів обмежать, також закликали утриматися від гучного відтворення музики. Київська обласна військова адміністрація висловила співчуття родинам, які зазнали втрат. Ви можете підтримати роботу незалежного медіа Бучанської громади Thebuchacity підпискою […] The post 23 листопада — День жалоби в Київській області appeared first on Thebuchacity .",
+      "categories": [
+        "Новини",
+        "Київщина"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -15043,6 +15473,29 @@
       "description": "Власне виробництво силових установок розширює технічні можливості платформи, яка випускається у восьми версіях",
       "categories": [
         "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "541bf8348cea9984",
+      "source_id": "map-707",
+      "source": "Thebuchacity",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://thebuchacity.com/sportsmeny-z-buchi-ta-irpenya-zdobuly-18-medalej-na-vidkrytomu-kubku-kyyeva-z-thekvondo",
+      "title": "Спортсмени з Бучі та Ірпеня здобули 18 медалей на відкритому Кубку Києва з тхеквондо",
+      "published_at": "2026-11-22T13:25:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 13:25:00 +0000",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "21 листопада у Києві відбувся відкритий Кубок міста з тхеквондо ВТФ, який зібрав понад 400 спортсменів із Києва та Київської області. Бучанські та ірпінські спортсмени клубу «Вулкан» представили свої міста на змаганнях. Загалом 26 учасників вибороли 18 медалей: 7 золотих, 5 срібних та 6 бронзових. 🥇Золоті медалі:– Воронцов Назар (2017)– Янковська Уляна (2019)– Попов Артем […] The post Спортсмени з Бучі та Ірпеня здобули 18 медалей на відкритому Кубку Києва з тхеквондо appeared first on Thebuchacity .",
+      "categories": [
+        "Буча",
+        "Київщина",
+        "Новини",
+        "Бучанська громада",
+        "Бучанський район"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -27810,6 +28263,33 @@
       "status": "new"
     },
     {
+      "id": "1e92e83478201054",
+      "source_id": "map-93",
+      "source": "Новини Донбасу",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://novosti.dn.ua/news/408597-filashkinna-donechchyni-za-dobu-poraneni-pyatero-lyudej-poshkodzheni-desyatky-budynkiv",
+      "title": "Філашкін:На Донеччині за добу поранені п’ятеро людей, пошкоджені десятки будинків",
+      "published_at": "2026-11-22T08:00:00+00:00",
+      "published_raw": "Sun, 22 Nov 2026 08:00:00 +0000",
+      "fetched_at": "2026-11-23T05:58:31+00:00",
+      "description": "Російські війська 10 разів обстріляли населені пункти Донецької області. Унаслідок атак у Слов’янську поранені п’ятеро людей, пошкоджені житлові будинки, адміністративні будівлі та об’єкти інфраструктури, повідомив начальник ОВА Вадим Філашкін. У Слов’янську росіяни завдали двох авіаударів КАБ-250 та атакували місто дронами. Пошкоджені 11 багатоповерхівок, приватний будинок, два автомобілі, дві адміністративні будівлі, гуртожиток, крамниця та релігійна споруда. […]",
+      "categories": [
+        "Новини",
+        "головна новина",
+        "Прифронтовий Донбас",
+        "Вадим Філашкін",
+        "Донецька область"
+      ],
+      "date_issues": [],
+      "content_signals": {
+        "search": "yes",
+        "ai-train": "no",
+        "use": "reference"
+      },
+      "status": "new"
+    },
+    {
       "id": "00191f37846063a8",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -35034,6 +35514,12 @@
       "fetched": 1077,
       "added": 99,
       "errors": 4
+    },
+    {
+      "at": "2026-11-23T05:58:31+00:00",
+      "fetched": 1212,
+      "added": 27,
+      "errors": 1
     }
   ]
 }
