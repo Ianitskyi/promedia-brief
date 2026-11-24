@@ -1,0 +1,471 @@
+{
+  "date": "2026-11-24",
+  "variant": "daily",
+  "audio": "demo/2026-11-24-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 98.52,
+  "asr_mean_cer": 0.024,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "e1e624708bf8d0222fb2ce3d388570581a81c6ceadd6d98ef406af4a6e34ce8c",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-24-daily/intro.mp3",
+      "duration_sec": 13.2,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок двадцять четвертого листопада: затоплення російського корвета біля Лівії, масована атака дронів на Україну та знеструмлення на Дніпропетровщині."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Сім українських морських дронів атакували російські судна біля Лівії: Зеленський розкрив деталі операції",
+      "audio": "demo/2026-11-24-daily/story-1.mp3",
+      "duration_sec": 18.23,
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "odesa"
+      ],
+      "text": [
+        "Президент України Володимир Зеленський підтвердив, що українські морські дрони затопили російський корвет \"Меркурій\" із бойовим вертольотом Ка-27 на борту та уразили суховантаж MV ANGARA, який росія використовувала для перевезення озброєння.",
+        "Операція відбулася поблизу лівійського порту Бенгазі."
+      ],
+      "sources": [
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/countries/zelenskiy-pidtverdiv-zatoplennya-rosisyskogo-korvetu-merkuriy-poblizu-beregiv-liviji-50661568.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4187537-vzirceva-operacia-u-livii-zelenskij-pidtverdiv-udari-po-rosijskomu-korvetu-merkurij-suhovantazu-i-ka27.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/23/783036_zelenskiy_rosiyskiy_korvet.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/23/8064136"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/23/novyna/bezpeka/zelenskyj-pidtverdyv-zatoplennya-rosijskoho-korveta-merkurij-liviyi-detali-operacziyi-zsu"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240664.html"
+        },
+        {
+          "name": "Тексти",
+          "url": "https://texty.org.ua/fragments/118752/syly-oborony-znyshchyly-rosijskyj-vijskovyj-korvet-merkurij-suxovantazh-mv-angara-ta-vertolit-ka-27-bilya-liviyi-video"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/23/zelenskyj-pidtverdyv-ataku-po-rosijskykh-korabliakh-bilia-berehiv-livii"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326718-bilia-berehiv-livii-ukrainski-drony-zatopyly-korvet-rf-vertolotom"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/23/droniv-atakuvaly-rosijski-sudna"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/WORLD/merkurij-ascalon-zbroja-ta-zahibli-rosijani-podrobitsi-ostannikh-intsidentiv-u-portakh-liviji.html"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/ukrayinski-morski-drony-potopyly-rosijskyj-korvet-merkurij-poblyzu-liviyi"
+        },
+        {
+          "name": "Mind.ua",
+          "url": "https://mind.ua/news/20312577-ukrayinski-morski-droni-potopili-rosijskij-korvet-merkurij-bilya-liviyi-zelenskij"
+        },
+        {
+          "name": "#ШОТАМ",
+          "url": "https://shotam.info/ukrainski-viyskovi-znyshchyly-rosiyskyy-korabel-i-boyovyy-vertolit-bilia-livii-video"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/14027-ukrayinski-morski-drony-znyshchyly-bilya-liviyi-odyn-iz-naynovishykh-korabliv-rf--korvet-merkuriy"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/war/2026/rosiiskii-korvet-chornomorskogo-flotu-znishchili-v-portu-livii"
+        },
+        {
+          "name": "Громада. Груп",
+          "url": "https://gromada.group/news/vijna/chornij-den-dlya-rosijskogo-flotu-u-livijskogo-portu-bengazi-ukrayinski-droni-znishili-rosijskij-korvet-merkurij-vertolit-ka-27-ta-urazila-suhovantazh-mv-angara"
+        },
+        {
+          "name": "Море людей",
+          "url": "https://moreliudei.media/teksty/bilya-berehiv-liviyi-ukrayinski-morski-drony-potopyly-rosiyskyy"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131966-ukrajina-pidtverdila-shcho-zatopili-rosiyskiy-korvet-merkuriy-i-znishchili-vertolit-ka-27-bilya-beregiv-liviji"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/sbu-rozkryla-detali-operatsii-v-livii-sim-morskykh-droniv-urazyly-rosiiskyi-korvet-i-sukhovantazh"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4187850-zelenskij-pro-udar-po-dvoh-sudnah-rf-poblizu-livii-ukrainski-morski-operacii-trivatimut.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/udari-po-korvetu-merkuriy-ta-suhovantazhu-angara-morski-operaciji-ukrajini-trivatimut-50661894.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4187849-suputnikovi-znimki-pokazali-naslidki-ataki-ukraini-na-rosijski-sudna-v-livii.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/liviya-zasudila-inozemni-viyskovi-operaciji-reakciya-pislya-udaru-po-korvetu-u-bengazi-50661944.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/11/24/783242_mzs_liviyi_oburilis_ukrayinskoyu.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "На Дніпропетровщині ворог за два дні атакував чотири енергооб'єкти, без світла сотні тисяч осель",
+      "audio": "demo/2026-11-24-daily/story-2.mp3",
+      "duration_sec": 7.07,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk"
+      ],
+      "text": [
+        "Окупанти протягом двох днів атакували чотири енергетичні об'єкти на Дніпропетровщині."
+      ],
+      "sources": [
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/23/novyna/bezpeka/dnipropetrovshhyni-voroh-dva-dni-atakuvav-chotyry-enerhoobyekty-svitla-sotni-tysyach-osel"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/enerhoobiekty-dtek-ataka-dniprovshchyna"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/rosiyany-atakuvaly-try-rajony-dnipropetrovshhyny-dvoye-poranenyh-u-pavlogradi"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/23/rosiiany-za-den-vbyly-dvokh-liudey-u-nikopolskomu-rayoni-na-dnipropetrovshchyni"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1456635-na-dnipropetrovsini-24-listopada-diut-pogodinni-grafiki-vidklucen-svitla"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "audio": "demo/2026-11-24-daily/story-3.mp3",
+      "duration_sec": 29.58,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне",
+        "Політика"
+      ],
+      "regions": [
+        "kharkiv",
+        "zaporizhzhia",
+        "kyiv",
+        "lviv"
+      ],
+      "text": [
+        "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 13 людей, ще щонайменше 37 людей поранено.",
+        "Найбільше постраждалих у Києві та області та на Запоріжжі.",
+        "У ніч на 23 листопада Росія атакувала Україну 153 безпілотниками.",
+        "У Запоріжжі російський удар по будівлі клініки забрав життя трьох людей.",
+        "У селищі Димер на Київщині завершили рятувальні роботи після російського удару по п'ятиповерхівці 22 листопада."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-ato/4187518-ppo-zneskodila-134-zi-153-bezpilotnikiv-akimi-rosiani-z-vecora-atakuvali-ukrainu.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/23/8064128"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131956-rosiyani-atakuvali-ukrajinu-153-dronami-u-zaporizhzhi-ta-harkovi-ye-postrazhdali"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/23/783020_vnochi_ppo_zneshkodila_134_droni.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118463-nicna-ataka-droniv-sili-ppo-zbili-ta-podavili-134-vorozi-bezpilotniki-zokrema-42-reaktivni-saxedi"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-povitriani-syly-ataka-rf/33903864.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/23/novyna/bezpeka/rosiya-vnochi-vypustyla-po-ukrayini-150-bezpilotnykiv-skilky-zbyla-ppo"
+        },
+        {
+          "name": "Молодий буковинець",
+          "url": "https://molbuk.ua/ukraine/367059-rosiia-atakuvala-ukrainu-153-dronamy-skilky-cilei-zbyla-ppo.html"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosiya-atakuvala-zaporizhzhya-dvoye-zagyblyh-i-30-poranenyh-sered-nyh-dity"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/u-zaporizhzhi-rosijskyj-udar-po-budivli-kliniky-zabrav-zhyttia-trokh-liudej"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/suspilstvo/okupanty-vdaryly-po-bahatopoverxivczi-zaporizhzhi-10-poranenyx"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187888-rosiani-atakuvali-zaporizza-11-poranenih-poskodzeni-bagatopoverhivki-ta-privatni-budinki.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241232.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-udar-rosii-zaporizhzhia-dvoie-zahyblyh/33904639.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/suspilstvo/zaporizhzhi-vnaslidok-nichnoho-udaru-zahynuly-lyudy-kilkist-postrazhdalyx-zrosla-vdvichi"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataki-na-zaporizhzhya-rosiyski-viyska-poshkodili-budinki-ta-poranili-lyudey-50661953.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187901-u-zaporizzi-kilkist-postrazdalih-cerez-rosijsku-ataku-zrosla-do-30-dvi-ludini-zaginuli.html"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rosiya-atakuvala-zaporizhzhya-dvoye-zagyblyh-i-30-poranenyh-sered-nyh-dity"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/u-zaporizhzhi-rosijskyj-udar-po-budivli-kliniky-zabrav-zhyttia-trokh-liudej"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4187864-u-zaporizzi-kilkist-postrazdalih-vid-rosijskogo-udaru-zrosla-do-simoh.html"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/23/u-dymeri-z-pid-zavaliv-vryatuvaly-79-richnu-zhinku-kilkist-zagyblyh-zrosla-do-11"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118459-nic-posukovo-riatuvalnix-robit-na-kiyivshhini-vnaslidok-vorozoyi-ataki-zaginuli-11-liudei"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1240558.html"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/23/na-kyivshchyni-pobilshalo-zahyblykh-pislia-udaru-po-p-iatypoverkhivtsi"
+        },
+        {
+          "name": "МикВісті",
+          "url": "https://nikvesti.com/news/defence/326713-dymeri-kilkist-zahyblykh-vnaslidok-udaru-rf-zhytlovomu-budynku-zrosla"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/23/u-dymeri-na-kyivshchyni-kilkist-zahyblykh-unaslidok-rosiyskoi-ataky-zrosla-do-11"
+        },
+        {
+          "name": "РАІ",
+          "url": "https://rai.ua/novyny/na-kyivshchyni-z-pid-zavaliv-budynku-distaly-tila-11-zahyblykh"
+        },
+        {
+          "name": "Репортер",
+          "url": "https://report.if.ua/viyna/v-dymeri-na-kyyivshhyni-z-pid-zavaliv-distaly-tila-11-zagyblyh-sered-nyh-malenka-divchynka"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-bpla-na-vishgorodskiy-rayon-poshkodzheno-zhitlovu-p-yatipoverhivku-vinikla-pozhezha-50661391.html"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/u-dimieri-kilkist-zaghiblikh-pislia-udaru-rf-zrosla-do-11-sieried-zhiertv-ie-ditina"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118561-zelenskii-vidreaguvav-na-zagibel-11-liudei-u-dimeri-ta-zaklikav-posiliti-eksportnii-kontrol-proti-rf"
+        },
+        {
+          "name": "Твоє місто",
+          "url": "https://tvoemisto.tv/uk/news/14039-udar-po-pyatypoverkhivtsi-u-dymeri-pid-zavalamy-mozhut-buty-shche-dvoye-lyudey"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/23/novyna/bezpeka/dymeri-kyyivshhyni-zavershyly-rozbir-zavaliv-pislya-rosijskoyi-ataky"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/23/783196_dimeri_kiyivschini_zavershili.html"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/u-dimeri-na-kijivshchini-zavershili-poshuk-zahiblikh-u-zrujnovanij-rosijskim-udarom-bahatopoverkhivtsi.html"
+        }
+      ],
+      "digest": {
+        "killed": 13,
+        "injured": 37,
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "parts": [
+          {
+            "place": "на Запоріжжі",
+            "kind": "загиблі",
+            "n": 2,
+            "source": "Букви",
+            "url": "https://bukvy.org/rosiya-atakuvala-zaporizhzhya-dvoye-zagyblyh-i-30-poranenyh-sered-nyh-dity"
+          },
+          {
+            "place": "на Запоріжжі",
+            "kind": "поранені",
+            "n": 30,
+            "source": "Букви",
+            "url": "https://bukvy.org/rosiya-atakuvala-zaporizhzhya-dvoye-zagyblyh-i-30-poranenyh-sered-nyh-dity"
+          },
+          {
+            "place": "у Києві та області",
+            "kind": "загиблі",
+            "n": 11,
+            "source": "Рубрика",
+            "url": "https://rubryka.com/2026/11/23/u-dymeri-z-pid-zavaliv-vryatuvaly-79-richnu-zhinku-kilkist-zagyblyh-zrosla-do-11"
+          },
+          {
+            "place": "у Києві та області",
+            "kind": "поранені",
+            "n": 7,
+            "source": "РАІ",
+            "url": "https://rai.ua/novyny/na-kyivshchyni-z-pid-zavaliv-budynku-distaly-tila-11-zahyblykh"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Новошахтинський НПЗ",
+      "audio": "demo/2026-11-24-daily/story-4.mp3",
+      "duration_sec": 17.18,
+      "topics": [
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "regions": [
+        "luhansk",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Генштаб ЗСУ підтвердив ураження Новошахтинського заводу нафтопродуктів у Ростовській області Росії в ніч на 23 листопада.",
+        "Пошкоджено установки переробки нафти і резервуари.",
+        "Завод призупинив роботу."
+      ],
+      "sources": [
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/23/ukrainski-drony-pidpalyly-novoshakhtynskyi-ta-permskyi-npz-u-rosii"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/23/rf-pislya-ataky-droniv-spalahnula"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-rosia-ataka-droniv/33903905.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/23/783114_sili_oboroni_urazili.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1118623-genstab-pidtverdiv-nicnii-udar-po-novosaxtinskomu-npz-urazeno-kliucovi-ustanovki-reb-ta-zrgk-pancir"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/131965-ukrajinski-viyska-atakuvali-novoshahtinskiy-npz-u-rosiji-vin-prizupiniv-robotu"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/23/novyna/bezpeka/henshtabi-pidtverdyly-urazhennya-novoshaxtynskoho-npz-rostovskij-oblasti-rf"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/23/syly-oborony-urazyly-novoshakhtynskyy-npz-u-rf-reb-pole-21-ta-zrhk-pantsyr"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/novoshakhtynskyi-zavod-naftoproduktiv-u-rostovskii-oblasti-zupynyv-robotu-pislia-ataky"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/henshtab-pidtverdyv-urazhennia-rubikonu-u-berdiansku-i-novoshakhtynskoho-npz"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-24-daily/outro.mp3",
+      "duration_sec": 7.05,
+      "text": [
+        "Це був BRIEF станом на ранок двадцять четвертого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
