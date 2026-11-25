@@ -1,0 +1,992 @@
+{
+  "date": "2026-11-25",
+  "kind": "spoken",
+  "made_at": "2026-11-25T06:00:57+00:00",
+  "approved_sha256": "233f53fbe42fd1bb51ee7fb1fc4829e328cff201f21920198782644db78def28",
+  "approved_by": "BRIEF auto (без редактора)",
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "kind": "intro",
+          "text": "Це BRIEF. Головне за добу станом на ранок двадцять п'ятого листопада: візит прем'єра Угорщини Петера Мадяра на Закарпаття, знеструмлення на Запоріжжі та наслідки російських ударів."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Мадяр в Ужгороді",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-1-s1",
+          "kind": "story",
+          "text": "Прем'єр-міністр Угорщини Петер Мадяр 24 листопада зустрівся в Ужгороді з президентом Володимиром Зеленським."
+        },
+        {
+          "id": "story-1-s2",
+          "kind": "story",
+          "text": "Глава угорського уряду відвідав Україну вперше з 2015 року."
+        },
+        {
+          "id": "story-1-s3",
+          "kind": "story",
+          "text": "За словами Зеленського, вони обговорили енергетику, спільні проєкти в інфраструктурі та залізничний шлях Київ — Будапешт."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "a306fb297a492ee2",
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/11/24/783316_ugorskiy_premier_peter_madyar.html",
+          "title": "Угорський прем'єр Петер Мадяр сьогодні відвідає Україну. Це перший візит голови уряду Угорщини за 15 років",
+          "published_at": "2026-11-24T09:17:00+00:00"
+        },
+        {
+          "item_id": "b95a1362fab7052d",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064359",
+          "title": "Мадяр їде на Закарпаття, де зустрінеться з Зеленським",
+          "published_at": "2026-11-24T09:23:00+00:00"
+        },
+        {
+          "item_id": "c0390223c548f0da",
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/life/144513-premyer-ministr-uhorshchyny-anonsuvav-pershyy-za-11-rokiv-vizyt-do-zakarpattia-shcho-vidvidaye",
+          "title": "Прем’єр-міністр Угорщини анонсував перший за 11 років візит до Закарпаття: що відвідає",
+          "published_at": "2026-11-24T10:02:04+00:00"
+        },
+        {
+          "item_id": "eaf2b3af042f985b",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/peter-madyar-sohodni-zustrinetsya-iz-prezydentom-volodymyrom-zelenskym-na-zakarpatti",
+          "title": "Петер Мадяр сьогодні зустрінеться із президентом Володимиром Зеленським на Закарпатті",
+          "published_at": "2026-11-24T10:11:08+00:00"
+        },
+        {
+          "item_id": "0d613e4ea0c3faf5",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/polityka/zelenskyj-madyar-zustrinutsya-sohodni-zakarpatti",
+          "title": "Зеленський і Мадяр зустрінуться сьогодні на Закарпатті",
+          "published_at": "2026-11-24T10:33:51+00:00"
+        },
+        {
+          "item_id": "9c4aad70dc465db5",
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/peter-madiar-vyrushyv-na-zakarpattia-dlia-perehovoriv-iz-zelenskym",
+          "title": "Петер Мадяр вирушив на Закарпаття для переговорів із Зеленським",
+          "published_at": "2026-11-24T11:19:54+00:00"
+        },
+        {
+          "item_id": "de43c42a287e0279",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064433",
+          "title": "Прем’єр-міністр Угорщини вперше з 2015 року прибув на Закарпаття",
+          "published_at": "2026-11-24T13:30:00+00:00"
+        },
+        {
+          "item_id": "e8ed1537b11ca934",
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/politics/144518-peter-madiar-rozpoviv-iaki-pytannia-planuye-obhovoryty-iz-zelenskym-na-zakarpatti",
+          "title": "Петер Мадяр розповів, які питання планує обговорити із Зеленським на Закарпатті",
+          "published_at": "2026-11-24T14:03:19+00:00"
+        },
+        {
+          "item_id": "795eb1734107163b",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/na-zakarpatti-rozpochalasya-zustrich-prezydenta-ukrayiny-iz-premyer-ministrom-uhorshchyny",
+          "title": "На Закарпатті розпочалася зустріч президента України із прем’єр-міністром Угорщини",
+          "published_at": "2026-11-24T14:24:09+00:00"
+        },
+        {
+          "item_id": "0c2268041ff72309",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1456978-zelenskij-ta-premer-ugorsini-madar-zustrilis-v-uzgorodi",
+          "title": "Зеленський та премʼєр Угорщини Мадяр зустрілися в Ужгороді",
+          "published_at": "2026-11-24T14:28:02+00:00"
+        },
+        {
+          "item_id": "e978a8fa3c2129b5",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/personaliyi/274929-peter-madiar-vpershe-pryyikhav-na-zakarpattia-na-posadi-premyer-ministra-uhorshchyny",
+          "title": "Петер Мадяр уперше приїхав до Закарпаття на посаді прем’єр-міністра Угорщини",
+          "published_at": "2026-11-24T14:46:00+00:00"
+        },
+        {
+          "item_id": "2e65eaefeac4e029",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241663.html",
+          "title": "Зеленський і Мадяр зустрілися на Закарпатті",
+          "published_at": "2026-11-24T15:01:14+00:00"
+        },
+        {
+          "item_id": "cf3d3dc1497aed31",
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/uhorshchyna-stvoryt-spetsfond-imeni-ilony-zrini-dlya-dopomohy-zakarpatskym-uhortsyam",
+          "title": "Угорщина створить спецфонд імені Ілони Зріні для допомоги закарпатським угорцям",
+          "published_at": "2026-11-24T15:22:03+00:00"
+        },
+        {
+          "item_id": "4e67cd1a532b9b68",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1456982-generatori-ta-medobladnanna-peter-madar-v-uzgorodi-rozpoviv-pro-dopomogu-zakarpattu",
+          "title": "Генератори та медобладнання: Петер Мадяр в Ужгороді розповів про допомогу Закарпаттю",
+          "published_at": "2026-11-24T15:23:14+00:00"
+        },
+        {
+          "item_id": "28ac012c9b264d5a",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/zelenskij-zustrivsja-na-zakarpatti-z-lavoju-urjadu-uhorshchini-madjarom.html",
+          "title": "Зеленський зустрівся на Закарпатті з главою уряду Угорщини Мадяром",
+          "published_at": "2026-11-24T16:29:00+00:00"
+        },
+        {
+          "item_id": "8320541fcef5fc4d",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/24/zelenskyj-i-peter-madiar-zustrilysia-na-zakarpatti-pro-shcho-vzhe-domovylysia",
+          "title": "Зеленський і Петер Мадяр зустрілися на Закарпатті: про що вже домовилися",
+          "published_at": "2026-11-24T16:40:44+00:00"
+        },
+        {
+          "item_id": "1f7a7c7fcdef02bd",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/24/peter-madyar-vpershe-na-posadi-premyer-ministra-ugorshhyny-vidvidav-ukrayinu",
+          "title": "Петер Мадяр вперше на посаді прем’єр-міністра Угорщини відвідав Україну",
+          "published_at": "2026-11-24T17:35:00+00:00"
+        },
+        {
+          "item_id": "260f86baab54fcb8",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064480",
+          "title": "Угорський прем'єр розповів, що приймав у себе біженців із Закарпаття",
+          "published_at": "2026-11-24T17:36:00+00:00"
+        },
+        {
+          "item_id": "40a5e04a9390597b",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/24/novyj-fond-dopomogy-zakordonnym",
+          "title": "Мадяр оголосив про новий фонд допомоги закордонним угорцям під час візиту на Закарпаття",
+          "published_at": "2026-11-24T18:39:24+00:00"
+        },
+        {
+          "item_id": "616aff0b75d97c28",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241809.html",
+          "title": "Україна може поставити Угорщині певний обсяг кукурудзи – Зеленський",
+          "published_at": "2026-11-24T20:22:51+00:00"
+        },
+        {
+          "item_id": "8773f4094176903d",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4188272-madar-zaprosiv-zelenskogo-vidvidati-ugorsinu.html",
+          "title": "Мадяр запросив Зеленського відвідати Угорщину",
+          "published_at": "2026-11-24T21:50:00+00:00"
+        },
+        {
+          "item_id": "5401360bb36329af",
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/11/25/783554_zelenskiy_madyar_zustrilis_z.html",
+          "title": "Зеленський та Мадяр зустрілись з представниками угорської громади Закарпаття",
+          "published_at": "2026-11-24T22:48:00+00:00"
+        },
+        {
+          "item_id": "6895053659c47bee",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4188277-zelenskij-i-madar-zustrilisa-z-predstavnikami-ugorskoi-gromadi-zakarpatta.html",
+          "title": "Зеленський і Мадяр зустрілися з представниками угорської громади Закарпаття",
+          "published_at": "2026-11-24T23:47:00+00:00"
+        },
+        {
+          "item_id": "5cae80d1c40c609b",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/24/zelenskyy-i-madiar-zustrilysia-na-zakarpatti-detali-zustrichi",
+          "title": "Зеленський і Мадяр зустрілися на Закарпатті: деталі зустрічі",
+          "published_at": "2026-11-24T18:45:25+00:00",
+          "related": true
+        },
+        {
+          "item_id": "8541efd1cef9dd92",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1457107-zelenskij-ta-madar-obgovoruvali-pitanna-spilnih-proektiv-infrastrukturi-energetiki-ta-spivpraci-na-zakarpatti",
+          "title": "Зеленський та Мадяр обговорювали питання спільних проєктів інфраструктури, енергетики та співпраці на Закарпатті",
+          "published_at": "2026-11-24T19:29:48+00:00",
+          "related": true
+        },
+        {
+          "item_id": "0d406e0d2440ec74",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zelenskyi-madiar/33905186.html",
+          "title": "Зеленський заявив про «дуже предметну» зустріч із Мадяром на Закарпатті",
+          "published_at": "2026-11-24T19:54:18+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-0c2268041ff72309"
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Атаки на Дніпропетровщину",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-2-s1",
+          "kind": "story",
+          "text": "Російські війська вдень 24 листопада майже 30 разів атакували Дніпро та два райони області."
+        },
+        {
+          "id": "story-2-s2",
+          "kind": "story",
+          "text": "Поранені 6 людей."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "90c6175024ccff29",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/majzhe-30-atak-na-dnipropetrovshhynu-poraneno-6-lyudej",
+          "title": "Майже 30 атак на Дніпропетровщину: поранено 6 людей",
+          "published_at": "2026-11-24T16:44:09+00:00"
+        },
+        {
+          "item_id": "2f622d853d0a23a2",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1457059-rosijski-vijska-atakuvali-dnipro-ta-dva-rajoni-oblasti-bpla-ta-artilerieu",
+          "title": "Російські війська атакували Дніпро та два райони області БпЛА та артилерією",
+          "published_at": "2026-11-24T17:00:20+00:00"
+        },
+        {
+          "item_id": "90bb7b8dae096793",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/24/783482_rosiyani_vkotre_atakuvali.html",
+          "title": "Росіяни вкотре атакували Дніпропетровщину: поранені шестеро людей",
+          "published_at": "2026-11-24T17:03:00+00:00"
+        },
+        {
+          "item_id": "6f6f7b88d408799f",
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/30-raziv-atakuvaly-try-raiony-24-lystopada",
+          "title": "Шестеро поранених у Дніпрі: росіяни майже 30 разів атакували місто та два райони області",
+          "published_at": "2026-11-24T18:00:26+00:00"
+        },
+        {
+          "item_id": "94c418812df0a6a8",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/rosiyany-atakuvaly-dnipropetrovshhynu-trychi-poranenyj-cholovik-u-dnipri",
+          "title": "Росіяни атакували Дніпропетровщину тричі: поранений чоловік у Дніпрі",
+          "published_at": "2026-11-25T05:37:05+00:00"
+        },
+        {
+          "item_id": "c17d6dc8dbf8efc5",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1457133-na-dnipropetrovsini-25-listopada-diut-pogodinni-grafiki-vidklucen-svitla",
+          "title": "На Дніпропетровщині 25 листопада діють погодинні графіки відключень світла",
+          "published_at": "2026-11-25T03:32:15+00:00",
+          "related": true
+        },
+        {
+          "item_id": "e83e105800a663cf",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/24/naslidky-rosijskoyi-ataky-po-dnipropetrovshhyni-postrazhdaly-shestero-lyudej-poshkodzheni-bagatopoverhivky",
+          "title": "Наслідки російської атаки по Дніпропетровщині: постраждали шестеро людей, пошкоджені багатоповерхівки",
+          "published_at": "2026-11-24T19:38:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "8982b32ed8673ed1",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188182-na-dnipropetrovsini-rosijskij-dron-atakuvav-brigadu-energetikiv.html",
+          "title": "На Дніпропетровщині російський дрон атакував бригаду енергетиків",
+          "published_at": "2026-11-24T16:27:25+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-2f622d853d0a23a2"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 4 людини, ще щонайменше 60 людей поранено."
+        },
+        {
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Найбільше постраждалих на Запоріжжі та Одещині."
+        },
+        {
+          "id": "story-3-s3",
+          "kind": "story",
+          "text": "У Запоріжжі та області знеструмлено значну кількість споживачів через російські обстріли, повідомило «Запоріжжяобленерго»."
+        },
+        {
+          "id": "story-3-s4",
+          "kind": "story",
+          "text": "Війська країни-агресора Росії вдарили дроном по маршрутному автобусу у Чугуївському районі Харківської області."
+        },
+        {
+          "id": "story-3-s5",
+          "kind": "story",
+          "text": "У результаті російських ударів по Одещині загинули двоє людей – 41-річний чоловік та 17-річний підліток."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "2e6624b8b1cdd814",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188298-cerez-rosijski-obstrili-castina-zaporizkoi-oblasti-zalisilasa-bez-svitla.html",
+          "title": "Через російські обстріли частина Запорізької області залишилася без світла",
+          "published_at": "2026-11-25T05:20:00+00:00"
+        },
+        {
+          "item_id": "1af656f624fe3ce2",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241842.html",
+          "title": "У Запоріжжі та області знеструмлено значну кількість споживачів через ворожі обстріли – \"Запоріжжяобленерго\"",
+          "published_at": "2026-11-25T05:36:10+00:00"
+        },
+        {
+          "item_id": "7c80023fc4acf076",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241830.html",
+          "title": "Семікін: кількість травмованих унаслідок атаки РФ на Запоріжжя зросла до 50, серед них немовля та четверо дітей",
+          "published_at": "2026-11-25T01:20:20+00:00",
+          "related": true
+        },
+        {
+          "item_id": "78dd415642710cc5",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/25/407440_u-zaporizhzhi-ta-oblasti-onovyly-grafiky-vidklyuchen-svitla-na-25-lystopada",
+          "title": "У Запоріжжі та області діють графіки відключень світла на 25 листопада",
+          "published_at": "2026-11-25T05:06:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "325545f8e7416773",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1456980-na-fronti-zaginuv-vijskovij-z-orihivskoi-gromadi-zaporizkoi-oblasti-oleksij-sidelnik",
+          "title": "На фронті загинув військовий з Оріхівської громади Запорізької області Олексій Сідельник",
+          "published_at": "2026-11-24T16:05:28+00:00",
+          "related": true
+        },
+        {
+          "item_id": "00d270c0916307de",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/25/8064526",
+          "title": "Росіяни вранці з дрона поцілили по маршрутці на Харківщині: одна людина загинула",
+          "published_at": "2026-11-25T05:06:00+00:00"
+        },
+        {
+          "item_id": "d043b23e31031bab",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/marshrutka-u-harkivskiy-oblasti-potrapila-pid-udar-rf-odna-lyudina-zaginula-7-poranenih-50662307.html",
+          "title": "Російські війська поцілили дроном по маршрутці у Харківській області, є загиблий і поранені",
+          "published_at": "2026-11-25T05:17:00+00:00"
+        },
+        {
+          "item_id": "bedeedbc4d0b27a2",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vazhlyve-za-nich-i574154",
+          "title": "ВАЖЛИВЕ ЗА НІЧ",
+          "published_at": "2026-11-25T05:25:45+00:00"
+        },
+        {
+          "item_id": "0884a3127fe6d14c",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241843.html",
+          "title": "Одна людина загинула, семеро постраждали через удар ворожого дрона по маршрутному автобусу на Харківщині – ОВА",
+          "published_at": "2026-11-25T05:36:39+00:00"
+        },
+        {
+          "item_id": "a1fd3da9e6994348",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosijani-vdarili-dronom-po-marshrutnomu-avtobusi-na-kharkivshchini-je-zahiblij-ta-semero-postrazhdalikh.html",
+          "title": "Росіяни вдарили дроном по маршрутному автобусу на Харківщині: є загиблий та семеро постраждалих",
+          "published_at": "2026-11-25T05:44:00+00:00"
+        },
+        {
+          "item_id": "7ff7bf7cc8ab53fa",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188302-vorozij-dron-pociliv-po-marsrutci-na-harkivsini-odin-zagiblij-semero-postrazdalih.html",
+          "title": "Ворожий дрон поцілив по маршрутці на Харківщині - один загиблий, семеро постраждалих",
+          "published_at": "2026-11-25T05:46:15+00:00"
+        },
+        {
+          "item_id": "8478e95c6da5c6dd",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1457138-zaginula-ludina-semero-postrazdali-rosijskij-dron-vluciv-u-marsrutnij-avtobus-na-harkivsini",
+          "title": "Загинула людина, семеро постраждали: російський дрон влучив у маршрутний автобус на Харківщині",
+          "published_at": "2026-11-25T05:49:14+00:00"
+        },
+        {
+          "item_id": "ff16b277d196cd72",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/25/novyna/suspilstvo/vijska-rf-atakuvaly-dronamy-lozovu-ta-merefu-xarkivshhyni-poraneno-cyvilnyx",
+          "title": "Війська рф атакували дронами Лозову та Мерефу на Харківщині, поранено цивільних",
+          "published_at": "2026-11-25T01:17:06+00:00",
+          "related": true
+        },
+        {
+          "item_id": "d61ab3d53a070d78",
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr",
+          "title": "У Сумах російський дрон на оптоволокні вдарив по автівці: загинув пасажир",
+          "published_at": "2026-11-24T20:51:14+00:00",
+          "related": true
+        },
+        {
+          "item_id": "370aec2411140155",
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/25/u-harkivskij-oblasti-25-listopada-diyatimut-grafiki-pogodinnih-vidklyuchen-elektriki-2",
+          "title": "У Харківській області 25 листопада діятимуть графіки погодинних відключень електрики",
+          "published_at": "2026-11-24T22:05:44+00:00",
+          "related": true
+        },
+        {
+          "item_id": "7f91ad90016cb346",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1457056-u-podilsku-na-odesini-vnaslidok-rosijskoi-ataki-zaginuv-17-ricnij-hlopec",
+          "title": "У Подільську на Одещині внаслідок російської атаки загинув 17-річний хлопець",
+          "published_at": "2026-11-24T17:00:31+00:00"
+        },
+        {
+          "item_id": "364240d2d17c6f47",
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/v-odeskii-oblasti-vnaslidok-rosiiskoi-ataki-zaginuv-17-richnii-khlopets",
+          "title": "В Одеській області внаслідок російської атаки загинув 17-річний хлопець",
+          "published_at": "2026-11-24T17:41:56+00:00"
+        },
+        {
+          "item_id": "5415d2827e27618f",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu",
+          "title": "Двоє загиблих, поранена дитина та пошкоджені будівлі: атака РФ на Одещину",
+          "published_at": "2026-11-24T19:32:29+00:00"
+        },
+        {
+          "item_id": "f57926d5807123ee",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241798.html",
+          "title": "Двоє людей загинули, ще троє, зокрема дитина, поранені внаслідок ворожих обстрілів Одещини – ОВА",
+          "published_at": "2026-11-24T19:34:08+00:00"
+        },
+        {
+          "item_id": "d240fe99e63450ba",
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/vnaslidok-chergovyh-obstriliv-na-odeshhyni-zagynulo-dvoye-lyudej",
+          "title": "Внаслідок чергових обстрілів на Одещині загинуло двоє людей",
+          "published_at": "2026-11-24T19:35:00+00:00"
+        },
+        {
+          "item_id": "b2a2acd7952efba1",
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/na-odeshhini-vnaslidok-obstriliv-zaginuli-cholovik-ta-17-richnij-hlopets",
+          "title": "На Одещині внаслідок обстрілів загинули чоловік та 17-річний хлопець",
+          "published_at": "2026-11-24T19:43:12+00:00"
+        },
+        {
+          "item_id": "211f00e5b3224908",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064502",
+          "title": "Російські війська атакували Одещину: загинули двоє людей, ще троє поранені, серед них дитина",
+          "published_at": "2026-11-24T19:52:00+00:00"
+        },
+        {
+          "item_id": "c1148850468c6060",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vorog-znovu-b-ye-po-odeshhyni-dvoye-zagybly-troye-poranenyh-poshkodzheno-tsyvilnu-infrastrukturu-i574147",
+          "title": "Ворог знову б’є по Одещині: двоє загибли, троє поранених, пошкоджено цивільну інфраструктуру",
+          "published_at": "2026-11-24T20:14:15+00:00"
+        },
+        {
+          "item_id": "32d67f0be6f02ade",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka-rf/33905192.html",
+          "title": "17-річний хлопець і 41-річний чоловік загинули на Одещині через удар РФ – влада",
+          "published_at": "2026-11-24T20:25:48+00:00"
+        },
+        {
+          "item_id": "a3bda22c1bd3833c",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/suspilstvo/odeshhyni-vnaslidok-udaru-rf-zahynuly-lyudy-sered-postrazhdalyx-dytyna",
+          "title": "На Одещині внаслідок удару рф загинули люди, серед постраждалих – дитина",
+          "published_at": "2026-11-24T20:57:15+00:00"
+        },
+        {
+          "item_id": "3f3f7f9572bce570",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/dvoje-zahiblikh-i-troje-poranenikh-rosija-atakuvala-odeshchinu.html",
+          "title": "Двоє загиблих і троє поранених: Росія атакувала Одещину",
+          "published_at": "2026-11-24T22:09:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "530db259d2f363b1",
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/vorog-atakuye-odeshhynu-poshkodzheno-budivlyu-likarni-fermerske-gospodarstvo-foto",
+          "title": "Ворог атакує Одещину: пошкоджено будівлю лікарні, фермерське господарство (фото)",
+          "published_at": "2026-11-24T14:50:04+00:00",
+          "related": true
+        },
+        {
+          "item_id": "c86be0e30dc12b37",
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/na-odeshhyni-zrosla-kilkist-lokalnyh-avarij-v-elektromerezhah",
+          "title": "На Одещині зросла кількість локальних аварій в електромережах",
+          "published_at": "2026-11-24T22:10:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "6e2ba247340356ce",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/sumy/1457079-u-sumah-fpv-dron-vluciv-u-priparkovanij-avtomobil-zaginuv-76-ricnij-colovik",
+          "title": "У Сумах FPV-дрон влучив у припаркований автомобіль: загинув 76-річний чоловік, його син — у лікарні",
+          "published_at": "2026-11-24T18:12:19+00:00"
+        },
+        {
+          "item_id": "568f05a9de660f0c",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/24/783510_sumah_cherez_ataku_rosiyskogo.html",
+          "title": "У Сумах через атаку російського FPV-дрона по цивільному авто загинув чоловік",
+          "published_at": "2026-11-24T18:21:00+00:00"
+        },
+        {
+          "item_id": "b19c6fb8855715cd",
+          "name": "Цукр",
+          "url": "https://cukr.city/news/udar-fpv-dronom-po-sumakh-kovpakivskyi-raion",
+          "title": "У Сумах російський FPV-дрон влучив у цивільне авто: загинув 76-річний пасажир",
+          "published_at": "2026-11-24T18:29:22+00:00"
+        },
+        {
+          "item_id": "ebaa4728dc5d20a7",
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-sumah-rashystskyj-dron-na-optovolokni-vbyv-pasazhyra-tsyvilnogo-avto-na-harkivshhyni-vnaslidok-i574134",
+          "title": "У Сумах рашистський дрон вбив пасажира цивільного авто, на Харківщині внаслідок атаки поранено трьох людей",
+          "published_at": "2026-11-24T18:34:00+00:00"
+        },
+        {
+          "item_id": "d61ab3d53a070d78",
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr",
+          "title": "У Сумах російський дрон на оптоволокні вдарив по автівці: загинув пасажир",
+          "published_at": "2026-11-24T20:51:14+00:00"
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-1af656f624fe3ce2",
+        "national-c-00d270c0916307de",
+        "regional-c-211f00e5b3224908",
+        "national-c-568f05a9de660f0c"
+      ],
+      "digest": {
+        "killed": 4,
+        "injured": 60,
+        "regions": {
+          "zaporizhzhia": {
+            "injured": {
+              "n": 50,
+              "clause": "кількість травмованих унаслідок атаки РФ на Запоріжжя зросла до 50",
+              "item_id": "7c80023fc4acf076",
+              "source": "Інтерфакс-Україна",
+              "url": "https://interfax.com.ua/news/general/1241830.html",
+              "reported": [
+                50
+              ]
+            }
+          },
+          "kharkiv": {
+            "killed": {
+              "n": 1,
+              "clause": "одна людина загинула",
+              "item_id": "00d270c0916307de",
+              "source": "Українська правда",
+              "url": "https://pravda.com.ua/news/2026/11/25/8064526",
+              "reported": [
+                1
+              ]
+            },
+            "injured": {
+              "n": 7,
+              "clause": "семеро отримали поранення",
+              "item_id": "00d270c0916307de",
+              "source": "Українська правда",
+              "url": "https://pravda.com.ua/news/2026/11/25/8064526",
+              "reported": [
+                6,
+                7
+              ]
+            }
+          },
+          "sumy": {
+            "killed": {
+              "n": 1,
+              "clause": "загинув пасажир",
+              "item_id": "d61ab3d53a070d78",
+              "source": "Кордон.Медіа",
+              "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr",
+              "reported": [
+                1
+              ]
+            }
+          },
+          "odesa": {
+            "killed": {
+              "n": 2,
+              "clause": "Двоє загиблих",
+              "item_id": "5415d2827e27618f",
+              "source": "Суспільне Новини",
+              "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu",
+              "reported": [
+                1,
+                2,
+                20
+              ]
+            },
+            "injured": {
+              "n": 3,
+              "clause": "ще троє людей дістали поранення",
+              "item_id": "5415d2827e27618f",
+              "source": "Суспільне Новини",
+              "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu",
+              "reported": [
+                3
+              ]
+            }
+          }
+        },
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "apart": [
+          "national-c-2f622d853d0a23a2"
+        ],
+        "skipped": [
+          {
+            "item_id": "2e6624b8b1cdd814",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "1af656f624fe3ce2",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "78dd415642710cc5",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "325545f8e7416773",
+            "skipped": "інша дата в тексті: 29 жовтня"
+          },
+          {
+            "item_id": "370aec2411140155",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "3f3f7f9572bce570",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "530db259d2f363b1",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "c86be0e30dc12b37",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "ebaa4728dc5d20a7",
+            "skipped": "регіон не визначено однозначно"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Крим після удару",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-4-s1",
+          "kind": "story",
+          "text": "У Криму після ураження Керченського мосту зростають ціни на пальне та продукти."
+        },
+        {
+          "id": "story-4-s2",
+          "kind": "story",
+          "text": "У Представництві Президента в АРК заявили, що окупанти не забезпечують безпечний виїзд з півострова."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "e32a7554693b6cb8",
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/video-pislya-udaru-po-kerchenskomu-mostu-tsiny-na-palne-ta-produkty-v-krymu-strimko-rostut/33904748.html",
+          "title": "Після удару по Керченському мосту ціни на пальне та продукти в Криму стрімко ростуть (відео)",
+          "published_at": "2026-11-24T08:52:02+00:00"
+        },
+        {
+          "item_id": "7003f4c74a26eb49",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1457074-okupanti-ne-zabezpecuut-bezpecnij-viizd-z-krimu-pisla-udaru-po-krimskomu-mostu-predstavnictvo-prezidenta-v-ark",
+          "title": "Окупанти не забезпечують безпечний виїзд з Криму після удару по Кримському мосту — Представництво Президента в АРК",
+          "published_at": "2026-11-24T18:08:54+00:00",
+          "related": true
+        },
+        {
+          "item_id": "bd14a8dae4ed56a8",
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/yak-ruynuvannya-kerchenskoho-mostu-poznachylosya-na-zhytti-ekonomitsi-krymu/33905123.html",
+          "title": "«Новий рівень виживання». Як руйнування Керченського (Кримського) мосту позначилося на житті та економіці Криму",
+          "published_at": "2026-11-24T16:57:14+00:00",
+          "related": true
+        },
+        {
+          "item_id": "cbc26a40c432bda6",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/palivna-kriza-u-krimu-andryushchenko-poyasniv-prichini-maybutnogo-deficitu-pislya-udaru-po-mostu-50662230.html",
+          "title": "Чому після удару по Керченському мосту на Крим чекає паливна криза, хоча бензовози ним не їздили — експерт",
+          "published_at": "2026-11-24T21:14:00+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "regional-c-e32a7554693b6cb8"
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "kind": "outro",
+          "text": "Це був BRIEF станом на ранок двадцять п'ятого листопада. Посилання на першоджерела — на сайті BRIEF."
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "evidence": {
+    "90c6175024ccff29": "Майже 30 атак на Дніпропетровщину: поранено 6 людей. Російські війська майже 30 разів атакували Дніпро та два райони з безпілотників і артилерії. Поранені шестеро людей. The post Майже 30 атак на Дніпропетровщину: поранено 6 людей appeared first on Dnipro.media .",
+    "2f622d853d0a23a2": "Російські війська атакували Дніпро та два райони області БпЛА та артилерією. Вдень 24 листопада війська РФ майже 30 разів атакували Дніпро та два райони області. Застосовували безпілотники та артилерію. Поранені шестеро людей",
+    "90bb7b8dae096793": "Росіяни вкотре атакували Дніпропетровщину: поранені шестеро людей. Також пошкоджені будинки та транспорт.",
+    "6f6f7b88d408799f": "Шестеро поранених у Дніпрі: росіяни майже 30 разів атакували місто та два райони області. The post Шестеро поранених у Дніпрі: росіяни майже 30 разів атакували місто та два райони області appeared first on Місто і річка .",
+    "94c418812df0a6a8": "Росіяни атакували Дніпропетровщину тричі: поранений чоловік у Дніпрі. У ніч проти 25 листопада російські війська тричі атакували райони Дніпропетровської області безпілотниками. Поранений один чоловік, йому надають амбулаторне лікування. The post Росіяни атакували Дніпропетровщину тричі: поранений чоловік у Дніпрі appeared first on Dnipro.media .",
+    "c17d6dc8dbf8efc5": "На Дніпропетровщині 25 листопада діють погодинні графіки відключень світла. На Дніпропетровщині та у частині регіонів України 25 листопада діють обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
+    "e83e105800a663cf": "Наслідки російської атаки по Дніпропетровщині: постраждали шестеро людей, пошкоджені багатоповерхівки. Внаслідок російського обстрілу пошкоджені багатоквартирні будинки.",
+    "8982b32ed8673ed1": "На Дніпропетровщині російський дрон атакував бригаду енергетиків. Російський FPV-дрон атакував авто оперативно-виїзної бригади ДТЕК біля одного з прифронтових сіл Дніпропетровської області.",
+    "f52b42aafff1f513": "Сили оборони уразили переправу і зосередження російських вантажівок. Сили оборони України уразили переправу і зосередження вантажівок російських окупантів. Про це повідомили у Генеральному штабі ЗСУ: «23 листопада і в ніч на 24 листопада Сили оборони України продовжили відрізати армію рф від усього, що потрібно їй для війни». Так, на Брянщині, поблизу Берестка, було уражене місце зосередження вантажівок ворожого підрозділу. Саме цими машинами окупанти... Запис Сили оборони уразили переправу і зосередження російських вантажівок спершу з'явиться на Громадське радіо .",
+    "8f2a93441566d52a": "ЗСУ уразили логістику РФ на Донеччині й Брянщині. Українські військові уразили російські вантажівки і переправу.",
+    "29ae9897d1dd270e": "На Донеччині Сили оборони уразили переправу через річку Вовча. Вчора, 23 листопада і в ніч на сьогодні Сили оборони уразили переправу на Донеччині і зосередження російських вантажівок на Брянщині. «23 листопада і в ніч на 24 листопада Сили оборони України продовжили відрізати армію рф від усього, що потрібно їй для війни», – розповіли у...",
+    "271421ecaec6a824": "Українські військові уразили вантажівки та переправу армії рф. Військові ЗСУ атакували зосередження техніки росіян, яка забезпечує провізією армію, та зруйнували переправу через річку Вовча.",
+    "be51455c13643bb8": "ЗСУ атакують логістику армії рф: уражено переправу на Донеччині. Сили оборони України уразили переправу на Донеччині та місце зосередження російських вантажівок на Брянщині, ускладнивши логістику армії рф.",
+    "a4c380c18e5241f6": "Сили оборони уразили переправу на Донеччині та скупчення російських вантажівок на Брянщині. Сили оборони України продовжують завдавати ударів по логістичних об’єктах російської армії. 23 листопада та в ніч на 24 листопада українські військові уразили місце зосередження російських вантажівок на Брянщині та переправу через річку Вовча на Донеччині. The post Сили оборони уразили переправу на Донеччині та скупчення російських вантажівок на Брянщині appeared first on Фарватер. Схід .",
+    "de135cc91913231c": "Сили оборони вдарили по переправі через річку Вовча на Донеччині та по скупченню вантажівок у росії. 23 листопада і в ніч на 24 листопада Сили оборони продовжили ві",
+    "03dd32478e17c2cd": "На Донеччині атакували переправу, яку окупанти використовували для військової логістики. Бійці Сил оборони атакували логістику російських окупантів на Донеччині. Під ударом українських захисників була переправа через річку Вовча, що в районі Новоукраїнки. Про це повідомляє Генштаб ЗСУ. [...] Запис На Донеччині атакували переправу, яку окупанти використовували для військової логістики спершу з'явиться на Останні новини України | Бахмут IN.UA .",
+    "b94816ae1ac14b5f": "росія втратила в битві за Покровськ більше солдатів, ніж у битві за Берлін 1945 року — розслідування. Оскільки дані публікуються з затримкою, реальна кількість загиблих може бути в рази вищою",
+    "26da7883119dea78": "Двоє людей загинули на Донеччині внаслідок російських обстрілів. Які населені пункти зазнали ударів. Армія країни-агресора Росії обстріляла сім населених пун",
+    "284125745452101f": "ЗСУ вдарили по переправі російських військ через річку Вовча на Донеччині. 23 листопада та у ніч на 24 листопада Сили оборони України уразили об’єкти російської армії у РФ та на окупованій території. Про це повідомили у пресслужбі Генерального штабу ЗСУ. У Брянській області поблизу села Бересток уразили місце зосередження вантажівок підрозділу ЗС РФ. В районі села Новоукраїнка на Донеччині атакували переправу окупантів через річку Вовча. «Тепер […]",
+    "2e6624b8b1cdd814": "Через російські обстріли частина Запорізької області залишилася без світла. Через пошкодження енергетичної інфраструктури внаслідок російських обстрілів частина жителів Запорізької області залишилися без світла.",
+    "1af656f624fe3ce2": "У Запоріжжі та області знеструмлено значну кількість споживачів через ворожі обстріли – \"Запоріжжяобленерго\". У Запоріжжі та Запорізькій області знеструмлено значну кількість споживачів унаслідок пошкодження енергетичної інфраструктури через російські обстріли, повідомило АТ \"Запоріжжяобленерго\" у Телеграм.",
+    "7c80023fc4acf076": "Семікін: кількість травмованих унаслідок атаки РФ на Запоріжжя зросла до 50, серед них немовля та четверо дітей. Кількість травмованих унаслідок російської атаки по Запоріжжю зросла до 50 осіб, серед них є діти, повідомив голова Запорізької обласної військової адміністрації Михайло Семікін у вівторок ввечері.",
+    "78dd415642710cc5": "У Запоріжжі та області діють графіки відключень світла на 25 листопада. У середу, 25 листопада, у Запоріжжі та Запорізькій області діятимуть графіки погодинних відключень електроенергії. Графіки оновили за вказівкою НЕК «Укренерго». Для кожної черги та підчерги визначили окремі години знеструмлення. Сообщение У Запоріжжі та області діють графіки відключень світла на 25 листопада появились сначала на inform.zp.ua .",
+    "325545f8e7416773": "На фронті загинув військовий з Оріхівської громади Запорізької області Олексій Сідельник. На Запорізькому напрямку внаслідок російського обстрілу 29 жовтня загинув старший солдат з Оріхівської громади Олексій Сідельник: військовий служив у батальйоні територіальної оборони",
+    "d29c503bc9de2405": "Росія втратила більше солдат на Донеччині, ніж СРСР у боях за Берлін – розслідування. Російська федерація втратила у Покровську більше солдат, ніж СРСР під час штурму Берліна у 1945 році. Загалом у базі Росстату зафіксовано 325 000 смертей за 4,5 роки.",
+    "85ed51f43eecf594": "Росія втратила під Покровськом більше військових, ніж СРСР під час Берлінської операції — дослідження. У боях за Покровськ та його околиці на Донеччині російська армія могла втратити понад 100 тисяч військових загиблими. Це більше, ніж втратила радянська армія під час Берлінської наступальної операції у квітні-травні 1945 року. Про це повідомляють російські видання «Проєкт» та «Агенство» у розслідуванні, в ході якого журналісти проаналізували отриману хакерами базу даних Росстату. За даними […]",
+    "88feb28b4e3464ea": "По меддопомогу звернулися дві жінки: росіяни атакували безпілотником Сновськ на Чернігівщині. Російські війська вдень 24 листопада атакували безпілотником місто Сновськ на Чернігівщині. Внаслідок влучання в місті пошкоджені будинки та магазин. По медичну допомогу звернулися дві жінки віком 31 та 39 років",
+    "9b3587f4dd4b7f3c": "Росіяни атакували дроном цивільну інфраструктуру на Чернігівщині. Російські війська завдали удару БПЛА по приватних будинках та приміщенню магазину в місті Сновськ Корюківського району Чернігівської області. Внаслідок атаки постраждалі дві жінки.",
+    "fc9ff6c6d9e2a668": "Російський дрон атакував Сновськ на Чернігівщині: пошкоджені будинки та магазин. Після удару по медичну допомогу звернулися дві жінки. У них гостра реакція на стрес.",
+    "a6a4f40b137dff59": "РФ атакували дроном цивільну інфраструктуру на Чернігівщині. Російські війська атакували безпілотником місто Сновськ Корюківського району Чернігівської області. Внаслідок удару пошкоджено приватні будинки та приміщення магазину. Дві жінки звернулися по медичну допомогу. Запис РФ атакували дроном цивільну інфраструктуру на Чернігівщині спершу з'явиться на Букви .",
+    "2363b12b2bed78a8": "Росіяни вдарили дроном по місту на Чернігівщині, є поранені. ",
+    "6e2ba247340356ce": "У Сумах FPV-дрон влучив у припаркований автомобіль: загинув 76-річний чоловік, його син — у лікарні. Загинув 76-річний пасажир цивільного автомобіля у Сумах. Близько 19:00 у нього влучив російський БпЛА. Про це Суспільному повідомили у прокуратурі",
+    "568f05a9de660f0c": "У Сумах через атаку російського FPV-дрона по цивільному авто загинув чоловік. Його син, який перебував за кермом, наразі перебуває в лікарні.",
+    "b19c6fb8855715cd": "У Сумах російський FPV-дрон влучив у цивільне авто: загинув 76-річний пасажир. У Ковпаківському районі Сум російський FPV-дрон на оптоволокні влучив у цивільний автомобіль. Внаслідок цього загинув чоловік. Про це повідомив начальник МВА Сергій Кривошеєнко.",
+    "ebaa4728dc5d20a7": "У Сумах рашистський дрон вбив пасажира цивільного авто, на Харківщині внаслідок атаки поранено трьох людей. \"У Ковпаківському районі Сум внаслідок влучання ворожого FPV-дрона на оптоволокні у цивільне авто загинув 76-річний пасажир\", - повідомив начальник Сумської МВА Сергій Кривошеєнко в Телеграм ввечері 24 листопада. За кермом автомобіля перебував син загиблого - він вижив, наразі перебуває в...",
+    "d61ab3d53a070d78": "У Сумах російський дрон на оптоволокні вдарив по автівці: загинув пасажир. Увечері 24 листопада дрон на оптоволокні влучив в авто на околиці міста Суми у Ковпаківському районі. Внаслідок цього удару загинув пасажир автівки. Про це Кордон. Медіа відомо з власних джерел. Також інформацію підтвердили в прокуратурі. Загиблому чоловікові було 76 років. Син загиблого – в лікарні. Він був за кермом, коли ударив ворожий дрон, повідомили у Сумській […] The post У Сумах російський дрон на оптоволокні вдарив по автівці: загинув пасажир appeared first on Kordon Media .",
+    "a306fb297a492ee2": "Угорський прем'єр Петер Мадяр сьогодні відвідає Україну. Це перший візит голови уряду Угорщини за 15 років. Він зустрінеться з президентом.",
+    "b95a1362fab7052d": "Мадяр їде на Закарпаття, де зустрінеться з Зеленським. Прем'єр-міністр Угорщини Петер Мадяр разом з Анітою Орбан відвідає Закарпаття і зустрінеться з Володимиром Зеленським і лідерами угорської громади.",
+    "c0390223c548f0da": "Прем’єр-міністр Угорщини анонсував перший за 11 років візит до Закарпаття: що відвідає. Сьогодні Петер Мадяр їде до Закарпатської області, аби зустрітися з Президентом України Володимиром Зеленським.",
+    "eaf2b3af042f985b": "Петер Мадяр сьогодні зустрінеться із президентом Володимиром Зеленським на Закарпатті. Валерія Рубаняк вт, 24/11/2026 - 12:11 У вівторок, 24 листопада, прем’єр-міністр Угорщини Петер Мадяр вирушає з робочим візитом на Закарпаття, де планує зустрітися із президентом України Володимиром Зеленським, а також із лідерами угорської громади. Окрім цього, очільник уряду Угорщини планує відвідати низку угорських установ в регіоні. Про це прем’єр-міністр Угорщини Петер Мадяр повідомив на своїй офіційній сторінці у фейсбуці. «Сьогодні, 24 листопада, я вирушаю на Закарпаття, де проведу переговори з Президентом України та зустрінуся з лідерами угорської громади.",
+    "0d613e4ea0c3faf5": "Зеленський і Мадяр зустрінуться сьогодні на Закарпатті. Угорський прем’єр-міністр Петер Мадяр вирушив на Закарпаття для зустрічі із президентом України Володимиром Зеленський. Зустріч заплановано на сьогодні, 24 листопада.",
+    "9c4aad70dc465db5": "Петер Мадяр вирушив на Закарпаття для переговорів із Зеленським. Ірта-fax - Інформаційний портал Прем’єр-міністр Угорщини Петер Мадяр у вівторок, 24 листопада, повідомив, що вирушає на Закарпаття для переговорів із шостим президентом України В. О. Зеленським. Денис Молотов",
+    "de43c42a287e0279": "Прем’єр-міністр Угорщини вперше з 2015 року прибув на Закарпаття. Петер Мадяр здійснив перший візит до України з 2015 року. Планує зустріч із Володимиром Зеленським і лідерами угорської громади Закарпаття.",
+    "e8ed1537b11ca934": "Петер Мадяр розповів, які питання планує обговорити із Зеленським на Закарпатті. Про свої плани глава угорського уряду повідомив на сторінці у Facebook.",
+    "795eb1734107163b": "На Закарпатті розпочалася зустріч президента України із прем’єр-міністром Угорщини. Валерія Рубаняк вт, 24/11/2026 - 16:24 На Закарпатті у вівторок, 24 листопада, розпочалася зустріч президента України Володимира Зеленського із прем’єр-міністром Угорщини Петером Мадяром, який уперше приїжджає з візитом в Україну на цій посаді. Раніше zaholovok.com.ua писав, що 24 листопада прем’єр-міністр Угорщини Петер Мадяр планує зустрітися із президентом України Володимиром Зеленським , а також із лідерами угорської громади на Закарпатті. Окрім цього, очільник уряду Угорщини планує відвідати низку угорських установ в регіоні.",
+    "0c2268041ff72309": "Зеленський та премʼєр Угорщини Мадяр зустрілися в Ужгороді. Президент України Володимир Зеленський та премʼєр-міністр Угорщини Петер Мадяр провели зустріч в Ужгороді 24 листопада. Очікуються переговори про вступ України до ЄС",
+    "e978a8fa3c2129b5": "Петер Мадяр уперше приїхав до Закарпаття на посаді прем’єр-міністра Угорщини. ",
+    "2e65eaefeac4e029": "Зеленський і Мадяр зустрілися на Закарпатті. Президент України Володимир Зеленський і прем'єр-міністр Угорщини Петер Мадяр розпочали зустріч на Закарпатті, передає ТСН.",
+    "cf3d3dc1497aed31": "Угорщина створить спецфонд імені Ілони Зріні для допомоги закарпатським угорцям. Валерія Рубаняк вт, 24/11/2026 - 17:22 Угорський парламент ухвалив рішення збільшити фінансування для підтримки угорської громади на Закарпатті та створити спеціальний соціальний фонд імені Ілони Зріні. Про це у вівторок, 24 листопада, в Ужгороді під час зустрічі із президентом України Володимиром Зеленським розповів прем’єр-міністр Угорщини Петер Мадяр, повідомила журналістка zaholovok.com.ua з місця події. За словами очільника угорського уряду, відповідне рішення парламент прийняв безпосередньо в день його візиту на Закарпаття.",
+    "4e67cd1a532b9b68": "Генератори та медобладнання: Петер Мадяр в Ужгороді розповів про допомогу Закарпаттю. Угорщина спрямувала для Закарпатської області пакет допомоги. До нього увійшли обладнання для хворих, генератори та транспортні засоби.",
+    "28ac012c9b264d5a": "Зеленський зустрівся на Закарпатті з главою уряду Угорщини Мадяром. Глава угорського уряду відвідує Україну вперше з 2015 року.",
+    "8320541fcef5fc4d": "Зеленський і Петер Мадяр зустрілися на Закарпатті: про що вже домовилися. У вівторок, 24 листопада, президент України Володимир Зеленський та прем’єр-міністр Угорщини Петер Мадяр зустрілися на Закарпатті. Лідери вшанували пам’ять полеглих українських воїнів і досягли перших домовленостей у політиці, енергетиці та інфраструктурі. Про це повідомляє Львівський портал. Спершу про перетин українсько-угорського кордону та прибуття на Закарпаття повідомив у Facebook сам очільник угорського уряду Петер Мадяр. «Ми … Continue reading Зеленський і Петер Мадяр зустрілися на Закарпатті: про що вже домовилися →",
+    "1f7a7c7fcdef02bd": "Петер Мадяр вперше на посаді прем’єр-міністра Угорщини відвідав Україну. Петер Мадяр зустрівся із Володимиром Зеленським на Закарпатті.",
+    "260f86baab54fcb8": "Угорський прем'єр розповів, що приймав у себе біженців із Закарпаття. Прем'єр-міністр Угорщини Петер Мадяр розповів, що приймав у себе біженців із Закарпаття після початку повномасштабної російської війни проти України.",
+    "40a5e04a9390597b": "Мадяр оголосив про новий фонд допомоги закордонним угорцям під час візиту на Закарпаття. Угорщина передала Закарпатській області гуманітарну допомогу, до якої увійшли медичне обладнання, ліки, генератори та транспортні засоби. Крім того, угорський уряд планує створити окремий соціальний фонд для підтримки закордонних угорців. Як пише \"ЄП\", про це повідомив прем'єр-міністр Угорщини Петер Мадяр та поінформував у соцмережах Володимир Зеленський, передає Рубрика. За словами глави угорського уряду, допомога призначена для […] The post Мадяр оголосив про новий фонд допомоги закордонним угорцям під час візиту на Закарпаття appeared first on Рубрика .",
+    "616aff0b75d97c28": "Україна може поставити Угорщині певний обсяг кукурудзи – Зеленський. Президент України Володимир Зеленьский і прем’єр-міністр Угорщини Петер Мадяр обговорили питання продовольчої безпеки, зокрема, Україна може поставити Угорщині кукурудзу.",
+    "8773f4094176903d": "Мадяр запросив Зеленського відвідати Угорщину. Петер Мадяр запросив Президента України Володимира Зеленського відвідати Угорщину.",
+    "5401360bb36329af": "Зеленський та Мадяр зустрілись з представниками угорської громади Закарпаття. Це була остання зустріч в рамках робочого візиту прем'єра Угорщини до України.",
+    "6895053659c47bee": "Зеленський і Мадяр зустрілися з представниками угорської громади Закарпаття. Президент України і прем’єр-міністр Угорщини проведи зустріч із представниками угорської громади Закарпатської області.",
+    "5cae80d1c40c609b": "Зеленський і Мадяр зустрілися на Закарпатті: деталі зустрічі. Прем’єр-міністр Угорщини вперше з 20156 року відвідав Україну. Петер Мадяр зустрівся з президентом Володимиром Зеленським у Закарпатській області. Зеленський каже, що вони обговорили низку питань та досягли конкретних домовленостей. Візит Мадяра в Україну розпочався з вшанування пам’яті полеглих українських воїнів. Лідери віддали шану загиблим українським воїнам біля головного меморіального комплексу Ужгорода — Пагорба Слави, що... Запис Зеленський і Мадяр зустрілися на Закарпатті: деталі зустрічі спершу з'явиться на Громадське радіо .",
+    "8541efd1cef9dd92": "Зеленський та Мадяр обговорювали питання спільних проєктів інфраструктури, енергетики та співпраці на Закарпатті. Зеленський повідомив, що з премʼєр-міністром Угорщини Петером Мадяром обговорили питання спільних проєктів в інфраструктурі, розвитку залізничного шляху Київ — Будапешт, питання енергетики",
+    "0d406e0d2440ec74": "Зеленський заявив про «дуже предметну» зустріч із Мадяром на Закарпатті. Зеленський заявив про обговорення з Мадяром тем енергетики, двосторонньої торгівлі й гуманітарної підтримки",
+    "00d270c0916307de": "Росіяни вранці з дрона поцілили по маршрутці на Харківщині: одна людина загинула. У Чугуївському районі російський дрон вразив маршрутний автобус: одна людина загинула, семеро отримали поранення. Постраждалим надають допомогу.",
+    "d043b23e31031bab": "Російські війська поцілили дроном по маршрутці у Харківській області, є загиблий і поранені. Війська країни-агресора Росії вдарили дроном по маршрутному автобусу у Чугуївському районі Харківської області. Внаслідок атаки загинула одна людина, ще семеро — постраждали, повідомив керівник Харківської ОВА Олег Синєгубов у середу, 25 листопада.",
+    "bedeedbc4d0b27a2": "ВАЖЛИВЕ ЗА НІЧ. Російські безпілотники вдарили по Мерефі та Лозовій Харківської області: шестеро людей дістали поранення Російські загарбники вдарили безпілотником по маршрутці в Чугуївському районі Харківської області: одна людина загинула, є постраждалі Росіяни завдали удару по Білій Церкві: загинула людина,...",
+    "0884a3127fe6d14c": "Одна людина загинула, семеро постраждали через удар ворожого дрона по маршрутному автобусу на Харківщині – ОВА. Одна людина загинула та ще семеро постраждали внаслідок удару російського безпілотника по маршрутному автобусу в Чугуївському районі Харківської області, повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов.",
+    "a1fd3da9e6994348": "Росіяни вдарили дроном по маршрутному автобусу на Харківщині: є загиблий та семеро постраждалих. Усім постраждалим надають необхідну медичну допомогу.",
+    "7ff7bf7cc8ab53fa": "Ворожий дрон поцілив по маршрутці на Харківщині - один загиблий, семеро постраждалих. Російський безпілотник атакував маршрутний автобус у Чугуївському районі Харківської області, одна людина загинула і ще семеро постраждали.",
+    "8478e95c6da5c6dd": "Загинула людина, семеро постраждали: російський дрон влучив у маршрутний автобус на Харківщині. Російський дрон 25 листопада атакував маршрутний автобус на трасі біля села Федорівка Чугуївського району. Одна людина загинула, семеро постраждали.",
+    "ff16b277d196cd72": "Війська рф атакували дронами Лозову та Мерефу на Харківщині, поранено цивільних. На Харківщині внаслідок ворожих ударів по містах Лозова та Мерефа постраждали шестеро людей.",
+    "370aec2411140155": "У Харківській області 25 листопада діятимуть графіки погодинних відключень електрики. Для промисловості та бізнесу з 00:00 до 24:00 діятимуть графіки обмеження потужності.",
+    "417531e6e3f26fdc": "Понад дві тисячі мешканців Золочівської громади залишилися без світла після атаки РФ. Російський БпЛА пошкодив лінії електропередач у Золочівській громаді, внаслідок чого без світла залишилися більш ніж 2300 мешканців. Енергетики відновили електропостачання. Про це повідомили у «Харківобленерго». Зазначається, що внаслідок вибуху було знеструмлено частину селища Золочів та кілька прилеглих сіл. Водночас залучити спецтехніку, зокрема автовежу, неможливо через загрозу російських ударів. «На місце робіт довелося добиратися бездоріжжям після сильного дощу на бригадному автомобілі. Для відновлення обірваних проводів електромонтери підіймалися на монтерських лазах.",
+    "f906e62b925e0efc": "Без світла був Золочів і частина громади через удар БпЛА – що відомо. В АТ “Харківобленерго” розповіли, що російський реактивний БпЛА пошкодив лінії електропередач. Через це частина Золочева...",
+    "5b3f150fe11db2ab": "Під загрозою ворожих ударів відновлене енергопостачання на Харківщині (фото). Світло повернулося до 2300 споживачів Золочівської територіальної громади.",
+    "7d458d68ed46d388": "Декілька населених пунктів Золочівської громади були знеструмлені через обстріл рф: що кажуть у СВА. У Золочівській громаді на Харківщині практично повністю відновили електропостачання після пошкодження ліній електропередач унаслідок російського удару безпілотника. Наразі світло повернули, зокрема, у населені пункти, які раніше залишалися знеструмленими.",
+    "e32a7554693b6cb8": "Після удару по Керченському мосту ціни на пальне та продукти в Криму стрімко ростуть (відео). Попит і ціни на бензин у Криму зріс після ударів України по Керченському (Кримському) мосту",
+    "7003f4c74a26eb49": "Окупанти не забезпечують безпечний виїзд з Криму після удару по Кримському мосту — Представництво Президента в АРК. Після ураження Кримського мосту окупанти дозволили разові перевезення легковиків поромами лише приїжджим. Експерти пояснили, чим це загрожує жителям Криму",
+    "bd14a8dae4ed56a8": "«Новий рівень виживання». Як руйнування Керченського (Кримського) мосту позначилося на житті та економіці Криму. Кримчани скаржаться на зростання цін, відключення світла та перебої зі зв'язком",
+    "cbc26a40c432bda6": "Чому після удару по Керченському мосту на Крим чекає паливна криза, хоча бензовози ним не їздили — експерт. Керівник Центру вивчення окупації Петро Андрющенко в інтерв'ю Radio NV пояснив, чому після ураження Керченського мосту на Крим очікує паливна криза, попри те, що бензовози цим мостом не їздили.",
+    "9fbcdd09fbba296b": "25 листопада в частині областей України вимикатимуть світло за графіками. Графіки погодинних відключень для всіх категорій споживачів (обсягом від 0,5 до 3 черг), а також для промиловості діятимуть цілодобово",
+    "a0fdd1c0f9cbd0b0": "Укренерго: завтра у частині областей України діятимуть графіки відключення електроенергії. Графіки запровадять для промислових і побутових споживачів.",
+    "38b08399daa10bc3": "Графіки відключення світла у середу цілодобово діятимуть у частині областей. У частині областей України у середу, 25 листопада, цілодобово діятимуть планові відключення електроенергії.",
+    "5c5ce1b8cf3d88f5": "Відключення світла в Україні. Як діятимуть графіки 25 листопада. 25 листопада цілодобово діятимуть планові відключення електроенергії у частині областей України. Про це повідомили у пресслужбі «Укренерго». Для всіх категорій споживачів діятимуть графіки погодинних відключень від 0,5 до 3 черг. Причина – наслідки російських атак на енергосистему. «Актуальні графіки відключень перевіряйте на офіційних сторінках вашого оператора системи розподілу», – зазначили у компанії. Нагадаємо, що 23 […]",
+    "1d3e928cd0bd68fa": "Графік відключень світла у Полтаві та області на 25 листопада. 25 листопада у Полтаві та області діятиме ГАВ (графік погодинних відключень). Він діятиме протягом доби. З 00:00 до 23:59. Відключення світла застосують в обсязі 3 черг",
+    "e498615f9072e51d": "У частині областей України 25 листопада діятимуть погодинні відключення електроенергії. У середу, 25 листопада, у частині областей України протягом усієї доби застосовуватимуть планові обмеження споживання електроенергії.",
+    "0b8371f026af5bcb": "На Полтавщині оголосили перший рівень небезпеки через ожеледицю. 25 листопада у Полтавській області прогнозують ожеледицю. Про це повідомили в Полтавській ОВА, посилаючись на інформацію від обласного гідрометцентру. Упродовж... Запис На Полтавщині оголосили перший рівень небезпеки через ожеледицю спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
+    "7f91ad90016cb346": "У Подільську на Одещині внаслідок російської атаки загинув 17-річний хлопець. У Подільську Одеської області внаслідок атаки російського безпілотника загинув 17-річний хлопець. Під час удару він ішов дорогою. Про загибель підлітка повідомив представник Подільської РВА Руслан Пітак",
+    "364240d2d17c6f47": "В Одеській області внаслідок російської атаки загинув 17-річний хлопець. У Подільському районі Одеської області внаслідок російського обстрілу загинув 17-річний хлопець.",
+    "5415d2827e27618f": "Двоє загиблих, поранена дитина та пошкоджені будівлі: атака РФ на Одещину. 24 листопада Росія атакувала Одеську область. Загинули 41-річний чоловік і 17-річний хлопець, ще троє людей дістали поранення, серед них 12-річна дитина. Пошкоджено житловий будинок, виробничу будівлю та автомобілі",
+    "f57926d5807123ee": "Двоє людей загинули, ще троє, зокрема дитина, поранені внаслідок ворожих обстрілів Одещини – ОВА. Двоє людей, серед яких 17-річний хлопець, загинули та ще троє, зокрема 12-річна дитина, дістали поранення внаслідок чергових російських обстрілів Одеської області, повідомив начальник Одеської обласної військової адміністрації Олег Кіпер.",
+    "d240fe99e63450ba": "Внаслідок чергових обстрілів на Одещині загинуло двоє людей. Це 41-річний чоловік та 17-річний хлопець. Ще троє людей зазнали поранень, зокрема 12-річна дитина, – повідомила Одеська ОВА. Пошкоджено цивільну інфраструктуру, приватний будинок, виробничу будівлю та легкові автомобілі. На місцях влучань працюють всі відповідні служби. Правоохоронці документують чергові воєнні злочини росії проти цивільного населення. Співчуття рідним та близьким загиблих.",
+    "b2a2acd7952efba1": "На Одещині внаслідок обстрілів загинули чоловік та 17-річний хлопець. Внаслідок чергових обстрілів Одеської області загинули двоє людей — 41-річний чоловік та 17-річний хлопець, ще троє людей отримали поранення. Про це повідомили у пресслужбі Одеської ОВА. Серед поранених — 12-річна дитина. Внаслідок обстрілів пошкоджено цивільну інфраструктуру, приватний будинок, виробничу будівлю та легкові автомобілі. На місцях влучань працюють усі відповідні служби. Нагадаємо, внаслідок російської атаки на Одещину було пошкоджено близько 20 Сообщение На Одещині внаслідок обстрілів загинули чоловік та 17-річний хлопець появились сначала на Новини Одеси - Odesa Online .",
+    "211f00e5b3224908": "Російські війська атакували Одещину: загинули двоє людей, ще троє поранені, серед них дитина. Через російські удари по Одещині 24 листопада загинули двоє людей: 41-річний чоловік та 17-річний хлопець. Ще троє людей поранені.",
+    "c1148850468c6060": "Ворог знову б’є по Одещині: двоє загибли, троє поранених, пошкоджено цивільну інфраструктуру. \"Ворог не припиняє терор мирного населення Одещини. Внаслідок чергових обстрілів загинуло двоє людей: 41-річний чоловік та 17-річний хлопець. Ще троє людей зазнали поранень, зокрема 12-річна дитина\", - повідомив у Телеграм ввечері 24 листопада начальник Одеської ОВА Олег Кіпер. За його словами,...",
+    "32d67f0be6f02ade": "17-річний хлопець і 41-річний чоловік загинули на Одещині через удар РФ – влада. «Ворог не припиняє терор мирного населення Одещини. Внаслідок чергових обстрілів загинуло двоє людей: 41-річний чоловік і 17-річний хлопець. Ще троє людей зазнали поранень, зокрема 12-річна дитина», – написав Кіпер у телеграмі",
+    "a3bda22c1bd3833c": "На Одещині внаслідок удару рф загинули люди, серед постраждалих – дитина. У результаті російських ударів по Одещині загинули двоє людей – 41-річний чоловік та 17-річний підліток. Ще троє людей дістали поранень, серед них є дитина.",
+    "3f3f7f9572bce570": "Двоє загиблих і троє поранених: Росія атакувала Одещину. Внаслідок ударів безпілотниками пошкоджено будинки, підприємство, автомобілі та склади з пшеницею.",
+    "530db259d2f363b1": "Ворог атакує Одещину: пошкоджено будівлю лікарні, фермерське господарство (фото). Протягом 24 листопада ворог декілька разів атакував на цивільну інфраструктуру Одещини. Внаслідок ворожого обстрілу пошкоджено будівлю міської лікарні в Одесі. Вибито вікна, пошкоджено фасад та внутрішні стіни. Як повідомляв вдень…",
+    "c86be0e30dc12b37": "На Одещині зросла кількість локальних аварій в електромережах. Енергетикам вдалося стабілізувати ситуацію після атак. Зрозуміло, що після тривалих відключень хочеться якнайшвидше зігріти оселю, приготувати їжу, зарядити техніку та зробити всі побутові справи. Однак одночасне ввімкнення потужних електроприладів призводить до перевантаження мереж, нових аварій та повторних відключень світла. Тому енергетики просять про допомогу: під час відключень від’єднуйте потужні прилади від мережі, а після повернення [...]",
+    "741aa102b98283ca": "Російський FPV-дрон пошкодив автомобіль УЧХ під час гуманітарної місії в Слов'янську. Автомобіль Українського Червоного Хреста (УЧХ) пошкоджено під час гуманітарної місії внаслідок удару російського FPV-дрона в Слов'янську.",
+    "765aa5b6b68087a1": "Російський FPV-дрон пошкодив автомобіль Українського Червоного Хреста у Слов’янську. Службовий Ford Transit загону швидкого реагування зазнав значних пошкоджень під час гуманітарної місії.",
+    "438642c4bf224165": "Російський FPV-дрон атакував місію Червоного Хреста у Слов’янську. Атака сталася під час евакуаційної місії.",
+    "596f9a6c98f2bd1f": "У Слов'янську внаслідок атаки 22 листопада пошкоджений автомобіль Червоного Хреста. 22 листопада у Слов'янську російський FPV-дрон влучив у службове авто Українського Червоного Хреста, яке приїхало на евакуацію. Транспорт пошкоджений",
+    "55c1247a1a7afe38": "Російська армія атакувала автомобіль Червоного Хреста під час допомоги людям у Слов’янську. 22 листопада під час виконання гуманітарної місії російський дрон пошкодив службовий автомобіль Ford Transit загону швидкого реагування Українського Червоного Хреста у Слов’янську. Про це повідомили в УЧХ. Атака сталася під час адресного об’їзду жителів, які потребували допомоги з евакуацією. Заступник командира загону швидкого реагування УЧХ у Донецькій області прибув за однією з адрес, щоб допомогти […]",
+    "6c9ad39547033203": "Російський дрон вдарив по авто газовиків під час аварійних робіт у Слов’янську: машина загорілася. 23 листопада російські окупанти FPV-дроном атакували автомобіль газовиків під час аварійних робіт у Слов’янську. Про це повідомили у пресслужбі «Донецькоблгазу». Двоє працівників «Донецькоблгазу» – водій та слюсар – виїхали на аварійну заявку. «Поки вони намагалися усунути несправність, з’явився ворожий FPV-дрон. Працівники встигли сховатися. Безпілотник покружляв навколо службового автомобіля та вдарив по ньому. Машина почала горіти. […]",
+    "20d9d7a7b7802bd4": "У Слов’янську з-під завалів будинку дістали тіло чоловіка, ще троє людей поранені внаслідок нових атак ворога. У Слов’янську кількість загиблих унаслідок авіаудару 22 листопада зросла до трьох. Водночас через нові російські обстріли міста поранення отримали ще троє людей.",
+    "832d0af0023757b1": "У Слов’янську за тиждень росіяни вбили трьох працівників МВА, ще одну автівку адміністрації атакували дроном. Російські війська продовжують атакувати Слов’янськ. За минулий тиждень унаслідок обстрілів загинули троє співробітників міської військової адміністрації, а вчора під удар потрапив автомобіль комісії з питань є Відновлення.",
+    "31fe5ef1920eed71": "Поліційні \"Білі янголи\" евакуювали з Краматорської громади дітей, поранених і людей з інвалідністю (відео). Під постійними атаками дронів евакуаційний підрозділ пол",
+    "c09dad7687c0ac00": "Вибухи за вікнами, евакуація на ношах: як «Білі Янголи» рятують людей у Краматорську (відео). Через російські атаки мешканцям Краматорська стає дедалі складніше залишати небезпечні райони. Під час одного з останніх рейсів поліцейським «Білого Янгола» довелося чекати, поки стихне масований обстріл, перш ніж вивести людей із будинку. Серед евакуйованих — літні та маломобільні мешканці, а також родина з дитиною, яка вже вдруге через війну змушена шукати безпечніше місце. Про це […]",
+    "5383d7abcb0c756d": "З Краматорська евакуювали дітей, поранених та людей з інвалідністю. «Білі Янголи» евакуюють мешканців Краматорської громади під атаками дронів. Поліцейські вивозять дітей, літніх, поранених і маломобільних людей. Запис З Краматорська евакуювали дітей, поранених та людей з інвалідністю спершу з'явиться на Антикризовий медіа-центр .",
+    "66da143dcaec6c11": "«Білі Янголи» евакуювали з Краматорської громади дітей, поранених і людей з інвалідністю. Через погіршення безпекової ситуації кількість заявок на евакуацію суттєво зросла.",
+    "fa75a2b83cefb605": "З Краматорської громади «Білі Янголи» евакуювали дві родини з дітьми, поранених і людей з інвалідністю. Через погіршення безпекової ситуації кількість заявок на порятунок із Краматорська суттєво зросла. Під час чергового виїзду поліцейським довелося перечікувати масований обстріл у під'їзді, перш ніж вивести людей",
+    "4daa85e438db82a2": "“Кожен рейс супроводжувався вибухами”: з Краматорської громади евакуювали ще дві родини з дітьми. Екіпаж “Білого Янгола” днями евакуював з Краматорської громади ще дві родини з дітьми, одна з яких раніше мешкала в Дружківці. У межах операції правоохоронці допомогли виїхати й іншим містянам, зокрема маломобільним. Про це повідомили в поліції Донецької області. За їхніми словами, кількість заявок на евакуацію…",
+    "1349ecafc8e53cb8": "Рятувальна операція під обстрілами: «Білі Янголи» евакуювали з Краматорської громади дві родини з дітьми, поранених та людей з інвалідністю. Евакуаційні екіпажі поліції «Білі Янголи» провели чергов",
+    "c77cc7af48bbe3ef": "В Краматорську внаслідок ворожого обстрілу загинув рятувальник. На момент атаки він був не на службі.",
+    "f17234cd57cf29b0": "Шанель із Краматорська стала останньою твариною, яку врятував загиблий волонтер Джессі Адамс: тепер кішка чекає на люблячу родину. Харківські зоозахисники шукають родини для котів, врятованих із прифронтових міст. Серед них — кішка Шанель із Краматорська, яка вижила під час російської атаки на автомобіль волонтерів.",
+    "595e261637899d26": "Ковельщина вдруге за добу зазнала ворожої атаки. Удруге за добу ворог атакував Ковельську громаду реактивними шахедами. Унаслідок сьогоднішньої атаки, як і під час попередньої ввечері, загиблих немає. Один чоловік зазнав незначних ушкоджень, однак від госпіталізації відмовився, повідомив голова Волинської обласної військової адміністрації Роман Романюк На території одного з підприємств через влучання виникла пожежа. Горіли два причепи: один із завантаженим вугіллям, інший – […]",
+    "ed874070b62bf566": "Вдруге за добу РФ атакувала Ковельську громаду: БпЛА влучив по території одного з підприємств. Ковельську громаду вдруге за добу атакували реактивні БпЛА. Внаслідок влучання дрона на території одного з підприємств сталася пожежа — горіли вантажні причепи",
+    "5225a2c3300494d4": "Ворог вдруге за добу атакував Ковельську громаду. Ковельська громада вдруге за добу зазнала атаки реактивними шахедами. Про це повідомив т.в.о. начальника Волинської ОВА Роман Романюк на своїй сторінці у «Фейсбук». «Сьогодні, як і вчора ввечері, на щастя, без травмованих та загиблих. Внаслідок влучання на територію одного з підприємств є загоряння двох причепів: одного із завантаженим вугіллям, іншого — з палетною дошкою. Наразі […] The post Ворог вдруге за добу атакував Ковельську громаду appeared first on Волинь Online .",
+    "5289e3c159e67f9e": "У Ковельській громаді — троє поранених після російського обстрілу. Станом на 22:30 відомо про ще одну ворожу атаку на Ковельську громаду. Про це повідомив т.в.о. начальника Волинської ОВА Роман Романюк на своїй сторінці у «Фейсбук». «Знову атакували Ковельську громаду. Під час останньої повітряної тривоги в повітряному просторі зафіксували три реактивні шахеди. Внаслідок ураження першого дрона силами мобільно-вогневої групи на територію автостоянки відпочинкового комплексу впали […] The post У Ковельській громаді — троє поранених після російського обстрілу appeared first on Волинь Online .",
+    "56f8c4efe191173d": "Рятувальники ліквідували наслідки російського обстрілу у Ковельській громаді. Сьогодні, 24 листопада, ввечері внаслідок російського обстрілу виникла пожежа на автостоянці в Ковельському районі. Вогонь охопив два вантажні причепи. Про це повідомили волинські правоохоронці на своїй сторінці у «Фейсбук». Рятувальники оперативно ліквідували займання. Внаслідок ворожої атаки постраждав чоловік. Від госпіталізації він відмовився. До ліквідації пожежі від ДСНС залучили 11 рятувальників та три одиниці пожежно-рятувальної техніки. The post Рятувальники ліквідували наслідки російського обстрілу у Ковельській громаді appeared first on Волинь Online .",
+    "7d76d21bb4a43c05": "Черговий удар по Ковельській громаді: комісія обстежить наслідки обстрілу. Увечері 23 листопада ворог завдав чергового удару по Ковельській громаді. Внаслідок атаки виникла пожежа на автостоянці, яку рятувальникам вдалося ліквідувати. Обійшлося без постраждалих, однак є пошкодження приватного майна. Про це повідомив Ковельський міський голова Ігор Чайка на своїй сторінці у «Фейсбук». На «Гарячу лінію» міського голови надійшло 14 звернень щодо руйнувань у приватному секторі — […] The post Черговий удар по Ковельській громаді: комісія обстежить наслідки обстрілу appeared first on Волинь Online .",
+    "fc9ebb290488b3fe": "Відключення світла в Луцьку та області: графіки на 25 листопада. 25 листопада на Волині знову застосують обмеження в подачі електроенергії. У Луцьку та області будуть діяти графіки відключення світла для населення",
+    "98a1f5b9e3992e45": "На Волині 25 листопада діятимуть графіки погодинних відключень електроенергії. У середу, 25 листопада, на Волині застосовуватимуть графіки погодинного відключення електроенергії. Обмеження запроваджують через наслідки російських атак на енергетичну систему України.",
+    "f14e107b7888fc00": "Майже рік був зниклим безвісти: у Луцьку попрощалися з 32-річним Артуром Ятченком. Артуру Янченку було 32 роки. Солдат з Луцька майже рік вважався зниклим безвісти. Боєць загинув 21 листопада 2025 року поблизу селища Новоекономічне Донецької області",
+    "81d2c1640b983110": "У Луцьку попрощалися з 32-річним Артуром Ятченком, який майже рік вважався зниклим безвісти. У вівторок, 24 листопада, у Луцьку провели в останню дорогу захисника Артура Ятченка. Майже рік його рідні жили надією на повернення, чекали звістки й не втрачали віри. Воїн загинув на Донеччині під час виконання бойового завдання. Йому було 32 роки. Про це повідомили на сайті Луцької міськради. Артур Ятченко народився 26 вересня 1993 року в […] The post У Луцьку попрощалися з 32-річним Артуром Ятченком, який майже рік вважався зниклим безвісти appeared first on Волинь Online .",
+    "b9f141758d2dea92": "У Луцьку попрощаються із захисником Юрієм Наплетою, який понад два роки вважався зниклим безвісти. У середу, 25 листопада, у Луцьку проведуть в останню дорогу військовослужбовця Юрія Наплету, який загинув у вересні 2024 року під час штурмових дій противника на Донеччині. Про це повідомили на сайті Луцькради. О 9:50 похоронний кортеж вирушить від Волинського обласного бюро судово-медичної експертизи, що на вулиці Стефаника, до будинку за адресою: вулиця Миру, 4. Після […] The post У Луцьку попрощаються із захисником Юрієм Наплетою, який понад два роки вважався зниклим безвісти appeared first on Волинь Online .",
+    "c5def4eda8d88a5b": "Хмельниччина цьогоріч спрямувала на підтримку Сил оборони майже ₴1,3 мільярда. Від початку року обласний бюджет і бюджети територіальних громад Хмельниччини виділили на підтримку Сил оборони майже 1,3 млрд грн.",
+    "470f5b4977d6688b": "Німеччина першою отримає доступ до української DELTA: які бойові цифрові системи мають союзники. Розповідаємо, які системи працюють у партнерів і з чим українська платформа вже проходила випробування.",
+    "5450c01e84638a56": "В УОС підтвердили просування Сил оборони в районі Устинівки на Харківщині. Сили оборони відкинули російські війська в районі Устинівки на Харківщині. Про це Ґвара медіа повідомив речник УОС Віктор Трегубов. За його словами, просування в цьому районі відбулося в межах української операції «Ведмежий капкан», під час якої Сили оборони, зокрема, звільнили 14 населених пунктів. Село Устинівка розташоване у Вільхуватській громаді Куп’янського району між селами Івашкине і Широке. До повномасштабного вторгення тут проживало до 200 людей. Село розташоване за близько 10 кілометрів від кордону з РФ та за даними мапи DeepState перебуває у сірій зоні.",
+    "18c0185b6673f6da": "Хмельницькобленерго оприлюднило графік відключень світла на 25 листопада. Тривалість обмежень залежить від підчерги. Подекуди світло буде відсутнє до 8 годин на добу.",
+    "7e3c7016606e602f": "Чому вимикають світло на різний час: як формують графіки відключень на Хмельниччині. Графік відключень електроенергії у Хмельницькій області формується однаково для всіх, розповіли в обленерго. Причиною відхилень є накази Укренерго, аварійні ремонти та наслідки російських обстрілів",
+    "c2dab02625d275b7": "Графік відключень на 25 листопада: де на Закарпатті не буде світла. Відомо за яким графіком виключатимуть світло у середу, 25 листопада.",
+    "bc5d3e2caf44a30f": "На Закарпатті 25 листопада застосували графіки погодинних відключень електроенергії. На Закарпатті 25 листопада запроваджують графіки погодинних відключень електроенергії. Про це повідомили у Telegram-каналі Закарпаттяобленерго.",
+    "a2327f91479f0431": "У Закарпатському кардіоцентрі до 19 грудня триває безкоштовний скринінг здоров’я 40+. Валерія Рубаняк вт, 24/11/2026 - 10:40 Пацієнти віком від 40 років можуть скористатися державною підтримкою для перевірки здоров’я в межах національної програми «Скринінг здоров’я 40+» безпосередньо у Закарпатському кардіоцентрі. Через завершення бюджетного року Міністерство охорони здоров’я нагадує про граничні терміни подання заявок та оплати обстежень у 2026 році.",
+    "d428a78ccc1176de": "В Ужгороді презентували концепцію простору пам’яті та очікування військовополонених та зниклих безвісти. В Ужгороді презентували концепцію майбутнього простору пам’яті та очікування військовополонених та зниклих безвісти."
+  },
+  "budget_characters": 1707,
+  "characters": 1675,
+  "stories": 4,
+  "retold": 4,
+  "log": {
+    "llm": {
+      "model": "claude-opus-5-5",
+      "input_tokens": 19932,
+      "output_tokens": 2269,
+      "request_id": "req_011ChP8sSPptRncrqYXhp5zN"
+    },
+    "rejected": [
+      {
+        "story_ids": [
+          "national-c-00d270c0916307de"
+        ],
+        "text": "Одна людина загинула, 7 постраждали внаслідок удару російського дрона по маршрутному автобусу в Чугуївському районі Харківщини. Про це повідомив Олег Синєгубов. Дрон атакував автобус 25 листопада на трасі біля села Федорівка.",
+        "problems": [
+          "не знайдено в джерелах: number «7»"
+        ]
+      },
+      {
+        "story_ids": [
+          "regional-c-211f00e5b3224908"
+        ],
+        "text": "Двоє людей загинули внаслідок російських ударів по Одещині 24 листопада. За словами Олега Кіпера, це 41-річний чоловік і 17-річний хлопець. Ще 3 людини поранені, серед них 12-річна дитина.",
+        "problems": [
+          "не знайдено в джерелах: number «3»"
+        ]
+      }
+    ],
+    "fallback": [
+      "national-c-00d270c0916307de",
+      "regional-c-211f00e5b3224908"
+    ],
+    "left_out": [
+      "national-c-03dd32478e17c2cd",
+      "national-c-85ed51f43eecf594",
+      "national-c-2363b12b2bed78a8",
+      "regional-c-417531e6e3f26fdc",
+      "regional-c-1d3e928cd0bd68fa",
+      "regional-c-438642c4bf224165",
+      "regional-c-1349ecafc8e53cb8"
+    ],
+    "freshened": [],
+    "strikes_digest": {
+      "merged": true,
+      "stories": 4,
+      "killed": 4,
+      "injured": 60,
+      "apart": [
+        "national-c-2f622d853d0a23a2"
+      ]
+    },
+    "cut_for_budget": []
+  },
+  "script_sha256": "7ca6c8cbee0d63805ae0f469585b335d7fe42a8001196c26585e2a5c8e63e55f",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок двадцять п'ятого листопада: візит прем'єра Угорщини Петера Мадяра на Закарпаття, знеструмлення на Запоріжжі та наслідки російських ударів.\nПрем'єр-міністр Угорщини Петер Мадяр 24 листопада зустрівся в Ужгороді з президентом Володимиром Зеленським.\nГлава угорського уряду відвідав Україну вперше з 2015 року.\nЗа словами Зеленського, вони обговорили енергетику, спільні проєкти в інфраструктурі та залізничний шлях Київ — Будапешт.\nРосійські війська вдень 24 листопада майже 30 разів атакували Дніпро та два райони області.\nПоранені 6 людей.\nКрім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 4 людини, ще щонайменше 60 людей поранено.\nНайбільше постраждалих на Запоріжжі та Одещині.\nУ Запоріжжі та області знеструмлено значну кількість споживачів через російські обстріли, повідомило «Запоріжжяобленерго».\nВійська країни-агресора Росії вдарили дроном по маршрутному автобусу у Чугуївському районі Харківської області.\nУ результаті російських ударів по Одещині загинули двоє людей – 41-річний чоловік та 17-річний підліток.\nУ Криму після ураження Керченського мосту зростають ціни на пальне та продукти.\nУ Представництві Президента в АРК заявили, що окупанти не забезпечують безпечний виїзд з півострова.\nЦе був BRIEF станом на ранок двадцять п'ятого листопада. Посилання на першоджерела — на сайті BRIEF."
+}

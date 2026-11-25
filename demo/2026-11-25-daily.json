@@ -1,0 +1,472 @@
+{
+  "date": "2026-11-25",
+  "variant": "daily",
+  "audio": "demo/2026-11-25-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 103.45,
+  "asr_mean_cer": 0.041,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "7ca6c8cbee0d63805ae0f469585b335d7fe42a8001196c26585e2a5c8e63e55f",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-25-daily/intro.mp3",
+      "duration_sec": 12.84,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок двадцять п'ятого листопада: візит прем'єра Угорщини Петера Мадяра на Закарпаття, знеструмлення на Запоріжжі та наслідки російських ударів."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Мадяр в Ужгороді",
+      "audio": "demo/2026-11-25-daily/story-1.mp3",
+      "duration_sec": 19.65,
+      "topics": [
+        "Політика",
+        "Міжнародне"
+      ],
+      "regions": [
+        "zakarpattia",
+        "lviv"
+      ],
+      "text": [
+        "Прем'єр-міністр Угорщини Петер Мадяр 24 листопада зустрівся в Ужгороді з президентом Володимиром Зеленським.",
+        "Глава угорського уряду відвідав Україну вперше з 2015 року.",
+        "За словами Зеленського, вони обговорили енергетику, спільні проєкти в інфраструктурі та залізничний шлях Київ — Будапешт."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/world/2026/11/24/783316_ugorskiy_premier_peter_madyar.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064359"
+        },
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/life/144513-premyer-ministr-uhorshchyny-anonsuvav-pershyy-za-11-rokiv-vizyt-do-zakarpattia-shcho-vidvidaye"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/peter-madyar-sohodni-zustrinetsya-iz-prezydentom-volodymyrom-zelenskym-na-zakarpatti"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/polityka/zelenskyj-madyar-zustrinutsya-sohodni-zakarpatti"
+        },
+        {
+          "name": "Ірта-fax",
+          "url": "https://irtafax.com/peter-madiar-vyrushyv-na-zakarpattia-dlia-perehovoriv-iz-zelenskym"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064433"
+        },
+        {
+          "name": "PMG.ua",
+          "url": "https://pmg.ua/politics/144518-peter-madiar-rozpoviv-iaki-pytannia-planuye-obhovoryty-iz-zelenskym-na-zakarpatti"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/na-zakarpatti-rozpochalasya-zustrich-prezydenta-ukrayiny-iz-premyer-ministrom-uhorshchyny"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1456978-zelenskij-ta-premer-ugorsini-madar-zustrilis-v-uzgorodi"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/personaliyi/274929-peter-madiar-vpershe-pryyikhav-na-zakarpattia-na-posadi-premyer-ministra-uhorshchyny"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241663.html"
+        },
+        {
+          "name": "Zaholovok.com.ua (Закарпаття. Про головне)",
+          "url": "https://zaholovok.com.ua/uhorshchyna-stvoryt-spetsfond-imeni-ilony-zrini-dlya-dopomohy-zakarpatskym-uhortsyam"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/uzhhorod/1456982-generatori-ta-medobladnanna-peter-madar-v-uzgorodi-rozpoviv-pro-dopomogu-zakarpattu"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/UKRAINE/zelenskij-zustrivsja-na-zakarpatti-z-lavoju-urjadu-uhorshchini-madjarom.html"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/24/zelenskyj-i-peter-madiar-zustrilysia-na-zakarpatti-pro-shcho-vzhe-domovylysia"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/24/peter-madyar-vpershe-na-posadi-premyer-ministra-ugorshhyny-vidvidav-ukrayinu"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064480"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/24/novyj-fond-dopomogy-zakordonnym"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241809.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4188272-madar-zaprosiv-zelenskogo-vidvidati-ugorsinu.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/news/2026/11/25/783554_zelenskiy_madyar_zustrilis_z.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-polytics/4188277-zelenskij-i-madar-zustrilisa-z-predstavnikami-ugorskoi-gromadi-zakarpatta.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/24/zelenskyy-i-madiar-zustrilysia-na-zakarpatti-detali-zustrichi"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/1457107-zelenskij-ta-madar-obgovoruvali-pitanna-spilnih-proektiv-infrastrukturi-energetiki-ta-spivpraci-na-zakarpatti"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zelenskyi-madiar/33905186.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Атаки на Дніпропетровщину",
+      "audio": "demo/2026-11-25-daily/story-2.mp3",
+      "duration_sec": 11.06,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "dnipropetrovsk"
+      ],
+      "text": [
+        "Російські війська вдень 24 листопада майже 30 разів атакували Дніпро та два райони області.",
+        "Поранені 6 людей."
+      ],
+      "sources": [
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/majzhe-30-atak-na-dnipropetrovshhynu-poraneno-6-lyudej"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1457059-rosijski-vijska-atakuvali-dnipro-ta-dva-rajoni-oblasti-bpla-ta-artilerieu"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/24/783482_rosiyani_vkotre_atakuvali.html"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/30-raziv-atakuvaly-try-raiony-24-lystopada"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/rosiyany-atakuvaly-dnipropetrovshhynu-trychi-poranenyj-cholovik-u-dnipri"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1457133-na-dnipropetrovsini-25-listopada-diut-pogodinni-grafiki-vidklucen-svitla"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/24/naslidky-rosijskoyi-ataky-po-dnipropetrovshhyni-postrazhdaly-shestero-lyudej-poshkodzheni-bagatopoverhivky"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188182-na-dnipropetrovsini-rosijskij-dron-atakuvav-brigadu-energetikiv.html"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "audio": "demo/2026-11-25-daily/story-3.mp3",
+      "duration_sec": 33.22,
+      "topics": [
+        "Війна та безпека",
+        "Економіка",
+        "Міжнародне",
+        "Бізнес",
+        "Суспільство"
+      ],
+      "regions": [
+        "zaporizhzhia",
+        "kharkiv",
+        "odesa",
+        "sumy"
+      ],
+      "text": [
+        "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 4 людини, ще щонайменше 60 людей поранено.",
+        "Найбільше постраждалих на Запоріжжі та Одещині.",
+        "У Запоріжжі та області знеструмлено значну кількість споживачів через російські обстріли, повідомило «Запоріжжяобленерго».",
+        "Війська країни-агресора Росії вдарили дроном по маршрутному автобусу у Чугуївському районі Харківської області.",
+        "У результаті російських ударів по Одещині загинули двоє людей – 41-річний чоловік та 17-річний підліток."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188298-cerez-rosijski-obstrili-castina-zaporizkoi-oblasti-zalisilasa-bez-svitla.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241842.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241830.html"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/25/407440_u-zaporizhzhi-ta-oblasti-onovyly-grafiky-vidklyuchen-svitla-na-25-lystopada"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1456980-na-fronti-zaginuv-vijskovij-z-orihivskoi-gromadi-zaporizkoi-oblasti-oleksij-sidelnik"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/25/8064526"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/marshrutka-u-harkivskiy-oblasti-potrapila-pid-udar-rf-odna-lyudina-zaginula-7-poranenih-50662307.html"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vazhlyve-za-nich-i574154"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241843.html"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/rosijani-vdarili-dronom-po-marshrutnomu-avtobusi-na-kharkivshchini-je-zahiblij-ta-semero-postrazhdalikh.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188302-vorozij-dron-pociliv-po-marsrutci-na-harkivsini-odin-zagiblij-semero-postrazdalih.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1457138-zaginula-ludina-semero-postrazdali-rosijskij-dron-vluciv-u-marsrutnij-avtobus-na-harkivsini"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/25/novyna/suspilstvo/vijska-rf-atakuvaly-dronamy-lozovu-ta-merefu-xarkivshhyni-poraneno-cyvilnyx"
+        },
+        {
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/25/u-harkivskij-oblasti-25-listopada-diyatimut-grafiki-pogodinnih-vidklyuchen-elektriki-2"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1457056-u-podilsku-na-odesini-vnaslidok-rosijskoi-ataki-zaginuv-17-ricnij-hlopec"
+        },
+        {
+          "name": "Інтент",
+          "url": "https://intent.press/news/society/2026/v-odeskii-oblasti-vnaslidok-rosiiskoi-ataki-zaginuv-17-richnii-khlopets"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1241798.html"
+        },
+        {
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/vnaslidok-chergovyh-obstriliv-na-odeshhyni-zagynulo-dvoye-lyudej"
+        },
+        {
+          "name": "Odesa.Online",
+          "url": "https://odessa.online/na-odeshhini-vnaslidok-obstriliv-zaginuli-cholovik-ta-17-richnij-hlopets"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/24/8064502"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/vorog-znovu-b-ye-po-odeshhyni-dvoye-zagybly-troye-poranenyh-poshkodzheno-tsyvilnu-infrastrukturu-i574147"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-odeshchyna-ataka-rf/33905192.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/24/novyna/suspilstvo/odeshhyni-vnaslidok-udaru-rf-zahynuly-lyudy-sered-postrazhdalyx-dytyna"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/war/dvoje-zahiblikh-i-troje-poranenikh-rosija-atakuvala-odeshchinu.html"
+        },
+        {
+          "name": "Гривна",
+          "url": "https://grivna.ua/news/vorog-atakuye-odeshhynu-poshkodzheno-budivlyu-likarni-fermerske-gospodarstvo-foto"
+        },
+        {
+          "name": "Informer.od.ua",
+          "url": "https://informer.od.ua/news/na-odeshhyni-zrosla-kilkist-lokalnyh-avarij-v-elektromerezhah"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/sumy/1457079-u-sumah-fpv-dron-vluciv-u-priparkovanij-avtomobil-zaginuv-76-ricnij-colovik"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/24/783510_sumah_cherez_ataku_rosiyskogo.html"
+        },
+        {
+          "name": "Цукр",
+          "url": "https://cukr.city/news/udar-fpv-dronom-po-sumakh-kovpakivskyi-raion"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/u-sumah-rashystskyj-dron-na-optovolokni-vbyv-pasazhyra-tsyvilnogo-avto-na-harkivshhyni-vnaslidok-i574134"
+        },
+        {
+          "name": "Кордон.Медіа",
+          "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr"
+        }
+      ],
+      "digest": {
+        "killed": 4,
+        "injured": 60,
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "parts": [
+          {
+            "place": "на Запоріжжі",
+            "kind": "поранені",
+            "n": 50,
+            "source": "Інтерфакс-Україна",
+            "url": "https://interfax.com.ua/news/general/1241830.html"
+          },
+          {
+            "place": "на Харківщині",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/25/8064526"
+          },
+          {
+            "place": "на Харківщині",
+            "kind": "поранені",
+            "n": 7,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/25/8064526"
+          },
+          {
+            "place": "на Сумщині",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Кордон.Медіа",
+            "url": "https://kordon.media/dron-na-optovolokni-vdaryv-po-avto-v-sumah-zagynuv-76-richnyj-pasazhyr"
+          },
+          {
+            "place": "на Одещині",
+            "kind": "загиблі",
+            "n": 2,
+            "source": "Суспільне Новини",
+            "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu"
+          },
+          {
+            "place": "на Одещині",
+            "kind": "поранені",
+            "n": 3,
+            "source": "Суспільне Новини",
+            "url": "https://suspilne.media/odesa/1457106-dvoe-zagiblih-poranena-ditina-ta-poskodzeni-budivli-ataka-rf-na-odesinu"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Крим після удару",
+      "audio": "demo/2026-11-25-daily/story-4.mp3",
+      "duration_sec": 13.36,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "crimea"
+      ],
+      "text": [
+        "У Криму після ураження Керченського мосту зростають ціни на пальне та продукти.",
+        "У Представництві Президента в АРК заявили, що окупанти не забезпечують безпечний виїзд з півострова."
+      ],
+      "sources": [
+        {
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/video-pislya-udaru-po-kerchenskomu-mostu-tsiny-na-palne-ta-produkty-v-krymu-strimko-rostut/33904748.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/crimea/1457074-okupanti-ne-zabezpecuut-bezpecnij-viizd-z-krimu-pisla-udaru-po-krimskomu-mostu-predstavnictvo-prezidenta-v-ark"
+        },
+        {
+          "name": "Крим.Реалії",
+          "url": "https://ua.krymr.com/a/yak-ruynuvannya-kerchenskoho-mostu-poznachylosya-na-zhytti-ekonomitsi-krymu/33905123.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/palivna-kriza-u-krimu-andryushchenko-poyasniv-prichini-maybutnogo-deficitu-pislya-udaru-po-mostu-50662230.html"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-25-daily/outro.mp3",
+      "duration_sec": 7.12,
+      "text": [
+        "Це був BRIEF станом на ранок двадцять п'ятого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
