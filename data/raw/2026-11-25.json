@@ -1,8 +1,8 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-26T05:59:02+00:00",
+  "generated_at": "2026-11-26T15:14:39+00:00",
   "source_count": 123,
-  "item_count": 2581,
+  "item_count": 2582,
   "items": [
     {
       "id": "c83c915e9f998c39",
@@ -1303,7 +1303,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://hromadske.ua/europa/275008-u-varshavi-navproty-prezydentskoho-palatsu-pidpalyv-sebe-ukrayinets-cholovika-u-vazkomu-stani-ushpytalyly",
-      "title": "У Варшаві навпроти Президентського палацу підпалив себе українець. Чоловіка у важкому стані ушпиталили",
+      "title": "У Варшаві українець підпалив себе навпроти Президентського палацу. Чоловіка ушпиталили у важкому стані",
       "published_at": "2026-11-25T21:02:00+00:00",
       "published_raw": "2026-11-25T23:02:00+02:00",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -1867,7 +1867,7 @@
       "geography": "national",
       "source_region": null,
       "url": "https://lb.ua/world/2026/11/25/783768_iegipti_vnaslidok_perekidannya.html",
-      "title": "В Єгипті внаслідок перекидання бензовозу загинуло щонайменше 30 людей, є поранені",
+      "title": "В Єгипті внаслідок перекидання бензовозу загинуло понад 30 людей, є поранені (оновлено)",
       "published_at": "2026-11-25T20:43:00+00:00",
       "published_raw": "Wed, 25 Nov 2026 22:43:00 +0200",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -2337,6 +2337,25 @@
       "published_at": "2026-11-25T20:28:23+00:00",
       "published_raw": "Wed, 25 Nov 2026 22:28:23 +0200",
       "fetched_at": "2026-11-25T22:31:51+00:00",
+      "description": "Прогнозована тривалість відключень у кожної підчерги становитиме 5-10 годин.",
+      "categories": [
+        "Суспільство"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "ef9d3b8bd12df3d8",
+      "source_id": "map-593",
+      "source": "Є",
+      "geography": "regional",
+      "source_region": "khmelnytskyi",
+      "url": "https://ye.ua/syspilstvo/81228_Grafik_vidklyichen_elektroenergiyi_u_Hmelnickiy_oblasti_na_26_listopada_(ONOVLENO).html",
+      "title": "Графік відключень електроенергії у Хмельницькій області на 26 листопада (ОНОВЛЕНО)",
+      "published_at": "2026-11-25T20:28:23+00:00",
+      "published_raw": "Wed, 25 Nov 2026 22:28:23 +0200",
+      "fetched_at": "2026-11-26T15:14:39+00:00",
       "description": "Прогнозована тривалість відключень у кожної підчерги становитиме 5-10 годин.",
       "categories": [
         "Суспільство"
@@ -4420,11 +4439,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/iak-vimikatimut-svitlo-na-poltavshchini-26-listopada",
-      "title": "Poltava Region Power Outage Schedule for Thursday, November 26: Times for Each Queue",
+      "title": "Як вимикатимуть світло на Полтавщині 26 листопада (оновлено)",
       "published_at": "2026-11-25T19:30:27+00:00",
       "published_raw": "Wed, 25 Nov 2026 19:30:27 GMT",
       "fetched_at": "2026-11-25T22:31:51+00:00",
-      "description": "Hourly power outages will be applied across Poltava Oblast on Thursday, November 26, according to Poltavaoblenergo. The schedule lists outage times for each of the 12 queues (sub-groups of consumers).",
+      "description": "26 листопада на Полтавщині діятимуть погодинні відключення електроенергії. Публікуємо графік для всіх черг.",
       "categories": [
         "Соціум",
         "Новини"
@@ -5990,11 +6009,11 @@
       "geography": "regional",
       "source_region": "poltava",
       "url": "https://poltavawave.com.ua/zviazkivtsi-17-poltavskoyi-brighadi-zbiraiut-100-tisiach-ghrivien-na-zakhist-vid-droniv",
-      "title": "Signal Troops of Poltava's 17th Brigade Raise UAH 100,000 for Protection Against FPV Drones",
+      "title": "Зв’язківці 17 Полтавської бригади збирають 100 тисяч гривень на захист від дронів",
       "published_at": "2026-11-25T18:50:27+00:00",
       "published_raw": "Wed, 25 Nov 2026 18:50:27 GMT",
       "fetched_at": "2026-11-25T22:31:51+00:00",
-      "description": "Signalmen of the 17th Poltava Brigade of the National Guard of Ukraine have opened a fundraiser for UAH 100,000 to buy anti-drone nets and two 12-gauge shotguns to protect personnel from enemy FPV drones.",
+      "description": "Зв’язківці 17 Полтавської бригади Нацгвардії збирають 100 тисяч гривень на сіткомети та дві рушниці для захисту від ворожих FPV-дронів.",
       "categories": [
         "Соціум",
         "Новини"
@@ -7221,7 +7240,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://objectiv.tv/uk/objectively/2026/11/25/bpla-atakuvav-avtomobil-pid-harkovom-dvoye-zagiblih",
-      "title": "БпЛА атакував два автомобілі під Харковом: троє загиблих (доповнено)",
+      "title": "БпЛА атакували два автомобілі під Харковом: троє загиблих (доповнено)",
       "published_at": "2026-11-25T18:17:15+00:00",
       "published_raw": "Wed, 25 Nov 2026 18:17:15 +0000",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -7562,7 +7581,7 @@
       "published_at": "2026-11-25T18:10:00+00:00",
       "published_raw": "Wed, 25 Nov 2026 18:10:00 +0000",
       "fetched_at": "2026-11-25T22:31:51+00:00",
-      "description": "Музей Григорія Сковороди передав ботанічному саду ХНУ ім. Каразіна відросток дуба Сковороди. Саме під ним, за легендами, відпочивав і творив український філософ понад два сторіччя тому. Рослину посадили до двох урочистих дат: 222-ї річниці заснування університету та напередодні 303-ї річниці з дня народження Сковороди. Де саме «житиме» сковородинівське дерево та [...] Запис У Харкові вкоренили нащадка дуба Григорія Сковороди спершу з'явиться на Радіо «Накипіло» .",
+      "description": "Музей Григорія Сковороди передав Ботанічному саду ХНУ імені В. Н. Каразіна відросток дуба Сковороди. Саме під ним, за легендами, український філософ відпочивав і творив понад два сторіччя тому. Рослину посадили до двох урочистих дат: 222-ї річниці заснування університету й напередодні 303-ї річниці із дня народження мислителя. Де саме «житиме» сковородинівське [...] Запис У Харкові вкоренили нащадка дуба Григорія Сковороди спершу з'явиться на Радіо «Накипіло» .",
       "categories": [
         "Тексти",
         "Історія",
@@ -12409,7 +12428,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://objectiv.tv/uk/objectively/2026/11/25/na-shho-vitratyat-22-6-mlrd-grn-u-harkovi-u-2027-rotsi-proekt-byudzhetu-mista",
-      "title": "На що витратять 22,6 млрд грн у Харкові у 2027 році – проект бюджету міста",
+      "title": "На що витратять 22,6 млрд грн у Харкові у 2027 році – проєкт бюджету міста",
       "published_at": "2026-11-25T16:20:52+00:00",
       "published_raw": "Wed, 25 Nov 2026 16:20:52 +0000",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -14542,7 +14561,7 @@
         "Бучанська громада",
         "Вибір редакції",
         "Новини",
-        "Анатолій Федорук"
+        "G-051"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -14644,7 +14663,7 @@
       "geography": "regional",
       "source_region": "kharkiv",
       "url": "https://objectiv.tv/uk/objectively/2026/11/25/idi-do-banku-yak-sprava-pro-shahrajstvo-stala-dovgobudom-u-harkovi",
-      "title": "«Іди до банку»: як справа про шахрайство стала довгобудом у Харкові",
+      "title": "«Іди до банку»: як справа про магічне шахрайство стала довгобудом у Харкові",
       "published_at": "2026-11-25T15:41:09+00:00",
       "published_raw": "Wed, 25 Nov 2026 15:41:09 +0000",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -17410,8 +17429,8 @@
       "description": "Окупаційні війська продовжують завдати ударів по логістичних шляхах регіону, зокрема з Краматорська до Олександрівки. На тлі цього евакуація з населених пунктів ускладнюється, тож місцевих закликають не зволікати та виїздити. Про це журналістам Вільного Радіо під час брифінгу розповів начальник відділу оперативно-чергової служби ДонОВА Дмитро Петлін.…",
       "categories": [
         "Новини",
-        "Новини Олександрівської громади",
-        "Новини Краматорської громади"
+        "Новини Краматорської громади",
+        "Новини Олександрівської громади"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -21558,11 +21577,11 @@
       "geography": "regional",
       "source_region": "kyiv",
       "url": "https://nus.org.ua/2026/11/25/shtrafy-do-3400-gryven-u-radi-proponuyut-karaty-za-nebezpechni-chelendzhi-sered-ditej",
-      "title": "Штрафи до 3400 гривень: у Раді пропонують карати за небезпечні челенджі серед дітей",
+      "title": "МОН проти ініціативи депутата Сергія Кузьміних покласти на освітян обов’язки кіберполіції",
       "published_at": "2026-11-25T13:40:31+00:00",
       "published_raw": "Wed, 25 Nov 2026 13:40:31 +0000",
       "fetched_at": "2026-11-25T22:31:51+00:00",
-      "description": "Батьків і директорів шкіл можуть штрафувати за небезпечні інтернет-челенджі, до яких долучаються діти. Відповідні норми передбачені двома законопроєктами, зареєстрованими у The post Штрафи до 3400 гривень: у Раді пропонують карати за небезпечні челенджі серед дітей first appeared on Нова українська школа .",
+      "description": "Міністерство освіти і науки виступило проти покладання на вчителів і директорів шкіл обов’язків із виявлення небезпечних інтернет-трендів серед дітей. Такі The post МОН проти ініціативи депутата Сергія Кузьміних покласти на освітян обов’язки кіберполіції first appeared on Нова українська школа .",
       "categories": [
         "НОВИНИ",
         "батькам",
@@ -23119,7 +23138,7 @@
       "geography": "regional",
       "source_region": "zakarpattia",
       "url": "https://varosh.com.ua/afisha/afisha-zymy",
-      "title": "Афіша грудня: куди піти в Ужгороді в перший місяць зими",
+      "title": "Афіша грудня: куди піти в Ужгороді в перший місяць зими (Оновлено)",
       "published_at": "2026-11-25T13:00:00+00:00",
       "published_raw": "Wed, 25 Nov 2026 15:00:00 +0200",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -50345,6 +50364,12 @@
       "fetched": 1693,
       "added": 215,
       "errors": 1
+    },
+    {
+      "at": "2026-11-26T15:14:39+00:00",
+      "fetched": 628,
+      "added": 1,
+      "errors": 3
     }
   ]
 }
