@@ -1,8 +1,8 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T22:31:51+00:00",
+  "generated_at": "2026-11-26T05:03:30+00:00",
   "source_count": 121,
-  "item_count": 2353,
+  "item_count": 2366,
   "items": [
     {
       "id": "c83c915e9f998c39",
@@ -332,6 +332,25 @@
         "search": "yes",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "190afe7c3dcc8e02",
+      "source_id": "ukrinform",
+      "source": "Укрінформ",
+      "geography": "national",
+      "source_region": null,
+      "url": "https://ukrinform.ua/rubric-regions/4188643-u-zoni-primusovoi-evakuacii-na-doneccini-zalisaetsa-1-291-ditina.html",
+      "title": "У зоні примусової евакуації на Донеччині залишається 1291 дитина",
+      "published_at": "2026-11-25T21:46:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 23:46:00 +0200",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "У населених пунктах Донецької області, де триває примусова евакуація сімей із дітьми, залишаються 1109 родин, у яких виховується 1291 дитина.",
+      "categories": [
+        "Регіони"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -1693,6 +1712,29 @@
       "description": "Британець Даніель Дюбуа захищатиме титул чемпіона світу за версією WBO в надважкій вазі в поєдинку проти новозеландця Джозефа Паркера.",
       "categories": [
         "Спорт/Бокс"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "d7004b46f323da1e",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/blizko-100-shkil-u-tak-zvanii-lnr-narazi-pratsiuiut-u-distantsiinomu-riezhimi-chieriez-probliemi-zi-svitlom",
+      "title": "Близько 100 шкіл у так званій \"лнр\" наразі працюють у дистанційному режимі через проблеми зі світлом і теплом",
+      "published_at": "2026-11-25T20:40:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 20:40:00 GMT",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "Окупанти не змогли вирішити питання з перебоями в електроп",
+      "categories": [
+        "Війна з РФ",
+        "Луганська область",
+        "Війна",
+        "росія",
+        "ТОТ"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -3977,7 +4019,7 @@
       "geography": "regional",
       "source_region": "donetsk",
       "url": "https://ostro.org/news/meshkantsyam-lysychanskoyi-gromady-kompensuyut-chastynu-pershogo-vnesku-za-programoyu-yeosele-i574232",
-      "title": "Мешканцям Лисичанської громади компенсують частину першого внеску за програмою «є Оселе»",
+      "title": "Мешканцям Лисичанської громади компенсують частину першого внеску за програмою «є Оселя»",
       "published_at": "2026-11-25T19:25:59+00:00",
       "published_raw": "Wed, 25 Nov 2026 21:25:59 +0200",
       "fetched_at": "2026-11-25T22:31:51+00:00",
@@ -6417,7 +6459,11 @@
       "fetched_at": "2026-11-25T22:31:51+00:00",
       "description": "Музей Григорія Сковороди передав ботанічному саду ХНУ ім. Каразіна відросток дуба Сковороди. Саме під ним, за легендами, відпочивав і творив український філософ понад два сторіччя тому. Рослину посадили до двох урочистих дат: 222-ї річниці заснування університету та напередодні 303-ї річниці з дня народження Сковороди. Де саме «житиме» сковородинівське дерево та [...] Запис У Харкові вкоренили нащадка дуба Григорія Сковороди спершу з'явиться на Радіо «Накипіло» .",
       "categories": [
-        "Тексти"
+        "Тексти",
+        "Історія",
+        "Новини Харкова",
+        "Харків",
+        "Харківщина"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -6935,6 +6981,29 @@
         "ai-input": "no",
         "ai-train": "no"
       },
+      "status": "new"
+    },
+    {
+      "id": "f99a405bc07ce61c",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/na-limanskomu-napriamku-protivniku-stalo-vazhchie-khovatisia-chieriez-siezonni-zmini",
+      "title": "На Лиманському напрямку противнику стало важче ховатися через сезонні зміни",
+      "published_at": "2026-11-25T18:00:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 18:00:00 GMT",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "На Лиманському напрямку через зіну погодніх умов ворожим в",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
       "status": "new"
     },
     {
@@ -9140,6 +9209,29 @@
       "status": "new"
     },
     {
+      "id": "535e0da5daa39425",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/u-60-i-ombr-rozpovili-shcho-vtrati-vorogha-na-limanskomu-napriamku-zrostaiut",
+      "title": "У 60-й ОМБр розповіли, що втрати ворога на Лиманському напрямку зростають",
+      "published_at": "2026-11-25T17:00:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "На Лиманському напрямку ЗСУ примножують втрати ворога. Як п",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "d37899ff8f949179",
       "source_id": "rubryka",
       "source": "Рубрика",
@@ -10644,6 +10736,25 @@
       "status": "new"
     },
     {
+      "id": "e498183f630529e3",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/budanov-nazvav-mozhlyvi-terminy-povernennia-pershykh-ukrainskykh-viyskovopolonenykh-u-mezhakh-velykoho-obminu",
+      "title": "Буданов назвав можливі терміни повернення перших українських військовополонених у межах великого обміну",
+      "published_at": "2026-11-25T16:09:10+00:00",
+      "published_raw": "Wed, 25 Nov 2026 16:09:10 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post Буданов назвав можливі терміни повернення перших українських військовополонених у межах великого обміну appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "226b5967e65b8f1e",
       "source_id": "map-191",
       "source": "Галка",
@@ -11181,6 +11292,29 @@
       "status": "new"
     },
     {
+      "id": "e92b3a481e9dbd5c",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/na-limanskomu-napriamku-opieratsiia-vildi-dopomoghla-zsu-pieried-zimovim-siezonom-pieriekhopiti-initsiativu-na-kliuchovikh-diliankakh",
+      "title": "Операція \"Вільді\": на Лиманському напрямку ЗСУ перед зимовим сезоном перехопили ініціативу на ключових ділянках фронту",
+      "published_at": "2026-11-25T16:00:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "На Лиманському напрямку операція \"Вільді\" допомогла ЗСУ н",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Донецька область",
+        "Війна",
+        "росія"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "1b42e8abb4962a85",
       "source_id": "radiosvoboda",
       "source": "Радіо Свобода",
@@ -11277,6 +11411,29 @@
       "description": "Поліція вже опитує свідків і вилучає відео з камер спостереження ТЦ, а кривдникам загрожує до трьох років в'язниці за образу на етнічному ґрунті.",
       "categories": [
         "Світ"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "2d5e9c6c13a4d64b",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/na-limanskomu-napriamku-ukrayinska-artilieriia-zrivaie-rotatsiyi-protivnika",
+      "title": "На Лиманському напрямку українська артилерія зриває ротації противника",
+      "published_at": "2026-11-25T15:59:00+00:00",
+      "published_raw": "Wed, 25 Nov 2026 15:59:00 GMT",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "Ситуація на Лиманському напрямку залишається складною. На",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Війна",
+        "росія",
+        "Лиманський напрямок"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -11576,6 +11733,25 @@
         "Декларації",
         "депутат",
         "житло"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9d5a2e2d037bfade",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/shcho-vin-khoche-shchob-ia-zrobyv-tramp-vidpoviv-na-slova-zelenskoho-pro-myrnu-uhodu",
+      "title": "«Що він хоче, щоб я зробив?»: Трамп відповів на слова Зеленського про мирну угоду",
+      "published_at": "2026-11-25T15:50:43+00:00",
+      "published_raw": "Wed, 25 Nov 2026 15:50:43 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post «Що він хоче, щоб я зробив?»: Трамп відповів на слова Зеленського про мирну угоду appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -12875,6 +13051,25 @@
       "fetched_at": "2026-11-25T22:31:51+00:00",
       "description": "Grand Theft Auto VI вийшла 19 листопада 2026 року та вже доступна для гри на PlayStation 5 і Xbox Series X|S. В українському PlayStation Store стандартне видання коштує 3499 грн, а Ultimate Edition – 4299 грн. Версії для ПК, PlayStation 4 та Xbox One наразі немає. Про це повідомила Rockstar Games. Ціни вказані на сторінці гри в українському PlayStation Store.",
       "categories": [],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "9133398348ae2c98",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/verkhovna-rada-pidtrymala-pryiednannia-ukrainy-do-kerivnoho-komitetu-spetstrybunalu",
+      "title": "Верховна Рада підтримала приєднання України до Керівного комітету Спецтрибуналу",
+      "published_at": "2026-11-25T15:21:34+00:00",
+      "published_raw": "Wed, 25 Nov 2026 15:21:34 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post Верховна Рада підтримала приєднання України до Керівного комітету Спецтрибуналу appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
+      ],
       "date_issues": [],
       "content_signals": {},
       "status": "new"
@@ -14974,6 +15169,25 @@
       "status": "new"
     },
     {
+      "id": "10a6555768df9056",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/dlia-viyskovykh-veteraniv-ta-zvilnenykh-z-polonu-rozshyryly-harantii-medychnoi-dopomohy",
+      "title": "Для військових, ветеранів та звільнених з полону розширили гарантії медичної допомоги",
+      "published_at": "2026-11-25T14:40:38+00:00",
+      "published_raw": "Wed, 25 Nov 2026 14:40:38 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post Для військових, ветеранів та звільнених з полону розширили гарантії медичної допомоги appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "a6d75056bbc17769",
       "source_id": "slovoidilo",
       "source": "Слово і Діло",
@@ -16605,6 +16819,25 @@
       "categories": [
         "Новини",
         "Окупація"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "122aefe79116b35d",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/yak-otrymaty-ukrainske-svidotstvo-pro-smert-iakshcho-liudyna-pomerla-v-okupatsii",
+      "title": "Як отримати українське свідоцтво про смерть, якщо людина померла в окупації",
+      "published_at": "2026-11-25T14:03:18+00:00",
+      "published_raw": "Wed, 25 Nov 2026 14:03:18 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post Як отримати українське свідоцтво про смерть, якщо людина померла в окупації appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -18270,6 +18503,25 @@
       "status": "new"
     },
     {
+      "id": "a54090d844d08361",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/v-ukraini-sudytymut-doktora-zlo-z-kolonii-v-mordovii",
+      "title": "В Україні судитимуть «Доктора Зло» з колонії в Мордовії",
+      "published_at": "2026-11-25T13:29:13+00:00",
+      "published_raw": "Wed, 25 Nov 2026 13:29:13 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post В Україні судитимуть «Доктора Зло» з колонії в Мордовії appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "185b5cde3f23a466",
       "source_id": "map-900",
       "source": "Голос Криму",
@@ -19139,6 +19391,25 @@
         "Життя",
         "Кропивницький",
         "новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "79430b137f11ce48",
+      "source_id": "map-1048",
+      "source": "Точка Сходу",
+      "geography": "regional",
+      "source_region": "luhansk",
+      "url": "https://cxid.media/news/syly-oborony-vdaryly-po-rosiyskiy-aviabazi-ta-skladakh-okupantiv-na-donechchyni-y-luhanshchyni",
+      "title": "Сили оборони вдарили по російській авіабазі та складах окупантів на Донеччині й Луганщині",
+      "published_at": "2026-11-25T13:01:39+00:00",
+      "published_raw": "Wed, 25 Nov 2026 13:01:39 +0000",
+      "fetched_at": "2026-11-26T05:03:30+00:00",
+      "description": "The post Сили оборони вдарили по російській авіабазі та складах окупантів на Донеччині й Луганщині appeared first on Точка Сходу .",
+      "categories": [
+        "Новини"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -46407,6 +46678,12 @@
       "fetched": 1633,
       "added": 1003,
       "errors": 5
+    },
+    {
+      "at": "2026-11-26T05:03:30+00:00",
+      "fetched": 1534,
+      "added": 13,
+      "errors": 3
     }
   ]
 }
