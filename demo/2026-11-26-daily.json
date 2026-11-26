@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-26",
+  "variant": "daily",
+  "audio": "demo/2026-11-26-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 90.77,
+  "asr_mean_cer": 0.032,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 4. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "f2886ff28464aafe7b6a7b6606455631574c6df3c81fe2da1737a60f5cb13a50",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-26-daily/intro.mp3",
+      "duration_sec": 4.45,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок двадцять шостого листопада."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Світло на Дніпропетровщині",
+      "audio": "demo/2026-11-26-daily/story-1.mp3",
+      "duration_sec": 18.42,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "poltava"
+      ],
+      "text": [
+        "У Дніпрі та кількох районах Дніпропетровщини запровадили екстрені відключення світла після російських ударів по енергооб'єктах.",
+        "Про це повідомили у ДТЕК.",
+        "Графіки відключень там не діють.",
+        "За даними обласної військової адміністрації, понад 100 бригад працюють над відновленням електропостачання."
+      ],
+      "sources": [
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/udar-po-energoobyektakh-dnipropetrovshchyny-sprychynyv-ekstreni-vidklyuchennya-svitla-2026"
+        },
+        {
+          "name": "Місто і річка",
+          "url": "https://mistorichka.media/novyny/enerhoobiekty-dniprovshchyny-25-lystopada"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/25/783704_rosiyani_poshkodili.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-enerhetyka-postrazhdali-ataky-rf/33905737.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188718-vijska-rf-20-raziv-atakuvali-dronami-cotiri-rajoni-dnipropetrovsini-e-postrazdalij.html"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/25/407484_na-zaporizhzhi-najskladnisha-sytuacziya-zi-svitlom-cherez-rosijski-obstrily"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-dnipropetrovshchyna-elektropostachannia/33905869.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Удар по НПЗ",
+      "audio": "demo/2026-11-26-daily/story-2.mp3",
+      "duration_sec": 23.09,
+      "topics": [
+        "Війна та безпека",
+        "Політика"
+      ],
+      "regions": [
+        "lviv"
+      ],
+      "text": [
+        "Сили оборони в ніч на 25 листопада уразили Куйбишевський і Сизранський нафтопереробні заводи в Самарській області Росії.",
+        "Про це повідомив Генштаб ЗСУ.",
+        "За його даними, на Куйбишевському заводі уражено дві установки первинної переробки нафти, установку риформінгу та 2 резервуари."
+      ],
+      "sources": [
+        {
+          "name": "ZAXID.NET",
+          "url": "https://zaxid.net/droni_atakuvali_dva_npz_u_samarskiy_oblasti_rosiyi_n1650896"
+        },
+        {
+          "name": "Реальна газета",
+          "url": "https://realgazeta.com.ua/u-samarskii-oblasti-rf-pislia-ataki-droniv-spalakhnuli-pozhiezhi-na-dvokh-npz"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/25/783650_sili_oboroni_ukrayini_urazili.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/25/8064579"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/25/syly-oborony-atakuvaly-vidrazu-dva-rosijski-npz"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1242132.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-henshtab-zsu-pidtverdzhennya-urazhennya-npz-rf/33905626.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119213-sili-oboroni-urazili-kuibisevskii-i-sizranskii-naftopererobni-zavodi"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/udari-po-npz-sbu-ta-sili-oboroni-urazili-dva-naftopererobni-pidpriyemstva-u-samarskiy-oblasti-rf-50662447.html"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/25/syly-oborony-za-dopomohy-rosiiskykh-povstantsiv-zavdaly-udariv-po"
+        },
+        {
+          "name": "Репортер",
+          "url": "https://report.if.ua/viyna/syly-oborony-urazyly-pyat-rosijskyh-litakiv"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Житомирщина",
+      "audio": "demo/2026-11-26-daily/story-3.mp3",
+      "duration_sec": 14.53,
+      "topics": [
+        "Війна та безпека",
+        "Суспільство"
+      ],
+      "regions": [
+        "zhytomyr",
+        "donetsk",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "На Житомирщині внаслідок повторного російського удару загинула людина, дев’ятеро постраждали.",
+        "Про це повідомив начальник обласної військової адміністрації Віталій Бунечко.",
+        "Росіяни вдарили по цивільному підприємству та автостоянці."
+      ],
+      "sources": [
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/25/783614_rosiya_atakuvala_energoobiekt.html"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/rosiiany-atakuvaly-tsyvilne-pidpryiemstvo-ta-avtostoianku-na-zhytomyrshchyni-ie-zahyblyi-ta-poraneni"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188382-na-zitomirsini-vorog-vdariv-po-pidpriemstvu-ta-avtostoanci-odin-zagiblij-cetvero-poranenih.html"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/25/unaslidok-obstrilu-malynskoi-hromady-na-zhytomyrshchyni-zahynula-liudyna-ie-poraneni"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1242168.html"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/25/novyna/bezpeka/ataka-rf-zhytomyrshhynu-ta-odesu-ye-zahyblyj-poraneni"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/25/rosiiany-vdaryly-po-zhytomyrshchyni-ie-zahyblyj-ta-poraneni"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119224-masovana-ataka-na-zaporizzia-ta-zitomirshhinu-je-zagiblii-sered-poranenix-diti"
+        },
+        {
+          "name": "Фарватер.Схід",
+          "url": "https://farvatermedia.com/news/na-zhytomyrshchyni-vnaslidok-povtornoho-rosiiskoho-udaru-zahynula-liudyna-deviatero-postrazhdaly"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1457456-rosijska-armia-atakuvala-malinsku-gromadu-na-zitomirsini-poskodzeni-budinki-magazin-ta-pidpriemstvo-e-zagiblij"
+        },
+        {
+          "name": "Бабель",
+          "url": "https://babel.ua/news/132039-rosiyani-vkotre-atakuvali-ukrajinu-ye-postrazhdali-v-zaporizhzhi-a-takozh-zagibli-na-zhitomirshchini-y-donechchini"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-ataka-rf-zhytomyrska-oblast-volyn-zaporizhzhia/33905512.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zhytomyrshchyna-zahybla-postrazhdali-ataka-rf/33905602.html"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "kind": "story",
+      "block": "national",
+      "title": "Слов'янськ",
+      "audio": "demo/2026-11-26-daily/story-4.mp3",
+      "duration_sec": 17.11,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "donetsk"
+      ],
+      "text": [
+        "У Слов'янську 25 листопада російська авіабомба ФАБ-500 влучила поблизу багатоквартирного будинку.",
+        "За даними обласної прокуратури, загинув 77-річний чоловік, ще 10 людей поранені."
+      ],
+      "sources": [
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/urantsi-rashisti-skinuli-na-tsientr-slovianska-500-kiloghramovu-aviabombu-ie-poranieni-foto"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-vdaryly-po-slovuiansku-25-lystopada-ie-poraneni"
+        },
+        {
+          "name": "Вчасно",
+          "url": "https://vchasnoua.com/news/rosiiani-vtretje-za-dobu-atakuvali-sloviansk-vnaslidok-cergovogo-aviaudaru-je-zagiblii-ta-poranenii"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/rosiyany-vdaryly-fab-500-po-tsentru-slov-yanska-poraneno-litnye-podruzhzhya-i574193"
+        },
+        {
+          "name": "ОстроВ",
+          "url": "https://ostro.org/news/unaslidok-drugogo-za-den-aviaudaru-po-slov-yansku-zagynuv-myrnyj-zhytel-i574199"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4188500-armia-rf-skinula-na-slovansk-500kilogramovu-aviabombu-e-zagiblij-ta-poranenij.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/25/783692_rosiyani_skinuli_fab-500.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/25/8064610"
+        },
+        {
+          "name": "Вільне радіо",
+          "url": "https://freeradio.com.ua/rosiiany-znovu-vdaryly-po-slovuiansku-ie-zahyblyi-ta-poranenyi"
+        },
+        {
+          "name": "Вчасні Новини",
+          "url": "https://vchasno.news/u-slovyansku-rosijska-aviabomba-fab-500-vbyla-77-richnogo-cholovika-shhe-10-lyudej-poraneni"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/25/novyna/bezpeka/rosiyany-skynuly-aviabombu-slovyansk-zahynuv-cholovik-ye-poraneni"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119265-rosiiani-skinuli-aviabombu-na-centr-slovianska-je-zagiblii-i-poraneni"
+        },
+        {
+          "name": "Точка Сходу",
+          "url": "https://cxid.media/news/u-slov-iansku-tryvaie-rozbir-zavaliv-budynku-pislia-aviaudaru-22-lystopada"
+        },
+        {
+          "name": "Східний Варіант",
+          "url": "https://v-variant.com.ua/zaghiblii-i-10-poranienikh-tsivilnikh-naslidki-urazhiennia-slovianska-pivtonnoiu-aviabomboiu"
+        }
+      ]
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-26-daily/outro.mp3",
+      "duration_sec": 6.97,
+      "text": [
+        "Це був BRIEF станом на ранок двадцять шостого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}
