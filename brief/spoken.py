@@ -29,7 +29,7 @@ from . import strikes, tts
 from .edition import EDITIONS, script_hash, script_text
 from .factcheck import extract_claims, _found
 from .review import load_approved
-from .speech import MONTHS_GEN, date_words, date_words_gen, load_lexicon
+from .speech import MONTHS_GEN, date_words, date_words_gen, load_lexicon, weekday_gen
 from .util import ROOT, config, iso, load_json, now_utc, write_json
 
 USAGE = ROOT / "data" / "tts-usage.json"
@@ -329,13 +329,14 @@ def build(date, use_llm=True, budget=None, provider_name=None):
     teaser = apply_terms(teaser)
 
     words = date_words(date)
+    # Owner, 27.11.2026: intro and outro name the weekday too («станом на ранок п'ятниці 27 листопада»).
     # Owner, 18.11.2026: the outro repeats the intro's "as of the morning", not just the date.
-    outro_line = cfg.get("outro", "Це був BRIEF станом на ранок {date_words_gen}. Посилання на першоджерела — на сайті BRIEF.") \
-        .format(date_words=words, date_words_gen=date_words_gen(date))
+    outro_line = cfg.get("outro", "Це був BRIEF станом на ранок {weekday_gen} {date_words_gen}. Посилання на першоджерела — на сайті BRIEF.") \
+        .format(date_words=words, date_words_gen=date_words_gen(date), weekday_gen=weekday_gen(date))
 
     def assemble(items, teaser):
         intro_line = cfg.get("intro", "Це BRIEF. Головне за {date_words}").format(
-            date_words=words, date_words_gen=date_words_gen(date)) + (f": {teaser}." if teaser else ".")
+            date_words=words, date_words_gen=date_words_gen(date), weekday_gen=weekday_gen(date)) + (f": {teaser}." if teaser else ".")
         segs = [_segment("intro", "intro", "intro", [intro_line])]
         for n, r in enumerate(items, 1):
             segs.append(_segment(f"story-{n}", "story", "national", r["lines"], title=r["title"], sources=r["sources"]))

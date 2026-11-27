@@ -50,7 +50,7 @@ def test_checked_retelling_is_used_and_invented_facts_fall_back(root, monkeypatc
     left = [seg["id"] for seg in _stories(root)[2:]]
     assert s["log"]["left_out"] == left and len(stories) == 2  # what Claude left out stays out
     assert s["segments"][0]["sentences"][0]["text"] == \
-        "Це BRIEF. Головне за добу станом на ранок двадцятого жовтня: компенсації за зруйноване житло."
+        "Це BRIEF. Головне за добу станом на ранок вівторка двадцятого жовтня: компенсації за зруйноване житло."
     assert "сайті BRIEF" in s["segments"][-1]["sentences"][0]["text"]
     assert review.load_script(DATE, "spoken")["script_sha256"] == s["script_sha256"]
 
@@ -77,9 +77,9 @@ def test_teaser_with_numbers_or_unknown_names_is_dropped(root, monkeypatch):
     monkeypatch.setattr(spoken, "ask_claude", _claude({"teaser": "2,5 млрд на житло", "stories": [
         {"story_ids": [nat["id"]], "title": "Компенсації", "text": "Уряд виділив 2,5 млрд гривень на компенсації."}]}))
     s = spoken.build(DATE, budget=5000)
-    assert s["segments"][0]["sentences"][0]["text"] == "Це BRIEF. Головне за добу станом на ранок двадцятого жовтня."
+    assert s["segments"][0]["sentences"][0]["text"] == "Це BRIEF. Головне за добу станом на ранок вівторка двадцятого жовтня."
     # Owner, 18.11.2026: the outro says "as of the morning" too, not just "BRIEF for the 20th".
-    assert s["segments"][-1]["sentences"][0]["text"].startswith("Це був BRIEF станом на ранок двадцятого жовтня.")
+    assert s["segments"][-1]["sentences"][0]["text"].startswith("Це був BRIEF станом на ранок вівторка двадцятого жовтня.")
     assert not spoken.check_teaser("рішення Нацбанку", {"a": "Уряд виділив гроші."})
 
 
@@ -177,3 +177,16 @@ def test_kerch_bridge_name():
     # the retelling may use our name even though the source says «Кримський»
     ev = {"a": "Сили оборони уразили Кримський міст 20 листопада."}
     assert check_text("Сили оборони уразили Керченський міст 20 листопада.", ev) == []
+
+
+def test_weekday_in_intro_and_outro_date():
+    # Owner, 27.11.2026: «станом на ранок п'ятниці 27 листопада», not just the date.
+    from brief.speech import weekday_gen
+    assert weekday_gen("2026-11-27") == "п'ятниці"
+    assert weekday_gen("2026-11-23") == "понеділка"
+    assert weekday_gen("2026-11-25") == "середи"
+    assert weekday_gen("2026-11-29") == "неділі"
+    import json
+    daily = json.load(open("config/editorial.json", encoding="utf-8"))["daily"]
+    assert "{weekday_gen} {date_words_gen}" in daily["intro"]
+    assert "{weekday_gen} {date_words_gen}" in daily["outro"]
