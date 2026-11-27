@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T23:52:28+00:00",
+  "generated_at": "2026-11-27T05:58:16+00:00",
   "source_count": 124,
-  "item_count": 2645,
+  "item_count": 2647,
   "items": [
     {
       "id": "d40a754156373f78",
@@ -1267,6 +1267,29 @@
       "status": "new"
     },
     {
+      "id": "2585cc1200513bf3",
+      "source_id": "map-397",
+      "source": "Східний Варіант",
+      "geography": "regional",
+      "source_region": "donetsk",
+      "url": "https://v-variant.com.ua/protivnik-vid-svogho-biezsillia-i-niezmoghi-mati-iakis-pieriemoghi-na-fronti-znishchuie-sloviansk-ta-kramatorsk-shakhiedami-i-inshimi-vidami-zbr",
+      "title": "Ворог знищує Слов'янськ та Краматорськ \"Шахедами\" і іншими видами зброї",
+      "published_at": "2026-11-26T21:00:00+00:00",
+      "published_raw": "Thu, 26 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-27T05:58:16+00:00",
+      "description": "Противник від свого безсилля, незмоги мати якісь перемоги н",
+      "categories": [
+        "Війна з РФ",
+        "Події",
+        "Війна",
+        "росія",
+        "Краматорський напрямок"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
       "id": "419a861fdc57aa3e",
       "source_id": "map-842",
       "source": "Фарватер.Схід",
@@ -1721,6 +1744,25 @@
       "published_at": "2026-11-26T20:43:00+00:00",
       "published_raw": "Thu, 26 Nov 2026 22:43:00 +0200",
       "fetched_at": "2026-11-26T23:52:28+00:00",
+      "description": "Джазанський НПЗ розташований поблизу єменського кордону та розрахований на перероблення до 400 тис. барелів сирої нафти на день",
+      "categories": [
+        "Новини"
+      ],
+      "date_issues": [],
+      "content_signals": {},
+      "status": "new"
+    },
+    {
+      "id": "07912d219c94dd50",
+      "source_id": "map-833",
+      "source": "Mind.ua",
+      "geography": "regional",
+      "source_region": "kyiv",
+      "url": "https://mind.ua/news/20312790-husiti-atakuvali-odin-iz-najbilshih-naftopererobnih-zavodiv-saudivskoyi-araviyi",
+      "title": "Хусити атакували один із найбільших нафтопереробних заводів Саудівської Аравії",
+      "published_at": "2026-11-26T20:43:00+00:00",
+      "published_raw": "Thu, 26 Nov 2026 22:43:00 +0200",
+      "fetched_at": "2026-11-27T05:58:16+00:00",
       "description": "Джазанський НПЗ розташований поблизу єменського кордону та розрахований на перероблення до 400 тис. барелів сирої нафти на день",
       "categories": [
         "Новини"
@@ -10211,7 +10253,7 @@
       "fetched_at": "2026-11-26T05:59:02+00:00",
       "description": "Знайомимо вас із проєктом «Досвітки»: що означала свічка на весіллі, чому секс під час посту був заборонений і коли вертеп у Черкасах?",
       "categories": [
-        "Стрічка новин"
+        "Публікації"
       ],
       "date_issues": [],
       "content_signals": {},
@@ -11643,8 +11685,8 @@
       "description": "Начальник управління державного архітектурно-будівельного контролю Івано-Франківської міськради Олег Семків, який фігурує у справі про «будівельні» хабарі, перед повторним затриманням потрапив до лікарні. Про це стало відомо «Галці» з джерел. Причини... The post Перед повторним затриманням Олег Семків ліг до лікарні appeared first on Galka.if.ua .",
       "categories": [
         "Новини",
-        "Франківські новини",
         "Здоров'я",
+        "Франківські новини",
         "Кримінал",
         "Життя"
       ],
@@ -51072,6 +51114,12 @@
       "fetched": 1822,
       "added": 850,
       "errors": 2
+    },
+    {
+      "at": "2026-11-27T05:58:16+00:00",
+      "fetched": 1495,
+      "added": 2,
+      "errors": 4
     }
   ]
 }
