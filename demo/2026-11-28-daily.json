@@ -1,0 +1,519 @@
+{
+  "date": "2026-11-28",
+  "variant": "daily",
+  "audio": "demo/2026-11-28-daily.mp3",
+  "provider": "elevenlabs",
+  "model": "eleven_v3",
+  "voice": "TEyBWD5tAHAWqAGEv6yI",
+  "service_voice": "0ZQZuw8Sn4cU0rN1Tm2K",
+  "duration_sec": 95.18,
+  "asr_mean_cer": 0.026,
+  "approved_by": "Автоматичний випуск: кожне число й назва звірені з першоджерелами",
+  "description": "Щоденний випуск BRIEF. Новин у випуску: 3. Кожне число, назва й цитата звірені з публікаціями. Посилання на першоджерела — під кожною новиною.",
+  "script_sha256": "b7a1fe0dd2d7988fac73c9b74ed03834ad6e0ce045d0b1366e7fc348d23c2f2f",
+  "sonic": {
+    "intro": "audio/intro.mp3",
+    "outro": "audio/outro.mp3"
+  },
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "audio": "demo/2026-11-28-daily/intro.mp3",
+      "duration_sec": 13.16,
+      "text": [
+        "Це BRIEF. Головне за добу станом на ранок суботи двадцять восьмого листопада: наслідки ударів по Керченському мосту для російської логістики, відключення світла та наслідки російських атак."
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Керченський міст",
+      "audio": "demo/2026-11-28-daily/story-1.mp3",
+      "duration_sec": 19.17,
+      "topics": [
+        "Війна та безпека",
+        "Міжнародне"
+      ],
+      "regions": [
+        "crimea",
+        "zaporizhzhia"
+      ],
+      "text": [
+        "Через пошкодження Керченського мосту російська логістика на окупованій частині Запорізької області перевантажена.",
+        "Про це повідомили в АТЕШ.",
+        "За їхніми даними, росіяни перекинули постачання на трасу Р-280 через Бердянськ і Мелітополь.",
+        "Цей міст Росія незаконно збудувала після окупації Криму."
+      ],
+      "sources": [
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1458473-cerez-udari-po-krimskomu-mostu-perevantazena-rosijska-logistika-na-tot-zaporizkoi-oblasti-ates"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/grafiti-bilya-posolstva-niderlandiv-u-moskvi-diplomatichna-napruga-ta-mural-50662993.html"
+        },
+        {
+          "name": "Бердянськ 24 (Brd24)",
+          "url": "https://brd24.com/news/chy-rozghliadaie-rf-porty-berdianska-ta-mariupolia-iak-alternatyvu-krymskomu-mostu.html"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Дніпропетровщина",
+      "audio": "demo/2026-11-28-daily/story-2.mp3",
+      "duration_sec": 15.83,
+      "topics": [
+        "Війна та безпека",
+        "Економіка"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "donetsk"
+      ],
+      "text": [
+        "П'ятеро людей поранені внаслідок атак дронів на Дніпропетровщині в ніч проти 28 листопада, серед них підліток.",
+        "Під ударами були Дніпро та ще три райони області.",
+        "Пошкоджені підприємства."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189104-vorog-iz-vecora-ponad-20-raziv-obstrilav-dnipropetrovsinu-e-zagiblij-i-poraneni.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119696-odna-liudina-zaginula-ta-dvoje-otrimali-vazki-poranennia-vnaslidok-ataki-rosiiskix-droniv-na-dnipropetrovshhinu"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/rosiiany-ponad-20-raziv-atakuvaly-5-rayoniv-dnipropetrovshchyny-ie-zahyblyy"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-koretskyi-rosiiski-ataky-zaliznytsia-enerhetyka-pidpryiemstva/33906890.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784278_rosiyani_ponad_20_raziv.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458517-vijska-rf-zavdali-ponad-20-udariv-po-dnipru-ta-oblasti-poraneno-ludinu"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189379-armia-rf-protagom-dna-ponad-20-raziv-atakuvala-dnipropetrovsinu-e-poranena.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119767-v-iziumi-cerez-kombinovanu-ataku-rosiian-zaginula-zinka-shhe-sestero-liudei-postrazdali"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458588-cerez-ataki-bezpilotnikiv-na-dnipropetrovsini-poranen-zaznali-patero-ludej-sered-nih-pidlitok"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "audio": "demo/2026-11-28-daily/story-3.mp3",
+      "duration_sec": 33.7,
+      "topics": [
+        "Економіка",
+        "Суспільство",
+        "Війна та безпека",
+        "Бізнес"
+      ],
+      "regions": [
+        "dnipropetrovsk",
+        "zaporizhzhia",
+        "kyiv",
+        "chernihiv",
+        "zhytomyr",
+        "vinnytsia",
+        "kharkiv",
+        "poltava"
+      ],
+      "text": [
+        "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 5 людей, ще щонайменше 36 людей поранено.",
+        "Найбільше постраждалих на Чернігівщині та Житомирщині.",
+        "У суботу, 28 листопада, у частині областей цілодобово діють графіки відключень світла обсягом від 1 до 3 черг.",
+        "Троє людей загинули внаслідок російського удару по підприємству в Ніжині на Чернігівщині 27 листопада.",
+        "Одна людина загинула внаслідок російського удару по цивільному підприємству в Малинській громаді на Житомирщині 27 листопада."
+      ],
+      "sources": [
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4189399-u-castini-oblastej-u-subotu-diatimut-cilodobovi-grafiki-vidklucen-svitla.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119942-ukrenergo-povidomilo-pro-vidkliucennia-svitla-28-listopada-diiatimut-grafiki-vid-1-do-3-cerg"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458565-na-dnipropetrovsini-28-listopada-diatimut-pogodinni-grafiki-vidklucen-svitla"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshhyni-testuyut-novyj-format-grafikiv-vidklyuchen-svitla"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-subotu-28-lystopada"
+        },
+        {
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/grafiky-vidklyuchen-tsek-na-28-lystopada-2026-onovlennya-0026"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/27/407767_u-zaporizkij-oblasti-zaprovadyly-avarijni-vidklyuchennya-svitla"
+        },
+        {
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/energetics/chastina-kijivshchini-perejshla-na-avarijni-vidkljuchennja-elektroenerhiji.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/economics/2026/11/27/784292_ukrenergo_cherez_ataki_rf.html"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-subotu-28-lystopada"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243828.html"
+        },
+        {
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/28/407807_u-zaporizhzhi-ta-oblasti-diyatymut-grafiky-vidklyuchen-svitla-na-28-lystopada"
+        },
+        {
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/sytuacziya-na-fronti-za-dobu-okupanty-namagalysya-prosunutysya-u-bik-troh-sil-zaporizkoyi-oblasti"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784164_rosiya_atakuvala_pidpriiemstvo.html"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/275101-rosiiany-vdaryly-po-pidpryyemstvu-na-chernihivshchyni-ye-zahybli-ta-poraneni-pid-zavalamy-mozut-buty-liudy"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/udar-po-pidpryiemstvu-v-nizhyni-2-liudey-zahynuly-shche-4-poraneni"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/suspilstvo/rosiyany-vdaryly-po-pidpryyemstvu-nizhyni-ye-zahybli-zavalamy-shukayut-lyudej"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8064954"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189393-udar-rf-po-nizinu-kilkist-zagiblih-zrosla-do-troh-semero-ludej-poraneni.html"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-pidpriyemstvo-v-nizhini-zagibli-ta-poraneni-pislya-udaru-50663139.html"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/ataka-rf-po-nizhynu-kilkist-zagyblyh-zrosla-do-troh-shhe-semero-lyudej-poraneni"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119943-udar-po-pidprijemstvu-u-nizini-troje-liudei-zaginuli-semero-otrimali-poranennia"
+        },
+        {
+          "name": "Час Чернігівський",
+          "url": "https://cntime.cn.ua/rosiya-atakuvala-nizhin-ye-zagibli-pid-zavalami-mozhut-zalishatisya-lyudi-article"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/z-iavylysia-foto-naslidkiv-udaru-rosiian-po-nizhynu-tam-zrosla-kilkist-zahyblykh-i-poranenykh"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernihiv/1458518-u-nizini-28-listopada-ogolosili-dnem-zalobi-za-zagiblimi-vid-rosijskoi-ataki"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243190.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784068_okupanti_vdarili_infrastrukturi.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189123-vorog-za-dobu-obstrilav-dva-rajoni-zitomirsini-poskodzeni-budinki-ta-avto-dvoe-poranenih.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1458120-na-zitomirsini-vnaslidok-rosijskih-atak-postrazdali-dvoe-ludej-poskodzeni-budinki-ta-avtomobili"
+        },
+        {
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/27/zhytomyrshchyna-unaslidok-atak-rosii-postrazhdaly-dvoie-liudei"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataki-rosiji-na-ukrajinu-poshkodzheno-energetichnu-infrastrukturu-v-vinnickiy-i-zhitomirskiy-oblastyah-50663009.html"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119798-na-zitomirshhini-cerez-vecirnii-obstril-rosiian-poraneno-dvox-zinok-poskodzeni-budinki-ta-avto"
+        },
+        {
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/odna-liudyna-zahynula-pislia-udaru-rosiian-po-pidpryiemstvu-na-zhytomyrshchyni"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/rosiyany-atakuvaly-pidpryyemstvo-zhytomyrshhyni-ye-zhertva-poraneni"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zhytomyrshchyna-ataka/33907056.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784204_rosiyani_atakuvali_tsivilne.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243710.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8064970"
+        },
+        {
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119867-rosiiani-atakuvali-civilne-pidprijemstvo-na-zitomirshhini-je-zagiblii-i-poraneni"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/zhytomyrshhyni-zrosla-kilkist-postrazhdalyx-cherez-udar-rf-po-pidpryyemstvu"
+        },
+        {
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/27/rosiiany-atakuvaly-tsyvilne-pidpryiemstvo-na-zhytomyrshchyni-ie-zahyblyj-ponad-10-poranenykh"
+        },
+        {
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/27/na-zhytomyrshhyni-vnaslidok-rosijskoyi-ataky-zagynuv-cholovik-shhe-12-lyudej-otrymaly-poranennya"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1458505-rosiani-vdarili-po-privatnomu-budinku-u-pisocini-pid-harkovom"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243701.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784262_okupanti_atakuvali_privatniy.html"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243744.html"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189386-rosiani-obstrilali-pisocin-na-harkivsini-postrazdali-vosmero-ludej-zokrema-troe-ditej.html"
+        },
+        {
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/rosiyany-vdaryly-po-pisochynu-ye-postrazhdali"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8065024"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-pisochyn-na-harkivshhyni-postrazhdaly-vosmero-lyudej-zokrema-troye-ditej"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/obstril-pisochina-postrazhdali-vosmero-lyudey-zokrema-16-richna-divchina-50663261.html"
+        },
+        {
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kharkivshchyna-ataka-rf/33907180.html"
+        },
+        {
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/27/prilit-u-pisochini-gorit-privatnij-budinok-ye-postrazhdali"
+        },
+        {
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/27/ataka-bezpilotnika-na-pisochin-desyatero-postrazhdalih-sered-nih-troye-ditej"
+        },
+        {
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/27/pisochyn-poblyzu-harkova"
+        },
+        {
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiyani-vdarili-po-budinku-v-pisochini-postrazhdala-ditina"
+        },
+        {
+          "name": "Полтавська хвиля",
+          "url": "https://poltavawave.com.ua/u-kriemienchutsi-vorozhii-biezpilotnik-poshkodiv-dva-zakladi-osviti"
+        },
+        {
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189415-u-kremencuci-cerez-ataku-rosijskogo-drona-poskodzeni-zakladi-osviti-travmovani-dvoe-ditej.html"
+        },
+        {
+          "name": "Полтавська думка",
+          "url": "https://dumka.poltava.ua/na-poltavshchyni-vnaslidok-vorozhoho-obstrilu-travmuvalysia-dvoie-ditej"
+        },
+        {
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/rosiyany-atakuvaly-dva-zaklady-osvity-centri-kremenchuka-postrazhdaly-dity"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243801.html"
+        },
+        {
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8065058"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti"
+        },
+        {
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243809.html"
+        },
+        {
+          "name": "hromadske",
+          "url": "https://hromadske.ua/rehiony/275144-rosiiany-vdaryly-po-dvokh-zakladakh-osvity-u-tsentri-kremenchuka-postrazdaly-try-dytyny"
+        },
+        {
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-bezpilotnykom-atakuvala-kremenchuk-chetvero-travmovanyh-sered-nyh-troye-ditej"
+        },
+        {
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-bezpilotnika-na-kremenchuk-dva-osvitni-zakladi-poshkodzheno-sered-postrazhdalih-diti-50663310.html"
+        },
+        {
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784324_rosiyani_poshkodili_dva_osvitni.html"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/poltava/1458342-u-kremencuci-pisla-ataki-rf-poskodzeni-dvi-bagatopoverhivki-e-travmovani"
+        },
+        {
+          "name": "У Полтаві",
+          "url": "https://upoltavi.com.ua/2026/11/27/na-poltavshhyni-avtomobil-zbyv-13-richnu-divchynku-na-pishohidnomu-perehodi"
+        }
+      ],
+      "digest": {
+        "killed": 5,
+        "injured": 36,
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "parts": [
+          {
+            "place": "на Запоріжжі",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Інтерфакс-Україна",
+            "url": "https://interfax.com.ua/news/general/1243828.html"
+          },
+          {
+            "place": "на Запоріжжі",
+            "kind": "поранені",
+            "n": 5,
+            "source": "Інтерфакс-Україна",
+            "url": "https://interfax.com.ua/news/general/1243828.html"
+          },
+          {
+            "place": "на Чернігівщині",
+            "kind": "загиблі",
+            "n": 3,
+            "source": "Суспільне Новини",
+            "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin"
+          },
+          {
+            "place": "на Чернігівщині",
+            "kind": "поранені",
+            "n": 7,
+            "source": "Суспільне Новини",
+            "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin"
+          },
+          {
+            "place": "на Житомирщині",
+            "kind": "загиблі",
+            "n": 1,
+            "source": "Громадське радіо",
+            "url": "https://hromadske.radio/news/2026/11/27/odna-liudyna-zahynula-pislia-udaru-rosiian-po-pidpryiemstvu-na-zhytomyrshchyni"
+          },
+          {
+            "place": "на Житомирщині",
+            "kind": "поранені",
+            "n": 12,
+            "source": "LB.ua",
+            "url": "https://lb.ua/society/2026/11/27/784204_rosiyani_atakuvali_tsivilne.html"
+          },
+          {
+            "place": "на Харківщині",
+            "kind": "поранені",
+            "n": 8,
+            "source": "LB.ua",
+            "url": "https://lb.ua/society/2026/11/27/784262_okupanti_atakuvali_privatniy.html"
+          },
+          {
+            "place": "на Полтавщині",
+            "kind": "поранені",
+            "n": 4,
+            "source": "Українська правда",
+            "url": "https://pravda.com.ua/news/2026/11/27/8065058"
+          }
+        ]
+      }
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "audio": "demo/2026-11-28-daily/outro.mp3",
+      "duration_sec": 7.12,
+      "text": [
+        "Це був BRIEF станом на ранок суботи двадцять восьмого листопада. Посилання на першоджерела — на сайті BRIEF."
+      ],
+      "sources": []
+    }
+  ]
+}

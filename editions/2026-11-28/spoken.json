@@ -1,0 +1,1163 @@
+{
+  "date": "2026-11-28",
+  "kind": "spoken",
+  "made_at": "2026-11-28T06:01:21+00:00",
+  "approved_sha256": "169aeac1f598a94d888bb1f6415ddfc2827993e3219b46b2fdef5dd53ac2f7d1",
+  "approved_by": "BRIEF auto (без редактора)",
+  "segments": [
+    {
+      "id": "intro",
+      "kind": "intro",
+      "block": "intro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "intro-s1",
+          "kind": "intro",
+          "text": "Це BRIEF. Головне за добу станом на ранок суботи двадцять восьмого листопада: наслідки ударів по Керченському мосту для російської логістики, відключення світла та наслідки російських атак."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "id": "story-1",
+      "kind": "story",
+      "block": "national",
+      "title": "Керченський міст",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-1-s1",
+          "kind": "story",
+          "text": "Через пошкодження Керченського мосту російська логістика на окупованій частині Запорізької області перевантажена."
+        },
+        {
+          "id": "story-1-s2",
+          "kind": "story",
+          "text": "Про це повідомили в АТЕШ."
+        },
+        {
+          "id": "story-1-s3",
+          "kind": "story",
+          "text": "За їхніми даними, росіяни перекинули постачання на трасу Р-280 через Бердянськ і Мелітополь."
+        },
+        {
+          "id": "story-1-s4",
+          "kind": "story",
+          "text": "Цей міст Росія незаконно збудувала після окупації Криму."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "36c77eb0c4b0e6f2",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zaporizhzhia/1458473-cerez-udari-po-krimskomu-mostu-perevantazena-rosijska-logistika-na-tot-zaporizkoi-oblasti-ates",
+          "title": "Через удари по Кримському мосту перевантажена російська логістика на ТОТ Запорізької області — АТЕШ",
+          "published_at": "2026-11-27T17:44:50+00:00"
+        },
+        {
+          "item_id": "31431b8016416bbd",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/world/geopolitics/grafiti-bilya-posolstva-niderlandiv-u-moskvi-diplomatichna-napruga-ta-mural-50662993.html",
+          "title": "У Москві навпроти посольства Нідерландів намалювали мурал із ракетами, що летять над Європою",
+          "published_at": "2026-11-27T07:18:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "d39f92b2f8e46ffb",
+          "name": "Бердянськ 24 (Brd24)",
+          "url": "https://brd24.com/news/chy-rozghliadaie-rf-porty-berdianska-ta-mariupolia-iak-alternatyvu-krymskomu-mostu.html",
+          "title": "Чи розглядає рф порти Бердянська та Маріуполя як альтернативу Кримському мосту",
+          "published_at": "2026-11-27T14:57:51+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-36c77eb0c4b0e6f2"
+      ]
+    },
+    {
+      "id": "story-2",
+      "kind": "story",
+      "block": "national",
+      "title": "Дніпропетровщина",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-2-s1",
+          "kind": "story",
+          "text": "П'ятеро людей поранені внаслідок атак дронів на Дніпропетровщині в ніч проти 28 листопада, серед них підліток."
+        },
+        {
+          "id": "story-2-s2",
+          "kind": "story",
+          "text": "Під ударами були Дніпро та ще три райони області."
+        },
+        {
+          "id": "story-2-s3",
+          "kind": "story",
+          "text": "Пошкоджені підприємства."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "c429d2c458ccb9dd",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189104-vorog-iz-vecora-ponad-20-raziv-obstrilav-dnipropetrovsinu-e-zagiblij-i-poraneni.html",
+          "title": "Ворог із вечора понад 20 разів обстріляв Дніпропетровщину, є загиблий і поранені",
+          "published_at": "2026-11-27T05:58:53+00:00"
+        },
+        {
+          "item_id": "6ab1b07807e4afa7",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119696-odna-liudina-zaginula-ta-dvoje-otrimali-vazki-poranennia-vnaslidok-ataki-rosiiskix-droniv-na-dnipropetrovshhinu",
+          "title": "Дніпропетровщину атакували понад 20 дронів: є загиблий",
+          "published_at": "2026-11-27T06:41:00+00:00"
+        },
+        {
+          "item_id": "1947b11ac1cecf92",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/rosiiany-ponad-20-raziv-atakuvaly-5-rayoniv-dnipropetrovshchyny-ie-zahyblyy",
+          "title": "Росіяни понад 20 разів атакували 5 районів Дніпропетровщини: є загиблий",
+          "published_at": "2026-11-27T08:08:10+00:00"
+        },
+        {
+          "item_id": "b822a875052b241d",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-koretskyi-rosiiski-ataky-zaliznytsia-enerhetyka-pidpryiemstva/33906890.html",
+          "title": "Корецький: російські війська вночі атакували залізницю, енергетику та підприємства в кількох областях",
+          "published_at": "2026-11-27T09:35:39+00:00"
+        },
+        {
+          "item_id": "d939a2a9e9dd1dd8",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784278_rosiyani_ponad_20_raziv.html",
+          "title": "Росіяни понад 20 разів атакували чотири райони Дніпропетровщини. Є поранена",
+          "published_at": "2026-11-27T16:37:00+00:00"
+        },
+        {
+          "item_id": "30c3bd5193ab19b9",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458517-vijska-rf-zavdali-ponad-20-udariv-po-dnipru-ta-oblasti-poraneno-ludinu",
+          "title": "Війська РФ завдали понад 20 ударів по Дніпру та області: поранено жінку",
+          "published_at": "2026-11-27T16:42:02+00:00"
+        },
+        {
+          "item_id": "2373abbf46c62b77",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189379-armia-rf-protagom-dna-ponad-20-raziv-atakuvala-dnipropetrovsinu-e-poranena.html",
+          "title": "Армія РФ протягом дня понад 20 разів атакувала Дніпропетровщину, є поранена",
+          "published_at": "2026-11-27T16:50:00+00:00"
+        },
+        {
+          "item_id": "22a87dfc53e312e9",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119767-v-iziumi-cerez-kombinovanu-ataku-rosiian-zaginula-zinka-shhe-sestero-liudei-postrazdali",
+          "title": "Росія атакувала Ізюм: загибла жінка, шестеро поранених",
+          "published_at": "2026-11-27T09:29:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "9b21c0fe8a4068b8",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458588-cerez-ataki-bezpilotnikiv-na-dnipropetrovsini-poranen-zaznali-patero-ludej-sered-nih-pidlitok",
+          "title": "Через атаки безпілотників на Дніпропетровщині поранень зазнали п'ятеро людей, серед них — підліток",
+          "published_at": "2026-11-28T05:49:03+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "national-c-1947b11ac1cecf92"
+      ]
+    },
+    {
+      "id": "story-3",
+      "kind": "story",
+      "block": "national",
+      "title": "Наслідки російських ударів",
+      "include": true,
+      "sentences": [
+        {
+          "id": "story-3-s1",
+          "kind": "story",
+          "text": "Крім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 5 людей, ще щонайменше 36 людей поранено."
+        },
+        {
+          "id": "story-3-s2",
+          "kind": "story",
+          "text": "Найбільше постраждалих на Чернігівщині та Житомирщині."
+        },
+        {
+          "id": "story-3-s3",
+          "kind": "story",
+          "text": "У суботу, 28 листопада, у частині областей цілодобово діють графіки відключень світла обсягом від 1 до 3 черг."
+        },
+        {
+          "id": "story-3-s4",
+          "kind": "story",
+          "text": "Троє людей загинули внаслідок російського удару по підприємству в Ніжині на Чернігівщині 27 листопада."
+        },
+        {
+          "id": "story-3-s5",
+          "kind": "story",
+          "text": "Одна людина загинула внаслідок російського удару по цивільному підприємству в Малинській громаді на Житомирщині 27 листопада."
+        }
+      ],
+      "sources": [
+        {
+          "item_id": "b5727e2d4995d25b",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-economy/4189399-u-castini-oblastej-u-subotu-diatimut-cilodobovi-grafiki-vidklucen-svitla.html",
+          "title": "У частині областей у суботу діятимуть цілодобові графіки відключень світла",
+          "published_at": "2026-11-27T18:01:00+00:00"
+        },
+        {
+          "item_id": "04f386f3c5538af6",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119942-ukrenergo-povidomilo-pro-vidkliucennia-svitla-28-listopada-diiatimut-grafiki-vid-1-do-3-cerg",
+          "title": "В Україні 28 листопада діятимуть графіки відключень",
+          "published_at": "2026-11-27T19:48:00+00:00"
+        },
+        {
+          "item_id": "9c52163c8a2e4308",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/dnipro/1458565-na-dnipropetrovsini-28-listopada-diatimut-pogodinni-grafiki-vidklucen-svitla",
+          "title": "На Дніпропетровщині 28 листопада діятимуть погодинні графіки відключень світла",
+          "published_at": "2026-11-28T05:10:08+00:00"
+        },
+        {
+          "item_id": "d1ab4360ed3a0993",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/na-dnipropetrovshhyni-testuyut-novyj-format-grafikiv-vidklyuchen-svitla",
+          "title": "На Дніпропетровщині тестують новий формат графіків відключень світла",
+          "published_at": "2026-11-27T14:19:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "f758da313ead601c",
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-subotu-28-lystopada",
+          "title": "Відключення світла у Запоріжжі: графік на суботу, 28 листопада",
+          "published_at": "2026-11-27T19:38:15+00:00",
+          "related": true
+        },
+        {
+          "item_id": "41f6364bdcdc4038",
+          "name": "Dnipro.media",
+          "url": "https://dnipro.media/novyny-dnipro/grafiky-vidklyuchen-tsek-na-28-lystopada-2026-onovlennya-0026",
+          "title": "Нове оновлення графіка ЦЕК на 28 листопада: зміни о 00:26",
+          "published_at": "2026-11-27T22:30:05+00:00",
+          "related": true
+        },
+        {
+          "item_id": "bc45e72fb80b0b8d",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/27/407767_u-zaporizkij-oblasti-zaprovadyly-avarijni-vidklyuchennya-svitla",
+          "title": "У Запорізькій області запровадили аварійні відключення світла",
+          "published_at": "2026-11-27T09:16:41+00:00"
+        },
+        {
+          "item_id": "b15b1636f6dc75bf",
+          "name": "ZN.UA",
+          "url": "https://zn.ua/ukr/energetics/chastina-kijivshchini-perejshla-na-avarijni-vidkljuchennja-elektroenerhiji.html",
+          "title": "Частина Київщини перейшла на аварійні відключення електроенергії",
+          "published_at": "2026-11-27T12:47:35+00:00"
+        },
+        {
+          "item_id": "d2d2f5c1c6c6a2a1",
+          "name": "LB.ua",
+          "url": "https://lb.ua/economics/2026/11/27/784292_ukrenergo_cherez_ataki_rf.html",
+          "title": "Укренерго: через атаки РФ на Дніпропетровщині та Запоріжжі тривають аварійні відключення",
+          "published_at": "2026-11-27T17:35:00+00:00"
+        },
+        {
+          "item_id": "f758da313ead601c",
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/vidklyuchennya-svitla-u-zaporizhzhi-grafik-na-subotu-28-lystopada",
+          "title": "Відключення світла у Запоріжжі: графік на суботу, 28 листопада",
+          "published_at": "2026-11-27T19:38:15+00:00"
+        },
+        {
+          "item_id": "ef9bd3ecee291548",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243828.html",
+          "title": "Внаслідок атак на Запоріжжя та Запорізький район загинула людина, п'ятеро поранені",
+          "published_at": "2026-11-28T05:51:06+00:00",
+          "related": true
+        },
+        {
+          "item_id": "1d031933fc51a3f9",
+          "name": "Inform.zp",
+          "url": "https://inform.zp.ua/uk/2026/11/28/407807_u-zaporizhzhi-ta-oblasti-diyatymut-grafiky-vidklyuchen-svitla-na-28-lystopada",
+          "title": "У Запоріжжі та області діятимуть графіки відключень світла на 28 листопада",
+          "published_at": "2026-11-28T05:16:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "a459fd3a9fe401c0",
+          "name": "Перший Запорізький",
+          "url": "https://1news.zp.ua/sytuacziya-na-fronti-za-dobu-okupanty-namagalysya-prosunutysya-u-bik-troh-sil-zaporizkoyi-oblasti",
+          "title": "Ситуація на фронті за добу: окупанти намагалися просунутися у бік трьох сіл Запорізької області",
+          "published_at": "2026-11-27T07:54:57+00:00",
+          "related": true
+        },
+        {
+          "item_id": "faa7d150fa242dc7",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784164_rosiya_atakuvala_pidpriiemstvo.html",
+          "title": "Росія атакувала підприємство у Ніжині, є загиблі. Під завалами можуть бути люди",
+          "published_at": "2026-11-27T11:15:00+00:00"
+        },
+        {
+          "item_id": "1c5575d6120d4714",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/viyna/275101-rosiiany-vdaryly-po-pidpryyemstvu-na-chernihivshchyni-ye-zahybli-ta-poraneni-pid-zavalamy-mozut-buty-liudy",
+          "title": "росіяни вдарили по підприємству на Чернігівщині. Є загиблі та поранені, під завалами можуть бути люди",
+          "published_at": "2026-11-27T11:41:00+00:00"
+        },
+        {
+          "item_id": "70548e8983dc2b4b",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/udar-po-pidpryiemstvu-v-nizhyni-2-liudey-zahynuly-shche-4-poraneni",
+          "title": "Удар по підприємству в Ніжині: 2 людей загинули, ще 4 поранені",
+          "published_at": "2026-11-27T12:30:20+00:00"
+        },
+        {
+          "item_id": "ef9e929601f34306",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/suspilstvo/rosiyany-vdaryly-po-pidpryyemstvu-nizhyni-ye-zahybli-zavalamy-shukayut-lyudej",
+          "title": "Росіяни вдарили по підприємству в Ніжині: є загиблі, під завалами шукають людей",
+          "published_at": "2026-11-27T12:31:22+00:00"
+        },
+        {
+          "item_id": "02d5cb828db7c2f7",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin",
+          "title": "Троє загиблих та семеро поранених: наслідки атаки РФ на Ніжин",
+          "published_at": "2026-11-27T14:42:49+00:00"
+        },
+        {
+          "item_id": "82abb3e188882dd4",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8064954",
+          "title": "Росіяни атакували підприємство у Ніжині: кількість загиблих зросла до 3 людей",
+          "published_at": "2026-11-27T15:24:00+00:00"
+        },
+        {
+          "item_id": "c126275ab2061314",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189393-udar-rf-po-nizinu-kilkist-zagiblih-zrosla-do-troh-semero-ludej-poraneni.html",
+          "title": "Удар РФ по Ніжину: кількість загиблих зросла до трьох, семеро людей поранені",
+          "published_at": "2026-11-27T17:32:34+00:00"
+        },
+        {
+          "item_id": "f6eebfcc199dff22",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-na-pidpriyemstvo-v-nizhini-zagibli-ta-poraneni-pislya-udaru-50663139.html",
+          "title": "Російський удар по підприємству в Ніжині: троє загиблих, семеро постраждалих",
+          "published_at": "2026-11-27T17:57:00+00:00"
+        },
+        {
+          "item_id": "0d22bfccafe936a9",
+          "name": "Букви",
+          "url": "https://bukvy.org/ataka-rf-po-nizhynu-kilkist-zagyblyh-zrosla-do-troh-shhe-semero-lyudej-poraneni",
+          "title": "Атака РФ по Ніжину: кількість загиблих зросла до трьох, ще семеро людей поранені",
+          "published_at": "2026-11-27T18:19:49+00:00"
+        },
+        {
+          "item_id": "362bf639c3eb02e5",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119943-udar-po-pidprijemstvu-u-nizini-troje-liudei-zaginuli-semero-otrimali-poranennia",
+          "title": "У Ніжині росіяни атакували підприємство: троє загиблих",
+          "published_at": "2026-11-27T18:50:00+00:00"
+        },
+        {
+          "item_id": "8b60bd72f7a708ef",
+          "name": "Час Чернігівський",
+          "url": "https://cntime.cn.ua/rosiya-atakuvala-nizhin-ye-zagibli-pid-zavalami-mozhut-zalishatisya-lyudi-article",
+          "title": "Росія атакувала Ніжин: є загиблі, під завалами можуть залишатися люди",
+          "published_at": "2026-11-27T18:58:02+00:00"
+        },
+        {
+          "item_id": "14b66c26ae3f9573",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/z-iavylysia-foto-naslidkiv-udaru-rosiian-po-nizhynu-tam-zrosla-kilkist-zahyblykh-i-poranenykh",
+          "title": "З’явилися фото наслідків удару росіян по Ніжину: там зросла кількість загиблих і поранених",
+          "published_at": "2026-11-27T16:39:55+00:00",
+          "related": true
+        },
+        {
+          "item_id": "617a06b1daccb5f2",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/chernihiv/1458518-u-nizini-28-listopada-ogolosili-dnem-zalobi-za-zagiblimi-vid-rosijskoi-ataki",
+          "title": "У Ніжині 28 листопада оголосили Днем жалоби за загиблими від російської атаки",
+          "published_at": "2026-11-27T17:00:54+00:00",
+          "related": true
+        },
+        {
+          "item_id": "43422d1a15be2738",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243190.html",
+          "title": "Двоє людей постраждали внаслідок атак РФ на Житомирщині, пошкоджено енергетичну та логістичну інфраструктуру",
+          "published_at": "2026-11-27T06:54:14+00:00"
+        },
+        {
+          "item_id": "6a7d96f058b9d9bd",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784068_okupanti_vdarili_infrastrukturi.html",
+          "title": "Окупанти вдарили по інфраструктурі та житлових будинках на Житомирщині: постраждали двоє людей",
+          "published_at": "2026-11-27T06:55:00+00:00"
+        },
+        {
+          "item_id": "349e36feea98368f",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189123-vorog-za-dobu-obstrilav-dva-rajoni-zitomirsini-poskodzeni-budinki-ta-avto-dvoe-poranenih.html",
+          "title": "Ворог за добу обстріляв два райони Житомирщини - пошкоджені будинки та авто, двоє поранених",
+          "published_at": "2026-11-27T07:05:37+00:00"
+        },
+        {
+          "item_id": "6cd414c381f4006b",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/zhytomyr/1458120-na-zitomirsini-vnaslidok-rosijskih-atak-postrazdali-dvoe-ludej-poskodzeni-budinki-ta-avtomobili",
+          "title": "Російська атака на Житомирщині: постраждали дві жінки, у Житомирі вибило вікна в дев'ятиповерхівці",
+          "published_at": "2026-11-27T07:12:02+00:00"
+        },
+        {
+          "item_id": "8b01bd0e561ca5b1",
+          "name": "Новинарня",
+          "url": "https://novynarnia.com/2026/11/27/zhytomyrshchyna-unaslidok-atak-rosii-postrazhdaly-dvoie-liudei",
+          "title": "Житомирщина: унаслідок атак Росії постраждали двоє людей, пошкоджено житлові будинки",
+          "published_at": "2026-11-27T07:49:42+00:00"
+        },
+        {
+          "item_id": "ba2758f7aae636f2",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataki-rosiji-na-ukrajinu-poshkodzheno-energetichnu-infrastrukturu-v-vinnickiy-i-zhitomirskiy-oblastyah-50663009.html",
+          "title": "У Вінницькій та Житомирській областях російські війська атакували об'єкти енергетики та логістики",
+          "published_at": "2026-11-27T07:56:00+00:00"
+        },
+        {
+          "item_id": "ca4e3d011bbaaf5c",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119798-na-zitomirshhini-cerez-vecirnii-obstril-rosiian-poraneno-dvox-zinok-poskodzeni-budinki-ta-avto",
+          "title": "Удари по Житомирщині: постраждали дві жінки",
+          "published_at": "2026-11-27T10:11:00+00:00"
+        },
+        {
+          "item_id": "c9912b42934645c2",
+          "name": "Громадське радіо",
+          "url": "https://hromadske.radio/news/2026/11/27/odna-liudyna-zahynula-pislia-udaru-rosiian-po-pidpryiemstvu-na-zhytomyrshchyni",
+          "title": "Одна людина загинула після удару росіян по підприємству на Житомирщині",
+          "published_at": "2026-11-27T13:18:07+00:00"
+        },
+        {
+          "item_id": "86eaba890188ec4f",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/rosiyany-atakuvaly-pidpryyemstvo-zhytomyrshhyni-ye-zhertva-poraneni",
+          "title": "Росіяни атакували підприємство на Житомирщині, є жертва і поранені",
+          "published_at": "2026-11-27T13:55:42+00:00"
+        },
+        {
+          "item_id": "55f3ba804b57a84d",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-zhytomyrshchyna-ataka/33907056.html",
+          "title": "На Житомирщині через удар РФ по підприємству загинула людина – ОВА",
+          "published_at": "2026-11-27T14:19:36+00:00"
+        },
+        {
+          "item_id": "d4336325f4c4ab10",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784204_rosiyani_atakuvali_tsivilne.html",
+          "title": "Росіяни атакували цивільне підприємство на Житомирщині: є загиблий і поранені",
+          "published_at": "2026-11-27T15:28:00+00:00"
+        },
+        {
+          "item_id": "4c672fd3bfea1fd4",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243710.html",
+          "title": "Поранених внаслідок удару по підприємству під Малином вже 12 – поліція",
+          "published_at": "2026-11-27T16:07:43+00:00"
+        },
+        {
+          "item_id": "d89bc0a77b1704ae",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8064970",
+          "title": "Росіяни атакували цивільне підприємство на Житомирщині: загинула людина, 12 поранені",
+          "published_at": "2026-11-27T16:22:00+00:00"
+        },
+        {
+          "item_id": "cc6d7bc4f5ab7fb8",
+          "name": "Район.in.ua",
+          "url": "https://rayon.in.ua/news/1119867-rosiiani-atakuvali-civilne-pidprijemstvo-na-zitomirshhini-je-zagiblii-i-poraneni",
+          "title": "РФ атакувала підприємство в Малинській громаді: є жертва",
+          "published_at": "2026-11-27T16:30:00+00:00"
+        },
+        {
+          "item_id": "99e823ea664cf629",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/zhytomyrshhyni-zrosla-kilkist-postrazhdalyx-cherez-udar-rf-po-pidpryyemstvu",
+          "title": "На Житомирщині зросла кількість постраждалих через удар рф по підприємству",
+          "published_at": "2026-11-27T16:38:27+00:00"
+        },
+        {
+          "item_id": "fabf2c9bcf1e687a",
+          "name": "Львівський портал",
+          "url": "https://portal.lviv.ua/news/2026/11/27/rosiiany-atakuvaly-tsyvilne-pidpryiemstvo-na-zhytomyrshchyni-ie-zahyblyj-ponad-10-poranenykh",
+          "title": "Росіяни атакували цивільне підприємство на Житомирщині: є загиблий, понад 10 поранених",
+          "published_at": "2026-11-27T17:04:36+00:00"
+        },
+        {
+          "item_id": "f7d3a14117913b28",
+          "name": "ПІК",
+          "url": "https://pik.net.ua/2026/11/27/na-zhytomyrshhyni-vnaslidok-rosijskoyi-ataky-zagynuv-cholovik-shhe-12-lyudej-otrymaly-poranennya",
+          "title": "На Житомирщині внаслідок російської атаки загинув чоловік, ще 12 людей отримали поранення",
+          "published_at": "2026-11-27T17:50:00+00:00"
+        },
+        {
+          "item_id": "d556512a0caa1097",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/kharkiv/1458505-rosiani-vdarili-po-privatnomu-budinku-u-pisocini-pid-harkovom",
+          "title": "Росіяни вдарили по приватному будинку у Пісочині під Харковом",
+          "published_at": "2026-11-27T15:58:20+00:00"
+        },
+        {
+          "item_id": "323b712f58306268",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243701.html",
+          "title": "Дівчина постраждала внаслідок удару по передмістю Харкова",
+          "published_at": "2026-11-27T16:06:14+00:00"
+        },
+        {
+          "item_id": "eae418f455b3536d",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784262_okupanti_atakuvali_privatniy.html",
+          "title": "Окупанти атакували приватний будинок у Пісочині на Харківщині (оновлено)",
+          "published_at": "2026-11-27T16:53:00+00:00"
+        },
+        {
+          "item_id": "99ebb73d7577e80d",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243744.html",
+          "title": "У передмісті Харкова вже 8 постраждалих, троє з них діти",
+          "published_at": "2026-11-27T17:00:14+00:00"
+        },
+        {
+          "item_id": "d53e7b3bb0e989b1",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189386-rosiani-obstrilali-pisocin-na-harkivsini-postrazdali-vosmero-ludej-zokrema-troe-ditej.html",
+          "title": "Росіяни обстріляли Пісочин на Харківщині: постраждали восьмеро людей, зокрема троє дітей",
+          "published_at": "2026-11-27T17:05:00+00:00"
+        },
+        {
+          "item_id": "1f55242d3b6c2a9a",
+          "name": "KHARKIV Today",
+          "url": "https://2day.kh.ua/ua/kharkow/rosiyany-vdaryly-po-pisochynu-ye-postrazhdali",
+          "title": "Росіяни вдарили по передмістю Харкова, є постраждалі",
+          "published_at": "2026-11-27T17:16:00+00:00"
+        },
+        {
+          "item_id": "ffcf67c175f6a41b",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8065024",
+          "title": "Окупанти атакували село поблизу Харкова: постраждали 8 людей, серед яких діти",
+          "published_at": "2026-11-27T17:16:00+00:00"
+        },
+        {
+          "item_id": "18a1717eb53a9dab",
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-atakuvala-pisochyn-na-harkivshhyni-postrazhdaly-vosmero-lyudej-zokrema-troye-ditej",
+          "title": "РФ атакувала Пісочин на Харківщині: постраждали восьмеро людей, зокрема троє дітей",
+          "published_at": "2026-11-27T17:30:05+00:00"
+        },
+        {
+          "item_id": "9e616aaba61b4392",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/obstril-pisochina-postrazhdali-vosmero-lyudey-zokrema-16-richna-divchina-50663261.html",
+          "title": "Росіяни обстріляли Пісочин на Харківщині: дев’ятеро постраждалих, серед них троє дітей",
+          "published_at": "2026-11-27T18:09:00+00:00"
+        },
+        {
+          "item_id": "ea2b53bbc35efe34",
+          "name": "Радіо Свобода",
+          "url": "https://radiosvoboda.org/a/news-kharkivshchyna-ataka-rf/33907180.html",
+          "title": "8 людей, зокрема 3 дитини, постраждали в передмісті Харкова через атаку РФ – влада",
+          "published_at": "2026-11-27T18:18:52+00:00"
+        },
+        {
+          "item_id": "acec54761e25eae8",
+          "name": "Об'єктив Новини",
+          "url": "https://objectiv.tv/uk/objectively/2026/11/27/prilit-u-pisochini-gorit-privatnij-budinok-ye-postrazhdali",
+          "title": "“Приліт” у Пісочині: горить приватний будинок, є постраждалі",
+          "published_at": "2026-11-27T18:38:12+00:00"
+        },
+        {
+          "item_id": "1ce577e4645fab2a",
+          "name": "Харків Times",
+          "url": "https://times.kharkiv.ua/2026/11/27/ataka-bezpilotnika-na-pisochin-desyatero-postrazhdalih-sered-nih-troye-ditej",
+          "title": "Атака безпілотника на Пісочин: десятеро постраждалих, серед них троє дітей",
+          "published_at": "2026-11-27T18:53:55+00:00"
+        },
+        {
+          "item_id": "49f333159b6c7d43",
+          "name": "Рубрика",
+          "url": "https://rubryka.com/2026/11/27/pisochyn-poblyzu-harkova",
+          "title": "Окупанти обстріляли Пісочин поблизу Харкова: серед восьми постраждалих троє дітей",
+          "published_at": "2026-11-27T19:23:41+00:00"
+        },
+        {
+          "item_id": "5107519de203ecac",
+          "name": "Гвара Медіа",
+          "url": "https://gwaramedia.com/rosiyani-vdarili-po-budinku-v-pisochini-postrazhdala-ditina",
+          "title": "Росіяни вдарили по будинку в Пісочині: постраждали 10 людей, серед них троє дітей",
+          "published_at": "2026-11-27T14:02:14+00:00",
+          "related": true
+        },
+        {
+          "item_id": "ee6cc9147749a687",
+          "name": "Полтавська хвиля",
+          "url": "https://poltavawave.com.ua/u-kriemienchutsi-vorozhii-biezpilotnik-poshkodiv-dva-zakladi-osviti",
+          "title": "У Кременчуці ворожий безпілотник пошкодив два заклади освіти: двоє дітей отримали травми (оновлено)",
+          "published_at": "2026-11-27T18:56:14+00:00"
+        },
+        {
+          "item_id": "055ba79ecaf0a785",
+          "name": "Укрінформ",
+          "url": "https://ukrinform.ua/rubric-regions/4189415-u-kremencuci-cerez-ataku-rosijskogo-drona-poskodzeni-zakladi-osviti-travmovani-dvoe-ditej.html",
+          "title": "У Кременчуці через атаку російського дрона пошкоджені заклади освіти, травмовані двоє дітей",
+          "published_at": "2026-11-27T19:14:00+00:00"
+        },
+        {
+          "item_id": "356117fb0af2b833",
+          "name": "Полтавська думка",
+          "url": "https://dumka.poltava.ua/na-poltavshchyni-vnaslidok-vorozhoho-obstrilu-travmuvalysia-dvoie-ditej",
+          "title": "На Полтавщині внаслідок ворожого обстрілу травмувалися двоє дітей (ДОДАНО)",
+          "published_at": "2026-11-27T19:29:48+00:00"
+        },
+        {
+          "item_id": "a19b39b53f71588a",
+          "name": "Слово і Діло",
+          "url": "https://slovoidilo.ua/2026/11/27/novyna/bezpeka/rosiyany-atakuvaly-dva-zaklady-osvity-centri-kremenchuka-postrazhdaly-dity",
+          "title": "Росіяни атакували два заклади освіти у центрі Кременчука, постраждали діти",
+          "published_at": "2026-11-27T19:41:50+00:00"
+        },
+        {
+          "item_id": "f75d6d03e0c27621",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243801.html",
+          "title": "Внаслідок атаки дрона в Кременчуці пошкоджено два заклади освіти – ОВА",
+          "published_at": "2026-11-27T20:02:42+00:00"
+        },
+        {
+          "item_id": "f6311328a71ab1da",
+          "name": "Українська правда",
+          "url": "https://pravda.com.ua/news/2026/11/27/8065058",
+          "title": "Росіяни атакували два заклади освіти в центрі Кременчука: поранені діти",
+          "published_at": "2026-11-27T20:31:00+00:00"
+        },
+        {
+          "item_id": "e72fc1b9e127250d",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti",
+          "title": "У Кременчуці внаслідок обстрілу постраждали люди та заклади освіти",
+          "published_at": "2026-11-27T20:40:37+00:00"
+        },
+        {
+          "item_id": "ce3a4efea0d298a6",
+          "name": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/general/1243809.html",
+          "title": "Внаслідок атаки дрона на Кременчук постраждали четверо людей, серед них троє дітей – ОВА",
+          "published_at": "2026-11-27T21:00:25+00:00"
+        },
+        {
+          "item_id": "dd7610f17d6882ba",
+          "name": "hromadske",
+          "url": "https://hromadske.ua/rehiony/275144-rosiiany-vdaryly-po-dvokh-zakladakh-osvity-u-tsentri-kremenchuka-postrazdaly-try-dytyny",
+          "title": "росіяни вдарили по двох закладах освіти у центрі Кременчука — постраждали три дитини",
+          "published_at": "2026-11-27T21:16:00+00:00"
+        },
+        {
+          "item_id": "9bf07d6ec1bf4a90",
+          "name": "Букви",
+          "url": "https://bukvy.org/rf-bezpilotnykom-atakuvala-kremenchuk-chetvero-travmovanyh-sered-nyh-troye-ditej",
+          "title": "РФ безпілотником атакувала Кременчук: четверо травмованих, серед них троє дітей",
+          "published_at": "2026-11-27T22:12:39+00:00"
+        },
+        {
+          "item_id": "9e0be453ca722dd3",
+          "name": "NV",
+          "url": "https://nv.ua/ukr/ukraine/events/ataka-bezpilotnika-na-kremenchuk-dva-osvitni-zakladi-poshkodzheno-sered-postrazhdalih-diti-50663310.html",
+          "title": "Російський дрон пошкодив два заклади освіти у Кременчуці: постраждали четверо людей, серед них троє дітей",
+          "published_at": "2026-11-27T23:35:00+00:00"
+        },
+        {
+          "item_id": "9c4ca75144306188",
+          "name": "LB.ua",
+          "url": "https://lb.ua/society/2026/11/27/784324_rosiyani_poshkodili_dva_osvitni.html",
+          "title": "Росіяни пошкодили два освітні заклади у Кременчуці, є травмовані діти (оновлено)",
+          "published_at": "2026-11-27T20:10:00+00:00",
+          "related": true
+        },
+        {
+          "item_id": "824ce6792da2b1f7",
+          "name": "Суспільне Новини",
+          "url": "https://suspilne.media/poltava/1458342-u-kremencuci-pisla-ataki-rf-poskodzeni-dvi-bagatopoverhivki-e-travmovani",
+          "title": "У Кременчуці після атаки РФ пошкоджені дві багатоповерхівки, є травмовані",
+          "published_at": "2026-11-27T14:11:33+00:00",
+          "related": true
+        },
+        {
+          "item_id": "89993d229557c859",
+          "name": "У Полтаві",
+          "url": "https://upoltavi.com.ua/2026/11/27/na-poltavshhyni-avtomobil-zbyv-13-richnu-divchynku-na-pishohidnomu-perehodi",
+          "title": "На Полтавщині автомобіль збив 13-річну дівчинку",
+          "published_at": "2026-11-27T08:20:00+00:00",
+          "related": true
+        }
+      ],
+      "retold": true,
+      "from_stories": [
+        "regional-c-04f386f3c5538af6",
+        "national-c-b15b1636f6dc75bf",
+        "regional-c-02d5cb828db7c2f7",
+        "national-c-349e36feea98368f",
+        "national-c-18a1717eb53a9dab",
+        "regional-c-055ba79ecaf0a785"
+      ],
+      "digest": {
+        "killed": 5,
+        "injured": 36,
+        "regions": {
+          "zaporizhzhia": {
+            "killed": {
+              "n": 1,
+              "clause": "Запорізький район загинула людина",
+              "item_id": "ef9bd3ecee291548",
+              "source": "Інтерфакс-Україна",
+              "url": "https://interfax.com.ua/news/general/1243828.html",
+              "reported": [
+                1
+              ]
+            },
+            "injured": {
+              "n": 5,
+              "clause": "п'ятеро поранені",
+              "item_id": "ef9bd3ecee291548",
+              "source": "Інтерфакс-Україна",
+              "url": "https://interfax.com.ua/news/general/1243828.html",
+              "reported": [
+                5
+              ]
+            }
+          },
+          "chernihiv": {
+            "injured": {
+              "n": 7,
+              "clause": "семеро поранених",
+              "item_id": "02d5cb828db7c2f7",
+              "source": "Суспільне Новини",
+              "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin",
+              "reported": [
+                4,
+                7
+              ]
+            },
+            "killed": {
+              "n": 3,
+              "clause": "Троє загиблих",
+              "item_id": "02d5cb828db7c2f7",
+              "source": "Суспільне Новини",
+              "url": "https://suspilne.media/chernihiv/1458453-troe-zagiblih-ta-semero-poranenih-naslidki-ataki-rf-na-nizin",
+              "reported": [
+                2,
+                3
+              ]
+            }
+          },
+          "zhytomyr": {
+            "injured": {
+              "n": 12,
+              "clause": "ще 12 постраждали",
+              "item_id": "d4336325f4c4ab10",
+              "source": "LB.ua",
+              "url": "https://lb.ua/society/2026/11/27/784204_rosiyani_atakuvali_tsivilne.html",
+              "reported": [
+                2,
+                12
+              ]
+            },
+            "killed": {
+              "n": 1,
+              "clause": "Одна людина загинула",
+              "item_id": "c9912b42934645c2",
+              "source": "Громадське радіо",
+              "url": "https://hromadske.radio/news/2026/11/27/odna-liudyna-zahynula-pislia-udaru-rosiian-po-pidpryiemstvu-na-zhytomyrshchyni",
+              "reported": [
+                1
+              ]
+            }
+          },
+          "kharkiv": {
+            "injured": {
+              "n": 8,
+              "clause": "Восьмеро людей поранені",
+              "item_id": "eae418f455b3536d",
+              "source": "LB.ua",
+              "url": "https://lb.ua/society/2026/11/27/784262_okupanti_atakuvali_privatniy.html",
+              "reported": [
+                1,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          "poltava": {
+            "injured": {
+              "n": 4,
+              "clause": "4 людей постраждали",
+              "item_id": "f6311328a71ab1da",
+              "source": "Українська правда",
+              "url": "https://pravda.com.ua/news/2026/11/27/8065058",
+              "reported": [
+                2,
+                3,
+                4
+              ]
+            }
+          }
+        },
+        "method": "у кожній області — найбільша цифра, підтверджена двома джерелами, а якщо такої немає і джерела розходяться — найменша; області додано; загиблі й поранені окремо; за добу",
+        "apart": [
+          "national-c-1947b11ac1cecf92"
+        ],
+        "skipped": [
+          {
+            "item_id": "b5727e2d4995d25b",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "04f386f3c5538af6",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "9c52163c8a2e4308",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "d1ab4360ed3a0993",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "f758da313ead601c",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "41f6364bdcdc4038",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "bc45e72fb80b0b8d",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "b15b1636f6dc75bf",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "d2d2f5c1c6c6a2a1",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "1d031933fc51a3f9",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "a459fd3a9fe401c0",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "1c5575d6120d4714",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "8b60bd72f7a708ef",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "617a06b1daccb5f2",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "8b01bd0e561ca5b1",
+            "skipped": "інша дата в тексті: 26 листопада"
+          },
+          {
+            "item_id": "ba2758f7aae636f2",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "ca4e3d011bbaaf5c",
+            "skipped": "інша дата в тексті: 26 листопада"
+          },
+          {
+            "item_id": "99e823ea664cf629",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "99ebb73d7577e80d",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "1f55242d3b6c2a9a",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "ea2b53bbc35efe34",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "acec54761e25eae8",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "1ce577e4645fab2a",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "ee6cc9147749a687",
+            "skipped": "регіон не визначено однозначно"
+          },
+          {
+            "item_id": "a19b39b53f71588a",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "f75d6d03e0c27621",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "e72fc1b9e127250d",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "9c4ca75144306188",
+            "skipped": "не про російський удар"
+          },
+          {
+            "item_id": "824ce6792da2b1f7",
+            "skipped": "немає однозначної цифри"
+          },
+          {
+            "item_id": "89993d229557c859",
+            "skipped": "не про російський удар"
+          }
+        ]
+      }
+    },
+    {
+      "id": "outro",
+      "kind": "outro",
+      "block": "outro",
+      "title": null,
+      "include": true,
+      "sentences": [
+        {
+          "id": "outro-s1",
+          "kind": "outro",
+          "text": "Це був BRIEF станом на ранок суботи двадцять восьмого листопада. Посилання на першоджерела — на сайті BRIEF."
+        }
+      ],
+      "sources": []
+    }
+  ],
+  "evidence": {
+    "c429d2c458ccb9dd": "Ворог із вечора понад 20 разів обстріляв Дніпропетровщину, є загиблий і поранені. Російські загарбники ще понад 20 разів атакували безпілотниками п’ять районів Дніпропетровської області, унаслідок чого є пошкодження, одна людина загинула, ще двоє дістали поранення.",
+    "6ab1b07807e4afa7": "Дніпропетровщину атакували понад 20 дронів: є загиблий. У ніч на 27 листопада та вранці російські війська понад 20 разів атакували безпілотниками п'ять районів Дніпропетровської області та обласний центр.",
+    "1947b11ac1cecf92": "Росіяни понад 20 разів атакували 5 районів Дніпропетровщини: є загиблий. Російські окупанти ще понад 20 разів атакували безпілотниками п’ять районів Дніпропетровської області. Внаслідок чого є пошкодження, одна людина загинула, ще двоє дістали поранення. Про це повідомив голова обласної військової адміністрації Олександр Ганжа. Зокрема, у Нікопольському районі під ворожими ударами перебували місто Нікополь, Марганецька, Мирівська та Покровська громади. Пошкоджені підприємство й багатоквартирний будинок. У важкому стані... Запис Росіяни понад 20 разів атакували 5 районів Дніпропетровщини: є загиблий спершу з'явиться на Громадське радіо .",
+    "b822a875052b241d": "Корецький: російські війська вночі атакували залізницю, енергетику та підприємства в кількох областях. Раніше голова Дніпропетровської області Олександр Ганжа повідомив про загиблого й двох поранених внаслідок російських атак вночі",
+    "d939a2a9e9dd1dd8": "Росіяни понад 20 разів атакували чотири райони Дніпропетровщини. Є поранена. Внаслідок обстрілів пошкоджені житлові будинки, заклад освіти, підприємства та інфраструктура.",
+    "30c3bd5193ab19b9": "Війська РФ завдали понад 20 ударів по Дніпру та області: поранено жінку. Протягом дня 27 листопада війська РФ понад 20 разів атакували Дніпропетровщину безпілотниками та артилерією. Під ударами були Дніпро, а також Павлоградський, Синельниківський та Нікопольський райони. Внаслідок обстрілів є поранена",
+    "2373abbf46c62b77": "Армія РФ протягом дня понад 20 разів атакувала Дніпропетровщину, є поранена. Російські військові протягом дня понад 20 разів атакували чотири райони Дніпропетровської області, унаслідок чого дістала поранень літня жінка.",
+    "22a87dfc53e312e9": "Росія атакувала Ізюм: загибла жінка, шестеро поранених. Російські війська завдали комбінованого удару по житловому сектору міста Ізюм на Харківщині, застосувавши реактивні системи залпового вогню та безпілотники.",
+    "9b21c0fe8a4068b8": "Через атаки безпілотників на Дніпропетровщині поранень зазнали п'ятеро людей, серед них — підліток. У ніч проти 28 листопада війська РФ понад 20 разів атакували безпілотниками Дніпро та ще три райони області. Через удари поранено п'ятьох людей, серед них — підліток. Пошкоджені підприємства",
+    "43422d1a15be2738": "Двоє людей постраждали внаслідок атак РФ на Житомирщині, пошкоджено енергетичну та логістичну інфраструктуру. Двоє людей постраждали, одну з них госпіталізовано, внаслідок російських атак на об'єкти енергетичної та логістичної інфраструктури і приватні будинки у Житомирському та Коростенському районах протягом минулої доби, повідомив начальник Житомирської обласної військової адміністрації Віталій Бунечко.",
+    "6a7d96f058b9d9bd": "Окупанти вдарили по інфраструктурі та житлових будинках на Житомирщині: постраждали двоє людей. Під атакою були об'єкти енергетичної та логістичної інфраструктури.",
+    "349e36feea98368f": "Ворог за добу обстріляв два райони Житомирщини - пошкоджені будинки та авто, двоє поранених. Російська армія минулої доби атакувала об’єкти енергетичної та логістичної інфраструктури, а також приватні житлові будинки в Житомирській області. Постраждали двоє людей.",
+    "6cd414c381f4006b": "Російська атака на Житомирщині: постраждали дві жінки, у Житомирі вибило вікна в дев'ятиповерхівці. Упродовж минулої доби російські війська атакували об'єкти енергетичної та логістичної інфраструктури, приватні житлові будинки у Житомирському та Коростенському районах. Внаслідок атак травми отримали двоє людей",
+    "8b01bd0e561ca5b1": "Житомирщина: унаслідок атак Росії постраждали двоє людей, пошкоджено житлові будинки. Увечері 26 листопада російські війська атакували Житомирську область, унаслідок чого зафіксовано пошкодження та пожежі, є постраждалі. Про це повідомили в Державній службі з надзвичайних ситуацій зранку 27 листопада. Під ворожими ударами опинилися Житомир, Житомирський район та Коростень. Внаслідок влучань виникли пожежі на території приватних домоволодінь, горіли автівки. Крім того, пошкоджені житлові будинки та автомобіль, а […] The post Житомирщина: унаслідок атак Росії постраждали двоє людей, пошкоджено житлові будинки first appeared on Новинарня .",
+    "ba2758f7aae636f2": "У Вінницькій та Житомирській областях російські війська атакували об'єкти енергетики та логістики. У ніч на 27 листопада російські війська атакували об'єкти енергетики та залізничної інфраструктури у Вінницькій області. У Житомирській області було атаковано об'єкти енергетики та логістики.",
+    "ca4e3d011bbaaf5c": "Удари по Житомирщині: постраждали дві жінки. Увечері 26 листопада російські війська завдали ударів по Житомирській області. Під ворожим вогнем опинилися обласний центр, Житомирський район та місто Коростень, внаслідок чого постраждали двоє місцевих мешканок.",
+    "c9912b42934645c2": "Одна людина загинула після удару росіян по підприємству на Житомирщині. Одна людина загинула, ще двоє зазнали поранень через атаку російських військ по цивільному підприємству в Житомирській області. Про це повідомив голова Житомирської обласної військової адміністрації Віталій Бунечко. За його словами, у п’ятницю, 27 листопада під ударом знову опинилася Малинська громада. Російські війська атакували цивільне підприємство. Відомо, що одна людина загинула, ще двоє постраждали. Медики надають... Запис Одна людина загинула після удару росіян по підприємству на Житомирщині спершу з'явиться на Громадське радіо .",
+    "86eaba890188ec4f": "Росіяни атакували підприємство на Житомирщині, є жертва і поранені. Армія рф 27 листопада завдала удару по цивільному підприємству в Житомирській області. Внаслідок обстрілу загинула одна людина, ще двоє поранені.",
+    "55f3ba804b57a84d": "На Житомирщині через удар РФ по підприємству загинула людина – ОВА. «Російські війська атакували цивільне підприємство. На жаль, одна людина загинула, ще двоє постраждали… На місці працюють усі відповідні служби», – повідомили в Житомирській ОВА",
+    "d4336325f4c4ab10": "Росіяни атакували цивільне підприємство на Житомирщині: є загиблий і поранені. У Малинській громаді внаслідок удару загинула одна людина, ще 12 постраждали.",
+    "4c672fd3bfea1fd4": "Поранених внаслідок удару по підприємству під Малином вже 12 – поліція. Кількість постраждалих внаслідок удару російських окупантів по цивільному підприємству в Малинській громаді Житомирської області в п'ятницю вдень зросла до 12, загинув один житель Малина, повідомляє відділ комунікації поліції Житомирської області.",
+    "d89bc0a77b1704ae": "Росіяни атакували цивільне підприємство на Житомирщині: загинула людина, 12 поранені. 27 листопада Росія вдарила по цивільному підприємству в Малинській громаді Житомирщини: одна людина загинула, ще двоє дістали поранення.",
+    "cc6d7bc4f5ab7fb8": "РФ атакувала підприємство в Малинській громаді: є жертва. У Малинській громаді Житомирської області внаслідок російської атаки на цивільне підприємство загинула одна людина, ще двоє постраждали.",
+    "99e823ea664cf629": "На Житомирщині зросла кількість постраждалих через удар рф по підприємству. Кількість поранених внаслідок атаки на підприємство на Житомирщині збільшилася з двох до 12 осіб.",
+    "fabf2c9bcf1e687a": "Росіяни атакували цивільне підприємство на Житомирщині: є загиблий, понад 10 поранених. Удень 27 листопада російські війська завдали удару по цивільному підприємству в Малинській громаді на Житомирщині. Одна людина загинула, ще 12 дістали поранення. Про це повідомив голова Житомирської обласної військової адміністрації Віталій Бунечко. Спочатку було відомо про двох постраждалих. Однак згодом у поліції уточнили, що поранення отримали 12 людей віком від 23 до 61 року. Дізнавайтеся … Continue reading Росіяни атакували цивільне підприємство на Житомирщині: є загиблий, понад 10 поранених →",
+    "f7d3a14117913b28": "На Житомирщині внаслідок російської атаки загинув чоловік, ще 12 людей отримали поранення. Внаслідок ворожої атаки виникла пожежа.",
+    "1fcf3a7b8778579c": "Українські військові знищили російську нафтобазу, замасковану в лісі на окупованій Луганщині. Під час операції «Пекло-3» бійці SxLüd і Signum знищили російську нафтобазу на окупованій Донеччині.",
+    "ac74632d263f31d3": "Операція \"Пекло-3\": Сили оборони знищили підземну нафтобазу росіян на окупованій Луганщині. Військові підрозділу \"SxLüd\" і батальйону \"Signum\" знищили замасковану підземну нафтобазу росіян на окупованій Луганщині. Деталі – у відео.",
+    "c8b3c979b284aedf": "Операція «Пекло-3»: бійці 1-го корпусу НГУ «Азов» і 59 ОШБр знищили ворожу нафтобазу та логістику. The post Операція «Пекло-3»: бійці 1-го корпусу НГУ «Азов» і 59 ОШБр знищили ворожу нафтобазу та логістику appeared first on Море Людей .",
+    "4911cfd64142b3db": "Операція «Пекло-3». Українські військові знищили замасковану нафтобазу росіян на Луганщині (ВІДЕО). ",
+    "beb6b95edfc2bbf1": "Українські військові знищили замасковану нафтобазу росіян на Луганщині. Удар по об’єкту має ускладнити забезпечення російських військ пальним на цьому напрямку",
+    "4d6ac70c318e1c13": "Операція «Пекло-3»: «Азов» і 59-та бригада знищили підземну нафтобазу росіян (ВІДЕО). Українські військові в межах операції «Пекло-3» знищили замасковану російську нафтобазу з підземними сховищами пального та інфраструктуру її забезпечення на окупованій Луганщині.",
+    "35288bccf96a0dfc": "Спецоперація \"Пекло-3\": українські військові знищили замасковану в лісі нафтобазу росіян. Операцію провели підрозділ SxLüd корпусу \"Азов\" та батальйон Signum 59-ї окремої штурмової бригади безпілотних систем.",
+    "744c8b9d3df480ba": "ЗСУ уразили російський комплекс «Бук-М3», пункти управління дронами та склади на окупованих територіях. Сили оборони України 26 листопада та в ніч на 27 листопада завдали ударів по військових об’єктах російських окупантів на тимчасово захоплених територіях. Серед уражених цілей — зенітний ракетний комплекс «Бук-М3», пункти управління військами та безпілотниками, а також склади. Про це повідомили у Генеральному штабі ЗСУ. Зокрема, поблизу населеного пункту Курошани Запорізької області уразили зенітний ракетний … Continue reading ЗСУ уразили російський комплекс «Бук-М3», пункти управління дронами та склади на окупованих територіях →",
+    "e9871ffafa0e2883": "На Донеччині «Азов» знищив нафтобазу окупантів. Підрозділ «SxLüd» 1-го корпусу НГУ «Азов» спільно з батальйоном «Signum» 59 ОШБр провели операцію «Пекло-3» та знищили ретельно замасковану в лісі нафтобазу російських окупантів.",
+    "d83126fc895fb48b": "Сили оборони уразили ЗРК «Бук-М3» та низку логістичних об'єктів військ рф. Сили оборони України завдали ударів по засобах протиповітряної оборони, пунктах управління та логістичних об'єктах окупантів.",
+    "bc45e72fb80b0b8d": "У Запорізькій області запровадили аварійні відключення світла. Сьогодні, 26 листопада, у Запоріжжі та області застосували аварійні відключення електроенергії. Через це світло можуть вимикати поза графіками погодинних відключень. Сообщение У Запорізькій області запровадили аварійні відключення світла появились сначала на inform.zp.ua .",
+    "b15b1636f6dc75bf": "Частина Київщини перейшла на аварійні відключення електроенергії. Також графіки не діють у Дніпропетровській та Запорізькій областях.",
+    "d2d2f5c1c6c6a2a1": "Укренерго: через атаки РФ на Дніпропетровщині та Запоріжжі тривають аварійні відключення. Завтра, 28 листопада, продовжать діяти графіки погодинних відключень для всіх категорій споживачів.",
+    "f758da313ead601c": "Відключення світла у Запоріжжі: графік на суботу, 28 листопада. У суботу, 28 листопада, по Запорізькій області будуть застосовані графіки погодинних відключень для населення. Про це повідомили у «Запоріжжяобленерго». Години відсутності електропостачання по чергам (з урахуванням 30 хвилин на перемикання): Ситуація зі світлом у Запоріжжі:... The post Відключення світла у Запоріжжі: графік на суботу, 28 листопада first appeared on Перший Запорізький .",
+    "ef9bd3ecee291548": "Внаслідок атак на Запоріжжя та Запорізький район загинула людина, п'ятеро поранені. Російські війська протягом доби понад 700 разів атакували Запорізьку область, одна людина загинула, ще п'ятеро поранені, повідомляє голова Ради оборони Запорізької області Іван Федоров.",
+    "1d031933fc51a3f9": "У Запоріжжі та області діятимуть графіки відключень світла на 28 листопада. Сьогодні, 28 листопада, у Запоріжжі та Запорізькій області діятимуть графіки погодинних відключень електроенергії. Світло вимикатимуть у всіх 12 підчергах. Сообщение У Запоріжжі та області діятимуть графіки відключень світла на 28 листопада появились сначала на inform.zp.ua .",
+    "a459fd3a9fe401c0": "Ситуація на фронті за добу: окупанти намагалися просунутися у бік трьох сіл Запорізької області. На Гуляйпільському напрямку минулої доби окупанти п’ять разів атакували позиції захисників. Ворог намагався просунутися у бік населених пунктів Нове Запоріжжя, Гірке та Чарівне. Про це у ранковому зведенні 27 листопада повідомив Генштаб. На Оріхівському та... The post Ситуація на фронті за добу: окупанти намагалися просунутися у бік трьох сіл Запорізької області first appeared on Перший Запорізький .",
+    "74dcd9b3c7f3e6e1": "У Кременчуці через аварійне відключення Раківка залишилася без світла. 27 листопада о 7.35 у Кременчуці через аварійне відключення на електромережах жителі Раківки залишилися без світла. Про це повідомили у Службі допомоги мера жителям Кременчука з посиланням на АТ «Полтаваобленерго». Терміни відновлення електропостачання та кількість знеструмлених споживачів не уточнюють. Нагадаємо, на Полтавщині застосовують графіки погодинних відключень електроенергії. Водночас через аварії на електромережах світло може зникати […] Сообщение У Кременчуці через аварійне відключення Раківка залишилася без світла появились сначала на Кременчуцький Телеграф .",
+    "ef72b855d995cdd5": "У Кременчуці через аварійне відключення без світла залишилися понад 50 вулиць. У Кременчуці 27 листопада знеструмили десятки вулиць і провулків, також без світла залишилися жителі села Садки. За попереднім графіком, відновити електропостачання планують вранці 28 листопада",
+    "1611af0d195414cc": "Графік відключення електроенергії на Черкащині на 28 листопада. Через постійні ворожі обстріли та наслідки попередніх ракетно-дронових атак за розпорядженням НЕК «Укренерго» 28 листопада з 06:00 до 24:00 у Черкаській області будуть застосовані графіки погодинних відключень (ГПВ). Про це повідомляє пресслужба АТ \"Черкасиобленерго\". Години відсутності електропостачання для всіх споживачів Черкаської області: 1.1 06:00 - 08:00, 13:00 - 15:00, 19:00 - 22:00 1.2 08:00 - 11:00, 14:00 - 17:00 2.1 06:00 - 08:00, 13:00 - 16:00, 19:00 - 22:00 2.2 09:00 - 11:00, 14...",
+    "9c171480851b1b6c": "Понад тисяча мешканців Кременчука залишилися без світла. 27 листопада у Кременчуці через аварію на електромережі тимчасово знеструмило близько 1100 жителів. Фахівці працюють над відновленням електрики.",
+    "36c77eb0c4b0e6f2": "Через удари по Кримському мосту перевантажена російська логістика на ТОТ Запорізької області — АТЕШ. Після пошкодження Кримського мосту росіяни перекинули постачання на трасу Р-280 через Бердянськ і Мелітополь: яка ситуація на ТОТ — розповіли в АТЕШ",
+    "31431b8016416bbd": "У Москві навпроти посольства Нідерландів намалювали мурал із ракетами, що летять над Європою. На стіні житлового будинку поруч з посольством Нідерландів у Москві з’явився мурал. На ньому зображено три ракети та червоні тюльпани, що летять над Європою.",
+    "d39f92b2f8e46ffb": "Чи розглядає рф порти Бердянська та Маріуполя як альтернативу Кримському мосту. Військовий експерт Олексій Гетьман розповів в інтерв’ю «Бердянськ 24», як пошкодження Кримського мосту може вплинути на російську логістику та ситуацію на Запорізькому фронті.",
+    "d556512a0caa1097": "Росіяни вдарили по приватному будинку у Пісочині під Харковом. Увечері 27 листопада російські війська атакували приватний будинок у Пісочині поблизу Харкова. Виникла пожежа, постраждала 16-річна дівчина",
+    "323b712f58306268": "Дівчина постраждала внаслідок удару по передмістю Харкова. Ворог завдав удару по Пісочину, постраждала дівчина, начальник Харківської обласної військової адміністрації Олег Синєгубов.",
+    "eae418f455b3536d": "Окупанти атакували приватний будинок у Пісочині на Харківщині (оновлено). Восьмеро людей поранені.",
+    "99ebb73d7577e80d": "У передмісті Харкова вже 8 постраждалих, троє з них діти. Кількість постраждалих внаслідок удару по Пісочину зросла до 8, серед них є діти, повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов.",
+    "d53e7b3bb0e989b1": "Росіяни обстріляли Пісочин на Харківщині: постраждали восьмеро людей, зокрема троє дітей. У Пісочині Харківської області внаслідок російського обстрілу постраждали восьмеро людей, серед них — троє дітей.",
+    "1f55242d3b6c2a9a": "Росіяни вдарили по передмістю Харкова, є постраждалі. Ворог завдав удару по будинку.",
+    "ffcf67c175f6a41b": "Окупанти атакували село поблизу Харкова: постраждали 8 людей, серед яких діти. У результаті атаки РФ по Пісочину біля Харкова поранено 8 осіб, зокрема трьох дітей. Про це повідомив Олег Синєгубов, Харківська ОВА.",
+    "18a1717eb53a9dab": "РФ атакувала Пісочин на Харківщині: постраждали восьмеро людей, зокрема троє дітей. Російські окупанти завдали удару по приватному будинку в Пісочині Харківської області. Унаслідок атаки постраждали восьмеро людей, серед них троє дітей. Запис РФ атакувала Пісочин на Харківщині: постраждали восьмеро людей, зокрема троє дітей спершу з'явиться на Букви .",
+    "9e616aaba61b4392": "Росіяни обстріляли Пісочин на Харківщині: дев’ятеро постраждалих, серед них троє дітей. У Пісочині Харківської області внаслідок російського обстрілу дістали поранення дев’ятеро людей, зокрема троє дітей. Серед постраждалих — 16-річна дівчина.",
+    "ea2b53bbc35efe34": "8 людей, зокрема 3 дитини, постраждали в передмісті Харкова через атаку РФ – влада. Раніше голова Харківської ОВА повідомив, що російські війська атакували приватний будинок у Пісочині, там спалахнула пожежа",
+    "acec54761e25eae8": "“Приліт” у Пісочині: горить приватний будинок, є постраждалі. Близько 17:30 РФ атакувала приватний будинок у Пісочині. На місці влучання виникла пожежа. Про це...",
+    "1ce577e4645fab2a": "Атака безпілотника на Пісочин: десятеро постраждалих, серед них троє дітей. Російський безпілотник пошкодив приватні будинки",
+    "49f333159b6c7d43": "Окупанти обстріляли Пісочин поблизу Харкова: серед восьми постраждалих троє дітей. У селищі Пісочин Харківської області внаслідок російського обстрілу постраждали восьмеро людей, зокрема троє дітей. Наразі медики надають потерпілим необхідну допомогу. Про це повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов, пише Рубрика. Спочатку очільник області розповів, що окупанти атакували приватний будинок у Пісочині та додав, що інформація щодо постраждалих уточнюється. Згодом керівник ОВА повідомив про […] The post Окупанти обстріляли Пісочин поблизу Харкова: серед восьми постраждалих троє дітей appeared first on Рубрика .",
+    "5107519de203ecac": "Росіяни вдарили по будинку в Пісочині: постраждали 10 людей, серед них троє дітей. Увечері 27 листопада російські війська атакували безпілотником приватний будинок у селищі Пісочин на Харківщині. Внаслідок удару постраждали 10 людей, серед них троє дітей. Про це повідомив начальник Харківської обласної військової адміністрації Олег Синєгубов. За даними облпрокуратури, серед постраждалих дітей — троє дівчат віком три, дев’ять та 16 років. Медики надають постраждалим необхідну допомогу. На місці влучання виникла пожежа, також працюють профільні служби. Оновлено о 20:20: змінено заголовок і лід, оскільки, за даними Синєгубова, кількість постраждалих зросла до восьми людей.",
+    "5251206edb7a0e23": "Через атаку дронів на Буковині пошкоджений житловий будинок. У Чернівецькому районі уламки російського БпЛА пошкодили житловий будинок під час атаки на Буковину 27 листопада. Над областю зафіксували три безпілотники, два з них знешкодила ППО. Загиблих і травмованих немає",
+    "911f56725b37bae3": "Над Буковиною зафіксували три БпЛА: унаслідок падіння уламків одного з них пошкоджений житловий будинок. Увечері 27 листопада під час ворожої атаки в повітряному просторі над Буковиною зафіксували три БпЛА. Один із них покинув межі області, ще два знешкодили Сили протиповітряної оборони. Про це повідомив начальник Чернівецької ОВА Руслан Осипенко, пише С4. Унаслідок падіння уламків ворожого безпілотника пошкоджено житловий будинок у Чернівецькому районі. Загиблих і постраждалих немає. На місце події […]",
+    "2c341adf6e0ee90b": "У Чернівецькій області уламки дрона пошкодили будинок. Люди не постраждали.",
+    "c7e93d851abbc3a3": "На Буковині через падіння уламків ворожого БпЛА пошкоджено житловий будинок. Увечері 27 листопада під час ворожої атаки в повітряному просторі над Буковиною зафіксували три БпЛА.",
+    "b796715d811067ec": "Три ворожих БпЛА зафіксували над Буковиною: внаслідок обстрілу пошкоджений житловий будинок. Ввечері 27 листопада ворог атакував регіони України ударними безпілотниками.",
+    "6570c08341845d50": "У частині Харкова 30 листопада на дев'ять годин вимкнуть світло: перелік вулиць. У понеділок, 30 листопада, частина жителів Київського району Харкова залишиться без електроенергії з 09:00 до 18:00. Причина — ремонтні роботи на електромережах.",
+    "5f8e32ee2ac41aa3": "Світла не буде в одному з районів Харкова 30 листопада: адреси. У понеділок, 30 листопада, з 9:00 до 18:00 будуть знеструмлені споживачі частини Київського району Харкова....",
+    "5ff32de09503022e": "Адреси в Київському районі Харкова, де 30 листопада не буде світла. У понеділок, 30 листопада, з 09:00 до 18:00 через ремонтні роботи частина Київського району Харкова залишиться без світла.…",
+    "33e25ed15495ed37": "У частині Київського району Харкова 30 листопада відключать світло. 30 листопада частина споживачів Київського району Харкова залишиться без електропостачання через ремонтні роботи. Відключення триватиме з 09:00 до 18:00. Про це повідомили в АТ «Харківобленерго». Електропостачання тимчасово припинять за такими адресами.",
+    "45db21322fe8e94c": "У Київському районі Харкова 30 листопада відключать світло. Електропостачання тимчасово припинять через ремонтні роботи.",
+    "784ca13c2faee75a": "Російські війська за день атакували дві АЗС у Харкові. 27 листопада російські війська двічі атакували автозаправні станції у Харкові. Удари припали на Шевченківський та Київський райони міста",
+    "a8b870f6c1daf841": "У Харкові скажена собака покусала жінок, які її годували. У Холодногірському районі запроваджують карантинні обмеження.",
+    "a74312cc66cb9f3f": "ППО з вечора знешкодила 110 зі 155 російських дронів, які атакували Україну. Протиповітряна оборона знешкодила 110 безпілотників, якими російська армія атакувала Україну в ніч на 27 листопада. На 27 локаціях зафіксовані ворожі влучання.",
+    "7061c2fccfd09996": "Сили оборони збили та подавили 110 із 155 ворожих БпЛА, зафіксовано влучання на 27 локаціях – Повітряні сили. У ніч проти п'ятниці сили протиповітряної оборони збили та подавили 110 із 155 безпілотників різних типів, якими російські війська атакували Україну, повідомляють Повітряні сили ЗСУ в телеграм-каналі у п'ятницю вранці.",
+    "4a65b6ec29477dfd": "Уночі ворог атакував Україну 155 дронами. Є влучання в 27 місцях. Захисники збили більшість засобів ураження.",
+    "da9c1f6072d182be": "Повітряні сили повідомляють про влучання російських дронів у 27 локаціях протягом ночі. Сили ППО, додає командування, збили або подавили 110 російських безпілотників",
+    "03963ecf8f983bf4": "Сили ППО вночі знешкодили 110 російських безпілотників. Протиповітряна оборона знешкодила 110 безпілотників, якими російська армія атакувала Україну в ніч на 27 листопада. На 27 локаціях зафіксовані ворожі влучання. Про це повідомили Повітряні сили Збройних сил України. Із 18:00 четверга, 26 листопада, росіяни застосували 155 ударних безпілотників типу Shahed (83 з них – реактивні), «Гербера» та дрони-імітатори типу «Пародія». Пуски були здійснені з... Запис Сили ППО вночі знешкодили 110 російських безпілотників спершу з'явиться на Громадське радіо .",
+    "a33de21e4d792727": "Росія вночі випустила по Україні 155 безпілотників: скільки збила ППО. У ніч на 27 листопада росія атакувала Україну 155 безпілотниками, зокрема 83 реактивними Shahed. Сили ППО збили або подавили 110 ворожих дронів.",
+    "3a498cd0b74c54c5": "ППО знешкодила 110 російських дронів із 155 запущених. У ніч на 27 листопада (з 18:00 26 листопада) російські війська атакували Україну 155 ударними БПЛА типу “Shahed” (83 із них – реактивні), “Гербера”, дронами-імітаторами типу “Пародія”. Про це інформують Повітряні сили ЗСУ. Окупанти запускали дрони із напрямків Орела, Міллерова, Курська, Шаталова, Приморсько-Ахтарська (РФ) а також з ТОТ Донецька, ТОТ АР Крим – Гвардійське. Повітряний […] The post ППО знешкодила 110 російських дронів із 155 запущених first appeared on Новинарня .",
+    "95e5e0a099473f74": "Сили ППО знешкодили 110 зі 155 російських дронів. У ніч на 27 листопада (з 18:00 26 листопада) Росія атакувала Україну 155 ударними БпЛА типу Shahed (83 із них — реактивні), Гербера, дронами-імітаторами типу «Пародія»",
+    "55f6684b55d955cb": "У ніч на 27 листопада сили ППО знешкодили 110 зі 155 російських безпілотників. У ніч на 27 листопада російські війська атакували Україну 155 безпілотниками різних типів, зокрема 83 реактивними дронами Shahed. Сили протиповітряної оборони збили та подавили 110 ворожих безпілотників. Про це повідомили в Повітряних силах ЗСУ, пише С4. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи радіоелектронної боротьби та безпілотних систем, а також мобільні вогневі групи Сил оборони України. За […]",
+    "f9e8a2550e5d8173": "Уночі росіяни атакували Україну 155 дронами. У ніч проти 27 листопада росіяни атакували Україну 155 безпілотниками різних типів. Протиповітряна оборона знешкодила 110 ворожих дронів. Влучання зафіксували на 27 локаціях. За даними Повітряних сил ЗСУ, вночі 27 листопада у небі над Україною зафіксували 155 ударних БпЛА типу Shahed (83 із них – реактивні), Гербера, дронів-імітаторів типу “Пародія” із напрямків: Орел, Міллерово, Курськ, Шаталово, Приморсько-Ахтарськ – рф, ТОТ Донецьк, ТОТ АР Крим – Гвардійське. Повітряний напад відбивали авіація, зенітні ракетні війська, підрозділи РЕБ та безпілотних систем, мобільні вогневі групи.",
+    "728c0dfe734b881e": "Росія атакувала Україну 155 дронами, є влучання у 27 локаціях. Українська ППО знешкодила 110 цілей, проте уникнути влучань не вдалося.",
+    "a98e6e3d40360b78": "Над Україною збили 110 дронів, влучання були у 27 локацій. У ніч на п’ятницю, 27 листопада, російські окупанти атакували Україну 155 дронами. ППО знешкодила 110 із них, влучання були на 27 локаціях. Про це Львівському порталу повідомили у Повітряних Силах. З-поміж 155 ударних дронів 83 були реактивними. Всіх їх рашисти запустили із напрямків: Орел, Міллерово, Курськ, Шаталово, Приморсько-Ахтарськ (РФ), окупований Донецьк, Гвардійське (окупований Крим). Повітряний … Continue reading Над Україною збили 110 дронів, влучання були у 27 локацій →",
+    "51f80229dbc0035c": "ППО знищила 110 зі 155 дронів під час атаки України. У ніч на 27 листопада російські війська атакували Україну 155 безпілотниками різних типів. Протиповітряній обороні вдалося збити або подавити 110 ворожих цілей, серед яких понад пів сотні – реактивні ударні дрони.",
+    "83d940ff0189ddbf": "Армія рф атакувала Україну 155 БпЛА: сили ППО збили більшість цілей, однак є влучання на 27 локаціях. У ніч проти 27 листопада російські війська атакували Україну 155 ударними безпілотниками різних типів, серед яких 83 були реактивними. Сили протиповітряної оборони знешкодили 110 ворожі БпЛА. Про це повідомили Повітряні сили ЗСУ, передає Рубрика. Як розповіли військові, у ніч на 27 листопада (з 18:00 26 листопада) ворог атакував: 155 ударними БпЛА типу Shahed (83 із них – реактивні), […] The post Армія рф атакувала Україну 155 БпЛА: сили ППО збили більшість цілей, однак є влучання на 27 локаціях appeared first on Рубрика .",
+    "7d25c18e6f1d0bdd": "Про новий ворожий реактивний БпЛА попередив Флеш: подробиці (фото). Радник президента України Сергій «Флеш» Бескрестнов повідомив, що був помічений новий БпЛА РФ. «На фронтах...",
+    "b5727e2d4995d25b": "У частині областей у суботу діятимуть цілодобові графіки відключень світла. У частині областей України у суботу, 28 листопада, цілодобово діятимуть планові відключення електроенергії.",
+    "04f386f3c5538af6": "В Україні 28 листопада діятимуть графіки відключень. У суботу, 28 листопада, у частині областей України цілодобово діятимуть графіки погодинних відключень електроенергії обсягом від 1 до 3 черг. У Запорізькій та Дніпропетровській областях тривають аварійні знеструмлення.",
+    "9c52163c8a2e4308": "На Дніпропетровщині 28 листопада діятимуть погодинні графіки відключень світла. На Дніпропетровщині та у частині регіонів України 28 листопада діють обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
+    "d1ab4360ed3a0993": "На Дніпропетровщині тестують новий формат графіків відключень світла. ДТЕК Дніпровські електромережі тестує новий формат графіків відключень електроенергії для Дніпропетровської області. Він має допомогти мешканцям точніше розуміти, у які години буде світло. Коли запрацюють оновлені графіки, поки невідомо. Про це журналістам Dnipro.media повідомила речниця ДТЕК Наталі Магда. Як сказала речниця ДТЕК Наталія Магда у коментарі для Dnipro.media, через постійні атаки на енергетичну інфраструктуру ситуація […] The post На Дніпропетровщині тестують новий формат графіків відключень світла appeared first on Dnipro.media .",
+    "41f6364bdcdc4038": "Нове оновлення графіка ЦЕК на 28 листопада: зміни о 00:26. Для споживачів ЦЕК на Дніпропетровщині за розпорядженням НЕК «Укренерго» змінили графік погодинних відключень електроенергії на 28 листопада. Про це повідомили у ЦЕК. Відключення застосовуватимуть за таким графіком: Черга 1.1: 03:00–10:00, 13:30–20:30. Черга 1.2: 03:00–10:00, 13:30–20:30. Черга 2.1: 03:00–10:00, 13:30–20:30. Черга 2.2: 03:00–10:00, 13:30–20:30. Черга 3.1: 00:00–03:00, 06:30–13:30, 17:00–00:00. Черга 3.2: 00:00–03:00, 06:30–13:30, 17:00–00:00. Черга 4.1: […] The post Нове оновлення графіка ЦЕК на 28 листопада: зміни о 00:26 appeared first on Dnipro.media .",
+    "ae4999e679c6e90a": "У Херсонській громаді фіксують перебої з електрикою. У Херсонській громаді фіксуються перебої з електропостачанням. У зв’язку з цим можливі також перебої з водопостачанням. Про це повідомили у ХМВА. Фахівці зʼясовують причини, йдеться у дописі. “За потреби скористайтеся пунктами незламності, де можна зігрітися та підзарядити мобільні пристрої. Адресу найближчого пункту незламності можна дізнатися за номером Єдиного контакт-центру: 0800 101 102”, – зазначили у [...] Запис У Херсонській громаді фіксують перебої з електрикою спершу з'явиться на Мост .",
+    "78c771006831a715": "У Херсонській громаді фіксують перебої з електрикою і водою. У Херсонській громаді 27 листопада вчергове виникли перебої з електропостачанням. Це також може вплинути на подачу воду, повідомили в МВА",
+    "45860901dd1ddcf3": "У Херсонській громаді поступово відновлюють електропостачання після блекауту. У Херсонській громаді фіксуються перебої з електропостачанням. Попри небезпеку, фахівці працюють у посиленому режимі, й наразі електропостачання у громаді поступово відновлюється. Про це повідомляє Ярослав Шанько, голова Херсонської МВА. Однак зазначається, що через перевантаження мережі в окремих районах міста застосовуватимуть поетапні відключення залежно від рівня споживання. «Просимо ощадливо користуватися електроенергією та не вмикати одночасно потужні... The post У Херсонській громаді поступово відновлюють електропостачання після блекауту appeared first on IPC Південь .",
+    "0ff7346233863bd3": "У Херсоні поступово відновлюють електропостачання, але можливі поетапні відключення, – МВА. Електропостачання в Херсоні поступово відновлюють. Водночас через перевантаження мережі в окремих районах міста можливі поетапні відключення світла. Про це повідомили в Херсонській міській військовій адміністрації. Відключення залежатимуть від рівня споживання електроенергії. Жителів просять ощадливо користуватися світлом і не вмикати одночасно потужні побутові прилади. У разі потреби херсонці можуть скористатися пунктами незламності.",
+    "44c9dcc202063e3c": "У Херсоні відновлюють подачу електроенергії, можливі поетапні відключення. У Херсоні 27 листопада триває відновлення електропостачання. Водночас через перевантаження мережі в окремих районах міста можуть запроваджувати поетапні відключення світла.",
+    "eead47b65e6fdd3e": "У Херсоні відновили світло: в окремих районах діятимуть відключення. У Херсоні поступово відновлюють подачу електроенергії після ранкових перебоїв. Однак через перевантаження мережі в окремих районах міста застосовуватимуть поетапні відключення світла. Про це повідомив начальник Херсонської міської військової адміністрації Ярослав…",
+    "682c4df6f9dd9efb": "У Херсоні продовжуються перебої зі світлом. У Херсонській громаді 27 листопада продовжують фіксувати перебої зі світлом.",
+    "d215c65e71948e49": "Де у Херсонській громаді 26 листопада фіксували активність дронів. У Херсонській громаді 26 листопада 2026 року фіксували високу активність російських безпілотників. Найбільше – в мікрорайоні Корабел.",
+    "faa7d150fa242dc7": "Росія атакувала підприємство у Ніжині, є загиблі. Під завалами можуть бути люди. Загинули чоловік та жінка. Попередня кількість поранених – четверо осіб.",
+    "1c5575d6120d4714": "росіяни вдарили по підприємству на Чернігівщині. Є загиблі та поранені, під завалами можуть бути люди. ",
+    "70548e8983dc2b4b": "Удар по підприємству в Ніжині: 2 людей загинули, ще 4 поранені. Російські війська завдали удару по одному з підприємств у місті Ніжин Чернігівської області. Внаслідок атаки загинули чоловік та жінка, четверо людей поранені. Про це повідомив міський голова Ніжина Олександр Кодола. «Сьогодні внаслідок ворожої атаки по одному з підприємств міста загинули двоє людей – чоловік і жінка. Ще четверо людей отримали поранення. Наразі вони перебувають у... Запис Удар по підприємству в Ніжині: 2 людей загинули, ще 4 поранені спершу з'явиться на Громадське радіо .",
+    "ef9e929601f34306": "Росіяни вдарили по підприємству в Ніжині: є загиблі, під завалами шукають людей. У п'ятницю, 27 листопада, росіяни завдали удару по одному з підприємств у місті Ніжин Чернігівської області. Внаслідок атаки загинули чоловік та жінка, четверо людей поранені.",
+    "02d5cb828db7c2f7": "Троє загиблих та семеро поранених: наслідки атаки РФ на Ніжин. Внаслідок російської атаки по підприємству у Ніжині на Чернігівщині вдень 27 листопада троє людей загинули та ще семеро поранені. Про це повідомляє поліція Чернігівської області.",
+    "82abb3e188882dd4": "Росіяни атакували підприємство у Ніжині: кількість загиблих зросла до 3 людей. Російська атака на підприємство у Ніжині призвела до загибелі трьох людей, четверо госпіталізовані. Тривають пошукові роботи під завалами.",
+    "c126275ab2061314": "Удар РФ по Ніжину: кількість загиблих зросла до трьох, семеро людей поранені. У місті Ніжин Чернігівської області внаслідок російського удару по підприємству загинули троє людей, ще семеро поранені.",
+    "f6eebfcc199dff22": "Російський удар по підприємству в Ніжині: троє загиблих, семеро постраждалих. Російські агресори у п’ятницю, 27 листопада, атакували одне з підприємств у Ніжині Чернігівської області.",
+    "0d22bfccafe936a9": "Атака РФ по Ніжину: кількість загиблих зросла до трьох, ще семеро людей поранені. Російські війська вдень 27 листопада атакували підприємство в Ніжині Чернігівської області. Унаслідок удару загинули троє людей, ще семеро дістали поранення. Запис Атака РФ по Ніжину: кількість загиблих зросла до трьох, ще семеро людей поранені спершу з'явиться на Букви .",
+    "362bf639c3eb02e5": "У Ніжині росіяни атакували підприємство: троє загиблих. Удень російські війська завдали удару по підприємству у Ніжині на Чернігівщині. Внаслідок атаки на мирне населення троє людей загинули, семеро отримали поранення.",
+    "8b60bd72f7a708ef": "Росія атакувала Ніжин: є загиблі, під завалами можуть залишатися люди. ",
+    "14b66c26ae3f9573": "З’явилися фото наслідків удару росіян по Ніжину: там зросла кількість загиблих і поранених. Кількість загиблих унаслідок удару росіян по підприємству в Ніжині на Чернігівщині зросла до трьох, а поранених — до семи. Про це повідомила поліція Чернігівщини. «Сьогодні вдень ворог завдав удару по підприємству в Ніжині. Попередньо відомо про трьох загиблих, ще сім людей поранені», — сказано в повідомленні. Нині на місці події працює слідчо-оперативна група Ніжинського райуправління... Запис З’явилися фото наслідків удару росіян по Ніжину: там зросла кількість загиблих і поранених спершу з'явиться на Громадське радіо .",
+    "617a06b1daccb5f2": "У Ніжині 28 листопада оголосили Днем жалоби за загиблими від російської атаки. 28 листопада у Ніжині на Чернігівщині оголосили Днем жалоби за жителями міста, які загинули внаслідок російського удару 27 листопада 2026 року",
+    "ee6cc9147749a687": "У Кременчуці ворожий безпілотник пошкодив два заклади освіти: двоє дітей отримали травми (оновлено). 27 листопада у Кременчуці ворожий БпЛА пошкодив два заклади освіти в центральній частині міста.",
+    "055ba79ecaf0a785": "У Кременчуці через атаку російського дрона пошкоджені заклади освіти, травмовані двоє дітей. У Кременчуці Полтавської області внаслідок атаки російського безпілотника пошкоджені два заклади освіти, травми отримали двоє дітей.",
+    "356117fb0af2b833": "На Полтавщині внаслідок ворожого обстрілу травмувалися двоє дітей (ДОДАНО). У Кременчуці пошкоджені два заклади освіти. 27 листопада ворог обстріляв Кременчук. Начальник Полтавської обласної військової адміністрації Віталій Дяківнич повідомив, що... Запис На Полтавщині внаслідок ворожого обстрілу травмувалися двоє дітей (ДОДАНО) спершу з'явиться на Усі новини Полтави. Видання «Полтавська думка» .",
+    "a19b39b53f71588a": "Росіяни атакували два заклади освіти у центрі Кременчука, постраждали діти. Війська рф атакували центральну частину Кременчука Полтавської області. Під ударом опинилися два навчальні заклади, є постраждалі.",
+    "f75d6d03e0c27621": "Внаслідок атаки дрона в Кременчуці пошкоджено два заклади освіти – ОВА. Російський безпілотник атакував Кременчук, повідомив начальник Полтавської ОВА Віталій Дяківнич.",
+    "f6311328a71ab1da": "Росіяни атакували два заклади освіти в центрі Кременчука: поранені діти. Російські війська 27 листопада атакували Кременчук на Полтавщині: пошкодили два заклади освіти, 4 людей постраждали, серед них 3 дітей.",
+    "e72fc1b9e127250d": "У Кременчуці внаслідок обстрілу постраждали люди та заклади освіти. Про пошкодження закладів повідомили о 21:47. Спочатку було відомо про двох травмованих дітей віком 12 та 13 років. Їм надавали необхідну медичну допомогу",
+    "ce3a4efea0d298a6": "Внаслідок атаки дрона на Кременчук постраждали четверо людей, серед них троє дітей – ОВА. Внаслідок атаки російського безпілотника на Кременчук постраждали четверо людей, повідомив начальник Полтавської ОВА Віталій Дяківнич.",
+    "dd7610f17d6882ba": "росіяни вдарили по двох закладах освіти у центрі Кременчука — постраждали три дитини. ",
+    "9bf07d6ec1bf4a90": "РФ безпілотником атакувала Кременчук: четверо травмованих, серед них троє дітей. У Кременчуці Полтавської області внаслідок атаки російського безпілотника травмовані четверо людей, зокрема троє дітей. Також пошкоджено два заклади освіти в центральній частині міста. Запис РФ безпілотником атакувала Кременчук: четверо травмованих, серед них троє дітей спершу з'явиться на Букви .",
+    "9e0be453ca722dd3": "Російський дрон пошкодив два заклади освіти у Кременчуці: постраждали четверо людей, серед них троє дітей. Унаслідок російської атаки безпілотника на Кременчук пошкоджено два заклади освіти в центральній частині міста. Кількість постраждалих зросла до чотирьох осіб, серед них — троє дітей.",
+    "9c4ca75144306188": "Росіяни пошкодили два освітні заклади у Кременчуці, є травмовані діти (оновлено). На місці працюють екстрені служби.",
+    "824ce6792da2b1f7": "У Кременчуці після атаки РФ пошкоджені дві багатоповерхівки, є травмовані. У Кременчуці на Полтавщині 27 листопада внаслідок атаки РФ пошкоджені дві багатоповерхівки, вибиті вікна у квартирах. Травмувалися 55-річна жінка та 17-річна дівчина. Яку допомогу надають мешканцям",
+    "89993d229557c859": "На Полтавщині автомобіль збив 13-річну дівчинку. 26 листопада у селі Піщане Кременчуцького району збив 13-річну дівчинку на нерегульованому пішохідному переході. Про це повідомили у відділі комунікації поліції Полтавської області. За попередньою інформацією поліції, 67-річний водій автомобіля Opel Combo на нерегульованому пішохідному переході збив 13-річну підлітку, яка переходила дорогу. Унаслідок зіткнення дитина отримала тілесні ушкодження. Її госпіталізували. За цим фактом поліція вирішує [...] Запис На Полтавщині автомобіль збив 13-річну дівчинку спершу з'явиться на У Полтаві .",
+    "70f502c415b4bca8": "Відключення світла в Луцьку та області: актуальний графік на 28 листопада. 28 листопада в Луцьку та Волинській області будуть діяти графіки погодинного відключення світла для населення. Упродовж доби ситуація можу змінюватися",
+    "e2436c6215451732": "Після важких поранень помер Захисник з Волині. 25 листопада 2026 року у лікарні, внаслідок важких поранень, отриманих під час захисту Батьківщини, помер житель селища Колки — старший солдат Ярослав Зіновійович Камець (18.02.1972 р.н.). Про це повідомили на сторінці Колківської громади у «Фейсбук». Ярослав мужньо стояв на захисті рідної землі, служив старшим водієм зенітного ракетного взводу та до останнього подиху залишався вірним військовій […] The post Після важких поранень помер Захисник з Волині appeared first on Волинь Online .",
+    "c6994075cec2e811": "На Волині обговорили ментальне здоров’я працівників в умовах війни. Такою була тема круглого столу, що відбувся на Волині з ініціативи Федерації профспілок України та її обласного осередку. Участь у дискусії взяли голова обласної ради Григорій Недопад, т.в.о. начальника ОВА Роман Романюк, заступник Голови ФПУ Євген Драп’ятий, представники обʼєднання федерації роботодавців, Пенсійного фонду в області, Західного міжрегіонального управління Держпраці, обласного центру зайнятості, а також фахівці […] The post На Волині обговорили ментальне здоров’я працівників в умовах війни appeared first on Волинь Online .",
+    "92efeec05b06c987": "Відключення світла на Хмельниччині: повідомили графік на 28 листопада. Завтра, 28 листопада, на Хмельниччині буде діяти графік погодинних відключень світла. Крім того, для промислових споживачів функціонуватиме графік обмеження споживання електричної потужності",
+    "aced5ea982735323": "Графік відключень електроенергії у Хмельницькій області на 28 листопада. Тривалість обмежень залежить від підчерги.",
+    "4831a571e6f96ff6": "В Україні 28 листопада прогнозують мороз до -8°, сніг та ожеледицю на дорогах. У суботу, 28 листопада, в Україні буде хмарно з проясненнями. У більшості регіонів опадів не очікується, однак у південно-західній частині країни прогнозують мокрий сніг. Запис В Україні 28 листопада прогнозують мороз до -8°, сніг та ожеледицю на дорогах спершу з'явиться на Букви .",
+    "cf185fb78b24a89b": "Старокостянтинівській громаді повернули понад пів мільйона гривень за переплачену електроенергію. Кошти переплатили через незаконне підвищення вартості електроенергії для закладів освіти.",
+    "dd99618f349c7ec6": "Знайшли кулю в голові: військовий Денис Антонюк з Хмельницького після поранення вчився все робити наново. Після кульового поранення в голову Денис Антонюк із Хмельницького вчився все робити наново. Першим, кого впізнав, була вагітна дружина. Вона допомагала й у відновленні.",
+    "0bcebd537d5f8814": "На пунктах пропуску в п’яти областях закуплять мобільні укриття за майже 496 млн грн, – Корецький. Уряд спрямував 495,8 млн гривень на закупівлю укриттів для прикордонної інфраструктури.",
+    "575e1058537a6ed6": "Кабмін спрямував майже 500 млн гривень на закупівлю укриттів для пунктів пропуску. Уряд виділив 495,8 млн гривень на закупівлю мобільних укриттів для пунктів пропуску через держкордон.",
+    "9204f818a7befa63": "На кордоні п’яти областей встановлять мобільні укриття для працівників і людей, які перетинають кордон. Уряд виділив майже 496 млн грн. ",
+    "19466609bfe43575": "Кабмін виділив 495,8 млн грн на мобільні укриття для пунктів пропуску. Закупівлі здійснюватимуть служби відновлення в Одеській, Вінницькій, Чернівецькій, Закарпатській і Волинській областях",
+    "812fea36c6b390c8": "Кабмін спрямував 495,8 млн гривень на закупівлю мобільних укриттів для прикордонних КПП. За словами прем'єр-міністра Сергія Корецького, закупівлі мобільних укриттів проводять обласні служби відновлення в Одеській, Вінницькій, Чернівецькій, Закарпатській та Волинській областях",
+    "4e53921158babd46": "Для пунктів пропуску на Закарпатті закуплять мобільні укриття. Обласні служби відновлення закуплять мобільні укриття для п’яти регіонів.",
+    "1916426f61ec0eb0": "Графіки відключення електроенергії на Закарпатті 27 листопада. «Закарпаттяобленерго» оприлюднило графіки погодинних відключень електроенергії на 27 листопада.",
+    "06d19e28f9b3b6f2": "Графіки відключення світла на Закарпатті на 27 листопада. Валерія Рубаняк пт, 27/11/2026 - 09:08 У пʼятницю, 27 листопада, у Закарпатській області для споживачів запровадили графіки погодинних відключень електроенергії. Обмеження діятимуть протягом дня для усіх черг. Про це поінформували у «Закарпаттяобленерго». «Застосування графіків – вимушена міра після масових ракетно-дронових атак, які пошкодили енергетичну інфраструктуру країни. Графіки застосовуються виключно за вказівкою диспетчера НЕК «Укренерго», – йдеться у повідомленні. Перевірити, до якої черги належить ваш будинок, можна тут.",
+    "6cfcdeeefb8534d9": "Графік відключень світла на 28 листопада: в які години зникне електроенергія. Графіки відключень світла для Закарпаття можуть змінюватися залежно від ситуації в енергосистемі.",
+    "8c93df36453b1af0": "В Ужгороді попрощалися із полеглим 39-річним воїном Андрієм Літвіновим. Валерія Рубаняк пт, 27/11/2026 - 15:38 В Ужгороді у п'ятницю, 27 листопада, в останню дорогу провели полеглого захисника – 39-річного старшого солдата Андрія Літвінова. Військовий загинув під час боїв на Донеччині у лютому 2024 року. Понад два роки він вважався зниклим безвісти. Як розповіли в Ужгородській міській раді, Андрій Миколайович Літвінов народився 29 грудня 1984 року. На початку повномасштабного вторгнення, у перші дні березня 2022 року, він став на захист України. Служив старшим стрільцем-оператором військової частини А7089.",
+    "4037baebc6e8fbcb": "В Ужгороді попрощалися із полеглим захисником Андрієм Літвіновим. В Ужгороді попрощалися із 39-річним військовослужбовцем Андрія Літвіновим, який загинув 17 лютого 2024 року під час виконання бойового завдання поблизу Авдіївки на Донеччині"
+  },
+  "budget_characters": 1861,
+  "characters": 1597,
+  "stories": 3,
+  "retold": 3,
+  "log": {
+    "llm": {
+      "model": "claude-opus-5-5",
+      "input_tokens": 22952,
+      "output_tokens": 2466,
+      "request_id": "req_011ChUpKcwN5o4mLFQFLxndo"
+    },
+    "rejected": [],
+    "fallback": [],
+    "left_out": [
+      "national-c-1fcf3a7b8778579c",
+      "national-c-74dcd9b3c7f3e6e1",
+      "national-c-2c341adf6e0ee90b",
+      "regional-c-33e25ed15495ed37",
+      "regional-c-03963ecf8f983bf4",
+      "regional-c-0ff7346233863bd3"
+    ],
+    "freshened": [],
+    "strikes_digest": {
+      "merged": true,
+      "stories": 5,
+      "killed": 5,
+      "injured": 36,
+      "apart": [
+        "national-c-1947b11ac1cecf92"
+      ]
+    },
+    "cut_for_budget": []
+  },
+  "script_sha256": "b7a1fe0dd2d7988fac73c9b74ed03834ad6e0ce045d0b1366e7fc348d23c2f2f",
+  "script_text": "Це BRIEF. Головне за добу станом на ранок суботи двадцять восьмого листопада: наслідки ударів по Керченському мосту для російської логістики, відключення світла та наслідки російських атак.\nЧерез пошкодження Керченського мосту російська логістика на окупованій частині Запорізької області перевантажена.\nПро це повідомили в АТЕШ.\nЗа їхніми даними, росіяни перекинули постачання на трасу Р-280 через Бердянськ і Мелітополь.\nЦей міст Росія незаконно збудувала після окупації Криму.\nП'ятеро людей поранені внаслідок атак дронів на Дніпропетровщині в ніч проти 28 листопада, серед них підліток.\nПід ударами були Дніпро та ще три райони області.\nПошкоджені підприємства.\nКрім того, унаслідок інших російських ударів за добу в Україні загинули щонайменше 5 людей, ще щонайменше 36 людей поранено.\nНайбільше постраждалих на Чернігівщині та Житомирщині.\nУ суботу, 28 листопада, у частині областей цілодобово діють графіки відключень світла обсягом від 1 до 3 черг.\nТроє людей загинули внаслідок російського удару по підприємству в Ніжині на Чернігівщині 27 листопада.\nОдна людина загинула внаслідок російського удару по цивільному підприємству в Малинській громаді на Житомирщині 27 листопада.\nЦе був BRIEF станом на ранок суботи двадцять восьмого листопада. Посилання на першоджерела — на сайті BRIEF."
+}
